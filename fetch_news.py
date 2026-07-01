@@ -1,6 +1,7 @@
 import os
 import requests
 import json
+import time
 from datetime import datetime
 
 # Media Distribution Settings
@@ -12,7 +13,7 @@ MAJOR_KEYWORDS = ["crash", "fed", "acquisition", "rates", "collapse", "billion",
 GNEWS_API_KEY = os.environ.get("NEWS_API_KEY")
 
 def load_existing_database():
-    """Loads previous records to prevent wiping historical archives during the 20-min cycle"""
+    """Loads previous records to prevent wiping historical archives during the cycle"""
     if os.path.exists("news.json"):
         try:
             with open("news.json", "r", encoding="utf-8") as f:
@@ -34,10 +35,10 @@ def fetch_category_stream(category):
         response = requests.get(url, timeout=15)
         if response.status_code == 200:
             return response.json().get("articles", [])
-        print(f"API Mirror returned code: {response.status_code} for category {category}")
+        print(f"⚠️ API Mirror returned status code {response.status_code} for category: [{category.upper()}]")
         return []
     except Exception as e:
-        print(f"Failed to establish API handshake link: {e}")
+        print(f"❌ Failed to establish API handshake link for {category}: {e}")
         return []
 
 def main():
@@ -47,13 +48,18 @@ def main():
 
     db = load_existing_database()
     
-    # 🌟 FIX: Force 'db["en"]' to be a dictionary if it detects an old flat list format
+    # Force 'db["en"]' to be a dictionary if it detects an old flat list format
     if "en" not in db or not isinstance(db["en"], dict):
         db["en"] = {}
 
     total_new_ingested = 0
 
-    for cat in CATEGORIES:
+    for idx, cat in enumerate(CATEGORIES):
+        # Introduce a 2-second structural spacing delay between categories to prevent API rate limit rejection
+        if idx > 0:
+            print("Pacing API connection... holding for 2 seconds.")
+            time.sleep(2)
+
         if cat not in db["en"]:
             db["en"][cat] = []
 
