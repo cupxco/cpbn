@@ -9,7 +9,6 @@ CATEGORIES = ["business", "technology", "world"]
 # Major high-volatility financial keywords to parse for breaking alerts
 MAJOR_KEYWORDS = ["crash", "fed", "acquisition", "rates", "collapse", "billion", "stocks", "breaking", "inflation", "apple", "nvidia", "crypto", "AI", "Cybersecurity", "Semiconductors", "Tariff", "Inflation", "Cryptocurrency", "Budget", "Interest Rate", "Iran", "Israel", "Ukraine", "China", "Taiwan", "US", "Election", "Climate", "Earthquake", "Wildfire", "Flood"]
 
-
 GNEWS_API_KEY = os.environ.get("NEWS_API_KEY")
 
 def load_existing_database():
@@ -47,7 +46,9 @@ def main():
         return
 
     db = load_existing_database()
-    if "en" not in db:
+    
+    # 🌟 FIX: Force 'db["en"]' to be a dictionary if it detects an old flat list format
+    if "en" not in db or not isinstance(db["en"], dict):
         db["en"] = {}
 
     total_new_ingested = 0
