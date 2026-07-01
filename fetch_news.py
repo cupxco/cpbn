@@ -7,7 +7,8 @@ from datetime import datetime
 CHANNEL = "CPBN"
 CATEGORIES = ["business", "technology", "world"]
 # Major high-volatility financial keywords to parse for breaking alerts
-MAJOR_KEYWORDS = ["crash", "fed", "acquisition", "rates", "collapse", "billion", "stocks", "breaking", "inflation", "apple", "nvidia", "crypto"]
+MAJOR_KEYWORDS = ["crash", "fed", "acquisition", "rates", "collapse", "billion", "stocks", "breaking", "inflation", "apple", "nvidia", "crypto", "AI", "Cybersecurity", "Semiconductors", "Tariff", "Inflation", "Cryptocurrency", "Budget", "Interest Rate", "Iran", "Israel", "Ukraine", "China", "Taiwan", "US", "Election", "Climate", "Earthquake", "Wildfire", "Flood"]
+
 
 GNEWS_API_KEY = os.environ.get("NEWS_API_KEY")
 
