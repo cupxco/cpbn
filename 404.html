@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Page Not Found | CPBN</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <style>
+        @keyframes marquee { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
+        .ticker-move { animation: marquee 25s linear infinite; }
+        /* Matches your exact branding constraints */
+        * { border-radius: 0px !important; }
+    </style>
+</head>
+<body class="bg-[#f5f5f5] text-[#222222] font-sans antialiased flex flex-col min-h-screen">
+
+    <div class="bg-[#0b172a] text-slate-400 text-[11px] font-mono py-1 px-4 border-b border-slate-800 flex justify-between items-center">
+        <div class="flex items-center gap-4">
+            <span class="text-white font-bold tracking-wider text-[10px]">ISBC DIGITAL NETWORK</span>
+            <span class="hidden md:inline text-slate-500">|</span>
+            <span class="hidden md:inline text-amber-500 font-bold">⚠️ HTTP/1.1 404 UNRESOLVED ROUTE</span>
+        </div>
+        <div class="flex items-center gap-3 text-slate-300">
+            <span class="inline-block w-2 h-2 rounded-full bg-red-500 animate-ping"></span>
+            <span class="text-[10px] font-bold text-red-400">DISCONNECTED</span>
+        </div>
+    </div>
+
+    <header class="bg-[#012466] text-white py-4 px-6 border-b-4 border-[#ffb500] shadow-md">
+        <div class="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+            <div class="flex items-baseline gap-3">
+                <a href="/" class="text-4xl font-black tracking-tighter text-white font-serif hover:opacity-90 transition">CPBN</a>
+                <div class="h-6 w-[2px] bg-white/30 hidden sm:block"></div>
+                <p class="text-xs font-bold uppercase tracking-widest text-[#ffb500]">International Business</p>
+            </div>
+            <nav class="hidden lg:flex gap-6 text-xs font-bold uppercase tracking-wider text-slate-200">
+                <a href="/" class="hover:text-[#ffb500] transition">Markets</a>
+                <a href="/" class="hover:text-[#ffb500] transition">Business</a>
+                <a href="/" class="hover:text-[#ffb500] transition">Investing</a>
+                <a href="/" class="hover:text-[#ffb500] transition">Tech</a>
+                <a href="/" class="hover:text-[#ffb500] transition">Economy</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="bg-white border-b border-slate-200 text-xs py-2 flex items-center overflow-hidden font-bold">
+        <div class="bg-[#cc0000] text-white px-4 py-0.5 text-[10px] font-black uppercase tracking-wider z-10 shadow-md whitespace-nowrap ml-2">SYSTEM ERROR</div>
+        <div class="w-full relative overflow-hidden h-4">
+            <div class="ticker-move inline-block absolute pl-[100%] text-red-600 font-mono text-[11px]">
+                ERR_REQUESTED_URL_NOT_FOUND ••• RE-ROUTING TO PRIMARY TERMINAL RECOMMENDED ••• CHECK LOCAL CONNECTION PARAMS •••
+            </div>
+        </div>
+    </div>
+
+    <main class="flex-grow max-w-3xl w-full mx-auto px-4 py-16 flex flex-col justify-center items-center text-center">
+        
+        <div class="bg-white border border-slate-200 p-8 shadow-sm w-full relative">
+            <div class="absolute top-0 left-0 right-0 h-1 bg-[#012466]"></div>
+            
+            <div class="font-mono text-xs text-slate-400 mb-2 uppercase tracking-widest">Transmission Interrupted</div>
+            <h2 class="text-7xl font-black tracking-tight text-[#012466] mb-4 font-serif">404</h2>
+            <h3 class="text-xl font-bold text-slate-900 mb-4 uppercase tracking-wide border-b border-slate-100 pb-4">Index Data Feed Unresolved</h3>
+            
+            <p class="text-slate-600 text-sm leading-relaxed mb-8 max-w-lg mx-auto">
+                The requested headline, market report, or wire sequence cannot be located within the active CPBN clearing network database. The content may have been archived or repositioned.
+            </p>
+
+            <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
+                <a href="/" class="bg-[#012466] hover:bg-[#001c52] text-white text-xs font-bold px-6 py-3 tracking-wider uppercase transition w-full sm:w-auto shadow-sm">
+                    Return to Live Desk
+                </a>
+                <button onclick="window.history.back()" class="border border-slate-300 hover:border-slate-400 bg-slate-50 text-slate-700 text-xs font-bold px-6 py-3 tracking-wider uppercase transition w-full sm:w-auto">
+                    Previous Wire Reference
+                </button>
+            </div>
+        </div>
+
+        <div class="w-full mt-6 bg-slate-200/60 border border-slate-300/60 p-3 text-left font-mono text-[10px] text-slate-500 space-y-1">
+            <div>[DIAGNOSTIC BLOCK ID: CORE-ROUTE-FAIL-2026]</div>
+            <div id="diagnostic-log">Timestamp: Loading live epoch...</div>
+        </div>
+    </main>
+
+    <footer class="bg-[#0b172a] text-slate-400 text-xs py-8 px-6 border-t border-slate-800">
+        <div class="max-w-7xl mx-auto text-center space-y-4">
+            <div class="text-sm font-bold text-slate-200 tracking-tight">INDIAN SUBCONTINENT BROADCASTING CORPORATION (<span class="text-[#ffb500]">ISBC</span>)</div>
+            <p class="max-w-4xl mx-auto text-[11px] text-slate-500 leading-relaxed">
+                <strong class="text-amber-500/80 uppercase">Portfolio Notice:</strong> This digital framework is an automated static architecture concept compiled exclusively as a Computer Science portfolio project. It is non-commercial and does not represent an active news broadcast network.
+            </p>
+            <div class="text-[10px] text-slate-600 font-mono">Build Architecture Ref: CPBN-V2-STABLE (2026)</div>
+        </div>
+    </footer>
+
+    <script>
+        // Dynamically stamp the active UTC clock cycle onto the diagnostic trace matrix
+        window.onload = function() {
+            const timeSpan = document.getElementById('diagnostic-log');
+            if(timeSpan) {
+                const now = new Date();
+                timeSpan.innerText = `Trace: ${now.toISOString().replace('T', ' ').substring(0, 19)} UTC // Client Target: ${window.location.pathname}`;
+            }
+        }
+    </script>
+</body>
+</html>
