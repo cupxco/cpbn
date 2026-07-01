@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CPBN | International Business & Market Terminal</title>
+    <!-- Brand Favicon Integration -->
+    <link rel="icon" type="image/png" href="favicon.png">
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <style>
         @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
         .cnbc-ticker-move { animation: ticker 40s linear infinite; }
         * { border-radius: 0px !important; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
-        /* Style for scrollbar inside the right vertical rail */
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-track { background: #f1f1f1; }
         ::-webkit-scrollbar-thumb { background: #012466; }
@@ -32,15 +33,13 @@
     </div>
 
     <!-- MAIN STRATEGIC BRAND ARCHITECTURE PANEL -->
-    <header class="bg-[#012466] text-white px-4 lg:px-8 py-5 border-b-4 border-[#ffb500] shadow-xl">
+    <header class="bg-[#012466] text-white px-4 lg:px-8 py-4 border-b-4 border-[#ffb500] shadow-xl">
         <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
             
-            <!-- Custom Integrated SVG Logo Matrix representing high-end financial institutions -->
-            <div class="flex items-center gap-4 cursor-pointer" onclick="window.location.hash='#business'">
-                <div class="bg-[#ffb500] p-2 text-[#012466] font-black tracking-tighter text-3xl flex items-center justify-center select-none shadow-md">
-                    <svg class="w-8 h-8 fill-current" viewBox="0 0 24 24">
-                        <path d="M2 22h20V2H2v20zm2-18h16v3H4V4zm0 5h16v11H4V9zm2 2v7h3v-7H6zm5 0v7h3v-7h-3zm5 0v7h3v-7h-3z"/>
-                    </svg>
+            <!-- Real Estate Logo block containing verified corporate image file assets -->
+            <div class="flex items-center gap-4 cursor-pointer select-none" onclick="window.location.hash='#business'">
+                <div class="bg-white p-1 border border-slate-300 shadow-md flex items-center justify-center bg-cover">
+                    <img src="CPBN-logo.png" alt="CPBN Logo Emblem" class="h-12 w-12 object-contain">
                 </div>
                 <div>
                     <h1 class="text-3xl font-black tracking-tight text-white leading-none font-serif">CPBN</h1>
@@ -61,7 +60,7 @@
         </div>
     </div>
 
-    <!-- CRITICAL SYSTEM ALERT ANCHOR PANEL (Appears if major geopolitical alert flags trigger) -->
+    <!-- CRITICAL SYSTEM ALERT ANCHOR PANEL -->
     <div id="priority-banner" class="hidden bg-gradient-to-r from-[#cc0000] to-[#7a0000] text-white px-6 py-3 font-bold text-xs shadow-inner flex items-center justify-between border-b border-red-900">
         <div class="flex items-center gap-3">
             <span class="bg-white text-[#cc0000] px-2 py-0.5 text-[9px] font-black tracking-widest">CRITICAL DISPATCH</span>
@@ -130,7 +129,7 @@
     <!-- INTERFACE ROUTING ENGINE SCRIPT -->
     <script>
         let rawDatabase = {};
-        let activeTrack = "business"; // Fallback default track configuration matrix
+        let activeTrack = "business"; 
         const trackTabs = ["business", "technology", "world"];
 
         async function launchCoreSystem() {
@@ -143,7 +142,6 @@
                     document.getElementById('sync-clock').innerText = `LAST SYNC RUN: ${parsedDate.toLocaleTimeString()} (${parsedDate.toLocaleDateString()})`;
                 }
                 
-                // Read query hash variables to allow instant routing states
                 if(window.location.hash && trackTabs.includes(window.location.hash.replace('#',''))) {
                     activeTrack = window.location.hash.replace('#','');
                 } else {
@@ -154,10 +152,7 @@
                 renderTerminalWorkspace();
             } catch(e) {
                 console.error("System critical crash processing JSON assets: ", e);
-                document.getElementById('terminal-grid').innerHTML = `
-                    <div class="col-span-full bg-red-950/20 border border-red-900 text-red-400 p-4 font-mono text-xs">
-                        ⚠️ INFRASTRUCTURE RECORD MISSING: Run your automated GitHub Actions compilation script to generate news.json records into your repository branches.
-                    </div>`;
+                renderEmptyPlaceholderState();
             }
         }
 
@@ -179,6 +174,18 @@
             });
         }
 
+        function renderEmptyPlaceholderState() {
+            document.getElementById('terminal-spotlight').innerHTML = `
+                <div class='p-8 text-xs font-mono text-slate-500 bg-white border border-dashed border-slate-300 w-full text-center my-4'>
+                    ⚠️ FEED ARCHIVE VACANT: The data track [${activeTrack.toUpperCase()}] is initialized but contains no entries yet. Run your automated GitHub Actions compilation script to fetch latest updates.
+                </div>`;
+            document.getElementById('vertical-wire-stream').innerHTML = "<div class='text-[11px] text-slate-400 p-2 font-mono'>No active logging vectors.</div>";
+            document.getElementById('terminal-grid').innerHTML = "";
+            document.getElementById('wire-count').innerText = "0 ACTIVE FEEDS";
+            document.getElementById('ledger-volume-metrics').innerText = "Index logs empty";
+            document.getElementById('ticker-carrier').innerText = `CPBN NETWORK WATCH: Track [${activeTrack.toUpperCase()}] is waiting for operational data pipeline syncing streams...`;
+        }
+
         function renderTerminalWorkspace() {
             const dataPool = (rawDatabase.en && rawDatabase.en[activeTrack]) ? rawDatabase.en[activeTrack] : [];
             
@@ -190,9 +197,7 @@
             document.getElementById('grid-header-title').innerText = `${activeTrack} Data Ledger Index`;
 
             if(dataPool.length === 0) {
-                spotlightContainer.innerHTML = "<div class='p-8 text-xs font-mono text-slate-400'>Awaiting data feed initialization tasks...</div>";
-                wireContainer.innerHTML = "";
-                gridContainer.innerHTML = "";
+                renderEmptyPlaceholderState();
                 return;
             }
 
@@ -291,7 +296,6 @@
             document.getElementById('terminal-modal').classList.add('hidden');
         }
 
-        // Keep system hash listeners mapping clean dynamically when users press browser back keys
         window.onhashchange = () => {
             const currentHash = window.location.hash.replace('#','');
             if(trackTabs.includes(currentHash) && currentHash !== activeTrack) {
