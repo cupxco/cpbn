@@ -3,213 +3,305 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CPBN | Business News Leader</title>
+    <title>CPBN | International Business & Market Terminal</title>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <style>
-        @keyframes marquee { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
-        .ticker-move { animation: marquee 35s linear infinite; }
-        /* CNBC utilizes sharp edges and tight branding spacing */
-        * { border-radius: 0px !important; }
+        @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
+        .cnbc-ticker-move { animation: ticker 40s linear infinite; }
+        * { border-radius: 0px !important; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+        /* Style for scrollbar inside the right vertical rail */
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #012466; }
     </style>
 </head>
-<body class="bg-[#f5f5f5] text-[#222222] font-sans antialiased flex flex-col min-h-screen">
+<body class="bg-[#f9f9f9] text-[#111111] antialiased min-h-screen flex flex-col">
 
-    <div class="bg-[#0b172a] text-slate-400 text-[11px] font-mono py-1 px-4 border-b border-slate-800 flex justify-between items-center">
+    <!-- TOP TELEMETRY TRACK TAPE -->
+    <div class="bg-[#071120] border-b border-[#1a2e4c] text-slate-400 text-[10px] px-4 py-1.5 flex justify-between items-center font-mono tracking-tight">
         <div class="flex items-center gap-4">
-            <span class="text-white font-bold tracking-wider text-[10px]">ISBC DIGITAL NETWORK</span>
-            <span class="hidden md:inline text-slate-500">|</span>
-            <span class="hidden md:inline" id="live-timestamp">Markets Stream Active</span>
+            <span class="text-[#ffb500] font-black">CPBN SATELLITE CORE</span>
+            <span>DATASETS: 200+ ACTIVE ARCHIVES</span>
+            <span class="hidden md:inline text-slate-600">|</span>
+            <span class="hidden md:inline" id="sync-clock">SYNC STATUS: PROCESSING FEED...</span>
         </div>
-        <div class="flex items-center gap-3 text-slate-300">
-            <span class="inline-block w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-            <span class="text-[10px] font-bold">CPBN LIVE</span>
+        <div class="flex items-center gap-2 text-white">
+            <span class="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-ping"></span>
+            <span class="font-bold text-[9px] tracking-widest uppercase">REALTIME FEED LIVE</span>
         </div>
     </div>
 
-    <header class="bg-[#012466] text-white py-4 px-6 border-b-4 border-[#ffb500] shadow-md">
-        <div class="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
-            <div class="flex items-baseline gap-3">
-                <h1 class="text-4xl font-black tracking-tighter text-white font-serif">CPBN</h1>
-                <div class="h-6 w-[2px] bg-white/30 hidden sm:block"></div>
-                <p class="text-xs font-bold uppercase tracking-widest text-[#ffb500]">International Business</p>
+    <!-- MAIN STRATEGIC BRAND ARCHITECTURE PANEL -->
+    <header class="bg-[#012466] text-white px-4 lg:px-8 py-5 border-b-4 border-[#ffb500] shadow-xl">
+        <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
+            
+            <!-- Custom Integrated SVG Logo Matrix representing high-end financial institutions -->
+            <div class="flex items-center gap-4 cursor-pointer" onclick="window.location.hash='#business'">
+                <div class="bg-[#ffb500] p-2 text-[#012466] font-black tracking-tighter text-3xl flex items-center justify-center select-none shadow-md">
+                    <svg class="w-8 h-8 fill-current" viewBox="0 0 24 24">
+                        <path d="M2 22h20V2H2v20zm2-18h16v3H4V4zm0 5h16v11H4V9zm2 2v7h3v-7H6zm5 0v7h3v-7h-3zm5 0v7h3v-7h-3z"/>
+                    </svg>
+                </div>
+                <div>
+                    <h1 class="text-3xl font-black tracking-tight text-white leading-none font-serif">CPBN</h1>
+                    <span class="text-[9px] font-black tracking-widest text-[#ffb500] uppercase block mt-1">International Business Terminal</span>
+                </div>
             </div>
-            <nav class="hidden lg:flex gap-6 text-xs font-bold uppercase tracking-wider text-slate-200">
-                <a href="#" class="hover:text-[#ffb500] transition">Markets</a>
-                <a href="#" class="hover:text-[#ffb500] transition">Business</a>
-                <a href="#" class="hover:text-[#ffb500] transition">Investing</a>
-                <a href="#" class="hover:text-[#ffb500] transition">Tech</a>
-                <a href="#" class="hover:text-[#ffb500] transition">Economy</a>
-            </nav>
+
+            <!-- DYNAMIC TABBED NAVIGATION SWITCH MATRICES -->
+            <nav id="category-tabs" class="flex flex-wrap gap-1 sm:gap-2 text-xs font-black uppercase tracking-wider"></nav>
         </div>
     </header>
 
-    <div class="bg-white border-b border-slate-200 text-xs py-2 flex items-center overflow-hidden font-bold">
-        <div class="bg-[#cc0000] text-white px-4 py-0.5 text-[10px] font-black uppercase tracking-wider z-10 shadow-md whitespace-nowrap ml-2">DATA STREAM</div>
+    <!-- LIVE BROADCAST RUNNER TAPE -->
+    <div class="bg-white border-b border-slate-200 py-2.5 flex items-center overflow-hidden shadow-xs">
+        <div class="bg-[#cc0000] text-white text-[10px] font-black tracking-widest px-4 py-0.5 ml-4 z-20 shadow-md whitespace-nowrap">MARKET ALERT WIRE</div>
         <div class="w-full relative overflow-hidden h-4">
-            <div id="cnbc-ticker" class="ticker-move inline-block absolute pl-[100%] text-slate-700 font-mono text-[11px]">Loading international exchange composite feeds...</div>
+            <div id="ticker-carrier" class="cnbc-ticker-move inline-block absolute pl-[100%] font-mono text-xs font-bold text-slate-800 uppercase">Connecting data pipeline streams...</div>
         </div>
     </div>
 
-    <main class="flex-grow max-w-7xl w-full mx-auto px-4 lg:px-6 py-6">
+    <!-- CRITICAL SYSTEM ALERT ANCHOR PANEL (Appears if major geopolitical alert flags trigger) -->
+    <div id="priority-banner" class="hidden bg-gradient-to-r from-[#cc0000] to-[#7a0000] text-white px-6 py-3 font-bold text-xs shadow-inner flex items-center justify-between border-b border-red-900">
+        <div class="flex items-center gap-3">
+            <span class="bg-white text-[#cc0000] px-2 py-0.5 text-[9px] font-black tracking-widest">CRITICAL DISPATCH</span>
+            <span id="priority-banner-title" class="tracking-tight line-clamp-1"></span>
+        </div>
+        <button onclick="document.getElementById('priority-banner').classList.add('hidden')" class="text-white/70 hover:text-white font-mono text-sm">&times;</button>
+    </div>
+
+    <!-- MAIN NEWSROOM INTERFACE GRID MODULE -->
+    <main class="flex-grow max-w-7xl w-full mx-auto px-4 lg:px-6 py-8">
         
+        <!-- SECTION 1: DUAL CHANNEL TERMINAL HUB -->
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 mb-12">
             
-            <section id="cnbc-hero-slot" class="lg:col-span-8 flex flex-col bg-white border border-slate-200 shadow-sm hover:shadow-md transition cursor-pointer"></section>
+            <!-- Left Side: Interactive Main Story Showcase -->
+            <section id="terminal-spotlight" class="lg:col-span-8 flex flex-col bg-white border border-slate-200 shadow-xs hover:shadow-md transition cursor-pointer"></section>
             
-            <section class="lg:col-span-4 bg-white border border-slate-200 p-4 flex flex-col h-[520px]">
+            <!-- Right Side: Vertical Live Wire Rail -->
+            <section class="lg:col-span-4 bg-white border border-slate-200 p-4 flex flex-col h-[560px]">
                 <div class="flex items-center justify-between border-b-2 border-[#012466] pb-2 mb-3">
-                    <h3 class="text-sm font-black uppercase tracking-wider text-[#012466]">Latest Business Wire</h3>
-                    <span class="text-[10px] font-mono text-slate-400 bg-slate-100 px-2 py-0.5 font-bold">REALTIME</span>
+                    <h3 class="text-xs font-black uppercase tracking-widest text-[#012466]">Realtime Wire Log</h3>
+                    <span id="wire-count" class="text-[9px] font-mono font-bold bg-slate-100 text-slate-600 px-2 py-0.5">0 ACTIVE FEEDS</span>
                 </div>
-                <div id="cnbc-wire-rail" class="flex-grow overflow-y-auto divide-y divide-slate-100 pr-1 space-y-3"></div>
+                <div id="vertical-wire-stream" class="flex-grow overflow-y-auto divide-y divide-slate-100 pr-2 space-y-3.5"></div>
             </section>
         </div>
 
-        <div class="border-t-4 border-slate-800 pt-3 mb-4">
-            <h3 class="text-xs font-black uppercase tracking-widest text-slate-500">Marketplace Headlines & Analysis</h3>
+        <!-- SECTION 2: ARCHIVE ARCHITECTURE FLOW MATRIX -->
+        <div class="border-b-2 border-slate-800 pb-1.5 mb-6 flex justify-between items-end">
+            <h3 id="grid-header-title" class="text-xs font-black uppercase tracking-widest text-slate-500">Historical Data Ledger</h3>
+            <span class="text-[10px] text-slate-400 font-mono" id="ledger-volume-metrics">Showing index data frames</span>
         </div>
-        <section id="cnbc-grid-slot" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"></section>
+        
+        <section id="terminal-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"></section>
     </main>
 
-    <div id="cnbc-modal" class="hidden fixed inset-0 bg-slate-900/70 backdrop-blur-xs flex items-center justify-center p-4 z-50">
+    <!-- SYSTEM EXPANSION DETAILED DRAW DISPLAY MODAL -->
+    <div id="terminal-modal" class="hidden fixed inset-0 bg-slate-950/80 backdrop-blur-xs flex items-center justify-center p-4 z-50">
         <div class="bg-white border-t-8 border-[#012466] max-w-2xl w-full shadow-2xl p-6 relative flex flex-col">
-            <button onclick="closeCNBCModal()" class="absolute top-4 right-4 text-slate-400 hover:text-black text-3xl font-light leading-none">&times;</button>
-            <img id="modal-graphic" class="w-full h-64 object-cover mb-4 border border-slate-200" src="" alt="Cover Photo">
+            <button onclick="hideTerminalModal()" class="absolute top-4 right-4 text-slate-400 hover:text-black text-3xl font-light leading-none">&times;</button>
+            <img id="modal-img" class="w-full h-64 object-cover mb-4 border border-slate-200" src="" alt="Data Frame Image">
             <div class="flex items-center gap-2 mb-2">
-                <span id="modal-provider" class="text-[10px] font-black uppercase bg-[#012466] text-white px-2 py-0.5 tracking-wider"></span>
-                <span id="modal-timestamp" class="text-[10px] font-mono text-slate-400"></span>
+                <span id="modal-badge" class="text-[9px] font-black uppercase bg-[#012466] text-white px-2 py-0.5 tracking-wider"></span>
+                <span id="modal-time" class="text-[10px] font-mono text-slate-400"></span>
             </div>
-            <h2 id="modal-heading" class="text-2xl font-bold tracking-tight text-slate-900 mb-3"></h2>
-            <p id="modal-body" class="text-slate-600 text-sm leading-relaxed mb-6 border-l-2 border-slate-300 pl-3"></p>
+            <h2 id="modal-title" class="text-xl sm:text-2xl font-bold tracking-tight text-slate-900 mb-3"></h2>
+            <p id="modal-desc" class="text-slate-600 text-sm leading-relaxed mb-6 border-l-2 border-slate-300 pl-3"></p>
             <div class="flex justify-between items-center pt-4 border-t border-slate-100">
-                <a id="modal-external-link" target="_blank" class="bg-[#012466] hover:bg-[#001c52] text-white text-xs font-bold px-5 py-3 tracking-wider uppercase transition" href="#">Read Full Original Report</a>
-                <button onclick="closeCNBCModal()" class="text-xs font-bold text-slate-400 hover:text-slate-600 uppercase tracking-wider">Dismiss</button>
+                <a id="modal-anchor" target="_blank" class="bg-[#012466] hover:bg-[#001c52] text-white text-xs font-bold px-5 py-3 tracking-wider uppercase transition" href="#">Authenticate Full Original Wire Service</a>
+                <button onclick="hideTerminalModal()" class="text-xs font-bold text-slate-400 hover:text-slate-600 uppercase tracking-wider">Dismiss</button>
             </div>
         </div>
     </div>
 
-    <footer class="bg-[#0b172a] text-slate-400 text-xs py-8 px-6 border-t border-slate-800 mt-12">
+    <!-- LEGAL DISCLOSURE ARCHITECTURE -->
+    <footer class="bg-[#071120] text-slate-500 text-[11px] py-10 px-6 border-t border-[#12223a] mt-16">
         <div class="max-w-7xl mx-auto text-center space-y-4">
-            <div class="text-sm font-bold text-slate-200 tracking-tight">INDIAN SUBCONTINENT BROADCASTING CORPORATION (<span class="text-[#ffb500]">ISBC</span>)</div>
-            <p class="max-w-4xl mx-auto text-[11px] text-slate-500 leading-relaxed">
-                <strong class="text-amber-500/80 uppercase">Portfolio Notice:</strong> This digital framework is an automated static architecture concept compiled exclusively as a Computer Science portfolio project. It is non-commercial and does not represent an active news broadcast network. Content packages are retrieved automatically via external developer pipelines.
+            <div class="text-xs font-black text-slate-300 tracking-wider">INDIAN SUBCONTINENT BROADCASTING CORPORATION (<span class="text-[#ffb500]">ISBC</span>) NETWORK TELEMETRY</div>
+            <p class="max-w-4xl mx-auto text-[10px] text-slate-600 leading-relaxed">
+                <strong class="text-amber-500/70 uppercase">Academic Disclaimer Announcement:</strong> This transmission environment constitutes an automated computational static simulation interface deployed exclusively for educational presentation, structural evaluation metrics, and computer science systems design evaluation. It operates entirely non-commercially and maintains no institutional alignment with any active broadcast media agencies. Global headline feeds are managed autonomously by scheduled sandbox API parsing cron workflows.
             </p>
-            <div class="text-[10px] text-slate-600 font-mono">Build Architecture Ref: CPBN-V2-STABLE (2026)</div>
+            <div class="text-[9px] text-slate-700 font-mono tracking-tight">System Build Core Hash: CPBN-SYSTEMS-V3.2026</div>
         </div>
     </footer>
 
+    <!-- INTERFACE ROUTING ENGINE SCRIPT -->
     <script>
-        let globalFeed = [];
+        let rawDatabase = {};
+        let activeTrack = "business"; // Fallback default track configuration matrix
+        const trackTabs = ["business", "technology", "world"];
 
-        async function syncCNBCData() {
+        async function launchCoreSystem() {
             try {
                 const response = await fetch('news.json');
-                const parsed = await response.json();
-                globalFeed = parsed.en || [];
+                rawDatabase = await response.json();
                 
-                if(parsed.lastUpdated) {
-                    document.getElementById('live-timestamp').innerText = `WIRE SYNCED: ${parsed.lastUpdated} UTC`;
+                if (rawDatabase.lastGlobalSync) {
+                    const parsedDate = new Date(rawDatabase.lastGlobalSync);
+                    document.getElementById('sync-clock').innerText = `LAST SYNC RUN: ${parsedDate.toLocaleTimeString()} (${parsedDate.toLocaleDateString()})`;
                 }
-                renderCNBCLayout();
-            } catch (err) {
-                console.error("Critical structural read issue:", err);
-                document.getElementById('cnbc-grid-slot').innerHTML = `
-                    <div class="col-span-full bg-red-50 border-l-4 border-red-600 p-4 font-mono text-xs text-red-800">
-                        🔒 PIPELINE DATA UNRESOLVED: Ensure your GitHub Action has run successfully and that 'news.json' exists in your root branch repository.
+                
+                // Read query hash variables to allow instant routing states
+                if(window.location.hash && trackTabs.includes(window.location.hash.replace('#',''))) {
+                    activeTrack = window.location.hash.replace('#','');
+                } else {
+                    window.location.hash = activeTrack;
+                }
+
+                renderNavigationBars();
+                renderTerminalWorkspace();
+            } catch(e) {
+                console.error("System critical crash processing JSON assets: ", e);
+                document.getElementById('terminal-grid').innerHTML = `
+                    <div class="col-span-full bg-red-950/20 border border-red-900 text-red-400 p-4 font-mono text-xs">
+                        ⚠️ INFRASTRUCTURE RECORD MISSING: Run your automated GitHub Actions compilation script to generate news.json records into your repository branches.
                     </div>`;
             }
         }
 
-        function renderCNBCLayout() {
-            const heroBox = document.getElementById('cnbc-hero-slot');
-            const wireBox = document.getElementById('cnbc-wire-rail');
-            const gridBox = document.getElementById('cnbc-grid-slot');
-            const tickerBox = document.getElementById('cnbc-ticker');
+        function renderNavigationBars() {
+            const container = document.getElementById('category-tabs');
+            container.innerHTML = '';
+            
+            trackTabs.forEach(tab => {
+                const button = document.createElement('button');
+                button.innerText = tab === 'world' ? 'Global Affairs' : tab;
+                button.className = `px-4 py-2 transition-all uppercase text-[11px] font-black ${activeTrack === tab ? 'bg-[#ffb500] text-[#012466] shadow-sm' : 'bg-[#001740] text-slate-200 hover:bg-[#00225c]'}`;
+                button.onclick = () => {
+                    activeTrack = tab;
+                    window.location.hash = tab;
+                    renderNavigationBars();
+                    renderTerminalWorkspace();
+                };
+                container.appendChild(button);
+            });
+        }
 
-            if (globalFeed.length === 0) return;
+        function renderTerminalWorkspace() {
+            const dataPool = (rawDatabase.en && rawDatabase.en[activeTrack]) ? rawDatabase.en[activeTrack] : [];
+            
+            const spotlightContainer = document.getElementById('terminal-spotlight');
+            const wireContainer = document.getElementById('vertical-wire-stream');
+            const gridContainer = document.getElementById('terminal-grid');
+            const tickerContainer = document.getElementById('ticker-carrier');
 
-            // Load horizontal raw data ticker line
-            tickerBox.innerText = globalFeed.map(item => `•   ${item.title.toUpperCase()}`).join("        ");
+            document.getElementById('grid-header-title').innerText = `${activeTrack} Data Ledger Index`;
 
-            // 1. POPULATE THE HERO SPOTLIGHT CONTAINER (CNBC Signature Left Box)
-            const heroData = globalFeed[0];
-            heroBox.innerHTML = `
-                <div class="w-full h-80 sm:h-96 overflow-hidden bg-slate-100">
-                    <img class="w-full h-full object-cover border-b border-slate-200" src="${heroData.image}" alt="Main Coverage Photo">
+            if(dataPool.length === 0) {
+                spotlightContainer.innerHTML = "<div class='p-8 text-xs font-mono text-slate-400'>Awaiting data feed initialization tasks...</div>";
+                wireContainer.innerHTML = "";
+                gridContainer.innerHTML = "";
+                return;
+            }
+
+            // Sync global market alert marquee tape lines
+            tickerContainer.innerText = dataPool.map(a => `• [${a.source.toUpperCase()}] ${a.title}`).join("        ");
+
+            // Scan repository matrix for MAJOR ALERT signals to inject into the upper dashboard banner
+            const emergencyAlert = dataPool.find(item => item.priority === "MAJOR_ALERT");
+            if (emergencyAlert) {
+                document.getElementById('priority-banner-title').innerText = `${emergencyAlert.source.toUpperCase()}: ${emergencyAlert.title}`;
+                document.getElementById('priority-banner').classList.remove('hidden');
+            } else {
+                document.getElementById('priority-banner').classList.add('hidden');
+            }
+
+            // 1. COMPILE PRIME HEADLINE GRAPHIC BLOCK (Index 0)
+            const leadItem = dataPool[0];
+            spotlightContainer.innerHTML = `
+                <div class="w-full h-80 sm:h-96 bg-slate-900 overflow-hidden relative">
+                    <img class="w-full h-full object-cover transition-transform duration-700 hover:scale-105" src="${leadItem.image}" alt="Lead Image">
+                    ${leadItem.priority === 'MAJOR_ALERT' ? '<span class="absolute top-4 left-4 bg-[#cc0000] text-white font-black text-[9px] tracking-widest px-3 py-1 shadow-md">MAJOR VOLATILITY ALERT</span>' : ''}
                 </div>
-                <div class="p-5 flex-grow flex flex-col justify-between bg-white">
+                <div class="p-6 flex-grow flex flex-col justify-between bg-white border-t border-slate-100">
                     <div>
-                        <span class="text-[10px] font-black uppercase text-[#cc0000] tracking-widest">${heroData.source} • TOP BREAKING</span>
-                        <h2 class="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900 mt-1 mb-2 hover:text-[#012466] transition">${heroData.title}</h2>
-                        <p class="text-slate-600 text-xs leading-relaxed mb-4 line-clamp-2">${heroData.desc || 'No supplemental readout parameters returned by primary wire network.'}</p>
+                        <span class="text-[10px] font-black text-[#cc0000] tracking-widest uppercase">${leadItem.source} • DATA SPOTLIGHT</span>
+                        <h2 class="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900 mt-1 mb-2 hover:text-[#012466] transition">${leadItem.title}</h2>
+                        <p class="text-slate-600 text-xs leading-relaxed line-clamp-2 mb-4">${leadItem.desc || 'Review live system logs for original paragraph parameters.'}</p>
                     </div>
-                    <span class="text-[10px] font-mono text-slate-400">${heroData.date}</span>
+                    <span class="text-[9px] font-mono font-bold text-slate-400">${new Date(leadItem.date).toLocaleString()}</span>
                 </div>
             `;
-            heroBox.onclick = () => launchCNBCModal(0);
+            spotlightContainer.onclick = () => showTerminalModal(0);
 
-            // 2. POPULATE THE LATEST TEXT-ONLY WIRE RAIL (CNBC Right Sidebar)
-            wireBox.innerHTML = '';
-            // We use elements index 1 through 6 for the side-rail feed
-            const wireDataItems = globalFeed.slice(1, 6);
-            wireDataItems.forEach((item, idx) => {
-                const globalIndex = idx + 1;
-                const linkRow = document.createElement('div');
-                linkRow.className = "py-3 cursor-pointer group flex flex-col gap-1";
-                linkRow.onclick = (e) => { e.stopPropagation(); launchCNBCModal(globalIndex); };
-                linkRow.innerHTML = `
-                    <div class="flex justify-between items-center text-[10px] font-mono text-slate-400 group-hover:text-[#012466]">
-                        <span>${item.source.toUpperCase()}</span>
-                        <span>${item.date}</span>
+            // 2. COMPILE TEXT VERTICAL WIRE INDEX (Indexes 1 through 7)
+            wireContainer.innerHTML = '';
+            const wireList = dataPool.slice(1, 8);
+            document.getElementById('wire-count').innerText = `${dataPool.length} LIVE STREAM BLOCKS`;
+            
+            wireList.forEach((item, index) => {
+                const targetIdx = index + 1;
+                const row = document.createElement('div');
+                row.className = "py-3 cursor-pointer group block transition";
+                row.onclick = (e) => { e.stopPropagation(); showTerminalModal(targetIdx); };
+                row.innerHTML = `
+                    <div class="flex justify-between text-[9px] font-mono font-bold text-slate-400 group-hover:text-[#012466] mb-0.5">
+                        <span class="${item.priority === 'MAJOR_ALERT' ? 'text-red-600 font-black' : ''}">${item.source.toUpperCase()} ${item.priority === 'MAJOR_ALERT' ? '![ALERT]' : ''}</span>
+                        <span>${new Date(item.date).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}</span>
                     </div>
-                    <h4 class="text-xs font-bold text-slate-800 group-hover:text-[#012466] tracking-tight leading-snug line-clamp-2">${item.title}</h4>
+                    <h4 class="text-xs font-bold text-slate-800 group-hover:text-[#012466] leading-snug tracking-tight line-clamp-2">${item.title}</h4>
                 `;
-                wireBox.appendChild(linkRow);
+                wireContainer.appendChild(row);
             });
 
-            // 3. POPULATE THE BOTTOM ROW TILES (4 Column CNBC Style Grid)
-            gridBox.innerHTML = '';
-            const gridDataItems = globalFeed.slice(6, 10); // Positions 6 through 10
-            gridDataItems.forEach((item, idx) => {
-                const globalIndex = idx + 6;
-                const tile = document.createElement('div');
-                tile.className = "bg-white border border-slate-200 cursor-pointer flex flex-col justify-between hover:border-slate-400 shadow-xs transition";
-                tile.onclick = () => launchCNBCModal(globalIndex);
-                tile.innerHTML = `
+            // 3. COMPILE LOWER GRID MATRIX LEDGER (Indexes 8 through 20)
+            gridContainer.innerHTML = '';
+            const gridList = dataPool.slice(8, 20);
+            document.getElementById('ledger-volume-metrics').innerText = `Tracking Index Frames 08 - ${dataPool.slice(0,20).length} of ${dataPool.length}`;
+            
+            gridList.forEach((item, index) => {
+                const targetIdx = index + 8;
+                const card = document.createElement('div');
+                card.className = "bg-white border border-slate-200 cursor-pointer flex flex-col justify-between hover:border-slate-400 transition shadow-xs";
+                card.onclick = () => showTerminalModal(targetIdx);
+                card.innerHTML = `
                     <div>
-                        <div class="w-full h-36 bg-slate-50 overflow-hidden border-b border-slate-100">
-                            <img class="w-full h-full object-cover" src="${item.image}" alt="Card Image">
+                        <div class="w-full h-36 bg-slate-900 overflow-hidden relative">
+                            <img class="w-full h-full object-cover" src="${item.image}" alt="Grid Ledger Graphic">
+                            ${item.priority === 'MAJOR_ALERT' ? '<span class="absolute bottom-2 left-2 bg-[#cc0000] text-white text-[8px] font-black tracking-widest px-1.5 py-0.5">ALERT</span>' : ''}
                         </div>
                         <div class="p-3">
-                            <span class="text-[9px] font-black tracking-widest text-[#012466] uppercase">${item.source}</span>
-                            <h4 class="font-bold text-xs text-slate-900 mt-0.5 line-clamp-3 leading-snug hover:text-[#012466]">${item.title}</h4>
+                            <span class="text-[9px] font-black text-[#012466] uppercase tracking-wider block mb-0.5">${item.source}</span>
+                            <h4 class="font-bold text-xs text-slate-900 leading-snug line-clamp-3 hover:text-[#012466]">${item.title}</h4>
                         </div>
                     </div>
-                    <div class="p-3 pt-0 text-[9px] font-mono text-slate-400">${item.date}</div>
+                    <div class="p-3 pt-0 text-[9px] font-mono font-semibold text-slate-400">${new Date(item.date).toLocaleDateString()}</div>
                 `;
-                gridBox.appendChild(tile);
+                gridContainer.appendChild(card);
             });
         }
 
-        function launchCNBCModal(index) {
-            const report = globalFeed[index];
-            if (!report) return;
+        function showTerminalModal(idx) {
+            const packet = rawDatabase.en[activeTrack][idx];
+            if(!packet) return;
 
-            document.getElementById('modal-graphic').src = report.image;
-            document.getElementById('modal-provider').innerText = report.source;
-            document.getElementById('modal-timestamp').innerText = `PUBLISHED: ${report.date}`;
-            document.getElementById('modal-heading').innerText = report.title;
-            document.getElementById('modal-body').innerText = report.desc || "No supplemental paragraph block found in the preview manifest.";
-            document.getElementById('modal-external-link').href = report.url;
+            document.getElementById('modal-img').src = packet.image;
+            document.getElementById('modal-badge').innerText = packet.source;
+            document.getElementById('modal-time').innerText = `TIMESTAMP PROTOCOL: ${new Date(packet.date).toUTCString()}`;
+            document.getElementById('modal-title').innerText = packet.title;
+            document.getElementById('modal-desc').innerText = packet.desc || "Full metadata block logs must be parsed directly through destination network nodes.";
+            document.getElementById('modal-anchor').href = packet.url;
             
-            document.getElementById('cnbc-modal').classList.remove('hidden');
+            document.getElementById('terminal-modal').classList.remove('hidden');
         }
 
-        function closeCNBCModal() {
-            document.getElementById('cnbc-modal').classList.add('hidden');
+        function hideTerminalModal() {
+            document.getElementById('terminal-modal').classList.add('hidden');
         }
 
-        window.onload = syncCNBCData;
+        // Keep system hash listeners mapping clean dynamically when users press browser back keys
+        window.onhashchange = () => {
+            const currentHash = window.location.hash.replace('#','');
+            if(trackTabs.includes(currentHash) && currentHash !== activeTrack) {
+                activeTrack = currentHash;
+                renderNavigationBars();
+                renderTerminalWorkspace();
+            }
+        };
+
+        window.onload = launchCoreSystem;
     </script>
 </body>
 </html>
