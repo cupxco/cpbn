@@ -4,69 +4,78 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CPBN | International Business & Market Terminal</title>
-    <!-- Brand Favicon Integration -->
     <link rel="icon" type="image/png" href="favicon.png">
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <style>
         @keyframes ticker { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
-        .cnbc-ticker-move { animation: ticker 40s linear infinite; }
+        .cnbc-ticker-move { animation: ticker 45s linear infinite; }
+        
+        /* Core UI Polishes */
         * { border-radius: 0px !important; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
-        ::-webkit-scrollbar { width: 4px; }
-        ::-webkit-scrollbar-track { background: #f1f1f1; }
-        ::-webkit-scrollbar-thumb { background: #012466; }
+        ::-webkit-scrollbar { width: 5px; }
+        ::-webkit-scrollbar-track { background: #f8fafc; }
+        ::-webkit-scrollbar-thumb { background: #012466; transition: background 0.3s; }
+        ::-webkit-scrollbar-thumb:hover { background: #ffb500; }
+        
+        /* Premium custom selection colors */
+        ::selection { background: #ffb500; color: #012466; }
     </style>
 </head>
-<body class="bg-[#f9f9f9] text-[#111111] antialiased min-h-screen flex flex-col">
+<body class="bg-[#f4f7fa] text-[#1e293b] antialiased min-h-screen flex flex-col selection:bg-[#ffb500]">
 
     <!-- TOP TELEMETRY TRACK TAPE -->
-    <div class="bg-[#071120] border-b border-[#1a2e4c] text-slate-400 text-[10px] px-4 py-1.5 flex justify-between items-center font-mono tracking-tight">
+    <div class="bg-[#050b14] border-b border-[#121f33] text-slate-400 text-[10px] px-4 py-2 flex justify-between items-center font-mono tracking-tight">
         <div class="flex items-center gap-4">
-            <span class="text-[#ffb500] font-black">CPBN SATELLITE CORE</span>
+            <span class="text-[#ffb500] font-black tracking-wider flex items-center gap-1.5">
+                <span class="w-1.5 h-1.5 bg-[#ffb500] inline-block"></span>CPBN SATELLITE CORE
+            </span>
             <span>DATASETS: 200+ ACTIVE ARCHIVES</span>
-            <span class="hidden md:inline text-slate-600">|</span>
-            <span class="hidden md:inline" id="sync-clock">SYNC STATUS: PROCESSING FEED...</span>
+            <span class="hidden md:inline text-slate-800">|</span>
+            <span class="hidden md:inline text-slate-400" id="sync-clock">SYNC STATUS: INITIALIZING SYNC VECTOR...</span>
         </div>
         <div class="flex items-center gap-2 text-white">
             <span class="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-ping"></span>
-            <span class="font-bold text-[9px] tracking-widest uppercase">REALTIME FEED LIVE</span>
+            <span class="font-bold text-[9px] tracking-widest uppercase text-emerald-400">REALTIME FEED LIVE</span>
         </div>
     </div>
 
     <!-- MAIN STRATEGIC BRAND ARCHITECTURE PANEL -->
-    <header class="bg-[#012466] text-white px-4 lg:px-8 py-4 border-b-4 border-[#ffb500] shadow-xl">
+    <header class="bg-[#012466] text-white px-4 lg:px-8 py-4 border-b-4 border-[#ffb500] shadow-xl relative z-30">
         <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
             
-            <!-- Real Estate Logo block containing verified corporate image file assets -->
-            <div class="flex items-center gap-4 cursor-pointer select-none" onclick="window.location.hash='#business'">
-                <div class="bg-white p-1 border border-slate-300 shadow-md flex items-center justify-center bg-cover">
+            <!-- Logo Module -->
+            <div class="flex items-center gap-4 cursor-pointer select-none group" onclick="window.location.hash='#business'">
+                <div class="bg-white p-1.5 shadow-lg flex items-center justify-center transition-transform duration-300 group-hover:scale-105">
                     <img src="favicon.png" alt="CPBN Logo Emblem" class="h-12 w-12 object-contain">
                 </div>
                 <div>
-                    <h1 class="text-3xl font-black tracking-tight text-white leading-none font-serif">CPBN</h1>
-                    <span class="text-[9px] font-black tracking-widest text-[#ffb500] uppercase block mt-1">International Business Terminal</span>
+                    <h1 class="text-3xl font-black tracking-tight text-white leading-none font-serif flex items-center gap-1">
+                        CPBN
+                    </h1>
+                    <span class="text-[9px] font-black tracking-widest text-[#ffb500]/90 uppercase block mt-1">International Business Terminal</span>
                 </div>
             </div>
 
             <!-- DYNAMIC TABBED NAVIGATION SWITCH MATRICES -->
-            <nav id="category-tabs" class="flex flex-wrap gap-1 sm:gap-2 text-xs font-black uppercase tracking-wider"></nav>
+            <nav id="category-tabs" class="flex flex-wrap gap-1.5 sm:gap-2 text-xs font-black uppercase tracking-wider"></nav>
         </div>
     </header>
 
     <!-- LIVE BROADCAST RUNNER TAPE -->
-    <div class="bg-white border-b border-slate-200 py-2.5 flex items-center overflow-hidden shadow-xs">
-        <div class="bg-[#cc0000] text-white text-[10px] font-black tracking-widest px-4 py-0.5 ml-4 z-20 shadow-md whitespace-nowrap">MARKET ALERT WIRE</div>
+    <div class="bg-white border-b border-slate-200 py-2.5 flex items-center overflow-hidden shadow-xs relative z-20">
+        <div class="bg-[#cc0000] text-white text-[10px] font-black tracking-widest px-4 py-1 ml-4 z-20 shadow-md whitespace-nowrap">MARKET ALERT WIRE</div>
         <div class="w-full relative overflow-hidden h-4">
-            <div id="ticker-carrier" class="cnbc-ticker-move inline-block absolute pl-[100%] font-mono text-xs font-bold text-slate-800 uppercase">Connecting data pipeline streams...</div>
+            <div id="ticker-carrier" class="cnbc-ticker-move inline-block absolute pl-[100%] font-mono text-xs font-bold text-slate-800 uppercase tracking-wide">Connecting data pipeline streams...</div>
         </div>
     </div>
 
     <!-- CRITICAL SYSTEM ALERT ANCHOR PANEL -->
-    <div id="priority-banner" class="hidden bg-gradient-to-r from-[#cc0000] to-[#7a0000] text-white px-6 py-3 font-bold text-xs shadow-inner flex items-center justify-between border-b border-red-900">
+    <div id="priority-banner" class="hidden bg-gradient-to-r from-[#cc0000] to-[#990000] text-white px-6 py-3.5 font-bold text-xs shadow-inner flex items-center justify-between border-b border-red-950 transition-all">
         <div class="flex items-center gap-3">
-            <span class="bg-white text-[#cc0000] px-2 py-0.5 text-[9px] font-black tracking-widest">CRITICAL DISPATCH</span>
-            <span id="priority-banner-title" class="tracking-tight line-clamp-1"></span>
+            <span class="bg-white text-[#cc0000] px-2 py-0.5 text-[9px] font-black tracking-widest animate-pulse shadow-xs">CRITICAL DISPATCH</span>
+            <span id="priority-banner-title" class="tracking-tight line-clamp-1 text-slate-100"></span>
         </div>
-        <button onclick="document.getElementById('priority-banner').classList.add('hidden')" class="text-white/70 hover:text-white font-mono text-sm">&times;</button>
+        <button onclick="document.getElementById('priority-banner').classList.add('hidden')" class="text-white/70 hover:text-white font-mono text-lg transition p-1">&times;</button>
     </div>
 
     <!-- MAIN NEWSROOM INTERFACE GRID MODULE -->
@@ -76,53 +85,55 @@
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 mb-12">
             
             <!-- Left Side: Interactive Main Story Showcase -->
-            <section id="terminal-spotlight" class="lg:col-span-8 flex flex-col bg-white border border-slate-200 shadow-xs hover:shadow-md transition cursor-pointer"></section>
+            <section id="terminal-spotlight" class="lg:col-span-8 flex flex-col bg-white border border-slate-200 shadow-xs hover:shadow-md hover:border-slate-300 transition-all duration-300 cursor-pointer"></section>
             
             <!-- Right Side: Vertical Live Wire Rail -->
-            <section class="lg:col-span-4 bg-white border border-slate-200 p-4 flex flex-col h-[560px]">
-                <div class="flex items-center justify-between border-b-2 border-[#012466] pb-2 mb-3">
-                    <h3 class="text-xs font-black uppercase tracking-widest text-[#012466]">Realtime Wire Log</h3>
-                    <span id="wire-count" class="text-[9px] font-mono font-bold bg-slate-100 text-slate-600 px-2 py-0.5">0 ACTIVE FEEDS</span>
+            <section class="lg:col-span-4 bg-white border border-slate-200 p-4 flex flex-col h-[560px] shadow-xs">
+                <div class="flex items-center justify-between border-b-2 border-[#012466] pb-2.5 mb-4">
+                    <h3 class="text-xs font-black uppercase tracking-widest text-[#012466] flex items-center gap-2">
+                        <span class="w-2 h-2 bg-[#012466] inline-block"></span>Realtime Wire Log
+                    </h3>
+                    <span id="wire-count" class="text-[9px] font-mono font-bold bg-slate-100 text-slate-600 px-2 py-0.5 border border-slate-200">0 ACTIVE FEEDS</span>
                 </div>
-                <div id="vertical-wire-stream" class="flex-grow overflow-y-auto divide-y divide-slate-100 pr-2 space-y-3.5"></div>
+                <div id="vertical-wire-stream" class="flex-grow overflow-y-auto divide-y divide-slate-100 pr-1 space-y-1"></div>
             </section>
         </div>
 
         <!-- SECTION 2: ARCHIVE ARCHITECTURE FLOW MATRIX -->
-        <div class="border-b-2 border-slate-800 pb-1.5 mb-6 flex justify-between items-end">
+        <div class="border-b-2 border-slate-800 pb-2 mb-6 flex justify-between items-end">
             <h3 id="grid-header-title" class="text-xs font-black uppercase tracking-widest text-slate-500">Historical Data Ledger</h3>
-            <span class="text-[10px] text-slate-400 font-mono" id="ledger-volume-metrics">Showing index data frames</span>
+            <span class="text-[10px] text-slate-400 font-mono bg-white px-2 py-0.5 border border-slate-200 shadow-xs" id="ledger-volume-metrics">Showing index data frames</span>
         </div>
         
         <section id="terminal-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"></section>
     </main>
 
     <!-- SYSTEM EXPANSION DETAILED DRAW DISPLAY MODAL -->
-    <div id="terminal-modal" class="hidden fixed inset-0 bg-slate-950/80 backdrop-blur-xs flex items-center justify-center p-4 z-50">
-        <div class="bg-white border-t-8 border-[#012466] max-w-2xl w-full shadow-2xl p-6 relative flex flex-col">
-            <button onclick="hideTerminalModal()" class="absolute top-4 right-4 text-slate-400 hover:text-black text-3xl font-light leading-none">&times;</button>
-            <img id="modal-img" class="w-full h-64 object-cover mb-4 border border-slate-200" src="" alt="Data Frame Image">
+    <div id="terminal-modal" class="hidden fixed inset-0 bg-slate-950/80 backdrop-blur-xs flex items-center justify-center p-4 z-50 transition-all duration-300">
+        <div class="bg-white border-t-8 border-[#012466] max-w-2xl w-full shadow-2xl p-6 relative flex flex-col transition-all transform scale-100">
+            <button onclick="hideTerminalModal()" class="absolute top-4 right-4 text-slate-400 hover:text-black text-3xl font-light leading-none p-1 transition">&times;</button>
+            <img id="modal-img" class="w-full h-64 object-cover mb-4 border border-slate-200 shadow-inner" src="" alt="Data Frame Image">
             <div class="flex items-center gap-2 mb-2">
                 <span id="modal-badge" class="text-[9px] font-black uppercase bg-[#012466] text-white px-2 py-0.5 tracking-wider"></span>
-                <span id="modal-time" class="text-[10px] font-mono text-slate-400"></span>
+                <span id="modal-time" class="text-[10px] font-mono text-slate-400 font-bold"></span>
             </div>
-            <h2 id="modal-title" class="text-xl sm:text-2xl font-bold tracking-tight text-slate-900 mb-3"></h2>
-            <p id="modal-desc" class="text-slate-600 text-sm leading-relaxed mb-6 border-l-2 border-slate-300 pl-3"></p>
+            <h2 id="modal-title" class="text-xl sm:text-2xl font-bold tracking-tight text-slate-900 mb-3 font-serif"></h2>
+            <p id="modal-desc" class="text-slate-600 text-sm leading-relaxed mb-6 border-l-4 border-[#ffb500] bg-slate-50 p-3"></p>
             <div class="flex justify-between items-center pt-4 border-t border-slate-100">
-                <a id="modal-anchor" target="_blank" class="bg-[#012466] hover:bg-[#001c52] text-white text-xs font-bold px-5 py-3 tracking-wider uppercase transition" href="#">Authenticate Full Original Wire Service</a>
-                <button onclick="hideTerminalModal()" class="text-xs font-bold text-slate-400 hover:text-slate-600 uppercase tracking-wider">Dismiss</button>
+                <a id="modal-anchor" target="_blank" class="bg-[#012466] hover:bg-[#ffb500] hover:text-[#012466] text-white text-xs font-black px-5 py-3 tracking-wider uppercase transition-colors duration-300 shadow-md" href="#">Authenticate Full Original Wire Service</a>
+                <button onclick="hideTerminalModal()" class="text-xs font-bold text-slate-400 hover:text-slate-600 uppercase tracking-wider transition">Dismiss</button>
             </div>
         </div>
     </div>
 
     <!-- LEGAL DISCLOSURE ARCHITECTURE -->
-    <footer class="bg-[#071120] text-slate-500 text-[11px] py-10 px-6 border-t border-[#12223a] mt-16">
+    <footer class="bg-[#050b14] text-slate-500 text-[11px] py-10 px-6 border-t border-[#121f33] mt-16">
         <div class="max-w-7xl mx-auto text-center space-y-4">
             <div class="text-xs font-black text-slate-300 tracking-wider">INDIAN SUBCONTINENT BROADCASTING CORPORATION (<span class="text-[#ffb500]">ISBC</span>) NETWORK TELEMETRY</div>
-            <p class="max-w-4xl mx-auto text-[10px] text-slate-600 leading-relaxed">
+            <p class="max-w-4xl mx-auto text-[10px] text-slate-500 leading-relaxed">
                 <strong class="text-amber-500/70 uppercase">Academic Disclaimer Announcement:</strong> This transmission environment constitutes an automated computational static simulation interface deployed exclusively for educational presentation, structural evaluation metrics, and computer science systems design evaluation. It operates entirely non-commercially and maintains no institutional alignment with any active broadcast media agencies. Global headline feeds are managed autonomously by scheduled sandbox API parsing cron workflows.
             </p>
-            <div class="text-[9px] text-slate-700 font-mono tracking-tight">System Build Core Hash: CPBN-SYSTEMS-V3.2026</div>
+            <div class="text-[9px] text-slate-600 font-mono tracking-tight">System Build Core Hash: CPBN-SYSTEMS-V3.2026</div>
         </div>
     </footer>
 
@@ -132,7 +143,28 @@
         let activeTrack = "business"; 
         const trackTabs = ["business", "technology", "world"];
 
+        // Dynamic humanized timestamp engine
+        function formatRelativeTime(dateString) {
+            try {
+                const now = new Date();
+                const past = new Date(dateString);
+                const deltaMs = now - past;
+                const deltaMins = Math.floor(deltaMs / 60000);
+                
+                if (deltaMins < 1) return "JUST NOW";
+                if (deltaMins < 60) return `${deltaMins}M AGO`;
+                
+                const deltaHours = Math.floor(deltaMins / 60);
+                if (deltaHours < 24) return `${deltaHours}H AGO`;
+                
+                return past.toLocaleDateString([], { month: 'short', day: 'numeric' }).toUpperCase();
+            } catch(e) {
+                return "STREAMING";
+            }
+        }
+
         async function launchCoreSystem() {
+            renderShimmerSkeletons();
             try {
                 const response = await fetch('news.json');
                 rawDatabase = await response.json();
@@ -163,23 +195,53 @@
             trackTabs.forEach(tab => {
                 const button = document.createElement('button');
                 button.innerText = tab === 'world' ? 'Global Affairs' : tab;
-                button.className = `px-4 py-2 transition-all uppercase text-[11px] font-black ${activeTrack === tab ? 'bg-[#ffb500] text-[#012466] shadow-sm' : 'bg-[#001740] text-slate-200 hover:bg-[#00225c]'}`;
+                button.className = `px-5 py-2.5 transition-all duration-200 uppercase text-[11px] font-black tracking-widest ${activeTrack === tab ? 'bg-[#ffb500] text-[#012466] shadow-md border-b-2 border-[#012466]' : 'bg-[#001740] text-slate-300 hover:bg-[#00225c] hover:text-white'}`;
                 button.onclick = () => {
                     activeTrack = tab;
                     window.location.hash = tab;
                     renderNavigationBars();
-                    renderTerminalWorkspace();
+                    renderShimmerSkeletons();
+                    setTimeout(renderTerminalWorkspace, 350); // Gives loading shimmer time to look pristine
                 };
                 container.appendChild(button);
             });
         }
 
+        function renderShimmerSkeletons() {
+            const spotlightContainer = document.getElementById('terminal-spotlight');
+            const wireContainer = document.getElementById('vertical-wire-stream');
+            const gridContainer = document.getElementById('terminal-grid');
+
+            spotlightContainer.innerHTML = `
+                <div class="animate-pulse w-full">
+                    <div class="bg-slate-200 h-80 w-full"></div>
+                    <div class="p-6 space-y-3 bg-white">
+                        <div class="h-3 bg-slate-200 w-1/4"></div>
+                        <div class="h-6 bg-slate-200 w-3/4"></div>
+                        <div class="h-4 bg-slate-200 w-full"></div>
+                    </div>
+                </div>`;
+
+            wireContainer.innerHTML = Array(5).fill(0).map(() => `
+                <div class="animate-pulse py-3.5 space-y-2">
+                    <div class="flex justify-between"><div class="h-2 bg-slate-200 w-1/3"></div><div class="h-2 bg-slate-200 w-1/6"></div></div>
+                    <div class="h-3 bg-slate-200 w-5/6"></div>
+                </div>`).join('');
+
+            gridContainer.innerHTML = Array(4).fill(0).map(() => `
+                <div class="animate-pulse bg-white border border-slate-200 p-3 space-y-3">
+                    <div class="bg-slate-200 h-32 w-full"></div>
+                    <div class="h-3 bg-slate-200 w-1/2"></div>
+                    <div class="h-4 bg-slate-200 w-5/6"></div>
+                </div>`).join('');
+        }
+
         function renderEmptyPlaceholderState() {
             document.getElementById('terminal-spotlight').innerHTML = `
-                <div class='p-8 text-xs font-mono text-slate-500 bg-white border border-dashed border-slate-300 w-full text-center my-4'>
+                <div class='p-12 text-xs font-mono text-slate-500 bg-white border-2 border-dashed border-slate-200 w-full text-center my-2 shadow-inner'>
                     ⚠️ FEED ARCHIVE VACANT: The data track [${activeTrack.toUpperCase()}] is initialized but contains no entries yet. Run your automated GitHub Actions compilation script to fetch latest updates.
                 </div>`;
-            document.getElementById('vertical-wire-stream').innerHTML = "<div class='text-[11px] text-slate-400 p-2 font-mono'>No active logging vectors.</div>";
+            document.getElementById('vertical-wire-stream').innerHTML = "<div class='text-[11px] text-slate-400 p-4 font-mono text-center'>No active logging vectors detected.</div>";
             document.getElementById('terminal-grid').innerHTML = "";
             document.getElementById('wire-count').innerText = "0 ACTIVE FEEDS";
             document.getElementById('ledger-volume-metrics').innerText = "Index logs empty";
@@ -201,10 +263,8 @@
                 return;
             }
 
-            // Sync global market alert marquee tape lines
             tickerContainer.innerText = dataPool.map(a => `• [${a.source.toUpperCase()}] ${a.title}`).join("        ");
 
-            // Scan repository matrix for MAJOR ALERT signals to inject into the upper dashboard banner
             const emergencyAlert = dataPool.find(item => item.priority === "MAJOR_ALERT");
             if (emergencyAlert) {
                 document.getElementById('priority-banner-title').innerText = `${emergencyAlert.source.toUpperCase()}: ${emergencyAlert.title}`;
@@ -213,25 +273,25 @@
                 document.getElementById('priority-banner').classList.add('hidden');
             }
 
-            // 1. COMPILE PRIME HEADLINE GRAPHIC BLOCK (Index 0)
+            // 1. PRIME HEADLINE GRAPHIC BLOCK (Index 0)
             const leadItem = dataPool[0];
             spotlightContainer.innerHTML = `
                 <div class="w-full h-80 sm:h-96 bg-slate-900 overflow-hidden relative">
                     <img class="w-full h-full object-cover transition-transform duration-700 hover:scale-105" src="${leadItem.image}" alt="Lead Image">
-                    ${leadItem.priority === 'MAJOR_ALERT' ? '<span class="absolute top-4 left-4 bg-[#cc0000] text-white font-black text-[9px] tracking-widest px-3 py-1 shadow-md">MAJOR VOLATILITY ALERT</span>' : ''}
+                    ${leadItem.priority === 'MAJOR_ALERT' ? '<span class="absolute top-4 left-4 bg-[#cc0000] text-white font-black text-[9px] tracking-widest px-3 py-1 shadow-md border border-red-500">MAJOR VOLATILITY ALERT</span>' : ''}
                 </div>
                 <div class="p-6 flex-grow flex flex-col justify-between bg-white border-t border-slate-100">
                     <div>
-                        <span class="text-[10px] font-black text-[#cc0000] tracking-widest uppercase">${leadItem.source} • DATA SPOTLIGHT</span>
-                        <h2 class="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900 mt-1 mb-2 hover:text-[#012466] transition">${leadItem.title}</h2>
+                        <span class="text-[10px] font-black text-[#cc0000] tracking-widest uppercase flex items-center gap-1"><span class="w-1.5 h-1.5 bg-[#cc0000] inline-block"></span>${leadItem.source} • DATA SPOTLIGHT</span>
+                        <h2 class="text-2xl sm:text-3xl font-bold tracking-tight text-slate-950 mt-1 mb-2 hover:text-[#012466] transition-colors duration-200 font-serif leading-tight">${leadItem.title}</h2>
                         <p class="text-slate-600 text-xs leading-relaxed line-clamp-2 mb-4">${leadItem.desc || 'Review live system logs for original paragraph parameters.'}</p>
                     </div>
-                    <span class="text-[9px] font-mono font-bold text-slate-400">${new Date(leadItem.date).toLocaleString()}</span>
+                    <span class="text-[9px] font-mono font-bold text-slate-400 bg-slate-50 px-2 py-0.5 border border-slate-200 self-start uppercase">${formatRelativeTime(leadItem.date)}</span>
                 </div>
             `;
             spotlightContainer.onclick = () => showTerminalModal(0);
 
-            // 2. COMPILE TEXT VERTICAL WIRE INDEX (Indexes 1 through 7)
+            // 2. TEXT VERTICAL WIRE INDEX (Indexes 1 through 7)
             wireContainer.innerHTML = '';
             const wireList = dataPool.slice(1, 8);
             document.getElementById('wire-count').innerText = `${dataPool.length} LIVE STREAM BLOCKS`;
@@ -239,19 +299,19 @@
             wireList.forEach((item, index) => {
                 const targetIdx = index + 1;
                 const row = document.createElement('div');
-                row.className = "py-3 cursor-pointer group block transition";
+                row.className = "py-3 cursor-pointer group block transition-all duration-200 px-1 border-b border-slate-100 hover:bg-slate-50";
                 row.onclick = (e) => { e.stopPropagation(); showTerminalModal(targetIdx); };
                 row.innerHTML = `
                     <div class="flex justify-between text-[9px] font-mono font-bold text-slate-400 group-hover:text-[#012466] mb-0.5">
-                        <span class="${item.priority === 'MAJOR_ALERT' ? 'text-red-600 font-black' : ''}">${item.source.toUpperCase()} ${item.priority === 'MAJOR_ALERT' ? '![ALERT]' : ''}</span>
-                        <span>${new Date(item.date).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}</span>
+                        <span class="${item.priority === 'MAJOR_ALERT' ? 'text-red-600 font-black flex items-center gap-1' : ''}">${item.source.toUpperCase()} ${item.priority === 'MAJOR_ALERT' ? '🔥 [ALERT]' : ''}</span>
+                        <span class="text-slate-400 font-bold group-hover:text-[#ffb500]">${formatRelativeTime(item.date)}</span>
                     </div>
-                    <h4 class="text-xs font-bold text-slate-800 group-hover:text-[#012466] leading-snug tracking-tight line-clamp-2">${item.title}</h4>
+                    <h4 class="text-xs font-bold text-slate-800 group-hover:text-[#012466] leading-snug tracking-tight line-clamp-2 transition-colors duration-200">${item.title}</h4>
                 `;
                 wireContainer.appendChild(row);
             });
 
-            // 3. COMPILE LOWER GRID MATRIX LEDGER (Indexes 8 through 20)
+            // 3. LOWER GRID MATRIX LEDGER (Indexes 8 through 20)
             gridContainer.innerHTML = '';
             const gridList = dataPool.slice(8, 20);
             document.getElementById('ledger-volume-metrics').innerText = `Tracking Index Frames 08 - ${dataPool.slice(0,20).length} of ${dataPool.length}`;
@@ -259,20 +319,20 @@
             gridList.forEach((item, index) => {
                 const targetIdx = index + 8;
                 const card = document.createElement('div');
-                card.className = "bg-white border border-slate-200 cursor-pointer flex flex-col justify-between hover:border-slate-400 transition shadow-xs";
+                card.className = "bg-white border border-slate-200 cursor-pointer flex flex-col justify-between hover:border-slate-400 hover:scale-[1.01] transition-all duration-300 shadow-xs hover:shadow-md";
                 card.onclick = () => showTerminalModal(targetIdx);
                 card.innerHTML = `
                     <div>
                         <div class="w-full h-36 bg-slate-900 overflow-hidden relative">
-                            <img class="w-full h-full object-cover" src="${item.image}" alt="Grid Ledger Graphic">
-                            ${item.priority === 'MAJOR_ALERT' ? '<span class="absolute bottom-2 left-2 bg-[#cc0000] text-white text-[8px] font-black tracking-widest px-1.5 py-0.5">ALERT</span>' : ''}
+                            <img class="w-full h-full object-cover transition-transform duration-500 hover:scale-105" src="${item.image}" alt="Grid Ledger Graphic">
+                            ${item.priority === 'MAJOR_ALERT' ? '<span class="absolute bottom-2 left-2 bg-[#cc0000] text-white text-[8px] font-black tracking-widest px-1.5 py-0.5 border border-red-600">ALERT</span>' : ''}
                         </div>
-                        <div class="p-3">
+                        <div class="p-3.5">
                             <span class="text-[9px] font-black text-[#012466] uppercase tracking-wider block mb-0.5">${item.source}</span>
-                            <h4 class="font-bold text-xs text-slate-900 leading-snug line-clamp-3 hover:text-[#012466]">${item.title}</h4>
+                            <h4 class="font-bold text-xs text-slate-900 leading-snug line-clamp-3 hover:text-[#012466] transition-colors duration-200">${item.title}</h4>
                         </div>
                     </div>
-                    <div class="p-3 pt-0 text-[9px] font-mono font-semibold text-slate-400">${new Date(item.date).toLocaleDateString()}</div>
+                    <div class="p-3.5 pt-0 text-[9px] font-mono font-bold text-slate-400 uppercase tracking-tight">${formatRelativeTime(item.date)}</div>
                 `;
                 gridContainer.appendChild(card);
             });
