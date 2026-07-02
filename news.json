@@ -4,6 +4,69 @@
     "en": {
         "business": [
             {
+                "title": "Rapid demand for AI datacentres in Australia could stoke inflation, experts warn - and crowd out land for housing",
+                "desc": "Calls are growing for new datacentre approvals to be halted until stronger protections are considered",
+                "image": "https://i.guim.co.uk/img/media/ed927cf5f03b0e874b0757771b0cc85fca6c257e/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05a0e7dc95a0d7510b2a52b229c43e86",
+                "url": "https://www.theguardian.com/australia-news/2026/jul/02/ai-datacentres-australia-competition-for-industrial-land-frieght-logistics-housing-economy",
+                "source": "The Guardian",
+                "date": "2026-07-01T20:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple ‘in negotiations’ with two banned Chinese RAM firms after price increases",
+                "desc": "Apple reportedly wants to buy Chinese RAM for its products from not one but two different firms. The move would...",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/01/apple-in-negotiations-with-two-banned-chinese-ram-firms-after-price-increases/",
+                "source": "9to5Mac",
+                "date": "2026-07-01T20:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Adyen appoints interim CFO, chief product officer",
+                "desc": "Adyen said that Senior Vice President of Group Finance Hwa Tsao would become the company's interim chief financial officer effective Sept. 1 following the departure of CFO Ethan Tandowsky at the end of August. Separately, Gayathri Rajan will assume the role of chief product officer, effective immediately.",
+                "image": "https://arizent.brightspotcdn.com/dims4/default/68bb5ec/2147483647/strip/true/crop/400x210+0+45/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F5c%2Fc19772a54487acc08a9f38f46eae%2Fhwa-tsao.jpeg",
+                "url": "https://www.americanbanker.com/payments/news/adyen-appoints-interim-cfo-chief-product-officer",
+                "source": "American Banker",
+                "date": "2026-07-01T20:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Most Stocks Rise as Warsh Says Price Risks Fading: Markets Wrap",
+                "desc": "(Bloomberg) -- Signs of economic strength alongside easing price pressures lifted most stocks in the US, with Federal Reserve Chair Kevin Warsh saying inflation risks have come down.",
+                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1770807997",
+                "url": "https://www.swissinfo.ch/eng/most-stocks-rise-as-warsh-says-price-risks-fading%3A-markets-wrap/91677851",
+                "source": "SWI swissinfo.ch",
+                "date": "2026-07-01T20:13:45Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Chip stocks notched record rallies in second quarter start Q3 with dud",
+                "desc": "Memory maker Micron, which jumped over 240% in the second quarter, dropped 11% on Wednesday, wiping out nearly $200 billion of market capitalization.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108136025-1745498529458-gettyimages-2208380685-IGOS2258.jpeg?v=1745498579&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html",
+                "source": "CNBC",
+                "date": "2026-07-01T20:11:47Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Lady Who Installed 3.24kW Solar System Brags, Mentions 5 Household Appliances It Powers Easily",
+                "desc": "A young lady who installed a solar inverter six months ago has shared her review and mentioned some powerful household appliances the inverter powers without stress.",
+                "image": "https://cdn.legit.ng/images/1200x675/752c0ad5ce05a74b.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1717205-lady-installed-324kw-solar-system-brags-mentions-5-household-appliances-powers-easily/",
+                "source": "Legit.ng",
+                "date": "2026-07-01T20:10:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Albertans can now apply for $100 energy rebate payouts",
+                "desc": "Premier Danielle Smith announced earlier this month that residents can get the cash instead of the province reducing its tax on gasoline at the pumps.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/6a98b5332c27a47f30610e483318896c080cc28de8642dfeda82e0c55209e2f9.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11949369/alberta-energy-rebate-applications-open/",
+                "source": "Global News",
+                "date": "2026-07-01T20:09:31Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "What are the benefits of sustainability in business?",
                 "desc": "From cutting energy costs to unlocking new markets, see how companies in Singapore are proving that going green is a long-term driver for growth and resilience. Read more at straitstimes.com.",
                 "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b5fc3610172ebf9be47cbca8593c1647170e46bb1e5047a33f68990577bdc87e",
@@ -569,72 +632,99 @@
                 "source": "The Journal",
                 "date": "2026-07-01T16:50:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Mattress Firm 4th Of July",
-                "desc": "The country's largest specialty mattress retailer is offering a range of discounts this holiday weekend.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a3abddff25be44f741e0beb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/mattress-firm/2026/07/01/mattress-firm-4th-of-july/",
-                "source": "Forbes",
-                "date": "2026-07-01T16:49:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Elon Musk No Longer A Trillionaire As SpaceX Stock Falls",
-                "desc": "A well-known analyst of Musk’s Tesla offered a bullish take for the rocket maker.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/68de8dc6cfc5f94eaff5aee1/0x0.jpg?format=jpg&crop=2185,1228,x0,y0,safe&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/tylerroush/2026/07/01/elon-musk-loses-trillionaire-status-as-spacex-slide-cuts-net-worth-by-50-billion/",
-                "source": "Forbes",
-                "date": "2026-07-01T16:33:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Approved building permits edge up 0.8% in 2025",
-                "desc": "APPROVED BUILDING PERMITS inched up by 0.8% year on year in 2025, as construction activity moderated amid macroeconomic headwinds and the flood control mess in the second half of the year, analysts said.",
-                "image": "https://bworldonline.com/wp-content/uploads/2026/07/construction-worker-infra.jpg",
-                "url": "https://bworldonline.com/top-stories/2026/07/02/760522/approved-building-permits-edge-up-0-8-in-2025/",
-                "source": "BusinessWorld Online",
-                "date": "2026-07-01T16:32:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "July 1 morning has broken, Alberta portal for 'Dani Dollars' is open",
-                "desc": "Millions of Albertans are eligible to apply for the $100 rebate under a new provincial program aimed at offsetting high energy costs.",
-                "image": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2026/05/danielle-smith-4.jpg",
-                "url": "https://edmontonjournal.com/news/local-news/alberta-energy-rebate-portal-dani-dollars-open",
-                "source": "Edmonton Journal",
-                "date": "2026-07-01T16:30:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Similar to Macraes': Miner says $4b in gold discovered near Dunedin",
-                "desc": "An Australian mining company says it has made a $4 billion gold discovery, which bears a ‘‘very strong similarity’’ to Macraes, near Dunedin. New...",
-                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/drill_rig_at_the_bella_prospect_lammerlaw_gold-antimony_project_otago_region_-_may_2026.jpeg?itok=O30qCPRd",
-                "url": "https://www.odt.co.nz/news/dunedin/similar-macraes-miner-says-4b-gold-discovered-near-dunedin",
-                "source": "Otago Daily Times",
-                "date": "2026-07-01T16:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five arrested, 1.38 million illegal cigarettes seized in raids",
-                "desc": "Authorities carried out 21 raids at eight retail outlets and six residential addresses in Rotorua, Waikato and Auckland as part of the six-month operation.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/cigarettes-seized-as-part-of-operation-clarify-K4VSJ47EUBGMNFFA56J5LUO72I.jpg?auth=f57ba02c8ef7530f6fd09aa70fe092538a2fc82869dbf5e30391d0c8ce8cae71&quality=70&width=600&height=315&focal=3000%2C2000",
-                "url": "https://www.1news.co.nz/2026/07/01/five-arrested-138-million-illegal-cigarettes-seized-in-raids/",
-                "source": "1News",
-                "date": "2026-07-01T16:20:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Federal Reserve Chair Warsh emphasizes political independence, signals focus on inflation",
-                "desc": "In remarks at a central bank conference in Sintra, Portugal, Warsh said that if businesses or households thought the Fed would accept inflation above 2%, “I guess they'd be disappointed. We're going to deliver price stability.”",
-                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-01T100031Z_568648379_RC274MAZO8S3_RTRMADP_3_USA-FED-WARSH-1024x683.jpg",
-                "url": "https://www.pbs.org/newshour/economy/federal-reserve-chair-warsh-emphasizes-political-independence-signals-focus-on-inflation",
-                "source": "PBS",
-                "date": "2026-07-01T16:20:16Z",
-                "priority": "MAJOR_ALERT"
             }
         ],
         "technology": [
+            {
+                "title": "YouTube Music not working on your Nest Hub? Google has a fix",
+                "desc": "Google Nest Hub owners noticed their displays stopped playing songs from YouTube Music, but Google is here with a fix.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/google-nest-hub-sanuj-4.jpg",
+                "url": "https://www.androidauthority.com/google-nest-hub-youtube-music-fix-3683568/",
+                "source": "Android Authority",
+                "date": "2026-07-01T20:24:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Down 40% From its All-Time High, Is Now the Perfect Opportunity to Load Up on This Quantum Computing Leader?",
+                "desc": "IonQ stock is a long way from setting new highs again.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F875992%2Fimage-of-quantum-computing.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/01/down-40-from-its-all-time-high-is-now-the-perfect/",
+                "source": "The Motley Fool",
+                "date": "2026-07-01T20:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI-human relationships are real and come with risks, researchers find",
+                "desc": "Human-AI relationships are no longer confined to the domain of science fiction. As the technology has developed, AI chatbots have evolved from playing a role in search engines and image-generation tools into confidants, therapists ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-human-relationships.jpg",
+                "url": "https://techxplore.com/news/2026-07-ai-human-relationships-real.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-01T20:20:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung’s Smart Glasses Could Team Up With Its Rings and Watches",
+                "desc": "Samsung could use its existing wearable ecosystem to give its first smart glasses an edge.",
+                "image": "https://gizmodo.com/app/uploads/2026/05/warby-parker-smart-glasses-1200x675.jpg",
+                "url": "https://gizmodo.com/samsungs-smart-glasses-could-team-up-with-its-rings-and-watches-2000780248",
+                "source": "Gizmodo",
+                "date": "2026-07-01T20:20:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pixel 4a boot loop fix is on the way",
+                "desc": "Google has finally sorted out its Pixel 4a boot loop problem, and tells us when we can expect the fix to arrive.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2020/08/Google-Pixel-4a-and-Pixel-4-camera-housing.jpg",
+                "url": "https://www.androidauthority.com/pixel-4a-boot-loop-fix-3683547/",
+                "source": "Android Authority",
+                "date": "2026-07-01T20:19:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Not Netgear, Not TP-Link: This Mesh Wi-Fi Router Gets Consumer Reports' Top Score",
+                "desc": "Consumer Reports named the Asus ZenWiFi BT8 (2-Pack) its top pick for mesh wi-fi routers, citing its high range, quick setup, and intuitive controls.",
+                "image": "https://www.bgr.com/img/gallery/not-netgear-not-tp-link-this-mesh-wi-fi-router-gets-consumer-reports-top-score/l-intro-1782500851.jpg",
+                "url": "https://www.bgr.com/2202828/not-netgear-not-tp-link-consumer-reports-mesh-wi-fi-router/",
+                "source": "bgr.com",
+                "date": "2026-07-01T20:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google rolling out Android 17 QPR1 Beta 6 for Pixel",
+                "desc": "Following last week's release, Android 17 QPR1 Beta 6 is rolling out today for Pixel devices...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Android-17-logo-close-up.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/01/android-17-qpr1-beta-6-pixel/",
+                "source": "9to5Google",
+                "date": "2026-07-01T20:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Some Google Pixel owners are missing calls because their phone never rang",
+                "desc": "An issue affecting a number of Google Pixel owners over the past few weeks is showing missed calls that the...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Pixel-10a-Berry-Phonecall-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/01/some-google-pixel-owners-are-missing-calls-because-their-phone-never-rang/",
+                "source": "9to5Google",
+                "date": "2026-07-01T20:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Koduri builds the Arm model for AI GPUs",
+                "desc": "Oxmiq's licensable IP stack targets the economics of AI factories.",
+                "image": "https://www.jonpeddie.com/wp-content/uploads/2026/07/ox.png",
+                "url": "https://www.jonpeddie.com/news/koduri-builds-the-arm-model-for-ai-gpus/",
+                "source": "Jon Peddie Research",
+                "date": "2026-07-01T20:14:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elon Musk's SpaceX Showed Off Prototype AI Device",
+                "desc": "Elon Musk's SpaceX may be aiming to compete with Apple in the future. The company showed investors a prototype for a \"handset-like device designed to reshape how humans interact with artificial intelligence,\" according to The Wall Street Journal. The device is described as being slimmer than an iPhone, with a \"sleek design\". It runs a proprietary operating system, has a Qualcomm chipset, and integrates AI tech from SpaceX subsidiary xAI.",
+                "image": "https://images.macrumors.com/t/YG4IBU5BbKAC7b76w-a1NbEkNr4=/1600x/article-new/2026/07/spacex.jpg",
+                "url": "https://www.macrumors.com/2026/07/01/spacex-ai-device/",
+                "source": "MacRumors",
+                "date": "2026-07-01T20:10:24Z",
+                "priority": "MAJOR_ALERT"
+            },
             {
                 "title": "I replaced my Chromecast with a $50 box, and I'd take it over Google's $100 Streamer",
                 "desc": "I finally retired my Chromecast with Google TV, and the Xiaomi TV Box S 3rd Gen was a fantastic upgrade.",
@@ -1174,99 +1264,81 @@
                 "source": "IGN Southeast Asia",
                 "date": "2026-07-01T17:13:52Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Secure 20TB of Private Cloud Storage for a One-Time $500",
-                "desc": "Internxt's cloud storage plan works across Windows, Mac, iPhone, Android, and web browsers. It can quickly outperform years of subscriptions, and it's an astounding 80% off until July 5!",
-                "image": "https://i.pcmag.com/imagery/articles/01llGQe4FBm8b8MA842hKgw-1.fit_lim.size_1200x630.v1782748493.png",
-                "url": "https://www.pcmag.com/deals/secure-20tb-of-private-cloud-storage-for-a-one-time-500",
-                "source": "PCMag",
-                "date": "2026-07-01T17:00:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Review: The Tanmatsu, A Year On",
-                "desc": "About 18 months ago, we brought you a sneak peek at a handheld that started life in the Dutch conference badge scene. At the time it showed promise, but its software wasn't ready for a fair review. No...",
-                "image": "https://hackaday.com/wp-content/uploads/2025/01/tanmatsu-launch-featured.jpg",
-                "url": "https://hackaday.com/2026/07/01/review-the-tanmatsu-a-year-on/",
-                "source": "Hackaday",
-                "date": "2026-07-01T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Windows 11's new Start menu released to all ahead of next big update",
-                "desc": "Windows 11's 2025 Start menu is rolling out to all users, as Microsoft prepares a resizable, more customizable version for later in 2026.",
-                "image": "https://www.windowslatest.com/wp-content/uploads/2026/07/Start-Menu-Updated-June-2026.jpg",
-                "url": "https://www.windowslatest.com/2026/07/01/windows-11s-new-start-menu-released-to-all-ahead-of-next-big-update/",
-                "source": "Windows Latest",
-                "date": "2026-07-01T16:59:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nothing Phone 4b Live Images Confirm 6,000mAh Battery",
-                "desc": "Live images of the Nothing Phone 4b reveal a record 6,000mAh battery, Snapdragon 6 Gen 4, and 50MP OIS camera just days before the July 7 global launch.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/06/Nothing-Phone-4b-Live-Images-Confirm-6000mAh-Battery.jpg",
-                "url": "https://memeburn.com/nothing-phone-4b-live-images-confirm-6000mah-battery/",
-                "source": "Memeburn",
-                "date": "2026-07-01T16:59:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "T-Mobile Umbro Jersey collab: Release date, price, and how to buy",
-                "desc": "T-Mobile and Umbro are dropping a limited-edition soccer jersey on July 7. Here's how to get it on the T-Life app.",
-                "image": "https://helios-i.mashable.com/imagery/articles/03QIc12rYIwQxKqevxSI4oN/hero-image.fill.size_1200x675.v1782921275.jpg",
-                "url": "https://mashable.com/tech/t-mobile-umbro-soccer-jersey-drop",
-                "source": "Mashable",
-                "date": "2026-07-01T16:57:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation Plus adds Modern Warfare 3, For the King 2 and CrossCode",
-                "desc": "Starting on July 7th, subscribers will be able to claim Call of Duty: Modern Warfare III, For the King II and CrossCode. All three titles will be available to download and keep for as long as users maintain an active PS+ subscription.",
-                "image": "https://www.kitguru.net/wp-content/uploads/2022/03/PlayStation-Plus-732x330.jpg",
-                "url": "https://www.kitguru.net/gaming/matthew-wilson/playstation-plus-adds-modern-warfare-3-for-the-king-2-and-crosscode/",
-                "source": "KitGuru",
-                "date": "2026-07-01T16:52:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mike Slade Joins Personar as Senior Advisor to Support Global Sports AI Growth",
-                "desc": "Personar Ltd. has appointed technology and sports media veteran Mike Slade as senior advisor, adding a longtime digital media executive... Read More",
-                "image": "https://www.citybiz.co/wp-content/uploads/2026/07/Mike-Slade.jpg",
-                "url": "https://www.citybiz.co/article/868855/mike-slade-joins-personar-as-senior-advisor-to-support-global-sports-ai-growth/",
-                "source": "citybiz",
-                "date": "2026-07-01T16:50:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Top 10 fastest smartphone processors in 2026",
-                "desc": "The phone chipset race has reached new heights in 2026, with Qualcomm, MediaTek, Apple, and Samsung unveiling processors",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/vivo-x200-scaled.webp",
-                "url": "https://www.vanguardngr.com/2026/07/top-10-fastest-smartphone-processors-in-2026/",
-                "source": "Vanguard News",
-                "date": "2026-07-01T16:50:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LineageOS is now available for the Retroid Pocket 6 handheld",
-                "desc": "LineageOS 23.2, based on Android 16, is now available for the Retroid Pocket 6. A developer working on the project also previously said support is expected to extend to the Retroid Pocket 5 and Pocket G2. The release comes just days after Retroid shipped the handheld's first official OTA update and AYN issued a fix-focused update for the Odin 3.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Retroid-Pocket-69095.jpg",
-                "url": "https://www.notebookcheck.net/LineageOS-is-now-available-for-the-Retroid-Pocket-6-handheld.1332668.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-01T16:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro Colors Leaked Again, and Black Is Missing",
-                "desc": "Discover the latest iPhone 18 Pro color leak, including Dark Cherry, Light Blue, and Silver Gray, with no Black model expected this year.",
-                "image": "https://www.macobserver.com/wp-content/uploads/2026/01/iPhone-18-Pro-Max-Color-Rumors-Coffee-Purple-Burgundy-and-One-Tone-Back.jpg",
-                "url": "https://www.macobserver.com/news/iphone-18-pro-colors-leaked-again-and-black-is-missing/",
-                "source": "The Mac Observer",
-                "date": "2026-07-01T16:49:07Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Lambie, Hanson and Pocock form unlikely alliance to protect transparency campaigner Rex Patrick",
+                "desc": "Exclusive: Patrick is using freedom-of-information rules to seek where nuclear waste from Aukus submarines will be kept",
+                "image": "https://i.guim.co.uk/img/media/f25b0efbd239afdd58121eb03ac2ce65ed2b0a59/1_884_4307_3446/master/4307.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b01fee1e787c70a7464f2ea282791c65",
+                "url": "https://www.theguardian.com/australia-news/2026/jul/01/lambie-hanson-and-pocock-form-unlikely-alliance-to-protect-transparency-campaigner-rex-patrick",
+                "source": "The Guardian",
+                "date": "2026-07-01T20:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Postal Service cannot carry out Trump order on mail ballot delivery, judge rules",
+                "desc": "A federal judge blocked the US Postal Service from carrying out its plan for President Donald Trump’s mail ballot executive order, finding that the proposal violated a settlement in a 2020 lawsuit against the agency.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164079950.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/01/politics/postal-service-trump-order-mail-ballots-judge-rules",
+                "source": "CNN",
+                "date": "2026-07-01T20:22:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Security Council Programme of Work for July 2026",
+                "desc": "Security Council Programme of Work for July 2026 : What's In Blue : Security Council Report",
+                "image": "https://www.securitycouncilreport.org/wp-content/themes/scr2018/_resources/img/global/SCR-logo-share-1400.png",
+                "url": "https://www.securitycouncilreport.org/whatsinblue/2026/07/security-council-programme-of-work-for-july-2026.php",
+                "source": "Security Council Report",
+                "date": "2026-07-01T20:19:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "400 Fijian PALM workers abscond as Ministry warns overseas job opportunities at risk",
+                "desc": "400 Fijian PALM workers abscond as Ministry warns overseas job opportunities at risk",
+                "image": "https://www.fijivillage.com/news_images/20260702113529_media_6a456ba51c0997_56928198.jpg",
+                "url": "https://www.fijivillage.com/news/400-fijian-palm-workers-abscond-as-ministry-warns-overseas-job-opportunities-at-risk-17475e/",
+                "source": "Fijivillage",
+                "date": "2026-07-01T20:10:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU’s biometric system to replace passport stamps from Apr 10, here’s what changes for travellers",
+                "desc": "The European Union’s new Entry/Exit System (EES) will become fully operational across all external border crossing points from April 10, marking a major shift in how travellers enter and exit participating European countries.",
+                "image": "https://cdn.gujaratsamachar.com/articles/articles_thumbs/photo_1775654692182.jpeg?w=1200&h=630&q=80",
+                "url": "https://english.gujaratsamachar.com/news/nri-news/eus-biometric-system-to-replace-passport-stamps-from-apr-10-heres-what-changes-for-travellers-43243862885",
+                "source": "GujaratSamachar English",
+                "date": "2026-07-01T20:06:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ex-CIA head sues Trump administration to preserve records of inquiries into him",
+                "desc": "John Brennan demands record preservation to enable his defense if he’s indicted over ‘phantom criminal conduct’",
+                "image": "https://i.guim.co.uk/img/media/fe5560ee1d3eeb5294aff9323450cbce48999190/380_0_4093_3274/master/4093.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0cd931fe882a2413748d409ae9c1e3d2",
+                "url": "https://www.theguardian.com/us-news/2026/jul/01/john-brennan-cia-sues-trump-administration",
+                "source": "The Guardian",
+                "date": "2026-07-01T20:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+                "desc": "Trump and US officials opted to keep USMCA alive on short leash of annual reviews rather than longer term renewal",
+                "image": "https://i.guim.co.uk/img/media/31a210d511166fa5719f31e725a7fc480c0f4e99/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c7dc2d33c94980bc3ac34af662f4299",
+                "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+                "source": "The Guardian",
+                "date": "2026-07-01T20:03:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "APAC Energy Pulse - June 2026",
+                "desc": "The Asia-Pacific region made strides in nuclear energy exploration, BESS requirements for renewable energy procurement, offshore wind, and...",
+                "image": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13091_35.jpg",
+                "url": "https://www.jdsupra.com/legalnews/apac-energy-pulse-june-2026-5048480/",
+                "source": "JD Supra",
+                "date": "2026-07-01T20:01:53Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Harry Kane: England captain shows why he is greatest ever striker and Ballon D'Or contender after two-goal heroics against DR Congo",
                 "desc": "Harry Kane single-handedly put England through to the World Cup last 16 with two goals against DR Congo; the England captain struck with 75th and 86th-minute strikes as the Three Lions came from behind to win",
@@ -1824,80 +1896,8 @@
                 "source": "The Jerusalem Post",
                 "date": "2026-07-01T16:45:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "AFRICA: A Continent Bleeding Itself",
-                "desc": "Africa welcomes approximately 67 million international tourists annually, generating more than $38 billion in revenue .",
-                "image": "https://cdn.modernghana.com/images/content/71202663154-pulwo0a442-john-akinribido-head-shot.png",
-                "url": "https://www.modernghana.com/news/1507009/africa-a-continent-bleeding-itself.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-01T16:43:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World Bank scraps climate finance targets after U.S. criticism",
-                "desc": "World Bank abandons climate finance targets after U.S. criticism, potentially impacting projects in developing countries like India.",
-                "image": "https://th-i.thgim.com/public/incoming/15q9ui/article71171355.ece/alternates/LANDSCAPE_1200/iStock-1262389119.jpg",
-                "url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-bank-scraps-climate-finance-targets-after-us-criticism/article71170397.ece",
-                "source": "The Hindu",
-                "date": "2026-07-01T16:40:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How 'Neutral' Italy Lost Aircraft During Iran War?",
-                "desc": "Italy refused to join the US war against Iran and denied access to its military bases to US aircraft flying offensive sorties against the West Asian country. However, in a stark illustration of the risks of operating near active war zones, some Italian aircraft reportedly got caught in the crossfire. When the US launched Operation […]",
-                "image": "https://www.eurasiantimes.com/wp-content/uploads/2022/09/Eurofighter-typhoon.jpg",
-                "url": "https://www.eurasiantimes.com/eurofighter-typhoons-damaged-mq-9a-reaper-destroyed-how-neutral-italy-lost-aircraft-during-iran-war/",
-                "source": "EurAsian Times",
-                "date": "2026-07-01T16:38:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US, Tanzania Boost Global Infectious Disease Fight",
-                "desc": "Today, the United States and Tanzania signed a five-year bilateral global health Memorandum of Understanding (MOU) through the Trump Administration's",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/United_States_Department_of_State_headquarters.jpg",
-                "url": "https://www.miragenews.com/us-tanzania-boost-global-infectious-disease-1703081/",
-                "source": "Mirage News",
-                "date": "2026-07-01T16:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "500 families displaced to Karnoi as North Darfur fighting intensifies",
-                "desc": "The Karnoi Emergency Response Room in North Darfur says the locality has received 544 displaced...",
-                "image": "https://www.dabangasudan.org/wp-content/uploads/2026/06/كرنوي-1.jpg",
-                "url": "https://www.dabangasudan.org/en/all-news/article/500-families-displaced-to-karnoi-as-fighting-intensifies-in-north-darfur",
-                "source": "Dabanga Radio TV Online",
-                "date": "2026-07-01T16:35:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Top intelligence officers from Turkey and Africa’s most powerful military discuss Israel's violations",
-                "desc": "Egypt and Turkey have taken another step toward deepening their strategic collaboration, with the leaders of their intelligence services meeting in Ankara to discuss the Gaza conflict and other security issues in Africa. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/-rTktkpTURBXy83Zjk3NzY2ZDVjYmQ1YjRjYzlkZGIzODc1YzFiNDg3NS5qcGeSlQMBAM0C4c0Bn5MFzQSwzQJ2",
-                "url": "https://africa.businessinsider.com/local/lifestyle/top-intelligence-officers-from-turkey-and-africas-most-powerful-military-discuss/566hyrj",
-                "source": "Business Insider Africa",
-                "date": "2026-07-01T16:30:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Natural Resources",
-                "desc": "Jul 1, 2026 - Natural Resources, July 2026 Monthly Forecast : Security Council Report",
-                "image": "https://www.securitycouncilreport.org/wp-content/themes/scr2018/_resources/img/global/SCR-logo-share-1400.png",
-                "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-07/natural-resources.php",
-                "source": "Security Council Report",
-                "date": "2026-07-01T16:30:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "July 2026 Monthly Forecast",
-                "desc": "Jul 1, 2026 - The Middle East, including the Palestinian Question, July 2026 Monthly Forecast : Security Council Report",
-                "image": "https://www.securitycouncilreport.org/wp-content/themes/scr2018/_resources/img/global/SCR-logo-share-1400.png",
-                "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-07/the-middle-east-including-the-palestinian-question-25.php",
-                "source": "Security Council Report",
-                "date": "2026-07-01T16:30:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-02T08:00:31.816543Z"
+    "lastGlobalSync": "2026-07-02T08:28:05.554248Z"
 }
