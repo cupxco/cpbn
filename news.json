@@ -4,6 +4,87 @@
     "en": {
         "business": [
             {
+                "title": "Is It Cheaper To Live On A Cruise Ship Than Pay Rent?",
+                "desc": "Rent is brutal. One couple says they found a cheaper option: living full-time on cruise ships while traveling the world.",
+                "image": "https://brobible.com/wp-content/uploads/2026/06/Woman-and-her-husband-live-on-a-cruise-ship.jpg",
+                "url": "https://brobible.com/culture/article/living-on-cruise-ships/",
+                "source": "BroBible",
+                "date": "2026-07-02T02:00:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China’s tax crackdown shakes A-share and Hong Kong-listed firms with major payouts",
+                "desc": "Beijing’s anti-tax evasion campaign could expand, raising concerns that corporate earnings, cash flows and investor sentiment may be at risk.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/01/081168bd-8c8f-4e19-a409-7c5494f97a37_619a01be.jpg?itok=1PSDVl7A&v=1782900288",
+                "url": "https://www.scmp.com/economy/article/3359042/chinas-tax-crackdown-shakes-share-and-hong-kong-listed-firms-major-payouts",
+                "source": "South China Morning Post",
+                "date": "2026-07-02T02:00:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Light rail works ahead of schedule as battery vehicles begin operations",
+                "desc": "Canberra's light rail extension is ahead of schedule, with London Circuit east partially reopening. See when the city centre will be fully transformed.",
+                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/232169416/96a114d2-3f09-4407-b77e-202845238f38.jpg/r0_577_4032_2694_w1200_h630_fmax.jpg",
+                "url": "https://www.canberratimes.com.au/story/9303327/light-rail-works-ahead-of-schedule-as-battery-vehicles-begin-operations/",
+                "source": "The Canberra Times",
+                "date": "2026-07-02T01:57:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria Issues 7,942 in Q1 2026",
+                "desc": "Nigeria granted 7,942 oil and gas industry service permits and 49 licences in Q1 2026, reflecting sustained upstream activity and investor confidence.",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/NUPRC.webp",
+                "url": "https://punchng.com/7942-oil-service-permits-49-licences-granted-in-q1-report/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-02T01:56:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Virgin rolls out ‘fly ahead’ feature to economy class fare",
+                "desc": "Virgin will allow some passengers to bring their flights forward for free, giving them a choice Qantas typically offers only when disruptions are looming.",
+                "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/bc50249be735db27e8de0aa587fd41611df76ef7",
+                "url": "https://www.smh.com.au/business/companies/virgin-rolls-out-fly-ahead-feature-to-economy-class-fare-20260702-p60bxk.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-02T01:53:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shore Sovereign Deployment and Accelerate QML Capital Markets Scaling",
+                "desc": "Archer Materials (ASX: AXE) has executed a three-year Quantum Compute Agreement with IonQ (NYSE: IONQ), expanding its enterprise architecture from a singular focus on graphene-based chip development into an end-to-end sovereign services operator.",
+                "image": "https://quantumcomputingreport.com/wp-content/uploads/2026/07/image-9.png",
+                "url": "https://quantumcomputingreport.com/archer-materials-partners-with-ionq-to-study-on-shore-sovereign-deployment-and-accelerate-qml-capital-markets-scaling/",
+                "source": "Quantum Computing Report",
+                "date": "2026-07-02T01:50:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Facing public backlash in Tasmania, Firmus moves to calm concerns about its AI data centres",
+                "desc": "One of three AI factories planned for northern Tasmania would be quieter than a library to the nearest resident, Firmus co-CEO Oliver Curtis says, as the company moves to assuage community concerns around power use, water and noise.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/0ac8d200aaa18cd654f69df46b5dc37b?impolicy=wcms_watermark_news&cropH=713&cropW=1267&xPos=98&yPos=47&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-02/firmus-response-public-backlash-artificial-intelligence-tasmania/106864804",
+                "source": "Australian Broadcasting Corporation",
+                "date": "2026-07-02T01:49:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa needs 700 data centres by 2035 to power digital trade under AfCFTA",
+                "desc": "Africa needs more than 500 additional data centres over the next nine years to attain sovereignty and build a competitive digital trade...",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/BusinessDay-Image_20260701_173220_0000.jpg",
+                "url": "https://businessday.ng/news/article/africa-needs-700-data-centres-by-2035-to-power-digital-trade-under-afcfta-secretary/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-02T01:43:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU carmakers want UK included in 'Made in Europe' rules",
+                "desc": "European automakers called Wednesday for British vehicles and car parts to fall under the definition of \"made in Europe\" set out by new rules aiming to bolster the bloc's industries.",
+                "image": "https://citizentv.obs.af-south-1.myhuaweicloud.com/133668/conversions/Moscow-og_image.webp",
+                "url": "https://citizen.digital/article/eu-carmakers-want-uk-included-in-made-in-europe-rules-n385621",
+                "source": "Citizen Digital",
+                "date": "2026-07-02T01:41:19Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Ribo and Madrigal Reach First Major Milestone in Advancing Novel siRNA Therapies for MASH",
                 "desc": "The latest company information, including net asset values, performance, holding & sectors weighting, changes in voting rights, and directors and dealings.",
                 "image": "https://mmx.prnewswire.com/media/MS1744311/logo-Ribolia-Logo.jpg?id=OA2748206",
@@ -551,90 +632,63 @@
                 "source": "TechCrunch",
                 "date": "2026-07-01T22:28:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The trials of the family farm exit",
-                "desc": "At a Totara Valley farm in South Canterbury, the winter kale crops blow in the cold wind but instead of being out moving fence breaks, Graham Peck, 70, and wife Sharon, 68, can enjoy the view from the warmth and comfort of their retirement home.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--cAbSP_GL--/t_tohu-badge-facebook/f_auto/q_auto/4JMF807_IMG_20250308_WA0015_jpg",
-                "url": "https://www.rnz.co.nz/news/business/652866/the-trials-of-the-family-farm-exit",
-                "source": "RNZ",
-                "date": "2026-07-01T22:21:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As veterinary costs climb, private equity ownership of clinics draws scrutiny",
-                "desc": "Veterinary care is becoming increasingly expensive for American pet owners. As prices rise, attention is turning to a major shift in the industry: private equity firms and large corporations buying up veterinary practices across the country. Paul Solman has the story.",
-                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/vet-1024x768.jpg",
-                "url": "https://www.pbs.org/newshour/show/as-veterinary-costs-climb-private-equity-ownership-of-clinics-draws-scrutiny",
-                "source": "PBS",
-                "date": "2026-07-01T22:20:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KGM 's future in NZ is officially uncertain, but we're reviewing the Torres hybrid Ultimate anyway",
-                "desc": "Just as the Torres hybrid arrives with BYD power, the KGM brand is pulling out of NZ. But who's to say you can't now get a bargain in buying one of these?",
-                "image": "https://www.drivencarguide.co.nz/media/0ukhiatt/20260624_150410.jpg?v=1dd0979b2666250",
-                "url": "https://www.drivencarguide.co.nz/reviews/kgm-s-future-in-nz-is-officially-uncertain-but-were-reviewing-the-torres-hybrid-ultimate-anyway/",
-                "source": "Driven Car Guide",
-                "date": "2026-07-01T22:17:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Stretched to the limit': Heat wave prompts US electrical grid emergency",
-                "desc": "The U.S. Department of Energy has declared an emergency as a heat wave bears down on a huge part of the nation's electrical grid.",
-                "image": "https://i.abcnewsfe.com/a/be20a1f9-066e-4e8f-a2ee-35c394ca013e/heat-wave-boston-gty-bh-260701_1782924816817_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-01T22:09:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Replication-stress-induced chromatin loops protect fork stability",
-                "desc": "Replication stress poses a major threat to genome integrity, yet how higher-order chromatin organization contributes to replication fork protection remains unclear1,2. Here we show that replication stress induces the formation of transient chromatin loops that enclose de novo heterochromatin-enriched stalled replication forks3. Stressed forks preferentially stall at convergent CTCF motifs, triggering stress-dependent CTCF enrichment that constrains loop extrusion and stabilizes these structures. Loop stabilization requires both CTCF anchoring and G9a-dependent heterochromatin (trimethylation of Lys9 of histone H3 (H3K9me3)) deposition on nascent DNA within the loop body. These loops function as protective scaffolds that shield stalled and reversed forks from degradation by multiple nucleases. By contrast, combined loss of stress-induced heterochromatin and CTCF enrichment destabilizes the loop scaffold, exposing multiple entry points for nucleolytic attack and resulting in extensive nascent-strand degradation through mechanisms distinct from classical fork-reversal-dependent pathways. This protective architecture is similarly critical in BRCA2-deficient cells, in which replication-stress-associated loops predominantly safeguard replication initiation zones, while nascent DNA outside these loops undergoes massive degradation and remains highly susceptible to mutations. Our study elucidates the fundamental role of replication-stress-induced three-dimensional genome reorganization in preserving replication fork stability, thereby mitigating mutagenesis and genomic instability. Replication stress induces the formation of transient chromatin loops that enclose de novo heterochromatin-enriched stalled replication forks.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10695-1/MediaObjects/41586_2026_10695_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41586-026-10695-1?error=cookies_not_supported&code=4f68c0f9-5364-4026-bffe-8c599041e857",
-                "source": "Nature",
-                "date": "2026-07-01T22:06:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asian Stocks to Decline as Traders Weigh AI, Warsh: Markets Wrap",
-                "desc": "(Bloomberg) -- Stocks in Asia were set to fall on Thursday as a selloff in US chipmakers weighed on sentiment and investors assessed fresh remarks from Federal Reserve Chairman Kevin Warsh.",
-                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1770807997",
-                "url": "https://www.swissinfo.ch/eng/asian-stocks-to-decline-as-traders-weigh-ai%2C-warsh%3A-markets-wrap/91685009",
-                "source": "SWI swissinfo.ch",
-                "date": "2026-07-01T22:05:31Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "WhatsApp usernames are already raising impersonation red flags",
-                "desc": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
-                "image": "https://s.yimg.com/lo/mysterio/api/a47113937e7276528f9dd8f8f9fe384cc9202b3044ca9875f5b1f032b9fde951/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F17572c6b9a6834c2c4bb099e1ec29601",
-                "url": "https://tech.yahoo.com/social-media/articles/whatsapp-usernames-already-raising-impersonation-220224237.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-01T22:02:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Torque jewellery refined, from Cartier to Hong Kong’s Chantel Shafie",
-                "desc": "Bold, sculptural torque jewellery is enjoying a revival – minimalist, versatile and redefining modern luxury with timeless wearability.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_style/public/d8/images/canvas/2026/06/30/682bdb20-83a4-4075-aee3-5c640732cb52_80c628c2.jpg?itok=s6FqhJdQ&v=1782787621",
-                "url": "https://www.scmp.com/magazines/style/luxury/jewellery/article/3358831/torque-jewellery-refined-cartier-hong-kongs-chantel-shafie",
-                "source": "South China Morning Post",
-                "date": "2026-07-01T22:00:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CNA Explains: Why AI stocks are whipsawing markets from Wall Street to Seoul",
-                "desc": "Are recent tech sell-offs a cause for concern, and is an AI bubble forming?",
-                "image": "https://dam.mediacorp.sg/image/upload/s--CdhH5jb7--/c_crop,h_450,w_800,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-01T135448Z_2_LYNXMPEM402MF_RTROPTP_3_USA-STOCKS.JPG?itok=2Qh5g-c_",
-                "url": "https://www.channelnewsasia.com/singapore/ai-stocks-sell-tech-bubble-wall-street-kospi-6224231",
-                "source": "CNA",
-                "date": "2026-07-01T22:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Laser-based projection system uses light to guide workers through warehouses",
+                "desc": "Businesses are facing an increasing shortage of skilled workers. In some industries, like the logistics sector, specialists are so scarce that many companies have to rely on career changers and unskilled workers. What's more, ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/laser-based-projection.jpg",
+                "url": "https://techxplore.com/news/2026-07-laser-based-workers-warehouses.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-02T02:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jennifer Aniston Turns Her Home Bar Into a Destination",
+                "desc": "Clever organization, elegant lighting, and dark wood turn Jennifer Aniston's home bar into a gorgeous celebration of entertaining, perfect for the summer season",
+                "image": "https://cdn.mos.cms.futurecdn.net/v8L6tRvMZdV8vXM3k2Sp8-2560-80.jpg",
+                "url": "https://www.homesandgardens.com/celebrity-homes/jennifer-aniston-home-bar-design",
+                "source": "Homes and Gardens",
+                "date": "2026-07-02T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony to end production of physical PlayStation discs in 2028",
+                "desc": "Sony Group Corp will end production of physical discs for its PlayStation video-game consoles starting in January 2028, going all in on a digital approach that will require consumers to download titles from the company's online storefront moving forward.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/02/3987142.jpg",
+                "url": "https://www.thestar.com.my/tech/tech-news/2026/07/02/sony-to-end-production-of-physical-playstation-discs-in-2028",
+                "source": "The Star",
+                "date": "2026-07-02T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GPU-Accelerated Autorouter Handles Monstrous PCB Designs",
+                "desc": "[Brian] had an absolute monster of a PCB with thousands of nets to be routed, the kind of design that stopped traditional routers in their tracks. It would take months to route by hand, likely trying ...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/06/OrthoRouteKiCad-banner.png",
+                "url": "https://hackaday.com/2026/07/01/gpu-accelerated-autorouter-handles-monstrous-pcb-designs/",
+                "source": "Hackaday",
+                "date": "2026-07-02T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony to end video game disc production in January 2028",
+                "desc": "The gaming giant says the move toward digital-only games aligns the company with consumer trends toward online marketplaces.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/02/549402.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/life/2026/07/02/digital/sony-ending-disc-production-2028-games/",
+                "source": "The Japan Times",
+                "date": "2026-07-02T01:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Xiaomi Power Bank 20000 22.5W launching globally with battery health features and triple charging support",
+                "desc": "Xiaomi has launched a new power bank globally. Capable of charging up to three devices at once, the Xiaomi Power Bank 20000 22.5W also supports low-current charging for smaller devices and integrates multiple safety protections to prevent overcurrent, overheating and fires.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-Power-Bank-20000-22.5W-global-kv.jpg",
+                "url": "https://www.notebookcheck.net/New-Xiaomi-Power-Bank-20000-22-5W-launching-globally-with-battery-health-features-and-triple-charging-support.1332704.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-02T01:43:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "KT Launches AI-Powered 'Galaxy Jump 5' Exclusively at ₩545,600",
                 "desc": "KT will exclusively launch the 'Galaxy Jump 5,' a carrier-specific smartphone based on Samsung Electronics' Galaxy A27 5G, on July 3 at a retail price…",
@@ -1210,63 +1264,45 @@
                 "source": "Notebookcheck",
                 "date": "2026-07-01T21:52:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation to ditch physical game discs from 2028",
-                "desc": "The change is already underway.",
-                "image": "https://static.ffx.io/images/$zoom_0.9806%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/5ad71da8a5ee7cf32f104c514b6a6caa8b114ae9d78810455fcc08072640307e",
-                "url": "https://www.nine.com.au/business-news/playstation-to-ditch-physical-game-discs-from-2028-20260702-p60bvq.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-01T21:48:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's everything new in Android 17 QPR1 Beta 6 [Gallery]",
-                "desc": "With Android 17 QPR1 Beta 6 today, Google is rolling out a third wave of bug fixes for Pixel devices and Platform Stability...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/01/android-17-qpr1-beta-6-everything-new/",
-                "source": "9to5Google",
-                "date": "2026-07-01T21:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation ends physical game discs starting January 2028",
-                "desc": "Sony will stop producing physical discs for new PlayStation games from January 2028, shifting future releases to digital-only distribution.",
-                "image": "https://americanbazaaronline.com/wp-content/uploads/2022/05/Sony.jpg",
-                "url": "https://americanbazaaronline.com/2026/07/01/playstation-ends-physical-game-discs-starting-january-2028-483896/",
-                "source": "The American Bazaar",
-                "date": "2026-07-01T21:33:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Finally Kills Its Messages App On Galaxy Phones In Days",
-                "desc": "In April, Samsung announced that it would close its messaging app on Galaxy devices in July. Here’s what it means.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4584798334947c89bfb99d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/davidphelan/2026/07/01/samsung-finally-kills-its-messages-app-on-galaxy-phones-in-days/",
-                "source": "Forbes",
-                "date": "2026-07-01T21:30:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Best AI Wearables, Audio Gadgets for Relaxation, Sleep & Recovery in H1 2026",
-                "desc": "Here are some of the best AI-powered wearables and audio gadgets released so far this year for relaxation, recovery and everyday wellness.",
-                "image": "https://techeconomy.ng/wp-content/uploads/2026/07/Best-AI-Wearables-H1-2026.png",
-                "url": "https://techeconomy.ng/best-ai-wearables-audio-gadgets-for-relaxation-sleep-recovery-in-h1-2026/",
-                "source": "Techeconomy",
-                "date": "2026-07-01T21:30:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MPlus Cosmetics unveils ‘Essence Nude’ a new collection of hybrid color coslmetics",
-                "desc": "Italian color cosmetics contract manufacturer MPlus Cosmetics used the MakeUp in Paris 2026 exhibition to introduce Essence Nude, a new collection that reflects the growing demand for high-naturality, hybrid makeup solutions that combine skincare benefits with premium cosmetic performance. Presented during the June 17-18 event at the Carrousel du Louvre in Paris, the collection represents the company's latest innovation platform for beauty brands seeking products aligned with evolving...",
-                "image": "https://www.premiumbeautynews.com/IMG/logo/1050x600_essence_nude.jpg?1782941209",
-                "url": "https://www.premiumbeautynews.com/en/mplus-cosmetics-unveils-essence,27856",
-                "source": "Premium Beauty News",
-                "date": "2026-07-01T21:30:02Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Russia strikes Ukraine capital with missiles and drones, wounds five",
+                "desc": "KYIV: Russian missile and drone strikes rocked Kyiv early on Thursday (Jul 2), setting off fires and wounding at least five people, after President Volodymyr Zelenskyy warned that Moscow was preparing a \"massive attack\".Russia has routinely launched waves of missiles and drones at Ukrainian cities, including",
+                "image": "https://dam.mediacorp.sg/image/upload/s--KGrHlR-D--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/02/000_b8yr7cq_0.jpg?itok=Xb6JtOmg",
+                "url": "https://www.channelnewsasia.com/world/russia-strikes-ukraine-capital-missiles-and-drones-wounds-five-6226386",
+                "source": "CNA",
+                "date": "2026-07-02T01:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia launches deadly large-scale missile strikes on Kyiv",
+                "desc": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do",
+                "source": "BBC",
+                "date": "2026-07-02T01:55:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘In case of emergency’: Taiwan’s rising rich flock to Singapore",
+                "desc": "The city-state has overtaken Hong Kong as the top destination for Taiwanese offshore wealth over the past three years.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/02/549397.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/news/2026/07/02/asia-pacific/taiwan-rich-singapore/",
+                "source": "The Japan Times",
+                "date": "2026-07-02T01:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'China trying to take over': Trump calls giving away Panama Canal 'stupid mistake'",
+                "desc": "US News: US President Donald Trump on Wednesday said the United States should never have handed over control of the Panama Canal to Panama, accusing the Centra.",
+                "image": "https://static.toiimg.com/thumb/msid-132127027,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/us/china-trying-to-take-over-trump-calls-giving-away-panama-canal-stupid-mistake/articleshow/132126951.cms",
+                "source": "The Times of India",
+                "date": "2026-07-02T01:46:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "US-Iran talks gain momentum in Doha as Hormuz tensions ease ahead of Khamenei funeral",
                 "desc": "Qatar confirmed Wednesday that talks between U.S. and Iranian negotiators in Doha made progress, with Foreign Ministry spokesperson Dr. Majed Al Ansari saying new meetings would follow the funeral for Supreme Leader Ali Khamenei.",
@@ -1860,44 +1896,8 @@
                 "source": "Anash.org",
                 "date": "2026-07-01T21:30:55Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-                "desc": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2078/live/ee675030-758e-11f1-92e5-efd489c4d444.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo",
-                "source": "BBC",
-                "date": "2026-07-01T21:27:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "West Africa and the Sahel",
-                "desc": "Jul 1, 2026 - West Africa and the Sahel, July 2026 Monthly Forecast : Security Council Report",
-                "image": "https://www.securitycouncilreport.org/wp-content/themes/scr2018/_resources/img/global/SCR-logo-share-1400.png",
-                "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-07/west-africa-and-the-sahel-17.php",
-                "source": "Security Council Report",
-                "date": "2026-07-01T21:17:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ACC Members Walk in Derry's Paths of Peace",
-                "desc": "ACC members heard stories of forgiveness and pledged themselves to reconciliation in a city long famous for sectarian violence.",
-                "image": "https://du1vcq2i9949a.cloudfront.net/wp-content/uploads/2026/07/NT015470-scaled.jpg",
-                "url": "https://livingchurch.org/news/news-anglican-communion/acc-members-walk-in-derrys-paths-of-peace/",
-                "source": "The Living Church",
-                "date": "2026-07-01T21:13:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kane double rescues England in comeback win over DR Congo",
-                "desc": "Harry Kane produces another match-winning display, scoring twice in the final 15 minutes in a 2-1 victory to book a Mexico showdown.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/05b1c7f3-world-cup-harry-kane-england-dr-congo.jpg",
-                "url": "https://www.freemalaysiatoday.com/category/highlight/2026/07/02/kane-double-rescues-england-in-comeback-win-over-dr-congo",
-                "source": "Free Malaysia Today",
-                "date": "2026-07-01T21:13:24Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-02T13:40:31.189193Z"
+    "lastGlobalSync": "2026-07-02T14:00:31.014915Z"
 }
