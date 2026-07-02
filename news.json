@@ -4,6 +4,42 @@
     "en": {
         "business": [
             {
+                "title": "Commercial site for sale following fast",
+                "desc": "A long-serving Red Rooster has quietly closed its doors and is now up for sale for the first time in more than two decades.",
+                "image": "https://www.sunshinecoastnews.com.au/wp-content/uploads/2026/07/SCN17262-Mary-Street-Noosaville-scaled.jpg",
+                "url": "https://www.sunshinecoastnews.com.au/2026/07/02/commercial-site-for-sale-following-fast-food-closure/",
+                "source": "Sunshine Coast News",
+                "date": "2026-07-01T17:59:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Exxon Mobil: $70 Oil Price Unlikely To Last (Rating Upgrade)",
+                "desc": "Exxon Mobil was upgraded to Buy as oil inventories and SPR hit multi-decade lows. Click for more on XOM stock.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2266446664/image_2266446664.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4919252-exxon-mobil-70-dollar-oil-price-unlikely-to-last-rating-upgrade",
+                "source": "Seeking Alpha",
+                "date": "2026-07-01T17:57:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CBN's New Payments Framework: Is Nigeria Introducing Functional Separation into the Payments Ecosystem? Part 1",
+                "desc": "The CBN's latest payments circular signals a shift towards regulating market structure. This analysis explores its legal and commercial implications.",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/payment.jpg",
+                "url": "https://businessday.ng/news/legal-business/article/cbns-new-payments-framework-is-nigeria-introducing-functional-separation-into-the-payments-ecosystem-part-1/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-01T17:55:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wall Street Debates Nike's Turnaround Timeline But Sees Positive Signs",
+                "desc": "Nike's improving gross margins are a plus, but China and Europe issues remain as product innovation continues and underperforming doors could be cut.",
+                "image": "https://wwd.com/wp-content/uploads/2022/11/Nike.jpg?w=1000&h=563&crop=1",
+                "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-gross-margins-china-europe-innovation-doors-cut-1239049394/",
+                "source": "wwd.com",
+                "date": "2026-07-01T17:53:03Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "SpaceX Investors Are Having Another Brutal Day",
                 "desc": "After days of rallying north of the $170 mark, shares of Elon Musk's SpaceX took a beating on Wednesday, indicating plenty of uncertainty.",
                 "image": "https://futurism.com/wp-content/uploads/2026/07/spacex-investors-another-brutal-day.jpg?w=1200",
@@ -596,45 +632,99 @@
                 "source": "Ynetnews",
                 "date": "2026-07-01T13:04:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "PSX climbs 3,748 points on inflation relief, broad-based buying",
-                "desc": "KSE-100 index reaches 184,050.10; banking, energy, cement and auto stocks lead rally as rate-cut expectations grow",
-                "image": "https://i.tribune.com.pk/media/images/psx1751375759-0/psx1751375759-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2615905/kse-100-index-gains-over-2000-points-amid-improving-sentiment",
-                "source": "The Express Tribune",
-                "date": "2026-07-01T13:03:43Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Dangote Targets 2.1mbpd Refining Capacity in Nigeria, Kenya",
-                "desc": "Dangote Industries plans to expand its refining capacity to 2.1mbpd across Nigeria and Kenya, boosting Africa's energy independence. Learn more about the D",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/Dangote-Aliko-in-suit-holding-mic-alone.webp",
-                "url": "https://punchng.com/dangote-targets-2-1mbpd-refining-capacity-in-nigeria-kenya/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-01T13:01:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What's next for Bitcoin and stocks? Analysts see a volatile second half",
-                "desc": "After AI drove equities higher while bitcoin lagged, market watchers expect macro policy and market structure to take center stage.",
-                "image": "https://cdn.sanity.io/images/s3y3vcno/production/1fc57e77c7159bd957fa44b2840131de4d0cb257-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-                "url": "https://www.coindesk.com/markets/2026/06/30/what-s-next-for-bitcoin-and-stocks-analysts-see-a-volatile-second-half",
-                "source": "CoinDesk",
-                "date": "2026-07-01T13:00:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bybit Launches Bank Triparty for Bank",
-                "desc": "Bybit launched Bank Triparty, letting institutions post USD or T-Bills with regulated banking partners and borrow USDT into their Bybit account while keeping collateral in bank custody.",
-                "image": "https://financefeeds.com/wp-content/uploads/2026/07/Bybit-Launches-Bank-Triparty-for-Bank-Held-Institutional-Collateral.jpeg",
-                "url": "https://financefeeds.com/bybit-launches-bank-triparty-for-bank-held-institutional-collateral/",
-                "source": "FinanceFeeds",
-                "date": "2026-07-01T13:00:21Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "I tried the Windows 11 registry trick that's supposed to fix laggy menus, and here's what actually changed",
+                "desc": "I tested the registry tweak everyone swears by and mostly just confirmed I have a fast computer already.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/regedit-command-in-run-dialogbox-on-windows-11.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/i-tried-the-windows-11-registry-trick-thats-supposed-to-fix-laggy-menus-and-heres-what-actually-changed/",
+                "source": "MakeUseOf",
+                "date": "2026-07-01T18:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Moisture-driven tech can power green batteries-and destroy spy gear",
+                "desc": "Researchers from North Carolina State University and Rice University have created a nontoxic, stretchable battery that operates by extracting moisture from the ambient environment—even in climates as dry as the desert. The ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-battery.jpg",
+                "url": "https://techxplore.com/news/2026-06-moisture-driven-tech-power-green.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-01T18:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Results after using a vibration plate for a month",
+                "desc": "Over the past month, my routine was fairly simple. Almost every morning, I stood on a vibration plate for exactly ten minutes. Here’s the honest answer to what changed.",
+                "image": "https://vogueadria.com/wp-content/uploads/2026/06/IMG_6625-2-copy-1536x1152.jpg",
+                "url": "https://vogueadria.com/vibration-plate-one-month-of-use/",
+                "source": "Vogue Adria",
+                "date": "2026-07-01T18:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hands-On The Tudor Black Bay Chrono 39 'Bumblebee' Ref. 79310N",
+                "desc": "It fits.",
+                "image": "https://hodinkee.imgix.net/uploads/images/f110ab73-289d-4c36-a39c-807a43d48f86/L1050750.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+                "url": "https://www.hodinkee.com/articles/the-tudor-black-bay-chrono-39-bumblebee-2",
+                "source": "Hodinkee",
+                "date": "2026-07-01T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Forget a Fitbit Air Rival. Apple Should Build an Oura Ring Competitor",
+                "desc": "An Apple smart ring could be an unobtrusive complement to the Apple Watch, capturing health data around the clock and turning Siri into an indispensable health coach.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/opinion/f/forget-a-f/forget-a-fitbit-air-rival-apple-should-build-an-oura-ring-co_t523.1200.png",
+                "url": "https://au.pcmag.com/wearables/118573/forget-a-fitbit-air-rival-apple-should-build-an-oura-ring-competitor",
+                "source": "PCMag Australia",
+                "date": "2026-07-01T17:57:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ubisoft Hires Former Amazon Games Chief Christoph Hartmann",
+                "desc": "Ubisoft has appointed former Amazon Games chief Christoph Hartmann as the general manager at Creative House 2.",
+                "image": "https://variety.com/wp-content/uploads/2024/06/Christoph-Hartmann-headshot.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/gaming/news/ubisoft-hires-amazon-games-chief-christoph-hartmann-1236800187/",
+                "source": "Variety",
+                "date": "2026-07-01T17:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Game You'll Fight in a Fallen Near",
+                "desc": "You can already add it to your wishlist!",
+                "image": "https://cdn.80.lv/api/upload/meta/49078/images/6a45531a547e5/contain_1200x630.jpg",
+                "url": "https://80.lv/articles/in-this-cinematic-open-world-game-you-ll-have-to-fight-in-a-fallen-near-future-seoul",
+                "source": "80 Level",
+                "date": "2026-07-01T17:52:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ten weeks of cognitive rehabilitation reverses long Covid brain fog",
+                "desc": "Ten weeks of cognitive rehabilitation can help people with long Covid symptoms such as brain fog achieve their goals in returning to work and hobbies, finds a new clinical trial led by University College London (UCL) researchers.",
+                "image": "https://www.news-medical.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+                "url": "https://www.news-medical.net/news/20260701/Ten-weeks-of-cognitive-rehabilitation-reverses-long-Covid-brain-fog.aspx",
+                "source": "News-Medical",
+                "date": "2026-07-01T17:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jabra Expands Evolve3 Professional Headset Range to Support Different Work Styles",
+                "desc": "Jabra, a global leader in professional audio and video solutions, today announced three new additions to the Jabra Evolve3 range, expanding its professional headset lineup designed to deliver consistent call quality across desk-based, open-office and hybrid or flexible work styles. The new Evolve3 6...",
+                "image": "https://www.techpowerup.com/img/KshesjGwmWEKryif.jpg",
+                "url": "https://www.techpowerup.com/350447/jabra-expands-evolve3-professional-headset-range-to-support-different-work-styles",
+                "source": "TechPowerUp",
+                "date": "2026-07-01T17:49:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
+                "desc": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio’s staff, Bloomberg reports.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/SN2_Coral_Gardens_with_Friends_4K.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+                "url": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
+                "source": "The Verge",
+                "date": "2026-07-01T17:45:23Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Metroid Ravenous For Switch 2 Seemingly Leaked In New Rating",
                 "desc": "It's certainly believable given the timeline",
@@ -1174,99 +1264,99 @@
                 "source": "Pokde.Net",
                 "date": "2026-07-01T14:53:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Bose Smart TV Soundbar Keeps Its Prime Day Price for the 4th of July, but Stock Is Already Running Low",
-                "desc": "Make the most of your ears with this amazing discount.",
-                "image": "https://gizmodo.com/app/uploads/2026/06/sound-deal-1200x675.jpg",
-                "url": "https://gizmodo.com/bose-smart-tv-soundbar-keeps-its-prime-day-price-for-the-4th-of-july-but-stock-is-already-running-low-2000779395",
-                "source": "Gizmodo",
-                "date": "2026-07-01T13:10:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google's Gemini Spark AI Agent is Now Available on macOS",
-                "desc": "Google’s new Gemini Spark agent that launched for AI Ultra Subscribers in the US last month is now available in the Gemini app for macOS.",
-                "image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/07/Google-Gemini-Spark.jpg",
-                "url": "https://www.thurrott.com/a-i/338198/googles-gemini-spark-ai-agent-is-now-available-on-macos",
-                "source": "Thurrott.com",
-                "date": "2026-07-01T13:10:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SnapLogic Launches MCP Builder to Accelerate Enterprise AI Adoption Through Simplified MCP Creation",
-                "desc": "New capability enables organizations to turn existing integrations, APIs, and business processes into governed MCP tools in minutes",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/01/1121211.png",
-                "url": "https://www.manilatimes.net/2026/07/01/tmt-newswire/globenewswire/snaplogic-launches-mcp-builder-to-accelerate-enterprise-ai-adoption-through-simplified-mcp-creation/2376779",
-                "source": "The Manila Times",
-                "date": "2026-07-01T13:08:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "\"Technology was the enabler, but the true value came from collaboration\"",
-                "desc": "Planet Farms is a food technology company focused on controlled-environment agriculture, combining technological development with sustainability-oriented growing practices. The company uses a…",
-                "image": "https://www.verticalfarmdaily.com/remote/https/agfstorage.blob.core.windows.net/misc/VFD_com/2026/06/26/EN1.jpg?preset=OgImage",
-                "url": "https://www.verticalfarmdaily.com/article/9851396/technology-was-the-enabler-but-the-true-value-came-from-collaboration/",
-                "source": "Vertical Farm Daily",
-                "date": "2026-07-01T13:07:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hardcore Gaming Unleashed: Infinix Introduces the GT 50 Pro Flagship",
-                "desc": "Driven by a breakthrough thermal engine, the Infinix GT 50 Pro harmonizes physical precision, flagship hardware, and software intelligence to transform a mobile device into a powerhouse for next-generation gaming experience. Infinix has officially introduced the GT 50 Pro, its most advanced gaming smartphone to date and the flagship device powering the brand’s rapidly expanding […]",
-                "image": "https://www.wazzup.ph/wp-content/uploads/2026/07/Hardcore-Gaming-Unleashed-Infinix-Introduces-the-GT-50-Pro-Flagship_1.jpg",
-                "url": "https://www.wazzup.ph/hardcore-gaming-unleashed-infinix-introduces-the-gt-50-pro-flagship/",
-                "source": "Wazzup.PH",
-                "date": "2026-07-01T13:02:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KDE Plasma finally added per-screen virtual desktops, and it's yet another reason I'm not going back to Windows",
-                "desc": "KDE Plasma is arguably the best Linux desktop, and it just keeps getting better, to the point where going back to Windows would be a downgrade.",
-                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/kde-plasma-per-monitor-desktop.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.xda-developers.com/kde-plasma-added-screen-virtual-desktops-another-reason-not-going-back-windows/",
-                "source": "XDA",
-                "date": "2026-07-01T13:01:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Playing Game at the TooManyGames Indie Game Showcase Awards 2026\"",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/03/241408-61fe47b2/639f19cc-f9aa-f723-af48-e54fd224de5c.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=210be2c0d41b1bcc0fafd731dcdb2945777dbefc8487c7d70c6a1bac01d47683",
-                "url": "https://www.gamespress.com/tr/Aether-Iron-Wins-Best-Role-Playing-Game-at-the-TooManyGames-Indie-Game",
-                "source": "Games Press",
-                "date": "2026-07-01T13:01:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fight, Adapt, Repeat! Poly Fighter Playable at Montreal Comic Con",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/03/161300-b0f3b017/Poly_Fighter_-_920_x_430.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=2cc03e0795fb085d95130ff508e360d879717c1874966ee01bf780766373c7e8",
-                "url": "https://www.gamespress.com/tr/Fight-Adapt-Repeat-Poly-Fighter-Playable-at-Montreal-Comic-Con",
-                "source": "Games Press",
-                "date": "2026-07-01T13:01:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ENDLESS Legend 2 gets a new roadmap and all new artwork alongside next EA update",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/01/231013-b939de31/ENDLESS_Legend_2_Key_Art.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=8cae424d420c0ef06218fe70f63c5f0e01ed5b295d07eb1ea133b1c3a75ea0ea",
-                "url": "https://www.gamespress.com/en-US/ENDLESS-Legend-2-EA8-update-roadmap",
-                "source": "Games Press",
-                "date": "2026-07-01T13:01:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Locked out of your phone? Dr.Fone supports more devices than ever",
-                "desc": "This article is sponsored by Dr.Fone",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/dr-fone-unlock-feature-image.png?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/drfone-unlock-supports-more-devices-than-ever/",
-                "source": "Android Police",
-                "date": "2026-07-01T13:01:08Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "JD Vance just expressed frustration with Iran's Persian negotiating tactic. What is it anyway?",
+                "desc": "When the US vice president called out Tehran's style in the middle of ongoing peace talks, he stumbled on something diplomats have been trying to decode for decades.",
+                "image": "https://d341l694dl30ad.cloudfront.net/images/cms/2026/07/01/6a45509d0f0cb8a5d0c8dcd2/original/404669bc-4583-4e1b-9887-c1428db6da05-1782927517684.jpg?width=1080&format=jpg&quality=80",
+                "url": "https://www.trtworld.com/article/9660a3212f87",
+                "source": "TRT World",
+                "date": "2026-07-01T18:00:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zelenskyy cuts Irish visit short as intelligence warns of Russian massive attack",
+                "desc": "The warning came during a press conference with his Irish counterpart on the first day of Ireland’s European Council Presidency.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/01/GettyImages-2283644367-scaled.jpg",
+                "url": "https://www.politico.eu/article/zelenskyy-cuts-irish-visit-short-as-intelligence-warns-russian-massive-attack/",
+                "source": "politico.eu",
+                "date": "2026-07-01T17:59:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Emirates launches third daily Nairobi flight, boosting Kenya-UAE connectivity",
+                "desc": "The additional daily service increases Emirates' Nairobi flights to 21 per week, boosting passenger and cargo capacity while supporting Kenya's tourism.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-01-164148.webp",
+                "url": "https://eastleighvoice.co.ke/business/374323/emirates-launches-third-daily-nairobi-flight-boosting-kenya-uae-connectivity",
+                "source": "The Eastleigh Voice",
+                "date": "2026-07-01T17:58:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ship runs aground in Strait of Hormuz, Iranian state media says",
+                "desc": "A ship ran aground in the Strait of Hormuz while using a route not approved by Iran. That's according to a report Wednesday by state television in Tehran.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-01T093726Z_1153167832_RC254MAEYBTP_RTRMADP_3_IRAN-CRISIS-SHIPPING-FEES-1024x683.jpg",
+                "url": "https://www.pbs.org/newshour/world/ship-runs-aground-in-strait-of-hormuz-iranian-state-media-says",
+                "source": "PBS",
+                "date": "2026-07-01T17:58:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Beloved actor drowns in river as body found after day of searching",
+                "desc": "The actor was fishing with his teenage son when he disappeared.",
+                "image": "https://cdn.images.express.co.uk/img/dynamic/79/1200x630/7015933.jpg",
+                "url": "https://www.express.co.uk/celebrity-news/2224217/beloved-actor-drowns-river-body-found",
+                "source": "Daily Express",
+                "date": "2026-07-01T17:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Greek politician's mother dies of wounds after arson attack",
+                "desc": "Three separate attacks involving petrol bombs and other improvised devices took place in Thessaloniki in the early hours of Wednesday.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce29/live/6411af20-7575-11f1-8cb9-93182970858a.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o",
+                "source": "BBC",
+                "date": "2026-07-01T17:56:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. Sanctions Kigali Gold Refinery Over Alleged Illicit Congolese Gold Trade",
+                "desc": "The United States sanctioned Kigali-based Gasabo Gold Refinery Ltd and several executives and affiliated companies for allegedly processing gold",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/acc9d9a9f9ea2c94d7d94826a0fed286_S.jpg",
+                "url": "https://www.ecofinagency.com/news/0107-56995-u-s-sanctions-kigali-gold-refinery-over-alleged-illicit-congolese-gold-trade",
+                "source": "Ecofin Agency",
+                "date": "2026-07-01T17:52:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Everything you need to know about the new €3 customs charge",
+                "desc": "From Wednesday, an order of three items from outside the EU will become at least €9 more expensive",
+                "image": "https://www.irishtimes.com/resizer/v2/4C7ERT6IHZGDPA3OVPCNZPL5XY.jpg?smart=true&auth=fec488039c2d73c3d90a6e2a2ea36a8f24d634a4e03926e555790f460606df6c&width=1200&height=630",
+                "url": "https://www.irishtimes.com/your-money/2026/07/01/everything-you-need-to-know-about-the-new-3-customs-charge/",
+                "source": "The Irish Times",
+                "date": "2026-07-01T17:52:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NYC: Russian couple climb to top of Empire State Building, then get engaged",
+                "desc": "Dressed in sleeveless black outfits and wearing face coverings, Angela Nikolau and Vanya Beerkus climbed to the top of the 1,454-foot skyscraper and stood on the narrow antenna while documenting the feat on social media.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/empire-state-building-013958139-16x9_0.jpg?VersionId=s2gpGOSPZrIe0IsPaQmb9OBdmvbAIB7j",
+                "url": "https://www.indiatoday.in/world/story/nyc-empire-state-building-climbers-propose-after-scaling-restricted-transmission-tower-2938689-2026-07-01",
+                "source": "India Today",
+                "date": "2026-07-01T17:52:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Naked man’s death in Mong Kok flat sparks murder probe; police seize Viagra and drugs",
+                "desc": "A man in his 40s died following an incident at a Mong Kok flat on Wednesday afternoon, with police seizing Viagra and suspected drugs from the scene.",
+                "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/338c9040c00a341899e5080bee133545/2026-07/WhatsApp_Image_2026-07-01_at_16_05_08_0.jpeg",
+                "url": "https://www.thestandard.com.hk/news/article/336117/Naked-mans-death-in-Mong-Kok-flat-sparks-murder-probe-police-seize-Viagra-and-drugs",
+                "source": "The Standard (HK)",
+                "date": "2026-07-01T17:47:24Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
                 "desc": "Displaced Lebanese face a void as war annihilates the physical and emotional anchors of their past and identity.",
@@ -1806,98 +1896,8 @@
                 "source": "Travel Noire",
                 "date": "2026-07-01T14:37:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ebola outbreak could cost Africa $3.6 bn, says UN",
-                "desc": "The deadly Ebola outbreak in the Democratic Republic of Congo threatens tens of thousands of jobs and could cost Africa up to $3.6 billion...",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2019/09/Ebola.jpg",
-                "url": "https://www.vanguardngr.com/2026/07/ebola-outbreak-could-cost-africa-3-6-bn-says-un/",
-                "source": "Vanguard News",
-                "date": "2026-07-01T13:10:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brown bears in Romania",
-                "desc": "The issue of the large bear population in Romania and the increasing number of related incidents was a subject put on the agenda by Romania (jointly with Slovakia) at the latest EU Council of Agriculture and Fisheries Ministers.",
-                "image": "https://www.agroberichtenbuitenland.nl/openGraphImage/%2Factueel%2Fnieuws%2F2026%2F07%2F01%2Fbrown-bears-from-biodiversity-pride-to-socio-economic-burden.png",
-                "url": "https://www.agroberichtenbuitenland.nl/actueel/nieuws/2026/07/01/brown-bears-from-biodiversity-pride-to-socio-economic-burden",
-                "source": "Agroberichten Buitenland",
-                "date": "2026-07-01T13:08:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Strong M6.0 earthquake hits off the coast of Iwate Prefecture, Japan",
-                "desc": "A strong earthquake registered by the Japan Meteorological Agency (JMA) as M6.0 hit off the coast of Iwate Prefecture, Honshu at 12:08 UTC (21:08 JST) on July 1…",
-                "image": "https://watchers.news/wp-content/uploads/2026/07/epicenter-m6.0-earthquake-honshu-japan-july-1-2026.webp",
-                "url": "https://watchers.news/2026/07/01/strong-m6-0-earthquake-hits-off-the-coast-of-iwate-prefecture-japan/",
-                "source": "The Watchers - Watching the world evolve and transform",
-                "date": "2026-07-01T13:04:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump says US ‘couldn’t build a plane like this’ as Qatari-gifted Air Force One embarks on inaugural flight",
-                "desc": "As President Donald Trump boarded his inaugural flight on the new Air Force One, a luxury jet donated by the government of Qatar, he shared his excitement for the new aircraft and its foreign builders, saying the US “couldn’t build a plane like this.”",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-01t125257z-1958607653-rc205maeultu-rtrmadp-3-usa-250-trump.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/01/politics/qatar-air-force-one-trump",
-                "source": "CNN",
-                "date": "2026-07-01T13:02:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK national lottery review to give public more say in how funds are spent",
-                "desc": "Culture secretary Lisa Nandy launches consultation on first changes to system in more than two decades",
-                "image": "https://i.guim.co.uk/img/media/3513bcc58c2e633e6315bcf34ff094487e5eba06/140_593_4024_3222/master/4024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4721c37a39c4e26657a54a733947648",
-                "url": "https://www.theguardian.com/uk-news/2026/jul/01/uk-national-lottery-review-public-say-funds-spent",
-                "source": "The Guardian",
-                "date": "2026-07-01T13:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Much Does It Cost To Travel Europe For A Month?",
-                "desc": "Traveling around Europe for a month can feel like a dream, but the biggest question is usually how much it actually costs. After spending multiple summers exploring different countries across the cont...",
-                "image": "https://s.yimg.com/lo/mysterio/api/46e47565e630a450ccfcb6adc933680707f9a4448a823f3675ac864d380cb5f7/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fryan_shirley_385%2Ff3d7f8040d92ee5d32b0dbb6f60dd804",
-                "url": "https://www.yahoo.com/lifestyle/videos/much-does-cost-travel-europe-130133234.html",
-                "source": "Yahoo",
-                "date": "2026-07-01T13:01:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DRC bans all land transactions in M23-Controlled areas",
-                "desc": "Kinshasa, DRC | URN | The government of the Democratic Republic of Congo (DRC) has banned all land transactions in territories under the control of the M23/Alliance Fleuve Congo (AFC) rebels, in a move aimed at protecting the property rights of people displaced by the conflict. The ban is contained in a presidential decree released …",
-                "image": "https://www.independent.co.ug/wp-content/uploads/2025/09/Elements-of-the-March-23-Movement-M23-rebel-group-stand-guard-outside-a-hotel-in-Goma.jpg",
-                "url": "https://www.independent.co.ug/drc-bans-all-land-transactions-in-m23-controlled-areas/",
-                "source": "The Independent Uganda",
-                "date": "2026-07-01T13:00:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Korean government discriminated against Coupang, House report finds",
-                "desc": "The House Judiciary Committee said the South Korean government discriminated against Coupang and other U.S. companies, in a new report.",
-                "image": "https://image.cnbcfm.com/api/v1/image/106852714-1615480379584NYSE-Bell-Podium-Photo-OB-210311-PRESS-17-jpg?v=1782862391&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/01/coupang-south-korea-coupang-house-judiciary.html",
-                "source": "CNBC",
-                "date": "2026-07-01T13:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US politics live updates: Doha talks begin today, but Iran says ‘inevitable’ escalations will persist",
-                "desc": "The US and Iran are holding indirect technical talks in Doha today as both sides attempt to advance their fragile agreement to end the Middle East war.",
-                "image": "https://content.api.news/v3/images/bin/591a41110ff4e7c98d83becde0e97d94",
-                "url": "https://www.news.com.au/world/north-america/us-politics/us-politics-live-updates/live-coverage/1dce88e47d17606d3d0b2a3c249197af",
-                "source": "News.com.au",
-                "date": "2026-07-01T12:58:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Corruption Recommendations, Says GRECO Report",
-                "desc": "The Czech Republic has partially implemented some anti-corruption recommendations, but has made no progress with others, according to an evaluation by the Council of Europe’s anti-corruption group (GRECO). In its 2025 annual report, GRECO also highlights the key role of top government officials in promoting zero tolerance for corruption. GRECO issued 20 recommendations to the",
-                "image": "https://brnodaily.com/wp-content/uploads/2023/05/Crowns_Corruption_Money_Credit_Freepik-1024x683.jpg",
-                "url": "https://brnodaily.com/2026/07/01/news/politics/czech-rep-failing-on-most-anti-corruption-recommendations-says-greco-report/",
-                "source": "Brno Daily",
-                "date": "2026-07-01T12:55:33Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-02T05:40:28.822171Z"
+    "lastGlobalSync": "2026-07-02T06:00:31.622304Z"
 }
