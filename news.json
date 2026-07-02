@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Amazon designs AI chips for Echo, Fire TV devices",
+                "desc": "Amazon hardware chief Panos Panay says the company is designing custom chips for key devices as it experiments with AI gadgets.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108329299-1782914323483-gettyimages-2237943659-AMAZON_FALL_PRODUCT.jpeg?v=1782914378&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html",
+                "source": "CNBC",
+                "date": "2026-07-02T05:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Volkswagen braces for boardroom showdown over cost-cutting plan",
+                "desc": "Volkswagen is poised for a boardroom showdown following reports that the auto giant is weighing up shutting four factories and implementing 100,000 job cuts.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108329143-1782899755472-gettyimages-2283336105-20090101260629-99-899903.jpeg?v=1782899890&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/02/volkswagen-vw-job-cuts-germany-autos.html",
+                "source": "CNBC",
+                "date": "2026-07-02T05:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'I won £10m on lottery - then dark side emerged when I returned to Belfast from holiday'",
+                "desc": "Belfast man Peter Lavery hit the jackpot 30 years ago when he won £10.2million and he has now opened up about some of the issues with winning the jackpot",
+                "image": "https://i2-prod.belfastlive.co.uk/article34215940.ece/ALTERNATES/s1200d/0_Screenshot_2023_09_14_at_16_25_18.jpg",
+                "url": "https://www.belfastlive.co.uk/news/belfast-news/i-won-10m-lottery--34215918",
+                "source": "Belfast Live",
+                "date": "2026-07-02T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NFP set to show strong US labor market as markets ramp up Fed rate hike bets",
+                "desc": "The United States (US) Bureau of Labor Statistics (BLS) will release the Nonfarm Payrolls (NFP) data for June on Thursday at 12:30 GMT.",
+                "image": "https://editorial.fxsstatic.com/images/i/Employment_queue_2_Medium.png",
+                "url": "https://www.fxstreet.com/news/nonfarm-payrolls-set-to-grow-by-over-100k-in-june-reinforcing-bets-of-upcoming-fed-rate-hikes-202607020500",
+                "source": "FXStreet",
+                "date": "2026-07-02T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Billionaire to invest £35bn in small modular nuclear reactors roll out across UK",
+                "desc": "A consortium led by Michał Sołowow is planning to build enough SMRs to power the equivalent of 8m homes for more than 60 years",
+                "image": "https://i.guim.co.uk/img/media/2b86827bf6fdee54a6bd3bda6dd7ce2be4c49dca/445_0_2110_1688/master/2110.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b363d2aaaa8681b6d388a53ea578e05",
+                "url": "https://www.theguardian.com/business/2026/jul/02/billionaire-michal-solowow-small-modular-nuclear-reactors-uk",
+                "source": "The Guardian",
+                "date": "2026-07-02T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Does one town need four McDonald's?",
+                "desc": "Golden arches are popular in the city of Palmerston North, with construction underway for a fourth McDonald's branch in the area.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--ZOeR8BT4--/t_tohu-badge-facebook/f_auto/q_auto/4JM46QJ_Screenshot_2026_07_02_120159_png",
+                "url": "https://www.rnz.co.nz/news/community/654294/does-one-town-need-four-mcdonald-s",
+                "source": "RNZ",
+                "date": "2026-07-02T04:58:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "laundering watchdog to review Danantara bond protections",
+                "desc": "A coalition of Indonesian civil society groups has urged the Financial Action Task Force, a Paris-based global dirty-money watchdog, to review legal protections given to buyers of special bonds issued by Indonesian sovereign wealth fund Danantara, warning Jakarta may breach anti-money laundering standards.",
+                "image": "https://assets.theedgemarkets.com/danatara_20260622183520_Reuters_0.jpg",
+                "url": "https://theedgemalaysia.com/node/809139",
+                "source": "The Edge Malaysia",
+                "date": "2026-07-02T04:57:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New luxury five-bedroom homes for sale in Foxrock in Dublin",
+                "desc": "Spacious and bright properties with A1 Ber on Torquay Road and Golf Lane",
+                "image": "https://www.irishtimes.com/resizer/v2/77IPWDKM75DTVLZJ2CKE2B3WZM.jpeg?smart=true&auth=e1e0920a15e8dfce9024f2a922fbfa807a6e2cc905f9f3811d6ce1d073626e37&width=1200&height=630",
+                "url": "https://www.irishtimes.com/property/residential/2026/07/02/foxrock-dublin-luxury-homes-colt-dng-torquay-road-golf-lane/",
+                "source": "The Irish Times",
+                "date": "2026-07-02T04:57:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google has exceeded $1 billion Africa investment target",
+                "desc": "Google has exceeded a five-year target to invest $1 billion in Africa, it said on Wednesday, ​as it made public initiatives on infrastructure and development ‌of AI to accelerate the continent's digital growth.",
+                "image": "https://assets.citizen.digital/171072/conversions/5138a0cc-70d6-4448-98f5-def961730f2d_Google-cloud-og_image.webp",
+                "url": "https://citizen.digital/article/google-has-exceeded-1-billion-africa-investment-target-n385652",
+                "source": "Citizen Digital",
+                "date": "2026-07-02T04:52:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hidden Climate Crisis Destroying Software Developer Productivity",
+                "desc": "The development community is obsessing over the wrong climate threat. While everyone debates if data centers are causing rising temperatures, a groundbreaking study from Bangladesh reveals the real killer: heat doesn’t just slow down individuals. High temperatures destroy the collaborative advantage that makes teams twice as productive as solo workers. There are serious implications for […]",
+                "image": "https://i0.wp.com/www.ictworks.org/wp-content/uploads/2026/01/dhaka-software-developers.png?fit=640%2C357&ssl=1",
+                "url": "https://www.ictworks.org/hidden-climate-crisis-destroying-software-developer-productivity/",
+                "source": "ICTworks",
+                "date": "2026-07-02T04:52:48Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Serenity Park condo owners lower asking price to S$440 million in second shot at collective sale",
                 "desc": "This is around 13% lower than the S$505 million guide price marketed earlier this year Read more at The Business Times.",
                 "image": "https://cassette.sphdigital.com.sg/image/businesstimes/8df86d3e7bcc093883ae8546e396cf924e10cbcfa39cfe87aa192eef555a6539?w=1920&f=webp",
@@ -542,99 +632,90 @@
                 "source": "SMH.com.au",
                 "date": "2026-07-02T01:53:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Shore Sovereign Deployment and Accelerate QML Capital Markets Scaling",
-                "desc": "Archer Materials (ASX: AXE) has executed a three-year Quantum Compute Agreement with IonQ (NYSE: IONQ), expanding its enterprise architecture from a singular focus on graphene-based chip development into an end-to-end sovereign services operator.",
-                "image": "https://quantumcomputingreport.com/wp-content/uploads/2026/07/image-9.png",
-                "url": "https://quantumcomputingreport.com/archer-materials-partners-with-ionq-to-study-on-shore-sovereign-deployment-and-accelerate-qml-capital-markets-scaling/",
-                "source": "Quantum Computing Report",
-                "date": "2026-07-02T01:50:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Facing public backlash in Tasmania, Firmus moves to calm concerns about its AI data centres",
-                "desc": "One of three AI factories planned for northern Tasmania would be quieter than a library to the nearest resident, Firmus co-CEO Oliver Curtis says, as the company moves to assuage community concerns around power use, water and noise.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/0ac8d200aaa18cd654f69df46b5dc37b?impolicy=wcms_watermark_news&cropH=713&cropW=1267&xPos=98&yPos=47&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-02/firmus-response-public-backlash-artificial-intelligence-tasmania/106864804",
-                "source": "Australian Broadcasting Corporation",
-                "date": "2026-07-02T01:49:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa needs 700 data centres by 2035 to power digital trade under AfCFTA",
-                "desc": "Africa needs more than 500 additional data centres over the next nine years to attain sovereignty and build a competitive digital trade...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/BusinessDay-Image_20260701_173220_0000.jpg",
-                "url": "https://businessday.ng/news/article/africa-needs-700-data-centres-by-2035-to-power-digital-trade-under-afcfta-secretary/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-02T01:43:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU carmakers want UK included in 'Made in Europe' rules",
-                "desc": "European automakers called Wednesday for British vehicles and car parts to fall under the definition of \"made in Europe\" set out by new rules aiming to bolster the bloc's industries.",
-                "image": "https://citizentv.obs.af-south-1.myhuaweicloud.com/133668/conversions/Moscow-og_image.webp",
-                "url": "https://citizen.digital/article/eu-carmakers-want-uk-included-in-made-in-europe-rules-n385621",
-                "source": "Citizen Digital",
-                "date": "2026-07-02T01:41:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ribo and Madrigal Reach First Major Milestone in Advancing Novel siRNA Therapies for MASH",
-                "desc": "The latest company information, including net asset values, performance, holding & sectors weighting, changes in voting rights, and directors and dealings.",
-                "image": "https://mmx.prnewswire.com/media/MS1744311/logo-Ribolia-Logo.jpg?id=OA2748206",
-                "url": "https://markets.ft.com/data/announce/detail?dockey=600-202607012139PR_NEWS_EURO_ND__EN96894-1",
-                "source": "Financial Times",
-                "date": "2026-07-02T01:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trinasolar Unveils 760W Vertex N G3 Solar Module in Bangkok, Targeting Thailand's AI",
-                "desc": "Trinasolar has introduced its 760W Vertex N G3 solar module at the Asia Sustainable Energy Week 2026 in Bangkok, targeting Thailand's booming AI and…",
-                "image": "https://img.biggo.com/rKrxB0GG-VH4uRHH4xTsKhcCwrTi_Nt6BPL_rySIK18/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzVmYjYyOTM2LWIzMTgtNDEwNy1hYThiLTQ3MmZiZGIzYjgxOF8xNzgyOTU2NTQ3X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/5fb62936-b318-4107-aa8b-472fbdb3b818",
-                "source": "finance.biggo.com",
-                "date": "2026-07-02T01:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PwC Nigeria announces four new partners",
-                "desc": "PwC Nigeria welcomes four new partners, effective July 1, 2026, enhancing expertise in advisory, assurance, and tax services to support clients in a dynami",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/IMG-20260629-WA0032_1782952709.webp",
-                "url": "https://punchng.com/pwc-nigeria-announces-four-new-partners/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-02T01:36:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The OYO IPO Explained",
-                "desc": "OYO’s latest IPO attempt and why the company hitting the public markets looks nothing like the one you remember.",
-                "image": "https://cdn.finshots.app/images/2026/07/Oyo-IPO.jpg",
-                "url": "https://finshots.in/archive/oyo-ipo-explained/",
-                "source": "Finshots",
-                "date": "2026-07-02T01:35:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anorexic child repeatedly denied admission to children’s ward, parents felt ‘helpless’",
-                "desc": "Content warning: This article references self-harm and eating disorders. Helplines can be found at the bottom of the page. A “dangerously” underweight...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/3KYR2ZFB7V76UNKVDALECQFBAM.jpg?auth=24c4f3f50723da580d77926ea6ea6450c1a79ce628a80f335ffc053225fdd438&width=1200&height=675&quality=70&focal=975%2C644&smart=false",
-                "url": "https://www.nzherald.co.nz/nz/wellington/anorexic-child-repeatedly-denied-admission-to-childrens-ward-parents-felt-helpless/U4FVNI7N2VDMFP6WX4BEKWCLOE/",
-                "source": "NZ Herald",
-                "date": "2026-07-02T01:33:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nikkei stock index drops in early trading on weak tech shares",
-                "desc": "TOKYO (Kyodo) -- The Nikkei stock index dropped early Thursday, pressured by technology shares tracking overnight losses by their U.S. counterparts am",
-                "image": "https://cdn.mainichi.jp/vol1/2026/07/01/20260701p2g00m0bu040000p/0c10.jpg?1",
-                "url": "https://mainichi.jp/english/articles/20260702/p2g/00m/0bu/010000c",
-                "source": "毎日新聞",
-                "date": "2026-07-02T01:30:20Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Amazon designs AI chips for Echo, Fire TV devices",
+                "desc": "Amazon hardware chief Panos Panay says the company is designing custom chips for key devices as it experiments with AI gadgets.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108329299-1782914323483-gettyimages-2237943659-AMAZON_FALL_PRODUCT.jpeg?v=1782914378&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html",
+                "source": "CNBC",
+                "date": "2026-07-02T05:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Next Level Racing reveals new flagship carbon fibre and fibreglass ES3 Elite seats",
+                "desc": "Next Level Racing has launched uncompromising fibreglass- and carbon-fibre-constructed seats designed for the serious and slimline sim racers.",
+                "image": "https://traxion.gg/wp-content/uploads/2026/07/2.jpg",
+                "url": "https://traxion.gg/next-level-racing-reveals-new-flagship-carbon-fibre-and-fibreglass-es3-elite-seats/",
+                "source": "Traxion.GG",
+                "date": "2026-07-02T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trying Out Viewer Suggestions For Levitation On An Induction Cooker",
+                "desc": "Doing something once is fun, but if you get interesting feedback from viewers on how to make things even more fun, you can only follow all of these instructions and put more random objects on top of a...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/06/cd_levitation_fail_brainiac75_youtube.jpg",
+                "url": "https://hackaday.com/2026/07/01/trying-out-viewer-suggestions-for-levitation-on-an-induction-cooker/",
+                "source": "Hackaday",
+                "date": "2026-07-02T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI's first hardware isn't the revolutionary iPhone killer we expected",
+                "desc": "The Codex Micro looks disappointingly conventional.",
+                "image": "https://cdn.mos.cms.futurecdn.net/AGd3p5W53otDNUxn6sHnme-992-80.jpg",
+                "url": "https://www.creativebloq.com/tech/openais-first-hardware-isnt-the-revolutionary-iphone-killer-we-expected",
+                "source": "Creative Bloq",
+                "date": "2026-07-02T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Standard Mate 80 becomes best-selling Huawei phone in H1 2026",
+                "desc": "Huawei Mate 80 series continues to remain at the top in sales and among and, the standard model ranked as best-selling Huawei device in H1 202",
+                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80Pro-Blue.jpg",
+                "url": "https://www.huaweicentral.com/standard-mate-80-becomes-best-selling-huawei-phone-in-h1-2026/",
+                "source": "Huawei Central",
+                "date": "2026-07-02T04:52:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "G-SHOCK Celebrates 30 Years of Pokemon with a Collector's Dream Watch",
+                "desc": "The ultimate nostalgic team-up. For three decades, Pokémon has captured the imagination of millions around the world, while G-SHOCK has built its reputation on creating watches that can survive almost anything. Now, the two icons have come together for a limited-edition timepiece that celebrates 30 years of Pokémo...",
+                "image": "https://www.bllnr.asia/images/Casio%20Pokemon/batch_11GA-110PKM-7A_03.jpg",
+                "url": "https://www.bllnr.asia/news/g-shock-celebrates-30-years-of-pokmon-with-a-collector-s-dream-watch",
+                "source": "BILLIONAIRE Asia",
+                "date": "2026-07-02T04:48:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shanling UA6 II portable USB DAC launches with 4.4mm balanced output, 8 high-fidelity DACs, and DSD Hi-Res Audio",
+                "desc": "Shanling has unveiled the UA6 II portable DAC for fans of high-resolution music and balanced headphones. The DAC delivers a 133 dB SNR using eight Cirrus Logic Master HiFi audio D/A converters.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Shanling-UA6-II-portable-USB-DAC-launches-with-4.4mm-balanced-output-8-high-fidelity-DACs-and-DSD-Hi-Res-Audio.jpg",
+                "url": "https://www.notebookcheck.net/Shanling-UA6-II-portable-USB-DAC-launches-with-4-4mm-balanced-output-8-high-fidelity-DACs-and-DSD-Hi-Res-Audio.1333153.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-02T04:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft brags Copilot key has main character energy on Windows 11, but you can soon remap it",
+                "desc": "Microsoft called the Copilot key a fix for everything in a new ad, weeks after admitting the key hurts productivity. Facebook did not agree.",
+                "image": "https://www.windowslatest.com/wp-content/uploads/2026/07/Microsoft-called-the-Copilot-key-a-fix-for-everything-weeks-after-admitting-the-key-hurts-productivity.jpeg",
+                "url": "https://www.windowslatest.com/2026/07/02/microsoft-brags-copilot-key-has-main-character-energy-on-windows-11-but-you-can-soon-remap-it/",
+                "source": "Windows Latest",
+                "date": "2026-07-02T04:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "got2b Launches ‘COOL COLOR’ Campaign to Beat Japan’s Summer Heat",
+                "desc": "The campaign by I&S BBDO Japan proposes hair color as an unexpected way to beat the heat amid Japan's record-breaking temperatures",
+                "image": "https://www.brandinginasia.com/wp-content/uploads/2026/07/Henkel-Self-Bleach-Japan-.webp",
+                "url": "https://www.brandinginasia.com/got2b-launches-cool-color-campaign-to-beat-japans-summer-heat/",
+                "source": "Branding in Asia",
+                "date": "2026-07-02T04:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "TECNO advances practical agentic AI with expanded Ellaclaw capabilities",
                 "desc": "From cross-app assistance to one-tap phone care, TECNO EllaClaw explores how AI agents can help users get everyday tasks done with more control, convenience and confidence.",
@@ -1183,90 +1264,99 @@
                 "source": "The Fast Mode",
                 "date": "2026-07-02T00:32:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Eye-catching today, iconic tomorrow: Inside the IKEA PS 2026 Collection",
-                "desc": "A visit to Älmhult, Sweden offers a firsthand look at the IKEA PS 2026 Collection and the designers shaping the future of playful, accessible Scandinavian living.",
-                "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Maricel_temp/advert/1-2026-July%201-%20Ikea/ikea%20630.jpg",
-                "url": "https://philstarlife.com/living/194250-eye-catching-today-iconic-tomorrow-inside-ikea-ps-2026-collection",
-                "source": "Philstar Life",
-                "date": "2026-07-02T00:29:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OnePlus N6 Spec: An 8,000mAh Battery Beast Just for $243",
-                "desc": "The OnePlus N6 brings an 8,000mAh battery and 45W charging to India for $243 in 2026. Here's what its big battery, budget chip and screen mean for you.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/07/OnePlus-N6-Spec-An-8000mAh-Battery-Beast-Just-for-243.jpg",
-                "url": "https://memeburn.com/oneplus-n6-8000mah-battery/",
-                "source": "Memeburn",
-                "date": "2026-07-02T00:28:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Inch 4K Portable TVs, Taking Aim at China's Low",
-                "desc": "LG Electronics is aggressively targeting the global market with the sequential launch of its 'StanbyME 2 Max,' a 32-inch 4K portable TV featuring a…",
-                "image": "https://img.biggo.com/jWdkwcdy_azsz8wJWUMyCFcRkoAeSJ5rZL7WJIgxFb8/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzQ5ZTU2YzU5LTJkZjctNDg2OC1iOWRkLTM5YWEzMjMzY2RiY18xNzgyOTUyMjk5X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/49e56c59-2df7-4868-b9dd-39aa3233cdbc",
-                "source": "finance.biggo.com",
-                "date": "2026-07-02T00:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Feel the Power of the Final Titan Showdown in KOEI TECMO’s Attack on Titan 3!",
-                "desc": "Today, KOEI TECMO America and developer Omega Force announced that Attack on Titan 3 , the latest instalment in the Attack on Titan action game series, will be released worldwide this winter for the PlayStation 5, Nintendo Switch 2, XBOX Series X|S and PC Windows via Steam.",
-                "image": "http://static1.squarespace.com/static/59a2574903596e3462d0bd19/5d8501e97d51593a02c252d5/6a45a97fac4dbd21161d118f/1782951457670/Attack+on+Titan+3+-+Screenshot+6+-+7.1.26.jpg?format=1500w",
-                "url": "https://www.analogstickgaming.com/news/feel-the-power-of-the-final-titan-showdown-in-koeitecmosattack-on-titan-3",
-                "source": "Analog Stick Gaming",
-                "date": "2026-07-02T00:22:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation kills physical discs from the end of next year",
-                "desc": "Sony has announced that its games platform will be all digital from the start of 2028, ending the era of games on disc.",
-                "image": "https://static.ffx.io/images/$zoom_0.2526240458015267%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_64/t_crop_custom/q_86%2Cf_auto/77cae945f58d0f022e662e33d48a38abd9cd1b3d5817e32766da6291f83817ba",
-                "url": "https://www.smh.com.au/technology/video-games/video-games-go-digital-as-sony-kills-off-playstation-discs-20260702-p60bwc.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-02T00:20:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rhythm Paradise Groove is out now for Switch and Switch 2",
-                "desc": "Rhythm Paradise Groove is out now for Switch and Switch 2. The collection of mini rhythm games is available for Switch but also playable on Switch 2. Players can take part in over 80 solo rhythm games and over 30 co-op and competitive ones. Per Nintendo, \"players can catch flying veggies, bounce fruit off their",
-                "image": "https://powerup-gaming.com/wp-content/uploads/2026/06/rpgroove-scaled.jpg",
-                "url": "https://powerup-gaming.com/rhythm-paradise-groove-is-out-now-for-switch-and-switch-2/",
-                "source": "powerup-gaming.com",
-                "date": "2026-07-02T00:18:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PS6 Release Now Expected End of 2028, According to Analyst",
-                "desc": "Unlikely to include a disc drive, obvs - Sony has announced it’ll cease manufacturing physical games in 2028, effectively confirming the PS6 will be an all...",
-                "image": "https://images.pushsquare.com/a1c046be9910a/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/07/ps6-release-now-expected-end-of-2028-according-to-analyst",
-                "source": "Push Square",
-                "date": "2026-07-02T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "powered battery doubles as kill switch for surveillance devices",
-                "desc": "Researchers develop a stretchable battery powered by air moisture with a built-in self-destruct feature for IoT devices.",
-                "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-48.jpg",
-                "url": "https://interestingengineering.com/energy/moisture-activated-stretchable-battery-iot-kill-switch",
-                "source": "Interesting Engineering",
-                "date": "2026-07-01T23:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-                "desc": "Apple is readying several new iPad Pro tablets, and a budget-friendly MacBook Pro, reports suggest.",
-                "image": "https://techcrunch.com/wp-content/uploads/2024/10/CMC_8083.jpg?resize=1200,800",
-                "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
-                "source": "TechCrunch",
-                "date": "2026-07-01T23:57:55Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "SA international tourist arrivals rise 12.8% in 2026 as Brazil market booms",
+                "desc": "South Africa welcomed more than 4.2 million international visitors between January and May 2026, with strong growth from Africa, Europe and Brazil ahead of a new LATAM direct route:",
+                "image": "https://www.capetownetc.com/wp-content/uploads/2023/01/8AE75782-C3C1-4DE0-952A-FAB9B0EA817C_1_201_a-e1673596715144.jpeg",
+                "url": "https://www.capetownetc.com/news/sa-international-tourist-arrivals-rise-12-8-in-2026-as-brazil-market-booms/",
+                "source": "Cape Town ETC",
+                "date": "2026-07-02T05:00:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia's petrol crisis worsens as citizens feel the bite of Moscow's war in Ukraine",
+                "desc": "A third of Russia's refining capacity has been knocked out by Ukrainian drone attacks, causing petrol shortages across more than half of Russia's regions.",
+                "image": "https://images.euronews.com/articles/stories/09/82/07/85/1200x675_cmsv2_837f832a-05ba-5fb1-bd94-12e4df9ff883-9820785.jpg",
+                "url": "https://www.euronews.com/2026/07/02/russias-petrol-crisis-worsens-as-citizens-feel-the-bite-of-moscows-war-in-ukraine",
+                "source": "Euronews",
+                "date": "2026-07-02T05:00:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+                "desc": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c00/live/0635e400-73a1-11f1-b1db-af71d47507d6.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro",
+                "source": "BBC",
+                "date": "2026-07-02T05:00:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU-approved pesticide found to have potential effects on brain development",
+                "desc": "New study on fluazinam’s neurotoxicity comes up with different findings from earlier report based on manufacturer’s data",
+                "image": "https://i.guim.co.uk/img/media/8363a1c22007ac8b5d4ec195ad17f3c4d731afa7/597_0_2806_2247/master/2806.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62745ecf09f6ed7a49b2d0e66a903f1e",
+                "url": "https://www.theguardian.com/environment/2026/jul/02/eu-approved-pesticide-found-to-have-potential-effects-on-brain-development",
+                "source": "The Guardian",
+                "date": "2026-07-02T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "England’s mayors should be given sweeping new powers, says devolution expert",
+                "desc": "Exclusive: Burnham-aligned thinktank calls for devolution of public services including social care, childcare and skills",
+                "image": "https://i.guim.co.uk/img/media/91d9df9f8f01a3f2bed4d1493135bb4f44b8b314/642_0_5706_4567/master/5706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=831797abce80dbc240fc3572254680c3",
+                "url": "https://www.theguardian.com/politics/2026/jul/02/england-mayors-sweeping-new-powers-devolution-expert",
+                "source": "The Guardian",
+                "date": "2026-07-02T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Two weeks after her death I got a call': Thousands of Gaza patients still waiting for evacuation",
+                "desc": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ec3/live/6f002bc0-709b-11f1-86cf-0fd142c2b6fb.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o",
+                "source": "BBC",
+                "date": "2026-07-02T04:59:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RFMF recommends ending constitutional immunity and strengthening civilian control of the military",
+                "desc": "RFMF recommends ending constitutional immunity and strengthening civilian control of the military",
+                "image": "https://www.fijivillage.com/news_images/20260702193235_media_6a45e3d28a4cf0_12504771.jpg",
+                "url": "https://www.fijivillage.com/t/rfmf-recommends-ending-constitutional-immunity-and-strengthening-civilian-control-of-the-military-e01570/",
+                "source": "Fijivillage",
+                "date": "2026-07-02T04:58:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uganda: Stakeholders Call for Nutrition-Sensitive Agriculture to Boost Uganda's Food Security",
+                "desc": "Agriculture stakeholders have called for stronger collaboration among policymakers, researchers, farmers, and other players in the food value chain to improve food security, nutrition, and food safety in Uganda.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202607020028.html",
+                "source": "allAfrica.com",
+                "date": "2026-07-02T04:55:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Venezuela earthquake death toll rises, as UN warns of hunger, disease",
+                "desc": "\"In the end, we believe the days have already passed and that what we will find now is death,\" said Major Jorge Montanero, leader of the EQ11 team from Guayaquil, located on Ecuador's Pacific coast.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/727989",
+                "url": "https://www.jpost.com/international/article-901176",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-02T04:52:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New UN report links Joseph Kabila more closely to AFC/M23",
+                "desc": "A new United Nations Group of Experts report paints the clearest picture yet of the AFC/M23’s military strength and political ambitions in eastern Democratic Republic of the Congo, while highlighting the movement’s increasingly close ties with former President Joseph Kabila.",
+                "image": "https://images.euronews.com/articles/stories/09/82/17/85/1024x538_cmsv2_3051c71b-ea9a-5d13-be2c-746b8af7c43d-9821785.jpg",
+                "url": "https://www.africanews.com/2026/07/02/new-un-report-links-joseph-kabila-more-closely-to-afcm23/",
+                "source": "africanews.com",
+                "date": "2026-07-02T04:52:17Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Vietnam, Philippines raised to World Bank’s upper-middle-income status",
                 "desc": "All five major South-east Asian economies, including Singapore, Malaysia and Thailand, are in that tier and above. Read more at straitstimes.com.",
@@ -1806,98 +1896,8 @@
                 "source": "chinadailyasia.com",
                 "date": "2026-07-02T01:34:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Russia strikes Ukraine capital with missiles and drones, wounds five",
-                "desc": "Russian missile and drone strikes on Kyiv injure five, escalating tensions amid ongoing conflict between Ukraine and Russia.",
-                "image": "https://th-i.thgim.com/public/incoming/uy2a9j/article71172827.ece/alternates/LANDSCAPE_1200/2026-07-01T215426Z_876535330_RC285MAUT6HZ_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG",
-                "url": "https://www.thehindu.com/news/international/russia-strikes-ukraine-capital-with-missiles-and-drones/article71172816.ece",
-                "source": "The Hindu",
-                "date": "2026-07-02T01:33:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jobs, wages and reliance on Singapore key concerns in Skudai",
-                "desc": "Pakatan Harapan Skudai candidate Kartiyaini Jeyapalan says young voters prefer to work in Johor, but low salaries have forced them to seek jobs across the causeway.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/e4e1c9b7-kartiyaini-jeyapalan-and-chan-foong-hin-fb-pic-010726.webp",
-                "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/02/jobs-wages-and-reliance-on-singapore-key-concerns-in-skudai",
-                "source": "Free Malaysia Today",
-                "date": "2026-07-02T01:30:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
-                "desc": "Aid workers fear disease outbreaks in temporary shelters amid overcrowding, lack of access to clean water, sanitation.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a45b951-1782954321.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/2/a-war-zone-venezuela-aid-workers-fear-health-crisis-after-earthquakes",
-                "source": "Al Jazeera",
-                "date": "2026-07-02T01:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Community centers support gig sector's employees",
-                "desc": "Having finished a delivery, Hou Bo rode his electric motorbike to Yijiashan community in Yiwu, Zhejiang province — known as \"the world's supermarket\". Instead of rushing to grab his next order, he stepped into a community service center, took a cup of free chilled mung bean soup and topped up his water bottle.",
-                "image": "http://img2.chinadaily.com.cn/images/202607/02/6a45be87a310986e1018c497.jpeg",
-                "url": "https://www.chinadaily.com.cn/a/202607/02/WS6a45be87a310986e2b463130.html",
-                "source": "China Daily",
-                "date": "2026-07-02T01:27:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hope fades, hunger grows a week after Venezuela quakes",
-                "desc": "Hope of finding more survivors are fading in Venezuela since twin earthquakes last week killed almost 2,300 people.",
-                "image": "https://www.rte.ie/images/00249f67-1600.jpg",
-                "url": "https://www.rte.ie/news/world/2026/0702/1581349-venezuela-earthquakes/",
-                "source": "RTE.ie",
-                "date": "2026-07-02T01:23:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China’s ethnic unity law denounced as ‘forced assimilation’ by rights groups",
-                "desc": "Law comes into effect that critics fear will further erode rights of Uyghurs and Tibetans, as well as allow Beijing to pursue dissidents abroad",
-                "image": "https://i.guim.co.uk/img/media/b2d731d340443c45d99e19098c340de88d26972e/284_120_2827_2263/master/2827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0dc4a796c35e84dae2d55e06f0bc5824",
-                "url": "https://www.theguardian.com/world/2026/jul/02/china-ethnic-unity-law-denounced-rights-groups",
-                "source": "The Guardian",
-                "date": "2026-07-02T01:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran says to use frozen funds in Qatar to buy ‘required goods’",
-                "desc": "Iran plans to use frozen funds in Qatar to purchase essential goods, asserting control over asset allocation.",
-                "image": "https://th-i.thgim.com/public/incoming/1vo3y7/article71172802.ece/alternates/LANDSCAPE_1200/2026-06-14T231609Z_914320506_RC2ZTLAXYDY1_RTRMADP_3_IRAN-CRISIS.JPG",
-                "url": "https://www.thehindu.com/news/international/iran-says-to-use-frozen-funds-in-qatar-to-buy-required-goods/article71172798.ece",
-                "source": "The Hindu",
-                "date": "2026-07-02T01:09:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump Demanded 'Fully Carpeted Bathroom'",
-                "desc": "President Donald Trump demanded that White House staff ensure the Residence was equipped with a full carpeted bathroom upon taking office again, according to the authors of a new book.",
-                "image": "https://www.mediaite.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-01-at-5-52-40-PM.jpg",
-                "url": "https://www.mediaite.com/media/news/reporter-details-bizarre-trump-demand-it-was-important-to-him-to-have-a-fully-carpeted-bathroom/",
-                "source": "Mediaite",
-                "date": "2026-07-02T00:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia targets Kyiv with missiles and drones, setting buildings ablaze and causing injuries",
-                "desc": "Multiple explosions heard in Ukraine capital with a hotel and several residential buildings on fire",
-                "image": "https://i.guim.co.uk/img/media/5539ea739fb958f1e154181a8b0dd3fbbfde36d7/163_0_1666_1333/master/1666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fe37e9b20ed899198150008f62c3212",
-                "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
-                "source": "The Guardian",
-                "date": "2026-07-02T00:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hamas refuses to include tunnels in proposed Gaza disarmament framework",
-                "desc": "Hamas told mediators in Cairo it rejects including tunnels and infrastructure in any disarmament plan, disputes salary payments for former officials, and submitted only minor changes to a Gaza governance proposal",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/24/Hy7QusZ1100Jg/Hy7QusZ1100Jg_0_38_3000_1689_0_large.jpg",
-                "url": "https://www.ynetnews.com/article/bkk5gv77ge",
-                "source": "Ynetnews",
-                "date": "2026-07-02T00:51:01Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-02T16:40:27.149749Z"
+    "lastGlobalSync": "2026-07-02T17:00:30.924255Z"
 }
