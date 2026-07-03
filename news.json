@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Current price of oil as of July 2, 2026",
+                "desc": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Price-of-Oil-July-2.jpg?resize=1200,600",
+                "url": "https://fortune.com/article/price-of-oil-07-02-2026/",
+                "source": "Fortune",
+                "date": "2026-07-02T13:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Global Macro Outlook: Third Quarter 2026",
+                "desc": "Rising energy prices pushed up inflation, crimping the growth outlook for some regions, but not enough to trigger recessions, in our view.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2253962329/image_2253962329.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4919476-global-macro-outlook-third-quarter-2026",
+                "source": "Seeking Alpha",
+                "date": "2026-07-02T13:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Akamai completes $205 million LayerX acquisition as browser security push enters next",
+                "desc": "The deal, first announced in May, extends Akamai’s Zero Trust platform into AI-era browser visibility and control.",
+                "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/05/12/SyMnwne1fg/SyMnwne1fg_0_0_2000_1126_0_large.jpg",
+                "url": "https://www.calcalistech.com/ctechnews/article/onuz53rcd",
+                "source": "CTech",
+                "date": "2026-07-02T13:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Notes from the Asia-Pacific region: China’s proposed privacy standard update targets AI, sensitive data",
+                "desc": "A proposed update to China's national personal information standard would strengthen compliance expectations for AI, expand the scope of sensitive personal information, address legislative privacy conflicts in international operations, and more.",
+                "image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/bltff9c16785d35f325/6a466134bf037c248ffa7549/china-night-city-apac-032626.jpg",
+                "url": "https://iapp.org/news/a/notes-from-the-asia-pacific-region-china-s-proposed-privacy-standard-update-targets-ai-sensitive-data",
+                "source": "IAPP",
+                "date": "2026-07-02T13:35:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Up To 5 Hour Wait Times At European Airports Due To New EES Border System",
+                "desc": "Airlines and airports across the European Union are now urging EU officials to suspend EES checks to avoid a summertime 'disaster'.",
+                "image": "https://www.traveloffpath.com/wp-content/uploads/2026/07/Up-To-5-Hour-Wait-Times-At-European-Airports-due-To-New-EES-Border-System.jpg",
+                "url": "https://www.traveloffpath.com/up-to-5-hour-wait-times-at-european-airports-due-to-new-ees-border-system/",
+                "source": "Travel Off Path",
+                "date": "2026-07-02T13:33:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Captain 'misread' runway in airport overrun",
+                "desc": "The report follows an incident where a plane left the runway at Guernsey airport in 2024.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/113c/live/2b742580-75f7-11f1-8c3f-e37c76e39331.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c2dy8ejj51ko",
+                "source": "BBC",
+                "date": "2026-07-02T13:33:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Agnico Eagle suspends mining operations at Barnat pit after rock movement",
+                "desc": "Miner expects incident to reduce gold production at its Canadian Malartic complex by up to 80,000 ounces",
+                "image": "https://www.theglobeandmail.com/resizer/v2/JCRRUL3LAZHOXKI7W3S24QHNBM.JPG?auth=63a979e92833e18ac09dcb021b0fb17064e9d815e2a5832642cbb6b79254ad83&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/business/industry-news/energy-and-resources/article-agnico-eagle-suspends-mining-operations-barnat-pit/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-02T13:30:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prediction: This Will Be the Next AI Stock to Split (Hint: It's Not Micron or Sandisk)",
+                "desc": "Forget Nvidia. The AI memory boom is creating massive winners, and this soaring ETF could be on track for a stock split before the year is over.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876438%2Fgettyimages-1468266151-1.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/02/predict-next-ai-stock-split-micron-sandisk-dram/",
+                "source": "The Motley Fool",
+                "date": "2026-07-02T13:29:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prediction: Nike Will Be Booted From the Dow Jones Industrial Average Within 12 Months and Replaced by One of 2 Consumer-Facing Giants",
+                "desc": "The time-tested Dow has had companies added or removed 54 times since its inception in May 1896.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877049%2Fnyse-floor-trader-stock-market-invest-buy-sell-fed-wall-street-getty.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/02/prediction-nike-boot-from-dow-tsla-abnb-replace-it/",
+                "source": "The Motley Fool",
+                "date": "2026-07-02T13:28:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Qolab Secures $54.2 Million in Series B to Advance Superconducting Quantum Computing",
+                "desc": "Qolab raised $54.2 million in Series B financing led by UC Investments to advance superconducting quantum computing and fault-tolerant systems.",
+                "image": "https://thequantuminsider.com/wp-content/uploads/2026/07/2026-07-02_18-22.png",
+                "url": "https://thequantuminsider.com/2026/07/02/qolab-announces-54-2-million-series-b-financing-and-commitments-led-by-uc-investments/",
+                "source": "The Quantum Insider",
+                "date": "2026-07-02T13:27:52Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Dublin nursing home residents heard ‘shouting for help’ due to low staff levels",
                 "desc": "Hiqa commenced targeted inspections of all centres in the Emeis Ireland group after broadcast of RTÉ programme last year",
                 "image": "https://www.irishtimes.com/resizer/v2/4ITXEGHZ7WISGB2RLH4EJIINPM.JPG?smart=true&auth=980183b1f8e37a5630c58f87c58f137cc105c6b317b38545d5a2c4143cb63498&width=1200&height=630",
@@ -542,99 +632,99 @@
                 "source": "ICTworks",
                 "date": "2026-07-02T04:52:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Serenity Park condo owners lower asking price to S$440 million in second shot at collective sale",
-                "desc": "This is around 13% lower than the S$505 million guide price marketed earlier this year Read more at The Business Times.",
-                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/8df86d3e7bcc093883ae8546e396cf924e10cbcfa39cfe87aa192eef555a6539?w=1920&f=webp",
-                "url": "https://www.businesstimes.com.sg/property/serenity-park-condo-owners-lower-asking-price-s440-million-second-shot-collective-sale",
-                "source": "The Business Times",
-                "date": "2026-07-02T04:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "7 ASX shares downgraded by brokers this week",
-                "desc": "Brokers reduced their ratings on South32 Ltd (ASX: S32), JB Hi-Fi Ltd (ASX:JBH), Whitehaven Coal Ltd (ASX: WHC), and other stocks this week.",
-                "image": "https://www.fool.com.au/wp-content/uploads/2021/01/numbers-1200x675.jpg",
-                "url": "https://www.fool.com.au/2026/07/02/7-asx-shares-downgraded-by-brokers-this-week/",
-                "source": "The Motley Fool Australia",
-                "date": "2026-07-02T04:38:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2 arrested, 4 others taken to hospital after alleged brawl in Orchard Road",
-                "desc": "Two men arrested and four injured after a violent brawl outside a hotel in Orchard Road. Investigations are ongoing. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/782b324a2b0e8b555ec3f648e712836b95af76d7193d18bb3ab52fccad9b7cda",
-                "url": "https://www.straitstimes.com/singapore/2-arrested-4-others-taken-to-hospital-after-alleged-brawl-in-orchard-road",
-                "source": "The Straits Times",
-                "date": "2026-07-02T04:35:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Deutsche Bank exiting India retail business | Explained",
-                "desc": "Deutsche Bank exits India's retail banking, selling to Kotak Mahindra Bank, strengthening Kotak while streamlining Deutsche's focus on core operations.",
-                "image": "https://th-i.thgim.com/public/incoming/z9brz5/article71173018.ece/alternates/LANDSCAPE_1200/AFP_B76D966.jpg",
-                "url": "https://www.thehindu.com/business/why-deutsche-bank-exiting-india-retail-business-explained/article71172841.ece",
-                "source": "The Hindu",
-                "date": "2026-07-02T04:33:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "based telco NOW’s closure follows ‘24 years of success’, founding chairman says",
-                "desc": "Napier-based internet and telco business NOW is set to close after almost a quarter of a century, with 70 jobs on the line across its New Zealand centres....",
-                "image": "https://www.nzherald.co.nz/resizer/v2/LOT4QRGAYZCOTCPZI42HOMV7EA.jpg?auth=40731b297639298baf05359bbda515b7acbf51fbb1dd7ea4424e03109320601e&width=1200&height=675&quality=70&focal=1649%2C1471&smart=false",
-                "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/napier-based-telco-nows-closure-follows-24-years-of-success-founding-chairman-says/3CTPCEDJORDNHLJDDBH5W32F4A/",
-                "source": "NZ Herald",
-                "date": "2026-07-02T04:31:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yettu, an instant Indian coffee that elevates your morning cuppa with craft quality",
-                "desc": "Discover Yettu, a craft instant coffee redefining quality with a quick brew, sourced from India's best farms.",
-                "image": "https://th-i.thgim.com/public/life-and-style/i81zvs/article71165149.ece/alternates/LANDSCAPE_1200/FotoJet.jpg",
-                "url": "https://www.thehindu.com/food/features/yettu-an-instant-indian-coffee-that-elevates-your-morning-cuppa-with-craft-quality/article71164969.ece",
-                "source": "The Hindu",
-                "date": "2026-07-02T04:30:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia ranks third-highest for median wealth globally, UBS data shows",
-                "desc": "Australia holds the third-highest median wealth globally at $306,074, pipped at the post by Luxembourg and Belgium.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/33c8e5fe85c16d0840476e49b91d020a?impolicy=wcms_watermark_news&cropH=448&cropW=795&xPos=2&yPos=96&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-02/ubs-global-wealth-report-australia-millionaires/106869298",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-02T04:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Qantas adds Wing Seong Fatty’s iconic Cantonese dishes to its Changi Airport lounges after restaurant’s closure",
-                "desc": "Wing Seong Fatty’s Restaurant recently closed but Qantas has partnered with the restaurant to bring two of its signature dishes to its Changi Airport lounges.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--pgpNpXR6--/c_crop,h_900,w_1600,x_0,y_24/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/02/wing_seong_fattys_restaurant_qantas.jpg?itok=VoAMOXHO",
-                "url": "https://cnalifestyle.channelnewsasia.com/travel/qantas-lounge-wing-seong-fattys-restaurant-dishes-585436",
-                "source": "CNA Lifestyle",
-                "date": "2026-07-02T04:22:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Porsche Taycan, Macan EV in Malaysia get price hike",
-                "desc": "Prices of Porsche electric vehicles (EVs) in Malaysia have increased by as much as RM410,000, with every model and variant affected. Starting with the Taycan, the base variant that was previously priced from RM575,000 now …",
-                "image": "https://paultan.org/image/2025/07/2025-Porsche-Taycan-4S-Malaysia-Ext-4-1200x801.jpg",
-                "url": "https://paultan.org/2026/07/02/porsche-evs-in-malaysia-get-price-hike/",
-                "source": "Paul Tan's Automotive News",
-                "date": "2026-07-02T04:22:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan PM's visit brings big investment push with Maruti's 4th car plant in Haryana",
-                "desc": "The Kharkhoda plant is Maruti Suzuki's fourth manufacturing facility in India and is expected to significantly boost the country's passenger vehicle production capacity.",
-                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/takaichi--pm-modi-023826424-16x9_0.jpg?VersionId=xCXScFdaaR3vL6D9FkEKOnThOyYzbfmK",
-                "url": "https://www.indiatoday.in/business/story/maruti-suzuki-kharkhoda-plant-narendra-modi-japan-pm-takaichi-launch-rs-35000-crore-haryana-facility-2938802-2026-07-02",
-                "source": "India Today",
-                "date": "2026-07-02T04:21:54Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Edifier's new G5 Max gaming headphones will outlast even the most ardent gamer",
+                "desc": "It's not so much the audio quality, though there's bound to be plenty of that. No, it's the battery life that appeals most.",
+                "image": "https://stuff.co.za/wp-content/uploads/2026/07/Edifier-G5-Max-main.png",
+                "url": "https://stuff.co.za/2026/07/02/edifiers-new-g5-max-gaming-headphones-outlast-most-ardent-gamer/",
+                "source": "Stuff South Africa",
+                "date": "2026-07-02T13:38:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Motorola Moto G77 Power's launch date, specs, and design revealed",
+                "desc": "It packs a bigger battery than the non-Power model. Motorola launched the Moto G77 in January, and next week, on July 8, it will unveil the Moto G77...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/motorola-moto-g77-power-launch-date-specs-revealed/-952x498w6/gsmarena_001.jpg",
+                "url": "https://www.gsmarena.com/motorola_moto_g77_power_launch_date_specs_design_revealed-news-73549.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-02T13:37:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Four days left to challenge Wiz Khalifa in the new HITMAN World of Assassination Elusive Target mission",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/zh-CN/Four-days-left-to-challenge-Wiz-Khalifa-in-the-new-HITMAN-World-of-Ass",
+                "source": "Games Press",
+                "date": "2026-07-02T13:36:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony to end physical PlayStation game discs for new releases starting in 2028",
+                "desc": "Sony is ending production of physical discs for all new PlayStation game releases beginning in January 2028, marking a significant step in the gaming industry's ongoing transition to digital distribution.",
+                "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/07/1200/630/gettyimages-2186238047-scaled.jpg?ve=1&tl=1",
+                "url": "https://www.livenowfox.com/news/sony-end-physical-playstation-game-discs-new-releases-starting-2028",
+                "source": "LiveNOW from FOX",
+                "date": "2026-07-02T13:33:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"The goal isn't to build something that burns brightly for a few years and disappears\" – Cosmic Division CEO on launching a \"responsibly ambitious\" studio",
+                "desc": "Former Housemarque game director Harry Krueger discusses focusing on sustainable growth and learning from past mistakes in AAA development",
+                "image": "https://assetsio.gnwcdn.com/harry-krueger-2026-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/the-goal-isnt-to-build-something-that-burns-brightly-for-a-few-years-and-disappears-cosmic-division-ceo-on-launching-a-responsibly-ambitious-studio",
+                "source": "GamesIndustry.biz",
+                "date": "2026-07-02T13:33:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple's Next iPad Pro, MacBook Pro Upgrades Tipped for Early 2027 Launch",
+                "desc": "The upgraded iPad Pros will arrive in spring, while the redesigned M6 MacBook Pro will arrive in the first half of 2027, Bloomberg reports.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/a/apples-nex/apples-next-ipad-pro-macbook-pro-upgrades-tipped-for-early-2_dbjb.1200.jpg",
+                "url": "https://au.pcmag.com/laptops/118586/apples-next-ipad-pro-macbook-pro-upgrades-tipped-for-early-2027-launch",
+                "source": "PCMag Australia",
+                "date": "2026-07-02T13:33:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LinkedIn Rolls Out Brand Kit for AI-Generated Ads",
+                "desc": "LinkedIn is rolling out five AI creative tools in Campaign Manager, led by a Brand Kit that keeps every AI-generated ad aligned to a company’s colors, fonts, and tone of voice.",
+                "image": "https://cdn.prod.website-files.com/6748a0499432e81f3a029e2b/6a285713b0797aa4adccce1d_45%20-%20Passionfroot%20%20EAFM%20%201080%20x%201350%20px.png",
+                "url": "https://www.thekeyword.co/news/linkedin-brand-kit-creative-tools",
+                "source": "thekeyword.co",
+                "date": "2026-07-02T13:30:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Your ‘Tiny Bookshop’ Opens Its Doors on July 9 for Android and IOS",
+                "desc": "Cozy gamers have been delighted with indie game Tiny Bookshop, which is currently available on PC via Steam, Nintendo Switch and Nintendo Switch 2…",
+                "image": "https://www.cinelinx.com/wp-content/uploads/2026/05/tiny-bookshop-key-art-1536x864.jpeg.webp",
+                "url": "https://www.cinelinx.com/games/your-tiny-bookshop-opens-its-doors-on-july-9-for-android-and-ios/",
+                "source": "Cinelinx",
+                "date": "2026-07-02T13:27:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "#DRIVE Liberty & Steel Season is coming on July 3rd.",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/DRIVE-Liberty-Steel-Season-is-coming-on-July-3rd",
+                "source": "Games Press",
+                "date": "2026-07-02T13:26:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Match Day Weatherproof Viewing Zone Built by Sylvox near MetLife",
+                "desc": "EAST RUTHERFORD, N.J., July 2, 2026 /PRNewswire/ -- Sylvox, a leading Outdoor TV brand, is bringing its outdoor TVs to an independent fan tailgate a short walk from MetLife Stadium, giving soccer fans a bright, all-weather way to watch the eight matches there from June 13 through July 19. As the world's biggest soccer tournament draws huge crowds to the New York and New Jersey area, much of the matchday energy is happening outdoors, at tailgates, watch parties, and gatherings that have become an extension of the action.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/02/1122733.jpg",
+                "url": "https://www.manilatimes.net/2026/07/02/tmt-newswire/pr-newswire/match-day-weatherproof-viewing-zone-built-by-sylvox-near-metlife/2377585",
+                "source": "The Manila Times",
+                "date": "2026-07-02T13:26:33Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "This Startup Wants to Make City Streets Searchable With AI",
                 "desc": "Orchestra has installed more than 100 cameras in San Francisco. Next up: 900 more, then the rest of the world.",
@@ -1174,99 +1264,99 @@
                 "source": "IOL",
                 "date": "2026-07-02T04:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Smart prepaid launches new Power All offers to power Gen Z side quests",
-                "desc": "Recognizing that today’s Gen Z users move fluidly from one side quest to the next, Smart Prepaid has enhanced its Power All promos to empower them to stay...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/02/113178.webp",
-                "url": "https://mb.com.ph/2026/07/02/smart-prepaid-launches-new-power-all-offers-to-power-gen-z-side-quests",
-                "source": "Manila Bulletin",
-                "date": "2026-07-02T03:59:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gemini Spark Is Now Available on macOS: Here's Everything the AI Agent Can Do",
-                "desc": "Spark is now available in the Gemini Mac app for users with a Google AI Ultra subscription.",
-                "image": "https://sm.pcmag.com/t/pcmag_me/news/g/gemini-spa/gemini-spark-is-now-available-on-macos-heres-everything-the_u67y.1200.jpg",
-                "url": "https://me.pcmag.com/en/macos/37597/gemini-spark-is-now-available-on-macos-heres-everything-the-ai-agent-can-do",
-                "source": "PCMag Middle East",
-                "date": "2026-07-02T03:58:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "June 2026 month in media",
-                "desc": "Every month, the Together team highlights five media stories and one idea they love. June 2026 was a month for sharper audience strategy.",
-                "image": "https://nzmarketingmag.co.nz/wp-content/uploads/2026/07/Month-in-Media_Jun-2026.jpg",
-                "url": "https://nzmarketingmag.co.nz/june-2026-month-in-media/",
-                "source": "New Zealand Marketing magazine",
-                "date": "2026-07-02T03:57:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mode Fast IPS Gaming Monitor that Allows Gamers to Switch Between Three High",
-                "desc": "SINGAPORE, July 2, 2026 /PRNewswire/ — Philips Evnia has launched the New M4 gaming lineup built with revolutionary Triple-Mode technology. It […]",
-                "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
-                "url": "https://technode.global/prnasia/philips-evnia-launches-the-worlds-first-triple-mode-fast-ips-gaming-monitor-that-allows-gamers-to-switch-between-three-high-performance-resolution-modes/",
-                "source": "TNGlobal",
-                "date": "2026-07-02T03:57:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "390 gravitational wave detections reveal hidden population of black holes",
-                "desc": "Astronomers have released the largest gravitational wave catalog ever, revealing 161 new black hole collisions and pushing the total number of detections to 390. Among the highlights are the clearest gravitational wave signal ever recorded, the most accurate location of a black hole merger, and growing evidence that some black holes are the products of previous black hole mergers. With discoveries now arriving several times a week, gravitational wave astronomy is entering an exciting new era.",
-                "image": "https://www.sciencedaily.com/images/1920/black-hole-twisting-spacetime.webp",
-                "url": "https://www.sciencedaily.com/releases/2026/06/260625060203.htm",
-                "source": "ScienceDaily",
-                "date": "2026-07-02T03:53:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "390 gravitational wave detections reveal hidden population of black holes",
-                "desc": "Astronomers have released the largest gravitational wave catalog ever, revealing 161 new black hole collisions and pushing the total number of detections to 390. Among the highlights are the clearest gravitational wave signal ever recorded, the most accurate location of a black hole merger, and growing evidence that some black holes are the products of previous black hole mergers. With discoveries now arriving several times a week, gravitational wave astronomy is entering an exciting new era.",
-                "image": "https://www.sciencedaily.com/images/1920/black-hole-twisting-spacetime.webp",
-                "url": "http://www.sciencedaily.com/releases/2026/06/260625060203.htm",
-                "source": "ScienceDaily",
-                "date": "2026-07-02T03:53:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ADATA XPG ARMAX RGB DDR5-6000 CL30 Hands-On Test",
-                "desc": "When it comes to DDR5 memory, we've reached a point where most quality kits are already capable of delivering excellent out-of-the-box performance. The",
-                "image": "https://www.tech-critter.com/wp-content/uploads/2026/06/XPG-ARMAX-DDR5-04.webp",
-                "url": "https://www.tech-critter.com/xpg-armax-rgb-ddr5-6000-cl30-hands-on-test/",
-                "source": "Tech Critter",
-                "date": "2026-07-02T03:44:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Philips Evnia Launches the World's First Triple-Mode Fast IPS Gaming Monitor that Allows Gamers to Switch Between Three High-Performance Resolution Modes",
-                "desc": "SINGAPORE, July 2, 2026 /PRNewswire/ -- Philips Evnia has launched the New M4 gaming lineup built with revolutionary Triple-Mode technology. It offers three switchable high HZ-and-resolution presets tailored for different gaming scenarios, bringing unprecedented flexibility to players. The range includes Philips Evnia 27M4N3500PT and 27M4N5500PT, features Fast IPS panel and delivers HDR gaming across three selectable display modes, each optimized for a different play style. Innovative industrial design achieves perfect integration of appearance, structural rigidity and practical usability, bringing futuristic visual flair to modern gaming setups.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/02/1121991.jpg",
-                "url": "https://www.manilatimes.net/2026/07/02/tmt-newswire/pr-newswire/philips-evnia-launches-the-worlds-first-triple-mode-fast-ips-gaming-monitor-that-allows-gamers-to-switch-between-three-high-performance-resolution-modes/2377229",
-                "source": "The Manila Times",
-                "date": "2026-07-02T03:43:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple tipped to split iPhone 18 launch with debut of iPhone Ultra",
-                "desc": "Apple tipped to split iPhone 18 launch with debut of iPhone Ultra",
-                "image": "https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2026/7/1/apple-tipped-to-unveil-foldable-iphone-ultra-as-iphone-launch-schedule-changes-1ea062f23c7a447b9d4688c2776dc31c-4183.png?width=0&s=mb0iWBOwAYpJ3CirFGp6Tg",
-                "url": "https://vietnamnet.vn/en/apple-tipped-to-split-iphone-18-launch-with-debut-of-iphone-ultra-2531598.html",
-                "source": "Báo VietNamNet",
-                "date": "2026-07-02T03:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei Mate XT 2 tri-fold to introduce meaningful battery boost",
-                "desc": "Mate XT 2 will be the third Huawei tri-fold and to make it more meaningful, the company is planning a significant battery boost. A new Weibo p",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/MateXTs.jpg",
-                "url": "https://www.huaweicentral.com/huawei-mate-xt-2-tri-fold-to-introduce-meaningful-battery-boost/",
-                "source": "Huawei Central",
-                "date": "2026-07-02T03:11:15Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Johor polls: Indian community's votes key for Pakatan victory, says Gunaraj",
+                "desc": "JOHOR BARU: The Indian community has been called on to back Pakatan Harapan in the Johor state election to ensure political stability, the continuation of the Madani reform agenda, and sustained economic development.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/02/3989108.JPG",
+                "url": "https://www.thestar.com.my/news/nation/2026/07/02/johor-polls-indian-community039s-votes-key-for-pakatan-victory-says-gunaraj",
+                "source": "The Star",
+                "date": "2026-07-02T13:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ILO, Microsoft launch digital jobs program for refugees, host communities",
+                "desc": "The programme will be delivered by Power Learn Project in collaboration with local digital hubs, community-based organisations, refugee-led organisations and other local partners. It will also provide up to 1,000...",
+                "image": "https://capitalfm.africa/wp-content/uploads/news/2024/06/KAKUMA-SIGN-POS.jpg",
+                "url": "https://capitalfm.africa/ilo-microsoft-launch-digital-jobs-program-for-refugees-host-communities/",
+                "source": "Capitalfm.co.ke",
+                "date": "2026-07-02T13:36:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "American pilot shot dead by Papua separatists, plane torched",
+                "desc": "A rebel spokesman claimed the aircraft violated the West Papua Liberation Army’s ban on civilian flights in areas the separatist group considers its operational zones.",
+                "image": "https://static.ffx.io/images/$zoom_0.8034018518518519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_3/t_crop_custom/q_86%2Cf_auto/d6cc38b9e2f4bc406124731737f5d9da9bf3c4c4",
+                "url": "https://www.smh.com.au/world/oceania/american-pilot-shot-dead-by-papua-separatists-plane-torched-20260702-p60c72.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-02T13:33:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sahel Countries’ Withdrawal From ICC Betrays Victims",
+                "desc": "Niger on June 18 and Burkina Faso and Mali on June 24 notified the United Nations secretary-general of their respective decisions to withdraw from the Rome Statute of the International Criminal Court (ICC). The withdrawals take effect in one year.",
+                "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/07/202607afr_mali_Traore%CC%81_Goi%CC%88ta_and_Tchiani.jpg?h=4e8a76af&itok=Rb2VsmWS",
+                "url": "https://www.hrw.org/news/2026/07/02/sahel-countries-withdrawal-from-icc-betrays-victims",
+                "source": "Human Rights Watch",
+                "date": "2026-07-02T13:32:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mystery Polymarket User Bets $400,000 On Putin Losing Power Before End Of 2026",
+                "desc": "The bet was made by an anonymous user with a Ukrainian flag as his display photo and it comes amid concerns about insider betting on major geopolitical events.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a465faa78f716843184a71f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/siladityaray/2026/07/02/mystery-polymarket-bettor-stakes-around-400000-on-putins-ouster-before-end-of-year/",
+                "source": "Forbes",
+                "date": "2026-07-02T13:29:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hossana residents forced to kill their own dogs after Ethiopia rabies deaths",
+                "desc": "Some residents reluctantly hung their dogs to avoid being arrested or fined, locals tell the BBC.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a04/live/db4e9a10-760d-11f1-9510-1546718f668b.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c1wy4d5p4pxo",
+                "source": "BBC",
+                "date": "2026-07-02T13:29:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mojtaba Khamenei won't attend father's funeral: Iran Supreme Leader's aide",
+                "desc": "In an exclusive interview with India Today, Ayatollah Hakim Elahi said the decision was driven by security concerns as tensions with Israel remain high ahead of the state funeral.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/mojtaba--ali-khamenei--iran-024133397-16x9_0.jpg?VersionId=LHYmBnq0bObYcph9p2NFQJiADjuLFRr1",
+                "url": "https://www.indiatoday.in/world/story/mojtaba-khamenei-wont-attend-fathers-funeral-due-to-security-risks-iran-supreme-leaders-representative-2939230-2026-07-02",
+                "source": "India Today",
+                "date": "2026-07-02T13:28:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia issues horror WW3 threat to nuke Germany and Finland - 'Reduced to dust'",
+                "desc": "Russia has issued a chilling threat.",
+                "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7017960.jpg",
+                "url": "https://www.express.co.uk/news/world/2224544/russia-issues-horror-ww3-threat",
+                "source": "Daily Express",
+                "date": "2026-07-02T13:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sweden's Meteor missile: The 'long arm' Ukraine's air force has sorely needed",
+                "desc": "Soon, Ukraine will have a new weapon: Swedish Gripen fighter jets carrying Meteor missiles, which can hit targets farther away than any missile Ukrainian pilots have now.\nThat extra range could help blunt one of Russia's most destructive weapons by pushing Russian pilots to drop guided bombs from farther behind the front line — shrinking how far those bombs can reach, Ukrainian military aviation expert Andrii Kharuk told the Kyiv Independent.\n\"Here there are two factors: material, or physical,",
+                "image": "https://assets.kyivindependent.com/content/images/2026/07/GettyImages-2054273622_20260702-125618.jpg",
+                "url": "https://kyivindependent.com/meteor-missile-the-long-arm-ukraines-air-force-has-lacked/",
+                "source": "The Kyiv Independent",
+                "date": "2026-07-02T13:26:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rwanda and Egypt Deepen AI Partnership With Planned Cooperation Agreement",
+                "desc": "Rwanda and Egypt plan to sign a memorandum of understanding to expand cooperation in artificial intelligence, digital transformation and digital",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/e4c38146ef1ece3f6db586f3d9ea0ee4_S.jpg",
+                "url": "https://www.ecofinagency.com/news-digital/0207-57019-rwanda-and-egypt-deepen-ai-partnership-with-planned-cooperation-agreement",
+                "source": "Ecofin Agency",
+                "date": "2026-07-02T13:24:53Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pope's July prayer intention: 'for respect for human life'",
                 "desc": "Pope Leo XIV releases his prayer intention for the month of July, and invites Catholics to pray 'for respect for human life,' so all may 'recognize ...",
@@ -1806,98 +1896,8 @@
                 "source": "The Eastleigh Voice",
                 "date": "2026-07-02T04:24:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ro Khanna backs Pakistani-American Aisha Farooqi: 'Indian American endorsing a Pakistani American' | Watch",
-                "desc": "Ro Khanna endorsed Pakistani-American congressional candidate Aisha Farooqi in Michigan's Democratic primary, saying,",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260702041115_Screenshot-2026-07-02-094041.png",
-                "url": "https://www.moneycontrol.com/world/ro-khanna-backs-pakistani-american-aisha-farooqi-indian-american-endorsing-a-pakistani-american-watch-article-13964089.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-02T04:11:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Passenger safely rescued after falling onto Hang Tuah LRT tracks, services resume within 16 minutes (VIDEO)",
-                "desc": "KUALA LUMPUR, July 2 — A passenger was rescued after allegedly fainting and falling onto the tracks at Rapid KL’s Hang Tuah LRT station yesterday evening, prompting a brief...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/02/349703.jpg",
-                "url": "https://www.malaymail.com/news/malaysia/2026/07/02/passenger-safely-rescued-after-falling-onto-hang-tuah-lrt-tracks-services-resume-within-16-minutes-video/226000",
-                "source": "Malay Mail",
-                "date": "2026-07-02T04:10:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ivory Coast: Nearly 60 people killed in flooding since May",
-                "desc": "Although the rainy season has only just begun, flooding has already killed dozens in the Ivory Coast.",
-                "image": "https://static.dw.com/image/77793281_6.jpg",
-                "url": "https://www.dw.com/en/ivory-coast-nearly-60-people-killed-in-flooding-since-may/a-77793180",
-                "source": "DW.com",
-                "date": "2026-07-02T04:10:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More than 100 sick in severe multi-country Salmonella outbreak",
-                "desc": "Epidemiological investigations have found that many of the patients consumed flavored instant noodle products before falling ill.",
-                "image": "https://storage.ghost.io/c/43/4e/434e508a-5e2f-4102-a53d-00bca10bb4bf/content/images/size/w1200/2026/07/salmonella_salmonellosis.png",
-                "url": "https://www.foodsafetynews.com/2026/07/more-than-100-sick-in-severe-multi-country-salmonella-outbreak/",
-                "source": "foodsafetynews.com",
-                "date": "2026-07-02T04:09:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taiwan condemns China's vessel deployments near its waters",
-                "desc": "Taiwan on Wednesday condemned mainland China for deploying its government vessels to waters surrounding the self-ruled island, including off its east coast.",
-                "image": "https://globalnation.inquirer.net/files/2026/07/Taiwan-condemns-Chinas-vessel-deployments-near-its-waters.jpeg",
-                "url": "https://globalnation.inquirer.net/329528/taiwan-condemns-chinas-vessel-deployments-near-its-waters",
-                "source": "Inquirer.net",
-                "date": "2026-07-02T04:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Europe's leaders close ranks amid barbs and pressure from Trump",
-                "desc": "U.S. President Donald Trump’s attacks on Italy’s premier have had an unintended consequence. After Trump questioned Italy’s reliability as a wartime ally and claimed Giorgia Meloni had groveled for his attention, European leaders rallied to Meloni’s side.",
-                "image": "https://dims.apnews.com/dims4/default/4adffe9/2147483647/strip/true/crop/3402x2267+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2Fec%2Fddca906641246f1bb5a27b6f8d53%2Fadf44e29a05d4ee2a20245b2fccba583",
-                "url": "https://apnews.com/article/italy-europe-trump-meloni-iran-war-4567748bf998f158d99158068d978aad",
-                "source": "AP News",
-                "date": "2026-07-02T04:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hope fades, hunger grows a week after Venezuela quakes",
-                "desc": "Hope of finding more survivors faded as Venezuela marked a week since twin earthquakes killed almost 2,300 people, while many who lived through the disaster were running desperately short on food.",
-                "image": "https://www.enca.com/sites/default/files/styles/large/public/afp/2026-07/doc-B8VG6ZR-%40photo4.jpg.webp?itok=u-pSjLAZ",
-                "url": "https://www.enca.com/news-top-stories/hope-fades-hunger-grows-week-after-venezuela-quakes",
-                "source": "eNCA",
-                "date": "2026-07-02T04:02:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Trip to India left me with 38 parasites in my brain’: British woman claims Indian food left her with lifelong disease",
-                "desc": "Trending News: In an ordeal that is gaining traction online, a British woman claimed her trip to India left her with 38 parasites in her brain and a lifelong disease.",
-                "image": "https://static.toiimg.com/thumb/msid-132128095,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/etimes/trending/trip-to-india-left-me-with-38-parasites-in-my-brain-british-woman-claims-indian-food-left-her-with-lifelong-disease/articleshow/132128081.cms",
-                "source": "The Times of India",
-                "date": "2026-07-02T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Swindon is at the forefront of the PM's new defence plan",
-                "desc": "Swindon is playing a key role in the future defence strategy of the UK as it becomes a hub for drone manufacturing.",
-                "image": "https://www.swindonadvertiser.co.uk/resources/images/21124405.jpg?type=og-image",
-                "url": "https://www.swindonadvertiser.co.uk/news/26243569.swindon-forefront-pms-new-defence-plan/",
-                "source": "Swindon Advertiser",
-                "date": "2026-07-02T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gatwick Airport passengers issued Spain travel warning",
-                "desc": "The financial requirements for British nationals to enter Spain have changed in 2026.",
-                "image": "https://www.theargus.co.uk/resources/images/21123525.jpg?type=og-image",
-                "url": "https://www.theargus.co.uk/news/26242737.gatwick-airport-passengers-issued-spain-travel-warning/",
-                "source": "The Argus",
-                "date": "2026-07-02T04:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-03T01:00:58.265514Z"
+    "lastGlobalSync": "2026-07-03T01:41:01.851573Z"
 }
