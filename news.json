@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Sky News Australia",
+                "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
+                "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
+                "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
+                "source": "Sky News Australia",
+                "date": "2026-07-02T19:00:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Securitize (SECZ) takes $295M of its own tokenized stock to Solana, Avalanche amid NYSE debut",
+                "desc": "The newly-public company's shares are the largest issuer-sponsored tokenized stock at launch, aiming to make a point against rival third-party stock token issuers.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
+                "source": "CoinDesk",
+                "date": "2026-07-02T19:00:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This paradise is easier for Aussies to reach than ever before",
+                "desc": "A new direct flight from Melbourne makes the Maldives so much more accessible. Here’s our expert guide to where to stay.",
+                "image": "https://static.ffx.io/images/$zoom_0.2018970189701897%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/1fc2f25f676f7101be87290f45da8f472e1a764e",
+                "url": "https://www.smh.com.au/traveller/inspiration/this-paradise-is-easier-for-aussies-to-reach-than-ever-before-20260628-p60aqj.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-02T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft agrees to pay Nine for journalism in major AI deal",
+                "desc": "Nine has signed a major deal with Microsoft that will assure people who use the tech giant’s Copilot chatbot access to original, trusted journalism.",
+                "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/98d3ab58045b1916bc50e05e583d860aa4613d19",
+                "url": "https://www.smh.com.au/business/companies/microsoft-agrees-to-pay-nine-for-journalism-in-major-ai-deal-20260702-p60c3z.html",
+                "source": "smh.com.au",
+                "date": "2026-07-02T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Zac Efron is turning an Aussie bush block into his forever home",
+                "desc": "Efron is building his forever home – somewhere he could start a family – in NSW’s Tweed Valley. And while he’s not placing every brick, he is taking the building very seriously. This week he was seen checking in on hemp he planted that will soon be used in his kitchen.",
+                "image": "https://static.ffx.io/images/$zoom_0.16108913903255248%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_37/t_crop_custom/q_86%2Cf_auto/6a424f00bd046a72eb3b17bf6d1eafa22d37bfa4",
+                "url": "https://www.smh.com.au/property/news/how-zac-efron-is-turning-an-aussie-bush-block-into-his-forever-home-20260617-p607ow.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-02T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside the American city’s rising political, cultural and financial influence",
+                "desc": "The southern Florida city of Miami is emerging as a new epicentre of politics, culture and commerce in the US.",
+                "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0e60de8a996a7224d84fe191f49dc2c0a68d6ac0",
+                "url": "https://www.theage.com.au/world/north-america/how-trump-tiktokkers-and-tech-billionaires-have-created-a-new-centre-of-power-and-influence-20260603-p603bx.html",
+                "source": "The Age",
+                "date": "2026-07-02T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Red Cat Holdings’ Teal Drones Advances to Gauntlet II of Drone Dominance Program",
+                "desc": "Teal Drones advances to Gauntlet II of the Drone Dominance Program, showcasing Red Cat's commitment",
+                "image": "https://www.quiverquant.com/images/rcat_rect_new.png",
+                "url": "https://www.quiverquant.com/news/Red+Cat+Holdings%E2%80%99+Teal+Drones+Advances+to+Gauntlet+II+of+Drone+Dominance+Program",
+                "source": "Quiver Quantitative",
+                "date": "2026-07-02T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside the American city’s rising political, cultural and financial influence",
+                "desc": "The southern Florida city of Miami is emerging as a new epicentre of politics, culture and commerce in the US.",
+                "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0e60de8a996a7224d84fe191f49dc2c0a68d6ac0",
+                "url": "https://www.smh.com.au/world/north-america/how-trump-tiktokkers-and-tech-billionaires-have-created-a-new-centre-of-power-and-influence-20260603-p603bx.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-02T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran war proves why Australia's last two refineries still matter, Ampol boss says",
+                "desc": "Ampol's chief executive says the Iran conflict exposed Australia's fuel vulnerability and strengthened the case for keeping its remaining refinery operating.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/38587d01f33b03a976c00c21635848d0?impolicy=wcms_watermark_news&cropH=911&cropW=1620&xPos=0&yPos=84&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-03/ampol-iran-fuel-refinery-future/106870500",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-02T18:52:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NZ vehicle market undergoing structural changes, Toyota says",
+                "desc": "Toyota believes the New Zealand vehicle market is seeing some structural changes, with electric and hybrid vehicle adoption on the rise.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--M8h7od7m--/t_tohu-badge-facebook/f_auto/q_auto/4JM3FCN_electrified_vehicle_charging_phev_992x640_webp",
+                "url": "https://www.rnz.co.nz/news/business/657588/nz-vehicle-market-undergoing-structural-changes-toyota-says",
+                "source": "RNZ",
+                "date": "2026-07-02T18:51:31Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "California fruit farmers’ free nectarine giveaway shut down by authorities due to huge crowds",
                 "desc": "Reedley farmer Cesar Mora has been handing out free nectarines amid a legal battle over the ownership of the crop, but long lines led to the giveaway being temporarily shut down by authorities.",
                 "image": "https://s.yimg.com/lo/mysterio/api/ea2e08c99aa7558f9ed9b64cf952f9bfdff2b631268d0f2c533746006462853e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fdf7090de2e57c3edab79808f616ceef3",
@@ -542,99 +632,99 @@
                 "source": "Global Regulation Tomorrow",
                 "date": "2026-07-02T15:35:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "ANRA Technologies Hits New Commercial Milestone",
-                "desc": "ANRA Technologies says its MMX platform now supports 55,000 commercial drone operations per month across the U.S.",
-                "image": "https://dronelife.com/wp-content/uploads/2024/07/ANRA_AeroVision_ClearSky_Graphic.png",
-                "url": "https://dronelife.com/2026/07/02/anra-technologies-surpasses-55000-commercial-drone-operations-per-month/",
-                "source": "Dronelife",
-                "date": "2026-07-02T15:33:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Plans for Dean Moor Solar Farm granted development consent",
-                "desc": "A NEW solar farm, which is said could generate enough electricity to power over 50,000 homes a year, has been approved by government.",
-                "image": "https://www.newsandstar.co.uk/resources/images/14670727.jpg?type=og-image",
-                "url": "https://www.newsandstar.co.uk/news/26249114.plans-major-dean-moor-solar-farm-granted-development-consent/",
-                "source": "News & Star",
-                "date": "2026-07-02T15:33:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US job growth slows in June; hospitality sheds roles despite World Cup",
-                "desc": "Labour force participation dropped to its lowest level since March 2021, reaching 61.5 percent in June.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a466ffb1d627-1783001083.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/economy/2026/7/2/us-job-growth-slows-in-june-hospitality-sheds-roles-despite-world-cup",
-                "source": "Al Jazeera",
-                "date": "2026-07-02T15:30:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indian, UAE groups ink pact for $11.5bn aluminium project in Odisha",
-                "desc": "The Odisha project is set to be the largest foreign direct investment in India’s metallurgy sector.",
-                "image": "https://i.dawn.com/large/2026/07/021912091d57354.webp",
-                "url": "https://www.dawn.com/news/2012476",
-                "source": "Dawn",
-                "date": "2026-07-02T15:30:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carbonfact is Releasing a Detailed Database on Fashion’s Environmental Impact for Free",
-                "desc": "This consists of over 300 life cycle assessment (LCA) datasets, all of which are fully disaggregated.",
-                "image": "https://s.yimg.com/lo/mysterio/api/e01a3da44d9cf65e1ca9b3ed3af4905fc7e61b763e80e94d75846bbe9680c200/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsourcing_journal_735%2Fe95d1dde9c0a11f4b7b45b696b5ae6b6",
-                "url": "https://www.yahoo.com/news/science/articles/carbonfact-releasing-detailed-database-fashion-153000746.html",
-                "source": "yahoo.com",
-                "date": "2026-07-02T15:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MSIG USA Supports Innovative DEG Fund to Expand Sustainable Investment Across Developing Markets",
-                "desc": "**media[1122956]**NEW YORK, July 2, 2026 /PRNewswire/ -- MSIG USA today announced its participation in an innovative investment structure with DEG, one of the leading private-sector development finance institutions and a subsidiary of KfW Group, designed to finance and mobilize further private capital for sustainable investment across developing and emerging markets.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/02/1122955.jpg",
-                "url": "https://www.manilatimes.net/2026/07/02/tmt-newswire/pr-newswire/msig-usa-supports-innovative-deg-fund-to-expand-sustainable-investment-across-developing-markets/2377688",
-                "source": "The Manila Times",
-                "date": "2026-07-02T15:27:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As U.S. Faces Extreme Heat, Data Centers Are Ordered to Use Backup Power to Prevent Blackouts",
-                "desc": "As triple-digit heat engulfs much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.",
-                "image": "https://static01.nyt.com/images/2026/07/02/multimedia/02biz-heat-energy-datacenter-topart01-lczt/02biz-heat-energy-datacenter-topart01-lczt-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html",
-                "source": "The New York Times",
-                "date": "2026-07-02T15:24:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tesla sales surpass expectations for second quarter as Musk backlash seems to cool",
-                "desc": "Strong figures suggest Tesla’s auto business is regaining momentum after two straight annual sales declines",
-                "image": "https://i.guim.co.uk/img/media/9b5b06577c3d0f737ef1121f67a10c00a9161f38/0_0_4839_3871/master/4839.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5231f6061a30adad5822b4f2d87d214",
-                "url": "https://www.theguardian.com/technology/2026/jul/02/tesla-sales-second-quarter",
-                "source": "The Guardian",
-                "date": "2026-07-02T15:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Don't Want Exposure to SpaceX? Why Investing in These Types of ETFs May Be the Way to Go",
-                "desc": "Many funds will soon include SpaceX, and that can make them riskier and more volatile. But that doesn't include ones that track the S&P 500.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876694%2Fa-dollar-bill-with-etf-written-behind-it.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/02/dont-want-exposure-to-spacex-in-your-etfs-buy-thes/",
-                "source": "The Motley Fool",
-                "date": "2026-07-02T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ovintiv to Host its Second Quarter 2026 Results Conference Call and Webcast on July 24, 2026",
-                "desc": "DENVER, July 2, 2026 /PRNewswire/ - Ovintiv Inc. (NYSE: OVV) (TSX: OVV) today announced plans to hold its second quarter 2026 results conference call at 9:00 a.m. MT, on Friday July 24, 2026. The Company plans to release its financial and operating results after market close, Thursday July 23, 2026. In addition to the release,",
-                "image": "https://boereport.com/wp-content/uploads/2025/05/Ovintiv.png",
-                "url": "https://boereport.com/2026/07/02/ovintiv-to-host-its-second-quarter-2026-results-conference-call-and-webcast-on-july-24-2026/",
-                "source": "BOE Report",
-                "date": "2026-07-02T15:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "How Zac Efron is turning an Aussie bush block into his forever home",
+                "desc": "Efron is building his forever home – somewhere he could start a family – in NSW’s Tweed Valley. And while he’s not placing every brick, he is taking the building very seriously. This week he was seen checking in on hemp he planted that will soon be used in his kitchen.",
+                "image": "https://static.ffx.io/images/$zoom_0.16108913903255248%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_37/t_crop_custom/q_86%2Cf_auto/6a424f00bd046a72eb3b17bf6d1eafa22d37bfa4",
+                "url": "https://www.smh.com.au/property/news/how-zac-efron-is-turning-an-aussie-bush-block-into-his-forever-home-20260617-p607ow.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-02T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Don't Get Charged for a Subscription After Preordering 'Grand Theft Auto VI'",
+                "desc": "If you redeemed the free month of GTA+ that came with your Grand Theft Auto: VI preorder, but make sure to cancel before it auto-renews.",
+                "image": "https://lifehacker.com/imagery/articles/01KWJ037NZJ7B6R61PXHN2PPX6/hero-image.fill.size_1200x675.png",
+                "url": "https://lifehacker.com/tech/automatic-subscription-charge-grand-theft-auto-vi",
+                "source": "Lifehacker",
+                "date": "2026-07-02T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "KFC and Domino's Respond to PlayStation Ending Disc Games",
+                "desc": "Two food franchises jokingly responded on X to PlayStation's controversial decision to cease production of physical games.",
+                "image": "https://cdn.nerdist.com/wp-content/uploads/2026/07/02090827/Untitled-design-5.jpg",
+                "url": "https://nerdist.com/article/kfc-dominos-respond-to-playstation-ending-disc-games/",
+                "source": "Nerdist",
+                "date": "2026-07-02T18:59:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX Built the Network an AI Device Needs. Now What?",
+                "desc": "SpaceX reportedly showed investors a prototype AI device but Elon Musk denied it. The question is what problem a such a device would solve.",
+                "image": "https://www.pymnts.com/wp-content/uploads/2026/06/SpaceX.jpeg",
+                "url": "https://www.pymnts.com/news/artificial-intelligence/2026/spacex-built-the-network-an-ai-device-needs-now-what/",
+                "source": "PYMNTS.com",
+                "date": "2026-07-02T18:58:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Focus on These Early 4th of July Lenovo Deals on Top-Rated PCs, Monitors, and Tablets",
+                "desc": "Need a new laptop or tablet? Lenovo makes some of the best ones out there, and the holiday weekend is bringing low prices.",
+                "image": "https://i.pcmag.com/imagery/articles/05qeZu8KGDTj65BnAlwCG1b-5.fit_lim.size_1200x630.v1783017642.png",
+                "url": "https://www.pcmag.com/deals/best-lenovo-laptop-tablet-monitor-deals-early-july-4th-2026-sale",
+                "source": "PCMag",
+                "date": "2026-07-02T18:49:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Crocs Terre Tech Turns the Mary Jane Into a Trail Shoe",
+                "desc": "Crocs Terre Tech reimagines the Mary Jane with a rugged ballistic upper and treaded outsole, blending delicate design with utility-driven performance.",
+                "image": "https://www.highsnobiety.com/static-assets/dato/1782897474-crocs-mary-jane.png",
+                "url": "https://www.highsnobiety.com/p/crocs-terre-tech-mary-jane/",
+                "source": "Highsnobiety",
+                "date": "2026-07-02T18:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lenovo Expands ThinkPad X13 Gen 7 Globally With Intel Panther Lake and 32 GB RAM Options",
+                "desc": "Lenovo has expanded global availability of its ThinkPad X13 Gen 7 business laptop, introducing Intel Panther Lake processors with vPro support and up…",
+                "image": "https://img.biggo.com/BUf1E8fb1_v-1dy55-6vhLaE5A7G6r9zO4ipNVpS5to/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzMxNWUwOWVlLWJiOTgtNDA1My1hYzUwLTk4ODFkOTQ2ZDZiYl8xNzgzMDE4Njk2X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/315e09ee-bb98-4053-ac50-9881d946d6bb",
+                "source": "finance.biggo.com",
+                "date": "2026-07-02T18:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CMI211-1005 Expandable Edge AI Computer with Up to 99 TOPS",
+                "desc": "Integrating CPU, GPU, and NPU computing engines, the system delivers up to 99 TOPS of AI performance to accelerate real-time inference, intelligent data processing, and decision-making at the edge.",
+                "image": "https://nmgprod.s3.amazonaws.com/media/file/40/1a/31a9413a11035c18f6f05d5031d4/cover_image__cG4S5S9T__IBASECMI211-1005.png.1600x900_q85_crop_upscale.webp",
+                "url": "https://www.kioskmarketplace.com/press-releases/cmi211-1005-expandable-edge-ai-computer-with-up-to-99-tops/",
+                "source": "Kiosk Marketplace",
+                "date": "2026-07-02T18:43:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "[Interview] Where Sound Meets Design - Redefining the Audio Experience With Music Studio",
+                "desc": "Samsung Music Studio, a new lineup of wireless Wi-Fi speakers, exemplifies the evolution of home audio. Designed in collaboration with acclaimed designer Erwan Bouroullec, these speakers act as sculptural elements that shape the atmosphere of a room while offering pristine, room-filling sound. It was born out of the reality that speakers are no longer confined […]",
+                "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2026/07/02140856/Music-Studio-Real-life-scenarios_09-LS50H_96DPI-1200x630.jpg",
+                "url": "https://news.samsung.com/us/interview-sound-meets-design-redefining-audio-experience-music-studio",
+                "source": "Samsung Global Newsroom",
+                "date": "2026-07-02T18:42:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "[Interview] Where Sound Meets Design - Redefining the Audio Experience With Music Studio",
+                "desc": "Samsung Music Studio, a new lineup of wireless Wi-Fi speakers, exemplifies the evolution of home audio. Designed in collaboration with acclaimed designer Erwan Bouroullec, these speakers act as sculptural elements that shape the atmosphere of a room while offering pristine, room-filling sound. It was born out of the reality that speakers are no longer confined […]",
+                "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2026/07/02140856/Music-Studio-Real-life-scenarios_09-LS50H_96DPI-1200x630.jpg",
+                "url": "https://news.samsung.com/us/interview-sound-meets-design-redefining-audio-experience-music-studio/",
+                "source": "Samsung Global Newsroom",
+                "date": "2026-07-02T18:42:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Men should speed up slower to avoid 'hitting the wall' in marathons, new research suggests",
                 "desc": "Male runners may be twice as likely as female runners to suddenly slow down—known as \"hitting the wall\"—during a marathon, according to a study published in Scientific Reports. The authors suggest that men may be able to reduce this risk by starting races more slowly and speeding up throughout the race.",
@@ -1174,99 +1264,90 @@
                 "source": "Macworld",
                 "date": "2026-07-02T15:34:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Surreal narrative puzzle adventure Looking For Fael locks in July 16th release date on PC and consoles",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-GB/Surreal-narrative-puzzle-adventure-Looking-For-Fael-locks-in-July-16th",
-                "source": "Games Press",
-                "date": "2026-07-02T15:32:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Short on booth space? AlphaTheta’s new CDJ-1500X multi player packs flagship features into a smaller footprint",
-                "desc": "AlphaTheta has unveiled the CDJ-1500X – a new DJ multi player packing the key features of the flagship CDJ-3000X into a space-saving design.",
-                "image": "https://musictech.com/wp-content/uploads/2026/07/CDJ-1500x@2000x1500-1-1068x801.jpg",
-                "url": "https://musictech.com/news/gear/alphatheta-cdj-1500x/",
-                "source": "MusicTech",
-                "date": "2026-07-02T15:30:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dune: Awakening Announces Physical PS5 Release with the Most Unfortunate Timing",
-                "desc": "Awkward - Depending on how plugged-in you are, you might have noticed Sony has not been posting on its social channels since yesterday's announcement about d...",
-                "image": "https://images.pushsquare.com/00db28d98fcdd/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/07/dune-awakening-announces-physical-ps5-release-with-the-most-unfortunate-timing",
-                "source": "Push Square",
-                "date": "2026-07-02T15:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Intersignal Launches Braid Pathfinder v0.5, a Developer Preview for Cloud-Free AI State Synchronization",
-                "desc": "Intersignal, an independent artificial intelligence research and systems engineering initiative, announced the release of Braid Pathfinder v0.5, a hardened developer preview of its local AI state synchronization protocol.",
-                "image": "https://aithority.com/wp-content/uploads/2026/07/vecteezy_machine-learning-hands-of-robot-and-human-touching-on-big_30631733.jpg",
-                "url": "https://aithority.com/machine-learning/intersignal-launches-braid-pathfinder-v0-5-a-developer-preview-for-cloud-free-ai-state-synchronization/",
-                "source": "AiThority",
-                "date": "2026-07-02T15:23:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "On: Revisiting Maen’s Coolest Integrated Sports Watch, the Manhattan 37 Ultra",
-                "desc": "One of the best-value integrated watches, the Manhattan 37 Ultra-Thin, is back in production, and it's as compelling as we remembered.",
-                "image": "https://monochrome-watches.com/app/uploads/2026/07/Maen-Manhattan-37-Ultra-Thin-Blue-Tuscan-Dial-Integrated-Bracelet-review-1.jpg",
-                "url": "https://monochrome-watches.com/revisiting-integrated-sports-watch-maen-manhattan-37-ultra-thin-with-blue-tuscan-dial-review-price/",
-                "source": "Monochrome Watches",
-                "date": "2026-07-02T15:00:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Free Play Days - Call of Duty Black Ops 7, Diablo IV, Ikonei Island: An Earthlock Adventure, and More",
-                "desc": "Free Play Days – XBOX players can jump into Call of Duty Black Ops 7, Diablo IV, Ikonei Island: An Earthlock Adventure, and more, this weekend and beyond!",
-                "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/07/FY26-Social-FPD_JUL_2_1920x1080-copy-24399b9c3dd284082d79.jpg",
-                "url": "https://news.xbox.com/en-us/2026/07/02/free-play-days-07-02-2026/",
-                "source": "XBOX Wire",
-                "date": "2026-07-02T15:00:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Godox’s feature-packed key light is down to its best price yet",
-                "desc": "The Godox ES45 Desktop LED Key Light is $119 ($20 off), matching its best price. Plus, Govee’s Outdoor Smart Wall Light and the Insta360 X5 are on sale too.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/godox.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale",
-                "source": "The Verge",
-                "date": "2026-07-02T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Art Of Being A Value-Driven Collector",
-                "desc": "Mastering the sweet spot between collecting for investment and collecting for pleasure.",
-                "image": "https://hodinkee.imgix.net/uploads/images/86dc01a9-e01b-4ff7-9f28-feeebd789a22/hi.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-                "url": "https://www.hodinkee.com/articles/the-art-of-being-a-value-driven-collector",
-                "source": "Hodinkee",
-                "date": "2026-07-02T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Latest in Eyewear Tech, From AI Smart Glasses to Auto-Focus Lenses",
-                "desc": "Let’s take a look at some exciting new options for your eyes, including new AI smart glasses, auto-focus lenses, and self-lubricating contact lenses.",
-                "image": "https://storage.ghost.io/c/c1/a6/c1a6d111-d951-41ad-a392-c1e841210b93/content/images/2026/07/data-src-image-b7712da2-7611-4b5b-a60e-7af25b8012ea-1.png",
-                "url": "https://www.techloy.com/the-latest-in-eyewear-tech-from-ai-smart-glasses-to-auto-focus-lenses/",
-                "source": "Techloy",
-                "date": "2026-07-02T14:59:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Putting the power of AI in everyday pockets and why true innovation belongs to everyone",
-                "desc": "The true utility of modern technology lies in the privacy behind the screen.",
-                "image": "https://www.businessdailyafrica.com/resource/image/5513100/landscape_ratio3x2/1200/800/71fd68cfaf59adb3ce12a6b0c2198192/ka/mule.jpg",
-                "url": "https://www.businessdailyafrica.com/bd/sponsored/putting-the-power-of-ai-in-everyday-pockets-and-why-true-innovation-belongs-to-everyone-5513104",
-                "source": "Business Daily",
-                "date": "2026-07-02T14:57:17Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "This paradise is easier for Aussies to reach than ever before",
+                "desc": "A new direct flight from Melbourne makes the Maldives so much more accessible. Here’s our expert guide to where to stay.",
+                "image": "https://static.ffx.io/images/$zoom_0.2018970189701897%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/1fc2f25f676f7101be87290f45da8f472e1a764e",
+                "url": "https://www.smh.com.au/traveller/inspiration/this-paradise-is-easier-for-aussies-to-reach-than-ever-before-20260628-p60aqj.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-02T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Arcadia man sentenced to prison for abusing children in Philippines",
+                "desc": "An Arcadia man will serve 30 years in prison after he traveled to the Philippines and sexually abused children and possessed over 100 exploitative images.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/3c9a19a4-d84d-4a48-849b-f792907eada9.jpg?resize=1200%3A*&crop=1.00xw%3A0.846xh%3B0%2C0.0293xh",
+                "url": "https://www.gulfcoastnewsnow.com/article/arcadia-federal-prison-sentence-child-sex-abuse-philippines/71808468",
+                "source": "Gulf Coast News and Weather",
+                "date": "2026-07-02T18:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dangerous US heatwave looms over 4 July holiday, World Cup and Swift wedding",
+                "desc": "The soaring temperatures are raising concerns as President Donald Trump hosts America's 250th birthday celebrations and multiple World cup matches take place outdoors.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/39fc/live/ca4b0090-7645-11f1-80e8-6762ba9fc358.jpg",
+                "url": "https://www.bbc.com/news/articles/cevlkzer7vdo",
+                "source": "BBC",
+                "date": "2026-07-02T18:56:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dangerous US heatwave looms over 4 July holiday, World Cup and Swift wedding",
+                "desc": "The soaring temperatures are raising concerns as President Donald Trump hosts America's 250th birthday celebrations and multiple World cup matches take place outdoors.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39fc/live/ca4b0090-7645-11f1-80e8-6762ba9fc358.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo",
+                "source": "BBC",
+                "date": "2026-07-02T18:56:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ex-Guinea PM's prison sentence reduced on appeal",
+                "desc": "An appeals court handed former Guinea prime minister Ibrahima Kassory Fofana a reduced prison sentence Thursday for a conviction that included illicit enrichment and money laundering.",
+                "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/1qwLk3W9XsWiE3n4pkx5OE6Y6Ot97iCCvOM6mIzp.jpg",
+                "url": "https://www.standardmedia.co.ke/africa/article/2001551912/ex-guinea-pms-prison-sentence-reduced-on-appeal",
+                "source": "standardmedia.co.ke",
+                "date": "2026-07-02T18:49:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mehbooba Mufti, J&K politicians fly to Iran for Khamenei funeral",
+                "desc": "India News: SRINAGAR: People’s Democratic Party president Mehbooba Mufti flew from New Delhi to Tehran on Thursday evening to attend funeral ceremonies of Ayatoll.",
+                "image": "https://static.toiimg.com/thumb/msid-132145672,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/india/mehbooba-mufti-jk-politicians-fly-to-iran-for-khamenei-funeral/articleshow/132145689.cms",
+                "source": "The Times of India",
+                "date": "2026-07-02T18:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From classrooms to careers: Can CBE finally produce Kenya’s market-ready workforce?",
+                "desc": "As Kenya prepares for the first university intake of CBE learners in 2029, the country's most ambitious education reform in decades is entering a defining phase.",
+                "image": "https://capitalfm.africa/wp-content/uploads/2026/07/b939a42c-5e66-422f-8be8-19315ab5fb92.png",
+                "url": "https://capitalfm.africa/from-classrooms-to-careers-can-cbe-finally-produce-kenyas-market-ready-workforce/",
+                "source": "98.4 Capital FM Kenya",
+                "date": "2026-07-02T18:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside Venezuela anger and desperation are rising. The number of corpses is 'incalculable'",
+                "desc": "On the ground in Venezuela, death and desperation linger but they are juxtaposed against miracle survival stories.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/9a45fb08e7428d28ede93ffbe98e6049?impolicy=wcms_watermark_news&cropH=2199&cropW=3911&xPos=0&yPos=207&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-03/inside-venezuela-post-earthquake-miracle-survival-and-despair/106867484",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-02T18:43:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Killers of British couple in South Africa sentenced to life",
+                "desc": "The pair had been collecting rare plants and seeds before their bodies were found days later in a river.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cec3/live/58a41cc0-7644-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.com/news/articles/cvgm49j9692o",
+                "source": "BBC",
+                "date": "2026-07-02T18:43:07Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The condition that causes people to get lost in their own home",
                 "desc": "The condition is more than merely being bad with directions.",
@@ -1815,89 +1896,8 @@
                 "source": "Tech In Africa",
                 "date": "2026-07-02T15:33:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Fire razes four shoplots in Penang's Jalan Perak",
-                "desc": "GEORGE TOWN: An afternoon fire gutted 16 premises along Jalan Perak here.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/02/3989273.png",
-                "url": "https://www.thestar.com.my/news/nation/2026/07/02/fire-razes-four-shoplots-in-penang039s-jalan-perak",
-                "source": "The Star",
-                "date": "2026-07-02T15:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.N. Economic Commission for Africa Targets Digital Skills Training for 1,000 Women Entrepreneurs",
-                "desc": "The United Nations Economic Commission for Africa (ECA) has launched a program to train more than 1,000 women entrepreneurs in four African countries",
-                "image": "https://www.ecofinagency.com/media/k2/items/cache/29040792d84e1ed9a3e6f4617af842c1_S.jpg",
-                "url": "https://www.ecofinagency.com/news-services/0207-57027-u-n-economic-commission-for-africa-targets-digital-skills-training-for-1-000-women-entrepreneurs",
-                "source": "Ecofin Agency",
-                "date": "2026-07-02T15:30:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "APC risks losing Kwara Reps seat if Olawuyi gets ticket, chieftain warns",
-                "desc": "A chieftain of the All Progressives Congress (APC) in Kwara State, Alhaji Adewale Waheed, has cautioned the party against",
-                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/05/APC-flag-2-1536x864-1.webp",
-                "url": "https://guardian.ng/politics/apc-risks-losing-kwara-reps-seat-if-olawuyi-gets-ticket-chieftain-warns/",
-                "source": "The Guardian Nigeria News",
-                "date": "2026-07-02T15:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "America has the big birthday blahs",
-                "desc": "As the country turns 250, many Americans aren’t in the mood to party.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/260629-tr-politics-greatamericanstatefair-06292026-2v6a8110.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/02/us/america-250-vibes-cec",
-                "source": "CNN",
-                "date": "2026-07-02T15:00:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AFP assessing allegation of Gaza war crimes committed by Australian citizen serving in IDF",
-                "desc": "Exclusive: Claims against Israel Defense Forces battalion include deliberate targeting and destruction of residential buildings in 2023 and 2024 without military justification",
-                "image": "https://i.guim.co.uk/img/media/06b8fe95767fb7c3c507f285a58cd5c9081dff8b/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e07e080efc5670728d442bd3f0503142",
-                "url": "https://www.theguardian.com/australia-news/2026/jul/03/afp-investigating-alleged-war-crimes-committed-by-australian-citizen-serving-in-idf-in-gaza-ntwnfb",
-                "source": "The Guardian",
-                "date": "2026-07-02T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Security guard rescued from rubble 8 days after Venezuela earthquakes",
-                "desc": "Hernan Gil was brought out on a stretcher as elated rescuers cheered and hugged each other. He was loaded into a waiting ambulance and driven away.",
-                "image": "https://s.yimg.com/lo/mysterio/api/7ce20fb89e157a536bd33a95dd3f5658bf6124f443564def95004b100e6ab245/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F7f14b67064d35d78630732286caa77b9",
-                "url": "https://www.yahoo.com/news/world/articles/security-guard-rescued-rubble-8-143051143.html",
-                "source": "Yahoo",
-                "date": "2026-07-02T14:59:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man charged with murdering Thai teen allegedly sent disturbing text messages after the killing",
-                "desc": "A sex worker has revealed the text messages an Australian man accused of murdering a 17-year-old reportedly sent before he allegedly attempted to dispose of the girl’s body.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133027217.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/02/world-news/man-charged-with-murdering-thai-teen-allegedly-sent-disturbing-text-messages-after-the-killing/",
-                "source": "New York Post",
-                "date": "2026-07-02T14:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Venezuelan security guard pulled alive from building basement 8 days after twin quakes",
-                "desc": "The collapse of the building was triggered by two back-to-back earthquakes on Jun 24 that registered magnitudes of 7.2 and 7.5.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--xbnD0BLe--/c_crop,h_900,w_1600,x_0,y_166/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/02/ap26183493205141.jpg?itok=3lEmH0wC",
-                "url": "https://www.channelnewsasia.com/world/venezuela-earthquake-security-guard-pulled-alive-8-days-after-6228161",
-                "source": "CNA",
-                "date": "2026-07-02T14:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GIABA to brief diplomats, partners and media on anti-money laundering efforts",
-                "desc": "The Intergovernmental Action Group against Money Laundering in West Africa (GIABA), the specialised anti-money laundering institution of ECOWAS, will host a",
-                "image": "https://i0.wp.com/www.gbcghanaonline.com/wp-content/uploads/2026/07/1000923530-e1783003976498.png",
-                "url": "https://www.gbcghanaonline.com/general/giaba-to-brief-diplomats-partners-and-media-on-anti-money-laundering-efforts/2026/",
-                "source": "GBC Ghana Online",
-                "date": "2026-07-02T14:55:45Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-03T06:41:00.951823Z"
+    "lastGlobalSync": "2026-07-03T07:01:02.340954Z"
 }
