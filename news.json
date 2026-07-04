@@ -4,6 +4,42 @@
     "en": {
         "business": [
             {
+                "title": "Thousands without power after thunderstorms roll through Quebec",
+                "desc": "Severe thunderstorms that swept across Quebec on Thursday evening resulted in tens of thousands of power outages.",
+                "image": "https://i.cbc.ca/ais/f570600f-4ba3-4450-86be-af9ddcc8b0a3,1783078060288/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C5472%2C3078%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/montreal/quebec-power-outages-9.7257110",
+                "source": "CBC",
+                "date": "2026-07-03T12:57:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump Says He Expects Musk to Support Trump Accounts With SpaceX Stock",
+                "desc": "Donald Trump said he expects Elon Musk to donate SpaceX stock to Trump Account despite their previous public falling out.",
+                "image": "https://i.insider.com/6a4797cbe3bd3a50082c009a?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/donald-trump-elon-musk-spacex-stock-trump-accounts-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-03T12:57:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UAE thwarts 'sophisticated' cyberattacks on financial sector",
+                "desc": "Authorities say attacks included phishing campaigns, malware deployment attempts, and exploitation of system vulnerabilities.",
+                "image": "https://d341l694dl30ad.cloudfront.net/images/reuters/2026/04/29/69f1d10167476d3c4671c6a9/original/a811b4dd-ce59-4c97-9f47-acce08177326-1777455361136.jpg?width=1080&format=jpg&quality=80",
+                "url": "https://www.trtworld.com/article/ce47a1642db7",
+                "source": "TRT World",
+                "date": "2026-07-03T12:54:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Startup Raises $6.5 Million with Technology Designed To Ease Payments Made By “AI Employees”",
+                "desc": "Targeting one-person companies and lean startups, Alsa has designed a technology that helps AI agents handle financial tasks now performed by humans, such as making payments on digital platforms.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a47ad9c149b51149d2be4f0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/elainepofeldt/2026/07/03/startup-raises-65-million-by-making-it-easier-for-ai-employees-to-make-payments-online/",
+                "source": "Forbes",
+                "date": "2026-07-03T12:52:01Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "She Defrauded the Bank. It's Still Paying Her Legal Fees",
                 "desc": "It's an odd footnote to a fraud case involving JPMorgan Chase. The bank has to pay keep paying the legal fees of entrepreneur Charlie Javice—even though she was convicted...",
                 "image": "https://img2-azrcdn.newser.com/image/1696289-12-20260703080947.jpeg",
@@ -596,45 +632,99 @@
                 "source": "CNBC",
                 "date": "2026-07-03T01:48:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Diesel prices expected to rise anew on July 7",
-                "desc": "Motorists could face another diesel price increase next week, while gasoline prices may stay flat or post only slight adjustments.",
-                "image": "https://cebudailynews.inquirer.net/files/2026/06/viberimage2023-09-1908-53-25-512-1.jpg",
-                "url": "https://cebudailynews.inquirer.net/743569/diesel-prices-expected-to-rise-anew-on-july-7",
-                "source": "Cebu Daily News",
-                "date": "2026-07-03T01:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dave Hughes is angry. But this one question made him respond with thinly veiled fury",
-                "desc": "His critics suggest he’s on a similar trajectory to Karl Stefanovic, but the comedian staunchly denies he’s a mouthpiece for Pauline Hanson’s One Nation party.",
-                "image": "https://static.ffx.io/images/$zoom_0.2903%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_601/t_crop_custom/q_86%2Cf_auto/c6d7f8ceea7b421a6d84c0387ea0dd18e6215a89",
-                "url": "https://www.watoday.com.au/culture/comedy/dave-hughes-is-angry-but-this-one-question-made-him-respond-with-thinly-veiled-fury-20260702-p60c0k.html",
-                "source": "WAtoday",
-                "date": "2026-07-03T01:45:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dave Hughes is angry. But this one question made him respond with thinly veiled fury",
-                "desc": "His critics suggest he’s on a similar trajectory to Karl Stefanovic but the comedian staunchly denies he’s a mouthpiece for Pauline Hanson’s One Nation party.",
-                "image": "https://static.ffx.io/images/$zoom_0.2903%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_601/t_crop_custom/q_86%2Cf_auto/c6d7f8ceea7b421a6d84c0387ea0dd18e6215a89",
-                "url": "https://www.theage.com.au/culture/comedy/dave-hughes-is-angry-but-this-one-question-made-him-respond-with-thinly-veiled-fury-20260702-p60c0k.html",
-                "source": "The Age",
-                "date": "2026-07-03T01:45:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Korea opens 24-hour won trading at a fraught moment",
-                "desc": "The launch onto the global stage is taking place just as the won is revisiting low levels last seen in 2009, which leaves the currency and economy more open to speculators.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/03/549615.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/business/2026/07/03/markets/south-korea-won-24-trading/",
-                "source": "The Japan Times",
-                "date": "2026-07-03T01:45:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "March LA.B's new Dive Watches, the Cool Belza Twin Models",
+                "desc": "Hit the waves with the new Belza Twin editions in bronze, with a higher depth rating and a cool 1970s personality for a robust surfer watch.",
+                "image": "https://monochrome-watches.com/app/uploads/2026/07/March-LAB-Belza-Twin-Bronze-Dive-Watch-2026-update-1.jpg",
+                "url": "https://monochrome-watches.com/march-lab-belza-twin-bronze-dive-watch-2026-update-introducing-price/",
+                "source": "Monochrome Watches",
+                "date": "2026-07-03T13:00:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A COF-graphene hybrid opens new horizons for lithium-sulfur batteries",
+                "desc": "Lithium-sulfur (Li-S) batteries combine the abundance and affordability of sulfur with an energy storage capability far beyond that of current lithium-ion technologies. Practical deployment, however, has been slowed by a ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/a-cof-graphene-hybrid.jpg",
+                "url": "https://techxplore.com/news/2026-07-cof-graphene-hybrid-horizons-lithium.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-03T13:00:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I've Seen the Scary Headlines About AI. Here's Why I'm Still a Techno-Optimist",
+                "desc": "My experience in emerging tech gives me hope, but if the people who can fashion a future worth living in decide to opt out, we're screwed.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/opinion/i/ive-seen-t/ive-seen-the-scary-headlines-about-ai-heres-why-im-still-a-t_fn9v.1200.jpg",
+                "url": "https://au.pcmag.com/ai/118597/ive-seen-the-scary-headlines-about-ai-heres-why-im-still-a-techno-optimist",
+                "source": "PCMag Australia",
+                "date": "2026-07-03T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nothing Phone (1) receives final update as software support ends",
+                "desc": "The smartphone debuted in July 2022 running Android 12. The Nothing Phone (1) has officially reached the end of its software support lifecycle and will no...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/nothing-phone-1-final-update/-952x498w6/gsmarena_00.jpg",
+                "url": "https://www.gsmarena.com/nothing_phone_1_receives_final_update_as_software_support_ends-news-73561.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-03T12:58:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DESLOC V150 Plus Earns Kickstarter \"Project We Love\" Recognition for Its Creative Approach to Smart Lock Innovation",
+                "desc": "The world’s first low-light self-charging solar smart lock continues to gain Kickstarter momentum with solar power, 3D face recognition, AI […]",
+                "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
+                "url": "https://technode.global/prnasia/desloc-v150-plus-earns-kickstarter-project-we-love-recognition-for-its-creative-approach-to-smart-lock-innovation/",
+                "source": "TNGlobal",
+                "date": "2026-07-03T12:57:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DJI now offers a pro version of its tiny Mic Mini 2 with backup recording.",
+                "desc": "After teasing the upgraded model alongside the original Mic Mini 2 that launched in April, DJI has announced the ¥629 ($93) Mic Mini 2S in China. It adds 14.5GB of storage in each transmitter for redundant recording (with a boost in audio quality) and the ability to wirelessly connect up to four microphones to a single transmitter.\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/dji1.jpg?quality=90&strip=all]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/dji1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+                "url": "https://www.theverge.com/tech/961278/dji-mic-mini-2s-wireless-microphone-china-launch",
+                "source": "The Verge",
+                "date": "2026-07-03T12:53:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Assassin’s Creed Black Flag Resynced release times in your region and New Zealand trick",
+                "desc": "The remake of 2013’s Assassin’s Creed 4: Black Flag is set to release on July 7, 2026, and release times for all platforms and regions have now been revealed.",
+                "image": "https://www.videogameschronicle.com/files/2026/07/assassins-creed-black-flag-resynced-4.jpg",
+                "url": "https://www.videogameschronicle.com/news/assassins-creed-black-flag-resynced-release-times-in-your-region-and-new-zealand-trick/",
+                "source": "Video Games Chronicle",
+                "date": "2026-07-03T12:53:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony to stop making PlayStation game discs from 2028",
+                "desc": "Sony to stop making PlayStation game discs from 2028",
+                "image": "https://images.t2online.in/cdn-cgi/image/width=1200,fit=crop,gravity=auto,quality=70/https://apis.t2online.in/getImageStream/7199/1783082021642.jpg",
+                "url": "https://t2online.in/tech/tech-news/sony-to-stop-making-playstation-game-discs-from-2028/2006161",
+                "source": "t2ONLINE",
+                "date": "2026-07-03T12:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NVIDIA GeForce NOW Starts July Off With 12 More Games, Sort Of Led By Monopoly: Star Wars Heroes vs. Villains",
+                "desc": "NVIDIA GeForce NOW adds 12 new games throughout July 2026, led by Monopoly: Star Wars Heroes vs. Villains and more cloud gaming releases.",
+                "image": "https://techgenyz.com/wp-content/uploads/2026/07/nvidia-gaming.webp",
+                "url": "https://techgenyz.com/nvidia-geforce-now-july-2026-games/",
+                "source": "Techgenyz",
+                "date": "2026-07-03T12:51:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ultraman Zero DLC comes to GigaBash next week",
+                "desc": "A Ultraman Zero DLC is heading its way to GigaBash on July 9, 2026. This is also in commemoration of the 60 year anniversary since Ultraman made his first TV appearance in 1966. This DLC features Ultraman Belial, and Ultraman Zero as new playable characters.  Here’s some more about the DLC, and its featured characters: This DLC adds “Ultraman Zero” and “Ultraman Belial”,...",
+                "image": "https://nintendoeverything.com/wp-content/uploads/GigaBash-Ultraman-Zero-Featured.jpg",
+                "url": "https://nintendoeverything.com/ultraman-zero-dlc-comes-to-gigabash-next-week/",
+                "source": "Nintendo Everything",
+                "date": "2026-07-03T12:48:48Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Honkai: Star Rail Version 4.4 \"In Ravages Does the Whistle Sound\" Arrives on July 15",
                 "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
@@ -1174,99 +1264,99 @@
                 "source": "Push Square",
                 "date": "2026-07-02T23:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "iFLYTEK Launches AINOTE 2 and AINOTE Air 2 Across Australia, Bringing Smarter Note-Taking to Modern Work",
-                "desc": "New AI-powered E Ink notebooks help professionals and students capture conversations, organise information and stay focused in meetings and lectures.",
-                "image": "https://img.einnews.com/facebook/1144516/pr-2-hero-image.jpeg",
-                "url": "https://www.einpresswire.com/article/923813050/iflytek-launches-ainote-2-and-ainote-air-2-across-australia-bringing-smarter-note-taking-to-modern-work",
-                "source": "EIN Presswire",
-                "date": "2026-07-02T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Video Game History Foundation Addresses Death of Physical PlayStation Games",
-                "desc": "Following the recent controversial announcement that Sony will no longer be making physical games media for new games as of early 2027, the rumors that Xbox is moving in the same direction with the Helix console, and the recent trend of Nintendo physical media only providing a digital game key, the ...",
-                "image": "https://www.techpowerup.com/img/gCgU6Eo0NLO08iWg.jpg",
-                "url": "https://www.techpowerup.com/350479/video-game-history-foundation-addresses-death-of-physical-playstation-games",
-                "source": "TechPowerUp",
-                "date": "2026-07-02T22:59:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony Discusses Potential Future PlayStation Plus Price Hikes",
-                "desc": "Sony says it continues to balance value and pricing for PlayStation Plus, addressing the possibility of future subscription increases.",
-                "image": "https://insider-gaming.com/wp-content/uploads/2025/12/PlayStation-Plus-2025.jpg",
-                "url": "https://insider-gaming.com/sony-discusses-potential-future-playstation-plus-price-hikes/",
-                "source": "Insider Gaming",
-                "date": "2026-07-02T22:57:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iOS 27 helps apps detect when a user may be getting scammed in real time",
-                "desc": "A new iOS 27 framework will help apps fight back against social engineering scams as they unfold via voice calls, text messages, emails, and more.",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/ios27-scam-alert.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/07/02/ios-27-helps-apps-detect-when-a-user-may-be-getting-scammed-in-real-time/",
-                "source": "9to5Mac",
-                "date": "2026-07-02T22:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Companies poke fun after Sony decided to go fully digital",
-                "desc": "PlayStation will end physical disc production in 2028, facing backlash for digital-only shifts; companies mock it, Xbox ensures physical game access.",
-                "image": "https://www.deseret.com/resizer/v2/5ERNE7U5UNCM5GV4MFXL2SOHJY.jpg?focal=0%2C0&auth=b39f7d6e0d3e62eef711bdc2c0bbc4522edaafa383ff737d88b087dd24ac70c8&width=630&height=331",
-                "url": "https://www.deseret.com/business/2026/07/02/companies-troll-playstation-for-stopping-production-of-physical-discs/",
-                "source": "Deseret News",
-                "date": "2026-07-02T22:49:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Quaid-I-Azam University Team Models Positronium Decay For Weak Process Investigation",
-                "desc": "Until now, the weak decay of positronium has remained a shadowy counterpart to its better-understood radiative cousin. Calculations reveal the branching ratio for positronium’s decay into an electron and muon neutrinos is comparable to that of ortho-positronium decaying into photons, opening a new avenue for probing three-body weak interactions within a bound state. This work establishes a theoretical foundation for understanding this previously less-studied process.",
-                "image": "https://quantumzeitgeist.com/wp-content/uploads/quaid-i-azam-university-team-models-positronium-decay-for-weak-process-investiga-1024x630.jpg",
-                "url": "https://quantumzeitgeist.com/quaid-i-azam-university-models-positronium-decay-weak-process/",
-                "source": "Quantum Zeitgeist",
-                "date": "2026-07-02T22:44:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony to end releasing PlayStation games on disc, earning ire from gamers despite market shift to digital",
-                "desc": "Sony will stop producing discs for physical copies of all new PlayStation video games starting in 2028, the company announced Wednesday, citing customers' growing preference to buy and download their games online.",
-                "image": "https://i.cbc.ca/ais/e263b534-f7ea-41cd-b827-c3392147695c,1783024630977/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C281%2C5392%2C3033%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/entertainment/sony-playstation-games-end-physical-disc-releases-9.7255967",
-                "source": "CBC",
-                "date": "2026-07-02T22:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mulliner Melted a Side-to-Side Paint Fade Over Bentley's 657-HP Continental GT Supersports",
-                "desc": "One side of the car is a different color than the other. On purpose.",
-                "image": "https://cdn.hiconsumption.com/wp-content/uploads/2026/07/Mulliner-Bentley-Continental-GT-Supersports-0-Hero.jpg",
-                "url": "https://hiconsumption.com/motors/2026-bentley-continental-gt-supersports-design-theme-by-mulliner/",
-                "source": "HiConsumption",
-                "date": "2026-07-02T22:30:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dual-mobility hip replacement implant can lower dislocation risk by 70%",
-                "desc": "A new type of hip replacement implant reduces the risk of joint dislocation after surgery by 70%, according to a new study involving 1,600 patients across 44 hospitals in Sweden and the UK, published in The Lancet. The new implant consists of a small ball encased in a much larger plastic ball, which provides better stability.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/70-per-cent-lower-risk.jpg",
-                "url": "https://medicalxpress.com/news/2026-07-dual-mobility-hip-implant-dislocation.html",
-                "source": "Medical Xpress",
-                "date": "2026-07-02T22:30:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Neuroscape Is the *Other* Cyberpunk TCG, and So Far It’s Quite Fun | IGN Preview",
-                "desc": "A Kickstarter success now prepares to enter the marketplace.",
-                "image": "https://sm.ign.com/t/ign_ap/preview/n/neuroscape/neuroscape-is-the-other-cyberpunk-tcg-and-so-far-its-quite-f_7mz1.1200.jpg",
-                "url": "https://sea.ign.com/neuroscape-tcg-genesis/245044/neuroscape-is-the-other-cyberpunk-tcg-and-so-far-its-quite-fun-ign-preview",
-                "source": "IGN Southeast Asia",
-                "date": "2026-07-02T22:26:12Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "South Africa deploys troops to bolster security during anti-migrant protests",
+                "desc": "JOHANNESBURG, July 3 (Reuters) - South ⁠Africa has deployed more than 3,000 soldiers nationwide to bolster security ⁠and support police this month during anti-migrant protests that organisers ‌have vowed to hold every week, a letter signed by the president showed on Friday.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/03/3991124.jpg",
+                "url": "https://www.thestar.com.my/news/world/2026/07/03/south-africa-deploys-troops-to-bolster-security-during-anti-migrant-protests",
+                "source": "The Star",
+                "date": "2026-07-03T12:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Africa deploys troops to bolster security during anti-migrant protests",
+                "desc": "South Africa has deployed more than 3,000 soldiers nationwide to bolster security and support police this month during anti-migrant protests ​that organisers ha",
+                "image": "https://clubofmozambique.com/wp-content/uploads/2026/07/PPWBZCAX6JNDTP3JSMPBGSHLGQ.avif",
+                "url": "https://clubofmozambique.com/news/south-africa-deploys-troops-to-bolster-security-during-anti-migrant-protests/",
+                "source": "CLUB OF MOZAMBIQUE",
+                "date": "2026-07-03T12:54:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PS Omollo Calls On Boda Boda Operators To Reject Recruitment As Goons-for-Hire, Shun Political Violence",
+                "desc": "NAIROBI,Kenya, Jul 3— Principal Secretary for Internal Security and National Administration  Raymond Omollo has issued a stern warning against the use of boda boda operators to perpetrate political violence, saying…",
+                "image": "https://capitalfm.africa/wp-content/uploads/2026/07/IMG-20260703-WA0031.jpg",
+                "url": "https://capitalfm.africa/ps-omollo-calls-on-boda-boda-operators-to-reject-recruitment-as-goons-for-hire-shun-political-violence/",
+                "source": "Capitalfm.co.ke",
+                "date": "2026-07-03T12:53:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somalia President Slams Opposition Over Fear Rhetoric",
+                "desc": "President Hassan Sheikh says critics focus on pessimism instead of offering solutions for Somalia’s future",
+                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgBNYiKopgMSxCeI97U2aX1k8rYymqJGbctosu",
+                "url": "https://www.dawan.africa/news/somalia-president-slams-opposition-over-fear-rhetoric",
+                "source": "Dawan Africa",
+                "date": "2026-07-03T12:52:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somalia Says Passport Delays Resolved, Pledges One-Week Processing",
+                "desc": "Immigration authorities say delays in passport issuance have been addressed as Somalia prepares to launch third-generation passports",
+                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgUxnyexZyWYgiMHT1B7aFnAph0O4Re5okmcux",
+                "url": "https://www.dawan.africa/news/somalia-says-passport-delays-resolved-pledges-one-week-processing",
+                "source": "Dawan Africa",
+                "date": "2026-07-03T12:52:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Donald Trump makes awkwardly phrased remark about ‘threesome’ with his sons while discussing Medal of Honour",
+                "desc": "The US President has made a risque comment while talking about his ‘beautiful’ sons and the United States’ highest military honour.",
+                "image": "https://images.thenightly.com.au/publication/C-22519626/65668531165156dbc55cdb3f3b53a5ae7636ec8b-16x9-x1y0w2446h1376.webp?imwidth=1200",
+                "url": "https://thenightly.com.au/world/usa/donald-trump-makes-awkwardly-phrased-remark-about-threesome-with-his-sons-while-discussing-medal-of-honour-c-22519626",
+                "source": "The Nightly",
+                "date": "2026-07-03T12:48:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran to host dozens of foreign leaders for Khamenei's funeral, with Western nations absent",
+                "desc": "Russia's Medvedev, Pakistan's prime minister and Taliban officials are among roughly 30 country delegations expected as Iran buries slain Ayatollah Ali Khamenei this week.",
+                "image": "https://images.euronews.com/articles/stories/09/82/42/28/1200x675_cmsv2_dc1cf7b5-6876-5546-bb34-93564294a42f-9824228.jpg",
+                "url": "https://www.euronews.com/2026/07/03/iran-to-host-dozens-of-foreign-leaders-for-khameneis-funeral-with-western-nations-absent",
+                "source": "Euronews",
+                "date": "2026-07-03T12:46:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Instability in AI and machine learning publication quality",
+                "desc": "A study has revealed an annual growth rate of 67.8% in retracted research articles on artificial intelligence and machine learning over the last decad...",
+                "image": "https://www.universityworldnews.com/images/uwn-ball-320.png",
+                "url": "https://www.universityworldnews.com/post.php?story=20260703132615397",
+                "source": "University World News",
+                "date": "2026-07-03T12:45:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Africa deploys troops to bolster security during anti-migrant protests",
+                "desc": "JOHANNESBURG, July 3 (Reuters) - South Africa has deployed more than 3,000 soldiers nationwide to bolster security and support police this month during anti-migrant protests that organisers have vowed",
+                "image": "https://s.yimg.com/lo/mysterio/api/d2c87fc41d8607056cbe972e2c055c54f521539d6d48e8fcfcdeadeacfd36ea9/lightyear_networkapi/resizefill_w800_h533;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa6c55bbef37e2a69e903ec0f10ec92af",
+                "url": "https://uk.news.yahoo.com/south-africa-deploys-troops-bolster-124541489.html",
+                "source": "Yahoo News UK",
+                "date": "2026-07-03T12:45:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "European police hunt for Ukrainian woman in connection with Monaco bomb attack",
+                "desc": "The bombing has sent shockwaves through Monaco, a generally secure microstate near Nice in southern France that is a playground of the world's ultra-rich.",
+                "image": "https://images.euronews.com/articles/stories/09/82/43/10/1200x675_cmsv2_19e9c3a2-c147-57be-a98c-cad0430dd5d1-9824310.jpg",
+                "url": "https://www.euronews.com/my-europe/2026/07/03/interpol-issues-red-notice-for-ukrainian-woman-over-monaco-bomb-attack",
+                "source": "Euronews.com",
+                "date": "2026-07-03T12:44:46Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Uganda: Three Ugandans Killed in Anti-Migrant Violence in South Africa",
                 "desc": "At least three of Ugandans have been killed in South Africa as anti-migrant violence continues to spread across several provinces.",
@@ -1806,98 +1896,8 @@
                 "source": "Realnews Magazine",
                 "date": "2026-07-03T01:25:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "What a seating chart might reveal about the future of China’s military leadership",
-                "desc": "Two generals appear near top PLA officers at a high-profile event, signalling their swift rise to fill gaps left by anti-graft campaign.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/02/f9bbf3cc-1662-4daf-8b9c-2a666ebdd664_c650bf58.jpg?itok=zBEQLMzK&v=1782997291",
-                "url": "https://www.scmp.com/news/china/military/article/3359206/what-seating-chart-might-reveal-about-future-chinas-military-leadership",
-                "source": "South China Morning Post",
-                "date": "2026-07-03T01:00:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donohoe inquest adjourned after 25 hours of deliberations",
-                "desc": "The inquest into the death of Noah Donohoe has been adjourned after the jury was unable to reach a unanimous verdict.",
-                "image": "https://www.rte.ie/images/00159aa1-1600.jpg",
-                "url": "https://www.rte.ie/news/ireland/2026/0703/1581523-noah-donohoe-inquest/",
-                "source": "RTE.ie",
-                "date": "2026-07-03T00:57:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "No verdict as Noah Donahoe inquest adjourned",
-                "desc": "The jury at the inquest into the death of Noah Donahoe has been unable to reach a unanimous verdict.",
-                "image": "https://www.rte.ie/images/00159aa1-1600.jpg",
-                "url": "https://www.rte.ie/news/ireland/2026/0703/1581523-donohoe-inquest/",
-                "source": "RTE.ie",
-                "date": "2026-07-03T00:57:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine war briefing: Both sides vow to escalate fighting after Russia’s deadly Kyiv barrage",
-                "desc": "Zelenskyy says his forces will ‘definitely’ retaliate over Russian bombardment of capital as Kremlin vows to ramp up pressure. What we know on day 1,591",
-                "image": "https://i.guim.co.uk/img/media/7cb4515ef77f5d32d1342fe08b2e7ca7b39323d3/419_0_4080_3264/master/4080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc3750ba937fa751aa5fe625f4772e24",
-                "url": "https://www.theguardian.com/world/2026/jul/03/ukraine-war-briefing-both-sides-vow-to-escalate-fighting-after-russias-deadly-kyiv-barrage",
-                "source": "The Guardian",
-                "date": "2026-07-03T00:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran warns oil tankers to use approved routes in Strait of Hormuz or face a 'forceful response'",
-                "desc": "DUBAI, United Arab Emirates: Iran's joint military command warned Thursday that all oil tankers moving through the Strait of Hormuz must use its approved routes or face a \"forceful response,\" ratcheting up tensions again over a waterway crucial for international energy supplies.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/03/3989854.jpg",
-                "url": "https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039",
-                "source": "The Star",
-                "date": "2026-07-03T00:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Southeast Asia's nuclear bottleneck is financial, not technical",
-                "desc": "The question is no longer whether nuclear has a role in Southeast Asia. The arithmetic of AI-era power demand settles that. The question is which market builds the financing architecture, the blended-finance layers, the offtake frameworks, the risk-sharing structures, to get the first plant in the ground.",
-                "image": "https://technode.global/wp-content/uploads/2026/07/Southeast-Asias-nuclear-bottleneck-is-financial-not-technical.jpg",
-                "url": "https://technode.global/2026/07/03/southeast-asias-nuclear-bottleneck-is-financial-not-technical/",
-                "source": "TNGlobal",
-                "date": "2026-07-03T00:47:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Papua separatists claim to have shot dead a US pilot who transported Indonesian troops",
-                "desc": "A Papua separatist group says it shot dead an American pilot who allegedly transported Indonesian troops into the restive province.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/f5fa689ae55c573c1e8d5b237582943f?impolicy=wcms_watermark_news&cropH=843&cropW=1498&xPos=948&yPos=237&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-03/west-papua-separatists-kill-us-pilot/106874312",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-03T00:31:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesia couple publicly caned after alleged TikTok kiss",
-                "desc": "Indonesia's Aceh province publicly caned a young couple after an alleged TikTok livestream kiss under the region's Islamic criminal code.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/sharia-indonesia-caning.jpg",
-                "url": "https://www.foxnews.com/world/couple-publicly-caned-alleged-tiktok-kiss-sparks-outrage-indonesia",
-                "source": "Fox News",
-                "date": "2026-07-03T00:31:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scientists have detected a giant fan-shaped structure buried beneath the East Antarctic Ice Sheet, suggesting the frozen continent may be hiding the geological scars of the breakup that helped separat",
-                "desc": "East Antarctica can look, from above, like the quiet half of the frozen continent: old, thick, cold and buried under kilometres of ice. But beneath that ice, new mapping suggests the bedrock may carry the shape of a much more violent past. In a Nature Geoscience study published in June 2026, researchers described a giant […]",
-                "image": "https://spacedaily.com/wp-content/uploads/2026/07/spacedaily_east_antarctic_fan_pexels.jpg",
-                "url": "https://spacedaily.com/t-scientists-have-detected-a-giant-fan-shaped-structure-buried-beneath-the-east-antarctic-ice-sheet-suggesting-the-frozen-continent-may-be-hiding-the-geological-scars-of-the-breakup-that-helped-separa/",
-                "source": "Space Daily",
-                "date": "2026-07-03T00:30:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PAS hedging bets on Bersatu for Johor polls",
-                "desc": "The Asia Group’s Asrul Sani says the Islamic party wants to benefit from distancing itself from Bersatu without absorbing the electoral cost of a difficult break.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/05/aabb1d1e-bendera-perikatan-nasional-12525.webp",
-                "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/03/pas-hedging-bets-on-bersatu-for-johor-polls",
-                "source": "Free Malaysia Today",
-                "date": "2026-07-03T00:30:04Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-04T00:40:41.119621Z"
+    "lastGlobalSync": "2026-07-04T01:00:40.129537Z"
 }
