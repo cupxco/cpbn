@@ -4,6 +4,33 @@
     "en": {
         "business": [
             {
+                "title": "China offers sea cable detection tech to clients in Middle East, Europe and Asia",
+                "desc": "The move is expected to boost the country’s competitive standing in the global marine engineering sector.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/03/89512842-e63a-4e18-9f31-f2cf5dea3426_70bdb304.jpg?itok=I4Bnw3KP&v=1783045445",
+                "url": "https://www.scmp.com/news/china/science/article/3359241/china-offers-sea-cable-detection-tech-clients-middle-east-europe-and-asia",
+                "source": "South China Morning Post",
+                "date": "2026-07-04T22:00:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2026 Jaecoo J8 price and specs",
+                "desc": "The Jaecoo J8 lineup has been expanded to include a new flagship variant offering plug-in hybrid power and a third row of seating for the first time.",
+                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2026-jaecoo-j8-track250807jaecoo-j8ra-68.jpg",
+                "url": "https://www.carexpert.com.au/car-news/2026-jaecoo-j8-price-and-specs",
+                "source": "CarExpert",
+                "date": "2026-07-04T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Denver bartender serves couple. Then the woman makes a strange food request: ‘There’s a couple ways you can get it’",
+                "desc": "\"You and I had a conversation about my baked potato.\"",
+                "image": "https://s.yimg.com/lo/mysterio/api/f4e8c0356d43a45f0fd1ba4c957a21e6110b97e3d42bb29ea0e6c302e691dd7a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Fd851efde7b72d2e7e8b9ad536712a18f",
+                "url": "https://www.yahoo.com/lifestyle/articles/denver-bartender-serves-couple-then-220000759.html",
+                "source": "Yahoo",
+                "date": "2026-07-04T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "PSX climbs 3.23% on easing oil, ME de-escalation",
                 "desc": "PSX climbs 3.23% on easing oil, ME de-escalation",
                 "image": "https://i.tribune.com.pk/media/images/41783201835-2/41783201835-2-640x480.webp",
@@ -605,36 +632,36 @@
                 "source": "The Daily Star",
                 "date": "2026-07-04T17:48:43Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Oil Price Crash: 1 Top Oil Stock to Buy Now",
-                "desc": "The slump in oil prices has made this oil stock a no-brainer buy right now.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876402%2Fmicrochip-processor-with-oil-pumpjack-getty.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/04/oil-price-crash-1-top-oil-stock-to-buy-now/",
-                "source": "The Motley Fool",
-                "date": "2026-07-04T17:44:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Phone Call Is The New Margin Lever In Boring Assets",
-                "desc": "AI-enabled private equity roll-ups are repricing self-storage, home services and dental groups",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a49439b7803f6887e825da4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/daraabasiita/2026/07/04/the-phone-call-is-the-new-margin-lever-in-boring-assets/",
-                "source": "Forbes",
-                "date": "2026-07-04T17:43:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shopify Stock (SHOP) Opinions on E-commerce Payments Penetration",
-                "desc": "Market Position Update: Social media conversations highlight Shopify's placement as the 12th largest",
-                "image": "https://www.quiverquant.com/images/shop_rect_new.png",
-                "url": "https://www.quiverquant.com/news/Shopify+Stock+%28SHOP%29+Opinions+on+E-commerce+Payments+Penetration",
-                "source": "Quiver Quantitative",
-                "date": "2026-07-04T17:33:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "I use my local LLM to triage my email every morning, but I'll still never let it send replies",
+                "desc": "The only way I'd ever let AI read my mail",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/local-ai-model-sorting-email-gemma-ollama.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/i-used-a-local-llm-to-triage-my-email-but-ill-still-never-let-it-send-replies/",
+                "source": "XDA",
+                "date": "2026-07-04T22:00:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I doubled my phone's storage without a microSD slot",
+                "desc": "A MagSafe SSD is all you need to expand your phone's capacity.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/dockcase-ssd-magsafe-6.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/i-added-storage-to-phone-without-microsd-slot/",
+                "source": "MakeUseOf",
+                "date": "2026-07-04T22:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Quote of the day by Microsoft CEO Satya Nadella on women asking for a raise: 'It’s about knowing and having faith in the system' — a controversial gaffe that led to an immediate reversal",
+                "desc": "The technology industry has long struggled with equalising the contributions of men and women — with women vastly underpaid relative to men",
+                "image": "https://cdn.mos.cms.futurecdn.net/6bfb10cc526d296d87da9aa41e7ed3b3-420-80.jpg",
+                "url": "https://www.techradar.com/pro/quote-of-the-day-by-microsoft-ceo-satya-nadella-on-women-asking-for-a-raise-its-about-knowing-and-having-faith-in-the-system-a-controversial-gaffe-that-led-to-an-immediate-reversal",
+                "source": "TechRadar",
+                "date": "2026-07-04T22:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Apple's Hide My Email feature leaks real addresses, bug unpatched for over a year",
                 "desc": "A critical vulnerability in Apple's Hide My Email service has been discovered that can expose users' real email addresses, and the company has…",
@@ -1237,36 +1264,18 @@
                 "source": "The Drive",
                 "date": "2026-07-04T17:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Animotion Appoints Faris Sibai as Chief Commercial Officer",
-                "desc": "DUBAI: Animotion Media Group has appointed Faris Sibai as Chief Commercial Officer, marking an important step in the company’s next phase of growth as it expands its capabilities across entertainment, intellectual property, brand innovation, strategic partnerships, and audience-led storytelling. Faris brings more than two decades of leadership experience across media, advertising, streaming, and commercial transformation, …",
-                "image": "https://www.biztoday.news/wp-content/uploads/2026/07/IMG-20260704-WA0009.jpg",
-                "url": "https://www.biztoday.news/2026/07/04/animotion-appoints-faris-sibai-as-chief-commercial-officer/",
-                "source": "Biz Today",
-                "date": "2026-07-04T16:48:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This STEINS;GATE Game Has Some of the Best PS5 Graphics I've Seen",
-                "desc": "Crispy - I’m obsessed with the visuals in STEINS;GATE: Octet of Shifting Space, coming to the PS5 on an unannounced date. Originally released in Japan on ...",
-                "image": "https://images.pushsquare.com/4181a819f25df/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/07/this-steinsgate-game-has-some-of-the-best-ps5-graphics-ive-seen",
-                "source": "Push Square",
-                "date": "2026-07-04T16:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Digital pizzas? Corporations ridicule PlayStation over ending game disc production",
-                "desc": "Companies like Domino's Pizza and KFC have published tongue-in-cheek statements parodying the controversial announcement.",
-                "image": "https://i.dawn.com/large/2026/07/042135251129250.webp",
-                "url": "https://www.dawn.com/news/2012961",
-                "source": "Dawn",
-                "date": "2026-07-04T16:38:17Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Donald Trump speech ahead of National Mall fireworks display amid 250th anniversary of American independence",
+                "desc": "The United States of America is marking its 250th anniversary with celebrations President Donald Trump has billed as “the most spectacular birthday party the world has ever seen”. Follow live.",
+                "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d1891c3e60b2e4a5e2cfd10f4661b2c516325f6d",
+                "url": "https://www.theage.com.au/world/north-america/us-4th-july-celebrations-live-updates-trump-set-to-make-speech-ahead-of-record-breaking-fireworks-display-as-america-marks-250th-anniversary-of-independence-20260703-p60cec.html",
+                "source": "The Age",
+                "date": "2026-07-04T21:56:44Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Through War and Loss, Iran Moves Against Dissidents",
                 "desc": "Iran is staging mass mourning in public while silencing critics in private, according to rights advocates and people close to those detained. As the state prepares a high-profile...",
@@ -1887,17 +1896,8 @@
                 "source": "The Eastleigh Voice",
                 "date": "2026-07-04T16:16:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "ACC leaves archbishop of Canterbury’s role unchanged in ongoing talks on Anglican identity",
-                "desc": "[Episcopal News Service – Belfast, Northern Ireland] The 19th Anglican Consultative Council, on the final day of its June 28-July 4 meeting here, approved a resolution that affirmed the existing un…",
-                "image": "https://i0.wp.com/episcopalnewsservice.org/wp-content/uploads/2026/07/ENS_070426_ABC.jpg?fit=1200%2C800&ssl=1",
-                "url": "https://episcopalnewsservice.org/2026/07/04/acc-leaves-archbishop-of-canterburys-role-unchanged-in-ongoing-talks-on-anglican-identity/",
-                "source": "Episcopal News Service",
-                "date": "2026-07-04T16:14:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-05T09:55:08.783632Z"
+    "lastGlobalSync": "2026-07-05T10:00:38.454376Z"
 }
