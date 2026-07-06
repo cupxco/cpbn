@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "The mystery of Australia's missing cash",
+                "desc": "There is no shortage of theories, from stacks of cash hidden at home to illicit activities, but little in the way of definitive answers.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/6b0da520d9fe6019a7748817ed6b852f?impolicy=wcms_watermark_news&cropH=1181&cropW=2100&xPos=0&yPos=109&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-06/banknote-printing-hoarding-mystery/106808970",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-05T18:35:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Clarity and Congress's summer break: State of Crypto",
+                "desc": "All parties are still optimistic that Clarity can happen before the midterms, but time is really starting to run out.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/976ce7e305132fada910cfe9bc3b0d8254ad588b-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
+                "source": "CoinDesk",
+                "date": "2026-07-05T18:32:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian mining firm eyes $4 billion prize after Otago gold find",
+                "desc": "An Australian mining firm has struck a gold deposit inland from Dunedin that it believes could be worth billions of dollars.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--j4AkeAkM--/t_tohu-badge-facebook/f_auto/q_auto/4KRMBRK_MicrosoftTeams_image_6_png",
+                "url": "https://www.rnz.co.nz/news/business/677627/australian-mining-firm-eyes-4-billion-prize-after-otago-gold-find",
+                "source": "RNZ",
+                "date": "2026-07-05T18:31:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Crossed Wires: The final frontier - science fiction comes to the stock exchange",
+                "desc": "Rocket launch was, until SpaceX, a niche industry — strategically vital, economically marginal, dominated by governments (US, USSR/Russia, France and China). That has changed with startling speed, and the reason is a very old economic force — scarcity.",
+                "image": "https://cdn.dailymaverick.co.za/i/ot41FvpWkqs36Kl5LLysdL8X2_Q=/800x0/smart/filters:strip_exif()/file/attachments/orphans/960px-Dyson_Swarm_realistic_representation_296716.jpg",
+                "url": "https://www.dailymaverick.co.za/article/2026-07-05-crossed-wires-the-final-frontier-science-fiction-comes-to-the-stock-exchange/",
+                "source": "Daily Maverick",
+                "date": "2026-07-05T18:27:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigerian Stocks Market Fall 1.21% As Investors Take Profits Despite Stronger Trading",
+                "desc": "The Nigerian stock market declined 1.21% last week as investors took profits, despite stronger trading activity, with financial services stocks dominating.",
+                "image": "https://cdn.legit.ng/images/1200x675/e71c6b985c354e5c.jpeg?v=1",
+                "url": "https://www.legit.ng/business-economy/capital-market/1717740-nigerian-stocks-fall-121-investors-profits-stronger-trading/",
+                "source": "Legit.ng",
+                "date": "2026-07-05T18:26:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is the NZ economy looking up at last?",
+                "desc": "ASB economists say the worst may be mostly over for the New Zealand economy.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--SPuwXovD--/t_tohu-badge-facebook/f_auto/q_auto/4MJVYQD_copyright_image_248569",
+                "url": "https://www.rnz.co.nz/news/business/677593/is-the-nz-economy-looking-up-at-last",
+                "source": "RNZ",
+                "date": "2026-07-05T18:23:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Income tax department slaps notices on foreign investors with no earnings",
+                "desc": "Foreign investors are receiving unexpected tax notices in India, even for transactions where no profit or dividend was earned. The tax department is initiating reassessment proceedings, questioning the absence of income tax returns for share purchases. Experts highlight that such notices, potentially triggered by remittance data, may be misapplied to transactions that didn't generate income, causing confusion and compliance burdens for overseas entities.",
+                "image": "https://img.etimg.com/thumb/msid-132201655,width-1200,height-630,imgsize-41124,overlay-economictimes/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/news/india/income-tax-department-slaps-notices-on-foreign-investors-with-no-earnings/articleshow/132201606.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-07-05T18:22:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Firework strikes Delta flight landing in Chicago",
+                "desc": "A Delta flight was struck by a firework while descending into Chicago on July Fourth, according to the airline.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250710-Delta-plane-aa-1202-51075a.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/firework-strikes-delta-flight-landing-chicago-rcna353054",
+                "source": "NBC News",
+                "date": "2026-07-05T18:21:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Agent Pulls Off a Ransomware Attack Without Human Help",
+                "desc": "An autonomous AI agent has executed what researchers describe as the first agentic ransomware attack, exploiting vulnerabilities, stealing credentials and",
+                "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/ai-agent-pulls-off-ransomware-attack-without-human-help-image_large-6-a-32155.jpg",
+                "url": "https://www.bankinfosecurity.com/ai-agent-pulls-off-ransomware-attack-without-human-help-a-32155",
+                "source": "BankInfoSecurity",
+                "date": "2026-07-05T18:17:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Airline CEO canvasses government, private sector collaboration",
+                "desc": "The Managing Director of Aero Contractors, Ado Sanusi, has called for stronger collaboration between the Federal government and private sector",
+                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/01/Federal-Government-Of-Nigeria-FGN.webp",
+                "url": "https://guardian.ng/news/airline-ceo-canvasses-government-private-sector-collaboration-for-aviation-growth/",
+                "source": "The Guardian Nigeria News",
+                "date": "2026-07-05T18:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "$10m mansion finally sells after sitting vacant for years",
                 "desc": "The vendors thought it was too valuable to rent out., All things property, under OneRoof",
                 "image": "https://s.oneroof.co.nz/image/f0/c3/f0c3898a94feeffa02aac9c283516e82.jpg?x-oss-process=image/quality,q_80",
@@ -542,99 +632,99 @@
                 "source": "WWD",
                 "date": "2026-07-05T15:00:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "On July 4, millions of children got a $1,000 gift from Trump",
-                "desc": "Experts say Trump Accounts are a good start for building childhood wealth among Americans, but far from perfect.",
-                "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/OV2ZJLW23FFJPGPBUVWQXX4RX4.jpg?auth=35ddc978a833dadd81cddbab0313cddf53383c7340260b35e9870553b00ba24d&width=1440",
-                "url": "https://www.bostonglobe.com/2026/07/05/nation/trump-accounts-july-4/",
-                "source": "The Boston Globe",
-                "date": "2026-07-05T14:57:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX, Alphabet, and SK Hynix Are Sending a Big Signal to the Market, and No One Is Talking About It",
-                "desc": "Everyone wants to buy a stake in these companies, and they're more than willing to sell it.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876752%2Fgettyimages-man-on-laptop-sitting-on-ledge-across-from-wall-street-nyse.jpeg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/05/spacex-alphabet-and-sk-hynix-are-sending-a-signal/",
-                "source": "The Motley Fool",
-                "date": "2026-07-05T14:56:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Naira Destiny Ties To Hot Money Equation",
-                "desc": "High interest rates continue to attract foreign capital into Nigeria's financial market, a development most analysts see as less productive for the e",
-                "image": "https://dmarketforces.com/wp-content/uploads/2026/07/Naira-Destiny-Ties-to-Hot-Money-Equation-–-High-Interest-Rate-Foreign-Capital.jpg",
-                "url": "https://dmarketforces.com/naira-destiny-ties-to-hot-money-equation-high-interest-rate-foreign-capital/",
-                "source": "MarketForces Africa",
-                "date": "2026-07-05T14:54:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EPF withdrawal: No TDS after five years of service? Know tax rules, forms and claim process to avoid surprises",
-                "desc": "EPF withdrawals are tax-free after five years of service. Before that, TDS applies for amounts over ₹50,000. Partial withdrawals are allowed with conditions, and claims can be made online or offline.",
-                "image": "https://www.livemint.com/lm-img/img/2026/07/05/1600x900/logo/epf_1713265688173_1783262488032_af4e7112-0e9c-42c0-9e9e-7482089346f0.jpg",
-                "url": "https://www.livemint.com/money/personal-finance/epf-withdrawal-no-tds-after-five-years-service-tax-rules-forms-15g-15h-claims-process-online-itr-filing-avoid-surprises-11783255024583.html",
-                "source": "livemint.com",
-                "date": "2026-07-05T14:49:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What is quantum computing, and why does Trump care?",
-                "desc": "Quantum computing is the tech world's latest obsession. Here's what it actually is, how it works",
-                "image": "https://helios-i.mashable.com/imagery/articles/04BhEntSk9IDtEpzL642xYi/hero-image.fill.size_1200x675.v1782754265.jpg",
-                "url": "https://mashable.com/tech/quantum-computing-trump-eo-expainer",
-                "source": "Mashable",
-                "date": "2026-07-05T14:47:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Snap-on: Resorting To M&A To Accelerate Growth",
-                "desc": "Snap-on stock analysis: strong balance sheet, bolt-on M&A, innovation-led diagnostics growth and 2.5% yield.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2260900783/image_2260900783.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4919919-snap-on-resorting-to-merger-and-acquisition-to-accelerate-growth",
-                "source": "Seeking Alpha",
-                "date": "2026-07-05T14:43:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why FG's CNG policy fails to address high cost of transport fare in Nigeria",
-                "desc": "In late 2023, President Bola Ahmed Tinubu inaugurated the Presidential Compressed Natural Gas Initiative (PCNGI)",
-                "image": "https://tribuneonlineng.com/wp-content/uploads/2026/07/IMG_20260630_140837_943-scaled-e1783262344592.jpg",
-                "url": "https://tribuneonlineng.com/why-fgs-cng-policy-fails-to-address-high-cost-of-transport-fare-in-nigeria-experts/",
-                "source": "Tribune Online",
-                "date": "2026-07-05T14:40:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CEO who vowed to 'fire anyone who doesn’t use AI' admits it can't replace her executive assistant",
-                "desc": "“The people who truly want to succeed in this role have a massive opportunity.\"",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26114707393459-e1783261994134.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/07/05/ai-displacement-executive-assistants-secretaries-skills-adaptation/",
-                "source": "Fortune",
-                "date": "2026-07-05T14:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seplat ends routine gas flaring, expands investment in LPG",
-                "desc": "Mr Ezugworie said the company achieved the feat by the end of 2025, describing it as a remarkable accomplishment both in Nigeria and globally.",
-                "image": "https://gazettengr.com/wp-content/uploads/images.jpgSeplat.jpg",
-                "url": "https://gazettengr.com/seplat-ends-routine-gas-flaring-expands-investment-in-lpg/",
-                "source": "Peoples Gazette Nigeria",
-                "date": "2026-07-05T14:35:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CXMT Could Give Apple One More Reason To Pursue A DRAM Partnership, As Chinese Firm Is Working On A Game-Changing High-Density Memory Without Using EUV",
-                "desc": "The Chinese memory maker CXMT is setting up ambitious goals, with developing high-density DRAM possibly grabbing Apple’s attention",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/CXMT-and-Apple-DRAM-partnership.jpg",
-                "url": "https://wccftech.com/cxmt-developing-high-density-dram-without-euv-might-make-apple-interested/",
-                "source": "Wccftech",
-                "date": "2026-07-05T14:34:29Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Intel may bring back older desktop CPUs because DDR5 is getting too expensive",
+                "desc": "Intel is reportedly restarting production of older Core CPUs as DDR5 prices make new gaming PC builds harder to justify.",
+                "image": "https://s.yimg.com/lo/mysterio/api/5486ee03258ce311dfe0be59bb2d18a84fb6cc435fdbaf6f4916124f6962465a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdigital_trends_973%2F4954e711e71a44338f9e9ab9279d6195",
+                "url": "https://tech.yahoo.com/computing/articles/intel-may-bring-back-older-184016201.html",
+                "source": "Yahoo Tech",
+                "date": "2026-07-05T18:40:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Steam's hidden storage trick just saved me $200 on an SSD",
+                "desc": "This 10-second Steam trick is saving my SSD during the storage shortage",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/05/a7308214.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/this-steam-feature-convinced-me-to-store-all-of-my-games-on-a-super-slow-hdd/",
+                "source": "How-To Geek",
+                "date": "2026-07-05T18:30:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I get Plex remote streaming without paying a cent for Plex Pass",
+                "desc": "You don't need to drop 750 dollars to watch your Plex Media Server any more.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/watching-plex-remotely-on-smartphone-via-tailscale.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/i-get-plex-remote-streaming-without-paying-a-cent-for-plex-pass/",
+                "source": "MakeUseOf",
+                "date": "2026-07-05T18:30:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Summer cruiser first week of July",
+                "desc": "Hey everyone! Quick update about last weekend’s events and a heads up as to where you can find me next weekend. Next weekend (July 10-12) Drury the weekend",
+                "image": "https://yoursaintjohn.ca/wp-content/uploads/2026/07/40fdd945-febe-451b-acbc-33eca3a85fd4.jpg",
+                "url": "https://yoursaintjohn.ca/summer-cruiser-first-week-of-july/",
+                "source": "Your Saint John",
+                "date": "2026-07-05T18:29:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy S27 Ultra Leak Reveals 16GB RAM, 2nm Chip, and a Radical Camera Overhaul",
+                "desc": "Leaked specifications for the Samsung Galaxy S27 Ultra point to a major hardware overhaul, including a new standard of 16GB LPDDR6 RAM and a Qualcomm…",
+                "image": "https://img.biggo.com/G2T-ITKp1fZnNtGrhYtpdpa7nRba5F-tXQeWDTXPKcs/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2UwYmM5MGZhLWI1ZTAtNDAzNS1iZmEwLWI4YTY4MzQ3OTVhNV8xNzgzMjc2MzEwX2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/e0bc90fa-b5e0-4035-bfa0-b8a6834795a5",
+                "source": "finance.biggo.com",
+                "date": "2026-07-05T18:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Insta360 Luna Ultra Packs Leica Optics and 8K Video, but Early Units Grapple with Overheating",
+                "desc": "Insta360’s new Luna Ultra compact gimbal camera, co-engineered with Leica, delivers ambitious features like 8K recording, a detachable OLED wireless…",
+                "image": "https://img.biggo.com/UWT1_CkfWeY1dAyzHSX7kM9xzl2Bt0mPwVH068KtlgQ/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3Lzk5NTc5Y2VhLWY0YWQtNDg1Ny1hN2M0LWI0NDVlZDRjMTVhZl8xNzgzMjc2MjM2X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/99579cea-f4ad-4857-a7c4-b445ed4c15af",
+                "source": "finance.biggo.com",
+                "date": "2026-07-05T18:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Weekly poll: will you buy the Honor Magic V6?",
+                "desc": "The new flagship foldable launches with a new chipset and a larger battery, while maintaining the slim build of its predecessor.",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-poll-honor-magic-v6/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_honor_magic_v6-news-73550.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-05T18:12:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I abandoned the newest GoPro on a beach overnight to record the stars - and I can’t believe how long the battery lasted",
+                "desc": "I left the new GoPro Mission 1 Pro recording a 4K timelapse of the night sky overnight to see just how much the battery – and low light – has improved",
+                "image": "https://cdn.mos.cms.futurecdn.net/FQBeqersLfpuVBjFLCgnHZ-2560-80.jpg",
+                "url": "https://www.digitalcameraworld.com/cameras/action-cameras/i-abandoned-the-newest-gopro-on-a-beach-overnight-to-record-the-stars-and-i-cant-believe-how-long-the-battery-lasted",
+                "source": "Digital Camera World",
+                "date": "2026-07-05T18:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Your iPhone 17 Can Charge at 40W, but Apple’s Included Accessories Are Slowing You Down",
+                "desc": "Apple’s latest iPhones and iPads support significantly faster charging than most users realize, with the iPhone 17 series capable of 40W and the M5…",
+                "image": "https://img.biggo.com/8rpSTtiHLWwgitCgx275mt-ZbyiHJOT-k-YteispTbk/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzA3ZDM0YWI4LWU5MTktNGU2NS05ZmQ2LTI5ZjUyNzlmYmFkZl8xNzgzMjc1MTgxX2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/07d34ab8-e919-4e65-9fd6-29f5279fbadf",
+                "source": "finance.biggo.com",
+                "date": "2026-07-05T18:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "8 Cheap Smart Home Gadgets Under $30 That Are Actually Worth Buying",
+                "desc": "Smart home gadgets don't have to break the bank to upgrade your living space. Devices such as smart plugs and smart bulbs are affordable and easy to use.",
+                "image": "https://www.bgr.com/img/gallery/8-cheap-smart-home-gadgets-under-30-that-are-actually-worth-buying/l-intro-1782763592.jpg",
+                "url": "https://www.bgr.com/2204439/smart-home-gadgets-under-30-worth-buying/",
+                "source": "bgr.com",
+                "date": "2026-07-05T18:02:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "I stopped paying for file recovery - Windows had a hidden tool all along",
                 "desc": "Your recovery odds depend on timing, not which tool you buy.",
@@ -1174,99 +1264,99 @@
                 "source": "The Drive",
                 "date": "2026-07-05T15:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Devs will apparently still be able to order discs for existing PlayStation games.",
-                "desc": "According to Game File, in private communications, Sony told developers that games released before the January 1, 2028 cutoff could still get reorders of physical copies in 2028. So expect a glut of unfinished games to hit shelves in December 2027, just to ensure companies can still get discs.\n[Media: https://bsky.app/profile/stephentotilo.bsky.social/post/3mprfdotxck27]",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-                "url": "https://www.theverge.com/games/961479/devs-will-apparently-still-be-able-to-order-discs-for-existing-playstation-games",
-                "source": "The Verge",
-                "date": "2026-07-05T14:55:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Onimusha: Way Of The Sword Release Date Moved Up To 4 September 2026, Capcom Announces",
-                "desc": "Capcom has announced that Onimusha: Way of the Sword will now launch on 4 September 2026 across PS5, Nintendo Switch 2, Xbox Series X|S, and PC, with a free demo available now on all platforms.",
-                "image": "https://cdn.pokde.net/wp-content/uploads/2026/07/05224759/onimushawotscover.jpg",
-                "url": "https://pokde.net/gaming/sony/ps5/onimusha-way-of-the-sword-4-sept",
-                "source": "Pokde.Net",
-                "date": "2026-07-05T14:50:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Galaxy S25 Ultra, Apple iPhone 17 Pro Max and 10 other smartphones available during Amazon Prime Day and Flipkart's GOAT sale that are 'good buys'",
-                "desc": "Mobiles & Tablets News: Amazon Prime Day 2026 and Flipkart GOAT Sale 2026 are currently live in India. During these sale events, customers can buy smartphones from brands inc.",
-                "image": "https://static.toiimg.com/thumb/msid-132196998,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/samsung-galaxy-s25-ultra-apple-iphone-17-pro-max-and-10-other-smartphones-available-during-amazon-prime-day-and-flipkarts-goat-sale-that-are-good-buys/articleshow/132196999.cms",
-                "source": "The Times of India",
-                "date": "2026-07-05T14:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone Fold will get a September launch with sales later on",
-                "desc": "Apple may be pulling an iPhone X for the iPhone Fold, by launching it in September but actually selling it months later.",
-                "image": "https://photos5.appleinsider.com/gallery/68162-143678-Squat-Fold-9-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/05/folding-iphone-may-launch-in-september-good-luck-getting-it-before-2027",
-                "source": "AppleInsider",
-                "date": "2026-07-05T14:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Deals: Google’s Pixel 10 lineup on discount alongside Xiaomi 17 Ultra, Nothing Phone (4a)",
-                "desc": "A couple of Poco smartphones have also received price cuts. Although the Prime Day sale ended last week, Amazon continues to offer discounts on select...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-deals-3/-952x498w6/gsmarena_uk.jpg",
-                "url": "https://www.gsmarena.com/deals_googles_pixel_10_lineup_on_discount_alongside_xiaomi_17_ultra_nothing_phone_4a-news-73573.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-05T14:41:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fujifilm marks 40 years of QuickSnap cameras with two new models",
-                "desc": "The QuickSnap Active is the new waterproof model (All pics: Fujifilm Japan) Fujifilm is marking the 40th anniversary of its QuickSnap disposable cameras with two new models which will be available later this year. The two models include a new waterproof model and another using black-and-white film. The underwater Quicksnap Active will be released in…",
-                "image": "https://i0.wp.com/kosmofoto.com/wp-content/uploads/2026/07/news_13705_07.jpg?fit=760%2C567&ssl=1",
-                "url": "https://kosmofoto.com/2026/07/fujifilm-marks-40-years-of-quicksnap-cameras-with-two-new-models/",
-                "source": "Kosmo Foto",
-                "date": "2026-07-05T14:39:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Orc Fortress Recaptured with One Minute Left! Key Highlights of the July 5th Siege War",
-                "desc": "The 3rd Siege War saw little combat across many servers.",
-                "image": "https://static.invenglobal.com/upload/image/2026/07/05/r1783262060085058.jpeg",
-                "url": "https://www.invenglobal.com/articles/23456/orc-fortress-recaptured-with-one-minute-left-key-highlights-of-the-july-5th-siege-war",
-                "source": "Inven Global",
-                "date": "2026-07-05T14:32:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kuo predicts that the foldable iPhone may follow the iPhone X launch pattern, with supply constraints lasting until the end of 2026.",
-                "desc": "BlockBeats news: On July 5, Ming-Chi Kuo, an analyst at Tiantian International Securities, posted that the foldable iPhone may follow the same script as the iPh",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/kuo-predicts-foldable-iphone-may-follow-iphone-x-launch-pattern-supply-tight-until-end-of-2026",
-                "source": "KuCoin",
-                "date": "2026-07-05T14:32:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I stopped using Figma for wireframing after I tried this",
-                "desc": "I stopped paying to draw rectangles.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/penpot-running-on-windows-11.JPG?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/stopped-using-figma-wireframing-tried-this/",
-                "source": "MakeUseOf",
-                "date": "2026-07-05T14:30:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Metal Gear Creator Responds To Sony Killing PlayStation Discs",
-                "desc": "The Death Stranding 2 director warns about a world without physical media",
-                "image": "https://kotaku.com/app/uploads/2026/03/kohi-1200x675.jpg",
-                "url": "https://kotaku.com/hideo-kojima-finds-it-really-sad-that-sony-is-killing-playstation-game-discs-2000712659",
-                "source": "Kotaku",
-                "date": "2026-07-05T14:18:40Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Trump plans to meet with Ukrainian and Syrian presidents at the NATO summit",
+                "desc": "President Donald Trump plans to meet with Ukrainian President Volodymyr Zelenskyy and Syrian President Ahmad al-Sharaa while attending the upcoming NATO summit in Turkey.",
+                "image": "https://dims.apnews.com/dims4/default/d972e3b/2147483647/strip/true/crop/7430x4951+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffe%2F75%2F8091600c620489f23d562d1132c8%2F49872cf548b54963bc4bbda54d12f2dd",
+                "url": "https://apnews.com/article/trump-zelenskyy-ukraine-syria-nato-1796d878f93e2fd9bcd1f63e1c619ebf",
+                "source": "AP News",
+                "date": "2026-07-05T18:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kalonzo, Matiang'i shut down rift claims, vow to stay united until 2027 polls",
+                "desc": "Leaders term claims of a rift in opposition as propaganda",
+                "image": "https://cdn.radioafrica.digital/image/2026/07/35e0f665-7e91-4b7a-857c-15d909b3a8b3.webp?1783278369515",
+                "url": "https://www.the-star.co.ke/news/realtime/2026-07-05-opposition-dismiss-rift-claims-vows-to-stay-united",
+                "source": "the-star.co.ke",
+                "date": "2026-07-05T18:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The AI Era Demands Leaders of Conscience and Sobriety, Not Just Power",
+                "desc": "History has always judged leaders not only by the strength of their nations but by the wisdom with which they exercised power .",
+                "image": "https://cdn.modernghana.com/images/content/75202682908-sxoaredq5l-ai-era-demands-cover-page-2026.png",
+                "url": "https://www.modernghana.com/news/1508001/the-ai-era-demands-leaders-of-conscience-and-sobri.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-05T18:39:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Venezuelan government is distracted by suspicion while its people desperately search for the missing",
+                "desc": "Instead of focusing all its efforts on coordinating a widescale rescue operation, the Venezuelan government has been accused of hindering the response, and as has become apparent, our ability to cover it.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/0cae1f7c537dd13b6e9df2b3129b2ac5?impolicy=wcms_watermark_news&cropH=2384&cropW=4238&xPos=1&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-06/venezuela-earthquake-recovery-hindered-by-government-suspicion/106880614",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-05T18:38:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Eligibility Rule Slashes Number of Foreign",
+                "desc": "The residency requirement has officially increased from three years to five, meaning players who move countries as adults must now wait significantly longer before becoming eligible to represent their adopted…",
+                "image": "https://www.ruck.co.uk/wp-content/uploads/2026/07/Screenshot-2026-07-05-at-19.27.06.png",
+                "url": "https://www.ruck.co.uk/new-eligibility-rule-slashes-number-of-foreign-born-players-in-international-rugby/",
+                "source": "Ruck.co.uk",
+                "date": "2026-07-05T18:34:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing",
+                "desc": "Since he started work as NATO secretary-general almost two years ago, Mark Rutte has spent much of his time trying to keep the United States anchored to the world’s biggest military alliance.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-03T070157Z_1746732385_RC2L0MAFU2LY_RTRMADP_3_NATO-SUMMIT-CHALLENGES-1024x729.jpg",
+                "url": "https://www.pbs.org/newshour/world/nato-chief-faces-challenge-at-summit-as-trump-demands-loyalty-and-not-just-burden-sharing",
+                "source": "PBS",
+                "date": "2026-07-05T18:24:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Calla Walsh attends Khamenei's funeral in Iran, hails him as 'greatest anti-imperialist leader'",
+                "desc": "Former Dem political darling Calla Walsh attended attended the funeral for slain Supreme Leader Ali Khamenei on Saturday, declaring that he was the \"greatest anti-imperialist leader\" in a propaganda video while covering up in a hijab and traditional garb.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/comp-calla-walsh-attends-khameneis-133379743.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/07/05/world-news/calla-walsh-attends-khameneis-funeral-in-iran-hails-him-as-greatest-anti-imperialist-leader/",
+                "source": "New York Post",
+                "date": "2026-07-05T18:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Yemen's Houthis kill 16 government troops; British agency reports attack on cargo ship in Red Sea",
+                "desc": "Both incidents were reported near the port city of Hodeidah, which is under control of the Iranian-backed Houthi rebel group.",
+                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/18/b3f7babd-8da6-495a-b39f-1ece9c3d5fcc/thumbnail/1200x630/d67627f6cb9739a0e43edb961159b7be/gettyimages-2161273924.jpg",
+                "url": "https://www.cbsnews.com/news/yemen-houthi-rebels-red-sea-attack-cargo-ship/",
+                "source": "CBS News",
+                "date": "2026-07-05T18:19:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil, gas tankers cross Hormuz via Oman-side route after U-turns",
+                "desc": "Iran has repeatedly said that vessels should only transit the strait through the route designated and authorized by the Islamic Republic.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281567366-e1783274987218.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/07/05/oil-gas-tankers-strait-of-hormuz-transit-oman-side-route/",
+                "source": "Fortune",
+                "date": "2026-07-05T18:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Labour’s social media ban could lose public support if ID cards are needed",
+                "desc": "Labour’s social media ban for under-16s could lose public support if it has to be enforced by digital ID checks, research suggests.",
+                "image": "https://s.yimg.com/lo/mysterio/api/a3a5deff7de5352980e0fb14b74bce3c3bc9a5f754c20ccac2a9465089d6cda8/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F3e9c56dcf744fbfd183884a44035214f",
+                "url": "https://www.yahoo.com/news/politics/articles/labour-social-media-ban-could-181408864.html",
+                "source": "Yahoo",
+                "date": "2026-07-05T18:14:08Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Cape Town Airport drug arrest: Man caught with over 50kg of suspected khat",
                 "desc": "A 46-year-old man was arrested at Cape Town International Airport after police allegedly found more than 50kg of suspected khat hidden in three suitcases during a weekend operation.",
@@ -1806,98 +1896,8 @@
                 "source": "Yahoo",
                 "date": "2026-07-05T15:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Europe's Hottest June on Record Traced to Climate Change",
-                "desc": "A new study finds human-caused climate change made Europe's deadly June heatwave far more likely, killing nearly 1,300 people.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-03_4fm8qfkm3d.jpg",
-                "url": "https://oilprice.com/The-Environment/Global-Warming/Europes-Hottest-June-on-Record-Traced-to-Climate-Change.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-05T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Somalia: Puntland bans Turkish fishing firm SOMTURK",
-                "desc": "Somalia: Puntland has banned Turkish fishing firm SOMTURK from operating in its waters, rejecting a federal licence issued by Mogadishu amid an escalating dispute over resource sharing, security and federal-state relations.",
-                "image": "https://www.somaliguardian.com/wp-content/uploads/2025/08/4.jpg",
-                "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-bans-turkish-fishing-firm-somturk/",
-                "source": "Somali Guardian",
-                "date": "2026-07-05T14:57:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cargo ship reportedly attacked in Red Sea off Yemen",
-                "desc": "The UK Maritime Trade Office said a vessel was attacked 30 nautical miles southwest of Hodeida, which is under control of the Houthi rebels. The Iran-backed group recently vowed to resume attacks in the Red Sea.",
-                "image": "https://static.dw.com/image/77839105_6.jpg",
-                "url": "https://www.dw.com/en/red-sea-cargo-ship-attack-yemen-houthis/a-77838529",
-                "source": "dw.com",
-                "date": "2026-07-05T14:53:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NATO's eastern flank strengthens defenses for new threat scenario — Politico",
-                "desc": "Eastern NATO countries are building fortifications, expanding their armed forces, and preparing to withstand the first days of a potential war with Russia largely on their own",
-                "image": "https://newsukraine.rbc.ua/static/img/n/a/nato_response_force_gettyimages_477566314_7cfdd43607f34052894c090c77032778_1300x820_bdb49ae15273bb8966279252af01df02_650x410.jpg",
-                "url": "https://newsukraine.rbc.ua/news/nato-s-eastern-flank-strengthens-defenses-1783261490.html",
-                "source": "RBC-Ukraine",
-                "date": "2026-07-05T14:53:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pakistan air force captain gunned down in broad daylight while rescuing woman",
-                "desc": "Pakistan News: A Pakistan air force group captain was shot dead after intervening to rescue a woman from an alleged abduction attempt in Islamabad, according to Paki.",
-                "image": "https://static.toiimg.com/thumb/msid-132197344,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-air-force-captain-gunned-down-in-broad-daylight-while-rescuing-woman/articleshow/132197321.cms",
-                "source": "The Times of India",
-                "date": "2026-07-05T14:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How powerful is Super Typhoon Bavi? Storm packs winds of up to 280 kmph",
-                "desc": "The weather agency also warned that power outages in Rota could last weeks to possibly months if the island takes a direct hit. | World News",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/05/550x309/photo-1600672202669-3521432b6302_1783261485431_1783261499305_d88e8d0a-40c8-4582-9807-27b36bf13549.jpg",
-                "url": "https://www.hindustantimes.com/world-news/how-powerful-is-super-typhoon-bavi-storm-packs-winds-of-up-to-280-kmph-us-pacific-island-101783261199343.html",
-                "source": "Hindustan Times",
-                "date": "2026-07-05T14:46:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mayon Volcano 183-Day Eruption Triggers Philippines Travel Shock: Japan, US, South Korea, Australia Hit",
-                "desc": "Philippines' Mayon Volcano hits a 183-day eruption streak in 2026, triggering massive travel disruptions and tour cancellations for Japan, US, South Korea, and Australia tourists across Bicol and Luzon.",
-                "image": "https://images.nomadlawyer.org/images/blog/travel-alert/2026/07/mayon-volcano-eruption-philippines-travel-shock-japan-us-korea-australia-2026.jpg",
-                "url": "https://www.nomadlawyer.org/mayon-volcano-eruption-philippines-travel-shock-japan-us-korea-australia-2026",
-                "source": "Nomad Lawyer",
-                "date": "2026-07-05T14:41:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stronger Together --- Why Regional Cooperation Is West Africa's Greatest Competitive Advantage",
-                "desc": "If you want to go fast, go alone . If you want to go far, go together . --- African Proverb When the history of modern Africa is written, one question will inevitably confront scholars, policymakers, and future generations: Why have some regions transformed their economies more rapidly than others despite possessing fewer natural resources? The answer will not be found merely in the quantity of gold beneath the ground, the barrels of oil beneath the sea, or the hectares of fertile l .",
-                "image": "https://cdn.modernghana.com/images/content/75202633717-otkvn0y442-1images.jpg",
-                "url": "https://www.modernghana.com/news/1507956/west-africa-not-worst-africa-harnessing-the.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-05T14:38:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran's supreme leader absent as senior officials attend Ayatollah's funeral",
-                "desc": "Iran's Supreme Leader Mojtaba Khamenei was conspicuously absent",
-                "image": "https://cdn.radioafrica.digital/image/2026/07/6b7dfd66-cfc8-4cd1-9072-0541f8065dbe.webp?1783263481278",
-                "url": "https://www.the-star.co.ke/news/world/2026-07-05-irans-supreme-leader-absent-at-ayatollahs-funeral",
-                "source": "the-star.co.ke",
-                "date": "2026-07-05T14:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia has been waging hybrid warfare against Britain for its support of Ukraine",
-                "desc": "Intimidation incidents and cyberattacks have intensified over the past two years, bringing the nuclear powers closer to open conflict",
-                "image": "https://www.theglobeandmail.com/resizer/v2/3Q5P6DJAZVFXLIGXMBO4QIVTJA.jpg?auth=c9318e2dac00159619ac533f092266896ffc41b20aab36b9670c6258fe447316&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/article-russia-ukraine-war-uk-britain-hybrid-putin/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-05T14:34:18Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-06T06:00:38.536189Z"
+    "lastGlobalSync": "2026-07-06T06:40:38.073572Z"
 }
