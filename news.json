@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "South China Morning Post",
+                "desc": "MPFA to relax gold ETF investment approval rules as part of Hong Kong government’s push to turn the city into a regional gold trading hub.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/05/e6eadcdd-5e05-4cd3-8c8d-a20a3f6b2da5_be3df625.jpg?itok=Z5pWXwym&v=1783267584",
+                "url": "https://www.scmp.com/business/banking-finance/article/3359494/hong-kong-pension-fund-ease-rules-and-increase-gold-etfs-says-source",
+                "source": "South China Morning Post",
+                "date": "2026-07-06T02:00:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trading Plan: Will Nifty 50 defend 24,200, Bank Nifty hold above 57,500 amid likely consolidation?",
+                "desc": "Immediate resistance for Nifty 50 is placed at 24,400. A decisive move above this level could pave the way for 24,500-24,600. Until then, the index may remain in a consolidation phase, with immediate support at 24,200, followed by 24,000.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260606032617_volatile-1.jpeg",
+                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/trading-plan-will-nifty-50-defend-24-200-bank-nifty-hold-above-57-500-amid-likely-consolidation-13966575.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-06T02:00:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Toyota Tundra's slow sales blamed on lack of awareness",
+                "desc": "Toyota Australia says many buyers still don’t realise the full-size pickup is officially sold here, despite its full dealer backing.",
+                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2025-09-2026-toyota-tundra-platinum-review-28.jpg",
+                "url": "https://www.carexpert.com.au/car-news/toyota-tundras-slow-sales-blamed-on-lack-of-awareness",
+                "source": "CarExpert",
+                "date": "2026-07-06T02:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Toyota LandCruiser 70 Series orders reopen... with a catch",
+                "desc": "Toyota has reopened orders for some LandCruiser 70 Series variants, but others are still off sale after emissions upgrades.",
+                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2025-07-toyota-landcruiser-70-series-gxl-wagon.jpg",
+                "url": "https://www.carexpert.com.au/car-news/toyota-landcruiser-70-series-orders-reopen-with-a-catch",
+                "source": "CarExpert",
+                "date": "2026-07-06T02:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Toyota’s first electric ute isn't attracting many private buyers",
+                "desc": "Fleet buyers are driving early demand for the Toyota HiLux BEV, with private sales still in the single figures.",
+                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2026-toyota-hilux-bev-sr-4.jpg",
+                "url": "https://www.carexpert.com.au/car-news/toyotas-first-electric-ute-isnt-attracting-many-private-buyers",
+                "source": "CarExpert",
+                "date": "2026-07-06T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Self-driving startup Turing gets AMD backing and adopts AMD GPUs",
+                "desc": "The five-year-old Japanese startup is adding to its capabilities as it builds toward a commercial launch.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/06/550051.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/06/companies/self-driving-startup-amd/",
+                "source": "The Japan Times",
+                "date": "2026-07-06T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "We took a self‑driving car on the road for 100 days to see how it handled itself - these are the mistakes it kept making",
+                "desc": "Autonomous vehicles work much better than many people think – and much worse. Some simple changes to our roads could make them safer.",
+                "image": "https://news.uq.edu.au/sites/default/files/styles/card_image/public/2026-07/eait-the-conversation-self-driving-1080.jpg?h=a81fead4&itok=ieovRew5",
+                "url": "https://news.uq.edu.au/2026-07-we-took-self-driving-car-road-100-days-see-how-it-handled-itself-these-are-mistakes-it-kept-making",
+                "source": "UQ News",
+                "date": "2026-07-06T01:58:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Women increasingly active in Japan’s fish markets",
+                "desc": "The development is part of the country’s shift toward a more gender-neutral society.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/06/550029.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/news/2026/07/06/japan/women-active-fish-markets/",
+                "source": "The Japan Times",
+                "date": "2026-07-06T01:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "On-the-Ground in Sintra: Morgan Stanley Chief Economist Declares Fed Won't Hike Rates This Year",
+                "desc": "Morgan Stanley's Chief Global Economist Seth Carpenter, after attending the ECB Forum on Central Banking in Sintra, released a report firmly…",
+                "image": "https://img.biggo.com/2y5lupJ-DU3h8HXoO0vlqZShyuPL9kZTv6R0lsH34XI/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3Lzc3NTQ1MGFiLWIwNmQtNDRkYS05YzY5LTc3OTJmODMxZmU2MV8xNzgzMzAzNTQ5X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/775450ab-b06d-44da-9c69-7792f831fe61",
+                "source": "finance.biggo.com",
+                "date": "2026-07-06T01:56:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Japan to use ODA to help Vietnam, other nations curb manga, anime piracy",
+                "desc": "Japan plans to use its official development assistance to help about 10 developing countries including Vietnam and Indonesia curb the rising piracy of Japanese manga, anime and games, a Japanese government official said Sunday.",
+                "image": "https://english-kyodo.ismcdn.jp/mwimgs/1/3/1200x/img_13b14ac1165646fbbf02241b11dbff78148590.jpg",
+                "url": "https://english.kyodonews.net/articles/-/79226",
+                "source": "Japan Wire by Kyodo News",
+                "date": "2026-07-06T01:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "AI model identifies where snoring starts in the airway",
                 "desc": "A new study developed a snore-source classification model that uses STFT spectrograms, pretrained CNN features, and an L2-regularized SVM to identify where snoring originates in the upper airway. Tested on the MPSSC dataset, the approach achieved a 67.1% test-set unweighted average recall, the highest value among the compared methods, but still needs external clinical validation.",
                 "image": "https://www.news-medical.net/images/news/ImageForNews_841679_17833017497379707.jpg",
@@ -542,99 +632,72 @@
                 "source": "TradingKey",
                 "date": "2026-07-05T23:00:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore enters next phase of 5G roll-out as telcos achieve nationwide coverage",
-                "desc": "M1 and StarHub's older 5G networks already retired; Singtel and Simba have not said when they will complete the transition Read more at The Business Times.",
-                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/8f3bb605b48e3959911f316818f0d7673ae919c07f32605e59cbbb78c8b1794b?w=1920&f=webp",
-                "url": "https://www.businesstimes.com.sg/companies-markets/singapore-enters-next-phase-5g-roll-out-telcos-achieve-nationwide-coverage",
-                "source": "The Business Times",
-                "date": "2026-07-05T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "JD Sports to reissue nearly €250,000 in gift card credit",
-                "desc": "JD Sports has agreed to reissue nearly €250,000 in unspent gift card credit to Irish consumers, after the company had sold gift cards to them with incorrect expiry dates.",
-                "image": "https://www.rte.ie/images/0023a4a8-1600.jpg",
-                "url": "https://www.rte.ie/news/business/2026/0706/1581904-jd-sports-gift-cards/",
-                "source": "RTE.ie",
-                "date": "2026-07-05T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s War Means Higher Global Interest Rates for Years to Come",
-                "desc": "(Bloomberg) -- Donald Trump’s war against Iran may be over, but the repercussions for global monetary policy are here to stay.",
-                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1770807997",
-                "url": "https://www.swissinfo.ch/eng/trumps-war-means-higher-global-interest-rates-for-years-to-come/91702145",
-                "source": "SWI swissinfo.ch",
-                "date": "2026-07-05T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SK Hynix stock's US listing could signal whether the market can still boom-or is headed for a bust",
-                "desc": "Shares of South Korea's SK Hynix will list on the Nasdaq and are expected to start trading on Friday.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2283571468-e1783286389816.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/07/05/sk-hynix-stock-us-listing-nasdaq-ai-boom-bust-memory-chip-shortage/",
-                "source": "Fortune",
-                "date": "2026-07-05T22:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Auction rates sink again as wary buyers stay clear",
-                "desc": "Clearances once again didn’t clear 50 per cent for the week around the country.",
-                "image": "https://static.ffx.io/images/$zoom_0.7592%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/3be12a3c2e5572dd3abc6aedc4b5b758836cae86",
-                "url": "https://www.nine.com.au/australia-news/property-auction-sales-below-50-per-cent-around-australia-20260706-p60cug.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-05T22:53:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chris Meehan resigns as Winton Land CEO amid 'employment process'",
-                "desc": "Property tycoon and prominent political donor Chris Meehan has resigned as chief executive and chair of Winton Land amid an employment process.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--FxH7Jkzl--/t_tohu-badge-facebook/f_auto/q_auto/4M2RCPW_image_crop_131894",
-                "url": "https://www.rnz.co.nz/news/business/678863/chris-meehan-resigns-as-winton-land-ceo-amid-employment-process",
-                "source": "RNZ",
-                "date": "2026-07-05T22:52:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Naira Swings Narrow Exchange Rate Gap Across FX Markets",
-                "desc": "The FX spread, or the exchange rate gap between the naira spot rates in the official and informal segments of the Nigerian currency markets, narrow",
-                "image": "https://dmarketforces.com/wp-content/uploads/2026/07/Naira-Swings-Narrow-Exchange-Rate-Gap-Across-FX-Markets.jpg",
-                "url": "https://dmarketforces.com/naira-swings-narrow-exchange-rate-gap-across-fx-markets/",
-                "source": "MarketForces Africa",
-                "date": "2026-07-05T22:49:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Who are Singapore’s 3 highest",
-                "desc": "The three bank CEOs with the largest pay packages in Singapore in 2025 were those leading the city-state's big three lenders, namely DBS, OCBC and UOB. - VnExpress International",
-                "image": "https://vcdn1-english.vnecdn.net/2026/07/03/mixcollage03jul20261042am8499-7671-7397-1783050515.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=Fy46juQwCqpQGH8sSSrK-g",
-                "url": "https://e.vnexpress.net/news/business/companies/who-are-singapore-s-3-highest-paid-bank-ceos-5092950.html",
-                "source": "VnExpress International",
-                "date": "2026-07-05T22:46:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Most new homes being consented in Auckland are getting built, for now",
-                "desc": "Auckland's residential construction industry may have to increase capacity by 20% over the next two years to keep pace with the number of new homes being consented",
-                "image": "https://www.interest.co.nz/sites/default/files/2024-03/BuildersFraming.jpg",
-                "url": "https://www.interest.co.nz/property/139249/aucklands-residential-construction-industry-may-have-increase-capacity-20-over-next",
-                "source": "Interest.co.nz",
-                "date": "2026-07-05T22:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half.",
-                "desc": "These Nvidia rivals climbed in the triple digits.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877073%2Fgettyimages-2170889984-1200x675-128554e.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/05/amd-stock-and-intel-crushed-nvidia-in-the-first-ha/",
-                "source": "The Motley Fool",
-                "date": "2026-07-05T22:33:26Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Classic Zelda Game Jumps From GameCube To 3DS But It's Not The One Everyone Wants",
+                "desc": "Tobi Friedly is working on a port of The Legend of Zelda: Twilight Princess to the 3DS, but why isn't 2002's The Wind Waker getting the same treatment?",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt6e06322d85bae7a0/6a4794854b20538b3c8bccc1/Shocked_Link_in_Zelda_Wind_Waker.jpg",
+                "url": "https://www.gamingbible.com/news/platform/nintendo/zelda-twilight-princess-3ds-port-gamecube-wind-waker-001629-20260703",
+                "source": "GAMINGbible",
+                "date": "2026-07-06T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Coolest Hat At The Hacker Camp",
+                "desc": "People in hotter parts of the world may permit themselves a grin at this, but Europeans have recently been suffering under an unseasonal June heatwave. Most of us have been cowering inside with our ai...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/07/mike-fan-hat-featured.jpg",
+                "url": "https://hackaday.com/2026/07/05/the-coolest-hat-at-the-hacker-camp/",
+                "source": "Hackaday",
+                "date": "2026-07-06T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HP releases new versions of compact 15-inch gaming laptop with Intel Core Ultra 9 290HX Plus and 180 Hz VRR display",
+                "desc": "HP has released new versions of its latest 15-inch gaming laptop. Now available with up to the Intel Core Ultra 9 290HX Plus, the HyperX Omen 15 also now comes in cheaper configurations starting at $1,699 with AMD processors.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/hyperx-omen-15-release-more-SKUs-kv.jpg",
+                "url": "https://www.notebookcheck.net/HP-releases-new-versions-of-compact-15-inch-gaming-laptop-with-Intel-Core-Ultra-9-290HX-Plus-and-180-Hz-VRR-display.1335234.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-06T01:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "cost way to conduct SouthPAN trial",
+                "desc": "New Zealand businesses and organisations can borrow compatible equipment to conduct a SouthPAN trial in the form of real in-the-field work.",
+                "image": "https://www.spatialsource.com.au/wp-content/uploads/2026/07/SBAS-gif_625x442.jpg",
+                "url": "https://www.spatialsource.com.au/linz-offers-no-cost-way-to-conduct-southpan-trial/",
+                "source": "Spatial Source",
+                "date": "2026-07-06T01:51:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bridgit hits loan book milestone",
+                "desc": "Half a decade of growth pays off for prominent bridging finance specialist",
+                "image": "https://cdn-res.keymedia.com/cms/images/us/075/0374_639188992029382548.jpg",
+                "url": "https://www.mpamag.com/au/specialty/alternative-lending/bridgit-hits-loan-book-milestone/581292",
+                "source": "mpamag.com",
+                "date": "2026-07-06T01:48:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 developers say overtime crunch is built into Rockstars contracts",
+                "desc": "Rockstar Games developers say mandatory overtime, or “crunch,” is effectively built into contracts at Rockstar North ahead of Grand Theft Auto VI’s release, with staff reporting weeks that could reach up to 80 hours. Union members also allege inconsistent bonuses, opaque pay structures, and a widening gender pay gap, raising concerns about labor conditions behind one of gaming’s most commercially anticipated titles.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/IWGB-and-RGWU-members-protesting-outside-Take-Two-House-Image-Source-IWGB-Website.jpg.jpeg",
+                "url": "https://www.notebookcheck.net/GTA-6-developers-say-overtime-crunch-is-built-into-Rockstars-contracts.1335475.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-06T01:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Panmesia and Meta demo CXL’s advantages in expanding server memory",
+                "desc": "Panmnesia has demonstrated that its next-stage CXL controller and PBR  (Port-Based Routing) switch keep memory-access latency low while extending memory",
+                "image": "https://www.electronicsweekly.com/wp-content/themes/ew/favicons/favicon-32x32.png",
+                "url": "https://www.electronicsweekly.com/news/business/panmesia-and-meta-demo-cxl-2026-07/",
+                "source": "Electronics Weekly",
+                "date": "2026-07-06T01:42:18Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Samsung Electronics Deploys Galaxy Watch AI to Combat Heat Illness at Construction Sites, Aligned with South Korea's Labor Ministry Guidelines",
                 "desc": "Samsung Electronics has upgraded its Galaxy Watch-based AI safety management solution, the 'Heat Stress Management System,' in collaboration with…",
@@ -1201,72 +1264,81 @@
                 "source": "bgr.com",
                 "date": "2026-07-05T22:17:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Cats, mystery, shape new cozy game",
-                "desc": "‘Cat Mail Co’ let's players deliver parcels as strange packages slowly reveal an island’s secrets.",
-                "image": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2026/07/ss_2f1e316e77a64c215c1afc4d6c8bae6ac08b95ea.1920x1080-1.webp?resize=1000%2C600&ssl=1",
-                "url": "https://gadget.co.za/catmailco98m/",
-                "source": "gadget.co.za",
-                "date": "2026-07-05T22:13:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OPPO offers limited-time discounts, freebies during 7.7 Sale",
-                "desc": "OPPO's 7.7 Sale offers discounts of up to P10,000 on select smartphones and smart devices, plus freebies and raffle entries from July 1 to 9.",
-                "image": "https://www.speed.ph/wp-content/uploads/OPPO-7.7-mega-sale.jpg",
-                "url": "https://www.speed.ph/oppo-offers-limited-time-discounts-freebies-during-7-7-sale/",
-                "source": "speed.ph",
-                "date": "2026-07-05T22:06:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rhythm Paradise Groove Review",
-                "desc": "After an extended absence between releases, Rhythm Paradise (Rhythm Heaven overseas) is finally back with a new game for the Switch, with dozens of new mini…",
-                "image": "https://cdn.rocketchainsaw.com.au/wp-content/uploads/2026/06/rhythmparadise1.jpeg",
-                "url": "https://www.rocketchainsaw.com.au/review/rhythm-paradise-groove-review/",
-                "source": "Rocket Chainsaw",
-                "date": "2026-07-05T22:02:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Messages is so much better when you turn off this annoying feature",
-                "desc": "Expressive animations are the bane of my existence, and I should've disabled them sooner.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/google-messages-no-sim-7.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/google-messages-better-turn-off-annoying-feature/",
-                "source": "MakeUseOf",
-                "date": "2026-07-05T22:00:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I tried self-hosting email and quickly remembered why people don't",
-                "desc": "For once, self-hosting is not a great option.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/02/a7306760.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/tried-self-hosting-email-and-quickly-remembered-why-people-dont/",
-                "source": "How-To Geek",
-                "date": "2026-07-05T22:00:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Quote of the day by OpenAI CEO Sam Altman: 'One of the tech industry’s worst mistakes in a long time was that everybody could go full remote forever' — closing the doors to pandemic-era flexibility",
-                "desc": "Despite championing remote working, the technology industry was among the first sectors to row back on this new era",
-                "image": "https://cdn.mos.cms.futurecdn.net/3Bk9NDKZ5ot8CWHYtH4qGk-2560-80.jpg",
-                "url": "https://www.techradar.com/pro/quote-of-the-day-by-openai-ceo-sam-altman-one-of-the-tech-industrys-worst-mistakes-in-a-long-time-was-that-everybody-could-go-full-remote-forever-closing-the-doors-to-pandemic-era-flexibility",
-                "source": "TechRadar",
-                "date": "2026-07-05T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Panasonic launches TOUGHBOOK 56 rugged laptop in Australia",
-                "desc": "Remote crews can now tap faster links and on-device AI as Panasonic replaces its TOUGHBOOK 55 with a tougher 56 model from AUD $5,199.",
-                "image": "https://futurefive.com.au/uploads/story/2026/07/03/compatible_ChatGPT_Image_Jul_3__2026__11_16_17_PM.jpg",
-                "url": "https://futurefive.com.au/story/panasonic-launches-toughbook-56-rugged-laptop-in-australia",
-                "source": "futurefive.com.au",
-                "date": "2026-07-05T22:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Abdi: Kenyan entrepreneur who has built a global logistics firm from a single room",
+                "desc": "\"I saw a gap nobody was filling effectively.\"",
+                "image": "https://cdn.radioafrica.digital/image/2026/07/2c1fe14e-6ae3-436b-b6b0-0fd3b56e0b47.webp?1783309929195",
+                "url": "https://www.the-star.co.ke/news/2026-07-06-abdi-entrepreneur-who-has-built-a-global-logistics-firm-from-a-single-room",
+                "source": "the-star.co.ke",
+                "date": "2026-07-06T01:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia signs defense alliance with Pacific nation Fiji",
+                "desc": "Canberra is bolstering ties with its South Pacific island neighbor as it seeks to outmaneuver China in the region.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/06/550030.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/news/2026/07/06/world/politics/australia-defense-alliance-fiji/",
+                "source": "The Japan Times",
+                "date": "2026-07-06T01:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia and Fiji strike new defence alliance",
+                "desc": "SYDNEY, July 6 (Reuters) - Australia and Fiji on Monday signed a landmark defence alliance, committing each country to come to the other's aid if either is attacked.",
+                "image": "https://www.yahoo.com/favicon.ico?b0867f93a36b360e",
+                "url": "https://www.yahoo.com/news/world/articles/australia-fiji-strike-defence-alliance-015418546.html",
+                "source": "Yahoo",
+                "date": "2026-07-06T01:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Việt Nam’s Police Seek Immunity for Themselves and Criminal Protection for the Party",
+                "desc": "The Ministry of Public Security (MPS) is using the draft amended Penal Code to push two major changes that would expand police power while giving the",
+                "image": "https://i0.wp.com/thevietnamese.org/wp-content/uploads/2026/07/Vietnam-briefing-TVM-July-6-2026.jpg",
+                "url": "https://thevietnamese.org/2026/07/viet-nams-police-seek-immunity-for-themselves-and-criminal-protection-for-the-party/",
+                "source": "The Vietnamese Magazine",
+                "date": "2026-07-06T01:52:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+                "desc": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/24a6/live/f1f7cd70-7911-11f1-9510-1546718f668b.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go",
+                "source": "BBC",
+                "date": "2026-07-06T01:46:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+                "desc": "Albanese has apologised 'unequivocally' after his remarks were met with a wave of backlash.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eae2/live/1c528710-78cf-11f1-a627-714adb4eed6e.jpg",
+                "url": "https://www.bbc.com/news/articles/cr477en6w3go",
+                "source": "BBC",
+                "date": "2026-07-06T01:46:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Coming home? Instantly iconic win as Poms through after World Cup’s most INSANE game",
+                "desc": "Coming home? Instantly iconic win as Poms through after WC’s most INSANE game",
+                "image": "https://content.api.news/v3/images/bin/dbf1c1df1edddefe59b0f639dd458c56",
+                "url": "https://www.foxsports.com.au/football/world-cup/thunderstorms-hit-azteca-ahead-of-englands-wc-blockbuster-against-cohosts-live/news-story/69251cc9b327fdf99b3d6facec18f152",
+                "source": "Fox Sports",
+                "date": "2026-07-06T01:46:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Industry leaders call on Government to improve Railways Bill to support economic growth & investment",
+                "desc": "As the House of Lords begins its scrutiny of the Railways Bill, leading trade associations and transport organisations have jointly written to the As the House of Lords begins its scrutiny of the Railways Bill, leading trade associations and transport organisations have jointly written to the Treasury, calling for the Government to improve the Bill by making amendments to safeguard future rail infrastructure investment and growth across the economy.",
+                "image": "https://news.railbusinessdaily.com/wp-content/uploads/2026/07/RIA.jpg",
+                "url": "https://news.railbusinessdaily.com/industry-leaders-call-on-government-to-improve-railways-bill-to-support-economic-growth-investment/",
+                "source": "Rail Business Daily",
+                "date": "2026-07-06T01:42:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Charting nation's next phase of development",
                 "desc": "After more than three decades of rapid expansion, China's economy reached a cyclical peak in the first quarter of 2010 and has since gradually shifted into a phase of medium-speed growth, with the binding constraints on growth evolving from supply shortages to demand insufficiency.",
@@ -1824,80 +1896,8 @@
                 "source": "Inquirer.net",
                 "date": "2026-07-05T22:17:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "UK Reform's Nigel Farage faces fresh misconduct allegations",
-                "desc": "Populist right leader Nigel Farage has been referred to the UK parliament's standards watchdog after a report that he failed to declare benefits. The Reform UK leader is already under investigation over a separate gift.",
-                "image": "https://static.dw.com/image/77837701_6.jpg",
-                "url": "https://www.dw.com/en/uk-reforms-nigel-farage-faces-fresh-misconduct-allegations/a-77837442",
-                "source": "DW.com",
-                "date": "2026-07-05T22:15:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Turkey eyes F110 fighter jet engines as Trump comes to town",
-                "desc": "Turkey eyes F110 fighter jet engines as Trump comes to town",
-                "image": "https://i.tribune.com.pk/media/images/541783289484-4/541783289484-4-640x480.webp",
-                "url": "https://tribune.com.pk/story/2616735/turkey-eyes-f110-fighter-jet-engines-as-trump-comes-to-town",
-                "source": "The Express Tribune",
-                "date": "2026-07-05T22:14:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mexico vs. England at World Cup kick-off delayed an hour due to severe weather",
-                "desc": "Kick-off in Mexico's round of 16 World Cup match against England was delayed by an hour due to severe weather.",
-                "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0705%2Fr1685050_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com.au/football/story/_/id/49279953/weather-warning-called-mexico-vs-england-world-cup-game-azteca",
-                "source": "ESPN",
-                "date": "2026-07-05T22:07:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
-                "desc": "Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/getty_69e91994bd-1776884116.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care",
-                "source": "Al Jazeera",
-                "date": "2026-07-05T22:07:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South China Morning Post",
-                "desc": "Foreign policy analyst outlines how Beijing should react to a country that sees it as neither a ‘partner nor friend’.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/05/4ed911a0-4e59-4835-a882-2561b95e121b_06b5c755.jpg?itok=Wj4L7ei6&v=1783232205",
-                "url": "https://www.scmp.com/news/china/diplomacy/article/3359456/wu-xinbo-why-trumps-america-first-foreign-policy-may-be-driving-chinas-rise",
-                "source": "South China Morning Post",
-                "date": "2026-07-05T22:00:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Johor polls: Will BN’s Onn Hafiz retain the state’s top job, or can the opposition offer a better path?",
-                "desc": "Barisan Nasional’s Onn Hafiz Ghazi is bidding for a second term as Johor chief minister. Who are his potential rivals from Pakatan Harapan and Perikatan Nasional?",
-                "image": "https://dam.mediacorp.sg/image/upload/s--4v1682Mc--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/03/3_panel_composite_2_0.png?itok=NGgieCjW",
-                "url": "https://www.channelnewsasia.com/asia/johor-state-election-onn-hafiz-chief-minister-contenders-maszlee-malik-sahruddin-jamal-6230276",
-                "source": "CNA",
-                "date": "2026-07-05T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Commentary: The fragile reopening of Hormuz is no return to normal for Asia",
-                "desc": "A return to pre-war normalcy in the Strait of Hormuz is likely to be slow. This holds implications for Asia, says Coface chief APAC economist Bernard Aw.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--ScQM9BRV--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-27T215951Z_1_LYNXMPEM5Q0QR_RTROPTP_3_IRAN-CRISIS-FERTILIZERS.JPG?itok=OJsiG7Pb",
-                "url": "https://www.channelnewsasia.com/commentary/iran-war-strait-hormuz-fragile-reopening-what-it-means-asia-6229406",
-                "source": "CNA",
-                "date": "2026-07-05T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rodríguez defends Venezuela’s earthquake response as death toll passes 3,000",
-                "desc": "Interim president says unrest will not break out despite anger at official response to the 24 June disaster",
-                "image": "https://i.guim.co.uk/img/media/8484070a522057b1eb049841190d3af484688d7c/453_0_4854_3884/master/4854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=793f3da7d20c5b45716827b763e37d11",
-                "url": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
-                "source": "The Guardian",
-                "date": "2026-07-05T21:59:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-06T13:40:46.880435Z"
+    "lastGlobalSync": "2026-07-06T14:00:42.851664Z"
 }
