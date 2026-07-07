@@ -4,6 +4,87 @@
     "en": {
         "business": [
             {
+                "title": "A focus on AI, IPOs, diplomacy",
+                "desc": "After a tumultuous first half of the year, China prioritizes AI, IPOs and diplomacy during a critical H2.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108330578-1783301918334-gettyimages-2276638474-img_6080.jpeg?v=1783302841&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/06/cnbcs-the-china-connection-newsletter-a-focus-on-ai-ipos-diplomacy.html",
+                "source": "CNBC",
+                "date": "2026-07-06T23:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The biggest winners and losers on the Australian new-vehicle sales charts so far in 2026",
+                "desc": "Brands such as Jeep and Peugeot continue to slide in Australia, while insurgent Chinese automakers like BYD and Chery are thriving.",
+                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2025-08-2025-chery-tiggo-8-super-hybrid-launch-30-2.jpg",
+                "url": "https://www.carexpert.com.au/car-news/the-biggest-winners-and-losers-on-the-australian-new-vehicle-sales-charts-so-far-in-2026",
+                "source": "CarExpert",
+                "date": "2026-07-06T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What’s likely to move the market",
+                "desc": "The Dow Industrials posted its first close above 53,000 on Monday, and the Nasdaq Composite ended the session higher as chip stocks staged a comeback.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108321514-1781302718607-108321514-1781302640004-gettyimages-2280590160-SPACEX_IPO.jpg?v=1781302745&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/06/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+                "source": "CNBC",
+                "date": "2026-07-06T22:59:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kalshi Generating Brand Buzz Through World Cup",
+                "desc": "Kalshi Generating Brand Buzz Through World Cup.",
+                "image": "https://www.casino.org/news/wp-content/uploads/2026/05/Kalshi2.jpg",
+                "url": "https://www.casino.org/news/kalshi-generating-brand-buzz-through-world-cup/",
+                "source": "Casino.org",
+                "date": "2026-07-06T22:57:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung shatters profit record with $58.4B Q2 earnings",
+                "desc": "Korea's tech giant blew past analyst expectations for operating profit, silencing fears that a Meta-led pullback in AI spending would derail the memory chip supercycle.",
+                "image": "https://image.koreajoongangdaily.com/12758006.jpg?imageId=12758006&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.koreajoongangdaily.com/business/samsung-shatters-profit-record-with-584b-q2-earnings/12757996",
+                "source": "Korea JoongAng Daily",
+                "date": "2026-07-06T22:54:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Korean trade association urges USTR to defer or lower proposed forced labor tariff",
+                "desc": "A Korean trade association on Monday requested U.S. Trade Representative (USTR) Jamieson Greer to defer the implementation of proposed tariffs on K...",
+                "image": "https://newsimg.koreatimes.co.kr/2026/07/07/fea70152-7adc-4592-ab4f-b33ba4c55b85.jpg",
+                "url": "https://www.koreatimes.co.kr/foreignaffairs/20260707/korean-trade-association-urges-ustr-to-defer-or-lower-proposed-forced-labor-tariff",
+                "source": "The Korea Times",
+                "date": "2026-07-06T22:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gov’t Secures $21m EU Grant to Fix Faulty Tema-Mpakadan Rail Signalling After Audit Exposes Gaps",
+                "desc": "The Ghana Railway Development Authority (GRDA) has announced that government has secured a $21 million grant from the European Union Commission to complete outstanding technical works on the Tema ndash;Mpakadan railway line, following growing concerns about the corridor rsquo;s readiness for full commercial operation. According to the Authority, a forensic audit conducted under the current administration revealed that several critical systems were incompl",
+                "image": "https://cdn.modernghana.com/images/content/76202683608-otkvn0y442-76202681435-screenshot-2026-07-06-170058.png",
+                "url": "https://www.modernghana.com/news/1508310/govt-secures-21m-eu-grant-to-fix-faulty-temampa.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-06T22:48:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SF Muni Should Admit They Can Not Handle Large Crowds at High-Demand Events",
+                "desc": "The fiasco that was the public transit offering for Saturday night's fireworks in San Francisco did not need to be such a fiasco, and it was clearly a case of over-promising on the part of the SFMTA.",
+                "image": "https://img.sfist.com/2026/07/muni-bus-line-outside-lands-2025-1.jpg",
+                "url": "https://sfist.com/2026/07/06/sf-muni-should-admit-they-can-not-handle-large-crowds-at-high-demand-events/",
+                "source": "SFist",
+                "date": "2026-07-06T22:46:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vietnam Tourism Growth Opens New Opportunities for Global Travelers as Better Infrastructure, Easier Access, and Diverse Experiences Drive Record Interest",
+                "desc": "Discover how Vietnam tourism growth is creating better travel experiences, new destinations, improved connectivity, exciting opportunities for global visitors.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Vietnam-1.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/u0t3otq2dssr/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-06T22:45:19Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Leading Through Fire: Resilient Leadership for People, Planet, and the Future, published by Lumination Hive, Wins 2026 Nautilus Gold Award",
                 "desc": "The award-winning book offers a practical framework for leading with resilience, stewardship, and purpose in a rapidly changing world.",
                 "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126724.jpg",
@@ -551,90 +632,72 @@
                 "source": "Fox Business",
                 "date": "2026-07-06T19:51:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "To future-proof your career in the age of AI, do 3 simple things",
-                "desc": "Dan Schawbel, who's spent over a decade researching how technology reshapes careers, says employees who do these 3 things in the age of AI will \"come out ahead.\"",
-                "image": "https://image.cnbcfm.com/api/v1/image/108328198-1782749910634-Business_man_listening_to_a_discussion_during_a_me-1458719394-Getty.jpg?v=1782750014&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/06/to-future-proof-your-career-in-the-age-of-ai-do-3-simple-things.html",
-                "source": "CNBC",
-                "date": "2026-07-06T19:50:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sky will acquire ITV, the combined company will edge out YouTube for second place in the UK",
-                "desc": "YouTube became the UK's second most-watched media service last year - but Sky+ITV will be big enough to take over the #2 spot.",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/sky-acquires-itv/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/sky_will_acquire_itv_the_combined_company_will_edge_out_youtube_for_second_place_in_the_uk-news-73592.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-06T19:47:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia: Jensen's Anti-ASICs Alliance (Rating Downgrade)",
-                "desc": "Nvidia Corporation faces ASIC competition as customers build AI chips. Click for this NVDA update and see why now is the time to downgrade that stock.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4920142-nvidia-jensen-anti-asics-alliance-rating-downgrade",
-                "source": "Seeking Alpha",
-                "date": "2026-07-06T19:44:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CoreCivic sells 2 CA ICE detention centers to federal government",
-                "desc": "Private prison company CoreCivic sold two California properties to the Department of Homeland Security. It will continue operating them as ICE detention centers.",
-                "image": "https://calmatters.org/wp-content/uploads/2026/07/092225-CalCity-Detention-MV-CM-13.jpg",
-                "url": "https://calmatters.org/justice/2026/07/corecivic-sells-ice-detention-centers/",
-                "source": "CalMatters",
-                "date": "2026-07-06T19:43:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FCMB Group shareholders approve ₦23.08 billion dividend",
-                "desc": "LAGOS, Nigeria — Shareholders of FCMB Group Plc on June 30, 2026, approved a total dividend payout of ₦23.08 billion for the 2025 financial year at the",
-                "image": "https://dailypost.ng/wp-content/uploads/2026/07/236956.jpg",
-                "url": "https://dailypost.ng/2026/07/06/fcmb-group-shareholders-approve-%E2%82%A623-08-billion-dividend/",
-                "source": "Daily Post Nigeria",
-                "date": "2026-07-06T19:36:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hour, a Weak Birr, and a Debt Crisis Walk Into a Bar…",
-                "desc": "Ethiopia's aggressive electricity tariff reset: why it happened, early results, and unresolved risks.",
-                "image": "https://energyforgrowth.org/wp-content/uploads/2026/07/Ethiopia-Tariff_3.png",
-                "url": "https://energyforgrowth.org/article/a-cheap-kilowatt-hour-a-weak-birr-and-a-debt-crisis-walk-into-a-bar/",
-                "source": "Energy for Growth Hub",
-                "date": "2026-07-06T19:32:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "One in three Aussie workers admit to sneaky habit that could get them sacked",
-                "desc": "One in three Australian employees have confessed to a sneaky AI habit that could cost them their jobs – and some businesses are already onto them.",
-                "image": "https://static.ffx.io/images/$zoom_0.2298%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_59%2C$y_130/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/a849e01d28bafb5616d030c9dc82a95957f191c5",
-                "url": "https://www.nine.com.au/australia-news/artificial-intelligence-australian-workers-risk-jobs-over-sneaky-ai-habit-exclusive-20260706-p60cv1.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-06T19:31:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hobart's vibrancy could take a hit as Pub Banc Group closes popular pubs, bars and clubs",
-                "desc": "There are questions around the future of Hobart's nightlife after the abrupt closure of some of the capital city's most loved institutions due to challenging trading conditions.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/54e45fe3c3169b85a153c3b4bbf6db4e?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-07/hobart-hospitality-impacts-amid-pub-banc-venue-closures/106883668",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-06T19:30:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Disney earnings boosted by theme parks, as CEO handover nears",
-                "desc": "NEW YORK — The Walt Disney Company on Monday reported quarterly earnings showing that streaming services gained momentum and theme-park revenue hit record levels, but the company warned of a possible slowdown in the United States.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1126620.jpg",
-                "url": "https://www.manilatimes.net/2026/07/07/world/disney-earnings-boosted-by-theme-parks-as-ceo-handover-nears/2379310",
-                "source": "The Manila Times",
-                "date": "2026-07-06T19:28:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Microsoft's Xbox Business Reset",
+                "desc": "Microsoft's latest Xbox layoffs show the pressures facing one of gaming's biggest names and how the new CEO plans to change course.",
+                "image": "https://i.insider.com/6a4c0d0494175b768171f587?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/microsoft-xbox-layoffs-business-reset-gaming-industry-challenges-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-06T23:00:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "You're using VLC wrong if you've never opened this menu",
+                "desc": "VLC's best feature is hiding in plain sight.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/windows-laptop-with-vlc-player-open.JPG?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/use-vlc-extensions-for-extra-features/",
+                "source": "MakeUseOf",
+                "date": "2026-07-06T23:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hormone differences could pave way for endometriosis blood test",
+                "desc": "People with endometriosis have a distinct pattern of hormones that could be identified by a blood test, with the potential to revolutionize diagnosis of the condition, research suggests. Scientists have found that those with endometriosis have differences in a previously overlooked group of androgens—so-called male hormones, which are also present in females—compared with those without the condition.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/endometriosis-1.jpg",
+                "url": "https://medicalxpress.com/news/2026-07-hormone-differences-pave-endometriosis-blood.html",
+                "source": "Medical Xpress",
+                "date": "2026-07-06T23:00:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Walmart Has a Decent 512GB Nintendo Switch 2 Memory Card Deal Despite the Price Hikes",
+                "desc": "You can hold out for as long as you want, but sooner or later you'll need more space.",
+                "image": "https://assets-prd.ignimgs.com/2026/05/28/onn512gb-1779997175062.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/best-nintendo-switch-2-microsd-express-memory-card-deal-july-2026",
+                "source": "IGN",
+                "date": "2026-07-06T22:59:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saatchi & Saatchi NZ Promotes Lee Sunter To Group ECD, Promotes Steve Cochran To Creative Chair",
+                "desc": "Saatchi & Saatchi NZ has promoted Lee Sunter to the newly created role of group executive creative director and has promoted Steve Cochran to creative chair. Previously executive creative director, Sunter will be responsible for continuing to raise the standard of ideas and craft within the agency, ensuring work delivers measurable client outcomes. He will […]",
+                "image": "https://www.bandt.com.au/information/uploads/2026/07/Untitled-design-47.jpg",
+                "url": "https://www.bandt.com.au/saatchi-saatchi-nz-promotes-lee-sunter-to-group-ecd-promotes-steve-cochran-to-creative-chair/",
+                "source": "bandt.com.au",
+                "date": "2026-07-06T22:57:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The top 10 tech deals spotted during Amazon Prime Day",
+                "desc": "The Amazon Prime Day sales have officially kicked off, which has given us plenty of impressive tech deals on offer. In no particular order, we’ve rounded up the 10 best tech deals we’ve spotted.",
+                "image": "https://static.ffx.io/images/$zoom_0.8277%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/ea3f4ea2f5dc94e8245f9f834567add037c357543596da0286cf86dfde322ed9",
+                "url": "https://www.nine.com.au/shopping/deals/amazon-prime-day-2026-best-tech-deals-list-20260703-p60cfv.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-06T22:42:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Registration for Stylish Action RPG, ARES: THE IRON VANGUARD \"",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Com2uS-Holdings-Opens-Google-Play-and-Apple-App-Store-Pre-Registration",
+                "source": "Games Press",
+                "date": "2026-07-06T22:42:22Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "New VR game tracks player emotions in hopes of fostering empathy for marginalized communities",
                 "desc": "You're in a dance club bathed in a neon-purple glow, surrounded by ghostly silhouettes that sway to the music. A stranger at the bar greets you with a flirty wave: \"Hey, you look so cute!\" Sparks fly. It's all part of a virtual ...",
@@ -1201,72 +1264,81 @@
                 "source": "The Register",
                 "date": "2026-07-06T19:39:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New Simulation Game On Steam Is Officially The CS2 Version Of Football Manager",
-                "desc": "Esports Manager 2026 is available right now on Steam here. You can also download a demo for the game, which is completely free.",
-                "image": "https://www.hotspawn.com/wp-content/uploads/2026/07/Esports-Manager-2026-Match.jpg",
-                "url": "https://www.hotspawn.com/counter-strike/news/new-steam-game-like-cs2-fm-esports-manager-2026",
-                "source": "Hotspawn",
-                "date": "2026-07-06T19:38:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ferrari's 12Cilindri Manuale Suggests Tails Can Wag The Dog",
-                "desc": "Ferrari's 12Cilindri Manuale gets a manual transmission option for the 2027 model year, but there's more than meets the eye with this Ferrari.",
-                "image": "https://hagerty-media-prod.imgix.net/2026/07/2027-Ferrari-12Cilindri-Manuale-2.jpg?auto=format%2Ccompress&ixlib=php-3.3.0",
-                "url": "https://www.hagerty.com/media/news/ferraris-12cilindri-manuale-suggests-tails-can-wag-the-dog/",
-                "source": "Hagerty",
-                "date": "2026-07-06T19:37:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "9 smart locks and security cameras for a safer front door - from under $70",
-                "desc": "There are more options to front door security than just the classic Ring doorbell. This list pulls together a range of security cameras, smart locks, lights and more.",
-                "image": "https://cdn.mos.cms.futurecdn.net/tQC2kFJnu3oPQgs6p49ttJ-1920-80.jpg",
-                "url": "https://www.tomsguide.com/home/home-security/9-smart-locks-and-security-cameras-for-a-safer-front-door-from-under-usd70",
-                "source": "Tom's Guide",
-                "date": "2026-07-06T19:32:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Chrome extensions must meet new privacy standards by August 1",
-                "desc": "Google announced new Chrome extensions policy changes tightening rules around user data collection and improving transparency requirements.",
-                "image": "https://cyberinsider.com/wp-content/uploads/2026/07/Google-Chrome-extensions-must-meet-new-privacy-standards-by-August-1.png",
-                "url": "https://cyberinsider.com/google-chrome-extensions-must-meet-new-privacy-standards-by-august-1/",
-                "source": "CyberInsider",
-                "date": "2026-07-06T19:32:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple adds new popup for AI features that send data to Google Cloud",
-                "desc": "Apple now uses Google servers to power some of its new and upcoming AI features, and the company is using...",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-ai-apple-intelligence-ios-27-fi-site.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/07/06/apple-adds-new-popup-for-ai-features-that-send-data-to-google-cloud/",
-                "source": "9to5Mac",
-                "date": "2026-07-06T19:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Image AF 25mm F/1.8 Gives Micro Four Thirds Users a $125 Nifty Fifty",
-                "desc": "SG-Image's affordable AF 25mm F/1.8 autofocus prime is now available for Micro Four Thirds cameras, offering a 50mm-equivalent field of view for just $125.",
-                "image": "https://media.imaging-resource.com/2026/07/06191823/sg-image-25mm-prime.png",
-                "url": "https://www.imaging-resource.com/news/new-sg-image-af-25mm-f-1-8-gives-micro-four-thirds-users-a-125-nifty-fifty/",
-                "source": "Imaging Resource",
-                "date": "2026-07-06T19:24:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "macOS Golden Gate Gets New Wallpaper",
-                "desc": "With the third beta of macOS 27, Apple added new Golden Gate-themed wallpaper options to the Mac. There are new Golden Gate Sunset and Golden Gate Night options, both of which join the prior Golden Gate abstract wallpaper that Apple introduced with the initial beta. Golden Gate Sunset and Golden Gate Night animate when unlocking the Mac, and can be set as a screen saver. When used as a screen saver, the Golden Gate Sunset wallpaper features waves breaking on the rocks near the Golden Gate Bridge.",
-                "image": "https://images.macrumors.com/t/BsU6Lcb702ox-xV4AsqPMFM2iog=/2000x/article-new/2026/07/macos-27-wallpaper.jpg",
-                "url": "https://www.macrumors.com/2026/07/06/macos-golden-gate-wallpaper/",
-                "source": "MacRumors",
-                "date": "2026-07-06T19:22:26Z",
-                "priority": "MAJOR_ALERT"
             }
         ],
         "world": [
+            {
+                "title": "Woman who claimed US$187,000 investment in husband's home wins bigger share, not ownership",
+                "desc": "A High Court judge has awarded a divorced woman a larger share of improvements made to her former husband’s Norton property after she claimed to have poured more than £142,783 (about US$187,775) into its construction, but ruled that she could not take over the house. Justice Philipa Phillips ruled that Angela Chawapiwa Mutapiri (née Mareverwa) […]",
+                "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2020/02/23132207/Gavel-court.jpg",
+                "url": "https://www.newzimbabwe.com/woman-who-claimed-us187000-investment-in-husbands-home-wins-bigger-share-not-ownership/",
+                "source": "NewZimbabwe.com",
+                "date": "2026-07-06T23:00:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Halving fertility treatment costs could more than double births, major global study shows",
+                "desc": "A landmark international study has found that halving patient out-of-pocket costs was associated with a 2.67-fold increase in births achieved through assisted reproductive technology (ART).",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-parents.jpg",
+                "url": "https://medicalxpress.com/news/2026-07-halving-fertility-treatment-births-major.html",
+                "source": "Medical Xpress",
+                "date": "2026-07-06T23:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Raft of targeted conservation efforts may help boost leopard numbers in sub-Saharan Africa, study suggests",
+                "desc": "There could be fewer leopards living across sub-Saharan Africa than previously believed, according to a new study that has analyzed suitable habitat and conditions. It is hoped that the research, led by conservation scientists at Nottingham Trent University, could be used to help plan vital recovery efforts and focus conservation where it is most needed.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/leopard.jpg",
+                "url": "https://phys.org/news/2026-07-raft-efforts-boost-leopard-saharan.html",
+                "source": "Phys.org",
+                "date": "2026-07-06T23:00:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Civil servants to be enouraged to take greater risks",
+                "desc": "Civil servants and decision makers in the public service are to be encouraged to take much greater risks in order to speed up the delivery of major projects, under new reforms to be brought before Cabinet later today.",
+                "image": "https://www.rte.ie/images/00249222-1600.jpg",
+                "url": "https://www.rte.ie/news/2026/0707/1582071-cabinet-reforms/",
+                "source": "RTE.ie",
+                "date": "2026-07-06T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Top Democrats press Maine senate candidate to drop out of race over sexual assault allegation",
+                "desc": "Graham Platner denied the allegation, calling it \"categorically false\" but said he was \"taking the time to reflect on the best path forward\" in the race.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/71b2/live/e9e6fc40-7980-11f1-86ef-29d5594e0a7d.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cm2004nx8v9o",
+                "source": "BBC",
+                "date": "2026-07-06T22:58:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vatican October Meeting to Focus on Divorce, Other Family Issues",
+                "desc": "Pope Leo XIV has called the presidents of bishops’ conferences to Rome Oct. 7–14 for a weeklong gathering on Pope Francis’ apostolic exhortation \"Amoris Laetitia.\"",
+                "image": "https://www.aciafrica.org/images/amoris_laetitia_book_2016_daniel_ibanez_umqja0.jpg?w=1200&format=jpeg",
+                "url": "https://www.aciafrica.org/news/22781/vatican-october-meeting-to-focus-on-divorce-other-family-issues",
+                "source": "ACI Africa",
+                "date": "2026-07-06T22:57:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How China's Ancient Eco-Villages Accidentally Gave the CIA a Panic Attack",
+                "desc": "Built without concrete, steel, or architects, China's Fujian Tulou have stood for seven centuries using compacted earth, bamboo, and river stone, and were once mistaken for nuclear missile silos.",
+                "image": "https://mjengohub.co.ke/static/images/articles/3d3f809eb06a467ba6d0852cfacaf5e1_1000189612.jpg",
+                "url": "https://mjengohub.co.ke/articles/construction-technology/how-chinas-ancient-eco-villages-accidentally-gave-the-cia-a-panic-attack",
+                "source": "Mjengo Hub",
+                "date": "2026-07-06T22:46:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xenophobia in South Africa: A betrayal of African unity",
+                "desc": "For decades, Africa has spoken passionately about unity, solidarity, and the shared destiny of its people. From the struggle against colonialism to the fight against apartheid, Africans stood together, believing that the freedom of one nation was tied to the freedom of all. It is therefore deeply painful and unacceptable that, in the 21st century, fellow Africans continue to face xenophobic attacks, intimidation, discrimination, and violence in South Africa simply because they come from another African country.",
+                "image": "https://thebftonline.com/api/media/file/xenophobia.jpg",
+                "url": "https://thebftonline.com/article/xenophobia-in-south-africa",
+                "source": "Business & Financial Times",
+                "date": "2026-07-06T22:46:28Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pacific leaders criticise Chinese nuclear",
                 "desc": "Solomon Islands PM says a ballistic missile test carried out by China is \"not the act of a friend\", sentiments echoed by several Pacific leaders.",
@@ -1824,80 +1896,8 @@
                 "source": "The Canberra Times",
                 "date": "2026-07-06T19:32:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Influencer, 28, and Boyfriend, 30, Shot Dead in Their Home While Asleep: Report",
-                "desc": "Gabriela de los Ángeles Sanarrusia Chavarría, a Costa Rican influencer, was shot dead while sleeping inside her home with her boyfriend on July 4",
-                "image": "https://s.yimg.com/lo/mysterio/api/557fbb94c70c116b95f4207820c03e2bd761d3307d9a8de84a4a77b34cd855f3/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F9c840d256bd584bc28583926b583d556",
-                "url": "https://ca.news.yahoo.com/influencer-28-boyfriend-30-shot-192624242.html",
-                "source": "Yahoo News Canada",
-                "date": "2026-07-06T19:26:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Influencer, 28, and Boyfriend, 30, Shot Dead in Their Home While Asleep: Report",
-                "desc": "Gabriela de los Ángeles Sanarrusia Chavarría, a Costa Rican influencer, was shot dead while sleeping inside her home with her boyfriend on July 4",
-                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
-                "url": "https://www.aol.com/articles/influencer-28-boyfriend-30-shot-192624000.html",
-                "source": "AOL.com",
-                "date": "2026-07-06T19:26:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cruise carrying thousands of LGBTQ+ passengers denied entry to Turkey",
-                "desc": "Homosexuality is not criminalized in Turkey, but there are no antidiscrimination laws protecting LGBTQ+ people and Pride has been banned every year since 2015.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/cruise-ships-turkey.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11954480/lgbtq-cruise-denied-entry-to-turkey-atlantis-virgin-voyagers/",
-                "source": "Global News",
-                "date": "2026-07-06T19:25:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sudan gold mine collapse kills 15 miners: state company",
-                "desc": "KHARTOUM: A partial collapse in a decommissioned gold mine in northern Sudan has killed 15 miners, a state company said on Monday. The miners had snuck into the shut-down Mohamed Tawfiq mine, in Wadi Halfa near the Egyptian border, when “parts of the mine collapsed... killing 15 miners and injuring one,” the Sudanese Mineral Resources Company said. Since war erupted in April",
-                "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/07/06/4728688-1787118231.jpg?itok=Y3Dwv5KQ",
-                "url": "https://www.arabnews.com/node/2649904/middle-east",
-                "source": "Arab News",
-                "date": "2026-07-06T19:21:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meet the pilot with the best job in the world",
-                "desc": "Pascale Fischer travels the world on a yacht, flying helicopters. But nowhere, he says, compares to the flying we’ll do today.",
-                "image": "https://static.ffx.io/images/$zoom_0.195063547614662%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/267070c9c76b3fef246526c7ded0b2e544e6eb7f",
-                "url": "https://www.smh.com.au/traveller/inspiration/meet-the-pilot-with-the-best-job-in-the-world-20260703-p60c9p.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The world is failing to curb carbon, and we may be close to a scorched earth tipping point",
-                "desc": "The years 2023 to 2025 were the three hottest on record. The effects of climate change may soon make many nations uninhabitable.",
-                "image": "https://static.ffx.io/images/$zoom_0.8716%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_107/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/4400b7e1957950837eb886bc11adcfb2c180e903",
-                "url": "https://www.theage.com.au/environment/climate-change/the-world-is-failing-to-curb-carbon-and-we-may-be-close-to-a-scorched-earth-tipping-point-20260706-p60d0i.html",
-                "source": "The Age",
-                "date": "2026-07-06T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tinubu’s Call for Mineral Value Addition Echoes Museveni’s Long-Standing Industrialisation Agenda",
-                "desc": "President Bola Tinubu has renewed calls for African countries to process their mineral resources locally rather than export raw materials, reinforcing an industrialisation agenda that President Museveni has championed fo...",
-                "image": "https://nilepost.co.ug/new_cms/wp-content/uploads/2025/09/Oil-exploration-investments-1.png",
-                "url": "https://nilepost.co.ug/news/354150/tinubus-call-for-mineral-value-addition-echoes-musevenis-long-standing-industrialisation-agenda",
-                "source": "Nilepost",
-                "date": "2026-07-06T18:57:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump goes on Truth Social blitz to show off pictures of his ‘beautiful’ Reflecting Pool renovations",
-                "desc": "The pool will still need to be at least partially drained and refinished after cracks and tears appeared in its recently redone surface",
-                "image": "https://static.independent.co.uk/2026/07/03/12/16/GettyImages-2281921326.jpeg?trim=2,0,1,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-reflecting-pool-lincoln-memorial-algae-cracks-b3009962.html",
-                "source": "The Independent",
-                "date": "2026-07-06T18:57:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-07T10:40:42.716480Z"
+    "lastGlobalSync": "2026-07-07T11:00:46.602642Z"
 }
