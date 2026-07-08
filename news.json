@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Braid: Alberta Energy Rebate just the latest dubious data grab",
+                "desc": "From energy rebate to drivers' licences and referendum counts, personal data is being harvested, misused and often stolen.",
+                "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/07/PremierSmith0706DP_01.Ca-copy.jpg",
+                "url": "https://calgaryherald.com/opinion/columnists/braid-alberta-energy-rebate-latest-dubious-data-grab",
+                "source": "Calgary Herald",
+                "date": "2026-07-07T21:35:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Telstra outage brings Victorian regional rail network to a halt",
+                "desc": "All regional train services in Victoria have been suspended due to what service operator V/Line has called a \"radio network fault\" thought to be related to the Telstra outage.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/531d760769ba722c194e5f59cd616600?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-08/vic-vline-train-disruption-radio-network-fault/106891272",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-07T21:35:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ERA orders sacked Tasman Rugby CEO Steven Mitchell back on payroll",
+                "desc": "Before a rugby union boss was sacked, his own board members called him “skant” and a “nothing”. Steven David Mitchell discovered the messages after he had...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/IEOOPZMBIJFGOU3XGB3VK2JPCM.jpg?auth=62a3710f29ca528dd26790e4b9a36940c97205d3f0aa7106b5597d7f87f5cb96&width=1200&height=675&quality=70&focal=503%2C219&smart=false",
+                "url": "https://www.nzherald.co.nz/nz/era-orders-sacked-tasman-rugby-ceo-steven-mitchell-back-on-payroll/Q2DF4VCRQFCRZK6ZT7NIMQNB6E/",
+                "source": "NZ Herald",
+                "date": "2026-07-07T21:30:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flutterwave expands USDC payments, secures investment",
+                "desc": "Africa’s leading payments technology company, Flutterwave, has today, July 7, 2026 announced a strategic investment from Circle Ventures,",
+                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/06/IMG-20260610-WA0035-1.jpg",
+                "url": "https://guardian.ng/news/flutterwave-expands-usdc-payments-secures-investment-from-circle-ventures/",
+                "source": "The Guardian Nigeria News",
+                "date": "2026-07-07T21:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pag-Ibig offers lower promo rates, raises loan cap to P10M",
+                "desc": "Pag-Ibig Fund is offering lower promotional interest rates and increasing its maximum home loan ceiling to P10 million.",
+                "image": "https://newsinfo.inquirer.net/files/2023/01/pag-ibig-01062023.jpg",
+                "url": "https://newsinfo.inquirer.net/2259528/pag-ibig-offers-lower-promo-rates-raises-loan-cap-to-p10m",
+                "source": "Inquirer.net",
+                "date": "2026-07-07T21:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nevada Sunrise Closes First Tranche of Private Placement",
+                "desc": "Nevada Sunrise Metals Corporation announced today that it has closed the first tranche of its non-brokered private placement as announced on June 8, 2026 in the amount of 34,536,282 units at a price of $0.03 per Unit for gross proceeds of $1,036,088.46 . Each Unit consists of one common share of the Company and one common share purchase warrant . Each Warrant will entitle the holder to purchase one common share ...",
+                "image": "https://investingnews.com/media-library/image.png?id=31803639&width=1200&height=600&coordinates=0%2C75%2C0%2C75",
+                "url": "https://investingnews.com/nevada-sunrise-closes-first-tranche-of-private-placement-2677170645/",
+                "source": "Investing News Network",
+                "date": "2026-07-07T21:20:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "National Government, through Petroecuador, identifies new oil well in the Auca block, will contribute monthly revenue of USD 5.2mn",
+                "desc": "The Auca field currently maintains production of 64,000 barrels per day.",
+                "image": "https://cdnimg.bnamericas.com/pULLQWKdHobLDTkgTCNosPsvAJZLsMrVxkJhjgcHohETHKdGCmfhELTIvXeTlTYd.jpg",
+                "url": "https://www.bnamericas.com/en/news/national-government-through-petroecuador-identifies-new-oil-well-in-the-auca-block-will-contribute-monthly-revenue-of-usd-52mn",
+                "source": "BNamericas",
+                "date": "2026-07-07T21:20:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tesla FSD Foiled By Sunglasses On Driver Asleep At The Wheel On Canadian Mountain Pass",
+                "desc": "Luckily this is not yet another story about a Tesla with its \"Full Self-Driving\" system turned on leading to a fatal crash.",
+                "image": "https://www.jalopnik.com/img/gallery/tesla-fsd-foiled-by-sunglasses-on-driver-asleep-at-the-wheel-on-canadian-mountain-pass/l-intro-1783459149.jpg",
+                "url": "https://www.jalopnik.com/2210142/tesla-fsd-foiled-by-sunglasses-on-driver-asleep/",
+                "source": "Jalopnik",
+                "date": "2026-07-07T21:20:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Virgin accused of refusing disabled twins toilet access",
+                "desc": "The family claims cabin crew denied both children access to the forward aircraft lavatory publicly in the presence of other passengers.",
+                "image": "https://static.ffx.io/images/$zoom_2.075%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/3017d645085f2fd1615681b335e2a651011bd862",
+                "url": "https://www.nine.com.au/australia-news/virgin-accused-of-refusing-disabled-twins-toilet-access-20260708-p60dhf.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-07T21:19:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000",
+                "desc": "Speculators think the massive rally in the Nasdaq-100 since the lows following the U.S.-Iran war will be more subdued in the second half of 2026.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108328137-1782745575086-NYSE_Traders-OB-Photo-ALR-20260629-PRESS-5.jpg?v=1782745808&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/07/traders-on-kalshi-think-the-nasdaq-100-will-end-2026-above-30000.html",
+                "source": "CNBC",
+                "date": "2026-07-07T21:15:26Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Trump's Nuclear Loan Program Won't Fix What's Really Broken",
                 "desc": "Trump's $17.5B nuclear loan plan targets a US revival, but fuel supply risks, spent fuel costs and China's fast build-out threaten the effort.",
                 "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_47dwnz3saq.jpg",
@@ -542,99 +632,99 @@
                 "source": "CTech",
                 "date": "2026-07-07T18:27:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "AI Is Coming for the Marketing Department",
-                "desc": "Artificial intelligence proved itself as capable as copywriters in creating marketing emails about wine.",
-                "image": "https://www.chicagobooth.edu/-/media/project/chicago-booth/chicago-booth-review/2026/july/chicago-booth-robot-shadow.jpg?w=1920&h=800&hash=35C776912E27ABA15FCCADFA9E9B563C",
-                "url": "https://www.chicagobooth.edu/review/ai-is-coming-marketing-department",
-                "source": "The University of Chicago Booth School of Business",
-                "date": "2026-07-07T18:24:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Too cold to exercise? Here’s how to start and stay on track",
-                "desc": "Experts say winter is a good time to double down on exercise rather than taking the foot off the gas.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--q4Q-0LXs--/t_tohu-badge-facebook/f_auto/q_auto/4JLV7VD_getty_images_74RnuzebYZw_unsplash_jpg",
-                "url": "https://www.rnz.co.nz/life/wellbeing/too-cold-to-exercise-here-s-how-to-start-and-stay-on-track",
-                "source": "RNZ",
-                "date": "2026-07-07T18:22:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI startup CEO pleaded guilty in US to trading on insider tips from lawyers",
-                "desc": "The founder ​and chief executive of an AI startup secretly pleaded guilty last year to participating in ‌a vast scheme in which attorneys at major law firms tipped traders about mergers their employers were advising on.",
-                "image": "https://www.reuters.com/resizer/v2/5Y3UQXZMZBMSVB3B3XB52ON5MA.jpg?auth=aaca22b5485832e67e9d3bb686fde8501edb1e8a55546d0089d348b642784cfe&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/legal/government/ai-startup-ceo-pleaded-guilty-us-trading-insider-tips-lawyers-2026-07-07/",
-                "source": "Reuters",
-                "date": "2026-07-07T18:21:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Daily Post Nigeria",
-                "desc": "Flutterwave, Africa’s leading payments technology company, today announced a strategic investment from Circle Ventures, the corporate venture arm of",
-                "image": "https://dailypost.ng/wp-content/uploads/2026/07/Flw-CV.jpg",
-                "url": "https://dailypost.ng/2026/07/07/flutterwave-secures-circle-ventures-investment-expands-usdc-payments-settlement-across-africa/",
-                "source": "Daily Post Nigeria",
-                "date": "2026-07-07T18:21:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "optimisation drive yielded $3.4bn savings in 12 months",
-                "desc": "The Nigerian National Petroleum Company (NNPC) Limited said it saved a staggering $3.4 billion over the past year by aggressively rest...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2025/07/Bayo-Ojulari.png",
-                "url": "https://businessday.ng/energy/oilandgas/article/nnpc-says-cost-optimisation-drive-yielded-3-4bn-savings-in-12-months/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-07T18:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PenCom to Amend Pension Reform Act After 12 Years",
-                "desc": "PenCom is reviewing the Pension Reform Act, 2014, to modernize the law, address implementation gaps, and improve retirement outcomes for Nigerians. Learn m",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/PenCom.webp",
-                "url": "https://punchng.com/pencom-moves-to-amend-pension-reform-act-after-12-years/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-07T17:56:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Techstars Partners with Emirates NBD to Accelerate Enterprise",
-                "desc": "Techstars has partnered with Emirates NBD, a leading banking group across the MENAT region, to drive AI and fintech innovation in the area.",
-                "image": "https://cdn.bfldr.com/CBWQP80B/as/wb4m3h787wv38chs9cw73t/EmiratesPartnership_Blog?width=700",
-                "url": "https://www.techstars.com/newsroom/techstars-partners-with-emirates-nbd-to-accelerate-enterprise-grade-ai-and-fintech-solutions-across-menat",
-                "source": "Techstars",
-                "date": "2026-07-07T17:52:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Arianespace opens door to GEO rideshare opportunities from 2029",
-                "desc": "Arianespace opens door to GEO rideshare opportunities from 2029",
-                "image": "https://spacenews.com/wp-content/uploads/2026/07/Signing-of-MoU_InfiniteOrbits_ArianeSpace-scaled.webp",
-                "url": "https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/",
-                "source": "SpaceNews",
-                "date": "2026-07-07T17:52:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dangote Makes History in Europe's Jet Fuel Market While Nigerian Airlines Battle High Prices",
-                "desc": "Dangote Refinery exported 466,000 metric tonnes of jet fuel to Europe in June, surpassing US exports, amid rising Jet A1 prices and scarcity for Nigerian airlines.",
-                "image": "https://cdn.legit.ng/images/1200x675/5f1e7713e8aa0924.jpeg?v=1",
-                "url": "https://www.legit.ng/business-economy/energy/1718080-dangote-europes-biggest-jet-fuel-supplier-nigerian-airlines-battle-scarcity-high-prices/",
-                "source": "Legit News",
-                "date": "2026-07-07T17:52:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why the global memory bottleneck may signal early innings in the cyber stock comeback",
-                "desc": "There is one key difference between the cyber trade and the memory trade.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108316343-1780518921561-gettyimages-2243418927-NVIDIA_AI_KEYNOTE.jpeg?v=1780519019&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/07/why-the-global-memory-bottleneck-may-signal-early-innings-in-the-cyber-stock-comeback.html",
-                "source": "CNBC",
-                "date": "2026-07-07T17:51:09Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Nexode Air: Ugreen's new compact 100W GaN charger launches in the UK",
+                "desc": "The Ugreen Nexode Air 100W GaN charger is now available in the UK. It delivers up to 100W of power while offering a compact design with foldable plugs for easy travel and packing.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Ugreen-Nexode-Air-100W-UK80.jpg",
+                "url": "https://www.notebookcheck.net/Nexode-Air-Ugreen-s-new-compact-100W-GaN-charger-launches-in-the-UK.1336570.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-07T21:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Want a 'dumb phone'? You can make your iPhone one, here's how",
+                "desc": "A 'dumb phone' is a minimalistic phone that offers only a few features, often calls and texts, a camera, alarm, calendar and maybe music.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/07/USAT/90838405007-getty-images-2000113930.jpg?crop=2306,1297,x0,y0&width=2306&height=1297&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/tech/2026/07/07/make-iphone-dumb-phone-tutorial/90821283007/",
+                "source": "USA Today",
+                "date": "2026-07-07T21:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Can YouTube gamify its videos? Two 'Mario Kart' fans pulled it off.",
+                "desc": "Can YouTube gamify its videos? Two ‘Mario Kart’ fans pulled it off.",
+                "image": "https://www.tubefilter.com/wp-content/uploads/2026/07/mario-kart-getty.jpg",
+                "url": "https://www.tubefilter.com/2026/07/07/gamified-youtube-version-mario-kart-rainbow-road/",
+                "source": "Tubefilter",
+                "date": "2026-07-07T21:31:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+                "desc": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
+                "image": "https://media.wired.com/photos/6a431773890f52402e5ab8b7/191:100/w_1280,c_limit/Joshua-Achiam-Leaving-OpenAI-Business-2274413917.jpg",
+                "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+                "source": "WIRED",
+                "date": "2026-07-07T21:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Secure 24% Off This Outdoor 4 Camera and Video Doorbell Bundle Right Now",
+                "desc": "It isn't hard to build a home security system with this Blink bundle, which includes three wireless outdoor cameras and a video doorbell. And for $60 off, it's a steal all on its own!",
+                "image": "https://i.pcmag.com/imagery/articles/03PbFa8trbEumg1cJvqaMbM-1.fit_lim.size_1200x630.v1783457301.png",
+                "url": "https://www.pcmag.com/deals/secure-24-off-this-outdoor-4-camera-and-video-doorbell-bundle-july-7",
+                "source": "PCMag",
+                "date": "2026-07-07T21:27:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anonymous Wild Hornets spokesperson calls drone swarms 'a fun legend and a scam mechanism' as he defends the critical importance of 3D printers in warfare",
+                "desc": "Ukrainian manufacturer Wild Hornets boosts drone production with 3D printing",
+                "image": "https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1920-80.png",
+                "url": "https://www.techradar.com/pro/anonymous-wild-hornets-spokesperson-calls-drone-swarms-a-fun-legend-and-a-scam-mechanism-as-he-defends-the-critical-importance-of-3d-printers-in-warfare",
+                "source": "TechRadar",
+                "date": "2026-07-07T21:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Massive Marvel Rivals Update Reworks Black Widow And Overhauls The Team-Up System",
+                "desc": "The updates coming with season 9: The Mystery of Thebes, is a major shake-up affecting \"80% of characters.\"",
+                "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/07/07/a067e851/Black%20Widow_%20Super-Spy%20Sniper%20_%20Character%20Reveal%20_%20Marvel%20Rivals%200-4%20screenshot.jpg.webp",
+                "url": "https://gameinformer.com/2026/07/07/massive-marvel-rivals-update-reworks-black-widow-and-overhauls-the-team-up-system",
+                "source": "Game Informer",
+                "date": "2026-07-07T21:19:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marvel Rivals announces Jubilee and a Team-Up rework for Season 9",
+                "desc": "Red Hood has also been teased for Marvel Rivals' upcoming season.",
+                "image": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2026/07/07/the-explosive-firecracker-character-reveal-trailer-marvel-rivals-1-11-screenshot_feature.png",
+                "url": "https://www.shacknews.com/article/149924/marvel-rivals-jubilee-reveal",
+                "source": "Shacknews",
+                "date": "2026-07-07T21:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Covering the Fastest Computers in the World and the People Who Run Them",
+                "desc": "TAIPEI, Taiwan, July 7, 2026 — GIGABYTE is demonstrating how AI TOP ATOM four-node clustering scales local AI computing for increasingly complex workloads. As AI models, scientific simulations, and enterprise applications continue to grow in size and complexity, standalone systems are increasingly insufficient to meet rising memory and compute demands. AI TOP ATOM clustering removes […]",
+                "image": "https://www.hpcwire.com/wp-content/uploads/2026/07/image1.jpg",
+                "url": "https://www.hpcwire.com/off-the-wire/gigabyte-demonstrates-ai-top-atom-four-node-clustering-on-scientific-computing/",
+                "source": "HPCwire",
+                "date": "2026-07-07T21:11:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EVE Vanguard Reinvented Its Gameplay With Some Notes from Battlefield 6 | Hands-On Preview",
+                "desc": "It’s an EVE-straction shooter.",
+                "image": "https://sm.ign.com/t/ign_ap/preview/e/eve-vangua/eve-vanguard-reinvented-its-gameplay-with-some-notes-from-ba_7vm3.1200.jpg",
+                "url": "https://sea.ign.com/eve-vanguard/245181/eve-vanguard-reinvented-its-gameplay-with-some-notes-from-battlefield-6-hands-on-preview",
+                "source": "IGN Southeast Asia",
+                "date": "2026-07-07T21:10:50Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "SEO Study: 5 Lessons From Running AI Agents Across Every Search",
                 "desc": "Last year, 2.5% of Writesonic's leads came from AI search. As of March, 35% do. Samanyou Garg, Founder and CEO of Writesonic, showed the system behind",
@@ -1174,99 +1264,99 @@
                 "source": "The Register",
                 "date": "2026-07-07T17:59:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New C3 Aircross has option of seven seats",
-                "desc": "New C3 Aircross has option of seven seats - Life - Western People",
-                "image": "https://www.westernpeople.ie/cms_media/module_img/7713/3856999_4_articledetail_C3_Aircross-frontsideview.jpeg.jpg",
-                "url": "https://www.westernpeople.ie/life/new-c3-aircross-has-option-of-seven-seats_arid-103476.html",
-                "source": "westernpeople.ie",
-                "date": "2026-07-07T17:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why the New Google Home Speaker With Gemini is a Major Smart Home Upgrade",
-                "desc": "Why the New Google Home Speaker With Gemini is a Major Smart Home Upgrade",
-                "image": "https://i.pcmag.com/imagery/articles/00zdMnRkny4KIANyszD2w4m-2.fit_lim.size_1200x630.v1783428040.png",
-                "url": "https://www.pcmag.com/articles/why-the-new-google-home-speaker-with-gemini-is-a-major-smart-home-upgrade",
-                "source": "PCMag",
-                "date": "2026-07-07T17:54:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Set to Show Off Pixel 11 Lineup at Aug. 12 Event",
-                "desc": "Will the ongoing memory shortage mean higher prices for Google's flagship phones?",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/g/google-set/google-set-to-show-off-pixel-11-lineup-at-aug-12-event_jrsw.1200.jpg",
-                "url": "https://au.pcmag.com/mobile-phones/118652/google-set-to-show-off-pixel-11-lineup-at-aug-12-event",
-                "source": "PCMag Australia",
-                "date": "2026-07-07T17:54:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IO Interactive Shuts Down Istanbul Studio Months After 007 First Light Smash Hit",
-                "desc": "IO Interactive recently confirmed that the end of \"a relationship with an external partner,\" now known to be Xbox Game Studios, meant that the studio would no longer have the funding it required to work on a game known as Project Fantasy with its current staff. On July 7, IO Interactive expanded...",
-                "image": "https://www.techpowerup.com/img/ZDVefeYah2Hm0RRw.jpg",
-                "url": "https://www.techpowerup.com/350583/io-interactive-shuts-down-istanbul-studio-months-after-007-first-light-smash-hit",
-                "source": "TechPowerUp",
-                "date": "2026-07-07T17:54:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The ‘G-Wagen of golf carts’ could be the ideal second car",
-                "desc": "Amble is a new electric vehicle company building an open-air buggy inspired by the lunar rover. Hotels and resorts will be the first customers, but it could be coming to a neighborhood near you.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/240701_AMBLE_iiii0132_d6a13c.jpg?quality=90&strip=all&crop=0%2C3.4599250055658%2C100%2C93.080149988868&w=1200",
-                "url": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
-                "source": "The Verge",
-                "date": "2026-07-07T17:52:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Foldable iPhone Ultra vs. iPad: How their screens reportedly compare",
-                "desc": "The foldable iPhone Ultra will reportedly be iPad-esque when opened. Here's how the two devices reportedly compare.",
-                "image": "https://helios-i.mashable.com/imagery/articles/06gLoANaNrwQm2Ye0ZC2mTf/hero-image.fill.size_1200x675.v1783443515.jpg",
-                "url": "https://mashable.com/tech/foldable-iphone-ultra-vs-ipad-screen-comparison",
-                "source": "Mashable",
-                "date": "2026-07-07T17:52:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New iPhone Air 2 battery and camera details leak",
-                "desc": "The leaks corroborate reports of a dual-camera setup and bigger battery for Apple's next ultra-thin phone.",
-                "image": "https://sm.mashable.com/t/mashable_sea/article/n/new-iphone/new-iphone-air-2-battery-and-camera-details-leak_kdpx.1200.jpg",
-                "url": "https://sea.mashable.com/mobile/52389/new-iphone-air-2-battery-and-camera-details-leak",
-                "source": "Mashable SEA",
-                "date": "2026-07-07T17:49:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "INO-CNR Researchers Detail Algebraic MPS Variety Construction",
-                "desc": "Researchers at INO-CNR detail a tangent-space method for algebraic varieties of matrix product states, used to study excitation spectra of quantum many-body systems with open boundary conditions. This approach defines MPS as a projective variety based on rank constraints, offering an explicit representation of the tangent space for approximating excitation spectra.",
-                "image": "https://quantumzeitgeist.com/wp-content/uploads/QC1-5-jpg.webp",
-                "url": "https://quantumzeitgeist.com/algebraic-mps-variety-ino-cnr-detail/",
-                "source": "Quantum Zeitgeist",
-                "date": "2026-07-07T17:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Game Pass reportedly has only 30 million subscribers.",
-                "desc": "The Wall Street Journal reported the number on Monday. Bloomberg corroborated it on Tuesday, adding that the subscribers figure is “4 million fewer than it did when the company last publicly shared data in 2024.” At one point, Microsoft had hoped that the service would have 100 million subscribers by 2030 — it seems unlikely it’ll meet that bar.\n[Link: Behind Xbox’s Big Layoffs, a Streaming Strategy That Failed | https://www.bloomberg.com/news/articles/2026-07-07/behind-xbox-s-big-layoffs-a-streaming-strategy-that-failed?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ0MTQ5NiwiZXhwIjoxNzg0MDQ2Mjk2LCJhcnRpY2xlSWQiOiJUSFJPNVNUOTZPU0wwMCIsImJjb25uZWN0SWQiOiJGRUIzODlCNUI2ODI0RTY0QjY5MENEODE1RTBDREZGRCJ9.pMbt4znt88aoSYKf-Vt1xxM2iZlpT-ehYpDmvBB-kJk&leadSource=uverify%20wall | Bloomberg]",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-                "url": "https://www.theverge.com/games/962323/xbox-game-pass-reportedly-has-only-30-million-subscribers",
-                "source": "The Verge",
-                "date": "2026-07-07T17:36:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Sony wants to kill its PlayStation discs for good.",
-                "desc": "Fans worry that they might never truly own their beloved games.",
-                "image": "https://compote.slate.com/images/d91c0a79-28b6-4e49-a911-f0a3fca32c19.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-                "url": "https://slate.com/technology/2026/07/sony-playstation-discs-physical-media.html",
-                "source": "Slate Magazine",
-                "date": "2026-07-07T17:35:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "US strikes Iran after Hormuz tanker attacks, Tehran threatens response",
+                "desc": "US Central Command said the strikes were carried out “to impose heavy costs” for attacks on commercial shipping.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--1J113ZZn--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/08/ap26181385886757.jpg?itok=p4pmWSdO",
+                "url": "https://www.channelnewsasia.com/world/us-iran-strike-hormuz-tanker-attacks-6239441",
+                "source": "CNA",
+                "date": "2026-07-07T21:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US strikes Iran amid oil sanctions",
+                "desc": "The US launched new strikes on Iran and revoked oil sanctions after three tankers were hit in the Strait of Hormuz, intensifying pressure. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b3c3b53780178c44bf88ec4b613e6838094893de1f75e1668b8b3f976cfb28f0",
+                "url": "https://www.straitstimes.com/world/middle-east/us-military-launches-strikes-against-iran-central-command-says",
+                "source": "The Straits Times",
+                "date": "2026-07-07T21:37:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "News and politics live updates: US launches military strikes on Iran after Strait of Hormuz shipping attacks",
+                "desc": "LIVE UPDATES: The US has launched retaliatory strikes on Iran after attacks on commercial vessels in the Strait of Hormuz, escalating tensions in the Middle East.",
+                "image": "https://images.thenightly.com.au/publication/C-22546576/6a473c519c2ed59f1948434fb0dca2e7e34a7372-16x9-x0y0w3840h2160.webp?imwidth=1200",
+                "url": "https://thenightly.com.au/politics/news-and-politics-live-updates-trump-renews-greenland-push-as-nato-leaders-unveil-72-billion-defence-deals-c-22546576",
+                "source": "The Nightly",
+                "date": "2026-07-07T21:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Government must walk 'careful path' standing up against China, Nicola Willis says",
+                "desc": "The government has to walk a \"careful path\", standing up against China trampling on the Pacific's anti-nuclear values while recognising it's our biggest trading partner, Finance Minister Nicola Willis says.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--QlC5pl95--/t_tohu-badge-facebook/f_auto/q_auto/4JMMMF1_Image_3_jfif",
+                "url": "https://www.rnz.co.nz/news/politics/685055/government-must-walk-careful-path-standing-up-against-china-nicola-willis-says",
+                "source": "RNZ",
+                "date": "2026-07-07T21:34:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NATO Reports 11% Rise in European Defense Spending as Trump Presses Allies",
+                "desc": "Alliance members unveiled higher defense budgets, discussed Ukraine, and sought to reinforce transatlantic unity",
+                "image": "https://d2wqffb2bc8st5.cloudfront.net/images/1783454567_kurdistan24.jpg",
+                "url": "https://www.kurdistan24.net/en/story/924409",
+                "source": "Kurdistan24",
+                "date": "2026-07-07T21:34:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Woman suspected of Monaco bombing found dead in Ukraine",
+                "desc": "A cross-border manhunt had been launched for 39-year-old Anastasiia Berezovska.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/anastasiia-berezovska-a-suspect-in-the-monaco-bombing-that-r-MXQF7LTYF5CIBKLA3P7AWNAOCM.jpg?auth=7653cc050e238a7e32cbf3da9f19a7dd215ee10c8d37cbdfe7d4bbb123675860&quality=70&width=600&height=315&focal=242%2C128",
+                "url": "https://www.1news.co.nz/2026/07/08/woman-suspected-of-monaco-bombing-found-dead-in-ukraine/",
+                "source": "1News",
+                "date": "2026-07-07T21:34:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Central Command targets sites following attacks on commercial vessels in Strait of Hormuz",
+                "desc": "The US strikes targeted Iranian air-defence systems, coastal-surveillance systems, surface-to-air missiles, anti-ship cruise missiles and drone-launch sites, a US official said.",
+                "image": "https://static.ffx.io/images/$zoom_0.1226%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_56/t_crop_custom/q_86%2Cf_auto/7a53c9490207d6fd99d8d1af16010bc0d3bc52e6",
+                "url": "https://www.smh.com.au/world/middle-east/us-military-launches-strikes-against-iran-central-command-says-20260708-p60dhr.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-07T21:29:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+                "desc": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo",
+                "source": "BBC",
+                "date": "2026-07-07T21:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia launches more ballistic missiles on Kyiv",
+                "desc": "Russia has launched another ballistic missile attack on Kyiv, while Ukraine's city of Kharkiv has also been hit...",
+                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/1c8c7e47-eb91-4172-bf17-eca88cc7fc51.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+                "url": "https://www.canberratimes.com.au/story/9306685/russia-launches-more-ballistic-missiles-on-kyiv/",
+                "source": "The Canberra Times",
+                "date": "2026-07-07T21:26:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US says strikes launched as explosions heard in southern Iran",
+                "desc": "US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26124419258830-1783382378_4d7b33-1783392578.jpg?resize=1200%2C630&quality=80",
+                "url": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran",
+                "source": "Al Jazeera",
+                "date": "2026-07-07T21:24:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Philippines Confirms Deal to Acquire Five Japanese Abukuma",
                 "desc": "The Philippines has reached a broad agreement with Japan to acquire five soon-to-be-retired Abukuma-class destroyer escorts from the JMSDF.",
@@ -1806,98 +1896,8 @@
                 "source": "Opportunities For Africans",
                 "date": "2026-07-07T17:56:57Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "43 Somali piracy suspects plead guilty in Mumbai court",
-                "desc": "Mumbai (HOL) — Forty-three Somali men accused in two separate piracy cases have pleaded guilty before a Mumbai court after allegedly hijacking merchant vessels, holding crew members hostage and demanding ransom.",
-                "image": "https://www.hiiraan.com/uploads/2026/07/17834464581783411259PTI03_23_2024_000036B.jpg",
-                "url": "https://www.hiiraan.com/security4/2026/Jul/205623/43_somali_piracy_suspects_plead_guilty_in_mumbai_court.aspx",
-                "source": "Hiiraan Online",
-                "date": "2026-07-07T17:52:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Illegal fishing takes a toll on Australia's sea cucumbers",
-                "desc": "Environmental science and conservation news",
-                "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/07103628/a.-%C2%A9-Julian-Jimenez.-original-1200x800.jpg",
-                "url": "https://news.mongabay.com/2026/07/illegal-fishing-takes-a-toll-on-australias-sea-cucumbers/",
-                "source": "news - Mongabay",
-                "date": "2026-07-07T17:52:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DR Congo in “state of emergency,” Cardinal Ambongo Warns, Calls for Vigilance against Political Rhetoric",
-                "desc": "Fridolin Cardinal Ambongo has warned that the Democratic Republic of Congo (DRC) faces a grave national crisis, lamenting that political leaders are prioritizing constitutional debates over citizens' pressing needs.",
-                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-07t203326_1783445663.jpg?w=1200&format=jpeg",
-                "url": "https://www.aciafrica.org/news/22799/dr-congo-in-state-of-emergency-cardinal-ambongo-warns-calls-for-vigilance-against-political-rhetoric",
-                "source": "ACI Africa",
-                "date": "2026-07-07T17:51:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Somali defence ministry rejects Crisis Group report on al",
-                "desc": "Mogadishu (HOL) — Somalia’s Ministry of Defence on Monday strongly rejected an International Crisis Group report on the country’s fight against al-Shabab, calling it flawed, unbalanced and a distorted account of the government’s counterterrorism campaign.",
-                "image": "https://www.hiiraan.com/uploads/2026/07/1783439974739790431_2046655315940512_771171089386543811_n.jpg",
-                "url": "https://www.hiiraan.com/news4/2026/Jul/205620/somali_defence_ministry_rejects_crisis_group_report_on_alshabab_war.aspx",
-                "source": "Hiiraan Online",
-                "date": "2026-07-07T17:45:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New footage shown at Charlie Kirk hearing shows man on rooftop near shooting scene",
-                "desc": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5c1/live/81744860-7a2b-11f1-970e-cb42f2f2eee0.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o",
-                "source": "BBC",
-                "date": "2026-07-07T17:44:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New footage shown at Charlie Kirk hearing shows man on rooftop near shooting scene",
-                "desc": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e5c1/live/81744860-7a2b-11f1-970e-cb42f2f2eee0.jpg",
-                "url": "https://www.bbc.com/news/articles/cr5j983p046o",
-                "source": "BBC",
-                "date": "2026-07-07T17:44:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France's traditionalist Catholics rally behind Pope Leo XIV after SSPX schism",
-                "desc": "French Catholics attached to the traditional Latin Mass but loyal to Rome are expressing deep sadness after the Society of St. Pius X consecrated four bishops without papal approval, prompting the Vatican to declare the group in schism and excommunicate six SSPX bishops.",
-                "image": "https://www.ncronline.org/files/styles/facebook_ratio/public/2026-07/20260707T1240-FRANCE-TRADITIONALISTS-SSPX-REAX-1823168.JPG?h=9eb0d413&itok=NgFFCJeG",
-                "url": "https://www.ncronline.org/news/frances-traditionalist-catholics-rally-behind-pope-leo-xiv-after-sspx-schism",
-                "source": "National Catholic Reporter",
-                "date": "2026-07-07T17:37:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "When AI hurts people, who’s to blame? Global experts grapple with accountability",
-                "desc": "Who is legally responsible when Artificial Intelligence causes harm? The issue took centre stage on Tuesday – day two of the first ever UN summit on AI governance, where leading experts warned of mounting evidence of human rights violations linked to the revolutionary technology.",
-                "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/12-06-2026-Adobe-China-EV.jpg/image770x420cropped.jpg",
-                "url": "https://news.un.org/en/story/2026/07/1167886",
-                "source": "UN News",
-                "date": "2026-07-07T17:36:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Just one Canadian city cracks list of world's most livable places",
-                "desc": "When it comes to putting down roots in Canada, one place in the country stands above the rest as the most livable city.",
-                "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/07/liveable-city.jpg?format=auto",
-                "url": "https://dailyhive.com/canada/worlds-most-livable-city-canada",
-                "source": "Daily Hive",
-                "date": "2026-07-07T17:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine signs Drone Deal with Netherlands",
-                "desc": "Ukrainian President Volodymyr Zelensky and Dutch Prime Minister Rob Jetten have signed a cooperation agreement in the field of drones, known as the Drone Deal. — Ukrinform.",
-                "image": "https://static.ukrinform.com/photos/2026_07/thumb_files/630_360_1783443213-489.jpeg",
-                "url": "https://www.ukrinform.net/rubric-polytics/4141842-ukraine-signs-drone-deal-with-netherlands.html",
-                "source": "Ukrinform - Ukrainian National News Agency",
-                "date": "2026-07-07T17:34:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T09:00:48.898004Z"
+    "lastGlobalSync": "2026-07-08T09:40:50.107306Z"
 }
