@@ -4,6 +4,87 @@
     "en": {
         "business": [
             {
+                "title": "Beijing is looking at curbing overseas access to China's top AI models, sources say",
+                "desc": "SINGAPORE, July 7 (Reuters) - Chinese authorities have held meetings with top tech firms over the past month about potentially restricting overseas access to China's most advanced AI models, including...",
+                "image": "https://s.yimg.com/lo/mysterio/api/45762d2ac107377991f82e8f60a193f627b06d0c7eb87ef72f1ff3b68448861e/lightyear_networkapi/resizefill_w800_h533;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F77888907e57854274a95b1b28b492f50",
+                "url": "https://www.yahoo.com/news/world/articles/exclusive-beijing-looking-curbing-overseas-101644730.html",
+                "source": "Yahoo",
+                "date": "2026-07-07T23:00:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "28-year-old graduate learns hawker trade in secret, opens Hokkien mee stall to fulfill dream",
+                "desc": "While Tan Jing Herng spent his university days studying engineering, his heart has always been in the kitchen. Upon graduation, instead of pursuing a career in his field, he chose to learn how to wield a wok.Now, the 28-year-old is the proud owner of Herng Hao Chi Hokkien Mee at Toa Payoh Lorong 8, which opened on June 1. When...",
+                "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jul2026/Herng%20Hokkien%20Mee.jpg?itok=lDT3lJd4",
+                "url": "https://www.asiaone.com/lifestyle/herng-hao-chi-hokkien-mee-gen-z-hawker",
+                "source": "AsiaOne",
+                "date": "2026-07-07T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Next Oil Price Spike Could Come Sooner Than Traders Think",
+                "desc": "Future demand could surprise to the upside as countries rebuild depleted stockpiles and China eventually resumes spot crude buying, limiting the impact of any expected global oversupply.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_xpyfj0mhbu.jpg",
+                "url": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Price-Spike-Could-Come-Sooner-Than-Traders-Think.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-07T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "White House launches 25 Freedom Fuel gas stations in this region",
+                "desc": "The White House launched gas stations, it announced on July 7, but the prices aren't much lower than the national average. See where they're located.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/07/USAT/90840941007-2284909674.jpg?crop=3628,2041,x0,y260&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/news/politics/2026/07/07/white-house-announces-freedom-fuel-gas-stations/90838506007/",
+                "source": "USA Today",
+                "date": "2026-07-07T22:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kalshi traders give low odds the U.S. takes a stake in OpenAI in 2026",
+                "desc": "Traders on the prediction markets platform see a less than 30% likelihood the federal government will take a stake in AI companies Anthropic and OpenAI.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108329722-1782971099939-gettyimages-2281424331-AFP_B7DV3ND.jpeg?v=1782971255&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/07/kalshi-traders-give-low-odds-the-us-takes-a-stake-in-openai-in-2026.html",
+                "source": "CNBC",
+                "date": "2026-07-07T22:51:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bonds, stocks retreat as Mideast tensions lift oil",
+                "desc": "Oil prices climbed while bonds and stocks slipped after a flare-up in Middle East tensions reignited concerns over energy supplies, clouding the outlook for inflation and interest rates.",
+                "image": "https://assets.theedgemarkets.com/Global-Markets-1-APP_theedgemalaysia_22.png",
+                "url": "https://theedgemalaysia.com/node/809784",
+                "source": "The Edge Malaysia",
+                "date": "2026-07-07T22:49:06Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Morrison announces $3.5 billion alliance with Japanese bank Sumitomo Mitsui",
+                "desc": "Wellington-based global infrastructure investment firm Morrison partnership has established a long-term partnership with large Japanese bank Sumitomo Mitsui Trust Bank (SuMiTB) valued at more than $3.52 billion (US$2b).",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--FrlBFE-A--/t_tohu-badge-facebook/f_auto/q_auto/4JP1VWF_evgeniy_alyoshin_2ASQyjafflo_unsplash_jpg",
+                "url": "https://www.rnz.co.nz/news/business/685349/morrison-announces-3-point-5-billion-alliance-with-japanese-bank-sumitomo-mitsui",
+                "source": "RNZ",
+                "date": "2026-07-07T22:47:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Health Canada reviews TAVNEOS after trial data concerns",
+                "desc": "Health Canada is reviewing the evidence supporting TAVNEOS after concerns emerged about the integrity of data from its key clinical trial. In the meantime, doctors are being told not to start new patients on the drug while the review continues.",
+                "image": "https://www.cp24.com/resizer/v2/RTRZVB5JOZHABMHD2V5QPTOMJQ.jpg?smart=true&auth=d723ea747f5dc7d0ac986fbfe7702aa92185a273972306ccbea803b220a7cfbf&width=1200&height=630",
+                "url": "https://www.cp24.com/news/canada/2026/07/07/health-canada-reviews-prescription-medication-over-trial-data-concerns/",
+                "source": "CP24",
+                "date": "2026-07-07T22:42:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FCC denies US firm with Chinese links approval to provide telecoms services",
+                "desc": "The Federal Communications Commission said it was adding Digitalsystem Technology to a list of firms posing risks to US national security.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/08/e892a21e-53ee-4dfb-bde0-a50d2b630b4e_c97e9c68.jpg?itok=Epg209rd&v=1783464021",
+                "url": "https://www.scmp.com/tech/policy/article/3359782/fcc-denies-us-firm-chinese-links-approval-provide-telecoms-services",
+                "source": "South China Morning Post",
+                "date": "2026-07-07T22:41:33Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Lotto $23m jackpot: What should you do if you win the big one?",
                 "desc": "Lotto keeps an online record of how many people have won major prizes this year – and has some advice for anyone who may hit the jackpot tonight.",
                 "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/lotto-tickets-BCB6QVJUGBHBDO5GOELV2LGOIA.jpg?auth=a340e933dd4a80febfcbd6180cd6010903f74b9d53a6ed3fb1dda6b9ab831fc8&quality=70&width=600&height=315&focal=876%2C472",
@@ -551,90 +632,99 @@
                 "source": "The Register",
                 "date": "2026-07-07T19:49:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "USPS to raise the price of a Forever stamp to 82 cents on Sunday. Here's what to know.",
-                "desc": "The cost of a first-class Forever stamp has climbed 41% since 2021, and postal officials have signaled they want prices to rise even more.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/07/a87bec19-84cf-43a4-abee-92ef1f07981a/thumbnail/1200x630/610f63c308bc956ebafc329b151fb29b/gettyimages-2161800160.jpg",
-                "url": "https://www.cbsnews.com/news/usps-forever-stamp-price-increase-july-2026/",
-                "source": "CBS News",
-                "date": "2026-07-07T19:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Musk’s Fortune Drops $50 Billion In SpaceX Selloff",
-                "desc": "Shares of the rocket maker hovered just slightly over their debut price, even as Wall Street lauded the firm’s potential.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/69cd4061d6bf42f1faf075d1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/tylerroush/2026/07/07/elon-musks-net-worth-drops-50-billion-in-latest-spacex-selloff/",
-                "source": "Forbes",
-                "date": "2026-07-07T19:38:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "year gas supply deal, moves $3bn FLNG project closer to FID",
-                "desc": "UTM Offshore has secured a 15-year gas supply agreement, clearing a major hurdle towards reaching a final investment decision (FID) on its…",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2024/07/Untitled-design-2024-07-25T122037.005-1.png",
-                "url": "https://businessday.ng/energy/oilandgas/article/utm-offshore-secures-15-year-gas-supply-deal-moves-3bn-flng-project-closer-to-fid/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-07T19:38:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Securitize (SECZ), BlackRock's tokenization partner, slides 40% after SPAC debut",
-                "desc": "The decline fits into a pattern of recently-public digital asset companies sliding after debut, Arca's Jeff Dorman said.",
-                "image": "https://cdn.sanity.io/images/s3y3vcno/production/5327659df02632f543fcef456e95431561ddbbd4-4032x2268.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-                "url": "https://www.coindesk.com/markets/2026/07/07/blackrock-backed-securitize-slides-40-after-spac-debut-despite-tokenization-boom",
-                "source": "CoinDesk",
-                "date": "2026-07-07T19:38:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Close to a million investors of the Trump memecoin lost a collective $3.8 billion, even as the president disclosed $636 million in earnings",
-                "desc": "The president launched the $TRUMP coin just before his inauguration last January.",
-                "image": "https://s.yimg.com/lo/mysterio/api/49528486dfbba6408393a635a80974add5107389fd5af1cad91240ac37cc22e6/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F77f293331e7e2ba95b76d7d6e3564287",
-                "url": "https://www.yahoo.com/news/politics/articles/close-million-investors-trump-memecoin-193407130.html",
-                "source": "Yahoo",
-                "date": "2026-07-07T19:34:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GOIL strengthens market position with robust sales growth, renewed competitive momentum",
-                "desc": "Ghana rsquo;s downstream petroleum industry is experiencing a period of significant transformation, marked by intense competition, rapid market expansion and the growing influence of indigenous Oil Marketing Companies (OMCs) .",
-                "image": "https://cdn.modernghana.com/images/content/77202693201-0f72ylkxws-goil-2-696x464-1.jpg",
-                "url": "https://www.modernghana.com/news/1508577/goil-strengthens-market-position-with-robust-sales.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-07T19:34:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nearly 1 million investors in Trump's memecoin lost a collective $3.8 billion as he cashed in",
-                "desc": "The president launched the $TRUMP coin just before his inauguration last January.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2272545590-e1783452588810.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/07/07/donald-trump-meme-coin-world-liberty-financial-finance-politics/",
-                "source": "Fortune",
-                "date": "2026-07-07T19:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Year Gas Supply Deal",
-                "desc": "UTM FLNG has secured a 15-year gas supply deal, a major step for Nigeria's first indigenous floating LNG project. This agreement unlocks financing and boos",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/418-60_1783452635.webp",
-                "url": "https://punchng.com/utm-flng-secures-15-year-gas-supply-deal/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-07T19:32:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CDA Consult launches ‘Verify Before You Buy’ campaign to protect consumers from counterfeit goods",
-                "desc": "The Communication for Development and Advocacy Consult (CDA Consult) has launched a nationwide consumer protection campaign urging Ghanaians to prioritise product safety, quality and authenticity over low prices when making purchasing decisions .",
-                "image": "https://cdn.modernghana.com/images/content/77202625359-1i830o4bav-think-before-the-price-tag.png",
-                "url": "https://www.modernghana.com/news/1508536/cda-consult-launches-verify-before-you-buy-campa.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-07T19:30:07Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Windows is quietly reserving gigabytes of your RAM - here’s how to get it back",
+                "desc": "Windows looked at my RAM and called dibs before I even opened anything.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/windows-11-task-manager-memory-tab-performance-graph.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/windows-is-quietly-reserving-gigabytes-of-your-ram-heres-how-to-get-it-back/",
+                "source": "MakeUseOf",
+                "date": "2026-07-07T23:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung's Next Galaxy Foldables Will Be Announced on July 22",
+                "desc": "We're expecting three new foldable phones.",
+                "image": "https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-52-1200x675.jpg",
+                "url": "https://gizmodo.com/samsungs-next-galaxy-foldables-will-be-announced-on-july-22-2000782651",
+                "source": "Gizmodo",
+                "date": "2026-07-07T23:00:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lumos launches event tool to track precinct impact",
+                "desc": "Event organisers now have a way to prove precinct-wide gains as sponsors and councils demand evidence beyond attendance counts.",
+                "image": "https://channellife.co.nz/uploads/story/2026/07/07/compatible_eric-fan.jpg",
+                "url": "https://channellife.co.nz/story/lumos-launches-event-tool-to-track-precinct-impact",
+                "source": "channellife.co.nz",
+                "date": "2026-07-07T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung confirms Galaxy Z Fold 8 launch event date [Video]",
+                "desc": "Samsung has officially confirmed a Galaxy Z Fold 8 launch date, with an Unpacked event scheduled for July 22 in London.",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-unpacked-invite-july-22-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/07/samsung-galaxy-z-fold-8-launch-event-date-confirmed/",
+                "source": "9to5Google",
+                "date": "2026-07-07T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung unveils Galaxy Z Fold 8 deal for $1,230 off ahead of July Unpacked - how to qualify",
+                "desc": "Samsung Unpacked will take place later this month in London, and all eyes are on the Galaxy Glasses.",
+                "image": "https://www.zdnet.com/a/img/resize/d9f45efda0ee9f8fac2878a1632b7a104cb6073e/2025/08/08/eb56240e-7edb-41a4-843f-dea425ca860c/dsc06705.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.zdnet.com/article/samsung-unveils-foldable-deal-ahead-of-july-unpacked/",
+                "source": "ZDNET",
+                "date": "2026-07-07T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung's Galaxy Unpacked July 2026 Event: Invites Are Out, Here's What to Expect",
+                "desc": "Samsung's foldable phone launch will take place later this month in London. We'll be there.",
+                "image": "https://www.cnet.com/a/img/resize/0994d925700872293125a42aa3eb86900ccacc87/hub/2026/07/07/7e4b9211-3ca8-4f10-a49a-d1d8a3cde25d/static-official-release-horizontal-16x9-1920x1080-with-text-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/mobile/samsungs-galaxy-unpacked-event-what-to-expect-how-to-watch/",
+                "source": "CNET",
+                "date": "2026-07-07T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Logitech G named partner for Call of Duty: Modern Warfare 4",
+                "desc": "Players will get branded in-game items and creator tools as Logitech G deepens its reach inside one of gaming's biggest shooter launches.",
+                "image": "https://channellife.com.au/uploads/story/2026/07/08/compatible_cody-neal.jpg",
+                "url": "https://channellife.com.au/story/logitech-g-named-partner-for-call-of-duty-modern-warfare-4",
+                "source": "ChannelLife Australia",
+                "date": "2026-07-07T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Tips July 22 Unpacked Event for Next-Gen Foldables",
+                "desc": "Following a targeted social media campaign teasing its next generation of foldables, Samsung will reveal all in London later this month.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/s/samsung-ti/samsung-tips-july-22-unpacked-event-for-next-gen-foldables_q6vt.1200.jpg",
+                "url": "https://au.pcmag.com/mobile-phones/118553/samsungs-new-foldable-campaign-is-a-cryptic-asmr-filled-puzzle",
+                "source": "PCMag Australia",
+                "date": "2026-07-07T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hennessey Venom F5-M To Debut At The Festival Of Speed As World’s Most Powerful Manual Hypercar",
+                "desc": "Texas-based hypercar manufacturer Hennessey Special Vehicles is set to reveal the Venom F5-M at the Goodwood Festival of Speed scheduled to take from July 9-12, where professional racing driver Alex Brundle will pilot it up the Goodwood Hill. Powering the open-top Roadster is Hennessey’s 6.6-liter twin-turbocharged ‘Fury’ V8 engine, which delivers a monumental 2,031 bhp, […]",
+                "image": "https://autojosh.com/wp-content/uploads/2026/07/hennessey_venom_f5_m_autojosh_1.jpg",
+                "url": "https://autojosh.com/hennessey-venom-f5-m-to-debut-at-the-festival-of-speed-as-worlds-most-powerful-manual-hypercar/",
+                "source": "AUTOJOSH",
+                "date": "2026-07-07T22:57:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'TikTok brain' breaks corporate cybersecurity",
+                "desc": "Shorter attention spans, faster decision-making and less patience are a boon for hackers, writes ANNA COLLARD, CISO advisor and SVP content strategist at KnowBe4.",
+                "image": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2026/07/tiktokbrain.png?resize=1000%2C600&ssl=1",
+                "url": "https://gadget.co.za/tiktokbrain74w/",
+                "source": "gadget.co.za",
+                "date": "2026-07-07T22:54:51Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Barbie and The Australian Ballet Celebrate 25 Years of Barbie in the Nutcracker",
                 "desc": "For anyone who grew up on the Barbie and the... films, this one is personal: Barbie and The Australian Ballet are joining forces to celebrate the story that introduced a generation to ballet.",
@@ -1174,99 +1264,54 @@
                 "source": "Android Authority",
                 "date": "2026-07-07T19:16:13Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Smart Glasses Banned in New York Courtrooms Statewide",
-                "desc": "The ban applies to all 1,240 courts in the state.",
-                "image": "https://gizmodo.com/app/uploads/2025/08/metazuck-1200x675.jpg",
-                "url": "https://gizmodo.com/smart-glasses-banned-in-new-york-courtrooms-statewide-2000782399",
-                "source": "Gizmodo",
-                "date": "2026-07-07T19:15:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yeti Rambler v Owala FreeSip: which trendy water bottle actually deserves the hype?",
-                "desc": "We sipped, measured and even drop-tested two of the top bottles on the market to figure out which deserves the hype",
-                "image": "https://i.guim.co.uk/img/media/0237270e161234e7ebef894a20d57dae308aa37c/731_140_4437_3550/master/4437.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=500cbdbe71368dbd6830582061544445",
-                "url": "https://www.theguardian.com/thefilter-us/2026/jul/07/yeti-rambler-owala-freesip-water-bottle-reviews",
-                "source": "The Guardian",
-                "date": "2026-07-07T19:15:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Discord Banned Around 8,200 Users for Posting Inoffensive Images of Grids",
-                "desc": "Discord banned over 8,000 users in the past two months after they posted entirely benign images, including ones showing grids.",
-                "image": "https://petapixel.com/assets/uploads/2026/07/discord-ban-featured.jpg",
-                "url": "https://petapixel.com/2026/07/07/discord-banned-around-8200-users-for-posting-inoffensive-images-of-grids/",
-                "source": "PetaPixel",
-                "date": "2026-07-07T19:13:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SOSA aligned SBC handles AI at the tactical edge",
-                "desc": "HUNTSVILLE, Ala. Abaco Systems launched the SBC3618, a 3U VPX single-board computer (SBC) that is built on Intel Core Ultra Series 3 processors and is aligned to the Sensor Open Systems Architecture, or SOSA, compute-intensive profile.",
-                "image": "https://data.militaryembedded.com/uploads/resize/1256/756/external/data.militaryembedded.com/uploads/articles/primary_images/1783451316.png",
-                "url": "https://militaryembedded.com/ai/cognitive-ew/sosa-aligned-sbc-handles-ai-at-the-tactical-edge",
-                "source": "Military Embedded Systems",
-                "date": "2026-07-07T19:10:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Get better sleep with ultrasound patch that boosts REM rest",
-                "desc": "A University of Texas at Austin-led team of researchers has developed a noninvasive patch that boosts REM sleep in real-world trials without surgery or medication. The technology, called NEUSLeeP, is a soft, wearable device that uses gentle ultrasound waves and electrodes to stimulate deep brain regions and monitor brain activity in real time.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/get-better-sleep-with.jpg",
-                "url": "https://medicalxpress.com/news/2026-07-ultrasound-patch-boosts-rem-rest.html",
-                "source": "Medical Xpress",
-                "date": "2026-07-07T19:00:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Call of Duty: Black Ops 1 and 2 Will Get Native PS5 Versions",
-                "desc": "PS3 shooters ported to both PS5 and PS4 - Activision’s recently announced Call of Duty: Black Ops ports will be available across PS5 and PS4, as confirmed ...",
-                "image": "https://images.pushsquare.com/cde1390217988/large.jpg",
-                "url": "https://www.pushsquare.com/news/2026/07/call-of-duty-black-ops-1-and-2-will-get-native-ps5-versions",
-                "source": "Push Square",
-                "date": "2026-07-07T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Is a Digital Fingerprint and Why Octo Browser Matters",
-                "desc": "Learn what a digital fingerprint is, why it matters online, and how Octo Browser helps you manage and protect your identity.",
-                "image": "https://pctechmag.com/wp-content/uploads/2026/07/pc.jpeg",
-                "url": "https://pctechmag.com/2026/07/what-is-a-digital-fingerprint-and-why-octo-browser-matters/",
-                "source": "PC Tech Magazine",
-                "date": "2026-07-07T18:59:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AirPods firmware beta lets developers use new iOS 27 features",
-                "desc": "Apple has released a new firmware developer beta build for AirPods and AirPods Pro, preparing the personal audio devices for upcoming iOS 27 changes.",
-                "image": "https://photos5.appleinsider.com/gallery/68187-143741-67971-143293-AirPods-Pro-1-xl-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/07/airpods-firmware-beta-lets-developers-use-new-ios-27-features",
-                "source": "AppleInsider",
-                "date": "2026-07-07T18:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Android Auto just became much more useful for motorcycle riders",
-                "desc": "Sygic finally brought its proper motorcycle navigation to Android Auto, so riders get twisty routes, elevation data, and real alerts.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-auto-third-party-apps.jpg",
-                "url": "https://www.androidauthority.com/android-auto-sygic-motorbike-mode-rollout-3684971/",
-                "source": "Android Authority",
-                "date": "2026-07-07T18:58:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FuriosaAI brings its Nvidia",
-                "desc": "South Korea's FuriosaAI has switched on its low-power RNGD AI accelerators at an Equinix datacentre in Lisbon, its first move into the European market.",
-                "image": "https://media.thenextweb.com/2026/07/FuriosaAI-chips.avif",
-                "url": "https://thenextweb.com/news/furiosaai-rngd-europe-equinix-lisbon",
-                "source": "The Next Web",
-                "date": "2026-07-07T18:57:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Pace of greenhouse gas emissions reduction to slow",
+                "desc": "Ireland's greenhouse gas emissions fell for the fourth consecutive year in 2025, declining by 2.2% to leave emissions 14.5% below 2018 levels, according to new figures from the EPA.",
+                "image": "https://www.rte.ie/images/0024a8c3-1600.jpg",
+                "url": "https://www.rte.ie/news/2026/0708/1582299-epa-report/",
+                "source": "RTE.ie",
+                "date": "2026-07-07T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+                "desc": "The attacks have triggered fires in two districts of Kyiv, according to the city’s mayor.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260706__B9CD7ZQ__v1__MidRes__UkraineRussiaConflictWar-1783318364_15913a-1783319614.jpg?resize=1200%2C630&quality=80",
+                "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week",
+                "source": "Al Jazeera",
+                "date": "2026-07-07T22:57:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Series of fresh Russian attacks hit Kyiv",
+                "desc": "A series of explosions have rocked Kyiv, AFP journalists heard, as Russia keeps up its barrage of attacks on the Ukrainian capital while NATO leaders meet for a summit in Turkey.",
+                "image": "https://www.rte.ie/images/0024a7b8-1600.jpg",
+                "url": "https://www.rte.ie/news/2026/0707/1582309-ukraine-russia/",
+                "source": "RTE.ie",
+                "date": "2026-07-07T22:55:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Series of fresh Russian attacks rock Kyiv",
+                "desc": "A series of explosions have rocked Kyiv, AFP journalists heard, as Russia keeps up its barrage of attacks on the Ukrainian capital while NATO leaders meet for a summit in Turkey.",
+                "image": "https://www.rte.ie/images/0024a8ac-1600.jpg",
+                "url": "https://www.rte.ie/news/2026/0707/1582309-barrage-of-russian-attacks-rock-kyiv/",
+                "source": "RTE.ie",
+                "date": "2026-07-07T22:55:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Korea says proposed US forced labor tariff is 'unwarranted,' should be reconsidered",
+                "desc": "WASHINGTON — Korea has called on the Office of the U.S. Trade Representative (USTR) to reconsider its proposed tariff on Korea over forced labor co...",
+                "image": "https://newsimg.koreatimes.co.kr/2026/07/08/78174689-8f5f-4378-84f9-9800bc20ad7d.jpg",
+                "url": "https://www.koreatimes.co.kr/foreignaffairs/20260708/korea-says-proposed-us-forced-labor-tariff-is-unwarranted-should-be-reconsidered",
+                "source": "The Korea Times",
+                "date": "2026-07-07T22:52:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Heat Dome Locks Over Western Europe: Extended Run for Excessive Heatwave establishes",
                 "desc": "The effects of the new heat dome gripping Western Europe are leading to more record-breaking temperatures this July.",
@@ -1851,53 +1896,8 @@
                 "source": "theins.press",
                 "date": "2026-07-07T19:09:52Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Why Noumea is the South Pacific’s most underrated French escape",
-                "desc": "Noumea is the perfect blend of French flair mixed with Pacific soul. From hot croissants to azure water, it’s a pairing that’s hard to fault, Jody Gill...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/YQDM4BNCCFAVTKU27DVS4UXOTU.jpg?auth=7cb54c81a81afd9880d36785367f14b4755182aeb8846e3c7b81f1081f000f13&width=1200&height=675&quality=70&focal=767%2C1349&smart=false",
-                "url": "https://www.nzherald.co.nz/travel/why-noumea-is-the-south-pacifics-most-underrated-french-escape/Y4VPM5KLJFH33I6HWOBCJSOQNM/",
-                "source": "NZ Herald",
-                "date": "2026-07-07T19:03:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump revives argument that U.S. should control Greenland as NATO leaders gather",
-                "desc": "U.S. President Donald Trump said on Tuesday that the U.S., not Denmark, should control Greenland, reviving a stance that has ‌caused tensions among NATO allies just as leaders of the alliance gathered for a summit in Turkey.",
-                "image": "https://i.cbc.ca/ais/13669422-4407-48ce-ae63-3e639ca01dc5,1783449859860/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C240%2C3856%2C2169%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/trump-greenland-nato-denmark-9.7261603",
-                "source": "CBC",
-                "date": "2026-07-07T19:02:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Luxury hotel falls short of perfect score, thanks to one bathroom annoyance",
-                "desc": "This imposing hotel, taking up 25 floors of a 50-storey tower, offers quiet sophistication in a knockout location.",
-                "image": "https://static.ffx.io/images/$zoom_0.1487%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/e2bce8edced6970dbd1c069f0af0ce2861d791b5",
-                "url": "https://www.smh.com.au/traveller/reviews-and-advice/luxury-hotel-falls-short-of-perfect-score-thanks-to-one-bathroom-annoyance-20260704-p60ckz.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-07T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The warmth of the locals in this tropical Asian city is hard to beat",
-                "desc": "It’s a perfect mix of old and new and I know I’ll be back for another visit.",
-                "image": "https://static.ffx.io/images/$zoom_0.2906%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_189/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/3ebcfcf21e97f8565a7f67d88f5e70a1729442ab",
-                "url": "https://www.smh.com.au/traveller/inspiration/the-warmth-of-the-locals-in-this-tropical-asian-city-is-hard-to-beat-20251219-p5np44.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-07T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
-                "desc": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8fce/live/b4660930-7a34-11f1-ab76-d75965dea4d1.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo",
-                "source": "BBC",
-                "date": "2026-07-07T18:56:19Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T10:40:42.804111Z"
+    "lastGlobalSync": "2026-07-08T11:00:43.954488Z"
 }
