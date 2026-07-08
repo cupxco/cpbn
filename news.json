@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Slow license approvals hamper projects, limit housing supply",
+                "desc": "Delays in the issuance of Licenses to Sell (LTS) by the Department of Human Settlements and Urban Development (DHSUD) are emerging as a growing headwind for the Philippine property sector, limiting new project launches, constraining housing supply and potentially driving up prices, according to Colliers Philippines.",
+                "image": "https://media.philstar.com/photos/2026/07/07/b1_2026-07-07_23-50-40.jpg",
+                "url": "https://www.philstar.com/the-freeman/cebu-business/2026/07/08/2540699/slow-license-approvals-hamper-projects-limit-housing-supply",
+                "source": "Philstar.com",
+                "date": "2026-07-07T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China’s DeepSeek developing its own AI chip, sources say",
+                "desc": "Bringing Taiwan to the World and the World to Taiwan",
+                "image": "https://img.taipeitimes.com/images/2026/07/08/P09-260708-323.jpg",
+                "url": "https://www.taipeitimes.com/News/biz/archives/2026/07/08/2003860388",
+                "source": "Taipei Times",
+                "date": "2026-07-07T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anthropic will make Claude Cowork available to users via the cloud",
+                "desc": "AI company Anthropic announced that it is moving its popular Claude Cowork agent to the cloud, making it accessible to users from multiple devices.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260528-anthropic-claude-mn-1450-ba0000.jpg",
+                "url": "https://www.nbcnews.com/tech/tech-news/anthropic-will-make-claude-cowork-available-users-cloud-rcna353218",
+                "source": "NBC News",
+                "date": "2026-07-07T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This new stretchable battery harvests water from air",
+                "desc": "The device, which pulls moisture from the atmosphere to form its electrolyte, could power wearable health monitors",
+                "image": "https://s7d1.scene7.com/is/image/CENODS/News---Moisture-activated-battery-harvests-water-from-air---526995-2:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp",
+                "url": "https://cen.acs.org/materials/energy-storage/battery-water-harvest-electrolyte/104/web/2026/07",
+                "source": "Chemical & Engineering News",
+                "date": "2026-07-07T15:59:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Royal Mail worker filmed launching foul-mouthed tirade on young disabled mum",
+                "desc": "Jennifer Rain was confronted by a raging passenger after a bus driver allowed her onto the bus for free when she explained she had lost her disabled pass.",
+                "image": "https://i2-prod.dailyrecord.co.uk/article37399487.ece/ALTERNATES/s1200d/1_imagemaker-3.jpg",
+                "url": "https://www.dailyrecord.co.uk/news/scottish-news/royal-mail-worker-filmed-launching-37395158",
+                "source": "Daily Record",
+                "date": "2026-07-07T15:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FBI and Google Shut Down the Smart TV Botnet Renting Your Home IP to Criminals",
+                "desc": "Smart TV botnet NetNut secretly rented millions of home IPs to criminals. The FBI and Google shut it down — here's how to protect your network.",
+                "image": "https://www.gadgetreview.com/wp-content/uploads/download-2-6.jpg",
+                "url": "https://www.gadgetreview.com/fbi-and-google-shut-down-the-smart-tv-botnet-renting-your-home-ip-to-criminals",
+                "source": "Gadget Review",
+                "date": "2026-07-07T15:58:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Angola targets $320 million in biggest-ever IPO with Unitel listing",
+                "desc": "Angola is launching its largest-ever public share sale, offering a 15% stake in Unitel SA to raise to $320 million. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/8K0ktkpTURBXy9kOTM5Y2VlNmI0ZDJlYzdhOTIzZWJlOTQ2NDUzYzkxMy5qcGeSlQMCAM0HfM0ENpMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/angola-targets-dollar320-million-in-biggest-ever-ipo-with-unitel-listing/j63txlz",
+                "source": "Business Insider Africa",
+                "date": "2026-07-07T15:57:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump on Toyota's $3.6B Texas Investment: 'That's What Tariffs Do'",
+                "desc": "Toyota is shifting some its Tacoma production to the US over the next four years with a $3.6 billion investment. Trump said it's because of tariffs.",
+                "image": "https://i.insider.com/6a4d11fe5dc133dbf310d99f?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/trump-toyotas-texas-investment-tariffs-usmca2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-07T15:55:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+                "desc": "Indian equities ended lower after four straight gains as profit booking, weak global cues and caution ahead of the US Fed minutes weighed on sentiment. IT stocks remained resilient, while analysts expect earnings, monsoon progress, stable rupee and foreign inflows to guide near-term market direction.",
+                "image": "https://img.etimg.com/thumb/msid-132242806,width-1200,height-630,imgsize-57730,overlay-etmarkets/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132242806.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-07-07T15:53:41Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Results of additional issuance - RIKB 29 0416 - RIKB 35 0917",
+                "desc": "As stated in paragraph 6 in General Terms of Auction for Treasury bonds, the Government Debt Management offered the equivalent of 10% of the nominal value sold in the auction 3. July, at the price of accepted bids.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1128300.jpg",
+                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/results-of-additional-issuance-rikb-29-0416-rikb-35-0917/2380207",
+                "source": "The Manila Times",
+                "date": "2026-07-07T15:52:51Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Canada’s trade surplus hit four-year high in May as Mideast war buoyed commodity prices",
                 "desc": "Merchandise exports rose 0.9%, the fourth consecutive monthly increase",
                 "image": "https://www.theglobeandmail.com/resizer/v2/TI4WJGCM5FHDFC4JLDF77GR6M4.jpg?auth=f0399d6d780ea76c0d4c1b0010efd9a8f0b7339691383caf6f1891d99efe5089&width=1200&height=800&quality=80&smart=true",
@@ -542,99 +632,99 @@
                 "source": "The Irish Times",
                 "date": "2026-07-07T13:06:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Astro's X3 targets digital first users with ‘no box, no installation, no contract’ streaming service",
-                "desc": "In an attempt to reverse the slide in its subscriber base and provide a simple-to-sign-up instant alternative to combat content piracy, Astro Malaysia Holdings Bhd (KL: ASTRO) is launching an X3 streaming service from July 20 from as low as RM39.99 per month.",
-                "image": "https://assets.theedgemarkets.com/ASTRO_0621.JPG",
-                "url": "https://theedgemalaysia.com/node/809765",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-07T12:57:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Infused Cannabis Beverages Are Helping People Quit Drinking Alcohol, Survey Shows",
-                "desc": "A new survey shows that more than three out of four people who consume THC-infused cannabis beverages drink less alcohol—with more than a fifth saying they have quit alcohol entirely. The poll, published on Tuesday, was conducted by THC beverage company Crescent Canna, which surveyed its customers about their use of THC drinks. Since first […]",
-                "image": "https://www.marijuanamoment.net/wp-content/uploads/2024/03/beer-alcohol-marijuana.webp",
-                "url": "https://www.marijuanamoment.net/thc-infused-cannabis-beverages-are-helping-people-quit-drinking-alcohol-survey-shows/",
-                "source": "Marijuana Moment",
-                "date": "2026-07-07T12:55:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US trade deficit widens sharply in May as capital goods imports hit record high",
-                "desc": "The U.S. trade deficit widened sharply in May as an artificial ​intelligence investment boom helped to drive ‌imports of capital goods to a record high, suggesting that trade remained a drag on ​gross domestic product in the second ​quarter.",
-                "image": "https://www.reuters.com/resizer/v2/7DQNGVY25ZKMZNURK5NZPVKEAA.jpg?auth=fc156f13a9884da7e97a1b0ef4289938b936318d42f16f779b8ad6f0614c0f8b&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/us-trade-deficit-widens-sharply-may-capital-goods-imports-hit-record-high-2026-07-07/",
-                "source": "Reuters",
-                "date": "2026-07-07T12:55:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "United Airlines must face lawsuit over 'window seats' that lack windows",
-                "desc": "Passengers say they paid extra for outside views but were seated beside blank cabin walls instead",
-                "image": "https://i.guim.co.uk/img/media/3e74de8ac016ec793034953ec809e657b342a732/290_0_2921_2336/master/2921.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e4eff920c9f7339d507680bfffeb8c7",
-                "url": "https://www.theguardian.com/business/2026/jul/07/united-airlines-window-seat-lawsuit",
-                "source": "The Guardian",
-                "date": "2026-07-07T12:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amnon Shashua to leave AI21 after nine years",
-                "desc": "The departure follows major layoffs and a strategic reset at one of Israel's best-funded AI startups.",
-                "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/05/19/rJ6DopYJMg/rJ6DopYJMg_907_758_1292_728_0_large.jpg",
-                "url": "https://www.calcalistech.com/ctechnews/article/r1eabd5qfl",
-                "source": "CTech",
-                "date": "2026-07-07T12:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Inside Nsibidi Fables' Bet That Africa Can Leapfrog Hollywood",
-                "desc": "Lagos-based Nsibidi Fables is using AI, animation and education to build Africa's next global storytelling powerhouse and challenge Hollywood's dominance.",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Tony-Effik.jpg.jpeg",
-                "url": "https://businessday.ng/bd-weekender/media/article/inside-nsibidi-fables-bet-that-africa-can-leapfrog-hollywood/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-07T12:51:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eppendorf focuses outreach programs to advance STEM education in Europe",
-                "desc": "Eppendorf, a leading international life science company that develops, manufactures, and distributes instruments, consumables, and services for use in laboratories around the world, today highlights its European outreach activities dedicated to addressing persistent challenges in STEM education.",
-                "image": "https://www.news-medical.net/images/news/ImageForNews_841824_17834275361538877.jpg",
-                "url": "https://www.news-medical.net/news/20260707/Eppendorf-focuses-outreach-programs-to-advance-STEM-education-in-Europe.aspx",
-                "source": "News-Medical",
-                "date": "2026-07-07T12:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What FIEs Need to Know",
-                "desc": "China's foreign investment action plan expands financial access, M&A rules, and data flows for foreign companies.",
-                "image": "https://www.china-briefing.com/news/wp-content/uploads/2026/07/Cost-of-Setting-up-a-Business-in-Hong-Kong.jpg",
-                "url": "https://www.china-briefing.com/news/china-foreign-investment-action-plan-2026/",
-                "source": "China Briefing",
-                "date": "2026-07-07T12:50:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Autoliv and XPENG Partner to Advance Safer Mobility Worldwide",
-                "desc": "GUANGZHOU, China, July 7, 2026 /PRNewswire/ -- Autoliv, Inc. (NYSE: ALV) (SSE: ALIVsdb), the global leader in automotive safety systems, today announced that XPENG Inc, a leading Chinese physical AI technology company with growing international presence, and Autoliv (Shanghai) Management Co., Ltd., have signed a strategic cooperation framework agreement to support the development of safer mobility solutions for global markets.",
-                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-                "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/pr-newswire/autoliv-and-xpeng-partner-to-advance-safer-mobility-worldwide/2379929",
-                "source": "The Manila Times",
-                "date": "2026-07-07T12:49:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthropic Uncovers 'Largest Known Distillation Attack'",
-                "desc": "American AI companies say their tech edge is being quietly siphoned off—by both rivals and China. In a June 10 letter to Sens. Elizabeth Warren and Tim Scott, Anthropic...",
-                "image": "https://cdn.newser.com/image/1696991-12-20260707080917.jpeg",
-                "url": "https://www.newser.com/story/392343/anthropic-warns-of-national-security-risks-from-distillation.html",
-                "source": "Newser",
-                "date": "2026-07-07T12:49:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "I disabled Google Play Services location tracking, and yes, apps still work fine",
+                "desc": "Turns out the easy switch doesn't exist. The real one just costs you a sharp photo location.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/google-play-services-app-permissions.JPG?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/i-disabled-google-play-services-location-tracking-and-yes-apps-still-work-fine/",
+                "source": "MakeUseOf",
+                "date": "2026-07-07T16:00:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blood of Dawnwalker instantly became one of my most anticipated games after four hours of play",
+                "desc": "The director of The Witcher 3 returns with one of 2026’s most promising RPGs…",
+                "image": "https://www.videogameschronicle.com/files/2026/07/The-Blood-of-Dawnwalker-Screenshot-19.jpg",
+                "url": "https://www.videogameschronicle.com/features/blood-of-dawnwalker/",
+                "source": "Video Games Chronicle",
+                "date": "2026-07-07T16:00:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Oris Divers Date, now with Olive Green Dial",
+                "desc": "Oris’ revamped retro-inspired dive watch, the accessible Divers Date, returns in a handsome shade of vintage military olive green.",
+                "image": "https://monochrome-watches.com/app/uploads/2026/07/2026-Oris-Divers-Date-Green-Dial-1.jpg",
+                "url": "https://monochrome-watches.com/2026-oris-divers-date-olive-green-dial-introducing-price/",
+                "source": "Monochrome Watches",
+                "date": "2026-07-07T16:00:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Promising medication combination to treat an 'undruggable' type of lung cancer",
+                "desc": "Breakthrough research led by scientists in Manchester has identified a new drug combination that could improve outcomes for thousands of patients with lung cancer driven by a rare type of KRAS mutation, offering hope for patients worldwide with this difficult-to-treat subtype of lung cancer. The study published in Cancer Discovery focuses on non-small cell lung cancer (NSCLC), which accounts for around 20% of cancer-related deaths worldwide. Mutations in the KRAS gene are one of the most common causes of NSCLC.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/pippette.jpg",
+                "url": "https://medicalxpress.com/news/2026-07-medication-combination-undruggable-lung-cancer.html",
+                "source": "Medical Xpress",
+                "date": "2026-07-07T16:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+                "desc": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+                "image": "https://media.wired.com/photos/6a4c0a029897ae33b7e202dc/191:100/w_1280,c_limit/Cowork-Web-Mobile-Press-No-Logo-1920x1080.png",
+                "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+                "source": "WIRED",
+                "date": "2026-07-07T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Blood of Dawnwalker Preview: Using Coen’s Duality to Define His Destiny",
+                "desc": "We have finally gone hands-on with The Blood of Dawnwalker, exploring Rebel Wolves’ unique mechanics and a hero dealing in disaster.",
+                "image": "https://www.cgmagonline.com/wp-content/uploads/2026/07/the-blood-of-dawnwalker-preview-using-coens-duality-to-define-his-destiny-4052.jpg",
+                "url": "https://www.cgmagonline.com/articles/previews/the-blood-of-dawnwalker-2/",
+                "source": "CGMagazine",
+                "date": "2026-07-07T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'It's A Franchise We Love' - Toys For Bob Keen To Work With Xbox On Banjo-Kazooie Game",
+                "desc": "Make it happen, Asha - The folks over at Toys for Bob are busy working on Spyro: A Realm Reborn for Xbox right now, which we absolutely can't wait for, but t...",
+                "image": "https://images.purexbox.com/d86fd2df10e1e/large.jpg",
+                "url": "https://www.purexbox.com/news/2026/07/its-a-franchise-we-love-toys-for-bob-keen-to-work-with-xbox-on-banjo-kazooie-game",
+                "source": "Pure Xbox",
+                "date": "2026-07-07T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Will Apple’s New Siri AI Deliver on the Promise of Apple Intelligence?",
+                "desc": "Apple Intelligence takes a major step forward with Siri AI, extending app actions, search, and workflows across Apple's platforms.",
+                "image": "https://futurumgroup.com/wp-content/uploads/2026/07/Will-Apples-New-Siri-AI-Deliver-on-the-Promise-of-Apple-Intelligence-1024x576.png",
+                "url": "https://futurumgroup.com/insights/will-apples-new-siri-ai-deliver-on-the-promise-of-apple-intelligence/",
+                "source": "The Futurum Group",
+                "date": "2026-07-07T15:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon’s Sleep Studio Finally Strengthens the Value of Amazon Kids+",
+                "desc": "Amazon Sleep Studio expands Amazon Kids+ with bedtime stories, guided meditations, parental controls, and Echo device integrations.",
+                "image": "https://futurumgroup.com/wp-content/uploads/2026/07/Amazons-Sleep-Studio-Finally-Strengthens-the-Value-of-Amazon-Kids.png",
+                "url": "https://futurumgroup.com/insights/amazons-sleep-studio-finally-strengthens-the-value-of-amazon-kids/",
+                "source": "The Futurum Group",
+                "date": "2026-07-07T15:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nothing Ear (3a) unveiled with ANC and up to 42 hours of total battery life",
+                "desc": "The in-ear style Nothing earphones come with a redesigned case. Alongside the Nothing Phone (4b), the UK-based company also unveiled the Nothing Ear (3a),...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/nothing-ear-3a-ofic/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/nothing_ear_3a_unveiled_with_anc_and_up_to_42_hours_of_total_battery_life-news-73612.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-07T15:56:01Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "MV7i: Professional Recording Without the Complexity by Shure Incorporated",
                 "desc": "Shure’s MV7i Smart Microphone & Interface delivers the world’s first and patented technology that allows users to plug in an additional XLR mic or instrument of their choice into the MV7i for two-channel recording.",
@@ -1174,99 +1264,99 @@
                 "source": "Mashable",
                 "date": "2026-07-07T13:06:37Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Assail launches Sidewinder, an offensive security AI that fixes its own mistakes",
-                "desc": "Assail launches Sidewinder, an offensive security AI that fixes its own mistakes - SiliconANGLE",
-                "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/assail.png",
-                "url": "https://siliconangle.com/2026/07/07/assail-launches-sidewinder-offensive-security-ai-fixes-mistakes/",
-                "source": "SiliconANGLE",
-                "date": "2026-07-07T13:00:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "1 Wireless Charging Station Review",
-                "desc": "The Anker MagGo 3-in-1 wireless charging station is a compact, folding base which can keep your smartwatch, earphones and smartphone charged. Anker has sent",
-                "image": "https://irishtechnews.ie/wp-content/uploads/2026/06/anker.jpg",
-                "url": "https://irishtechnews.ie/anker-maggo-3-in-1-wireless-charging-station/",
-                "source": "Irish Tech News",
-                "date": "2026-07-07T13:00:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nothing's Ear 3a Wireless Earbuds Can Take 'Audio Snapshots'",
-                "desc": "Nothing's Ear 3a wireless earbuds have two recording features that separate them from the rest of the Nothing pack.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/ear-3a-case-1200x675.jpg",
-                "url": "https://gizmodo.com/nothings-ear-3a-wireless-earbuds-can-take-audio-snapshots-2000782277",
-                "source": "Gizmodo",
-                "date": "2026-07-07T13:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exclusive: Researchers uncover Google AI chatbot security flaw",
-                "desc": "A recently patched flaw in a popular Google Cloud service that powers AI chatbots could've allowed attackers to hijack customer conversations and trick users into handing over sensitive information, according to a Varonis report shared first with Axios.",
-                "image": "https://s.yimg.com/lo/mysterio/api/b7ae099cae1d74e7f17848a9577f51454dadfb918f0db74dd59a337de579e90c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faxios_527%2F7689847c82dc907d2bc256ee9d88d1a0",
-                "url": "https://tech.yahoo.com/cybersecurity/articles/exclusive-researchers-uncover-google-ai-130005664.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-07T13:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DOOM: The Dark Ages | Revelations Update 4 Release Notes",
-                "desc": "The latest update includes a campaign expansion DLC, Ripatorium 3.0, quality of life changes and bug fixes.",
-                "image": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--WPUpY9qP--/c_lfill,w_420,h_420/f_auto:image,q_auto/DOOM-TheDarkAges_Standard_16x9_jaqcdw",
-                "url": "https://slayersclub.bethesda.net/en-EU/article/doom-the-dark-ages-relevations-update-4",
-                "source": "Slayers Club",
-                "date": "2026-07-07T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I know the Nothing Phone (4b) makes no sense - but I love its design",
-                "desc": "Fewer specs, but more personality",
-                "image": "https://cdn.mos.cms.futurecdn.net/p3Cnd2SVMoMkUH44i8rYWR-2560-80.jpg",
-                "url": "https://www.creativebloq.com/tech/phones-tablets/i-know-the-nothing-phone-4b-makes-no-sense-but-i-love-its-design",
-                "source": "Creative Bloq",
-                "date": "2026-07-07T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Every PlayStation, Xbox and Nintendo console price hike in 2026, including crazy 71% rise",
-                "desc": "Gaming is one of the most expensive hobbies you can have in 2026, and it's only going to get worse",
-                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt9eb54543019a4955/6a4cd5f95a7ed58ef871ab79/playstationxboxnintendo.jpg",
-                "url": "https://www.gamingbible.com/news/playstation-xbox-and-nintendo-console-price-hikes-658784-20260707",
-                "source": "GAMINGbible",
-                "date": "2026-07-07T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Search Console Platform Properties Show You Instagram, TikTok, X & YouTube Content Performance",
-                "desc": "Google Search Console can now show how your social and video content perform within Google Search. This includes channels such as Instagram, TikTok, X and YouTube. Google kind of did this before, but now this data is going into the Performance reports, Insights reports, and the achievements section in Search Console.",
-                "image": "https://images.seroundtable.com/google-social-media-analytics-hero-F8jEEckt.jpg",
-                "url": "https://www.seroundtable.com/google-search-console-social-content-performance-41636.html",
-                "source": "Search Engine Roundtable",
-                "date": "2026-07-07T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Orbitals Is Like an Anime-Styled It Takes Two, and So Far We Love It | IGN Preview",
-                "desc": "Orbitals is developer Shapefarm’s first original IP game, with the goal of making a “retro anime experience for two,” as said by creative director Marcos Ramos, Orbitals’ pedigree is exceptionally promising. Jacob Lungden, Orbitals’ game director, worked as level designer and senior level designer on Hazelight’s A Way Out, It Takes Two, and Split Fiction–all well-liked two-player co-op games.",
-                "image": "https://assets-prd.ignimgs.com/2026/07/06/nintendoswitch2-orbitals-screenshot-6-1783367561468.png?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/orbitals-is-like-an-anime-styled-it-takes-two-and-so-far-we-love-it-ign-preview",
-                "source": "IGN",
-                "date": "2026-07-07T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "6 of the most outlandish PC components of all time",
-                "desc": "Join us as we explore some of the PC's most extraordinary hardware, from motherboards with vacuum tubes, to SSDs made entirely out of RAM sticks.",
-                "image": "https://www.club386.com/wp-content/uploads/2026/07/Outlandish-PC-components-of-all-time.jpg",
-                "url": "https://www.club386.com/most-outlandish-pc-components-all-time/",
-                "source": "Club386",
-                "date": "2026-07-07T13:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "From Unilateral Trade Preferences to Supply Chain Partnership: Reimagining AGOA",
+                "desc": "The United States cannot build resilient supply chains, compete with China, or expand American manufacturing without a stronger economic partnership with",
+                "image": "https://milkeninstitute.org/sites/default/files/favicon.ico",
+                "url": "https://milkeninstitute.org/content-hub/insights/unilateral-trade-preferences-supply-chain-partnership-reimagining-agoa",
+                "source": "Milken Institute",
+                "date": "2026-07-07T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Private Tourism Safety Initiative in Nelson Mandela Bay",
+                "desc": "City Lodge Hotels has backed a public-private tourism safety initiative in Nelson Mandela Bay, as 17 newly trained tourism safety officers are deployed across the city's key visitor nodes.",
+                "image": "https://atta.travel/static/509ad121-f041-45ee-89099ad18a141108/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_49ea84f9c2ba/City-Lodge-Hotels-Limited-logo.jpg",
+                "url": "https://atta.travel/resource/city-lodge-hotels-backs-public-private-tourism-safety-initiative-in-nelson-mandela-bay.html",
+                "source": "ATTA Travel",
+                "date": "2026-07-07T15:59:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Torrential rain and floods in West Africa kill dozens",
+                "desc": "Dozens of people have died, and hundreds have been displaced in flooding across West Africa. The World’s Marco Werman speaks with Vincent Ojeh, professor at Taraba State University in Nigeria, about how communities are adapting to what has become a cyclical event.",
+                "image": "https://theworld.org/stories/2026/07/07/torrential-rain-and-floods-in-west-africa-kill-dozens/opengraph-image-4sfyfi?73305d3ca4b495c1",
+                "url": "https://theworld.org/stories/2026/07/07/torrential-rain-and-floods-in-west-africa-kill-dozens",
+                "source": "The World from PRX",
+                "date": "2026-07-07T15:57:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inmate who leaked filmed sex with guard has sentence upped",
+                "desc": "An inmate who filmed himself having sex with a new prison officer and leaked the footage on Snapchat will be in jail even longer. Read more.",
+                "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/07/alicia_novas_declan_winkless-e1783438959382.jpg",
+                "url": "https://torontosun.com/news/world/inmate-leaked-filmed-sex-romps-prison-guard-sentence-upped",
+                "source": "Toronto Sun",
+                "date": "2026-07-07T15:56:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK Comments on UN Resolution Draft on Disinformation",
+                "desc": "UK General Comment on the draft resolution on disinformation. Delivered by UK Human Rights Ambassador, Eleanor Sanders. Thank you, Mr President,The UK",
+                "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+                "url": "https://www.miragenews.com/uk-comments-on-un-resolution-draft-on-1706087/",
+                "source": "Mirage News",
+                "date": "2026-07-07T15:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Return journalist's seized work equipment",
+                "desc": "Mozambican journalist Estácio Valoi is seeking the return of work equipment seized by authorities. Amnesty International calls for protection of journalists.",
+                "image": "https://amnesty.ca/wp-content/uploads/2026/07/Estacio-Valoi-UA.png",
+                "url": "https://amnesty.ca/urgent-actions/mozambique-return-journalists-seized-work-equipment/",
+                "source": "Amnesty International Canada",
+                "date": "2026-07-07T15:55:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Conflict coltan used in technology from major brands",
+                "desc": "Conflict minerals from war-torn DRC likely end up in everyday tech from Sony, Microsoft, Amazon, LG, Vodafone, and others, a new Global Witness investigation reveals.",
+                "image": "https://gw.hacdn.io/media/images/coltan_mining_DRC.original.2e16d0ba.fill-1200x630.jpg",
+                "url": "https://globalwitness.org/en/press-releases/conflict-coltan-used-in-technology-from-major-brands/",
+                "source": "Global Witness",
+                "date": "2026-07-07T15:53:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ghana halts visit by South African President Cyril Ramaphosa amid row over anti",
+                "desc": "Many in Ghana feared his presence would lead to mass protests, and officials say it is postponed for now.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d75c/live/3607f150-7a18-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.com/news/articles/cy8dmelnjk7o",
+                "source": "BBC",
+                "date": "2026-07-07T15:53:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Reform U.K.’s Farage resigns as MP, forces byelection",
+                "desc": "Nigel Farage resigns as MP amid investigations, triggering a byelection while defending his financial dealings and calling for a general election.",
+                "image": "https://th-i.thgim.com/public/incoming/hrgnq0/article71194836.ece/alternates/LANDSCAPE_1200/Britain_Politics_9158_.jpg",
+                "url": "https://www.thehindu.com/news/international/reform-uk-s-farage-resigns-as-mp-forces-byelection/article71194301.ece",
+                "source": "The Hindu",
+                "date": "2026-07-07T15:51:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ireland has 'no immediate plans' to opt in to migrant return hubs, Taoiseach says",
+                "desc": "Plans for migrant return hubs in Europe have been heavily criticised by human rights organisations.",
+                "image": "https://img2.thejournal.ie/article/7094423/river/?height=400&version=7094430",
+                "url": "https://www.thejournal.ie/migrant-returns-hubs-7094423-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-07T15:50:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Equine 'colleagues' can help protect therapists from burnout",
                 "desc": "\"Including a big, warm creature in the therapy space creates a completely different dynamic than what can be achieved in an office,\" said Charlotte Fiskum, associate professor of psychology at the Norwegian University of Science and Technology (NTNU). She has led a study at NTNU demonstrating that equine-assisted therapy helps therapists and protects them from burnout.",
@@ -1806,98 +1896,8 @@
                 "source": "TV BRICS",
                 "date": "2026-07-07T13:03:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "TechReviewAfrica - News Details",
-                "desc": "Your Trusted Tech News Platform",
-                "image": "https://techreviewafrica.com/assets/images/news/2026/07/07/6a4d04a2407c61783432354.jpg",
-                "url": "https://techreviewafrica.com/news/6202/cote-divoire-calls-for-african-led-approach-to-artificial-intelligence-development-at-un-ai-governance-dialogue",
-                "source": "Tech Review Africa",
-                "date": "2026-07-07T13:00:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Global News Highlights: NATO Alliances, Middle East Tensions, and European Heatwaves",
-                "desc": "A summary of recent global events reveals escalating tensions in the Middle East, with Israeli strikes in Gaza and NATO engagements with Gulf Arabs over Hormuz. Europe braces for another deadly heatwave per WHO alerts, while political dynamics shift in Europe with Marine Le Pen's electoral prospects and Italy's diplomatic maneuvers following tensions with Donald Trump.",
-                "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/22_08_2024_21_57_46_4308097.png&width=920&format=jpeg",
-                "url": "https://www.devdiscourse.com/article/politics/3946546-global-news-highlights-nato-alliances-middle-east-tensions-and-european-heatwaves",
-                "source": "Devdiscourse",
-                "date": "2026-07-07T13:00:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AmCham Celebrates America's 250th Anniversary with Independence Day Picnic in Mežaparks",
-                "desc": "More than 1,300 guests, including Latvian and U.S. officials, diplomats, business leaders, and families, gathered in Mežaparks ...",
-                "image": "https://media.baltictimes.com/media/photos/167934_16052482986a4cf80e8c430_big.jpg",
-                "url": "https://www.baltictimes.com/amcham_celebrates_america_s_250th_anniversary_with_independence_day_picnic_in_me_aparks/",
-                "source": "The Baltic Times",
-                "date": "2026-07-07T12:59:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As Efforts Intensify to Contain Bundibugyo Ebola, Women Remain Most Vulnerable to Its Economic Impact",
-                "desc": "As Efforts Intensify to Contain Bundibugyo Ebola, Women Remain Most Vulnerable to Its Economic Impact Zubaida Baba-Ibrahim (Lead writer) The escalating Bundibugyo Ebola outbreak has sparked renewed …",
-                "image": "https://miro.medium.com/v2/resize:fit:1200/1*DcCQ6jlmhGl0RgHG7NOs8A.png",
-                "url": "https://nigeriahealthwatch.medium.com/as-efforts-intensify-to-contain-bundibugyo-ebola-women-remain-most-vulnerable-to-its-economic-8fbe29703bbc",
-                "source": "Medium",
-                "date": "2026-07-07T12:55:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The cost of freedom of expression, human rights for individuals and preventing the demise of democracy",
-                "desc": "Yet as a price for practicing public interest journalism, I have become a target of Mnangagwa, the Crocodile as he is known",
-                "image": "https://cdn.thestandard.co.zw/images/newsday/uploads/2026/07/jgnCEO4m6Rb4CtEoIDLkywO8vmhn0yUSgws6XOQV.jpg",
-                "url": "https://www.newsday.co.zw/local-news/article/200058095/the-cost-of-freedom-of-expression-human-rights-for-individuals-and-preventing-the-demise-of-democracy",
-                "source": "NewsDay Zimbabwe",
-                "date": "2026-07-07T12:54:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa urged to back women in STEM",
-                "desc": "by THEMBAKAZI SITHOLE JOHANNESBURG, (CAJ News) – AFRICA'S digital transformation will fall short unless women are placed at the centre of efforts to develop the continent’s expanding digital infrastructure, delegates at the Pan African DataCentres Exhibition and Conference 2026 have been told. Nancy Mwadime of Women in Sustainable Engineering and Technology (WiSET), a Kenya-based non-profit",
-                "image": "https://cajnewsafrica.com/wp-content/uploads/2025/11/cropped-caj-logo-new-1-32x32.jpg",
-                "url": "https://cajnewsafrica.com/2026/07/07/africa-urged-to-back-women-in-stem/",
-                "source": "CAJ News Africa",
-                "date": "2026-07-07T12:54:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "French court opens door for Marine Le Pen to run for president, with ankle tag",
-                "desc": "A French appeal court on Tuesday upheld Marine Le Pen's conviction for misusing EU funds but shortened her ban on running for public office.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108123725-17434428642025-03-31t173845z_254719713_rc2hodaqk566_rtrmadp_0_france-politics-lepen.jpeg?v=1743442928&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/07/french-court-opens-door-for-marine-le-pen-to-run-for-president-with-ankle-tag.html",
-                "source": "CNBC",
-                "date": "2026-07-07T12:54:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya 'Birdman' is internet hit but worries health officials",
-                "desc": "A formerly homeless man in Nairobi has become a viral sensation after years of rescuing and living with injured birds, but authorities are worried about disease risks.",
-                "image": "https://images.euronews.com/articles/stories/09/82/87/42/1024x538_cmsv2_3b7841ba-14d4-5297-8cba-f906dcb3124a-9828742.jpg",
-                "url": "https://www.africanews.com/2026/07/07/kenya-birdman-is-internet-hit-but-worries-health-officials/",
-                "source": "africanews.com",
-                "date": "2026-07-07T12:52:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Top 10 countries with the most submarines in 2026",
-                "desc": "Russia and the US tie for the most submarines in 2026 with 66 each. See the full top 10 ranking, including China, Iran, India and more. Read more.",
-                "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/07072026/43b3d499-27d1-4ebb-9a6e-79ada1eebb0e.webp?operations=autocrop(1200:630)",
-                "url": "https://www.pulse.com.gh/story/top-10-countries-with-the-most-submarines-in-2026-2026070712425137090",
-                "source": "Pulse Ghana",
-                "date": "2026-07-07T12:52:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa",
-                "desc": "The collaboration will combine AfricaNenda’s technical expertise, policy expertise, and ecosystem leadership with Equity Group’s extensive regional footprint, digital payments capabilities, and implementation experience to accelerate the adoption of Digital Public Infrastructure across Africa.",
-                "image": "https://techafricanews.com/wp-content/uploads/2026/07/Equity-.png",
-                "url": "https://techafricanews.com/2026/07/07/equity-africanenda-and-gates-foundation-partner-to-advance-digital-public-infrastructure-across-africa/",
-                "source": "TechAfrica News",
-                "date": "2026-07-07T12:51:31Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T03:40:44.212901Z"
+    "lastGlobalSync": "2026-07-08T04:00:46.163088Z"
 }
