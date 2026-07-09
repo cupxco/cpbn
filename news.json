@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Non-genotoxic transplantation and in vivo selection through epitope editing",
+                "desc": "The short-term and long-term effects of genotoxic pre-transplant conditioning remain barriers to the broader application of haematopoietic stem/progenitor cell (HSPC) transplantation and gene therapies1–4. Although monoclonal antibodies targeting KIT have been proposed as alternatives to chemotherapy or radiotherapy5–7, their pharmacokinetics hinder clinical applications owing to the risk of depleting transplanted HSPCs. Here, to address this issue, we identified amino acid changes in the extracellular domain of KIT that disrupt the binding of two therapeutic monoclonal antibodies8,9, which impair stem cell factor (SCF)-mediated signalling without affecting KIT expression or functionality. We exploited adenine base editing10 or prime editing11 to efficiently introduce these mutations in HSPCs and combined them with the disruption of the BCL11A erythroid enhancer to promote expression of fetal haemoglobin (HbF)12,13, a therapeutic approach for several haemoglobinopathies. This strategy enables in vivo co-selection of gene-engineered cells to reach the threshold required to provide therapeutic benefit in patients affected by sickle cell disease and β-thalassaemia. We show progressive enrichment of KIT plus BCL11A multiplex-edited haematopoiesis under selective pressure with KIT monoclonal antibody, in vitro and in vivo. We report that extended treatment with anti-KIT regimens leads to superior in vivo enrichment while avoiding clonal selection, as assessed by a lentiviral barcoded library. Finally, by overcoming the limitations of monoclonal antibody pharmacokinetics, epitope editing enables novel haematopoietic replacement regimens that are not limited by on-target graft elimination, allowing prolonged immune-based conditioning that maximizes haematopoietic niche clearance without chemo-radiotherapy or monoclonal antibody wash-out. Epitope editing of KIT enables antibody-based, non-genotoxic conditioning that selectively enriches therapeutic BCL11A-edited haematopoietic stem/progenitor cells, supports durable engraftment, preserves clonal diversity and enhances induction of fetal haemoglobin, a therapeutic approach for conditions such as sickle cell disease and β-thalassemia.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10737-8/MediaObjects/41586_2026_10737_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41586-026-10737-8?error=cookies_not_supported&code=b9bfbdd7-9346-4c9c-905e-82784482568c",
+                "source": "Nature",
+                "date": "2026-07-08T15:36:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Reinforcement learning control of quantum error correction",
+                "desc": "Quantum error correction (QEC) is the primary strategy for protecting a quantum computer from the environment1,2. The prerequisite of QEC is that errors must remain sufficiently rare, which requires perpetually adapting the control parameters of the computer to the drifting environmental conditions. The current solution to this problem is to terminate the entire quantum computation for recalibration, but it is incompatible with the long runtimes of future quantum algorithms3,4. Here we address this challenge by unifying calibration with computation. We grant the QEC process5–11 a dual role: its error-detection events are not only used to correct the logical quantum state but are also repurposed as a learning signal, teaching a reinforcement learning agent12–16 to continuously steer the control parameters and stabilize the quantum system during computation. We experimentally demonstrate this framework on a Willow superconducting processor, improving the logical stability of the surface code 3.5-fold against injected drift. By synthesizing our full suite of technological advances, we achieve record performance of the surface and colour codes, with average logical error per cycle of 7.72(9) × 10−4 and 8.19(14) × 10−3, respectively. Numerical simulations of large codes with tens of thousands of control parameters confirm the scalability of our RL framework, revealing an optimization speed that is independent of system size. This work thus enables a new paradigm: a quantum computer that learns from its errors and never stops computing. By integrating reinforcement learning with quantum error correction, a quantum computer continuously self-calibrates during computation, achieving record logical error rates and enhanced resilience to drift.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10759-2/MediaObjects/41586_2026_10759_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41586-026-10759-2?error=cookies_not_supported&code=88dab3b4-1b61-41a8-b4b0-6152a8548546",
+                "source": "Nature",
+                "date": "2026-07-08T15:36:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Reconfigurable mmWave microchips co-integrating hBN switches on GaN",
+                "desc": "Monolithic microwave integrated circuits (MMICs) are an emerging technology that is expected to substantially improve telecommunications in the next few years1,2. MMICs use application-specific semiconductors to meet the performance needs of 5G standards and beyond; however, integrating high-frequency switches into these platforms is very demanding in terms of area and cost and doing so is also a bottleneck for performance3. Memristive radio-frequency switches are an appealing alternative due to their easy fabrication and high device-level electrical performance, but their use in circuit implementations of MMICs has never been realized4. Here we demonstrate programmable millimetre-wave (mmWave) gallium nitride (GaN) MMICs fabricated with memristive radio-frequency switches made from two-dimensional layered hexagonal boron nitride (hBN) integrated directly on the back-end-of-line. We fabricated back-end-of-line wideband switches operating up to 100 GHz with insertion losses as low as 0.3 dB and isolation better than 15 dB. The switches delivered long-term state retention (2 weeks), stable on-state resistance at 175 °C, linear power handling within 0.28 dB measured up to 18 dBm, and an extrapolated 1-dB compression point mean of 30.52 dBm. We use one-transistor, one-memristor cell integration for the switch drivers, achieving 3,250 cycles of endurance, an improvement for two-dimensional-material-based memristive radio-frequency switches. Finally, we demonstrate the implementation of memristive-configurable attenuators, power dividers and programmable resonators on the GaN MMIC platform. Radio-frequency switches made from two-dimensional layered hexagonal boron nitride (hBN) were co-integrated on gallium nitride (GaN) microchips to build programmable millimetre-wave (mmWave) monolithic microwave integrated circuits suitable for 6G hardware.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10761-8/MediaObjects/41586_2026_10761_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41586-026-10761-8?error=cookies_not_supported&code=6d7b5d12-9e99-41bc-bd71-c53dda590994",
+                "source": "Nature",
+                "date": "2026-07-08T15:36:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Intergenerational mobility fosters innovation in Europe",
+                "desc": "The circumstances into which individuals are born can place fundamental constraints on their future economic opportunities1–5, leading to a mismatch between talent, education and occupation. One major determinant of this inequality of opportunity is the absence of intergenerational educational mobility2. Here we extend existing knowledge on intergenerational mobility by presenting The European Atlas of Spatially Disaggregated Intergenerational Mobility (EUROPE-IGM-ATLAS), a panel database comprising indicators of intergenerational mobility for European subnational regions. In doing so, we make two contributions. First, we extend existing knowledge on the development of intergenerational mobility in European regions. The EUROPE-IGM-ATLAS reveals several spatiotemporal trends that characterize the changing geography of opportunity in Europe. For example, we show that observed increases in intergenerational mobility primarily stem from improvements in educational achievements among individuals from families at the lower end of the educational distribution, with fewer changes in rank across the educational spectrum. However, these increases are not uniformly distributed. Regions with a high degree of educational inequality also exhibit lower levels of intergenerational mobility, implying the co-existence of inequality both within and between generations. Second, we use this database to provide evidence on the relationship between intergenerational mobility and innovation. We provide large-scale time-series evidence that European regions with higher intergenerational mobility achieve higher innovation outcomes, one important driver of economic growth. Subsets of results further indicate that this relationship is nonlinear and that distinct mechanisms operate in major innovation hubs. The EUROPE-IGM-ATLAS reveals spatiotemporal trends that characterize the changing geography of opportunity in Europe and its relationship with regional innovation.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10736-9/MediaObjects/41586_2026_10736_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41586-026-10736-9?error=cookies_not_supported&code=61b90cd8-e065-4b7b-aca8-e417d7aeacb6",
+                "source": "Nature",
+                "date": "2026-07-08T15:36:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zimbabwe's top critical mineral could be in focus as the US commits $300 million to detach from China",
+                "desc": "The United States recent drive to secure critical mineral supplies may open up opportunities for Zimbabwe, Africas largest lithium producer, as Washington seeks to lessen its reliance on China for battery materials. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/6T1ktkpTURBXy81YmI5NTdiNzk1NzgwZGNiZDJiODg0NmE1ZjAxZWEyMi5qcGeSlQMAzE7NB4DNBDiTBc0EsM0Cdg",
+                "url": "https://africa.businessinsider.com/local/markets/zimbabwes-top-critical-mineral-could-be-in-focus-as-the-us-commits-dollar300-million/bf9l066",
+                "source": "Business Insider Africa",
+                "date": "2026-07-08T15:35:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Harris defends likely borrowing for funds even as Irish interest bill set to double",
+                "desc": "National Treasury Management Agency warns that interest bill on track to double to about €6bn",
+                "image": "https://www.irishtimes.com/resizer/v2/Y2LX3B2HEFGMXH5FEUVJVFJYYE.jpg?smart=true&auth=df88f6ee7349307059b983922071c7331a1c846c2798e5bb2c0fe88f47b9eace&width=1200&height=630",
+                "url": "https://www.irishtimes.com/business/2026/07/08/harris-defends-likely-borrowing-for-funds-even-as-irish-interest-bill-set-to-double/",
+                "source": "The Irish Times",
+                "date": "2026-07-08T15:34:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Snabbit claims 1.51 million order mark in June, overtakes Urban Company and Pronto",
+                "desc": "The fast-growing instant home services market is witnessing a close race for leadership as startups rapidly scale operations and attract fresh capital.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260324054117_home-services.png",
+                "url": "https://www.moneycontrol.com/news/business/startup/snabbit-claims-1-51-million-order-mark-in-june-overtakes-urban-company-and-pronto-13969278.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-08T15:34:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "YNH Property, Chin Hin Group Property, PRG Holdings, Hektar REIT, Infomina, Eita Resources, Pan Merchant",
+                "desc": "Here is a brief recap of some business news and corporate announcements that made the headlines on Wednesday.",
+                "image": "https://assets.theedgemarkets.com/CITN Companies-in-the-news_theedgemalaysia_10.jpg",
+                "url": "https://theedgemalaysia.com/node/809948",
+                "source": "The Edge Malaysia",
+                "date": "2026-07-08T15:32:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
+                "desc": "How to hit the 3.5% of GDP defence spending promise would be a matter for ‘the next prime minister’, MPs told",
+                "image": "https://i.guim.co.uk/img/media/74be507303f27aac2281af5d24f3edcfb60b7be0/584_0_4413_3531/master/4413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c6aca4b20b68ae58ab954d93c0b3c6f",
+                "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
+                "source": "The Guardian",
+                "date": "2026-07-08T15:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Accenture faces massive data breach that could put clients at risk",
+                "desc": "The threat actor claiming responsibility says they stole source code, encryption keys and more.",
+                "image": "https://imgproxy.divecdn.com/VVtjtEKUz8nPCDQWlYBZbkL40z_5_gjNSFhjUHDLt7Y/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTU0MDM4Mzg0LmpwZw==.webp",
+                "url": "https://www.cybersecuritydive.com/news/accenture-data-breach-access-keys-source-code/824694/",
+                "source": "Cybersecurity Dive",
+                "date": "2026-07-08T15:30:05Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Full list of London trains cancelled amid punishing 34C heatwave",
                 "desc": "Some train companies are warning customers to travel ‘only if essential’ - while a number of services have been cancelled",
                 "image": "https://static.standard.co.uk/2026/07/06/07/2282678354..?width=1200&auto=webp&quality=75",
@@ -542,99 +632,99 @@
                 "source": "BBC",
                 "date": "2026-07-08T12:37:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Research: AI Is Changing What Employers Want from New Hires",
-                "desc": "Generative AI is transforming what employers expect from knowledge workers—not by replacing expertise but by raising the bar for it. A study of three sectors that recruit the largest proportion of MBA graduates found that three capabilities will distinguish successful professionals: taking on broader, AI-enabled roles; synthesizing knowledge across functions to accelerate innovation; and redesigning workflows around intelligent agents. The winners will be those who pair domain expertise with AI fluency, critical judgment, and systems thinking.",
-                "image": "https://hbr.org/resources/images/article_assets/2026/07/Jul26_08_2225158581.jpg",
-                "url": "https://hbr.org/2026/07/research-ai-is-changing-what-employers-want-from-new-hires",
-                "source": "Harvard Business Review",
-                "date": "2026-07-08T12:36:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Silver Price Falls After Trump's Iran Announcement",
-                "desc": "Silver has come under heavy pressure following the latest escalation in the Middle East. Instead of benefiting from increased demand for safe haven assets, the metal continues to decline.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250988108/image_2250988108.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4920592-silver-price-falls-after-trump-iran-announcement",
-                "source": "Seeking Alpha",
-                "date": "2026-07-08T12:35:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DOE halts landmark offshore wind power auction on geopolitical, infra risks",
-                "desc": "The Department of Energy (DOE) has indefinitely suspended its landmark fifth round of the Green Energy Auction Program (GEA-5), dealing a temporary setback to...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/08/114691.webp",
-                "url": "https://mb.com.ph/2026/07/08/doe-halts-landmark-offshore-wind-power-auction-on-geopolitical-infra-risks",
-                "source": "Manila Bulletin",
-                "date": "2026-07-08T12:34:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wednesday's analyst calls include stocks like SpaceX and Nvidia",
-                "desc": "Here are the biggest calls on Wall Street on Wednesday.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108229166-17636513992025-10-30t064536z_324939231_rc2648axhrak_rtrmadp_0_usa-trump-nvidia.jpeg?v=1763651419&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/08/wednesdays-analyst-calls-include-stocks-like-spacex-and-nvidia.html",
-                "source": "CNBC",
-                "date": "2026-07-08T12:32:13Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Bezos' Blue Origin valued at $130 billion in first public fundraising round",
-                "desc": "Bezos' Blue Origin is raising outside capital in a round valuing the rocket company at $130 billion, sources told CNBC's Andrew Ross Sorkin.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108329324-1782915391897-gettyimages-2282054038-_r7a3045_tx8qn1qc.jpeg?v=1782922841&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html",
-                "source": "CNBC",
-                "date": "2026-07-08T12:32:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rs 12 Lakh Japanese SUV Launching Tomorrow",
-                "desc": "Planning to buy a new mid-size SUV? Well, the cheapest Japanese SUV will be launching tomorrow and here are all the details. - Nissan Tekton",
-                "image": "https://motoroctane.com/wp-content/uploads/2026/07/Nissan-Tekton-Launching-Tomorrow-4.jpg",
-                "url": "https://motoroctane.com/news/317090-rs-12-lakh-japanese-suv-launching-tomorrow",
-                "source": "MotorOctane",
-                "date": "2026-07-08T12:30:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Air Peace Welcomes First Brand-New Embraer E175 To Boost Fleet And Route Network",
-                "desc": "Air Peace takes delivery of its first brand-new Embraer E175, expanding fleet capacity and strengthening domestic and regional connectivity.",
-                "image": "https://global.ariseplay.com/amg/www.arise.tv/uploads/2026/07/Air-Peace-takes-delivery-of-its-first-brand-new-Embraer-E175-expanding-fleet-capacity-and-strengthening-domestic-and-regional-connectivity.jpeg",
-                "url": "https://www.arise.tv/air-peace-welcomes-first-brand-new-embraer-e175-to-boost-fleet-and-route-network/",
-                "source": "Arise News",
-                "date": "2026-07-08T12:28:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK and EU responses to the Iran war",
-                "desc": "Explore how UK and EU energy sanctions on Russia are evolving in response to the war in Iran, with key updates on oil, gas, and compliance risks.",
-                "image": "https://www.mishcon.com/assets/managed/images/cache/ABREEAAABUBYOAIAAAAAADIDQ4ARAEAQ74AABDAACMJAUCIAAEAP6.jpg",
-                "url": "https://www.mishcon.com/news/russia-energy-sanctions-briefing-uk-and-eu-responses-to-the-war-in-iran",
-                "source": "Mishcon de Reya LLP",
-                "date": "2026-07-08T12:00:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aston Martin Found A Loophole To Keep V12 Engines Alive",
-                "desc": "Aston Martin CEO says keeping V12 sales under 1,000 units per year grants exemption from EU and US regulations until at least 2035.",
-                "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/08/aston-martin-vanquish-v12-2.png?w=1600&h=900&fit=crop",
-                "url": "https://carbuzz.com/aston-martin-v12-engine-legal-loophole/",
-                "source": "CarBuzz",
-                "date": "2026-07-08T12:00:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bank of Canada told to not use replacement workers",
-                "desc": "Bank has contravened Canada Labour Code by using contractors and the services of union members during security worker strike, says Canada Industrial Relations Board",
-                "image": "https://www.theglobeandmail.com/resizer/v2/25Z7FMI2DZFGBMOGCYQFPYUMH4.jpg?auth=abb7d83c5514d899a61488303764996ac54519269d0ad9440c59df92e27b5298&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/canada/article-bank-of-canada-strike-replacement-workers-security-officers/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-08T12:00:03Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "DuckDuckGo's Browser to Block YouTube Ads by Default",
+                "desc": "The browser is using filters from the uBlock Origin ad blocker to detect and block commercials on YouTube's website. But there is a trade-off.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/d/duckduckgo/duckduckgos-browser-to-block-youtube-ads-by-default_rde1.1200.jpg",
+                "url": "https://au.pcmag.com/video-streaming-services/118665/duckduckgos-browser-to-block-youtube-ads-by-default",
+                "source": "PCMag Australia",
+                "date": "2026-07-08T15:40:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A new invention helps paralyzed hands grasp objects again",
+                "desc": "What's the invention? Who created it? How does it work?",
+                "image": "https://www.deseret.com/resizer/v2/NCHURNLDUNHIRI2JUA4SU4CV5I.jpg?focal=0%2C0&auth=0b33f42284cf3c31712ded45759fffd77fb7af5fd3ce2a7778a2b91368c9b9c0&width=630&height=331",
+                "url": "https://www.deseret.com/lifestyle/2026/07/08/new-study-glove-paralyzed-hands/",
+                "source": "Deseret News",
+                "date": "2026-07-08T15:37:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Observation of Floquet rotational super-radiance",
+                "desc": "Time-driven systems provide a framework for controlling waves through spatio-temporal modulation, which enables the synthesis of effective motion without mechanical displacement1–7. Within this framework, travelling-wave modulations can emulate moving media and give rise to phenomena such as Doppler-induced non-reciprocity8–10. A related effect is the extraction of energy from rotating media, which has been theoretically predicted to occur when waves experience sufficiently large rotational Doppler shifts11–17. Experimental access to this regime has remained limited due to the extreme rotation speeds required in mechanically rotating systems18–21. Here we show that Floquet-induced rotation enables access to such ultrafast rotational regimes using purely spatio-temporal modulation. When spinning at effective superluminal speeds, angular-momentum bandgaps emerge in the band structure of the underlying space–time crystal. These gaps host parametric processes that efficiently extract energy from the Floquet-rotating medium, resulting in angular-momentum-selective amplification of orbital waves within a dissipation-shaped spectral bandwidth. We realize this effect experimentally in a ring network of time-modulated resonators, where we observe a Floquet regime of rotational super-radiance mediated by non-Hermitian and parametric dynamics in space–time structured media. These results demonstrate a controllable platform for studying rotational energy transfer and angular-momentum-dependent wave amplification in space–time-modulated media. A Floquet regime of rotational super-radiance has been observed in a spatiotemporally modulated ring network of resonators.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10725-y/MediaObjects/41586_2026_10725_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41586-026-10725-y?error=cookies_not_supported&code=8a218cce-96db-406b-948c-b1f254dcde26",
+                "source": "Nature",
+                "date": "2026-07-08T15:36:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Universal cell embedding provides a foundation model for cell biology",
+                "desc": "Developing a universal representation space for cells that encompasses the tremendous molecular diversity of cell types across species would be transformative for cell biology. Recent work using single-cell transcriptomic approaches to create molecular definitions of cell types in the form of cell atlases has provided the necessary data for such an endeavour1–3. Here we present the universal cell embedding (UCE) foundation model. UCE was trained on a large corpus of cell data using self-supervision, creating a unified biological latent space that can represent cells across diverse tissues and species. This latent space captures important biological variation despite the presence of experimental noise. UCE’s universality means that new cells can be embedded with no data labelling, model training or fine-tuning. We used UCE to create the Integrated Mega-scale Atlas, embedding 36 million cells, with more than 1,000 uniquely named cell types, from hundreds of experiments, dozens of tissues and eight species. We gain insights into the organization of cell types and tissues within the space. UCE’s embedding space exhibits emergent behaviour, identifying biology that it was never trained for, such as identifying developmental lineages and embedding data from species that were not included in the training set. Overall, by enabling a universal representation for every cell state and type, UCE is a valuable tool for analysis, annotation and hypothesis generation over single-cell data. The universal cell embedding foundation model learns to capture the organization and variation of cells by training on 36 million cells from hundreds of experiments, dozens of tissues and eight species.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10689-z/MediaObjects/41586_2026_10689_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41586-026-10689-z?error=cookies_not_supported&code=6db092ae-68ac-45e7-ad09-90762db6e909",
+                "source": "Nature",
+                "date": "2026-07-08T15:36:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Chrome will remove older Manifest V2 extensions in August",
+                "desc": "The death of Manifest V2 extensions on Google Chrome has been going on for well over four years at this...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/07/google-chrome-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/08/google-chrome-will-remove-older-manifest-v2-extensions-in-august/",
+                "source": "9to5Google",
+                "date": "2026-07-08T15:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SURVIVE THE THEME PARK FROM HELL IN",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/SURVIVE-THE-THEME-PARK-FROM-HELL-IN-TWISTED-TOWER-COMING-TO-STEAM-AUGU",
+                "source": "Games Press",
+                "date": "2026-07-08T15:34:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What Qualcomm modems does Apple use?",
+                "desc": "Even after the arrival of its in-house modems, Apple's product lines still mostly rely on Qualcomm for cellular hardware. Here are all the Qualcomm chips Apple uses.",
+                "image": "https://photos5.appleinsider.com/gallery/68188-143742-65609-137316-IMG_3643-xl-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/07/08/all-the-qualcomm-parts-used-in-the-iphone-ipad-apple-watch-and-more",
+                "source": "AppleInsider",
+                "date": "2026-07-08T15:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mortal Shell 2 Drops a Bloody New Trailer, With A Release Date in August",
+                "desc": "Cold Symmetry is back at it again with a new trailer for their upcoming sequel, Mortal Shell 2, and it's coming sooner than fans think.",
+                "image": "https://www.cgmagonline.com/wp-content/uploads/2026/07/mortal-shell-2-drops-a-bloody-new-trailer-with-release-date-in-august-1390.jpg",
+                "url": "https://www.cgmagonline.com/news/mortal-shell-2-new-trailer-release-date/",
+                "source": "CGMagazine",
+                "date": "2026-07-08T15:30:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Assassin’s Creed: Black Flag Resynced boasts unique ship combat in an unmatched world",
+                "desc": "Avast ye! Dust off that black flag and practise singing your sea shanties because Assassins Creed: Black Flag is back as Resynced, the same game you loved, now with eye-popping visuals",
+                "image": "https://th-i.thgim.com/public/news/cities/bangalore/y9rlyl/article71199271.ece/alternates/LANDSCAPE_1200/assets_2026_06_1780499129_ACBFR_Keyart_Cast_16x9_NoTitle.jpg",
+                "url": "https://www.thehindu.com/sci-tech/technology/assassins-creed-black-flag-resynced-boasts-unique-ship-combat-in-an-unmatched-world/article71192343.ece",
+                "source": "The Hindu",
+                "date": "2026-07-08T15:27:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bithell Games Reveals Vampirium: 1997, An Immersive Sim Where You Work As An Assassin For Dracula",
+                "desc": "Eliminate threats while adapting to living enviornments to preserve Dracula's empire.",
+                "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/07/08/d8444320/vampirium-1997-art.jpg.webp",
+                "url": "https://gameinformer.com/2026/07/08/bithell-games-reveals-vampirium-1997-an-immersive-sim-where-you-work-as-an-assassin-for",
+                "source": "Game Informer",
+                "date": "2026-07-08T15:27:09Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Beni Is a Cute Autonomous Camera Robot On Wheels",
                 "desc": "Beni is a cute autonomous camera robot that can jump, has a \"face,\" and follows the user around while they do fun things.",
@@ -1174,99 +1264,99 @@
                 "source": "Forbes",
                 "date": "2026-07-08T12:53:25Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "adidas’ Samba Jane Gets a Taste for the Dark Side",
-                "desc": "Discover the adidas Samba Jane in a rich dark chocolate colorway, reimagining the iconic Samba silhouette with a playful Mary Jane strap and street style.",
-                "image": "https://www.highsnobiety.com/static-assets/dato/1783414560-samba_jane_shoes_brown_hq9495_hm5.png",
-                "url": "https://www.highsnobiety.com/p/adidas-samba-jane-aurora-coffee/",
-                "source": "Highsnobiety",
-                "date": "2026-07-08T12:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Voiskey Officially Launches: The First AI Voice Typing App Focused on Expression Intelligence",
-                "desc": "Powered by its proprietary Expression Intelligence model, Voiskey transforms spontaneous verbal speech into context-aware high-quality text.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1129552.jpg",
-                "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/pr-newswire/voiskey-officially-launches-the-first-ai-voice-typing-app-focused-on-expression-intelligence/2380781",
-                "source": "The Manila Times",
-                "date": "2026-07-08T12:35:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The retreat from mobile games continues as Mario Kart Tour and Final Fantasy 7 Ever Crisis will be taken offline later this year",
-                "desc": "Two of Nintendo and Square Enix's biggest mobile games will go offline this year as gaming giants continue to rethink their overall strategies.",
-                "image": "https://assetsio.gnwcdn.com/Mario-Kart-Tour-key-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/mobile-games-mario-kart-tour-ff7-ever-crisis-shut-down",
-                "source": "Eurogamer.net",
-                "date": "2026-07-08T12:32:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Strymon unveils TimeLine MX, the \"most powerful delay ever\"",
-                "desc": "Featuring 12 delay engines, some all-new sounds and the ability to run two of them together, expanded routing options, OLED display, and more powerful under the hood...",
-                "image": "https://cdn.mos.cms.futurecdn.net/DXgsXp5cBMHDgiKtSJCif5-2100-80.jpg",
-                "url": "https://www.musicradar.com/guitars/strymon-timeline-mx-delay-pedal",
-                "source": "MusicRadar",
-                "date": "2026-07-08T12:32:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "You can complete medieval vampire RPG The Blood of Dawnwalker even quicker than previously thought - before even the prologue ends",
-                "desc": "The limiting factor will be whether you're good enough to do it, and most of you - most of us - will not be.",
-                "image": "https://assetsio.gnwcdn.com/blood-of-dawnwalker-vampire-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/blood-of-dawnwalker-beat-game-prologue-brencis",
-                "source": "Eurogamer.net",
-                "date": "2026-07-08T12:32:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Switch Online Subscriber? Delivery From Nintendo Store Is Now Practically Free (Europe)",
-                "desc": "Well, for everything over £1 - If you're a paid Nintendo Switch Online subscriber, Nintendo has just added another neat little benefit. Starting today, NSO...",
-                "image": "https://images.nintendolife.com/8d63fccdef76d/large.jpg",
-                "url": "https://www.nintendolife.com/news/2026/07/switch-online-subscriber-delivery-from-nintendo-store-is-now-practically-free-europe",
-                "source": "Nintendo Life",
-                "date": "2026-07-08T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Unexpected Windows bloat is due to bug, not by design",
-                "desc": "Mystery of the disappearing storage solved (for some)",
-                "image": "https://image.theregister.com/235426.jpg?imageId=235426&x=0&y=5&cropw=100&croph=71.67&panox=0&panoy=5&panow=100&panoh=71.67&width=1200&height=683",
-                "url": "https://www.theregister.com/storage/2026/07/08/unexpected-windows-bloat-is-due-to-bug-not-by-design/5268215",
-                "source": "The Register",
-                "date": "2026-07-08T12:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ivermectin Not Cancer Cure, Influencers Mislead Public",
-                "desc": "Though researchers have been studying the animal deworming drug ivermectin for decades, there is no evidence that it's a safe or effective way to",
-                "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fuploads%2F1412533519888a485b488%2Fbb9f9777%3Fixid%3DMXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%253D%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1350%26amp%3Bq%3D80",
-                "url": "https://www.miragenews.com/ivermectin-not-cancer-cure-influencers-mislead-1706771/",
-                "source": "Mirage News",
-                "date": "2026-07-08T12:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pimbolas Blends Chaos, Soccer, and Fun",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/ko-KR/Pimbolas-Blends-Chaos-Soccer-and-Fun",
-                "source": "Games Press",
-                "date": "2026-07-08T12:23:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Blink imaging laser scanner receives iF Design Award 2026",
-                "desc": "The scanner was recognized in Product Design and Industry categories from a field of more than 10,000 entries.",
-                "image": "https://www.engineering.com/wp-content/uploads/2026/07/Blink-imaging-laser-scanner-receives-iF-Design-Award-2026.jpg",
-                "url": "https://www.engineering.com/blink-imaging-laser-scanner-receives-if-design-award-2026/",
-                "source": "Engineering.com",
-                "date": "2026-07-08T12:23:36Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Led Civil Society Networks Across Africa, Asia, MENA and Latin America",
+                "desc": "Civil society organizations, community-based organizations, networks and coalitions working to defend civic freedoms now have an opportunity to access",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/our.png",
+                "url": "https://www.globalsouthopportunities.com/2026/07/08/regional-10/",
+                "source": "Global South Opportunities",
+                "date": "2026-07-08T15:40:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Forget Santorini: The European islands ranked best for nature, food and sun",
+                "desc": "A new ranking by British travel company Saga names Europe's best islands based on weather, nature and dining; Spain and Croatia dominate the top 10, while famous Greek and Italian islands fail to make the overall list",
+                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/09/ByMfgLkisJl/ByMfgLkisJl_0_53_1000_563_0_large.jpg",
+                "url": "https://www.ynetnews.com/travel/article/sjk2yjnqmg",
+                "source": "Ynetnews",
+                "date": "2026-07-08T15:39:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sierra Leone to Host Third UN Tourism Africa Gastronomy Forum in December 2026",
+                "desc": "Sierra Leone has confirmed its readiness to host the third edition of the UN Tourism Africa Gastronomy Forum, scheduled for 2 to 4 December 2026",
+                "image": "https://atta.travel/assets/img/favicon/favicon-96.png",
+                "url": "https://atta.travel/resource/sierra-leone-to-host-third-un-tourism-africa-gastronomy-forum-in-december-2026.html",
+                "source": "ATTA Travel",
+                "date": "2026-07-08T15:39:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Visitor Registration Opens for AFRIDEX 2026 as Nigeria Prepares to Host Africa's Premier Defence &..",
+                "desc": "Protocol-led platform to bring together governments, armed forces and industry leaders from across Africa and around the world\nVisitor...",
+                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-08-120425000.jpg",
+                "url": "https://www.businessghana.com/site/news/General/351674/Visitor-Registration-Opens-for-AFRIDEX-2026-as-Nigeria-Prepares-to-Host-Africa&",
+                "source": "BusinessGhana",
+                "date": "2026-07-08T15:30:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
+                "desc": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7fa2/live/54d324f0-7ae1-11f1-9a9c-53fd8f110370.jpg",
+                "url": "https://www.bbc.com/news/articles/cy8we3j14ndo",
+                "source": "BBC",
+                "date": "2026-07-08T15:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
+                "desc": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7fa2/live/54d324f0-7ae1-11f1-9a9c-53fd8f110370.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo",
+                "source": "BBC",
+                "date": "2026-07-08T15:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flight school pilot jumps to his death midair, leaving student to land plane",
+                "desc": "A pilot jumped out of the door of a moving plane to his death, leaving the student he was teaching to fly to land the aircraft by herself.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-07-08-at-11-21-08-am.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/08/americas/argentina-pilot-death-scli-intl",
+                "source": "CNN",
+                "date": "2026-07-08T15:29:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Looksmaxxing influencer Connor Murphy drowns in Thailand after fleeing police: reports",
+                "desc": "The bodybuilder had reportedly been living in Southeast Asia with his girlfriend before his death",
+                "image": "https://static.the-independent.com/2026/07/08/12/31/connormurphyofficial_1720807413_3410702248160251401_2267395118.jpeg?trim=70,0,410,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.the-independent.com/life-style/connor-murphy-dead-bodybuilder-looksmaxxing-thailand-b3011313.html",
+                "source": "The Independent",
+                "date": "2026-07-08T15:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran's ‘finger on the trigger’ response to Donald Trump's truce ‘over’ declaration",
+                "desc": "Donald Trump said that the interim agreement to end the war with Iran was \"over\" on Wednesday after Tehran carried out new attacks on US bases in the Gulf. | World News",
+                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/08/550x309/Turkey-NATO-Summit-Trump-126_1783524624608_1783524641681_ca9413ba-9d80-4ec2-b174-75e8012c0f7d.jpg",
+                "url": "https://www.hindustantimes.com/world-news/iran-finger-on-the-trigger-response-to-donald-trump-truce-over-declaration-us-west-asia-war-101783500995359.html",
+                "source": "Hindustan Times",
+                "date": "2026-07-08T15:24:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenya Tourism Board Named Lead Destination Partner for Africa Global PR Week 2026",
+                "desc": "The Kenya Tourism Board (KTB) has been confirmed as the Lead Destination Partner for Africa Global PR Week (AGPRW) 2026, taking place in Nairobi from 26 to 28 August 2026.",
+                "image": "https://atta.travel/static/f65dc5e0-45d5-4c24-86694773918d3176/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_49ea84f9c2ba/KTB-Logo.jpg",
+                "url": "https://atta.travel/resource/kenya-tourism-board-named-lead-destination-partner-for-africa-global-pr-week-2026.html",
+                "source": "ATTA Travel",
+                "date": "2026-07-08T15:24:11Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Cargo plane wreckage found off Pakistan’s coast as search continues for 5 missing crew",
                 "desc": "Civilian and navy searchers off Pakistan’s coast Wednesday located and recovered wreckage of a cargo plane that disappeared while approaching the southern port of Karachi, and a search continues for five missing crew members, officials said.",
@@ -1806,98 +1896,8 @@
                 "source": "BusinessGhana",
                 "date": "2026-07-08T12:40:23Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "International Rescue Committee is Seeking a Project Coordinator to Support AI",
-                "desc": "The International Rescue Committee (IRC) has announced applications for a Project Coordinator position within its Infectious Disease AI and Data Governance",
-                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/05/IRC-Jobs-1-1.webp",
-                "url": "https://www.globalsouthopportunities.com/2026/07/08/project-23/",
-                "source": "Global South Opportunities",
-                "date": "2026-07-08T12:39:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump Again Set His Eyes On Greenland. Denmark's PM…",
-                "desc": "Danish Prime Minister Mette Frederiksen reiterated that the territory is \"not for sale\" after U.S. President Donald Trump again set his eyes on it.",
-                "image": "https://images.inkl.com/s3/article/lead_image/23551951/greenland.jpg",
-                "url": "https://www.inkl.com/news/trump-again-set-his-eyes-on-greenland-denmarks-pm-quickly-came-out-to-challenge-him",
-                "source": "inkl",
-                "date": "2026-07-08T12:38:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paratus and powertel launch zimbabwe fiber corridor phase, ETDatacenters",
-                "desc": "Read paratus and powertel launch zimbabwe fiber corridor phase on datacenters.",
-                "image": "http://datacenters.economictimes.indiatimes.com/_icons/logos/datacenters-logo-header.svg?mod=2",
-                "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/paratus-and-powertel-launch-zimbabwe-fiber-corridor-phase/132263478",
-                "source": "Indiatimes",
-                "date": "2026-07-08T12:35:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Police hunting man after wife and two daughters found dead in Bedfordshire",
-                "desc": "Ndodana Mkhanyisi Tshuma, 45, believed to have left UK for Zimbabwe before bodies of partner and children were discovered",
-                "image": "https://i.guim.co.uk/img/media/912709b27770bf2b503cd6ab4bbf2f34b07ea7ad/75_0_462_370/master/462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64fa3515c590fa3107ed0a78845a3ff4",
-                "url": "https://www.theguardian.com/uk-news/2026/jul/08/police-hunting-man-wife-two-daughters-found-dead-bedfordshire",
-                "source": "The Guardian",
-                "date": "2026-07-08T12:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Growing Up with a Nation: Children Demand a Say in South Sudan’s Future on 15 years of Independence",
-                "desc": "South Sudan gained independence on 9 July 2011 in one of the most celebrated moments in modern African history. Fifteen years later, the country now faces one of the world's largest humanitarian crises.",
-                "image": "https://i.stci.uk/dam/portrait-of-naomi-16-climate-advocate-in-south-sudan-ch11608105.jpg/t08cey44d1l47xkq8du45j8vc41812q5.jpg",
-                "url": "https://www.savethechildren.net/news/growing-nation-children-demand-say-south-sudans-future-15-years-independence",
-                "source": "Save the Children",
-                "date": "2026-07-08T12:31:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan: New Residence Permit Fee Structure from October 1, 2026",
-                "desc": "Immigration Services Agency (ISA) has published details of its revised residence permit fee schedule, which is expected to take effect on October 1, 2026. The revisions introduce a new fee structure for applications to change or extend residence status, replacing the current flat-rate system with fees that vary according to the length of the authorized period of stay granted.  \nUnder the revised…",
-                "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
-                "url": "https://www.fragomen.com/insights/japan-new-residence-permit-fee-structure-from-october-1-2026.html",
-                "source": "Fragomen",
-                "date": "2026-07-08T12:31:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Diocese of Cubao eyes more Latin Masses for ultraconservative Catholic group",
-                "desc": "Diocese of Cubao Bishop Elias Ayuban Jr. has committed to pursue the path of charity and understanding in dealing with members of the Society of Saint Pius X...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/08/114690.webp",
-                "url": "https://mb.com.ph/2026/07/08/diocese-of-cubao-eyes-more-latin-masses-for-ultraconservative-catholic-group",
-                "source": "Manila Bulletin",
-                "date": "2026-07-08T12:31:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU takes Ireland, Spain, France and Netherlands to court over cybersecurity rules",
-                "desc": "The European Commission on Wednesday issued a statement regarding referring the four countries to the EU’s highest court, the Court of Justice.According to the EU executive, the countries...",
-                "image": "https://www.thenews.com.pk/assets/uploads/2026-07-08/1408472_053214_updates.jpg",
-                "url": "https://www.thenews.com.pk/latest/1408472-eu-takes-ireland-spain-france-and-netherlands-to-court-over-cybersecurity-rules",
-                "source": "The News International",
-                "date": "2026-07-08T12:30:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jacinta Zuma Details Next Location for March, Sends Strong Message to South Africans",
-                "desc": "Jacinta Ngobese-Zuma confirms Limpopo as the next location for the anti-immigration March and March protest on 10 July 2026, calling for nationwide participation.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/be333c0b83631682.jpeg?v=1",
-                "url": "https://yen.com.gh/world/307483-jacinta-zuma-details-location-march-sends-strong-message-south-africans/",
-                "source": "Yen News",
-                "date": "2026-07-08T12:29:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "North Belfast attack accused told case going to Crown Court",
-                "desc": "Hadi Alodid, 30, is charged with the attempted murder of Stephen Ogilvie.",
-                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMDgxMjU4NDhcXFwvMi44NDkwNDAzNi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImNjODFiNDkwZjJhNjNjOGRkNzA2ODkzYzQxM2UzODkyZWFhNTI5MDMifQ==/north-belfast-attack-accused-told-case-going-to-crown-court.jpg",
-                "url": "https://www.breakingnews.ie/ireland/north-belfast-attack-accused-told-case-going-to-crown-court-1923984.html",
-                "source": "BreakingNews.ie",
-                "date": "2026-07-08T12:00:18Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T03:00:33.620664Z"
+    "lastGlobalSync": "2026-07-09T03:40:33.790130Z"
 }
