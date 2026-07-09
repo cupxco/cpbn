@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "$12B announced for new train manufacturing site",
+                "desc": "The New South Wales Government has announced it is investing $12 billion to deliver a new train manufacturing facility in the Hunter region.",
+                "image": "https://www.railexpress.com.au/wp-content/uploads/2026/07/Tangara-Train.jpg",
+                "url": "https://www.railexpress.com.au/12b-announced-for-new-train-manufacturing-site/",
+                "source": "Rail Express",
+                "date": "2026-07-08T23:39:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta building its first Canadian data centre northeast of Edmonton",
+                "desc": "Meta has announced it will build a massive one-gigawatt data centre northeast of Edmonton, the company's first such project in Canada.",
+                "image": "https://i.cbc.ca/ais/3426ac2f-c4e7-4cd3-95c3-3113a7afcefc,1783541097625/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C53%2C6263%2C3522%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/edmonton/meta-data-centre-sturgeon-county-alberta-9.7263271",
+                "source": "CBC",
+                "date": "2026-07-08T23:37:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Delta rolls out lower-cost premium cabin fares with fewer perks",
+                "desc": "Delta Air Lines is expanding its basic fare model to premium cabins, giving travelers a lower-cost way to book Delta One, first class and other higher-end seats.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/delta-flight-boston-logan.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/lifestyle/delta-rolls-out-cheaper-first-class-business-fares-fewer-perks-more-ways-choose",
+                "source": "Fox Business",
+                "date": "2026-07-08T23:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vietnam Tourism Growth Surges with Easier Visa Rules, Better Airports, and Modern Infrastructure, Giving Global Travelers a Fresh Reason to Explore Southeast Asia",
+                "desc": "Vietnam tourism growth is accelerating through visa reforms, better airport, transport, offering travelers easier access to Southeast Asia's top attractions.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Vietnam-.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/p38zpqc80bj7/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-08T23:34:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold Price Tests Critical Trendline as Analysts Watch $4,300, Breakout Zone",
+                "desc": "Gold has bounced off of its recent lows as buyers appear around the $4,000 price zone, but technical traders aren't sure if the rebound is the start of a bigger reversal or simply the latest rally within a longer-term downtrend.",
+                "image": "https://bravenewcoin.com/wp-content/uploads/2026/07/Bnc-Jul-4-103.jpg",
+                "url": "https://bravenewcoin.com/insights/gold-price-tests-critical-trendline-as-analysts-watch-4300-breakout-zone",
+                "source": "Brave New Coin",
+                "date": "2026-07-08T23:32:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "When will Hong Kong’s retail leasing market see a turnaround?",
+                "desc": "Analysts say that geopolitical tensions, Beijing’s measures against capital flight and potential rate hikes are adding to uncertainties.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/08/cf8006e6-ae61-434c-a721-dc7304b05471_52d694e7.jpg?itok=oaPenoqS&v=1783500789",
+                "url": "https://www.scmp.com/business/article/3359843/when-will-hong-kongs-retail-leasing-market-see-turnaround",
+                "source": "South China Morning Post",
+                "date": "2026-07-08T23:30:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Westpac first to lift interest rates following OCR hike",
+                "desc": "Westpac is the first bank in the country to raise interest rates following yesterday’s Official Cash Rate hike. The bank announced that it is lifting...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/64UVKWXLONDILEYLDUZJGX5M4I.jpg?auth=095598ad6664ea8692cda766f06d9822f5c825715003c60ab7efff3c246242de&width=1200&height=675&quality=70&focal=348%2C187&smart=false",
+                "url": "https://www.nzherald.co.nz/business/westpac-first-to-lift-interest-rates-following-ocr-hike/SA3XHEYBTNGTPANSN3PTDZJNTA/",
+                "source": "NZ Herald",
+                "date": "2026-07-08T23:27:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MDA Space acquiring 70-per-cent stake in French earth observation company",
+                "desc": "The Canadian technology company is issuing 20 million common shares to fund a portion of the purchase of Collecte Localisation Satellites",
+                "image": "https://www.theglobeandmail.com/resizer/v2/4KPXTDX7UVGRJKXXZY2OZ2YUVI.JPG?auth=10e9250e0b0d0a1bd31432c83d0cbe9c2713612981185bacd24827514db553c4&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/business/article-mda-space-acquiring-70-per-cent-stake-in-french-earth-observation/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-08T23:26:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Warren Buffett's Successor Greg Abel Has Poured More Than $20 Billion of Berkshire Hathaway's Cash Into Alphabet. This May Be Why.",
+                "desc": "Berkshire's new CEO is making one of the boldest bets of the post-Buffett era.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877907%2Falphabet-stock-berkshire.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/08/warren-buffetts-successor-greg-abel-has-poured-mor/",
+                "source": "The Motley Fool",
+                "date": "2026-07-08T23:25:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX Stock Is Down 35% From Its High Just 1 Day After Joining the Nasdaq-100. Is the Dip a Buy?",
+                "desc": "A spot in the index was supposed to be the catalyst. So why are shares back near their post-IPO low?",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878113%2Fis-this-a-buy-the-dip-moment-for-spacex-stock.jpeg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/08/spacex-stock-is-down-35-from-its-high-just-1-day-a/",
+                "source": "The Motley Fool",
+                "date": "2026-07-08T23:20:19Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Tánaiste to attend meeting of EU finance ministers",
                 "desc": "Tánaiste and Minister for Finance Simon Harris will travel to Brussels today for a two-day meeting of EU finance and economy ministers.",
                 "image": "https://www.rte.ie/images/002406ec-1600.jpg",
@@ -542,99 +632,99 @@
                 "source": "NPR",
                 "date": "2026-07-08T20:02:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "India’s $100 Billion Grid Bet Is Accelerating A Solar Manufacturing Boom",
-                "desc": "India is undergoing a historic solar surge, adding a record 44 GW in 2025/26.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_el039tdfgd.jpg",
-                "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Indias-100-Billion-Grid-Bet-Is-Accelerating-A-Solar-Manufacturing-Boom.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-08T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ruh-Roh: Pedigree Recalls 'Fraudulently' Shipped Dog Food",
-                "desc": "Dog owners who stock up on Pedigree might want to check their pantry shelves. Mars Petcare is recalling two lots of its Pedigree High Protein Chopped Chicken & Duck Flavor...",
-                "image": "https://cdn.newser.com/image/1697216-12-20260708153002.jpeg",
-                "url": "https://www.newser.com/story/392426/ruh-roh-pedigree-recalls-fraudulently-shipped-dog-food.html",
-                "source": "Newser",
-                "date": "2026-07-08T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX racing to orbital data centers. Ways to play emerging technology",
-                "desc": "SpaceX’s push toward orbital data centers opens new avenues for AI infrastructure. Wall Street is already mapping the stocks that could benefit.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108321051-1781272758477-IMG_9358.jpg?v=1781272860&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/08/spacex-racing-to-orbital-data-centers-ways-to-play-emerging-technology-.html",
-                "source": "CNBC",
-                "date": "2026-07-08T19:58:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NAAPE plans loss-of-licence insurance scheme for pilots, aircraft engineers",
-                "desc": "The National Association of Aircraft Pilots and Engineers (NAAPE) has unveiled",
-                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/01/A-plane-flying-scaled.jpg",
-                "url": "https://guardian.ng/business-services/aviation-business/naape-plans-loss-of-licence-insurance-scheme-for-pilots-aircraft-engineers/",
-                "source": "The Guardian Nigeria News",
-                "date": "2026-07-08T19:56:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Unintended Consequences Future AI Cyber Risk",
-                "desc": "AI tools can pose elevated cyber risks by accelerating vulnerability discovery and exploitation. Learn what business leaders need to know.",
-                "image": "https://www.fticonsulting.com/-/media/images/shared-content/insights/articles/2026/jul/unintended-consequences-future-ai-cyber-risk_1200x627_center.jpeg?rev=881eaa0adca542dfbe0d91bd75e73c8b",
-                "url": "https://www.fticonsulting.com/insights/articles/unintended-consequences-future-ai-cyber-risk",
-                "source": "FTI Consulting",
-                "date": "2026-07-08T19:56:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former GitHub CEO launches competitor designed for the age of vibe coding",
-                "desc": "As GitHub struggles to manage AI load, challengers take aim",
-                "image": "https://image.theregister.com/5262041.jpg?imageId=5262041&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/ai-and-ml/2026/07/08/former-github-ceo-launches-competitor-designed-for-the-age-of-vibe-coding/5268694",
-                "source": "The Register",
-                "date": "2026-07-08T19:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Id Software dev claims it’s been ‘relegated to support studio size’ as 136 layoffs confirmed",
-                "desc": "A former Id artist says they’re “in shock at how brutal the layoff cuts”…",
-                "image": "https://www.videogameschronicle.com/files/2026/05/Boobie_Ike_03-1024x576-1.jpg",
-                "url": "https://www.videogameschronicle.com/news/id-software-dev-claims-its-been-relegated-to-support-studio-size-as-136-layoffs-confirmed/",
-                "source": "Video Games Chronicle",
-                "date": "2026-07-08T19:37:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Better Space Stock to Buy Before 2026 Runs Out: SpaceX vs. Rocket Lab",
-                "desc": "SpaceX and Rocket Lab are two popular stocks for investors seeking exposure to the growing space economy.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876473%2Frklb-spcx-images-src-tmf.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/08/better-space-stock-buy-spacex-rocket-lab/",
-                "source": "The Motley Fool",
-                "date": "2026-07-08T19:35:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Federal Reserve Considers Rate Hikes Amid Inflation Risks from Tariffs, Oil, and AI Spending",
-                "desc": "For anyone who spent 2025 hoping the Federal Reserve would keep cutting rates, 2026 has been a cold shower. FOMC minutes from March and April reveal that offici",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/federal-reserve-considers-rate-hikes-amid-inflation-risks-from-tariffs-oil-and-ai-spending",
-                "source": "KuCoin",
-                "date": "2026-07-08T19:33:16Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Iran conflict may lift gas prices-how a 'budget reset' can help",
-                "desc": "Renewed tensions with Iran could push gas prices higher. Here's how financial planners say to adjust your budget.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108332317-1783537477738-gettyimages-2268972383-pruebasgetty-3.jpeg?v=1783537529&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/08/iran-conflict-may-lift-gas-priceshow-a-budget-reset-can-help.html",
-                "source": "CNBC",
-                "date": "2026-07-08T19:32:25Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Google Ads Expands Search Campaigns for Travel Beta to Things to Do and Events",
+                "desc": "Google Ads expands its Travel campaign beta to Things to Do and Events, giving eligible advertisers a new campaign type for attractions and ticket sales.",
+                "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/07/shutterstock_070820262-181.png",
+                "url": "https://www.searchenginejournal.com/google-search-campaigns-travel-things-to-do-events-beta/581816/",
+                "source": "Search Engine Journal",
+                "date": "2026-07-08T23:36:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘No way’: King’s blunt contract warning for Kangaroos, lays bare concerns over style and player development",
+                "desc": "‘No way’: Roos great’s blunt Clarko contract warning as concerns over six young guns laid bare",
+                "image": "https://content.api.news/v3/images/bin/85eda45590ca12372a5bcf6d771c728d",
+                "url": "https://www.foxsports.com.au/afl/teams/north-melbourne-kangaroos/afl-new-2026-david-king-says-north-melbourne-cant-extend-alastair-clarksons-coach-contract-in-current-circumstances-lays-bare-concerns-over-style-and-player-development/news-story/64facaff084490ea351e258cd3d3f2cb",
+                "source": "Fox Sports",
+                "date": "2026-07-08T23:35:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hog’s Breaths Birthday Bash A Big Success",
+                "desc": "Hog's Breath Airlie Beach turned back the clock on Saturday night, celebrating the restaurant chain's 37th birthday alongside two years under local ownership with an evening packed with live music, complimentary bites and plenty of familiar faces. Locals mixed with Hog's Breath OGs who travelled to be there, creating a reunion atmosphere that celebrated the brand's enduring legacy while showcasing the venue's new chapter under owners Adam Zakharnoff and JP Afflick. “We had Hog’s Breath folk coming from all over Australia,” JP said. “It was great to also have local people, local businesses all coming in support and celebrating with us.” Guests were treated to complimentary servings of the restaurant's famous slow-cooked prime rib, chicken wings and other share platters, with plenty to enjoy throughout the evening. Local muso Kieran McCarthy helped set the tone, before a band made up of local musicians kept the front bar buzzing well into the evening, making the celebration more than memorable.",
+                "image": "https://cdn.prod.website-files.com/601dc4639d384b60c94af395/6a4edc878a0348e1afb30382_Screenshot%202026-07-09%20at%209.25.30%E2%80%AFam.png",
+                "url": "https://www.mackayandwhitsundaylife.com/article/hogs-breaths-birthday-bash-a-big-success",
+                "source": "Mackay & Whitsunday Life",
+                "date": "2026-07-08T23:33:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Can You Video Chat Alongside 69,000 World Cup Fans? I Stress-Tested Stadium Phone Service at a Match",
+                "desc": "Is it possible to make a stadium signal-friendly? What about 16 stadiums across 104 matches?",
+                "image": "https://www.cnet.com/a/img/resize/3babd6e915abeeec85513ee1eaad11f146590b8f/hub/2026/07/08/6fce8191-dbd3-403d-89c9-789fd0599639/20260625-162517.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/mobile/fifa-world-cup-network-phone-reception-tested/",
+                "source": "CNET",
+                "date": "2026-07-08T23:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apolosign 32-inch Smart Portable TV review",
+                "desc": "The Apolosign 32-inch Smart Portable TV is an interesting battery-powered touchscreen on wheels. At $899 retail, it's a very hard sell for Apple owners because of one key omission.",
+                "image": "https://photos5.appleinsider.com/gallery/68018-143705-Apolosign32-inchSmartPortableTV8-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/07/08/apolosign-32-inch-smart-portable-tv-review-very-cool-but-not-great-for-apple-users",
+                "source": "AppleInsider",
+                "date": "2026-07-08T23:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Leap rebrands Ticketbooth as it expands across APAC",
+                "desc": "Australian organisers could gain a single event system as Leap folds Ticketbooth into its APAC push, adding apps, analytics and marketing tools.",
+                "image": "https://itbrief.asia/uploads/story/2026/07/08/compatible_jess-attwood.jpg",
+                "url": "https://itbrief.asia/story/leap-rebrands-ticketbooth-as-it-expands-across-apac",
+                "source": "IT Brief Asia",
+                "date": "2026-07-08T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Leap rebrands Ticketbooth as it expands across APAC",
+                "desc": "Australian organisers could gain a single event system as Leap folds Ticketbooth into its APAC push, adding apps, analytics and marketing tools.",
+                "image": "https://ecommercenews.com.au/uploads/story/2026/07/08/compatible_jess-attwood.jpg",
+                "url": "https://ecommercenews.com.au/story/leap-rebrands-ticketbooth-as-it-expands-across-apac",
+                "source": "ecommercenews.com.au",
+                "date": "2026-07-08T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Live voice model series ahead of broad GPT",
+                "desc": "OpenAI launches GPT-Live voice model series ahead of broad GPT-5.6 release - SiliconANGLE",
+                "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/OpenAI.png",
+                "url": "https://siliconangle.com/2026/07/08/openai-launches-gpt-live-voice-model-series-ahead-broad-gpt-5-6-release/",
+                "source": "SiliconANGLE",
+                "date": "2026-07-08T23:28:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously",
+                "desc": "July 8 (Reuters) - ⁠OpenAI on ⁠Wednesday launched GPT-Live, a ‌new family of voice models capable of ​listening and speaking ⁠simultaneously in ⁠real time.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/09/4000138.jpg",
+                "url": "https://www.thestar.com.my/tech/tech-news/2026/07/09/openai-launches-gpt-live-voice-models-that-listen-and-speak-simultaneously",
+                "source": "The Star",
+                "date": "2026-07-08T23:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Search Is Exposing SEO's Risk Of Losing GEO Outcomes",
+                "desc": "Search marketer Tom Critchlow says AI Search is exposing the risk that SEO may no longer own GEO outcomes.",
+                "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/07/ai-seo-399.jpg",
+                "url": "https://www.searchenginejournal.com/ai-search-is-exposing-seos-risk-of-losing-geo-outcomes/581805/",
+                "source": "Search Engine Journal",
+                "date": "2026-07-08T23:17:27Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "CU Anschutz Unveils T Cell Infection-Fighting Insights",
                 "desc": "Team studies the breakdown in cells' signaling pathways to gain insights on immunodeficiency and autoimmune diseaseImagine your immune system as a",
@@ -1174,99 +1264,81 @@
                 "source": "PCMag",
                 "date": "2026-07-08T19:30:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google Home is making it easier to get started with automations",
-                "desc": "Version 4.20 of the Google Home app adds preconfigured suggested automations that you can turn on with just a couple of taps.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2023/12/google-home-app-1-scaled.jpg",
-                "url": "https://www.androidauthority.com/google-home-suggested-automations-3685516/",
-                "source": "Android Authority",
-                "date": "2026-07-08T19:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
-                "desc": "This developer didn't expect his side project to grow to 300,000 users, but people love Roost because it's an alternative to an always-on, fast-paced online culture.",
-                "image": "https://s.yimg.com/lo/mysterio/api/6564b7b49e7a00f919082d28c566a651c966821b593aaefb0a912ea8e75743ef/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2Fde214c62d80d1e21b2329bb4791e4734",
-                "url": "https://tech.yahoo.com/social-media/articles/slow-cial-app-roost-forces-192211186.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-08T19:22:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Slow-cial' app Roost forces you to slow down to the speed of a carrier pigeon",
-                "desc": "This developer didn't expect his side project to grow to 300,000 users, but people love Roost because it's an alternative to an always-on, fast-paced online culture.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2158208817.jpg?resize=1200,800",
-                "url": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
-                "source": "TechCrunch",
-                "date": "2026-07-08T19:22:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This startup thinks robotics is about to have its ChatGPT moment",
-                "desc": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
-                "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-                "source": "TechCrunch",
-                "date": "2026-07-08T19:19:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI-Ready Infrastructure Boosts ARM Data Access",
-                "desc": "The ARM Data Center has been preparing its infrastructure, including the Cumulus high-performance computing cluster, for artificial intelligence",
-                "image": "https://www.ornl.gov/sites/default/files/styles/large/public/2026-07/ARM%20Data%20Center%20.jpg?itok=Gr5MHwdZ",
-                "url": "https://www.miragenews.com/ai-ready-infrastructure-boosts-arm-data-access-1707008/",
-                "source": "Mirage News",
-                "date": "2026-07-08T19:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why adversarial AI training is the new “Don’t Copy That Floppy”",
-                "desc": "AI theft vs. human creativity: Anthropic’s legal battle against Alibaba for IP theft reveals deep ironies in AI development.",
-                "image": "https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2026/07/08191534/mc-double-def.jpg",
-                "url": "https://www.spiceworks.com/articles/why-adversarial-ai-training-is-the-new-dont-copy-that-floppy/",
-                "source": "Spiceworks",
-                "date": "2026-07-08T19:17:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "board computer for tactical",
-                "desc": "HUNTSVILLE, Alabama. Abaco Systems introduced the SBC3618, a rugged 3U VPX single-board computer (SBC) built on Intel Core Ultra Series 3 processors for artificial intelligence (AI) processing at the tactical edge, the company announced in a statement.",
-                "image": "https://data.militaryembedded.com/uploads/resize/1256/756/external/data.militaryembedded.com/uploads/articles/primary_images/1783538074.jpg",
-                "url": "https://militaryembedded.com/unmanned/rugged-computing/3u-vpx-single-board-computer-for-tactical-edge-ai-released-by-abaco",
-                "source": "Military Embedded Systems",
-                "date": "2026-07-08T19:17:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Windows now shows which apps used on-device AI, and I'd check it right now",
-                "desc": "Who's using AI behind your back?",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/text-and-image-generation-all-toggles-on.png?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/windows-now-shows-which-apps-used-on-device-ai-and-id-check-it-right-now/",
-                "source": "MakeUseOf",
-                "date": "2026-07-08T19:00:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy Z Fold 8 Ultra leaks in a stunning deep purple color",
-                "desc": "The Galaxy Z Fold 8 Ultra is going to be pretty disappointing; that much is clear. But, taking the sting...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-ultra-leak-ah-7.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/08/galaxy-z-fold-8-ultra-purple-color-leak/",
-                "source": "9to5Google",
-                "date": "2026-07-08T18:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "McLaren Teases New, More Extreme 750S Variant Named 788HS",
-                "desc": "Social media posts suggest the new McLaren 788HS will be a step up from the likes of even the 765LT.",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/3f75d86c-026b-4a34-b2c9-74d22e2ec097.png?crop=0.984xw:0.877xh;0,0&resize=1200:*",
-                "url": "https://www.roadandtrack.com/news/a71871913/mclaren-teases-extreme-750s-variant-788hs/",
-                "source": "Road & Track",
-                "date": "2026-07-08T18:51:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "These Singapore parents adopted a baby from Indonesia",
+                "desc": "The case highlights the problem of child trafficking in Indonesia and raises questions about how Singapore fails to detect it.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0cab/live/eab048a0-74ff-11f1-b1db-af71d47507d6.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/czxq4ge246wo",
+                "source": "BBC",
+                "date": "2026-07-08T23:31:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "These Singapore parents adopted a baby from Indonesia",
+                "desc": "The case highlights the problem of child trafficking in Indonesia and raises questions about how Singapore fails to detect it.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0cab/live/eab048a0-74ff-11f1-b1db-af71d47507d6.jpg",
+                "url": "https://www.bbc.com/news/articles/czxq4ge246wo",
+                "source": "BBC",
+                "date": "2026-07-08T23:31:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Missing Boeing 737 cargo plane found off coast of Pakistan",
+                "desc": "Authorities have found the wreckage of a cargo plane that lost contact with air traffic control while heading to Pakistan and was declared missing.",
+                "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/07/742198105_1992846654754516_1792792839802272402_n-1.jpg?w=1280",
+                "url": "https://www.newsnationnow.com/missing/missing-boeing-737-cargo-plane-found-pakistan/",
+                "source": "NewsNation",
+                "date": "2026-07-08T23:25:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China Urges Global South Journalists To Tell Development Stories Firsthand",
+                "desc": "BEIJING— Chinese officials and international media leaders on Wednesday called on journalists from the Global South to strengthen cooperation and tell development stories through firsthand reporting, saying balanced and evidence-based journalism is essential to promoting mutual understanding and advancing global development, writes Winston Mwale.",
+                "image": "https://substackcdn.com/image/fetch/$s_!XicD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd789c7eb-2246-42f8-a6cf-d64714493d1e_3104x3104.jpeg",
+                "url": "https://africabrief.substack.com/p/china-urges-global-south-journalists",
+                "source": "AfricaBrief",
+                "date": "2026-07-08T23:22:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pilot's chilling nine words to student before jumping out of plane mid-flight",
+                "desc": "Whilst she was not physically injured, the student is understood to have been hospitalised for severe psychological trauma after the incident unfolded during a lesson",
+                "image": "https://i2-prod.mirror.co.uk/article37406791.ece/ALTERNATES/s1200d/740836254_1281235663854882_5109785815508546347_n-2.jpg",
+                "url": "https://www.mirror.co.uk/news/world-news/pilot-jumps-plane-last-words-37406767",
+                "source": "The Mirror",
+                "date": "2026-07-08T23:17:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Border chaos continues as EU digital authorisation system plagued by more delays",
+                "desc": "The European Travel Information and Authorisation System (ETIAS), similar to the ESTA visa-waiver program in the US, is due to be launched in the last quarter of 2026.",
+                "image": "https://static.ffx.io/images/$zoom_0.3319%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/350d0a1467eef995b23545b0fb544eec67936c47",
+                "url": "https://www.nine.com.au/travel/etias-travel-authorisation-plagued-by-more-delays-reports-20260708-p60djw.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-08T23:16:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump wants US Supreme Court to reconsider birthright citizenship",
+                "desc": "The long-shot bid by Trump comes a week after the high court ruled that those born in the US have a constitutional right to citizenship.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0eb0/live/8db15010-7b1a-11f1-a6c4-afd7bb5ad14c.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cx23zk1jp1go",
+                "source": "BBC",
+                "date": "2026-07-08T23:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rich countries exaggerating “true value” of climate finance by around $100 billion",
+                "desc": "News and Press Release in English on World about Climate Change and Environment; published on 8 Jul 2026 by Oxfam",
+                "image": "https://reliefweb.int/sites/default/files/styles/large/public/previews/0f/e3/0fe3d9e0-2efc-4b24-adc4-5965fa026797.png",
+                "url": "https://reliefweb.int/report/world/rich-countries-exaggerating-true-value-climate-finance-around-100-billion",
+                "source": "ReliefWeb",
+                "date": "2026-07-08T23:03:07Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Grace Mugabe tells Mazowe miners as her hired thugs leave trail of blood, broken bones",
                 "desc": "ARTISANAL miners in Mazowe were on Tuesday beaten to pulp by a gang of AK47-carrying-thugs which was operating at the instruction of former First Lady Grace Mugabe, NewZimbabwe.com has learnt. Most of those caught up in the violent act suffered bruises, broken bones and head injuries after being assaulted using fists, hammers, baton-sticks and AK47 […]",
@@ -1824,80 +1896,8 @@
                 "source": "Caixin Global",
                 "date": "2026-07-08T19:23:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Burglars jailed for theft of Mounjaro worth £1m",
-                "desc": "The \"calculated\" theft of weight-loss drugs posed a serious health risk to the public, police say.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a5d7/live/82b0dc70-7aee-11f1-94d8-c95634a95d3e.jpg",
-                "url": "https://www.bbc.com/news/articles/ceqde4y4eryo",
-                "source": "BBC",
-                "date": "2026-07-08T19:22:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil prices rise, and stocks drop worldwide after Trump says ceasefire with Iran is 'over'",
-                "desc": "Oil prices rose, and stock markets dropped in shaky trading worldwide after President Donald Trump raised doubts about the temporary truce in the war with Iran.",
-                "image": "https://dims.apnews.com/dims4/default/8ae0919/2147483647/strip/true/crop/3847x2563+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2F20%2F11ced7dbe67f585f19fb0fb4a1fe%2F65d6d849792642189cef69bcf3e1dea5",
-                "url": "https://apnews.com/article/stocks-rates-oil-iran-ai-671d9c94b302f7db533f46baa18387d3",
-                "source": "AP News",
-                "date": "2026-07-08T19:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PABS: Finalise agreement against future pandemics, WHO tells member states",
-                "desc": "The World Health Organisation (WHO) director-general, Dr. Tedros Adhanom Ghebreyesus, has urged member states to finalise negotiations on the Pathogen Access",
-                "image": "https://blueprint.ng/wp-content/uploads/2025/09/995px-WHO_logo.svg_.png",
-                "url": "https://blueprint.ng/pabs-finalise-agreement-against-future-pandemics-who-tells-member-states/",
-                "source": "Blueprint Newspapers",
-                "date": "2026-07-08T19:19:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "East Africa pushes Kiswahili into digital era as leaders call for wider adoption",
-                "desc": "Bujumbura, Burundi | THE INDEPENDENT | East African leaders and language experts are calling for greater investment in Kiswahili’s digital future, arguing that the region’s most widely spoken language must evolve with artificial intelligence and technology to remain relevant in a changing global economy. The call was made during celebrations to mark World Kiswahili Day in …",
-                "image": "https://www.independent.co.ug/wp-content/uploads/2026/07/Dr.-Asiimwe-2.jpg",
-                "url": "https://www.independent.co.ug/east-africa-pushes-kiswahili-into-digital-era-as-leaders-call-for-wider-adoption/",
-                "source": "The Independent Uganda",
-                "date": "2026-07-08T19:17:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Andy Burnham is styled as the everyman, but critics say Britain's next PM is a ruthless 'career politician'",
-                "desc": "For some, Andy Burnham's casual communication style is refreshing. Others say it's a carefully crafted facade, disguising the fact that he's a ruthless Labour Party lifer.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/0c38338021d390cba5940c491f13050b?impolicy=wcms_watermark_news&cropH=675&cropW=1200&xPos=0&yPos=58&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-09/andy-burnham-the-everyman-or-ruthless-politician/106878738",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-08T19:15:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is Berlin a good city to visit? Why I go to this European capital every year",
-                "desc": "I cried when I first visited this European capital as a child. Now I visit every year to embrace its never-ending changes.",
-                "image": "https://static.ffx.io/images/$zoom_0.2741%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_88/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/18687a817742a674679c2432de7edfd2aa06e786",
-                "url": "https://www.smh.com.au/traveller/inspiration/this-city-became-my-favourite-place-in-the-world-once-they-got-rid-of-the-guns-20260708-p60dny.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-08T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why the most stressful trips often lead to the best memories",
-                "desc": "We curse the time, effort and money we’ve put into keeping everyone happy in return for absolutely zero gratitude. But things can suddenly change.",
-                "image": "https://static.ffx.io/images/$zoom_0.27406832298136646%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/c0c51bb0c6412ac2c79d4285166f09b4d8729a90",
-                "url": "https://www.smh.com.au/traveller/reviews-and-advice/on-family-holidays-there-s-always-a-moment-when-you-just-want-to-walk-away-20260629-p60asw.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-08T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is Berlin a good city to visit? Why I go to this European capital every year",
-                "desc": "I cried when I first visited this European capital as a child. Now I visit every year to embrace its never-ending changes.",
-                "image": "https://static.ffx.io/images/$zoom_0.2741%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_88/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/18687a817742a674679c2432de7edfd2aa06e786",
-                "url": "https://www.theage.com.au/traveller/inspiration/this-city-became-my-favourite-place-in-the-world-once-they-got-rid-of-the-guns-20260708-p60dny.html",
-                "source": "The Age",
-                "date": "2026-07-08T19:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T11:00:40.921500Z"
+    "lastGlobalSync": "2026-07-09T11:40:38.060359Z"
 }
