@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Oregon data centers face sharp electricity rate hike under new law",
+                "desc": "Portland General Electric is the first Oregon utility to adopt new data center electricity rates under the POWER Act, raising costs 29% while cutting residential rates.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/04/0/0/data-center.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/economy/oregon-data-centers-face-sharp-electricity-rate-hike-under-new-law",
+                "source": "Fox Business",
+                "date": "2026-07-08T18:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock",
+                "desc": "Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.",
+                "image": "https://static01.nyt.com/images/2026/07/05/multimedia/HOUSING-IPO-1-01-qjgw/HOUSING-IPO-1-01-qjgw-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html",
+                "source": "The New York Times",
+                "date": "2026-07-08T18:36:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lotto and Lotto Plus results: Wednesday, 8 July 2026 [WATCH]",
+                "desc": "A total of R20.5 million in jackpots is up for grabs tonight. Here are your Lotto and Lotto Plus results for 8 July 2026.",
+                "image": "https://media.citizen.co.za/wp-content/uploads/2026/07/Lotto-Results-Wednesday-2026-1200x1000-1.png",
+                "url": "https://www.citizen.co.za/lotto/lotto-and-lotto-plus-results-wednesday-8-july-2026-watch/",
+                "source": "The Citizen",
+                "date": "2026-07-08T18:33:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Histotripsy in Cancer Care",
+                "desc": "Histotripsy, a noninvasive ultrasound liver cancer treatment, is gaining attention as radiologists evaluate clinical evidence, patient selection and its emerging role.",
+                "image": "https://www.rsna.org/images/rsna/favicon.png",
+                "url": "https://www.rsna.org/news/2026/july/histotripsy-in-cancer-care",
+                "source": "Radiological Society of North America | RSNA",
+                "date": "2026-07-08T18:30:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cardiff shop fined heavily after being caught selling illegal goods",
+                "desc": "The store was selling vapes with tank sizes above legal limits in addition to counterfeit and incorrectly labelled tobacco products",
+                "image": "https://i2-prod.walesonline.co.uk/article34260484.ece/ALTERNATES/s1200d/0_RH080726MiniMartStoreJPG.jpg",
+                "url": "https://www.walesonline.co.uk/news/wales-news/cardiff-shop-fined-heavily-after-34259061",
+                "source": "Wales Online",
+                "date": "2026-07-08T18:30:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Increased demand and new varieties set Australian coffee industry up for expansion",
+                "desc": "Australians are among the world's biggest coffee drinkers but less than 1 per cent of the coffee consumed nationwide is grown locally. That could be about to change.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/12f33d2232b4044554a719dab6bdb7eb?impolicy=wcms_watermark_news&cropH=2356&cropW=4188&xPos=3&yPos=1397&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-09/expansion-brewing-for-australian-coffee-industry/106892664",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-08T18:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Deeply frustrating and very worrying’ - MPs express huge concern at lack of control over affordability checks policy",
+                "desc": "Ministers have been criticised for abdicating control over policy following this week's news that the Gambling Commission has decided to press ahead... Read More",
+                "image": "https://media.racingpost.gcpp.io/prod/images/gm_preview/198496f4fcb9-117087.jpeg",
+                "url": "https://www.racingpost.com/news/industry/affordability-checks/deeply-frustrating-and-very-worrying-mps-express-huge-concern-at-lack-of-control-over-affordability-checks-policy-a5ECr2I4fSuo/",
+                "source": "Racing Post",
+                "date": "2026-07-08T18:26:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fiat’s tiny Topolino EV rolls into US with under-$15K price tag",
+                "desc": "Fiat is bringing its tiny electric Topolino to the U.S., giving drivers a low-speed, low-cost option designed for neighborhoods, resorts and short trips.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/fiat-topolino-sunset.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/lifestyle/fiat-launches-tiny-ev-us-shockingly-low-price-tag-one-major-catch",
+                "source": "Fox Business",
+                "date": "2026-07-08T18:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NCC, Stakeholders Advance Dig Once Policy for Fibre Rollout",
+                "desc": "The NCC and stakeholders are developing a cost-based pricing framework for sharing underground telecom ducts under the Dig Once policy to accelerate fibre",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/Nigerian-Communications-Commission-NCC.webp",
+                "url": "https://punchng.com/ncc-stakeholders-move-to-end-repeated-road-digging-for-fibre/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-08T18:15:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "No Fees Stress policy: 'Schools confirm beneficiaries before disbursement' - SLTF CEO",
+                "desc": "The Chief Executive Officer of the Students Loan Trust Fund (SLTF), Dr Saajida Shiraz, has assured that strict verification measures are being used to ensure only eligible students benefit from the government 39;s No Fees Stress policy .",
+                "image": "https://cdn.modernghana.com/images/content/78202660239-h40o2s6eey-73465.jpg",
+                "url": "https://www.modernghana.com/news/1508951/no-fees-stress-policy-schools-confirm-beneficiar.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-08T18:11:15Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Trump Suddenly Opens Dozens of Gas Stations Selling Suspiciously Cheap Fuel, and Experts Are Already Warning of Impending Disaster",
                 "desc": "Details around Donald Trump's shadowy \"Freedom Fuel Network\" are murky at best, as one analyst warns the business model is unsustainable.",
                 "image": "https://futurism.com/wp-content/uploads/2026/07/trump-shady-gas-station-unsustainable-business-gasoline.jpg?w=1200",
@@ -542,99 +632,99 @@
                 "source": "The Motley Fool",
                 "date": "2026-07-08T14:45:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Apple to produce Made in America wireless chips with Broadcom",
-                "desc": "Apple has signed a $30 billion+ multiyear deal with Broadcom to design and produce more than 15 billion U.S.-made custom wireless connectivity chips for Apple products.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2234130980.jpg?resize=1200,800",
-                "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
-                "source": "TechCrunch",
-                "date": "2026-07-08T14:43:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "African Entrepreneurs Building Global Businesses Earlier",
-                "desc": "Discover why African entrepreneurs are building global businesses earlier than ever before, driven by technology and international company registration.",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/are_1783521444.webp",
-                "url": "https://punchng.com/why-african-entrepreneurs-are-building-global-businesses-earlier-than-ever-before/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-08T14:41:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Large online platforms face new waste compliance burdens",
-                "desc": "Very large online platforms (VLOPs) operating consumer-facing marketplaces in the EU may soon face a new compliance obligation under the Packaging and Packaging Waste Regulation (PPWR), adding another layer to their duties under the Digital Services Act, experts have said.",
-                "image": "https://www.pinsentmasons.com/-/media/images/cards/editorial-use-only/climate-change---environment/packaging--waste.jpg?rev=0783c4f755da44cf949dfad6911e4e32",
-                "url": "https://www.pinsentmasons.com/out-law/news/online-platforms-waste-compliance",
-                "source": "Pinsent Masons",
-                "date": "2026-07-08T14:41:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Popular Cork bakery opening cosy new café",
-                "desc": "A lovely new waterside spot coming this summer",
-                "image": "https://i2-prod.corkbeo.ie/article34259086.ece/ALTERNATES/s1200d/0_tcc.png",
-                "url": "https://www.corkbeo.ie/incoming/popular-cork-bakery-opening-cosy-34258771",
-                "source": "Cork Beo",
-                "date": "2026-07-08T14:39:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Blue Origin wants to launch New Glenn rocket by end of 2026. Can it?",
-                "desc": "In late-May, Blue Origin's New Glenn rocket exploded in a devastating blow to Jeff Bezos' company. Now, a roadmap is in place to launch it again.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/02/PBRE/90366281007-20260529-t-180557-z-2040482120-rc-25-jla-939-cr-rtrmadp-3-blueorigintestexplosion.JPG?crop=4903,2758,x0,y104&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/tech/space/2026/07/08/blue-origin-new-glenn-rocket-explosion-launch-2026/90836170007/",
-                "source": "USA Today",
-                "date": "2026-07-08T14:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Winter demand and grid strain put spotlight on home electrical safety",
-                "desc": "When power returned after an outage, surging current could damage sensitive equipment.",
-                "image": "https://media.citizen.co.za/wp-content/uploads/2026/04/Eskom-winter-outlook.jpg",
-                "url": "https://www.citizen.co.za/news/winter-demand-and-grid-strain-put-spotlight-on-home-electrical-safety/",
-                "source": "The Citizen",
-                "date": "2026-07-08T14:38:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EIA: Crude Oil Inventories in US See Rare Build",
-                "desc": "Crude oil inventories in the United States saw a surprise increase of 3.0 million barrels during the week ending July 3",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_jvq47diul9.jpg",
-                "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Crude-Oil-Inventories-in-US-See-Rare-Build.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-08T14:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World economy expected to grow sluggish 3% this year, IMF says",
-                "desc": "The IMF forecasts assume that the Strait of Hormuz reopens later this month — even though U.S. strikes on Iran resumed and President Donald Trump declared Wednesday that a ceasefire with Iran was over.",
-                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-03T131929Z_1683992226_RC2TVKAS79WG_RTRMADP_3_IRAN-CRISIS-OIL-EXPORTS-1024x576.jpg",
-                "url": "https://www.pbs.org/newshour/economy/world-economy-expected-to-grow-sluggish-3-this-year-imf-says",
-                "source": "PBS",
-                "date": "2026-07-08T14:34:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What social media creators can’t say about their job",
-                "desc": "Online content creator burnout is, in part, “unspeakable” – a product of a confluence of factors, including the informal nature of platform labor and the privileged status of creative work, seen by many as a “dream job.”",
-                "image": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-06/0701_social_tnd.jpg?itok=wivbSdIg",
-                "url": "https://news.cornell.edu/stories/2026/07/what-social-media-creators-cant-say-about-their-job",
-                "source": "Cornell Chronicle",
-                "date": "2026-07-08T14:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tax Simplification: Recent EU Developments",
-                "desc": "On 24 June 2026, the European Commission adopted a proposal for a Council Directive as regards the simplification of the Union framework on direct taxation and supporting growth and competitiveness of the EU. This proposal is designed to streamline existing EU rules on direct taxation and thereby reduce compliance burdens and administrative costs for businesses operating cross-border. The Commission expects this tax simplification package to save EU businesses around €8 billion annually, of which €3.3 billion is expected to relate to administrative costs.",
-                "image": "https://www.mccannfitzgerald.com/favicon.ico",
-                "url": "https://www.mccannfitzgerald.com/knowledge/tax/tax-simplification-recent-eu-developments",
-                "source": "McCann FitzGerald LLP",
-                "date": "2026-07-08T14:30:49Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Apple TV show purchases finally get free 4K upgrades",
+                "desc": "Apple is finally bringing its free 4K upgrade policy to select TV show purchases, extending one of the Apple TV Store's biggest customer perks beyond movies for the first time.",
+                "image": "https://photos5.appleinsider.com/gallery/68203-143778-Apple-TV-4K-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/07/08/tv-show-purchases-on-apple-tv-are-finally-getting-free-4k-upgrades",
+                "source": "AppleInsider",
+                "date": "2026-07-08T18:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This Niche Italian Sports Car Is A Real Manual Coupe Ferrari Won't Build",
+                "desc": "The roofless Rina already exists, and now, Automobili Mignatta has plans for a coupe version with a six-speed stick.",
+                "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/automobili-mignatta-bozzetto-rina-coupe-16.jpg?w=1600&h=900&fit=crop",
+                "url": "https://carbuzz.com/automobili-mignatta-rina-coupe-goodwood-july-2026/",
+                "source": "CarBuzz",
+                "date": "2026-07-08T18:35:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New ‘Fallout’ Game Reportedly Coming From Obsidian, ‘Avowed 2’ Cancelled",
+                "desc": "Obsidian has reportedly cancelled a sequel to Avowed, and will instead work on a new Fallout game under the direction of Fallout New Vegas’ Josh Sawyer.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/661a7722a88a3ac19c93cb6e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/paultassi/2026/07/08/new-fallout-game-reportedly-coming-from-obsidian-avowed-2-cancelled/",
+                "source": "Forbes",
+                "date": "2026-07-08T18:31:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Android's upcoming automatic backup to PC feature excludes Samsung devices",
+                "desc": "There's probably a good reason for this decision, though. Google is working on cloud-free automatic backup to Windows PCs for Android, according to a new...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/android-pc-backup-excludes-samsung-devices/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/androids_upcoming_automatic_backup_to_pc_feature_excludes_samsung_devices-news-73630.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-08T18:31:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Mad Hueys Did Cape Solander Exactly How You Thought They Would",
+                "desc": "Cape Solander is a wave that requires a whole lot of skill, a whole lot of a dedication, and a bit of craziness. All of which the Mad Hueys have in spades.",
+                "image": "http://www.theinertia.com/wp-content/uploads/2026/07/mad.jpg",
+                "url": "https://www.theinertia.com/surf/mad-hueys-surfing-cape-solander/",
+                "source": "The Inertia",
+                "date": "2026-07-08T18:30:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DuckDuckGo Can Now Block Ads on YouTube",
+                "desc": "DuckDuckGo now comes with a built-in video ad blocker enabled by default, which even works on YouTube.",
+                "image": "https://lifehacker.com/imagery/articles/01KX1DYX060XQ02S2E1BYFWWD4/hero-image.fill.size_1200x675.jpg",
+                "url": "https://lifehacker.com/tech/duckduckgo-can-now-block-ads-on-youtube",
+                "source": "Lifehacker",
+                "date": "2026-07-08T18:30:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Photos adds a new AI 'Video Remix' tool",
+                "desc": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2249181820.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+                "source": "TechCrunch",
+                "date": "2026-07-08T18:30:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, and Watch Ultra2 renders leak",
+                "desc": "It's the mega leak you've been waiting for. Samsung is holding its next Unpacked event on July 22 in London, the company has recently confirmed. Ahead of...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-fold8-ultra-flip8-renders-leak/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_and_watch_ultra2_renders_leak-news-73637.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-08T18:29:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "More stats, naps part of sleep total",
+                "desc": "Google is rolling out version 5.03 of the Health app with more quality-of-life updates on Android and iOS...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Google-Health-cover.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/08/google-health-5-03-release-notes/",
+                "source": "9to5Google",
+                "date": "2026-07-08T18:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "McLaren M6GT: Bruce McLaren's Lost 1960s Road Car Rebuilt by MSO",
+                "desc": "McLaren has pulled the wraps off a car it never actually built, and it's calling the result a \"restoration.\" That word is doing some heavy lifting, but the car underneath the marketing is the real thing: the M6GT, the road-going supercar founder Bruce McLaren was chasing a full quarter-century before the F1 made the idea famous. It debuts this week at the Goodwood Festival of Speed, which runs July 9–12, and it's worth understanding what McLaren Special Operations actually did here, because it's",
+                "image": "https://s.yimg.com/lo/mysterio/api/aca069c077ec4be7086fed9a7e701bb63fadb15039b63a527d961723d1460542/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmodern_car_collector_articles_878%2F6b76c5b0ae788b9d3c8991ec107a9981",
+                "url": "https://autos.yahoo.com/classic-and-collector/articles/mclaren-m6gt-bruce-mclarens-lost-182200698.html",
+                "source": "Yahoo Autos",
+                "date": "2026-07-08T18:22:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Samsung's most powerful features aren't turned on by default - and almost nobody finds them",
                 "desc": "Automate your phone, launch apps faster, add new functionality with these Samsung tools.",
@@ -1174,99 +1264,99 @@
                 "source": "Hodinkee",
                 "date": "2026-07-08T15:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Huntress Uncovers 'Vibe-Coded' Malware Used to Map Active Directory Environments",
-                "desc": "Threat researchers at Huntress have identified what they describe as a clear example of AI-generated, or \"vibe-coded\", malware deployed during a live intrusion,",
-                "image": "https://www.itsecurityguru.org/wp-content/uploads/2016/11/malware.jpg",
-                "url": "https://www.itsecurityguru.org/2026/07/08/huntress-uncovers-vibe-coded-malware-used-to-map-active-directory-environments/",
-                "source": "IT Security Guru",
-                "date": "2026-07-08T14:59:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Step into the dark world of Yariv: Verho - Curse of Faces with the controller, coming to consoles on July 30th!",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/10/101010-64b104c9/VERHO_Keyart_1-1.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=90d8eb1257ef2ae37a4f35dffd76de83ef4fa589a35b8de7d1908a6d4207e416",
-                "url": "https://www.gamespress.com/en-US/Step-into-the-dark-world-of-Yariv-Verho-Curse-of-Faces-with-the-contro",
-                "source": "Games Press",
-                "date": "2026-07-08T14:59:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Step into the dark world of Yariv: Verho - Curse of Faces with the controller, coming to consoles on July 30th!",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/10/101010-64b104c9/VERHO_Keyart_1-1.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=90d8eb1257ef2ae37a4f35dffd76de83ef4fa589a35b8de7d1908a6d4207e416",
-                "url": "https://www.gamespress.com/es/Step-into-the-dark-world-of-Yariv-Verho-Curse-of-Faces-with-the-contro",
-                "source": "Games Press",
-                "date": "2026-07-08T14:59:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung 8 New Product Leaks Ahead of Galaxy Unpacked 2026",
-                "desc": "Samsung's Galaxy Unpacked 2026 drops July 22 with 8 leaked products — foldables, AI smart glasses, watches. Here's the full breakdown for 2026.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/07/Samsung-8-New-Product-Leaks-Ahead-of-Galaxy-Unpacked-2026.jpg",
-                "url": "https://memeburn.com/samsung-galaxy-unpacked-2026-leaks/",
-                "source": "Memeburn",
-                "date": "2026-07-08T14:58:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple MacBook Pro M5 Pro 48GB RAM Deal Now $550 Off",
-                "desc": "Apple's latest 16-inch MacBook Pro with an M5 Pro chip and upgrade to 48GB of RAM is discounted to $3,049.99, a markdown of $550 off the popular configuration.",
-                "image": "https://photos5.appleinsider.com/gallery/68196-143767-16-inch-macbook-pro-m5-pro-48gb-ram-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/08/apples-m5-pro-16-inch-macbook-pro-with-48gb-ram-plunges-to-3049",
-                "source": "AppleInsider",
-                "date": "2026-07-08T14:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Discord confirms AI moderators have banned thousands over harmless images",
-                "desc": "Maybe human moderators still have a place.",
-                "image": "https://sm.mashable.com/t/mashable_sea/article/d/discord-co/discord-confirms-ai-moderators-have-banned-thousands-over-ha_aq1c.1200.jpg",
-                "url": "https://sea.mashable.com/tech/52409/discord-confirms-ai-moderators-have-banned-thousands-over-harmless-images",
-                "source": "Mashable SEA",
-                "date": "2026-07-08T14:40:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Review Tools Vulnerable to Manipulation in Peer Review",
-                "desc": "Researchers reported on **July 8, 2026** that AI peer-review systems can be gamed by rewriting papers to satisfy model-generated reviewer preferences rather than improving the science. Science News and the arXiv paper describe tests by **Joachim Baumann** and colleagues using **ICLR 2026** review data and 60 randomly selected papers. The core risk for AI/ML practitioners is evaluation leakage: if an automated reviewer rewards style, hedging, or familiar framing, authors can optimize against the scorer and inflate apparent quality. That makes peer-review automation a useful warning for any high-stakes LLM evaluation pipeline, from academic triage to model benchmarks and internal quality gates.",
-                "image": "https://commstrader.com/wp-content/uploads/2026/07/062226_A_AIpeerreview_main.jpg",
-                "url": "https://letsdatascience.com/news/ai-review-tools-vulnerable-to-manipulation-in-peer-review-dd048284",
-                "source": "Let's Data Science",
-                "date": "2026-07-08T14:38:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This Is The Only Brand-New 200-HP Sports Car You Can Buy For Less Than $33,000",
-                "desc": "As far as new cars go, $30,000 doesn't get you much in performance. One sports car sold in the USA will get you to the 200 hp mark, though.",
-                "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/toyota-gr86-main.png?w=1600&h=900&fit=crop",
-                "url": "https://carbuzz.com/toyota-gr-86-only-brand-new-200-hp-sports-car-less-than-30000/",
-                "source": "CarBuzz",
-                "date": "2026-07-08T14:38:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ADI Expands Control4 X4 and Control4 Connect Availability Worldwide",
-                "desc": "ADI has expanded Control4 X4 and the optional Control4 Connect service worldwide, bringing a redesigned interface and new service architecture.",
-                "image": "https://www.cepro.com/wp-content/uploads/2025/12/Control4-visit-2-1.jpg",
-                "url": "https://www.cepro.com/news/adi-expands-control4-x4-and-control4-connect-availability-worldwide/627465/",
-                "source": "CE Pro",
-                "date": "2026-07-08T14:37:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Emma mattress that 'keeps you cool in heatwave' is €1,044 off in huge summer sale",
-                "desc": "The sleep giant is offering major discounts on mattresses and other bedtime essentials that make it 'a lot easier to sleep' on hot nights",
-                "image": "https://i2-prod.irishmirror.ie/article37399411.ece/ALTERNATES/s1200d/2_linkby-1.png",
-                "url": "https://www.irishmirror.ie/lifestyle/emma-mattress-heatwave-summer-sale-37397464",
-                "source": "Irish Mirror",
-                "date": "2026-07-08T14:37:30Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Very strong El Niño raises risk of extreme weather in South America",
+                "desc": "A very strong El Niño is expected to increase the risk of extreme weather across South America in the coming months, forecasters have predicted.",
+                "image": "https://cdnph.upi.com/sv/ph/og/i/5611783533115/2026/1/17835358842625/v1.5/Very-strong-El-Nio-raises-risk-of-extreme-weather-in-South-America.jpg",
+                "url": "https://www.upi.com/Top_News/World-News/2026/07/08/latam-south-ameica-el-nino/5611783533115/",
+                "source": "upi.com",
+                "date": "2026-07-08T18:39:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran: Briefing on the Implementation of Resolution 2231 on the Joint Comprehensive Plan of Action (JCPOA)",
+                "desc": "Iran: Briefing on the Implementation of Resolution 2231 on the Joint Comprehensive Plan of Action (JCPOA) : What's In Blue : Security Council Report",
+                "image": "https://www.securitycouncilreport.org/wp-content/themes/scr2018/_resources/img/global/SCR-logo-share-1400.png",
+                "url": "https://www.securitycouncilreport.org/whatsinblue/2026/07/iran-briefing-on-the-implementation-of-resolution-2231-on-the-joint-comprehensive-plan-of-action-jcpoa-2.php",
+                "source": "Security Council Report",
+                "date": "2026-07-08T18:35:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Negotiating War and Rethinking Mediation in Africa in a New Era of Conflicts and Global Disorder",
+                "desc": "8 July 2026",
+                "image": "https://amaniafrica-et.org/wp-content/uploads/c-2.jpg",
+                "url": "https://amaniafrica-et.org/negotiating-war-and-rethinking-mediation-in-africa-in-a-new-era-of-conflicts-and-global-disorder/",
+                "source": "Amani Africa",
+                "date": "2026-07-08T18:34:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zuma Wins High Court Battle Against SA Government Over National Dialogue",
+                "desc": "Jacinta Ngobese-Zuma secured a court win after being controversially removed from South Africa's National Dialogue steering committee, sparking online praise.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/26ed46facf701e5f.jpeg?v=1",
+                "url": "https://yen.com.gh/entertainment/celebrities/307517-jacinta-ngobese-zuma-wins-high-court-battle-sa-government-national-dialogue/",
+                "source": "Yen News",
+                "date": "2026-07-08T18:31:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somali electoral commission approves 35 political groups for Galmudug elections",
+                "desc": "Mogadishu (HOL) — Somalia’s Independent National Electoral and Boundaries Commission has approved 35 political organizations to participate in upcoming elections in Galmudug State, as part of the country’s planned transition to a one-person, one-vote electoral system.",
+                "image": "https://www.hiiraan.com/uploads/2026/07/17835349481783513711Screenshot2026-05-09041604.png",
+                "url": "https://www.hiiraan.com/news4/2026/Jul/205633/somali_electoral_commission_approves_35_political_groups_for_galmudug_elections.aspx",
+                "source": "Hiiraan Online",
+                "date": "2026-07-08T18:24:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump tempers fury to end Nato summit on a high note",
+                "desc": "US President Donald Trump offered Nato allies an unexpected warm embrace as they wrapped up a key summit Wednesday after earlier lashing out at them over...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/DSV2AVH25ZCOJLIL5JMBWWIYFQ.jpg?auth=bdd055b133527b670b73cc3a2a31370dc932f88f3091cceb8ec505c7c4ab1982&width=1200&height=675&quality=70&focal=2969%2C1251&smart=false",
+                "url": "https://www.nzherald.co.nz/world/trump-tempers-fury-to-end-nato-summit-on-a-high-note/NCT7RZJQH5DFXCC2U4HENRQE7I/",
+                "source": "NZ Herald",
+                "date": "2026-07-08T18:24:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NATO Builds AI 'Kill Web' to Stop Russian Attackers in Their Tracks",
+                "desc": "The new strategy creates a vast network to detect and strike targets, an approach shaped by lessons from Ukraine.",
+                "image": "https://i.insider.com/6a4e6da6b3a8c16f7e8ec73c?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/nato-builds-ai-kill-web-to-stop-russian-attackers-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-08T18:21:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s AI Opportunity Is Trade Intelligence, Not Chatbots",
+                "desc": "Afreximbank’s 2026 African Trade Report shows a continent facing disrupted supply chains, financing gaps, and unfinished regional integration. This first",
+                "image": "https://panafricanvisions.com/wp-content/uploads/2026/07/roger-1.jpg",
+                "url": "https://panafricanvisions.com/2026/07/africas-ai-opportunity-is-trade-intelligence-not-chatbots/",
+                "source": "pan african visions",
+                "date": "2026-07-08T18:21:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Donald Trump update: Court authorises E Jean Carroll to collect $8.4 million damages award",
+                "desc": "Carroll, 82, and Trump, 80, have battled in court for nearly seven years, after she accused him of raping her in a department store dressing room.",
+                "image": "https://static.ffx.io/images/$zoom_0.184%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/d552b11e93ec03d578a4ae72be4ac7c952751df9",
+                "url": "https://www.nine.com.au/world-news/usa/court-authorises-e-jean-carroll-to-collect-8-4-million-damages-award-from-trump-20260709-p60dte.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-08T18:16:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What will China’s Cities Become in Next Five Years",
+                "desc": "By Wang Yangyang Email, thecoastnewspaper@gmail.com Stand in a Chinese metropolis like Beijing, and the visual...",
+                "image": "https://www.thecoast.co.ke/wp-content/uploads/2021/09/cropped-edited_logo-32x32.png",
+                "url": "https://www.thecoast.co.ke/2026/07/08/what-will-chinas-cities-become-in-next-five-years/28/09/business-news/thecoast/16862/18/",
+                "source": "The Coast Media Group",
+                "date": "2026-07-08T18:16:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Danlos syndrome: Hamilton woman’s struggle shows hidden toll of rare condition",
                 "desc": "Hamilton student Kate Pudney hopes sharing her story will do more than raise awareness of the rare conditions that have reshaped her life. The 24-year-old is...",
@@ -1806,98 +1896,8 @@
                 "source": "The Independent",
                 "date": "2026-07-08T15:29:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Iran's ‘finger on the trigger’ response to Donald Trump's truce ‘over’ declaration",
-                "desc": "Donald Trump said that the interim agreement to end the war with Iran was \"over\" on Wednesday after Tehran carried out new attacks on US bases in the Gulf. | World News",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/08/550x309/Turkey-NATO-Summit-Trump-126_1783524624608_1783524641681_ca9413ba-9d80-4ec2-b174-75e8012c0f7d.jpg",
-                "url": "https://www.hindustantimes.com/world-news/iran-finger-on-the-trigger-response-to-donald-trump-truce-over-declaration-us-west-asia-war-101783500995359.html",
-                "source": "Hindustan Times",
-                "date": "2026-07-08T15:24:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya Tourism Board Named Lead Destination Partner for Africa Global PR Week 2026",
-                "desc": "The Kenya Tourism Board (KTB) has been confirmed as the Lead Destination Partner for Africa Global PR Week (AGPRW) 2026, taking place in Nairobi from 26 to 28 August 2026.",
-                "image": "https://atta.travel/static/f65dc5e0-45d5-4c24-86694773918d3176/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_49ea84f9c2ba/KTB-Logo.jpg",
-                "url": "https://atta.travel/resource/kenya-tourism-board-named-lead-destination-partner-for-africa-global-pr-week-2026.html",
-                "source": "ATTA Travel",
-                "date": "2026-07-08T15:24:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cargo plane wreckage found off Pakistan’s coast as search continues for 5 missing crew",
-                "desc": "Civilian and navy searchers off Pakistan’s coast Wednesday located and recovered wreckage of a cargo plane that disappeared while approaching the southern port of Karachi, and a search continues for five missing crew members, officials said.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260708-Pakistan-Plane-Missing-ch-1056-705805.jpg",
-                "url": "https://www.nbcnews.com/world/pakistan/cargo-plane-wreckage-found-pakistans-coast-rcna353494",
-                "source": "NBC News",
-                "date": "2026-07-08T14:58:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Drone Strikes on Civilian Vehicles Kill at Least 20 in Sudan, Rights Groups Say",
-                "desc": "Drone strikes on civilian vehicles headed to social gatherings in Sudan have killed over 20 people in recent day, according to rights groups, as the use of unmanned aircraft becomes increasingly common in the north eastern African country’s war. A drone hit the outskirts of Khartoum killing 10 civilians, including five women from the same family, as they drove to a wedding, the Sudan Doctors Network said on Wednesday.",
-                "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-07/1654347_0.jpeg.webp",
-                "url": "https://english.aawsat.com/arab-world/5293750-drone-strikes-civilian-vehicles-kill-least-20-sudan-rights-groups-say",
-                "source": "Asharq Al-Awsat English",
-                "date": "2026-07-08T14:58:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
-                "desc": "The remains of Iran's late supreme leader are transported to Najaf and Karbala, as funeral ceremonies continue for a fifth day.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87a5/live/8318cb30-7adc-11f1-9a9c-53fd8f110370.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo",
-                "source": "BBC",
-                "date": "2026-07-08T14:56:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
-                "desc": "The remains of Iran's late supreme leader are transported to Najaf and Karbala, as funeral ceremonies continue for a fifth day.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/87a5/live/8318cb30-7adc-11f1-9a9c-53fd8f110370.jpg",
-                "url": "https://www.bbc.com/news/articles/cp9le3kjj8eo",
-                "source": "BBC",
-                "date": "2026-07-08T14:56:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huge crowds flood Iraq’s holy cities for Khamenei funeral procession",
-                "desc": "Huge crowds thronged the streets of Najaf and packed the courtyards of its majestic shrine as they mourned late Iranian supreme leader Ayatollah Ali Khamenei during his funeral procession in Iraq Wednesday .",
-                "image": "https://cdn.modernghana.com/images/content/78202643619-m6htl8w331-4b62a3e4a3ffce83ab48c9f92ffd61d8830781fc.jpg",
-                "url": "https://www.modernghana.com/news/1508925/huge-crowds-flood-iraqs-holy-cities-for-khamenei.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-08T14:56:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here are Africa’s biggest exporters for 2025 as trade hits $496bn",
-                "desc": "Africa’s export economy remains concentrated in a relatively small group of countries, but the last year’s rankings reveal a sharp divide...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Untitled-design-14.png",
-                "url": "https://businessday.ng/africa/article/here-are-africas-biggest-exporters-for-2025-as-trade-hits-496bn/",
-                "source": "Business News Nigeria",
-                "date": "2026-07-08T14:54:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mette Frederiksen says Greenland not for sale as Trump pushes control",
-                "desc": "Denmark's Prime Minister Mette Frederiksen says Greenland is \"not for sale\" at the NATO summit, vowing to defend sovereignty after Donald Trump pushed for U.S. control.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/mette-frederiksen-donald-trump-split.jpg",
-                "url": "https://www.foxnews.com/politics/denmark-vows-defend-greenland-trump-reiterates-us-control-territory",
-                "source": "Fox News",
-                "date": "2026-07-08T14:51:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa -China 2.0 with Paul Frimpong Reflections on China's Modernization Journey at 105: Perspectives for Africa",
-                "desc": "As China marks the 105th anniversary of the Communist Party of China (CPC), founded in 1921, the occasion provides an opportunity to reflect on one of the most significant modernization journeys of the modern era.",
-                "image": "https://thebftonline.com/api/media/file/Screenshot%202026-07-08%20144041.png",
-                "url": "https://thebftonline.com/article/africa-china-2-0-with-paul-frimpong-reflections-on-china-s-modernization-journey-at-105-perspectives-for-africa",
-                "source": "Business & Financial Times",
-                "date": "2026-07-08T14:48:32Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T06:00:41.635237Z"
+    "lastGlobalSync": "2026-07-09T06:40:35.798254Z"
 }
