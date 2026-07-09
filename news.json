@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "I’ve completed 355 parkruns - here’s what you need to get started",
+                "desc": "You don’t need to be a super athlete to take part in parkrun. Whether it’s pacing yourself or picking the perfect shoes, here’s how to find your feet at the UK’s favourite 5k",
+                "image": "https://i.guim.co.uk/img/media/acd75874006933f97f61a3caa9648d40a6a8a8c0/114_0_1153_922/master/1153.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVrLnBuZw&enable=upscale&s=3864472047040098b424df2ad4a5d9c0",
+                "url": "https://www.theguardian.com/thefilter/2026/jul/08/beginners-guide-parkrun-uk",
+                "source": "The Guardian",
+                "date": "2026-07-08T14:00:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Waymo starts driverless rides in San Diego, Las Vegas, Tampa, Denver",
+                "desc": "Waymo has a big lead in the nascent U.S. robotaxi market, and is opening up in more cities.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108331727-1783458801550-gettyimages-2285112992-_04a1429_vnvpqb9y.jpeg?v=1783458850&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/08/waymo-starts-driverless-rides-in-san-diego-las-vegas-tampa-denver.html",
+                "source": "CNBC",
+                "date": "2026-07-08T14:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX Stock: Is It a Buy at $150?",
+                "desc": "Investors can now buy the stock at about the same price it traded at when it first began trading.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877489%2Fa-persons-finger-on-a-spaceship-showing-a-rising-stock-price.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/08/spacex-stock-has-the-hype-faded/",
+                "source": "The Motley Fool",
+                "date": "2026-07-08T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australians face record high rents across all capital cities: Domain report",
+                "desc": "Rents are soaring in several capital cities as low vacancy rates collide with rising interest rates and population growth.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/790bb43ff15e696b46595ec0fb75521a?impolicy=wcms_watermark_news&cropH=1699&cropW=3020&xPos=0&yPos=390&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-08/record-high-rents-across-capital-cities-led-by-sydney-domain/106890418",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-08T13:59:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ditch older Claude versions with backdoor code",
+                "desc": "National vulnerability database claims monitoring mechanism can forward Chinese users' data to remote servers",
+                "image": "https://image.theregister.com/5254628.jpg?imageId=5254628&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/security/2026/07/08/china-ditch-older-claude-versions-with-backdoor-code/5268371",
+                "source": "The Register",
+                "date": "2026-07-08T13:58:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Execs Confused and Horrified by the Huge AI Bills After Thinking They Could Replace Workers for Free",
+                "desc": "Nearly one-third of corporate executives surveyed did not understand how their operating costs relate to AI deployment.",
+                "image": "https://futurism.com/wp-content/uploads/2026/07/executives-corporations-ai-bills-metered-billing.jpg?w=1200",
+                "url": "https://futurism.com/future-society/executives-corporations-ai-bills-metered-billing",
+                "source": "Futurism",
+                "date": "2026-07-08T13:57:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Coffee prices may stay high for at least two years as El Niño roils supplies",
+                "desc": "Coffee prices may stay high for at least two years as El Niño roils supplies",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/6127e0f/2147483647/strip/true/crop/2000x1050+0+129/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2F47%2F9710d3d4024d741e046a454db910%2F1x-1.jpg",
+                "url": "https://www.latimes.com/business/story/2026-07-08/coffee-prices-may-stay-high-for-at-least-two-years-as-el-nino-roils-supplies",
+                "source": "Los Angeles Times",
+                "date": "2026-07-08T13:54:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SEC Outlines 2026 Agenda Focusing on Crypto Rulemaking and Tokenization",
+                "desc": "SEC Chair Paul Atkins said the agency’s 2026 Regulatory Agenda will focus on crypto rulemaking, tokenized securities, public market reforms, and broader access",
+                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
+                "url": "https://www.kucoin.com/news/flash/sec-outlines-2026-agenda-focusing-on-crypto-rulemaking-and-tokenization",
+                "source": "KuCoin",
+                "date": "2026-07-08T13:54:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Firm empowers 20 realtors on leadership training in Doha",
+                "desc": "As part of efforts to strengthen leadership capacity and reward outstanding performance, Reftop Homes Limited has empowered and sponsored 20",
+                "image": "https://cdn.guardian.ng/wp-content/uploads/2026/07/fast1928.webp",
+                "url": "https://guardian.ng/news/firm-empowers-20-realtors-on-leadership-training-in-doha/",
+                "source": "The Guardian Nigeria News",
+                "date": "2026-07-08T13:52:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MSME Digital Gateway launched to connect entrepreneurs to business support, finance, and markets",
+                "desc": "Ghana 39;s entrepreneurs now have a one-stop digital platform to access the information, services and opportunities they need to start, grow and scale their businesses following the launch of the MSME Digital Gateway. Developed by the Ghana Enterprises Agency (GEA) in partnership with the United Nations Development Programme (UNDP) and the Ghana-India Kofi Annan Centre of Excellence in ICT (GI-KACE), with funding support from the European Union through the Joint SDG Fund, the MSME Dig",
+                "image": "https://cdn.modernghana.com/images/content/782026124140-swnaqecp5k-undpghana.jpeg",
+                "url": "https://www.modernghana.com/news/1508821/msme-digital-gateway-launched-to-connect-entrepren.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-08T13:50:57Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Lawmakers Target the Power of Health Insurance Giants",
                 "desc": "UnitedHealth Group, CVS Health and Cigna are battling efforts to break up their control over prescription drugs.",
                 "image": "https://static01.nyt.com/images/2026/05/25/business/00insurance-breakup/00insurance-breakup-facebookJumbo.jpg",
@@ -542,99 +632,99 @@
                 "source": "BBC",
                 "date": "2026-07-08T01:48:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Pedigree dog food recalled over metal and plastic contamination risk",
-                "desc": "Mars Petcare issued a Pedigree dog food recall over potential metal and plastic foreign material in two lots of canned food fraudulently diverted into the U.S. marketplace.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/dog-eating-food.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/economy/popular-pet-food-recalled-over-possible-sharp-metal-plastic-contamination",
-                "source": "Fox Business",
-                "date": "2026-07-08T01:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Canberra's new suburbs are full of massive houses on tiny blocks",
-                "desc": "Canberra's newest suburb, Denman Prospect, is filled with huge, feature-packed homes. Discover why this trend continues despite calls for smaller dwellings.",
-                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/182096266/e6c627ad-be0c-4441-93dd-2abd37422c9f.png/r0_30_1600_870_w1200_h630_fmax.jpg",
-                "url": "https://www.canberratimes.com.au/story/9290645/canberras-big-homes-in-new-suburbs-defy-australias-small-house-trend/",
-                "source": "The Canberra Times",
-                "date": "2026-07-08T01:38:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jobless Pinoys rise to 2.50 million in April 2026, unemployment rate at 4.8%",
-                "desc": "Jobless Pinoys rise to 2.50 million in April 2026, unemployment rate at 4.8%",
-                "image": "https://images.gmanews.tv/webpics/2025/12/Screenshot_2025-12-30_025338_2025_12_30_02_53_46.png",
-                "url": "https://www.gmanetwork.com/news/money/economy/994115/jobless-filipinos-unemployment-rate-2026/story/",
-                "source": "GMA Network",
-                "date": "2026-07-08T01:31:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Experts: How insurtech can redesign Nigeria’s insurance landscape",
-                "desc": "For decades, Nigeria’s insurance industry has struggled with low penetration, cumbersome claims processes and weak public trust. Today, however, technology-driven innovations are beginning to rewrite that narrative.",
-                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/01/health-Insurance-kBy-621x414@LiveMint.jpg",
-                "url": "https://thesun.ng/experts-how-insurtech-can-redesign-nigerias-insurance-landscape/",
-                "source": "The Sun Nigeria",
-                "date": "2026-07-08T01:30:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The golf course in the middle of Sydney’s data centre land rush",
-                "desc": "Community groups along the Cooks River are aghast at the proposal.",
-                "image": "https://static.ffx.io/images/$zoom_0.8221%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0b8b0914f0925c6a4f6e13133fd51d2cddc8b439",
-                "url": "https://www.smh.com.au/national/nsw/the-golf-course-in-the-middle-of-sydney-s-data-centre-land-rush-20260706-p60cyn.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-08T01:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "If You Have a Public Instagram Account, You Might Be Surprised What AI Users Can Now Do With Your Face",
-                "desc": "Meta's slop generator has arrived late in the game, and you might want to opt-out from it.",
-                "image": "https://gizmodo.com/app/uploads/2026/03/shutterstock_2450982865-1200x675.jpg",
-                "url": "https://gizmodo.com/if-you-have-a-public-instagram-account-you-might-be-surprised-what-ai-users-can-now-do-with-your-face-2000782694",
-                "source": "Gizmodo",
-                "date": "2026-07-08T01:28:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Government may tweak BOJ policy phrase in annual agenda, report says",
-                "desc": "The draft of the agenda is seen as a key driver for yen weakness and pushing bond yields higher.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/08/550440.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/business/2026/07/08/economy/boj-policy-phrase-plan-tweak/",
-                "source": "The Japan Times",
-                "date": "2026-07-08T01:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First Impressions: RBNZ Monetary Policy Review July 2026",
-                "desc": "Review of the RBNZ July policy meeting",
-                "image": "https://library.westpaciq.com.au/content/dam/public/westpaciq/images/featureimage/NZ/westpaciq_articlef_currency-nz_1010x568.jpg",
-                "url": "https://www.westpaciq.com.au/economics/2026/07/first-impressions-rbnz-monetary-policy-review-july-2026-",
-                "source": "Westpac IQ",
-                "date": "2026-07-08T01:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Celltrion draws bullish broker outlooks after second straight sales beat",
-                "desc": "Celltrion has strengthened investor confidence in its earnings growth after revenue surpassed market expectations for a second consecutive quarter, with domestic and overseas brokerages pointing to its expanding biosimilar portfolio and emerging novel drug pipeline as key drivers of its longer-term",
-                "image": "https://cdn.koreabiomed.com/news/thumbnail/202607/32345_35148_197_v150.jpg",
-                "url": "https://www.koreabiomed.com/news/articleView.html?idxno=32345",
-                "source": "koreabiomed.com",
-                "date": "2026-07-08T01:25:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "McCormick Is Shifting From the Spice Rack to the Refrigerator With This $45 Billion Deal",
-                "desc": "McCormick is combining with Unilever's food division to reduce its exposure to private label competition.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877662%2Fgettyimages-1209008493.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/07/mccormick-is-shifting-from-the-spice-rack-to-the-r/",
-                "source": "The Motley Fool",
-                "date": "2026-07-08T01:25:33Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Elastic layer lets sulfide solid-state batteries run longer with less pressure",
+                "desc": "A Korean research team has developed a technology that enhances the lifespan and stability of all-solid-state batteries by using a rubber-like, elastic ion-conductive material. The research was published in Energy Storage ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/research-team-solves-i.jpg",
+                "url": "https://techxplore.com/news/2026-07-elastic-layer-sulfide-solid-state.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-08T14:00:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Study finds NFL players 4 times more likely to die due to neurodegenerative disease",
+                "desc": "A new study from Mass General Brigham, Boston University and the Concussion & CTE Foundation found that National Football League (NFL) players had higher rates of neurodegenerative disease-caused mortality than the general population. A cohort study of nearly 20,000 NFL players revealed that, while players had lower mortality on average compared with national rates, they were four times more likely to experience neurodegenerative mortality. Results are published in eClinicalMedicine.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/nfl-1.jpg",
+                "url": "https://medicalxpress.com/news/2026-07-nfl-players-die-due-neurodegenerative.html",
+                "source": "Medical Xpress",
+                "date": "2026-07-08T14:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Steam Machine Review in Progress: So Many Questions for Such a Little Box",
+                "desc": "Can Valve make a game console? Oh yes, it can, but it's an imperfect mix at the moment. Still, there are parts that impress.",
+                "image": "https://www.cnet.com/a/img/resize/eee4f1a13ebe54394ec80c2054c0c9f59cdff4f0/hub/2026/07/07/9fb12a98-1d58-4387-9781-a84bc2b8c81d/steam-machine-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/gaming/valve-steam-machine-hands-on-first-impressions/",
+                "source": "CNET",
+                "date": "2026-07-08T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bug in top AI coding agents shows that Unix-era security headaches never really die",
+                "desc": "'GhostApproval' problem highlights human-in-the-loop fails",
+                "image": "https://image.theregister.com/5263225.jpg?imageId=5263225&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/security/2026/07/08/bug-in-top-ai-coding-agents-shows-that-unix-era-security-headaches-never-really-die/5268025",
+                "source": "The Register",
+                "date": "2026-07-08T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The 2026 Robb Report Audio Awards",
+                "desc": "The Robb Report staff test hundreds of the best audio products every year. We've mined those reviews to name the best audiophile gear of 2026.",
+                "image": "https://robbreport.com/wp-content/uploads/2026/06/RR_20260521_Audio_Awards_Thorens_Lead.jpg?w=681&h=383&crop=1",
+                "url": "https://robbreport.com/gear/audio/lists/2026-audio-awards-1238207447/",
+                "source": "Robb Report",
+                "date": "2026-07-08T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "No TikTok until you get your steps in.",
+                "desc": "The step tracking app WeWard has a new way to cut back on screen time — its “Walking Mode” feature can lock selected apps until you hit your step goal, TechCrunch reports. If you leave Walking Mode turned on, it will re-lock your apps when your step goal resets each day.\n[Link: Venus Williams-backed WeWard can now lock your apps until you hit your steps | TechCrunch | https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/ | TechCrunch]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+                "url": "https://www.theverge.com/tech/962765/no-tiktok-until-you-get-your-steps-in",
+                "source": "The Verge",
+                "date": "2026-07-08T13:59:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pixel Watch 5 price increase expected as configs and release date leaked ahead of Made by Google event",
+                "desc": "Google's annual Made by Google event is confirmed for next month, and the new Pixel Watch 5 has been leaked ahead of the presentation.",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Google-Pixel-Watch-4-with-gradient-backdrop.jpg",
+                "url": "https://www.pcguide.com/news/pixel-watch-5-price-increase-expected-as-configs-and-release-date-leaked-ahead-of-made-by-google-event/",
+                "source": "PC Guide",
+                "date": "2026-07-08T13:58:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "All Email Validation for Microsoft 365, Google Workspace, and More",
+                "desc": "The update helps marketing and sales teams make faster decisions based on higher-quality email data and move campaigns forward with […]",
+                "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
+                "url": "https://technode.global/prnasia/zerobounce-improves-catch-all-email-validation-for-microsoft-365-google-workspace-and-more/",
+                "source": "TNGlobal",
+                "date": "2026-07-08T13:57:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "REALTY ONE GROUP ARRIVES IN MONGOLIA",
+                "desc": "/CNW/ -- Realty ONE Group International, a modern, purpose-driven lifestyle brand and ONE of the fastest-growing franchises in the world, has officially sold...",
+                "image": "https://mma.prnewswire.com/media/260011/realty_one_group___logo.jpg?p=facebook",
+                "url": "https://www.newswire.ca/news-releases/realty-one-group-arrives-in-mongolia-876592499.html",
+                "source": "Newswire Canada",
+                "date": "2026-07-08T13:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gene Therapy Shows Promise for Methylmalonic Acidemia",
+                "desc": "Genespire , in collaboration with researchers at the San Raffaele Telethon Institute for Gene Therapy (SR-TIGET) , has today announced the",
+                "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1526470608268-f674ce90ebd4%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1267%26amp%3Bq%3D80",
+                "url": "https://www.miragenews.com/gene-therapy-shows-promise-for-methylmalonic-1706824/",
+                "source": "Mirage News",
+                "date": "2026-07-08T13:54:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "PSA: macOS 28 will drop support for encrypted Mac OS Extended volumes",
                 "desc": "Apple has announced that starting with macOS 28, users will need to decrypt or reformat certain storage volumes to keep using them.",
@@ -1174,99 +1264,90 @@
                 "source": "Inven Global",
                 "date": "2026-07-08T01:17:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "SJX Podcast: Evolution Not Revolution",
-                "desc": "Familiar favourites, improved.",
-                "image": "https://watchesbysjx.com/wp-content/uploads/2026/07/SJX-Podcast-episode-44-3x2-header.jpg",
-                "url": "https://watchesbysjx.com/2026/07/sjx-podcast-episode-45.html",
-                "source": "SJX Watches",
-                "date": "2026-07-08T01:00:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The final level? Inside Sony’s controversial plan to scrap game discs",
-                "desc": "Last week, Sony announced it would stop producing Playstation game discs from January 2028, with all distribution shifting to digital downloads.  On the surface, the decision seemed a long-overdue reaction to changing consumer trends. Around 80 per cent of Playstation games are already bought digitally, making physical discs increasingly expensive to manufacture, distribute and stock. […]",
-                "image": "https://insideretail.asia/wp-content/uploads/2026/07/bigstock-Eskisehir-Turkey-August-210713623.png",
-                "url": "https://insideretail.asia/2026/07/08/the-final-level-inside-sonys-controversial-plan-to-scrap-game-discs/",
-                "source": "Inside Retail Asia",
-                "date": "2026-07-08T00:57:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cookie Run: Crumble Surpasses 1 Million Pre-registrations in Three Days",
-                "desc": "Source: Devsisters ©DevsistersThe number of pre-registrations for the new mobile title 'Cookie Run: Idle - Cookie Run: Crumble' (hereinafter 'Cookie Run: Crumble'), currently ...",
-                "image": "https://static.invenglobal.com/upload/image/2026/07/08/i1783471821031039.jpeg",
-                "url": "https://www.invenglobal.com/articles/23521/cookie-run-crumble-surpasses-1-million-pre-registrations-in-three-days",
-                "source": "Inven Global",
-                "date": "2026-07-08T00:52:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Smart Glasses Are Putting Cameras on People's Faces. Here's How to Spot Them",
-                "desc": "Meta Ray-Bans and other smart glasses can stealthily capture photos and videos in public spaces.",
-                "image": "https://www.cnet.com/a/img/resize/fcffb08f20576184d0f38874c1f1f7a4b4e52ce2/hub/2026/06/16/badeee7d-2b0d-4026-a2e4-7c6deadf866f/evan-spiegel-wearing-snap-specs.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/tech/mobile/smart-glasses-are-putting-cameras-on-peoples-faces-heres-how-to-spot-them/",
-                "source": "CNET",
-                "date": "2026-07-08T00:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motorola officially teases new phone with \"magnetic power\"",
-                "desc": "The Motorola Edge 70 Max has been officially teased ahead of its launch in India. The upcoming smartphone is expected to feature built-in magnets and support Qi2 wireless charging.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Motorola-Edge-70-Max-news.png",
-                "url": "https://www.notebookcheck.net/Motorola-officially-teases-new-phone-with-magnetic-power.1336770.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-08T00:43:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why WooCommerce Remains a Popular Choice for Online Stores",
-                "desc": "WooCommerce continues to be one of the most popular eCommerce solutions for online stores worldwide. Built on WordPress, it combines flexibility, scalability,",
-                "image": "https://www.tech-critter.com/wp-content/uploads/2026/07/pexels-photo-7054753.webp",
-                "url": "https://www.tech-critter.com/why-woocommerce-remains-a-popular-choice-for-online-stores/",
-                "source": "Tech Critter",
-                "date": "2026-07-08T00:39:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As AI Moves Into the Physical World, Humanity & AGI Summit 2026 Brings Global Leaders to Stanford",
-                "desc": "STANFORD, CA, July 07, 2026 (GLOBE NEWSWIRE) -- The AI Robotics Alliance of America, known as AIRA, will host the Humanity & AGI Summit 2026 on Sunday, July 12, at the Stanford Faculty Club, bringing together leading voices from artificial intelligence, robotics, science, public policy, venture capital and global thought leadership.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/08/1128655.png",
-                "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/as-ai-moves-into-the-physical-world-humanity-agi-summit-2026-brings-global-leaders-to-stanford/2380419",
-                "source": "The Manila Times",
-                "date": "2026-07-08T00:38:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "S/C: Porsche’s first 911 GT3 cabriolet tested",
-                "desc": "Speedster was loved but Porsche says GT customers wanted an easier roof",
-                "image": "https://www.goauto.com.au/images/fc9b638d31cb4d9ba929d7dbeb4d8d8404e79371.jpg",
-                "url": "https://www.goauto.com.au/news/porsche/speedster/s-c-porsche-rsquo-s-first-911-gt3-cabriolet-tested/2026-07-08/99771.html",
-                "source": "goauto.com.au",
-                "date": "2026-07-08T00:37:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brick Review: Adding a physical roadblock to end your doom-scrolling",
-                "desc": "Brick introduces a physical plastic key to digital wellness, adding a layer of real-world friction to easily bypassed screen limits.",
-                "image": "https://eftm.com/wp-content/uploads/2026/07/PXL_20260706_063251961-scaled.jpg",
-                "url": "https://eftm.com/2026/07/brick-review-adding-a-physical-roadblock-to-end-your-doom-scrolling-277956",
-                "source": "EFTM",
-                "date": "2026-07-08T00:35:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Meets Retouching: Claude Interviews Renowned International Retoucher Matt Supple",
-                "desc": "AI interviewing a human about AI — it had to happen eventually. Claude sits down with renowned retoucher Matt Supple to talk workflow, ethics, and the tools reshaping the industry.\nQ1: How do you see AI image generation enhancing your workflow as a retoucher?\nI've been using AI heavily in my wor",
-                "image": "https://campaignbrief.com/wp-content/uploads/2026/07/Matt-Supple-Claude-QA.jpg",
-                "url": "https://campaignbrief.com/ai-meets-retouching-claude-interviews-renowned-international-retoucher-matt-supple/",
-                "source": "Campaign Brief",
-                "date": "2026-07-08T00:32:22Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Farage’s Resignation Risks Becoming Farce as U.K. Parties Boycott Clacton By-Election",
+                "desc": "Under investigation over an undisclosed gift, the right-wing leader Nigel Farage may end up in a special election against a candidate dressed as a trash can.",
+                "image": "https://static01.nyt.com/images/2026/07/08/world/08int-uk-farage-theater-0001/08int-uk-farage-theater-0001-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/08/world/europe/uk-nigel-farage-resigns-clacton-election.html",
+                "source": "The New York Times",
+                "date": "2026-07-08T13:51:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thai parliament approves amnesty for hundreds of activists",
+                "desc": "BANGKOK: Thailand's parliament passed an amnesty bill on Wednesday (Jul 8) benefitting hundreds of activists found guilty over the last 20 years, but not those sentenced for corruption or violating the royal insult law.The bill covers members of both the conservative, royalist \"Yellow Shirts\" and the \"Red Shi",
+                "image": "https://dam.mediacorp.sg/image/upload/s--Iwb6d7Ep--/c_crop,h_899,w_1598,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/02/thai_flag.jpg?itok=OojBgD4E",
+                "url": "https://www.channelnewsasia.com/asia/thailand-amnesty-yellow-red-shirt-activists-6241356",
+                "source": "CNA",
+                "date": "2026-07-08T13:51:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elderly cat survives four-hour cycle in tumble dryer",
+                "desc": "Minam was napping in a blanket in a clothes dryer when it was turned on by his unwitting owner.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/cat-in-australia-survives-after-four-hours-in-clothes-dryer-MY2XJXEEVJGFFETCHU4WPYYBPE.png?auth=9db9c2240bbee039da112ad552c641f2b367db42f929ccc1fc027107c69bd27d&quality=70&width=600&height=315&focal=0%2C0",
+                "url": "https://www.1news.co.nz/2026/07/08/elderly-cat-survives-four-hour-cycle-in-tumble-dryer/",
+                "source": "1News",
+                "date": "2026-07-08T13:51:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Platner’s campaign trying to navigate exit from consequential Maine race, sources say",
+                "desc": "Graham Platner and a small team of strategists behind his candidacy are trying to navigate an exit from the consequential Senate race in Maine without entirely squandering the movement he built, people familiar with the matter said, rather than digging in or trying to find a path forward for his candidacy.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277647003.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/08/politics/graham-platner-campaign-strategy",
+                "source": "CNN",
+                "date": "2026-07-08T13:45:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s clean energy financing gap widens as International public investment falls short of energy access goals",
+                "desc": "International public financing for clean energy in developing countries remained below historical levels in 2024, highlighting a widening gap between Africa’s",
+                "image": "https://africasustainabilitymatters.com/wp-content/uploads/2026/07/9e18f6e5d878c18f41049edae916c91b_L.jpg",
+                "url": "https://africasustainabilitymatters.com/africas-clean-energy-financing-gap-widens-as-international-public-investment-falls-short-of-energy-access-goals/",
+                "source": "Africa Sustainability Matters",
+                "date": "2026-07-08T13:45:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ruth Ellis, last woman to be executed in the UK, granted conditional pardon",
+                "desc": "Ruth Ellis was hanged at London's Holloway Prison in 1955 after being convicted of murdering her lover David Blakely.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9f0d/live/654565b0-af1b-11f0-904a-f9028cea88d6.png",
+                "url": "https://www.bbc.com/news/articles/crel4rj801do",
+                "source": "BBC",
+                "date": "2026-07-08T13:43:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Woman Gives Birth While Asleep, Finds Newborn Under Blanket",
+                "desc": "A Canadian mother shares her traumatic experience of giving birth while asleep and finding her newborn son under the blanket, sparking online discussion.",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/Canada_1783517981.webp",
+                "url": "https://punchng.com/woman-gives-birth-while-asleep-finds-newborn-under-blanket/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-08T13:42:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marine Le Pen’s decision to run for French presidency is a big gamble",
+                "desc": "Under the shadow of a conviction for abuse of public funds, is the four-time presidential candidate the best choice for her party?",
+                "image": "https://www.irishtimes.com/resizer/v2/WHA3ZTKSS7A7HSZSBLJTF6AVEY.jpg?smart=true&auth=426f6584740251fa9d922925f7cf4575f33d2283a345f1655968d993957da418&width=1200&height=630",
+                "url": "https://www.irishtimes.com/world/europe/2026/07/08/marine-le-pens-decision-to-run-for-french-presidency-is-a-big-gamble/",
+                "source": "The Irish Times",
+                "date": "2026-07-08T13:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN inquiry urges release of Palestinian doctor jailed by Israel",
+                "desc": "The inquiry commission urges Israel to release Hussam Abu Safia, citing credible reports he has suffered ‘severe abuse’.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260706__B9ER62H__v5__HighRes__IsraelPalestinianConflictProtest-1783513960.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/8/un-inquiry-urges-release-of-palestinian-doctor-jailed-by-israel",
+                "source": "Al Jazeera",
+                "date": "2026-07-08T13:40:41Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The UN Scientific Panel on AI's Preliminary Report Does Not Establish Its Independence",
                 "desc": "Researchers from the AI Policy Lab at Umeå University recommend procedures and disclosures to help IISPAI achieve trust and credibility.",
@@ -1815,89 +1896,8 @@
                 "source": "Church in Need",
                 "date": "2026-07-08T01:00:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ryanair flight declares 'low fuel' emergency mid-air after airport chaos",
-                "desc": "Ryanair flight FR5448 declared a fuel emergency and diverted to Brest after a runway blockage at Nantes Airport prevented landing, with the crew requesting priority handling as fuel levels dwindled during an unexpected holding pattern",
-                "image": "https://i2-prod.irishmirror.ie/article37329284.ece/ALTERNATES/s1200d/0_Boeing-737-of-Ryanair-taking-off-from-Schiphol-Amsterdam-Airport.jpg",
-                "url": "https://www.irishmirror.ie/news/world-news/ryanair-flight-declares-low-fuel-37400571",
-                "source": "Irish Mirror",
-                "date": "2026-07-08T00:54:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. charges Lawrence Bishnoi, Goldy Brar for Nijjar’s killing in Canada in 2023",
-                "desc": "U.S. charges Lawrence Bishnoi and Goldy Brar for orchestrating the 2023 assassination of Khalistani separatist Hardeep Singh Nijjar in Canada.",
-                "image": "https://th-i.thgim.com/public/incoming/ujpge6/article71196407.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-08%20at%2006.15.09.jpeg",
-                "url": "https://www.thehindu.com/news/international/us-charges-lawrence-bishnoi-goldy-brar-for-hardeep-nijjar-killing-in-canada-in-2023/article71196406.ece",
-                "source": "The Hindu",
-                "date": "2026-07-08T00:51:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mba moves to secure energy supply as global conflicts",
-                "desc": "As escalating conflicts across the Middle East continue to threaten critical global shipping routes, maritime expert and Managing Director of Vega Solutions Ltd, Joy Uchechukwu Mba, has intensified efforts to strengthen maritime energy supply chains, positioning Nigeria and Africa to better withstand disruptions capable of triggering fuel shortages, rising inflation and supply chain instability.",
-                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/07/IMG-20260708-WA0000_1.jpg",
-                "url": "https://thesun.ng/mba-moves-to-secure-energy-supply-as-global-conflicts-threaten-trade-routes/",
-                "source": "The Sun Nigeria",
-                "date": "2026-07-08T00:51:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Korea officially launches digital nomad visa with eased eligibility rules",
-                "desc": "Under the new rules, lower income thresholds apply depending on factors. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9ac68c681274e3c87c2b8b0bde1a9ae94d2b9a08a20a834343562ed178b436bd",
-                "url": "https://www.straitstimes.com/asia/east-asia/south-korea-officially-launches-digital-nomad-visa-with-eased-eligibility-rules",
-                "source": "The Straits Times",
-                "date": "2026-07-08T00:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thailand cannabis draft law targets medical use and shop controls",
-                "desc": "Public Health Minister Pattana Promphat says the draft law will cover cultivation, while officials move against unlicensed outlets and fake permits.",
-                "image": "https://media.nationthailand.com/uploads/images/md/2026/07/hGxuk4qT6sn76elcjGqr.webp",
-                "url": "https://www.nationthailand.com/news/policy/40068375",
-                "source": "Nation Thailand",
-                "date": "2026-07-08T00:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anantara Stanley & Livingstone Enhances Safari Offering with New Pool Suites and Spa Gazebo",
-                "desc": "Anantara Stanley & Livingstone Hotel has enhanced its safari offering with two new Pool Suites and a Spa Gazebo, adding private wellness and accommodation experiences within the Victoria Falls Private Game Reserve.",
-                "image": "https://www.hospitalityandcateringnews.com/wp-content/uploads/2026/07/anantara-stanley-livingstone-enhances-safari-offering-with-new-pool-suites-and-spa-gazebo.jpg",
-                "url": "https://www.hospitalityandcateringnews.com/2026/07/anantara-stanley-livingstone-enhances-safari-offering-with-new-pool-suites-and-spa-gazebo/",
-                "source": "Hospitality & Catering News",
-                "date": "2026-07-08T00:11:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donald Trump makes fresh demands for Greenland at NATO summit",
-                "desc": "The president has threatened to pull all US troops out of Europe if he doesn’t get his way.",
-                "image": "https://static.ffx.io/images/$zoom_0.7915%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_24/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/e622a2106809cf9879820ad7f1b4167b4b8fd868",
-                "url": "https://www.nine.com.au/world-news/usa/donald-trump-makes-fresh-demands-for-greenland-at-nato-summit-20260708-p60djc.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-08T00:08:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "“If I were China”: A different way of thinking about Myanmar",
-                "desc": "Realpolitik will decide Myanmar’s fate – democratic advocates must speak to interests, not ideals, to gain international support.",
-                "image": "https://cdn.sanity.io/images/5dcouzig/production/de841e35dd96bcd324b89597e34d2dfcd844b266-3872x2592.jpg?rect=0,280,3872,2033&w=1200&h=630&fm=webp&q=85&fit=crop",
-                "url": "https://www.lowyinstitute.org/the-interpreter/if-i-were-china-a-different-way-of-thinking-about-myanmar",
-                "source": "Lowy Institute",
-                "date": "2026-07-08T00:03:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cardinal López of Rabat, Morocco, Temporarily Steps Aside from Ministry Due to Abuse Investigation",
-                "desc": "Cardinal Cristóbal López Romero asserted his innocence in a brief statement carried by the EFE news agency. \"I have not committed any assault, violence, or sexual harassment,\" he said.",
-                "image": "https://www.aciafrica.org/images/clopezromero_f4vcod.jpg?w=1200&format=jpeg",
-                "url": "https://www.aciafrica.org/news/22801/cardinal-lopez-of-rabat-morocco-temporarily-steps-aside-from-ministry-due-to-abuse-investigation",
-                "source": "ACI Africa",
-                "date": "2026-07-07T23:55:46Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T01:40:33.314651Z"
+    "lastGlobalSync": "2026-07-09T02:00:39.405009Z"
 }
