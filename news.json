@@ -4,6 +4,87 @@
     "en": {
         "business": [
             {
+                "title": "Tánaiste to attend meeting of EU finance ministers",
+                "desc": "Tánaiste and Minister for Finance Simon Harris will travel to Brussels today for a two-day meeting of EU finance and economy ministers.",
+                "image": "https://www.rte.ie/images/002406ec-1600.jpg",
+                "url": "https://www.rte.ie/news/politics/2026/0709/1582457-simon-harris-eu/",
+                "source": "RTE.ie",
+                "date": "2026-07-08T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Telstra outage: glitches continue as ‘secondary’ outages hit triple-zero calls and regional trains remain stranded",
+                "desc": "Carrier says some still unable to connect to emergency hotline a day after initial mobile network outage",
+                "image": "https://i.guim.co.uk/img/media/7b66c820dce3e1b0eb00c38dcbc175f3e5886b71/281_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8684cdab93c5f927517f5e1a7aa23f3f",
+                "url": "https://www.theguardian.com/business/2026/jul/09/telstra-outage-today-cause-vline-network-outages-update",
+                "source": "The Guardian",
+                "date": "2026-07-08T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "John McGrath explains how to navigate the property market as prices continue to fall",
+                "desc": "An expert has made a shock claim on what Australians can expect in just seven years’ time, claiming prices will double.",
+                "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/07/capi_f8ee8fb0e037ad9800200f1691b306d8_d67ca5cc22730ec5882a51cd4fbfcd5b.jpeg",
+                "url": "https://www.realestate.com.au/news/john-mcgrath-explains-how-to-navigate-the-property-market-as-prices-continue-to-fall/",
+                "source": "realestate.com.au",
+                "date": "2026-07-08T22:58:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AgXeed’s autonomous AgBot tractor arrives in Alberta",
+                "desc": "Dutch company AgXeed’s AgBots combine tracked, diesel-electric tractors with conventional implements to reduce soil compaction and labour.",
+                "image": "https://static.producer.com/wp-content/uploads/2026/07/08163202/343501_web1_T2-7-towing-seeder.jpg",
+                "url": "https://www.producer.com/machinery/agxeeds-autonomous-agbot-lands-in-alberta/",
+                "source": "The Western Producer",
+                "date": "2026-07-08T22:56:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SASSA to pay flagged beneficiaries last",
+                "desc": "SASSA introduces a fourth payment day for beneficiaries undergoing reviews in August, urging timely responses to maintain grant eligibility.",
+                "image": "https://iol-prod.appspot.com/image/a41a593376b9e0dbc95c0f0a83c651b8546c4f55/1000/jpeg",
+                "url": "https://dailyvoice.co.za/news/2026-07-08-sassa-to-pay-flagged-beneficiaries-last/",
+                "source": "Daily Voice",
+                "date": "2026-07-08T22:56:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cramer's lightning round: Buy Amprius Technologies",
+                "desc": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+                "image": "https://image.cnbcfm.com/api/v1/image/103507374-104044814.jpg?v=1697237650&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/08/cramers-lightning-round-buy-amprius-technologies.html",
+                "source": "CNBC",
+                "date": "2026-07-08T22:56:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Data centres could wipe $35,000 from house prices as buyers demand huge discounts",
+                "desc": "The AI boom’s infrastructure push has produced an unexpected consequence that will hit Aussies right in their home.",
+                "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/07/capi_03c53286f4a62fd65b8b25607daa92a5_3fd2616a227a268ba5da3e0b3bf64435.jpeg",
+                "url": "https://www.realestate.com.au/news/data-centres-could-wipe-35000-from-house-prices-as-buyers-demand-huge-discounts/",
+                "source": "realestate.com.au",
+                "date": "2026-07-08T22:52:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Memory Stock Sell-Off: Is This the Time to Buy Micron Technology and Sandisk Like There's No Tomorrow?",
+                "desc": "Micron and Sandisk have pulled back significantly after reaching 52-week highs last month.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877932%2Fmusndk_tmf.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/08/memory-stock-sell-off-is-this-the-time-to-buy-micr/",
+                "source": "The Motley Fool",
+                "date": "2026-07-08T22:50:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jim Cramer says buy the dip in this household name - and in another newly public stock",
+                "desc": "CNBC’s Jim Cramer said recent declines in FedEx and FedEx Freight have created buying opportunities.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108325793-1782248070009-gettyimages-2282993162-_88a8110_bi7xxdni.jpeg?v=1782248250&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/08/jim-cramer-buy-dip-fedex-freight.html",
+                "source": "CNBC",
+                "date": "2026-07-08T22:46:23Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as US strikes Iran for second day",
                 "desc": "US stock futures slipped as the US struck Iran for the second day in a row, hours after President Trump declared the ceasefire between the two countries \"over.\"",
                 "image": "https://s.yimg.com/lo/mysterio/api/A9CB2ECE2E92528CC6E3FE3D75FF94B2A0DFA28F64E57105EE3C1D6EC6492A75/subgraphmysterio/resizefill_w1200_h763;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-04%2F1758ac70-3faf-11f1-b7ef-d7042ed3dc75",
@@ -551,90 +632,90 @@
                 "source": "CNBC",
                 "date": "2026-07-08T19:32:25Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Meta is building its first, big data center in Canada amid AI push",
-                "desc": "Meta is building its first big Canadian data center as AI expansion crosses the border.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108332350-1783539359807-01_Sturgeon-Data-Center_Carousel-01.jpg?v=1783539485&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
-                "source": "CNBC",
-                "date": "2026-07-08T19:31:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthropic Is Reportedly Worth $965 Billion. Here Are 3 Ways to Play It.",
-                "desc": "Anthropic is on course for its IPO, but there are ways for retail investors to get portfolio exposure to it before the big day.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877189%2Fgettyimages-2028913410-1200x814-262fe97.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/08/anthropic-is-reportedly-worth-965-billion-here-are/",
-                "source": "The Motley Fool",
-                "date": "2026-07-08T19:31:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceXAI releases Grok 4.5, which Elon describes as an 'Opus-class model'",
-                "desc": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
-                "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-                "source": "TechCrunch",
-                "date": "2026-07-08T19:30:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's how Colombia's new transport minister plans to unlock infrastructure",
-                "desc": "Colombia's incoming transport minister pledged to unlock strategic projects including the Bogotá metro, the Metro de la 80, the Mulaló-Loboguerrero road and the expansion of El Dorado airport.",
-                "image": "https://cdnimg.bnamericas.com/ZhQegetAcRtsiDntcjALQNFiSCALjGRFplGOIwVeuQevxwGLxDyJpYcjfhVcIuDm.jpg",
-                "url": "https://www.bnamericas.com/en/news/heres-how-colombias-new-transport-minister-plans-to-unlock-infrastructure",
-                "source": "BNamericas",
-                "date": "2026-07-08T19:29:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Threads Has a 'Richard Has Passed' Problem",
-                "desc": "Threads is full of people who seem to be accidentally crossposting from Instagram or Facebook, like the \"This is Richard's wife\" woman.",
-                "image": "https://i.insider.com/6a4eaaf3d3a449ec3445f6d5?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/threads-richard-has-passed-instagram-cross-posting-facebook-instagram-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-08T19:28:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mom-and-pop landlords outpacing big real estate investors: StatCan data",
-                "desc": "In the United States, the role of Real Estate Investment Trusts (REITs) has come under scrutiny, but the picture looks very different in Canada, Statistics Canada data shows.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/condo-tower-mom-and-pop.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11958419/mom-and-pop-landlords-big-investors/",
-                "source": "Global News",
-                "date": "2026-07-08T19:23:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lululemon just dropped the 'perfect everyday bag' - plus 14 more new bags, accessories & clothes I'm obsessed with",
-                "desc": "These pieces are going to fly off the virtual shelves, so don't wait too long.",
-                "image": "https://s.yimg.com/lo/mysterio/api/8cec0f9f6f4eb635dafe936ba05b0647faf598b1f1a647cbb20ad31bf62f1af1/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fa-27_8263.png",
-                "url": "https://ca.style.yahoo.com/lululemon-just-dropped-the-perfect-everyday-bag--plus-14-more-new-bags-accessories--clothes-im-obsessed-with-190000371.html",
-                "source": "Yahoo Lifestyle Canada",
-                "date": "2026-07-08T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Green energy giants see $155b data centre boom as win for net zero",
-                "desc": "Major renewable investors have thrown support behind Australia’s data centre boom, colliding with critics who fear it will derail the shift to cleaner power.",
-                "image": "https://static.ffx.io/images/$zoom_0.1902%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/3018b232e6cf796833190a751e2afbcc9153e721",
-                "url": "https://www.theage.com.au/business/the-economy/green-energy-giants-see-155b-data-centre-boom-as-win-for-net-zero-20260708-p60dmz.html",
-                "source": "The Age",
-                "date": "2026-07-08T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alquemie Group flagship now relying on investor cash injections",
-                "desc": "After Glue shut its remaining stores, General Pants is one of the last streetwear fashion chains still standing. But latest accounts show its owner has racked up tens of millions in losses.",
-                "image": "https://static.ffx.io/images/$zoom_0.4494212962962963%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1011%2C$y_419/t_crop_custom/q_86%2Cf_auto/d20241a3cc01481cfc0060655369b25d213cb7f4",
-                "url": "https://www.smh.com.au/business/companies/cash-injections-write-downs-inside-youth-retailer-general-pants-struggle-to-stay-afloat-20260707-p60dad.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-08T19:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "CU Anschutz Unveils T Cell Infection-Fighting Insights",
+                "desc": "Team studies the breakdown in cells' signaling pathways to gain insights on immunodeficiency and autoimmune diseaseImagine your immune system as a",
+                "image": "https://news.cuanschutz.edu/hubfs/Meet%20the%20Scientist%20Dr.%20Leslie%20Berg.png",
+                "url": "https://www.miragenews.com/cu-anschutz-unveils-t-cell-infection-fighting-1707114/",
+                "source": "Mirage News",
+                "date": "2026-07-08T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "An Analog Synth For The Modern World",
+                "desc": "We cover so many projects here at Hackaday that lead the author down a rabbit hole of technological investigation that distracts us from the task of bringing them to you. Such a project is polyUAnalog...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/07/multi-voice-synth-featured.jpg",
+                "url": "https://hackaday.com/2026/07/08/an-analog-synth-for-the-modern-world/",
+                "source": "Hackaday",
+                "date": "2026-07-08T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony Settles With Fired Bungie Dev, Adds Him To Marathon Credits",
+                "desc": "Christopher Barrett had accused the PS5 maker of trying to avoid paying him vested bonuses from the studio's sale",
+                "image": "https://kotaku.com/app/uploads/2025/12/marathon-1200x675.jpg",
+                "url": "https://kotaku.com/sony-reaches-settlement-with-bungie-director-it-accused-of-sexual-misconduct-and-adds-his-name-to-marathons-credits-2000713874",
+                "source": "Kotaku",
+                "date": "2026-07-08T22:58:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Halts Development of Affordable XR Display for Vision Pro Successor",
+                "desc": "Apple has decided to discontinue development of a display project for an affordable extend",
+                "image": "https://cdn.thelec.net/news/photo/202607/12098_12196_4224.jpg",
+                "url": "https://www.thelec.net/news/articleView.html?idxno=12098",
+                "source": "thelec.net",
+                "date": "2026-07-08T22:44:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung to Hold Galaxy Unpacked on July 22, Unveil Next",
+                "desc": "Samsung Electronics will unveil its next generation of foldable smartphones later this mon",
+                "image": "https://cdn.thelec.net/news/photo/202607/12083_12184_142.jpg",
+                "url": "https://www.thelec.net/news/articleView.html?idxno=12083",
+                "source": "thelec.net",
+                "date": "2026-07-08T22:44:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "KAIST Automates Hunt for 2D Dream Semiconductors",
+                "desc": "The era of researchers manually searching for two-dimensional semiconductors, which are drawing attention as next-generation AI semiconductors, is",
+                "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1583912372325-0c5be28e3590%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D753%26amp%3Bq%3D80",
+                "url": "https://www.miragenews.com/kaist-automates-hunt-for-2d-dream-semiconductors-1707098/",
+                "source": "Mirage News",
+                "date": "2026-07-08T22:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pixel Watch 5 colors and pricing leak ahead of launch",
+                "desc": "Google’s upcoming smartwatch could see a price hike. Google is expected to unveil the Pixel Watch 5 alongside the Pixel 11 series on August 12. Ahead of...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/pixel-watch-5-colors-price-leak/-952x498w6/gsmarena_00.jpg",
+                "url": "https://www.gsmarena.com/pixel_watch_5_colors_and_pricing_leak_ahead_of_launch-news-73635.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-08T22:42:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Step into the dark world of Yariv: Verho - Curse of Faces with the controller, coming to consoles on July 30th!",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/10/101010-64b104c9/VERHO_Keyart_1-1.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=90d8eb1257ef2ae37a4f35dffd76de83ef4fa589a35b8de7d1908a6d4207e416",
+                "url": "https://www.gamespress.com/Step-into-the-dark-world-of-Yariv-Verho-Curse-of-Faces-with-the-contro",
+                "source": "Games Press",
+                "date": "2026-07-08T22:41:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Talaka Closed Beta Registration Now Open, Bringing Afro-Brazilian Mythology to a Hand-Painted Roguelite World",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Talaka-Closed-Beta-Registration-Now-Open-Bringing-Afro-Brazilian-Mytho",
+                "source": "Games Press",
+                "date": "2026-07-08T22:41:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Marblebound Opens Global Pre-Registration, Unveiling a Player Ecosystem Beyond the Game",
                 "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
@@ -1183,90 +1264,54 @@
                 "source": "Road & Track",
                 "date": "2026-07-08T18:51:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google Search Shatters All-Time Record Following Argentina Win Against Egypt",
-                "desc": "Google Search has officially broken all prior usage records, registering the highest traffic spike in the company's 28-year history. The unprecedented",
-                "image": "https://thewhistler.ng/wp-content/uploads/2023/01/Google-1.jpg",
-                "url": "https://thewhistler.ng/google-search-shatters-all-time-record-following-argentina-win-against-egypt/",
-                "source": "The Whistler Newspaper",
-                "date": "2026-07-08T18:50:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sick of High Gas Prices? These Apps Will Show You the Cheapest Nearby Stations",
-                "desc": "Avoid sticker shock at the pump by using an app to find the cheapest gas prices in town.",
-                "image": "https://i.pcmag.com/imagery/articles/00pMpWlKCRjVcsaHQUJGITn-6.fit_lim.size_1200x630.v1783363571.jpg",
-                "url": "https://www.pcmag.com/explainers/sick-of-high-gas-prices-these-apps-will-show-you-the-cheapest-nearby-stations",
-                "source": "PCMag",
-                "date": "2026-07-08T18:50:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple will cut encrypted Mac OS Extended format in macOS 28",
-                "desc": "Apple will be cutting support for encrypted Mac OS Extended drives from macOS 28 onwards, but HFS+ will still function — for now. Here's what you can do about it.",
-                "image": "https://photos5.appleinsider.com/gallery/68201-143779-55599-112872-Multiple-Drives-xl-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/08/encrypted-hfs-drive-support-dies-in-macos-28",
-                "source": "AppleInsider",
-                "date": "2026-07-08T18:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "6 Best Image Upscalers Tested: Photo Upscaling Without the Plastic Look",
-                "desc": "The challenge is no longer whether an image can be enlarged, it's whether the result still looks like the original photograph.",
-                "image": "https://petapixel.com/assets/uploads/2026/07/6-Best-Image-Upscalers-Tested-Photo-Upscaling-Without-the-Plastic-Look.jpg",
-                "url": "https://petapixel.com/2026/07/08/6-best-image-upscalers-tested-photo-upscaling-without-the-plastic-look/",
-                "source": "PetaPixel",
-                "date": "2026-07-08T18:47:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live Voice Models That Can Listen and Speak at the Same Time — BigGo Finance",
-                "desc": "OpenAI launched GPT-Live-1 and GPT-Live-1 mini, a new generation of voice models that can listen and speak simultaneously in real time, rolling out…",
-                "image": "https://finance.biggo.com/favicon.ico",
-                "url": "https://finance.biggo.com/news/591c8631-7681-4c84-b07b-12fabef4351e",
-                "source": "finance.biggo.com",
-                "date": "2026-07-08T18:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Elon Musk says X will send DMs when posts you've engaged with are corrected",
-                "desc": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
-                "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
-                "url": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
-                "source": "TechCrunch",
-                "date": "2026-07-08T18:46:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "1 Voice Models That Listen, Interrupt, and Slow Down on Command — BigGo Finance",
-                "desc": "OpenAI launched GPT-Live-1, its first full-duplex voice model that can listen and speak simultaneously across ChatGPT’s web and mobile apps. The…",
-                "image": "https://finance.biggo.com/favicon.ico",
-                "url": "https://finance.biggo.com/news/616bb5c6-18b6-4f05-9eb3-dd2dfffbfa31",
-                "source": "finance.biggo.com",
-                "date": "2026-07-08T18:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple TV show purchases finally get free 4K upgrades",
-                "desc": "Apple is finally bringing its free 4K upgrade policy to select TV show purchases, extending one of the Apple TV Store's biggest customer perks beyond movies for the first time.",
-                "image": "https://photos5.appleinsider.com/gallery/68203-143778-Apple-TV-4K-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/08/tv-show-purchases-on-apple-tv-are-finally-getting-free-4k-upgrades",
-                "source": "AppleInsider",
-                "date": "2026-07-08T18:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This Niche Italian Sports Car Is A Real Manual Coupe Ferrari Won't Build",
-                "desc": "The roofless Rina already exists, and now, Automobili Mignatta has plans for a coupe version with a six-speed stick.",
-                "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/automobili-mignatta-bozzetto-rina-coupe-16.jpg?w=1600&h=900&fit=crop",
-                "url": "https://carbuzz.com/automobili-mignatta-rina-coupe-goodwood-july-2026/",
-                "source": "CarBuzz",
-                "date": "2026-07-08T18:35:54Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Grace Mugabe tells Mazowe miners as her hired thugs leave trail of blood, broken bones",
+                "desc": "ARTISANAL miners in Mazowe were on Tuesday beaten to pulp by a gang of AK47-carrying-thugs which was operating at the instruction of former First Lady Grace Mugabe, NewZimbabwe.com has learnt. Most of those caught up in the violent act suffered bruises, broken bones and head injuries after being assaulted using fists, hammers, baton-sticks and AK47 […]",
+                "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2018/07/29213807/Mugabe-Grace1-e1783529523149.jpg",
+                "url": "https://www.newzimbabwe.com/i-am-your-queen-grace-mugabe-tells-mazowe-miners-as-her-hired-thugs-leave-trail-of-blood-broken-bones/",
+                "source": "NewZimbabwe.com",
+                "date": "2026-07-08T23:00:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Researchers harvest water from the air to grow native seedlings and rehydrate the wheatbelt",
+                "desc": "Can water be made from air in WA's wheatbelt? Researchers are putting an invention to the test.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/cd4fc556d9067e8667bdbe9657a8fa86?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=107&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-09/water-from-the-air-to-grow-native-seedlings/106888152",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-08T23:00:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dangote’s Next Move Could Create the World’s Largest Refinery",
+                "desc": "Nigeria’s Dangote refinery ran at a record 660,000 b/d in May-June, helping slash West Africa’s extra-regional clean-product imports by almost 25% year-on-year and displacing Gulf and US barrels in Europe.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_wfyhatpdxg.jpg",
+                "url": "https://oilprice.com/Energy/Energy-General/Dangotes-Next-Move-Could-Create-the-Worlds-Largest-Refinery.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-08T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US says China gave only hours’ warning before Pacific submarine missile launch",
+                "desc": "Washington says Beijing’s notification of launch fell short of expected standard followed by other established nuclear powers.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/09/bc577c1d-4c17-4cd5-a116-62cb32b806ac_f8b60b90.jpg?itok=elaG_IjZ&v=1783551095",
+                "url": "https://www.scmp.com/news/us/diplomacy/article/3359907/us-says-china-gave-only-hours-warning-pacific-submarine-missile-launch",
+                "source": "South China Morning Post",
+                "date": "2026-07-08T22:51:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NATO's AI 'Kill Web' on its eastern flank",
+                "desc": "NATO is building an AI 'Kill Web' of sensors, drones and satellites along its eastern flank to detect and strike a Russian attack before it moves.",
+                "image": "https://media.thenextweb.com/2026/07/forterra-autonomous-ground-vehicles-ukraine-combat.avif",
+                "url": "https://thenextweb.com/news/nato-ai-kill-web-eastern-flank-deterrence-russia",
+                "source": "The Next Web",
+                "date": "2026-07-08T22:42:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "United Arab Emirates Expands Visa-on-Arrival Eligibility for Nationals of Six Countries",
                 "desc": "The UAE expanded its visa-on-arrival program to eligible nationals of Indonesia, Vietnam, Thailand, the Philippines, Kenya and South Africa who hold qualifying residence permits from certain countries.",
@@ -1851,53 +1896,8 @@
                 "source": "The Age",
                 "date": "2026-07-08T19:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New European train service covers 1300km across three countries",
-                "desc": "Launched last month, the Leo Express is one of the longest European train routes of its kind, but it’s also emblematic of the problems booking train travel across the continent.",
-                "image": "https://static.ffx.io/images/$zoom_0.1841%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/352b7216c53ecb823dc6a9fbd03b0fd52acda01b",
-                "url": "https://www.smh.com.au/traveller/travel-news/new-european-train-service-covers-1300km-across-three-countries-20260616-p607d8.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-08T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "We must prepare for worst-case scenario, warns departing Defence chief",
-                "desc": "After this week’s missile test, Defence Force chief David Johnston has called for China to be less secretive about its increasingly assertive and at times dangerous military activities.",
-                "image": "https://static.ffx.io/images/$zoom_0.2466%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/37513356bdab3fc7b9ca6049a5b2a48b8de5675a",
-                "url": "https://www.smh.com.au/politics/federal/we-must-prepare-for-worst-case-scenario-warns-departing-defence-chief-20260708-p60dkj.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-08T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump says US ‘may take over Kharg Island’: Here’s what you need to know",
-                "desc": "Kharg Island, pivotal to Iran’s oil exports, becomes focal point as Trump renews threats amid rising Gulf tensions.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a4e7a91-1783528081.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-us-may-take-over-kharg-island-heres-what-you-need-to-know",
-                "source": "Al Jazeera",
-                "date": "2026-07-08T18:58:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil shoots back up and stocks slide as Trump indicates Iran ceasefire over",
-                "desc": "Brief spike above $80 a barrel declines somewhat later in the day; stocks also affected by AI boom",
-                "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26087465366212-e1778824014770.jpg",
-                "url": "https://www.timesofisrael.com/oil-shoots-back-up-and-stocks-slide-as-trump-indicates-iran-ceasefire-over/",
-                "source": "The Times of Israel",
-                "date": "2026-07-08T18:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Karl Bushby asks French to relax English Channel swimming ban",
-                "desc": "Hull adventurer Karl Bushby set off from Chile in 1998 and expects to return to the UK this autumn.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d17/live/bbec6c60-6a69-11f1-844f-e7fab8caa838.png",
-                "url": "https://www.bbc.co.uk/news/articles/cpwe9yg70v5o",
-                "source": "BBC",
-                "date": "2026-07-08T18:46:45Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T10:40:37.831653Z"
+    "lastGlobalSync": "2026-07-09T11:00:40.921500Z"
 }
