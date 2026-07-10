@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Meet SK Hynix, the trillion-dollar chipmaker debuting on U.S. markets",
+                "desc": "Following a more than sevenfold rally in its stock price over the past year, South Korea's SK Hynix is listing on the Nasdaq.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108258731-1769661681267-gettyimages-1953500088-AFP_34GV6KQ.jpeg?v=1776839949&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html",
+                "source": "CNBC",
+                "date": "2026-07-09T12:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+                "desc": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/nandan-nilekani-1251752057.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+                "source": "TechCrunch",
+                "date": "2026-07-09T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AER fines oil company almost $438K for leak that went undiscovered for 15 months",
+                "desc": "The Alberta Energy Regulator has fined a Calgary-based oil and gas company nearly $438,000 for an oil emulsion leak in western Alberta that, it estimates, lasted more than a year.",
+                "image": "https://i.cbc.ca/ais/023f096b-d4eb-47bc-ac69-ac4760520303,1783541468350/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C204%2C3913%2C2201%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/edmonton/aer-fines-oil-company-almost-438k-for-leak-that-went-undiscovered-for-15-months-9.7263246",
+                "source": "CBC",
+                "date": "2026-07-09T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Exterro Releases Agentic AI Forensic Tool for Remote Investigations",
+                "desc": "ARMOUR for FTK is designed to automatically carry out forensic processes based on natural language requests, with the aim of improving speed and efficiency.",
+                "image": "https://images.law.com/brightspot/56/5f/547977304c8a83e3cedabf3f5fbb/exterro-logo-rgb-png767x505.jpg",
+                "url": "https://www.law.com/legaltechnews/2026/07/09/exterro-releases-agentic-ai-forensic-tool-for-remote-investigations-/?slreturn=20260709102535",
+                "source": "Law.com",
+                "date": "2026-07-09T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Unlocking AI for NextGen Growth at Holcim",
+                "desc": "At Holcim, Artificial Intelligence (AI) is a strategic accelerator for our NextGen Growth 2030 strategy. We are unlocking its potential AI to improve performance, drive customer-centric services, grow net sales, and advance sustainability in our operations.",
+                "image": "https://www.holcim.com/themes/custom/corporate/images/favicon/favicon.ico",
+                "url": "https://www.holcim.com/innovation/artificial-intelligence",
+                "source": "Holcim",
+                "date": "2026-07-09T11:59:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NAICOM tasks new NIA chair on rebuilding trust, deepening insurance penetration",
+                "desc": "The National Insurance Commission (NAICOM) has charged the new chairman of the Nigerian Insurers Association (NIA), Ebelechukwu...",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/03/Olusegun-Omosehin-1.jpg",
+                "url": "https://businessday.ng/companies/article/naicom-tasks-new-nia-chair-on-rebuilding-trust-deepening-insurance-penetration/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-09T11:57:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israeli Firm Demos High-Precision Atomic Clock to Fight GPS-Jamming",
+                "desc": "Israeli firm Quantum X Labs has taken its high-sensitivity quantum atomic clock a step closer to real-world deployment with a successful out-of-lab demonstration.",
+                "image": "https://i.thedefensepost.com/wp-content/uploads/2026/07/0.jpg",
+                "url": "https://thedefensepost.com/2026/07/09/israeli-atomic-clock-gps/",
+                "source": "The Defense Post",
+                "date": "2026-07-09T11:57:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MDA Space offers to buy stake in French satellite firm",
+                "desc": "MDA Space Ltd. says it has entered into a firm offer to acquire a majority interest in France-based Collecte Localisation Satellites.",
+                "image": "https://www.bnnbloomberg.ca/resizer/v2/KHVUIZMT762J3K76MNXAODGJLU.jpg?smart=true&auth=1030bb1c6dd5c45d98cede17d0d74f5eff8aa4975de2bef5ea8d5598c32defbe&width=1200&height=630",
+                "url": "https://www.bnnbloomberg.ca/business/company-news/2026/07/09/mda-space-offers-to-buy-a-majority-interest-in-french-satellite-firm/",
+                "source": "BNN Bloomberg",
+                "date": "2026-07-09T11:54:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NRC Crash: Website Developer Shares How One Question He Asked Saved Him From Investing in Scheme",
+                "desc": "A Nigerian website developer has shared how one simple question he asked about the NRC investment platform spared him from losing his money following the crash.",
+                "image": "https://cdn.legit.ng/images/1200x675/d2a6dc17e69efa88.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1718389-web-developer-shares-how-question-asked-saved-investing-nrc-ponzi-scheme/",
+                "source": "Legit News",
+                "date": "2026-07-09T11:52:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Three hurdles halting Nigeria’s gas to power dream - NRGI",
+                "desc": "The report titled ‘Nigeria’s Gas-to-Power Ambitions: Limits, Opportunities and Alternatives’, launched at the Natural Resource…",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/05/power-sector-1.jpg",
+                "url": "https://businessday.ng/energy/article/three-hurdles-halting-nigerias-gas-to-power-dream-nrgi/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-09T11:52:20Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Nirvana acquires Ryan Specialty's Swedish public entity business",
                 "desc": "Swedish public entity insurance requires established local relationships and tendering track records that can't be replicated from London",
                 "image": "https://cdn-res.keymedia.com/cms/images/us/018/0382_639191662871832193.png",
@@ -542,99 +632,99 @@
                 "source": "CarExpert",
                 "date": "2026-07-09T00:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Air Canada names new CEO following French-language row",
-                "desc": "Anko Van der Werff, who currently heads Scandinavian Airlines, is fluent in Dutch, English and French, the airline says.",
-                "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/07/0709-anko.jpg",
-                "url": "https://montrealgazette.com/business/air-canada-new-ceo-anko-van-der-werff-speaks-french/",
-                "source": "Montreal Gazette",
-                "date": "2026-07-08T23:47:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "People moves: Japan’s GPIF promotes Kozo to lead real estate strategy",
-                "desc": "Patrizia names new Japan CEO, Antin elevates two senior partners",
-                "image": "https://d15duu1h3gsd2d.cloudfront.net/Pictures/1024x536/5/7/8/1347578_pexels-photo-114797.jpeg",
-                "url": "https://realassets.ipe.com/news/people-moves-japans-gpif-promotes-kozo-to-lead-real-estate-strategy/10137597.article",
-                "source": "IPE Real Assets",
-                "date": "2026-07-08T23:41:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "$12B announced for new train manufacturing site",
-                "desc": "The New South Wales Government has announced it is investing $12 billion to deliver a new train manufacturing facility in the Hunter region.",
-                "image": "https://www.railexpress.com.au/wp-content/uploads/2026/07/Tangara-Train.jpg",
-                "url": "https://www.railexpress.com.au/12b-announced-for-new-train-manufacturing-site/",
-                "source": "Rail Express",
-                "date": "2026-07-08T23:39:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta building its first Canadian data centre northeast of Edmonton",
-                "desc": "Meta has announced it will build a massive one-gigawatt data centre northeast of Edmonton, the company's first such project in Canada.",
-                "image": "https://i.cbc.ca/ais/3426ac2f-c4e7-4cd3-95c3-3113a7afcefc,1783541097625/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C53%2C6263%2C3522%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/edmonton/meta-data-centre-sturgeon-county-alberta-9.7263271",
-                "source": "CBC",
-                "date": "2026-07-08T23:37:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Delta rolls out lower-cost premium cabin fares with fewer perks",
-                "desc": "Delta Air Lines is expanding its basic fare model to premium cabins, giving travelers a lower-cost way to book Delta One, first class and other higher-end seats.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/delta-flight-boston-logan.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/lifestyle/delta-rolls-out-cheaper-first-class-business-fares-fewer-perks-more-ways-choose",
-                "source": "Fox Business",
-                "date": "2026-07-08T23:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vietnam Tourism Growth Surges with Easier Visa Rules, Better Airports, and Modern Infrastructure, Giving Global Travelers a Fresh Reason to Explore Southeast Asia",
-                "desc": "Vietnam tourism growth is accelerating through visa reforms, better airport, transport, offering travelers easier access to Southeast Asia's top attractions.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/Vietnam-.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/p38zpqc80bj7/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-08T23:34:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Price Tests Critical Trendline as Analysts Watch $4,300, Breakout Zone",
-                "desc": "Gold has bounced off of its recent lows as buyers appear around the $4,000 price zone, but technical traders aren't sure if the rebound is the start of a bigger reversal or simply the latest rally within a longer-term downtrend.",
-                "image": "https://bravenewcoin.com/wp-content/uploads/2026/07/Bnc-Jul-4-103.jpg",
-                "url": "https://bravenewcoin.com/insights/gold-price-tests-critical-trendline-as-analysts-watch-4300-breakout-zone",
-                "source": "Brave New Coin",
-                "date": "2026-07-08T23:32:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "When will Hong Kong’s retail leasing market see a turnaround?",
-                "desc": "Analysts say that geopolitical tensions, Beijing’s measures against capital flight and potential rate hikes are adding to uncertainties.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/08/cf8006e6-ae61-434c-a721-dc7304b05471_52d694e7.jpg?itok=oaPenoqS&v=1783500789",
-                "url": "https://www.scmp.com/business/article/3359843/when-will-hong-kongs-retail-leasing-market-see-turnaround",
-                "source": "South China Morning Post",
-                "date": "2026-07-08T23:30:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Westpac first to lift interest rates following OCR hike",
-                "desc": "Westpac is the first bank in the country to raise interest rates following yesterday’s Official Cash Rate hike. The bank announced that it is lifting...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/64UVKWXLONDILEYLDUZJGX5M4I.jpg?auth=095598ad6664ea8692cda766f06d9822f5c825715003c60ab7efff3c246242de&width=1200&height=675&quality=70&focal=348%2C187&smart=false",
-                "url": "https://www.nzherald.co.nz/business/westpac-first-to-lift-interest-rates-following-ocr-hike/SA3XHEYBTNGTPANSN3PTDZJNTA/",
-                "source": "NZ Herald",
-                "date": "2026-07-08T23:27:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MDA Space acquiring 70-per-cent stake in French earth observation company",
-                "desc": "The Canadian technology company is issuing 20 million common shares to fund a portion of the purchase of Collecte Localisation Satellites",
-                "image": "https://www.theglobeandmail.com/resizer/v2/4KPXTDX7UVGRJKXXZY2OZ2YUVI.JPG?auth=10e9250e0b0d0a1bd31432c83d0cbe9c2713612981185bacd24827514db553c4&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-mda-space-acquiring-70-per-cent-stake-in-french-earth-observation/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-08T23:26:52Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Open World RPG Project Awakening Still in Development, 8 Years After Stunning PS4 Reveal",
+                "desc": "There's even new footage, apparently - I certainly didn't expect to be writing about Project Awakening today, but I'll take it! You've got a good memory if ...",
+                "image": "https://images.pushsquare.com/534b0754d7c83/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/open-world-rpg-project-awakening-still-in-development-8-years-after-stunning-ps4-reveal",
+                "source": "Push Square",
+                "date": "2026-07-09T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "First electric Mercedes-AMG CLA 45 revealed with 500kW, confirmed for Australia",
+                "desc": "The first electric CLA from Mercedes-AMG will bring three motors producing 500kW, three-second 0-100km/h pace, and up to 670km of range.",
+                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2026_mercedes-amg_cla45_track_dynamic_26c0207_019.jpg",
+                "url": "https://www.carexpert.com.au/car-news/first-electric-mercedes-amg-cla-45-revealed-with-500kw-confirmed-for-australia",
+                "source": "CarExpert",
+                "date": "2026-07-09T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 Could Require Age Verification in Australia",
+                "desc": "GTA 6 players in Australia may need to verify their age, with Rockstar potentially facing fines of up to $49.5 million per breach.",
+                "image": "https://windowsreport.com/wp-content/uploads/2026/06/GTA-6-cover-art.png",
+                "url": "https://windowsreport.com/gta-6-could-require-age-verification-in-australia/",
+                "source": "Windows Report",
+                "date": "2026-07-09T11:58:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AMD Expands Hawk Point Lineup With Numerous New SKUs Under Ryzen 200 And 100 Series",
+                "desc": "AMD adds 11 new processors to Ryzen 200 and 100 series, featuring Zen 4 architecture with up to 8 cores and RDNA 3 graphics.",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/AMD-Hawk-Point.jpg",
+                "url": "https://wccftech.com/amd-expands-hawk-point-lineup-with-numerous-new-skus-under-ryzen-200-and-100-series/",
+                "source": "Wccftech",
+                "date": "2026-07-09T11:57:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Health's latest update closes another Fitbit gap",
+                "desc": "A more customizable Today view",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/fitbit-air-google-health-daily.JPG?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/google-healths-latest-update-closes-another-fitbit-gap/",
+                "source": "Android Police",
+                "date": "2026-07-09T11:55:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft to switch off OWA Light after nearly two decades",
+                "desc": "Nobody needs a simple web client for Exchange, do they?",
+                "image": "https://image.theregister.com/5242280.jpg?imageId=5242280&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/applications/2026/07/09/microsoft-to-switch-off-owa-light-after-nearly-two-decades/5269099",
+                "source": "The Register",
+                "date": "2026-07-09T11:53:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony, Bungie settle with ex-Marathon director they accused of \"predatory behaviour\", bringing $200m wrongful dismissal lawsuit to a close",
+                "desc": "Former Marathon director Christopher Barrett departed Bungie in 2024, but filed a lawsuit after reports of inappropriate behaviour emerged.",
+                "image": "https://assetsio.gnwcdn.com/marathon-bungie-art-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/sony-bungie-marathon-director-lawsuit-settled",
+                "source": "Eurogamer.net",
+                "date": "2026-07-09T11:51:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft is making Windows 11's search box 4 whole pixels taller for some reason",
+                "desc": "An upcoming change to Windows 11 will see the default search box in Start and on the Taskbar appear larger as Microsoft increases its height by 4 pixels.",
+                "image": "https://cdn.mos.cms.futurecdn.net/FWMvyvs4ohgN34uScGmdLR-2560-80.jpg",
+                "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-making-windows-11s-search-box-4-whole-pixels-taller-for-some-reason",
+                "source": "Windows Central",
+                "date": "2026-07-09T11:49:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trinka Launches Initiative to Support Strong Writing Skills in the Age of AI",
+                "desc": "NEW YORK, United States, July 9, 2026 /MarketersMEDIA/ -- Trinka announced a new initiative designed to support strong writing skills and to promote responsible, writer-centered use of artificial intelligence as writing workflows evolve.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/09/1131082.jpg",
+                "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/plentisoft/trinka-launches-initiative-to-support-strong-writing-skills-in-the-age-of-ai/2381548",
+                "source": "The Manila Times",
+                "date": "2026-07-09T11:49:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Runix: Pinball Roguelike Blends Classic Pinball Action with Deep Roguelike Progression",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Runix-Pinball-Roguelike-Blends-Classic-Pinball-Action-wit-Meteor-Forge",
+                "source": "Games Press",
+                "date": "2026-07-09T11:48:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "What To Do With Wisteria In July During A Heatwave",
                 "desc": "A few simple July tasks can help your wisteria cope with extreme heat, stay healthy through summer and produce a stronger display of blooms next spring",
@@ -1174,99 +1264,99 @@
                 "source": "Mirage News",
                 "date": "2026-07-08T23:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "An Analog Synth For The Modern World",
-                "desc": "We cover so many projects here at Hackaday that lead the author down a rabbit hole of technological investigation that distracts us from the task of bringing them to you. Such a project is polyUAnalog...",
-                "image": "https://hackaday.com/wp-content/uploads/2026/07/multi-voice-synth-featured.jpg",
-                "url": "https://hackaday.com/2026/07/08/an-analog-synth-for-the-modern-world/",
-                "source": "Hackaday",
-                "date": "2026-07-08T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony Settles With Fired Bungie Dev, Adds Him To Marathon Credits",
-                "desc": "Christopher Barrett had accused the PS5 maker of trying to avoid paying him vested bonuses from the studio's sale",
-                "image": "https://kotaku.com/app/uploads/2025/12/marathon-1200x675.jpg",
-                "url": "https://kotaku.com/sony-reaches-settlement-with-bungie-director-it-accused-of-sexual-misconduct-and-adds-his-name-to-marathons-credits-2000713874",
-                "source": "Kotaku",
-                "date": "2026-07-08T22:58:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Halts Development of Affordable XR Display for Vision Pro Successor",
-                "desc": "Apple has decided to discontinue development of a display project for an affordable extend",
-                "image": "https://cdn.thelec.net/news/photo/202607/12098_12196_4224.jpg",
-                "url": "https://www.thelec.net/news/articleView.html?idxno=12098",
-                "source": "thelec.net",
-                "date": "2026-07-08T22:44:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung to Hold Galaxy Unpacked on July 22, Unveil Next",
-                "desc": "Samsung Electronics will unveil its next generation of foldable smartphones later this mon",
-                "image": "https://cdn.thelec.net/news/photo/202607/12083_12184_142.jpg",
-                "url": "https://www.thelec.net/news/articleView.html?idxno=12083",
-                "source": "thelec.net",
-                "date": "2026-07-08T22:44:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KAIST Automates Hunt for 2D Dream Semiconductors",
-                "desc": "The era of researchers manually searching for two-dimensional semiconductors, which are drawing attention as next-generation AI semiconductors, is",
-                "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1583912372325-0c5be28e3590%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D753%26amp%3Bq%3D80",
-                "url": "https://www.miragenews.com/kaist-automates-hunt-for-2d-dream-semiconductors-1707098/",
-                "source": "Mirage News",
-                "date": "2026-07-08T22:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pixel Watch 5 colors and pricing leak ahead of launch",
-                "desc": "Google’s upcoming smartwatch could see a price hike. Google is expected to unveil the Pixel Watch 5 alongside the Pixel 11 series on August 12. Ahead of...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/pixel-watch-5-colors-price-leak/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/pixel_watch_5_colors_and_pricing_leak_ahead_of_launch-news-73635.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-08T22:42:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Step into the dark world of Yariv: Verho - Curse of Faces with the controller, coming to consoles on July 30th!",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/10/101010-64b104c9/VERHO_Keyart_1-1.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=90d8eb1257ef2ae37a4f35dffd76de83ef4fa589a35b8de7d1908a6d4207e416",
-                "url": "https://www.gamespress.com/Step-into-the-dark-world-of-Yariv-Verho-Curse-of-Faces-with-the-contro",
-                "source": "Games Press",
-                "date": "2026-07-08T22:41:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Talaka Closed Beta Registration Now Open, Bringing Afro-Brazilian Mythology to a Hand-Painted Roguelite World",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Talaka-Closed-Beta-Registration-Now-Open-Bringing-Afro-Brazilian-Mytho",
-                "source": "Games Press",
-                "date": "2026-07-08T22:41:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marblebound Opens Global Pre-Registration, Unveiling a Player Ecosystem Beyond the Game",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Marblebound-Opens-Global-Pre-Registration-Unveiling-a-Player-Ecosystem",
-                "source": "Games Press",
-                "date": "2026-07-08T22:36:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MindsEye developers protest against a fan event their own studio is hosting",
-                "desc": "Another bizarre twist in the Build a Rocket Boy saga.",
-                "image": "https://s.yimg.com/lo/mysterio/api/eb9ac3a7a93957dfee5b13ab2511ab0bee9280170e65fd591021c3fa632349cf/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpc_gamer_708%2F4514ee8938a2f0adb4b8ee46be787849",
-                "url": "https://www.yahoo.com/entertainment/movies/articles/mindseye-developers-protest-against-fan-223446039.html",
-                "source": "Yahoo",
-                "date": "2026-07-08T22:34:46Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Popping the cork for crémant, the affordable alternative to champagne",
+                "desc": "As sales of sparkling wine continue to soar, one aromatic French fizz is worthy of particular appreciation",
+                "image": "https://i.guim.co.uk/img/media/98761b6e6653c66e2a79d9ca4ab4610817812434/0_844_3397_2718/master/3397.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4159b2489b7b8eef9c8d04839a5d76f0",
+                "url": "https://www.theguardian.com/food/2026/jul/09/cremant-affordable-alternative-to-champagne",
+                "source": "The Guardian",
+                "date": "2026-07-09T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Ecology of Dispossession",
+                "desc": "Israel's nature reserves in the West Bank use the language of conservation to restrict Palestinian life while facilitating settlement expansion.",
+                "image": "https://jewishcurrents.org/assets/_1200x630_crop_center-center_82_none/Wadi-Qana.jpg?mtime=1783601059",
+                "url": "https://jewishcurrents.org/the-ecology-of-dispossession",
+                "source": "Jewish Currents",
+                "date": "2026-07-09T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "13 Beautiful, Standout Winners Of U.N. World Oceans Day Photo Competition",
+                "desc": "Discover the beauty of gardens teeming with life and color and other breathtaking ancient underwater worlds in these winners of the UN World Oceans Photo Competition.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4bc77917c30318a0ba06c6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/ceciliarodriguez/2026/07/09/13-beautiful-standout-winners-of-un-world-oceans-day-photo-competition/",
+                "source": "Forbes",
+                "date": "2026-07-09T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine, Estonia Deepen Drone Alliance as Europe Rearms",
+                "desc": "Ukraine and Estonia have expanded their drone partnership through a new agreement aimed at advancing cooperation in unmanned systems and other military innovation.",
+                "image": "https://i.thedefensepost.com/wp-content/uploads/2026/07/resize-scaled.jpeg",
+                "url": "https://thedefensepost.com/2026/07/09/ukraine-estonia-drone-alliance/",
+                "source": "The Defense Post",
+                "date": "2026-07-09T11:55:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump Abruptly Switches Back To Old Air Force One Instead Of Qatari Plane",
+                "desc": "Trump flew from Turkey to the U.K. onboard the old jet amid concerns about the security features of the new Qatar-gifted Air Force One.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4f73c5451349bf36c69b99/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/saradorn/2026/07/09/trump-switches-back-to-qatari-plane-after-leaving-turkey-on-old-air-force-one/",
+                "source": "Forbes",
+                "date": "2026-07-09T11:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "These 12 cities are losing residents as climate risks reshape where people choose to live",
+                "desc": "The map of opportunity is being redrawn by floodwater, fire, and heat—and some of the world’s biggest cities are already losing the fight to stay livable. Cities once filled with energy and opportunit...",
+                "image": "https://s.yimg.com/lo/mysterio/api/795c00cd18723567ea3e351be9c89198a99f734f5723eeaf7dc4f5ee672fd2f8/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffodmap_everyday_588%2Fb325888246efe1a280927168591b5aad",
+                "url": "https://www.yahoo.com/news/science/articles/12-cities-losing-residents-climate-115245951.html",
+                "source": "Yahoo",
+                "date": "2026-07-09T11:52:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tourist, 17, killed in Costa del Sol 'hit",
+                "desc": "Nikoline Piwoni Høie was celebrating Norway's win with pals at the Funky Buddha nightclub in Puerto Banús near Marbella when she was last seen alive",
+                "image": "https://i2-prod.mirror.co.uk/article37409129.ece/ALTERNATES/s1200d/2_Tourist-17-killed-in-hit-and-run-in-Costa-del-Sol-hotspot-after-World-Cup-tie.jpg",
+                "url": "https://www.mirror.co.uk/news/world-news/costa-del-sol-tourist-dead-37409095",
+                "source": "The Mirror",
+                "date": "2026-07-09T11:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fighter jet goes up in flames after crash landing at airport",
+                "desc": "An F-16 fighter jet crash-landed at a Zakynthos airport in Greece today after suffering emergency, with flights diverted elsewhere.",
+                "image": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_304627975-d824_1783605160.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+                "url": "https://metro.co.uk/2026/07/09/fighter-jet-goes-flames-crash-landing-airport-29096141/",
+                "source": "Metro.co.uk",
+                "date": "2026-07-09T11:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "They Were Not Asking Us To Leave. They Were Telling Us.",
+                "desc": "On the day a South African movement gave migrants a deadline to leave, a Congolese-born writer reflects on why calling it only xenophobia lets too many off the hook.",
+                "image": "https://africanarguments.org/wp-content/uploads/2026/07/fan_walk_for_peace_and_unity_4813216834_2.jpg",
+                "url": "https://africanarguments.org/2026/07/they-were-not-asking-us-to-leave-they-were-telling-us/",
+                "source": "African Arguments",
+                "date": "2026-07-09T11:51:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ACT Wazalendo pledges to ensure reconciliation serve the wider interests of Zanzibar",
+                "desc": "ZANZIBAR: ACT- Wazalendo Chairman Othman Masoud Othman has pledged that his party will ensure the ongoing reconciliation process serves the wider interests of Zanzibar, insisting that the initiative is not designed to benefit political parties or individuals. He said the agreements reached between Chama Cha Mapinduzi (CCM) and ACT- Wazalendo are aimed at building a …",
+                "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/RAIS-DKT.-MWINYI-TAMKO-LA-PAMOJA-CCM-NA-ACT-WAZALENDO-LAFUNGUA-NJIA-YA-UTEKELEZAJI-WA-SERIKALI.jpg",
+                "url": "https://dailynews.co.tz/act-wazalendo-pledges-to-ensure-reconciliation-serve-the-wider-interests-of-zanzibar/",
+                "source": "dailynews.co.tz",
+                "date": "2026-07-09T11:47:43Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "South Sudan marks 15 years of independence in crisis",
                 "desc": "It has scaled back major national celebrations due to severe economic instability and active civil conflict.",
@@ -1806,98 +1896,8 @@
                 "source": "BBC",
                 "date": "2026-07-08T23:31:53Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Missing Boeing 737 cargo plane found off coast of Pakistan",
-                "desc": "Authorities have found the wreckage of a cargo plane that lost contact with air traffic control while heading to Pakistan and was declared missing.",
-                "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/07/742198105_1992846654754516_1792792839802272402_n-1.jpg?w=1280",
-                "url": "https://www.newsnationnow.com/missing/missing-boeing-737-cargo-plane-found-pakistan/",
-                "source": "NewsNation",
-                "date": "2026-07-08T23:25:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China Urges Global South Journalists To Tell Development Stories Firsthand",
-                "desc": "BEIJING— Chinese officials and international media leaders on Wednesday called on journalists from the Global South to strengthen cooperation and tell development stories through firsthand reporting, saying balanced and evidence-based journalism is essential to promoting mutual understanding and advancing global development, writes Winston Mwale.",
-                "image": "https://substackcdn.com/image/fetch/$s_!XicD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd789c7eb-2246-42f8-a6cf-d64714493d1e_3104x3104.jpeg",
-                "url": "https://africabrief.substack.com/p/china-urges-global-south-journalists",
-                "source": "AfricaBrief",
-                "date": "2026-07-08T23:22:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pilot's chilling nine words to student before jumping out of plane mid-flight",
-                "desc": "Whilst she was not physically injured, the student is understood to have been hospitalised for severe psychological trauma after the incident unfolded during a lesson",
-                "image": "https://i2-prod.mirror.co.uk/article37406791.ece/ALTERNATES/s1200d/740836254_1281235663854882_5109785815508546347_n-2.jpg",
-                "url": "https://www.mirror.co.uk/news/world-news/pilot-jumps-plane-last-words-37406767",
-                "source": "The Mirror",
-                "date": "2026-07-08T23:17:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Border chaos continues as EU digital authorisation system plagued by more delays",
-                "desc": "The European Travel Information and Authorisation System (ETIAS), similar to the ESTA visa-waiver program in the US, is due to be launched in the last quarter of 2026.",
-                "image": "https://static.ffx.io/images/$zoom_0.3319%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/350d0a1467eef995b23545b0fb544eec67936c47",
-                "url": "https://www.nine.com.au/travel/etias-travel-authorisation-plagued-by-more-delays-reports-20260708-p60djw.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-08T23:16:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump wants US Supreme Court to reconsider birthright citizenship",
-                "desc": "The long-shot bid by Trump comes a week after the high court ruled that those born in the US have a constitutional right to citizenship.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0eb0/live/8db15010-7b1a-11f1-a6c4-afd7bb5ad14c.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cx23zk1jp1go",
-                "source": "BBC",
-                "date": "2026-07-08T23:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rich countries exaggerating “true value” of climate finance by around $100 billion",
-                "desc": "News and Press Release in English on World about Climate Change and Environment; published on 8 Jul 2026 by Oxfam",
-                "image": "https://reliefweb.int/sites/default/files/styles/large/public/previews/0f/e3/0fe3d9e0-2efc-4b24-adc4-5965fa026797.png",
-                "url": "https://reliefweb.int/report/world/rich-countries-exaggerating-true-value-climate-finance-around-100-billion",
-                "source": "ReliefWeb",
-                "date": "2026-07-08T23:03:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grace Mugabe tells Mazowe miners as her hired thugs leave trail of blood, broken bones",
-                "desc": "ARTISANAL miners in Mazowe were on Tuesday beaten to pulp by a gang of AK47-carrying-thugs which was operating at the instruction of former First Lady Grace Mugabe, NewZimbabwe.com has learnt. Most of those caught up in the violent act suffered bruises, broken bones and head injuries after being assaulted using fists, hammers, baton-sticks and AK47 […]",
-                "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2018/07/29213807/Mugabe-Grace1-e1783529523149.jpg",
-                "url": "https://www.newzimbabwe.com/i-am-your-queen-grace-mugabe-tells-mazowe-miners-as-her-hired-thugs-leave-trail-of-blood-broken-bones/",
-                "source": "NewZimbabwe.com",
-                "date": "2026-07-08T23:00:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Researchers harvest water from the air to grow native seedlings and rehydrate the wheatbelt",
-                "desc": "Can water be made from air in WA's wheatbelt? Researchers are putting an invention to the test.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/cd4fc556d9067e8667bdbe9657a8fa86?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=107&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-09/water-from-the-air-to-grow-native-seedlings/106888152",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-08T23:00:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dangote’s Next Move Could Create the World’s Largest Refinery",
-                "desc": "Nigeria’s Dangote refinery ran at a record 660,000 b/d in May-June, helping slash West Africa’s extra-regional clean-product imports by almost 25% year-on-year and displacing Gulf and US barrels in Europe.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_wfyhatpdxg.jpg",
-                "url": "https://oilprice.com/Energy/Energy-General/Dangotes-Next-Move-Could-Create-the-Worlds-Largest-Refinery.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-08T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US says China gave only hours’ warning before Pacific submarine missile launch",
-                "desc": "Washington says Beijing’s notification of launch fell short of expected standard followed by other established nuclear powers.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/09/bc577c1d-4c17-4cd5-a116-62cb32b806ac_f8b60b90.jpg?itok=elaG_IjZ&v=1783551095",
-                "url": "https://www.scmp.com/news/us/diplomacy/article/3359907/us-says-china-gave-only-hours-warning-pacific-submarine-missile-launch",
-                "source": "South China Morning Post",
-                "date": "2026-07-08T22:51:46Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T23:52:51.268836Z"
+    "lastGlobalSync": "2026-07-10T00:00:27.460597Z"
 }
