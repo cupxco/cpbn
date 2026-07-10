@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Disney+ Explores a Free Tier As YouTube Draws TV Viewers",
+                "desc": "Disney is discussing a free tier for Disney+ as US TV viewers embrace no-cost streamers like YouTube.",
+                "image": "https://i.insider.com/6a501cead3a449ec3445ffc3?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/disney-discusses-free-tier-viewers-youtube-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-09T22:30:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "tech push to prepare for a perilous bushfire season",
+                "desc": "From virtual reality training to drones, these tools are helping firefighters prepare for a fast-approaching, potentially severe bushfire season.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/afe1358f9b6c26e3ef915cd48e85e456?impolicy=wcms_watermark_news&cropH=488&cropW=867&xPos=187&yPos=53&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-10/erica-fire-brigade-vr-firefighting-training-fires/106831020",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-09T22:30:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI launches its new family of models with GPT-5.6",
+                "desc": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+                "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
+                "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+                "source": "TechCrunch",
+                "date": "2026-07-09T22:24:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jim Cramer says investors are making a mistake with the trillion-dollar tech giants",
+                "desc": "CNBC's Jim Cramer said that investors are making a mistake when comparing all the \"Magnificent Seven\" companies when they all have vastly different businesses.",
+                "image": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/09/jim-cramer-investors-making-mistake-trillion-dollar-tech-giants.html",
+                "source": "CNBC",
+                "date": "2026-07-09T22:21:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Officials cheer Anthropic’s expansion in Manhattan",
+                "desc": "The maker of the Claude chatbot said it's doubling its New York City workforce this year, growing to about 1,000 employees.",
+                "image": "https://s7d2.scene7.com/is/image/TWCNews/anthropic_website_ap_ca_0226",
+                "url": "https://ny1.com/nyc/all-boroughs/politics/2026/07/09/officials-cheer-anthropic-s-expansion-in-manhattan",
+                "source": "Spectrum News NY1",
+                "date": "2026-07-09T22:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Data Labeler Mercor In Talks To Raise $500 Million At $20 Billion Valuation",
+                "desc": "If the round closes as expected later this month, the startup’s three 23-year-old cofounders would be worth an estimated $4.3 billion apiece.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a501cdc874209de3bb6a1e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/richardnieva/2026/07/09/mercor-fundraise/",
+                "source": "Forbes",
+                "date": "2026-07-09T22:19:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Banks increase rates after OCR rise - so what's ahead?",
+                "desc": "ASB, BNZ, Westpac and Kiwibank have all now made adjustments to their floating interest rates, in the wake of this week's official cash rate increases.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--i5DWIf3W--/t_tohu-badge-facebook/f_auto/q_auto/4LHTQG4_reserve_ocr_jpg",
+                "url": "https://www.rnz.co.nz/news/personal-finance/696249/banks-increase-rates-after-ocr-rise-so-what-s-ahead",
+                "source": "RNZ",
+                "date": "2026-07-09T22:17:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Instagram’s AI image generator alarms privacy experts",
+                "desc": "Instagram users should check privacy settings after rollout of new Meta AI image generator, advocates warn",
+                "image": "https://i.guim.co.uk/img/media/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/master/5033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1f83cd11e496eddc9af135749eb8e73",
+                "url": "https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy",
+                "source": "The Guardian",
+                "date": "2026-07-09T22:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan's temporary consumption tax cut questioned as alternative system touted",
+                "desc": "TOKYO -- A fundamental question is surfacing as a bipartisan national conference on social security nears an interim summary: Is Prime Minister Sanae",
+                "image": "https://cdn.mainichi.jp/vol1/2026/07/09/20260709p2a00m0na028000p/0c10.jpg?1",
+                "url": "https://mainichi.jp/english/articles/20260709/p2a/00m/0na/029000c",
+                "source": "毎日新聞",
+                "date": "2026-07-09T22:08:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Home prices across the U.S. surge to all-time high",
+                "desc": "Sky-high housing prices make even starter homes too expensive for most Americans, housing data show.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/08/b5f64617-ba02-4a64-976f-ddf88bc40622/thumbnail/1200x630/2d9fc87fd2d24720541de1652587283c/gettyimages-134099845.jpg",
+                "url": "https://www.cbsnews.com/news/us-home-prices-all-time-high/",
+                "source": "CBS News",
+                "date": "2026-07-09T22:07:53Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "South China Morning Post",
                 "desc": "Hong Kong-based expert paints grim picture of challenges, yet voices hope in next generation and nature’s resilience.",
                 "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/09/a3f2ee2b-666d-418c-9061-973e0537dc53_348686b8.jpg?itok=dZU16RBS&v=1783600632",
@@ -542,99 +632,72 @@
                 "source": "CNBC",
                 "date": "2026-07-09T19:27:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Cieren Fallon banned for four days after incident that led to weighing room argument with fellow jockey",
-                "desc": "Cieren Fallon was handed a four-day ban by the Doncaster stewards following a \"verbal altercation\" with fellow rider Connor Planas in the weighing... Read More",
-                "image": "https://media.racingpost.gcpp.io/prod/images/gm_preview/a48d83ca3e21-doublesplice.jpg",
-                "url": "https://www.racingpost.com/news/flat-racing/cieren-fallon-banned-for-four-days-after-incident-that-led-to-weighing-room-argument-with-fellow-jockey-aNNJz8c9oW1I/",
-                "source": "Racing Post",
-                "date": "2026-07-09T19:24:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Reforms help Africa’s oil giant rebound",
-                "desc": "With increased production and local ownership, Nigeria is reaping returns from a key natural resource. Consistent reforms that reverse corruption can further cement those gains and boost Nigerians’ entrepreneurial spirit and confidence in their country.",
-                "image": "https://images.csmonitor.com/csm/2026/07/1215604_1_Dangote%20crude%20oil%20tank%2C%20July%209%20editorial_standard.jpg?alias=standard_900x600",
-                "url": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/0709/Reforms-help-Africa-s-oil-giant-rebound",
-                "source": "The Christian Science Monitor",
-                "date": "2026-07-09T19:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hanoi's second airport officially added to national airport plan",
-                "desc": "Hanoi's second airport officially added to national airport plan",
-                "image": "https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2026/7/10/hanois-second-airport-officially-added-to-national-airport-plan-ba93584c8fb24041a3b408bf0f5160f8-135.webp?width=0&s=FayxUTppyQvCi1LM3ALK8A",
-                "url": "https://vietnamnet.vn/en/hanoi-s-second-airport-officially-added-to-national-airport-plan-2534319.html",
-                "source": "Báo VietNamNet",
-                "date": "2026-07-09T18:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Salesforce is staying in the portfolio despite a harsh analyst downgrade",
-                "desc": "Jim Cramer isn't ready to give up on Salesforce after KeyBanc downgraded the stock",
-                "image": "https://image.cnbcfm.com/api/v1/image/108234579-17646115872025-08-05t195108z_1314011154_rc271gaqylwe_rtrmadp_0_salesforce-m-a-informatica.jpeg?v=1764611610&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/09/why-salesforce-is-staying-in-the-portfolio-despite-a-harsh-analyst-downgrade-.html",
-                "source": "CNBC",
-                "date": "2026-07-09T18:38:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's how many New Zealanders are going bankrupt",
-                "desc": "New Zealanders are going bankrupt at a much lower rate than seen in the past - and it may be because of KiwiSaver.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--R81chHlR--/t_tohu-badge-facebook/f_auto/q_auto/4MJ3BI5_image_crop_113984",
-                "url": "https://www.rnz.co.nz/news/personal-finance/695462/here-s-how-many-new-zealanders-are-going-bankrupt",
-                "source": "RNZ",
-                "date": "2026-07-09T18:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "an AI cloud business for Meta 'makes sense'",
-                "desc": "Mark Zuckerberg confirms Meta is exploring selling AI compute, a move that would take on AWS and Azure and threaten neoclouds like CoreWeave.",
-                "image": "https://media.thenextweb.com/2026/07/meta-zuckerberg-ai-cloud-business-makes-sense.avif",
-                "url": "https://thenextweb.com/news/meta-zuckerberg-ai-cloud-business-makes-sense",
-                "source": "The Next Web",
-                "date": "2026-07-09T18:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OFAC Rescinds Iranian Sanctions Relaxation Following Renewed Conflict",
-                "desc": "View our OFAC Rescinds Iranian Sanctions Relaxation Following Renewed Conflict insight.",
-                "image": "https://www.foley.com/wp-content/uploads/2023/09/treasury1414x1414.jpg",
-                "url": "https://www.foley.com/insights/publications/2026/07/ofac-rescinds-iranian-sanctions-relaxation-following-renewed-conflict/",
-                "source": "Foley & Lardner LLP",
-                "date": "2026-07-09T18:34:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Couple pay nearly $7m to avoid build 'pain'",
-                "desc": "They got their dream home after beating two other bidders at heated auction., All things property, under OneRoof",
-                "image": "https://s.oneroof.co.nz/image/25/59/255974ccd324df98b7beb1dbf316094f.jpg?x-oss-process=image/quality,q_80",
-                "url": "https://www.oneroof.co.nz/news/couple-pay-nearly-7m-to-avoid-build-pain-49841",
-                "source": "OneRoof",
-                "date": "2026-07-09T18:33:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toronto scooter theft caught on camera in Jane and Finch",
-                "desc": "Toronto police are investigating after a man says a prospective buyer stole his electric scooter during an in-person sale that was caught on camera earlier this week.",
-                "image": "https://www.cp24.com/resizer/v2/A7EICYHEA5GVFLL2TC25EUSXNU.png?smart=true&auth=3de3a4a4e145e7102b5ba6ba508b71d2dc4723ae2ad4f2edecfca9cbd2b47c46&width=1200&height=630",
-                "url": "https://www.cp24.com/local/toronto/2026/07/09/toronto-police-investigating-viral-scooter-theft-caught-on-camera/",
-                "source": "CP24",
-                "date": "2026-07-09T18:31:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A €750 million lesson on helping Ireland's worst-off",
-                "desc": "You may never have heard of the Parliamentary Budget Office (PBO) but its findings are powerful.",
-                "image": "https://img2.thejournal.ie/article/7096234/river/?height=400&version=7096296",
-                "url": "https://www.thejournal.ie/readme/energy-credit-impact-gavan-reilly-7096234-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-09T18:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Google Messages just got smarter about sharing with groups",
+                "desc": "You might already have this feature",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/07/google-messages-samsung-hero.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/google-message-group-chat-easy-share/",
+                "source": "Android Police",
+                "date": "2026-07-09T22:37:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'PS5 Has Put a Dampener on Gaming': 45% of Enthusiasts 'Seriously Considering' Leaving Sony for PC",
+                "desc": "Big ooft - One of the big stories of the generation has been the rise of PC gaming, and if a Push Square poll is to be believed, 45% of PlayStation enthusias...",
+                "image": "https://images.pushsquare.com/434425c0b1f73/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/ps5-has-put-a-dampener-on-gaming-45percent-of-enthusiasts-seriously-considering-leaving-sony-for-pc",
+                "source": "Push Square",
+                "date": "2026-07-09T22:30:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WireVPN linked to long-running operation using victims’ devices as proxy network",
+                "desc": "Infoblox researchers uncovered the operation after analyzing a malicious 7-Zip installer. They found over 230 related domains linked through various infrastructure indicators.",
+                "image": "https://files.cyberriskalliance.com/wp-content/uploads/2026/04/AdobeStock_317915513.jpg",
+                "url": "https://www.scworld.com/brief/wirevpn-linked-to-long-running-operation-using-victims-devices-as-proxy-network",
+                "source": "SC Media",
+                "date": "2026-07-09T22:22:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI Intros GPT-Live Models: What Does That Mean?",
+                "desc": "GPT-Live enables natural real-time conversations, but experts caution against mistaking convincing AI behavior for human understanding.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a501d786031b2c0b892a241/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/johnwerner/2026/07/09/openai-intros-gpt-live-models-what-does-that-mean/",
+                "source": "Forbes",
+                "date": "2026-07-09T22:17:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘I’d rather be out here, even though I’m struggling’ … Scott McCarron remains strong in middle of cancer fight",
+                "desc": "AKRON, Ohio — “Do you want me to go over my hole-by-hole?” Scott McCarron is wearing a mischievous grin as he asks the question, knowing that the response would be a polite “no thank you,” and that he would not be inclined to give it anyway. McCarron had just completed a disappointing 10-over-par 80 in Read more...",
+                "image": "https://www.australiangolfdigest.com.au/wp-content/uploads/2026/07/us-golf-digest-import-149414.jpeg",
+                "url": "https://www.australiangolfdigest.com.au/rather-be-out-here-even-though-im-struggling-2026-scott-mccarron-battling-cancer/",
+                "source": "Australian Golf Digest",
+                "date": "2026-07-09T22:14:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New cyber-physical attack manipulates data center power consumption",
+                "desc": "Researchers at Zhejiang University have developed Bit2Watt, a proof-of-concept attack that abuses rented GPUs by running specialized workloads designed to rapidly fluctuate between high and low computational intensity.",
+                "image": "https://files.cyberriskalliance.com/wp-content/uploads/2023/08/01-sddc-1.jpg",
+                "url": "https://www.scworld.com/brief/new-cyber-physical-attack-manipulates-data-center-power-consumption",
+                "source": "SC Media",
+                "date": "2026-07-09T22:10:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+                "desc": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-app-browser.jpg?resize=1200,675",
+                "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+                "source": "TechCrunch",
+                "date": "2026-07-09T22:03:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "School promo, with up to PHP 53,000 in savings",
                 "desc": "While the Hunt for Power sale has ended, MSI Philippines has now revealed its new Back-to-School promo for 2026.",
@@ -1201,72 +1264,36 @@
                 "source": "PCMag",
                 "date": "2026-07-09T18:30:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The Most Credible Leaks, Price And Expected Release Date",
-                "desc": "iPhone Ultra or the iPhone Fold. No matter what you call it, here are all the rumors and leaks we've gathered on Apple's most anticipated iPhone in years.",
-                "image": "https://www.engadget.com/img/gallery/iphone-ultra-rumors-the-most-credible-leaks-price-and-expected-release-date/l-intro-1783544626.jpg",
-                "url": "https://www.engadget.com/2211037/iphone-ultra-roundup-leaks-price-release-date/",
-                "source": "Engadget",
-                "date": "2026-07-09T18:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Reviving Mystery Nintendo 64 Game Cartridge Found In The Woods",
-                "desc": "As far as things go that you are likely to find during a relaxing walk in the forest, Nintendo 64 game cartridges probably do not rank high on that list. Yet this is what happened to a friend of [Blue...",
-                "image": "https://hackaday.com/wp-content/uploads/2026/07/mystery_n64_cartridge_open_bluebox_tinkers_youtube.jpg",
-                "url": "https://hackaday.com/2026/07/09/reviving-mystery-nintendo-64-game-cartridge-found-in-the-woods/",
-                "source": "Hackaday",
-                "date": "2026-07-09T18:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CarPlay Glitches Ruining Your Drive? 6 Common Problems and How to Fix Them",
-                "desc": "Apple CarPlay problems can be especially annoying when you’re behind the wheel, whether it's a connection issue or sound trouble. Here's how to fix them and keep your eyes on the road.",
-                "image": "https://i.pcmag.com/imagery/articles/03gQFns1dukKUpx2SIckkig-8.fit_lim.size_1200x630.v1783442123.jpg",
-                "url": "https://www.pcmag.com/explainers/carplay-glitches-ruining-your-drive-6-common-problems-and-how-to-fix-them",
-                "source": "PCMag",
-                "date": "2026-07-09T18:29:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SwitchHDR, an AI model for HDR reconstruction from SDR video",
-                "desc": "From clipped to equipped: Beeble’s SwitchHDR brings SDR into your HDR VFX pipeline.",
-                "image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-beeble.jpg",
-                "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
-                "source": "fxguide",
-                "date": "2026-07-09T18:15:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Black Ops 1 & 2 Now Live On PS5, Here's Some Early Footage Compared To Xbox",
-                "desc": "A surprise shadow drop - As you may have seen, the Call of Duty: Black Ops and Black Ops 2 ports have shadow dropped on PS5 (and PS4) today, and there alread...",
-                "image": "https://images.purexbox.com/76d4f8927d693/large.jpg",
-                "url": "https://www.purexbox.com/news/2026/07/black-ops-1-and-2-now-live-on-ps5-heres-some-early-footage-compared-to-xbox",
-                "source": "Pure Xbox",
-                "date": "2026-07-09T18:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I disabled 5 Windows apps I never used and my PC stopped feeling sluggish",
-                "desc": "Nothing makes a PC feel young again like evicting apps that were freeloading in Task Manager.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/08/lenovo-laptop-showing-windows-11-startup-screen.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/disabled-5-windows-apps-never-used-pc-stopped-feeling-sluggish/",
-                "source": "MakeUseOf",
-                "date": "2026-07-09T18:00:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vermont is creating a statewide trail, and making sure it's accessible to all",
-                "desc": "Mountain bike enthusiasts have been working for years on an ambitious 485-mile, multi-use trail called The Velomont that will span the length of the state. They're making sure it's friendly for people with disabilities, particularly cyclists.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2F4b%2Fc3823e0543e099db136ef7c2d8b1%2F20260625-vermont-adaptive-mcdonald-20260625-3.jpg",
-                "url": "https://www.npr.org/2026/07/09/nx-s1-5879435/outdoor-access-for-disabled-in-vermont",
-                "source": "NPR",
-                "date": "2026-07-09T18:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "American Mariners Protest Chinese Vessel Operating Under Jones Act Waiver in Louisiana",
+                "desc": "GARYVILLE, La., July 09, 2026 (GLOBE NEWSWIRE) -- Members of the Seafarers International Union, representing merchant mariners sailing aboard U.S.-flag vessels, gathered Thursday outside Marathon Petroleum's refinery in Garyville to protest the arrival of the Chinese-flagged vessel Jin Zhou Wan, arguing that the Trump Administration's Jones Act waiver is allowing foreign vessels to perform work traditionally reserved for American ships and crews.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/10/1131978.png",
+                "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/american-mariners-protest-chinese-vessel-operating-under-jones-act-waiver-in-louisiana/2382069",
+                "source": "The Manila Times",
+                "date": "2026-07-09T22:34:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Economic impact on Scotland as overseas student numbers fall",
+                "desc": "For the 2024-25 academic year there were 36,300 international first-year students living in Scotland",
+                "image": "https://www.heraldscotland.com/resources/images/13819091.jpg?type=og-image",
+                "url": "https://www.heraldscotland.com/news/26258406.economic-impact-scotland-overseas-student-numbers-fall/",
+                "source": "The Herald",
+                "date": "2026-07-09T22:21:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RAYS 2026: The Planet Futures Forum advances",
+                "desc": "KUCHING, 9 JULY 2026: The Rainforest Youth Summit (RAYS) 2026 has advanced youth voices in climate and sustainability through the inaugural Planet Futures Forum. This youth-led platform culminated in the endorsement of the Preliminary RAYS Youth Declaration 2026.  RAYS 2026, the third edition of the Rainforest Youth Summit, was organised by the State  Government of […]",
+                "image": "https://www.ttrweekly.com/site/wp-content/uploads/2026/07/310-scaled.jpg",
+                "url": "https://www.ttrweekly.com/site/2026/07/rays-2026-planet-futures-forum-advances/",
+                "source": "TTR Weekly",
+                "date": "2026-07-09T22:15:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Johor state polls: Can smaller reformist parties like Bersama and MUDA break into PH’s urban seats?",
                 "desc": "Both Bersama and MUDA have rejected claims that they are splitting the opposition vote in Johor which would affect Prime Minister Anwar Ibrahim’s Pakatan Harapan pact.",
@@ -1869,35 +1896,8 @@
                 "source": "The Independent Uganda",
                 "date": "2026-07-09T18:00:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ethiopia Reinforces Global Human Rights Role at 62nd UN Human Rights Council Session",
-                "desc": "Addis Ababa, July 9, 2026 (ENA) —Ethiopia has concluded a strong and active participation in the 62nd Session of the United Nations Human Rights Council (HRC62).\nThe East African nation reaffirmed its commitment to promoting and protecting human rights through constructive dialogue, multilateral cooperation, and principled international engagement.\nThe session, held at the United Nations Office in Geneva from 15 June to 8 July 2026, provided Ethiopia with a key platform to contribute to global human rights deliberations while demonstrating its growing leadership within the Council.\nServing simultaneously as a Member of the Human Rights Council, a Member of the HRC Bureau, and Vice-President of the Council, Ethiopia played a prominent role throughout the session by chairing high-level meetings, participating in the Bureau's decision-making processes, and helping steer the Council's work on major human rights issues.\n \nThe Ethiopian delegation delivered national statements, took an active role in negotiations on draft resolutions, and closely coordinated with the African Group, the Non-Aligned Movement (NAM), and the Like-Minded Group of Countries to advance common positions on key human rights priorities.\nReflecting its broad engagement, Ethiopia also participated in more than 30 interactive dialogues and five high-level panel discussions, contributing to deliberations on a wide range of thematic and country-specific human rights issues.\nEthiopia's Permanent Representative to the United Nations Office at Geneva and other International Organizations, Ambassador Tsegab Kebebew, highlighted the country's ongoing progress in democratic governance, peacebuilding, transitional justice, and the promotion and protection of human rights.\n \nThe ambassador reaffirmed Ethiopia's commitment to implementing the recommendations it accepted under the Universal Periodic Review (UPR).\nHe also reaffirmed his country’s commitment to strengthening the rule of law, expanding civic space, advancing sustainable development, and maintaining constructive engagement with the Human Rights Council, the Office of the United Nations High Commissioner for Human Rights (OHCHR), and all UN member states.\n \nEthiopia said its participation at HRC62 underscores the country's continued commitment to multilateralism and its determination to contribute meaningfully to global efforts.",
-                "image": "https://www.ena.et/documents/42142/0/tsega.jpg/59deb8bf-aef0-3475-a6f5-2c47993a8a04?version=1.0&t=1783619606920&download=true",
-                "url": "https://www.ena.et/web/eng/w/eng_9189266",
-                "source": "ENA English",
-                "date": "2026-07-09T17:59:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Missing Boeing 737 crew's families speak out as wreckage is found",
-                "desc": "A family member of the Boeing 737 crew says relatives are praying for a miracle after a K2 Airways cargo plane crashed in the Arabian Sea. Crew members are still missing.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/PAKISTAN_k2_AIRWAYS_PLANE_CRASH_UPDATE_1.jpg",
-                "url": "https://www.foxnews.com/travel/boeing-737-mystery-takes-painful-turn-families-learn-names-missing-crew",
-                "source": "Fox News",
-                "date": "2026-07-09T17:57:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Burnham apologises for Labour's previous stance on Gaza",
-                "desc": "Burnham, along other with Labour figures, had called for a ceasefire by late October 2023 - putting him at odds with Sir Keir Starmer.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c869/live/30036b60-7bba-11f1-bada-857505afa282.jpg",
-                "url": "https://www.bbc.com/news/articles/cvg5yrkeed1o",
-                "source": "BBC",
-                "date": "2026-07-09T17:56:04Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T10:00:27.686058Z"
+    "lastGlobalSync": "2026-07-10T10:40:23.800676Z"
 }
