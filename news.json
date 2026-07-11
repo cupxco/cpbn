@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Facebook and Instagram violate laws due to 'addictive' design, EU finds",
+                "desc": "The European Union found that Meta services like Facebook and Instagram are too addictive by design.",
+                "image": "https://helios-i.mashable.com/imagery/articles/03DiLpenj4PDv9PFdHkAPzQ/hero-image.fill.size_1200x675.v1783698827.jpg",
+                "url": "https://mashable.com/tech/meta-european-union-facebook-instagram-addictive",
+                "source": "Mashable",
+                "date": "2026-07-10T17:40:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "N.J. campaigns brace for voter data shutdown under new law",
+                "desc": "Political campaigns, candidates, party organizations, and advocacy groups could lose access to critical voter data as early as tonight after a sweeping",
+                "image": "https://media.newjerseyglobe.com/wp-content/uploads/2026/01/04130118/KBS_1588-scaled.jpg",
+                "url": "https://newjerseyglobe.com/campaigns/n-j-campaigns-brace-for-voter-data-shutdown-under-new-law/",
+                "source": "New Jersey Globe",
+                "date": "2026-07-10T17:39:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Passenger injured after being partially sucked out of plane after takeoff",
+                "desc": "A passenger on board a flight from Greece to Germany was reportedly partially sucked out of a window when it broke soon after takeoff.",
+                "image": "https://cdn.abcotvs.com/dip/images/19481599_071026-wabc-clean-ryanair-img.jpg?w=1600",
+                "url": "https://abc7news.com/post/passenger-injured-being-partially-sucked-plane-takeoff-greece/19481474/",
+                "source": "ABC7 Bay Area",
+                "date": "2026-07-10T17:39:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fresh Fuel Price Update: Diesel Surges in Lagos, Warri, Port Harcourt Despite Stable Petrol Rates",
+                "desc": "Diesel prices surge by up to N50 across Lagos, Port Harcourt, and Warri, while petrol remains stable amid competitive pressures and regional market dynamics.",
+                "image": "https://cdn.legit.ng/images/1200x675/6f9a3993d24098a4.jpeg?v=1",
+                "url": "https://www.legit.ng/business-economy/energy/1718683-fresh-fuel-price-update-diesel-surges-lagos-warri-port-harcourt-stable-petrol-rates/",
+                "source": "Legit.ng",
+                "date": "2026-07-10T17:38:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Passenger injured after being partially sucked out of plane after takeoff",
+                "desc": "A passenger on board a flight from Greece to Germany was reportedly partially sucked out of a window when it broke soon after takeoff.",
+                "image": "https://cdn.abcotvs.com/dip/images/19481599_071026-wabc-clean-ryanair-img.jpg?w=1600",
+                "url": "https://abc7chicago.com/post/passenger-injured-being-partially-sucked-plane-takeoff-greece/19481474/",
+                "source": "ABC7 Chicago",
+                "date": "2026-07-10T17:38:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ryanair window dislodges mid-flight, passenger partially sucked outside",
+                "desc": "Ryanair passenger was reportedly partially sucked out of a broken airplane window after engine debris struck the plane shortly after takeoff from Greece.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/ryanair-thessaloniki-greece-01.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/lifestyle/ryanair-passenger-partially-sucked-out-broken-window-after-takeoff-from-greece",
+                "source": "Fox Business",
+                "date": "2026-07-10T17:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rotary Club Of Greenfield Begins New Chapter As Oyesile Assumes Presidency",
+                "desc": "The newly installed President of Rotary Club of Greenfield, Kayode Oyesile, has pledged to focus on growth, innovation, membership expansion, and impactful community service as he officially assumed office for the 2026–2027 Rotary year. In his inaugural address, Oyesile expressed gratitude to God for the opportunity to lead the club and paid tribute to the...",
+                "image": "https://independent.ng/wp-content/uploads/2026/07/IMG-20260710-WA0054.jpg",
+                "url": "https://independent.ng/rotary-club-of-greenfield-begins-new-chapter-as-oyesile-assumes-presidency/",
+                "source": "Independent Newspaper Nigeria",
+                "date": "2026-07-10T17:32:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tanzania’s richest man makes $275m bet on battery minerals as EV race accelerates",
+                "desc": "Tanzania’s richest businessman Mohammed Dewji plans to invest $275 million in graphite mining while expanding into luxury tourism, as MeTL Group targets $10 billion in annual revenue by 2035 amid rising global demand for battery minerals. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/rCuktkpTURBXy85ZGFkZWFlYTBhNWNiNzFlZWFmNzk0YzNlNWZhY2Q0YS5qcGeSlQMAAM0EsM0Co5MFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/tanzanias-richest-man-makes-dollar275m-bet-on-battery-minerals-as-ev-race-accelerates/q7gvenk",
+                "source": "Business Insider Africa",
+                "date": "2026-07-10T17:32:19Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Métis Federation buys former research council buildings in Winnipeg, eyes bid for Fort Garry Hotel",
+                "desc": "The Manitoba Métis Federation is taking another big step as it expands its real estate footprint in downtown Winnipeg — and sets its eyes on yet another iconic and historic property.",
+                "image": "https://i.cbc.ca/ais/fe5725b9-938e-42e5-ab66-c7b1a268f5b5,1783699306598/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C31%2C1509%2C848%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/manitoba/metis-federation-research-building-fort-garry-9.7265598",
+                "source": "CBC",
+                "date": "2026-07-10T17:31:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Passenger window on Ryanair flight dislodges, partially sucking out passenger",
+                "desc": "A passenger window on a Ryanair flight dislodged shortly after takeoff from Thessaloniki, Greece, partially sucking out a passenger.",
+                "image": "https://i.abcnewsfe.com/a/af44b366-7eb0-47b2-a412-f3acc93f0966/ryanair-1-ht-gmh-260710_1783695036440_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/US/passenger-window-ryanair-flight-dislodges-partially-sucking-passenger/story?id=134652591",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-10T17:29:23Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "New online charge now triggering a €10 cost",
                 "desc": "Donegal Deputy Pearse Doherty has claimed online shoppers are being hit with a €10 charge on small items.The Sinn Féin spokesperson on Finance, said the €3 tax...",
                 "image": "https://img.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyMlxcXC8wOFxcXC9jb21wdXRlci1sYXB0b3Atc29mdHdhcmUtYXBwLXdvcmstZGVzay10eXBlLWNoYXQuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8wM1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMGYxMTkzNWIyMDI3MGZjYjA3MGI2Yjc3ZGVmNGExMWY1YjVmYmUwMyJ9/new-online-charge-now-triggering-a-10-cost-doherty.jpg",
@@ -542,99 +632,99 @@
                 "source": "Creative Salon",
                 "date": "2026-07-10T14:35:58Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ivory Coast 2026/27 cocoa crop to drop more than 10% amid excess rains, disease, counters say",
-                "desc": "ABIDJAN, July 10 (Reuters) – Top cocoa grower Ivory Coast’s upcoming 2026/27 main crop is expected to drop more than 10% amid excess rains, disease and insufficient crop care, pod counters and exporters based in the country said. The excess rains are linked to the El Nino weather pattern — expected to strengthen sharply — that tends to […]",
-                "image": "https://cdn.cnbc.africa/wp-content/uploads/2026/05/AF3VLXFO4FOFVNX5ZPW5PSYZUA.jpg",
-                "url": "https://www.cnbcafrica.com/2026/ivory-coast-2026-27-cocoa-crop-to-drop-more-than-10-amid-excess-rains-disease-counters-say",
-                "source": "CNBC Africa",
-                "date": "2026-07-10T14:34:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU demands Facebook and Instagram get rid of 'addictive' features or face fines",
-                "desc": "The preliminary findings are the latest charges since Brussels opened its investigation in 2024.",
-                "image": "https://img2.thejournal.ie/article/7097925/river/?height=400&version=7097927",
-                "url": "https://www.thejournal.ie/eu-meta-facebook-instagram-addictive-7097925-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-10T14:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Turn Scheme is an ‘unnecessary torture’",
-                "desc": "Claim there will be “exodus” due to new scheme in NI",
-                "image": "https://gript.ie/wp-content/uploads/2026/05/IMG_20260527_111113_960_x_540_pixel.jpg",
-                "url": "https://gript.ie/senator-re-turn-scheme-is-an-unnecessary-torture/",
-                "source": "Gript",
-                "date": "2026-07-10T14:32:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "easyJet buyout: Apollo Global Management trumps Castlelake offer",
-                "desc": "easyJet buyout: Apollo Global Management trumps Castlelake offer - Apollo Global Management trumps Castlelake's offer for easyJet",
-                "image": "https://www.aviationbusinessnews.com/resources/uploads/2024/11/resized-for-web-easyjet.webp",
-                "url": "https://www.aviationbusinessnews.com/low-cost/easyjet-buyout-apollo-global-management-trumps-castlelake-offer/",
-                "source": "Aviation Business News",
-                "date": "2026-07-10T14:32:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Easing Aluminum Supply Risk Prompts Lower Forecasts",
-                "desc": "Aluminium prices have retreated from their recent highs despite renewed tensions in the Middle East. Read more here.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1470272541/image_1470272541.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4921178-easing-aluminum-supply-risk-prompts-lower-forecasts",
-                "source": "Seeking Alpha",
-                "date": "2026-07-10T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toronto social housing complex revived after standing empty for 18 years",
-                "desc": "Toronto Community Housing is ready to open it up to new tenants after it was shuttered for 18 years as a result of persistent flooding and mould issues.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/Etobicoke-housing-e1783691677436.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11960974/toronto-social-housing-complex-revived/",
-                "source": "Global News",
-                "date": "2026-07-10T13:59:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These are America's 10 cheapest states to live in",
-                "desc": "These are America's cheapest states to live in for 2026, where residents can still beat inflation.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108328235-1783695176478-108328235-1782753413337-gettyimages-2257268220-winter_storm_prep_midwest_ccastor_87.jpg?v=1783695196&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/10/americas-10-cheapest-places-to-live-top-states-for-business.html",
-                "source": "CNBC",
-                "date": "2026-07-10T13:56:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Should You Buy Micron Stock Under $1,000?",
-                "desc": "Micron stock has been cratering since the company reported earnings in late June.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878061%2Fmicron-logo.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/10/should-you-buy-micron-stock-under-1000/",
-                "source": "The Motley Fool",
-                "date": "2026-07-10T13:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gas rises 6.4 cents from week before in Nova Scotia",
-                "desc": "After the U.S. launched new airstrikes on Iran this week, the price of gas and diesel in Nova Scotia took huge leaps. According to the Nova Scotia Energy Board, the price of regular self-serve gasoline is 183.1 cents per litre, a jump of 6.4 cents from the week previous. Diesel is set to take a […]",
-                "image": "https://halifax.citynews.ca/wp-content/blogs.dir/sites/5/2026/05/15/gas-e1778851230220.jpg",
-                "url": "https://halifax.citynews.ca/2026/07/10/gas-diesel-jump-in-price-after-tensions-explode-between-iran-u-s/",
-                "source": "CityNews Halifax",
-                "date": "2026-07-10T13:51:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Volkswagen Group tells its board how to fix it, unions disagree",
-                "desc": "VW's plan calls for half as many models but didn't mention closures or job cuts.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284728396-2560x1440.jpg",
-                "url": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
-                "source": "Ars Technica",
-                "date": "2026-07-10T13:51:10Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Physical laws explain why most flies evolved similar flight, with mosquitoes as outliers",
+                "desc": "A new study in PLOS Biology of 133 species of flies, mosquitoes and their relatives shows that most species fly in surprisingly similar ways. Physical and aerodynamic laws shape the evolution of their flight behavior more strongly than previously thought. Mosquitoes prove to be a striking exception.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/why-most-flies-fly-ali.jpg",
+                "url": "https://phys.org/news/2026-07-physical-laws-flies-evolved-similar.html",
+                "source": "Phys.org",
+                "date": "2026-07-10T17:40:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package",
+                "desc": "Microsoft says GigaWiper combines at least 3 malware families into one modular tool",
+                "image": "https://image.theregister.com/5270084.jpg?imageId=5270084&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/security/2026/07/10/destructive-windows-backdoor-stuffs-multiple-wipers-and-ransomware-code-into-a-single-package/5270053",
+                "source": "The Register",
+                "date": "2026-07-10T17:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU Can't Force PlayStation To Keep Making Physical Games",
+                "desc": "The European Union won't stop the all-digital future that video game fans are facing",
+                "image": "https://kotaku.com/app/uploads/2026/07/ps5discs-1200x675.jpg",
+                "url": "https://kotaku.com/eu-cant-force-sony-to-keep-making-physical-games-says-consumer-rights-commissioner-2000714728",
+                "source": "Kotaku",
+                "date": "2026-07-10T17:31:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What Xbox's layoffs, massive reboot say about the gaming industry",
+                "desc": "Microsoft plans to reduce Xbox by 3,200 jobs over the next fiscal year, calling it “the most significant restructuring in Xbox history.” While the gaming industry has seen many boom and bust cycles, experts say this moment is different.",
+                "image": "https://kuow-prod.imgix.net/store/d14f9409ea249313e2c27ff6cd0156b1.jpg?fm=jpg&fit=max&w=1200&h=628&q=80",
+                "url": "https://www.kuow.org/stories/what-xbox-s-layoffs-massive-reboot-says-about-the-gaming-industry",
+                "source": "KUOW",
+                "date": "2026-07-10T17:29:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Death of Console Discs Pushes Gamers to PC",
+                "desc": "The reception of PlayStation's recent decision to stop producing physical games media in early 2028 has been heard far and wide across the internet, with fans even going as far as to start the \"Don't Kill the Disc\" petition on Change.org. More recently, a survey on Push Square, a publication that...",
+                "image": "https://www.techpowerup.com/img/gi1gdEXCDQgj8kEr.jpg",
+                "url": "https://www.techpowerup.com/350667/death-of-console-discs-pushes-gamers-to-pc",
+                "source": "TechPowerUp",
+                "date": "2026-07-10T17:27:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Security alert centred on Cregagh Glen",
+                "desc": "Drivers and pedestrians urged to avoid Manse Road area",
+                "image": "https://www.irishnews.com/resizer/v2/VC2US2GNYZLFHGY6AI74PU67HU.jpg?smart=true&auth=9104018f6241610d1691875654990d60c262f223d9546d4d329ad0b80ddd77e6&width=1200&height=630",
+                "url": "https://www.irishnews.com/news/northern-ireland/road-closed-in-east-belfast-security-alert-AEKPR3MLDJBQXFZTWJTKLAPZI4/",
+                "source": "The Irish News",
+                "date": "2026-07-10T17:18:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cyberpunk 2077 Fans Say the Game Still Has More Than Enough Players to Justify a Second Expansion",
+                "desc": "Cyberpunk 2077 is having a moment, with impressive player numbers on Steam fueled by a recent sale, hype for upcoming Netflix anime Cyberpunk: Edgerunners 2 and its collaboration with Wuthering Waves. And while Cyberpunk 2077 is a known quantity at this point, and CD Projekt has told fans not to expect any more DLC, fans are calling on the developer to change its mind and release more DLC — just like The Witcher 3 is getting.",
+                "image": "https://assets-prd.ignimgs.com/2026/07/10/ss-8640d9db74f7cad714f6ecfb0e1aceaa3f887e58-1920x1080-1783703554045.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/id-take-it-in-a-second-cyberpunk-2077-player-resurgence-has-fans-calling-on-cd-projekt-to-change-its-mind-and-release-more-dlc",
+                "source": "IGN",
+                "date": "2026-07-10T17:12:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LisaFPGA brings Apple's magnificent misfire back in programmable logic",
+                "desc": "Open source recreation costs a fraction of the original and may even work with Twiggy drives",
+                "image": "https://image.theregister.com/1684104.jpg?imageId=1684104&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/personal-tech/2026/07/10/lisafpga-brings-apples-magnificent-misfire-back-in-programmable-logic/5269951",
+                "source": "The Register",
+                "date": "2026-07-10T17:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon Deals of the Day: Turn Up the Tunes With Almost 50% Off Soundcore V20i Open Earbuds",
+                "desc": "Plus, the Tapo indoor security camera is just $16 and the Bose TV speaker is almost 30% off.",
+                "image": "https://www.cnet.com/a/img/resize/51fa60a24f67560af5e7b84cf6822f913f229eb1/hub/2026/07/10/87603bd2-d491-42b1-8d4d-ac6efbc925f4/amazon-dod-710.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/deals/amazon-deals-of-the-day-july-10-2026/",
+                "source": "CNET",
+                "date": "2026-07-10T17:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+                "desc": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/following.png?resize=1200,805",
+                "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+                "source": "TechCrunch",
+                "date": "2026-07-10T17:11:51Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "My Pixel 6 is still going strong thanks to Google's generous Android updates",
                 "desc": "Running Android 17 without the AI bloat, the Pixel 6 proves Google's long-term software support is a massive win for purists",
@@ -1174,99 +1264,99 @@
                 "source": "Goss.ie",
                 "date": "2026-07-10T14:34:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Pair Your iPhone 17 Pro With Beats' New Orange Studio Buds, Now Just $50",
-                "desc": "This deal on our favorite budget-friendly wireless earbuds expires tonight.",
-                "image": "https://www.cnet.com/a/img/resize/b1c199ec0ff2f4ddc31372d69f5740215030f37d/hub/2026/07/10/a268bcd1-37b7-431a-b678-0e83618fca6c/beats-solo-buds-in-orange-on-purple-background.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/deals/beats-solo-buds-deal-2026-07-10/",
-                "source": "CNET",
-                "date": "2026-07-10T14:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This free, no-sign-up video app beats Google Meet and Zoom",
-                "desc": "Yes, it doesn't want your email address.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/jitsi-meet-call-on-a-laptop-and-a-poster-in-the-background-jpg.jpeg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/free-no-sign-up-video-app-beats-google-meet-and-zoom/",
-                "source": "MakeUseOf",
-                "date": "2026-07-10T14:30:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Physical media is dying. So is the idea that you own what you buy",
-                "desc": "Welcome to Fast Company Daily, our daily newsletter on LinkedIn, featuring a free article selected each day by our editors as well as a roundup of great advice on careers, hiring, innovation, and technology. Visit fastcompany.",
-                "image": "https://media.licdn.com/dms/image/v2/D4E12AQGSQoS97egOuA/article-cover_image-shrink_720_1280/B4EZ9IR92dHAAQ-/0/1783624097574?e=2147483647&v=beta&t=Cwapu_Mi9ii9lgF-AYtgN3VafmnvmB-k-4rql39UCxw",
-                "url": "https://www.linkedin.com/pulse/physical-media-dying-so-idea-you-own-what-buy-fast-company-ozo5e",
-                "source": "LinkedIn",
-                "date": "2026-07-10T14:30:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "\"It Is Not A Decision We Have Taken Lightly\" - Evercade Is The Next System To Get A Price Hike Thanks To AI",
-                "desc": "\"We have absorbed rising costs for as long as possible, but this is no longer feasible\" - Blaze CEO Andrew Byatt has announced that the company's Evercade ra...",
-                "image": "https://images.timeextension.com/26bf089b80985/large.jpg",
-                "url": "https://www.timeextension.com/news/2026/07/it-is-not-a-decision-we-have-taken-lightly-evercade-is-the-next-system-to-get-a-price-hike-thanks-to-ai",
-                "source": "Time Extension",
-                "date": "2026-07-10T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I’m filling in at The Verge for 6 weeks. Ask me anything!",
-                "desc": "Come geek out with me about computational and analog photography, protocols, emoji, ambient computing, etc!",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/David-Profile-AMA.jpg?quality=90&strip=all&crop=0%2C14.753309884494%2C100%2C70.493380231013&w=1200",
-                "url": "https://www.theverge.com/column/963495/im-filling-in-at-the-verge-for-6-weeks-ask-me-anything",
-                "source": "The Verge",
-                "date": "2026-07-10T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia, AI And The New Tech Stack: Why This Cycle Is Different",
-                "desc": "AI is driving a full-stack infrastructure boom, reshaping energy, chips, cloud, and software—creating broad, distributed investment opportunities across a tech ecosystem.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4fcdc313e6555576d6a4af/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/timbajarin/2026/07/10/nvidia-ai-and-the-new-tech-stack-why-this-cycle-is-different/",
-                "source": "Forbes",
-                "date": "2026-07-10T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 Aston Martin Vantage S review",
-                "desc": "The Aston Martin Vantage S promises high levels of performance in a stunning package, but does it deliver on the road?",
-                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/aston-martin-vantage-s-stills-44.jpg",
-                "url": "https://www.carexpert.com.au/car-reviews/2026-aston-martin-vantage-s-review",
-                "source": "CarExpert",
-                "date": "2026-07-10T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 17 Drops Into the Ocean and Keeps Recording for Two and a Half Hours",
-                "desc": "Two influencers were shooting content on a dock in Martha's Vineyard when their iPhone 17 Pro Max slipped into the water below.",
-                "image": "https://petapixel.com/assets/uploads/2026/07/iPhone-Falls-In-Ocean.jpg",
-                "url": "https://petapixel.com/2026/07/10/iphone-17-drops-into-the-ocean-and-keeps-recording-for-two-and-a-half-hours/",
-                "source": "PetaPixel",
-                "date": "2026-07-10T13:58:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "You can now control FL Studio with an agentic AI chatbot from inside the DAW",
-                "desc": "Image-Line's FL Studio 2026 also brings an redesigned Flex synth, cloud-based project backup, an updated Loop Starter and much more to the popular DAW",
-                "image": "https://cdn.mos.cms.futurecdn.net/7JZA5WS4Bj9XbhdqgxNdHj-1920-80.png",
-                "url": "https://www.musicradar.com/music-tech/you-can-now-control-fl-studio-with-an-ai-chatbot-from-inside-the-daw",
-                "source": "MusicRadar",
-                "date": "2026-07-10T13:57:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei Mate XT2 Leaked With U",
-                "desc": "The Huawei Mate XT2 tri-fold is tipped for a September 2026 launch with a new U-shaped fold, Kirin 9050 Pro chip, and upgraded cameras. Here are the leaked specs, expected price, and how it stacks up against Samsung and Apple.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/07/Huawei-Mate-XT2-Leaked-With-U-Shaped-Tri-Fold-Design-and-Kirin-9050.jpg",
-                "url": "https://memeburn.com/huawei-mate-xt2-leaked/",
-                "source": "Memeburn",
-                "date": "2026-07-10T13:54:38Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Shippers Face Deepening Dilemma as U.S. and Iran Vie for Control of the Strait",
+                "desc": "Companies desperately want to get their ships moving through the Strait of Hormuz, but face mounting risks. “Things are becoming uglier by the minute,” one executive said.",
+                "image": "https://static01.nyt.com/images/2026/07/10/multimedia/Biz-Hormuz-Shipping-vtwl/Biz-Hormuz-Shipping-vtwl-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html",
+                "source": "The New York Times",
+                "date": "2026-07-10T17:37:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Committee hands over report on reforming presidential pardon process",
+                "desc": "A committee appointed to review Sri Lanka’s presidential pardon system has submitted a comprehensive report recommending a more systematic, fair and transparent framework for granting presidential pardons to prison inmates.",
+                "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_e6536e7e37.jpg",
+                "url": "https://www.dailymirror.lk/breaking-news/Committee-hands-over-report-on-reforming-presidential-pardon-process/108-345332",
+                "source": "Daily Mirror - Sri Lanka",
+                "date": "2026-07-10T17:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukrainian court detains alleged killers of Monaco bomb attack suspect",
+                "desc": "Motives for the killing of Anastasiia Berezovska remain unclear as the unfolding saga grips both countries.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260703__B96E363__v2__HighRes__MonacoFrancePoliceInvestigation-1783427817.jpg?resize=1200%2C675",
+                "url": "https://www.aljazeera.com/news/2026/7/10/ukrainian-court-detains-alleged-killers-of-monaco-bomb-attack-suspect",
+                "source": "Al Jazeera",
+                "date": "2026-07-10T17:30:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canadian Government Announces New Federal Job Openings in July 2026, Lists Salaries And Requirements",
+                "desc": "The Canadian government advertised job opportunities in July 2026, spanning multiple sectors, from administrative roles to scientific careers, with varying salaries.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/33568978512f0918.jpeg?v=1",
+                "url": "https://yen.com.gh/people/307681-canadian-government-announces-12-federal-job-openings-july-2026-lists-salaries-requirements/",
+                "source": "Yen News",
+                "date": "2026-07-10T17:26:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man Arrested In Suspected Murder Of Ex-MP",
+                "desc": "UK police have arrested a man on suspicion of murder in the death of Ann Widdecombe, a former Member of Parliament and British reality star.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-2183846656.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/ann-widdecombe-death-homicide-1236979243/",
+                "source": "Deadline",
+                "date": "2026-07-10T17:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The EU Population Grew, Latvia Experienced the Most Significant Decline",
+                "desc": "The population of the European Union continued to grow in 2025. According to Eurostat, as of January 1, 2026, an estimated 452 million people lived in the EU, which is 706,000 more than the previous year.",
+                "image": "https://news.inbox.eu/w/img/7f/e7/7fe72648d01177cae2.webp",
+                "url": "https://news.inbox.eu/150hox4-the-eu-population-grew-latvia-experienced-the-most-significant-decline?language=en",
+                "source": "Inbox.eu",
+                "date": "2026-07-10T17:20:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump accused of trying to ‘rig’ elections after firing federal commissioners",
+                "desc": "President’s dismemberment of Election Assistance Commission called a ‘brazen attempt’ to control elections",
+                "image": "https://i.guim.co.uk/img/media/2f7f585f9f246c601ed7cfb4153678edc4dd92f1/504_0_5039_4033/master/5039.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e1c5dd76e49c4e69221b926e3e2e554",
+                "url": "https://www.theguardian.com/us-news/2026/jul/10/trump-accused-election-rig-federal-commissioners-fired",
+                "source": "The Guardian",
+                "date": "2026-07-10T17:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Modi visits New Zealand as trade deal sparks India pushback",
+                "desc": "On the agenda are trade, tourism and sport",
+                "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/Modi%20in%20New%20Zealand.jpg",
+                "url": "https://www.thedailystar.net/news/world/news/modi-visits-new-zealand-trade-deal-sparks-india-pushback-4220551",
+                "source": "The Daily Star",
+                "date": "2026-07-10T17:12:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Museveni Reiterates Call for Africa’s Economic and Political Integration at NDC-U Graduation",
+                "desc": "President Yoweri Kaguta Museveni, who is also the Commander-in-Chief of the Uganda People's Defence Forces (UPDF), has renewed his call for the economic and political integration of Africa, describing it as essential for guaranteeing the continent's long-term strategic security and defence capabilities. The President made the remarks today while presiding over the graduation ceremony of …",
+                "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/07/NDC-gradiation-1204x835.jpg",
+                "url": "https://chimpreports.com/museveni-reiterates-call-for-africas-economic-and-political-integration-at-ndc-u-graduation/",
+                "source": "ChimpReports",
+                "date": "2026-07-10T17:12:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi Military Delegation Inspects Project to Train More Than 5,000 Somali Soldiers",
+                "desc": "A Saudi military delegation visited two training camps for forces affiliated with the Somali Federal Government in the Guri El area of the Galgadud Region.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/ce4f15ada3b339e4.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/world/632171-saudi-military-delegation-inspects-project-train-5000-somali-soldiers/",
+                "source": "Tuko News",
+                "date": "2026-07-10T17:07:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "polling Pauline Hanson calls for new limits on New Zealand migration to Australia",
                 "desc": "Pauline Hanson was once written off as yesterday’s news and tossed aside like a fish-and-chip wrapper. Thirty years on, the One Nation leader has become a...",
@@ -1806,98 +1896,8 @@
                 "source": "The Manila Times",
                 "date": "2026-07-10T14:21:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "World Bank Group (WBG) is Recruiting Young Professionals Worldwide",
-                "desc": "The World Bank Group (WBG) is inviting talented young professionals from around the world to explore opportunities through its Young Professionals Program",
-                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/b6489211-2a77-49b9-a8a3-f5998ff7547a.jpeg",
-                "url": "https://www.globalsouthopportunities.com/2026/07/10/young-25/",
-                "source": "Global South Opportunities",
-                "date": "2026-07-10T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Video Footage Of McConnell’s 911 Call Unveiled As Republicans Claiming He’s Well Are Widely Mocked",
-                "desc": "The Senate returns from recess Monday, nearly a month after McConnell was hospitalized on June 14.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4e5d3f48936586a17a07bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/saradorn/2026/07/10/video-footage-shows-mcconnell-taken-by-ambulance-as-pressure-for-health-update-grows-ahead-of-senates-return-monday/",
-                "source": "Forbes",
-                "date": "2026-07-10T13:58:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xenophobia: Uganda repatriates 1,102 citizens from S/Africa",
-                "desc": "Uganda has completed the first phase of the voluntary repatriation of 1,102 nationals from South Africa following xenophobic violence...",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2020/11/Uganda.png",
-                "url": "https://www.vanguardngr.com/2026/07/xenophobia-uganda-repatriates-1102-citizens-from-s-africa/",
-                "source": "Vanguard News",
-                "date": "2026-07-10T13:54:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU Parliament clears modernised EU-Mexico trade pact",
-                "desc": "The European Parliament has approved the modernised EU-Mexico Global Agreement and an interim trade agreement to strengthen political ties and expand trade.\nThe deals improve...",
-                "image": "https://static.fibre2fashion.com/Newsresource/images/311/shutterstock-2725237505_323247.jpg",
-                "url": "https://www.fibre2fashion.com/news/textile-news/eu-parliament-clears-modernised-eu-mexico-trade-pact-311659-newsdetails.htm",
-                "source": "Fibre2Fashion",
-                "date": "2026-07-10T13:49:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan Releases Official List of Only 3 African Countries Eligible for Visa",
-                "desc": "Japan has released its official list of only three African countries whose citizens can enter the country without a visa for short-term visits. See full list here.",
-                "image": "https://cdn.legit.ng/images/1200x675/b187519012d5b093.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1718629-japan-releases-list-3-african-countries-eligible-visa-free-entry/",
-                "source": "Legit.ng",
-                "date": "2026-07-10T13:47:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘I had an incredible escape’: British woman tells of close encounter with Spanish wildfire",
-                "desc": "Jeanne Henny, 74, put her friend, a wheelchair and two dogs into the car and drove away, only to meet fire surging on to the road",
-                "image": "https://i.guim.co.uk/img/media/14d840daf44e10076dc5a92f86d8d55a42329b51/272_630_1050_840/master/1050.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58295405305c64c035745ff0b23e9afc",
-                "url": "https://www.theguardian.com/world/2026/jul/10/i-had-an-incredible-escape-british-woman-tells-of-close-encounter-with-spanish-wildfire",
-                "source": "The Guardian",
-                "date": "2026-07-10T13:43:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pigeon flies into Bedford bathroom and nests in makeup bag",
-                "desc": "Mimmy Stranger's new pal has laid two eggs and seems very happy in her new home.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/06b7/live/af6680e0-7bba-11f1-bada-857505afa282.jpg",
-                "url": "https://www.bbc.com/news/articles/c20y95v44xyo",
-                "source": "BBC",
-                "date": "2026-07-10T13:42:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump says he won’t sign housing bill that’s set to become law at midnight",
-                "desc": "President Donald Trump said Friday that he will not sign a bipartisan housing bill in protest of Republicans’ inability to advance separate elections overhaul legislation, dealing a major political blow to vulnerable lawmakers in his own party.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282590513.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/10/politics/trump-housing-bill",
-                "source": "CNN",
-                "date": "2026-07-10T13:42:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesia's police-military tensions in focus after Jakarta raids",
-                "desc": "Indonesian officials sought to play down signs of a rift between security agencies after police raids in Jakarta brought several alleged graft cases into public view and drew a senior prosecutor into a widening controversy.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/10/4003723.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/10/indonesia039s-police-military-tensions-in-focus-after-jakarta-raids",
-                "source": "The Star",
-                "date": "2026-07-10T13:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Govt commits to African Air transport market",
-                "desc": "He said the implementation of SAATM would unlock significant economic opportunities by improving the movement of people, goods and services across Africa.",
-                "image": "https://cdn.thestandard.co.zw/images/newsday/uploads/2026/07/kF8as5Kc8eqNTSqvkOBvL5ppCRhuJ8FKfhEZoTfm.jpg",
-                "url": "https://www.newsday.co.zw/local-news/article/200058198/govt-commits-to-african-air-transport-market",
-                "source": "NewsDay Zimbabwe",
-                "date": "2026-07-10T13:30:08Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T05:00:17.144165Z"
+    "lastGlobalSync": "2026-07-11T05:40:18.246891Z"
 }
