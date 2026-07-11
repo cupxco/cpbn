@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "OpenAI power consolidates under co-founder Greg Brockman ahead of IPO",
+                "desc": "With Fidji Simo's official departure from OpenAI due to a chronic medical issue, Greg Brockman's role has become clearer.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108303095-17780855902026-05-06t163753z_1896314310_rc2s3lasm42k_rtrmadp_0_musk-openai-court.jpeg?v=1778085665&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
+                "source": "CNBC",
+                "date": "2026-07-10T19:12:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Daily Post Nigeria",
+                "desc": "The Abuja Electricity Distribution Company, AEDC, said it regretted to inform customers in Maitama, Abuja, and surrounding areas that it is presently",
+                "image": "https://dailypost.ng/wp-content/uploads/2024/06/AEDC.jpeg",
+                "url": "https://dailypost.ng/2026/07/10/power-supply-disruption-in-abuja-after-invasion-of-aedcs-maitama-station-by-land-grabbers/",
+                "source": "Daily Post Nigeria",
+                "date": "2026-07-10T19:12:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+                "desc": "Apple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between the iPhone maker and the artificial intelligence company",
+                "image": "https://i.abcnewsfe.com/a/d9f0ecbd-9b59-4037-9ea8-f6469d245d67/wirestory_6fff8833f5889d86406b89a02dd8fb16_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/Technology/wireStory/apple-files-lawsuit-accusing-chatgpt-maker-openai-stealing-134663221",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-10T19:11:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "S&P 500 Rises Before Earnings as SK Hynix Debuts: Markets Wrap",
+                "desc": "(Bloomberg) -- Wall Street traders drove stocks higher in the countdown to the earnings season, with SK Hynix Inc. jumping in its debut and the market parsing the latest geopolitical developments.",
+                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764756856",
+                "url": "https://www.swissinfo.ch/eng/s%26p-500-rises-before-earnings-as-sk-hynix-debuts%3A-markets-wrap/91725498",
+                "source": "SWI swissinfo.ch",
+                "date": "2026-07-10T19:05:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hobart Airport opens new arrivals area as $200m expansion continues",
+                "desc": "The new space features an 85-metre U-belt baggage carousel…",
+                "image": "https://cdn.pulsetasmania.com.au/images/pmg/0d129db8-jzw1qc5ge77mgi5_63tr6_l267c.jpg",
+                "url": "https://pulsetasmania.com.au/news/hobart-airport-opens-new-arrivals-area-as-200m-expansion-continues/",
+                "source": "Pulse Tasmania",
+                "date": "2026-07-10T19:05:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NASDAQ Index, SP500, Dow Jones Forecasts - NASDAQ Gains Ground As Meta Rallies 6.2%",
+                "desc": "Stock traders remained bullish ahead of the weekend.",
+                "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/ChatGPT-Image-May-29-2025-03_22_46-PM.jpg?func=cover&q=70&width=1201",
+                "url": "https://www.fxempire.com/forecasts/article/nasdaq-index-sp500-dow-jones-forecasts-nasdaq-gains-ground-as-meta-rallies-6-2-1609682",
+                "source": "FXEmpire",
+                "date": "2026-07-10T19:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US makes it easier to export certain military items, AI chips and commercial satellites to the UAE",
+                "desc": "The UAE government and approved companies also will now be able to access advanced computing items license-free, the posting said.",
+                "image": "https://images.cnbctv18.com/uploads/2026/07/us-president-donald-trump-2026-07-87db0069ee2be3f1659fdb73e3391868.jpeg?im=FitAndFill,width=1200,height=675",
+                "url": "https://www.cnbctv18.com/world/us-makes-it-easier-to-export-certain-military-items-ai-chips-and-commercial-satellites-to-the-uae-19943235.htm",
+                "source": "CNBC TV18",
+                "date": "2026-07-10T19:01:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Study: 40% of Canadian businesses looking to relocate to US",
+                "desc": "Canadian manufacturers remain dependent on the U.S. market, with 61% agreeing their business cannot survive without access. Read more.",
+                "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/07/2281265084.jpg",
+                "url": "https://torontosun.com/business/money-news/study-canadian-businesses-relocate-us",
+                "source": "Toronto Sun",
+                "date": "2026-07-10T19:01:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Five steps to turn a side-hustle into cold, hard cash",
+                "desc": "With wage growth slowing, many Aussies – even when they already have a job – are hoping that a side-hustle will become a reliable income stream.",
+                "image": "https://static.ffx.io/images/$zoom_1.059%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_102/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/4929c1bf366f165f472f9c3b5d965a0fe9f10770",
+                "url": "https://www.smh.com.au/money/saving/five-steps-to-turn-a-side-hustle-into-cold-hard-cash-20260710-p60eco.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-10T19:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ireland is in danger of becoming less culturally sovereign. Here's why.",
+                "desc": "If we’re not careful about our media landscape, it’ll be Netflix’s world.",
+                "image": "https://img2.thejournal.ie/article/7097798/river/?height=400&version=7097850",
+                "url": "https://www.thejournal.ie/netflix-amazon-rte-media-steve-dempsey-7097798-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-10T19:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "They have their own bus stops and food trucks - and they’re nearly all men. How planespotting became cool",
                 "desc": "From blokes on ladders to families on roof racks, plane spotters are a diverse and thriving community.",
                 "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_75/t_crop_custom/q_86%2Cf_auto/82ce857b6990641f879985dc15218e7e006a2af5",
@@ -542,99 +632,36 @@
                 "source": "BBC",
                 "date": "2026-07-10T16:26:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks Eke Out Gains as SK Hynix Rallies in Debut: Markets Wrap",
-                "desc": "(Bloomberg) -- Wall Street traders drove stocks mildly higher in the countdown to the earnings season, with SK Hynix Inc. jumping in its debut and the market parsing the latest geopolitical developments.",
-                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764756856",
-                "url": "https://www.swissinfo.ch/eng/stocks-eke-out-gains-as-sk-hynix-rallies-in-debut%3A-markets-wrap/91725498",
-                "source": "SWI swissinfo.ch",
-                "date": "2026-07-10T16:26:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "British Pound holds firm as Trump ceasefire shock tests USD",
-                "desc": "The Pound Sterling (GBP) holds firm on Friday during the North American session as risk appetite deteriorated after US President Donald Trump posted on social media that the ceasefire with Iran is over, even though negotiations continue.",
-                "image": "https://editorial.fxsstatic.com/images/i/discover-97_Medium.png",
-                "url": "https://www.fxstreet.com/news/british-pound-holds-firm-as-trump-ceasefire-shock-tests-usd-202607101625",
-                "source": "FXStreet",
-                "date": "2026-07-10T16:25:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Beta wraps first test flight in big U.S. government bet on air taxis",
-                "desc": "Beta is one of several electric air taxi makers racing to secure Federal Aviation Administration certification and start flying passengers commercially.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108310948-1779402353387-Chicago_Skyline_20250716_0004.jpg?v=1783701505&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/10/beta-evtol-air-taxi-trump-program.html",
-                "source": "CNBC",
-                "date": "2026-07-10T16:00:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Undertakings given by former employee who went to rival firm",
-                "desc": "Worker will not disclose any of his previous company’s confidential information",
-                "image": "https://www.irishtimes.com/resizer/v2/D47TNLW7MNU4EGWMCVDLC2BP3A.jpg?smart=true&auth=d523c23d074020f43f8e44d760ad2145d292b0a7c25d7371f23cc6eb38f916c6&width=1200&height=630",
-                "url": "https://www.irishtimes.com/crime-law/courts/2026/07/10/undertakings-given-by-former-employee-who-went-to-rival-firm/",
-                "source": "The Irish Times",
-                "date": "2026-07-10T15:57:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Political Economy of Restructuring: Assessing Bank Consolidation, Sovereign Default, and Institutional Recovery in Ghana",
-                "desc": "Deconstructing Partisan Rhetoric with Macroeconomic Realities The contemporary discourse surrounding Ghana rsquo;s financial sector is frequently distorted by reductionist, binary political narratives .",
-                "image": "https://cdn.modernghana.com/images/content/710202645626-1j041p5cbw-1000682590.jpg",
-                "url": "https://www.modernghana.com/news/1509580/the-political-economy-of-restructuring-assessing.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-10T15:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CEOs of ESB and Bord na Móna will receive pay increases",
-                "desc": "The Minister for Public Expenditure Jack Chambers TD has sanctioned pay increases for the CEOs of the ESB and Bord na Móna.",
-                "image": "https://www.rte.ie/images/001770d4-1600.jpg",
-                "url": "https://www.rte.ie/news/business/2026/0710/1582797-ceo-pay-state/",
-                "source": "RTE.ie",
-                "date": "2026-07-10T15:53:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Elon Musk CNBC interview today: Live updates",
-                "desc": "Elon Musk's space and AI company SpaceX began trading on June 12 in a historic IPO that raised $85.7 billion.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108315896-1780491649482-gettyimages-1175168392-AFP_1LB3WB.jpeg?v=1781036537&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/10/elon-musk-interview-live-updates.html",
-                "source": "CNBC",
-                "date": "2026-07-10T15:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Energy And Water Consumption Compounds Climate And Pollution Crises: Can It Also Be Part Of The Solution?",
-                "desc": "The explosive growth of AI is draining water and electricity supplies for local communities around the world. Yet, inside the packed Geneva’s AI for Good Summit, industry representatives and energy experts claim that the technology holds the key to mitigating the very resource crises it compounds.",
-                "image": "https://i0.wp.com/healthpolicy-watch.news/wp-content/uploads/2026/07/P-065532_00-69_02-HIGH-216414-e1783619226166.jpg",
-                "url": "https://healthpolicy-watch.news/ai-compounds-energy-water-crises/",
-                "source": "Health Policy Watch",
-                "date": "2026-07-10T15:52:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pain at the Pump Is Good News for EVs",
-                "desc": "US EV sales rebounded in Q2 as soaring gas prices made electric cars more attractive after federal incentives ended.",
-                "image": "https://i.insider.com/6a503fc1b3a8c16f7e8ed322?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/electric-vehicles-us-sales-rebound-gas-prices-tesla-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-10T15:50:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mint to separate critical minerals work into e-scrap, battery businesses",
-                "desc": "Mint Innovations still plans a 2027 launch for its first U.S. critical minerals recovery facility in Texas, which will focus on copper and other materials from e-scrap. Battery recycling will now be a separate business called Linca.",
-                "image": "https://imgproxy.divecdn.com/TrEAIDCHh6GPp4zbbhlKNOSL9vzS66zg55MZF214xDw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODQ5MTM0NTEuanBn.webp",
-                "url": "https://www.wastedive.com/news/mint-separate-critical-minerals-business-copper-battery-businesses/824937/",
-                "source": "Waste Dive",
-                "date": "2026-07-10T15:50:13Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Your Google AI Studio apps can finally have polished, presentable web links",
+                "desc": "Google AI Studio now lets users assign personalized ai.studio addresses to full-stack web apps deployed through Cloud Run.",
+                "image": "https://www.digitaltrends.com/tachyon/2026/05/google-ai-studio-logos.jpg?resize=1200%2C630",
+                "url": "https://www.digitaltrends.com/computing/your-google-ai-studio-apps-can-finally-have-polished-presentable-web-links/",
+                "source": "Digital Trends",
+                "date": "2026-07-10T19:13:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone 17 faces supply crunch as consumers rush to beat possible price hikes",
+                "desc": "iPhone 17 models are experiencing shortages across retail and online platforms. This surge is driven by expectations of price increases and reduced supply. Retailers are actively informing consumers about potential upcoming price hikes. Market trackers note increased demand for iPhone 17 models in the current quarter. Apple has recently increased prices on other product lines.",
+                "image": "https://img.etimg.com/thumb/msid-132323656,width-1200,height-630,imgsize-113948,overlay-economictimes/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/iphone-17-models-fly-off-shelves-on-price-hike-fears-online-discounts-on-limited-stocks-of-base-model-also-lead-to-sharp-rise-in-purchases/articleshow/132319512.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-07-10T19:07:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sky News Australia",
+                "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
+                "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
+                "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
+                "source": "Sky News Australia",
+                "date": "2026-07-10T19:01:34Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Restaurant review: Sano Pizza's remarkably good value bucks the trend of expensive city dining",
                 "desc": "A delicious slice of real value in a time when eating in cities like Dublin, Cork, and Galway has become more and more costly",
@@ -678,6 +705,15 @@
                 "url": "https://www.cnet.com/tech/services-and-software/openai-shutters-chatgpt-browser-atlas/",
                 "source": "CNET",
                 "date": "2026-07-10T18:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SteelSeries Arctis Nova Pro",
+                "desc": "Hot swappable batteries for wireless freedom AND zero downtime.",
+                "image": "https://assets-prd.ignimgs.com/2026/07/09/steelseriesnova7prowirelessps5-1783631601801.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-wireless-gaming-headset-deal-july-2026",
+                "source": "IGN",
+                "date": "2026-07-10T18:40:30Z",
                 "priority": "STANDARD"
             },
             {
@@ -1228,45 +1264,45 @@
                 "source": "The Free Press",
                 "date": "2026-07-10T15:53:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "As Xbox and PlayStation flounder, Steam is reportedly having another record year",
-                "desc": "Steam nearly made as much money in one half of 2026 as it did in the full year of 2023.",
-                "image": "https://assetsio.gnwcdn.com/steam-graph.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/valve-steam-revenue-2026-record",
-                "source": "Eurogamer.net",
-                "date": "2026-07-10T15:52:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy Buds 4 Pro, Logitech MX Master, Bose, Anker, more",
-                "desc": "Alongside the Amazon Anker summer sale loaded with chargers and accessories from $8, today’s 9to5Toys Lunch Break is headlined by...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/9to5Google-Jul-10.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/10/deals-galaxy-buds-4-pro-logitech-mx-master-bose-anker/",
-                "source": "9to5Google",
-                "date": "2026-07-10T15:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "“Kill complexity”: Maono launches no-nonsense audio interfaces aimed at content creators",
-                "desc": "And Chinese audio equipment maker Maono is addressing this increasing shift to hybrid workflows with its new P Series hybrid audio interfaces.",
-                "image": "https://musictech.com/wp-content/uploads/2026/07/Maono-P1-3@2000x1500-1068x801.jpg",
-                "url": "https://musictech.com/news/gear/maono-p1-p2/",
-                "source": "MusicTech",
-                "date": "2026-07-10T15:33:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Merrell Trail Glove 7 Barefoot Shoes Review",
-                "desc": "We tested the Merrell Trail Glove 7 barefoot shoes — comfortable and flexible minimalist shoes with excellent traction that are great for the gym.",
-                "image": "http://static1.squarespace.com/static/5b4544e485ede17941bc95fc/t/6a4f5ecfcd24967cb472548b/1783586511591/walking-over-stone-pavers-merrell-trail-glove-7.jpg?format=1500w",
-                "url": "https://www.treelinereview.com/gearreviews/merrell-trail-glove-7-barefoot-shoes-review",
-                "source": "Treeline Review",
-                "date": "2026-07-10T15:32:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Scientists Develop Micro Black Box Tracking System to Prevent Nuclear Rocket Leakage",
+                "desc": "A newly designed data recorder aims to secure advanced space missions by tracking radioactive debris after catastrophic rocket failures.",
+                "image": "https://mjengohub.co.ke/static/images/articles/13bc938e55514b0dbfcc47793dbe57a9_Screenshot_20260710_213623_WhatsApp.png",
+                "url": "https://mjengohub.co.ke/articles/technology/scientists-develop-micro-black-box-tracking-system-to-prevent-nuclear-rocket-leakage",
+                "source": "Mjengo Hub",
+                "date": "2026-07-10T19:14:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Witnesses contest the Trump administration’s account of Texas ICE killing",
+                "desc": "Those present say Lorenzo Salgado Araujo did not ram or ‘weaponise’ his vehicle, as the US government claimed.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a513659-1783707225.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/10/witnesses-contest-the-trump-administrations-account-of-texas-ice-killing",
+                "source": "Al Jazeera",
+                "date": "2026-07-10T19:13:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fugitive sought over UK family murders arrested in Johannesburg",
+                "desc": "Police on Friday arrested an alleged fugitive sought by British police in Kensington, Johannesburg, after an intensive operation involving the police’s Interpol National Central Bureau, crime intelligence and the organised crime investigation unit",
+                "image": "https://www.timeslive.co.za/resizer/v2/2XMKPYARGVBO5HJGASDJFRWTOU.jpg?smart=true&auth=93d74df218b41d47eae78498d7ecddce78d6d6998a110261573b47cc0ebd3ddf&width=1200&height=630",
+                "url": "https://www.timeslive.co.za/news/south-africa/2026-07-10-fugitive-sought-over-uk-family-murders-arrested-in-johannesburg/",
+                "source": "TimesLIVE",
+                "date": "2026-07-10T19:09:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FG Seeks Stronger African Collaboration To Combat Illicit Wealth, Transnational Corruption",
+                "desc": "The Federal Government has urged African countries to form stronger institutional collaboration to fight illicit wealth and transnational corruption.",
+                "image": "https://nannews.ng/wp-content/uploads/2026/07/Mr-Lateef-Fagbemi-SAN-the-Attorney-General-of-the-Federation-and-Minister-of-Justice.jpg",
+                "url": "https://nannews.ng/fg-seeks-stronger-african-collaboration-to-combat-illicit-wealth-transnational-corruption/",
+                "source": "News Agency of Nigeria",
+                "date": "2026-07-10T19:07:48Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Seven highlights including Puno, Uros islands and Taquile",
                 "desc": "Rural life and ancient traditions flourish around the perimeter of South America’s largest and highest water spectacle.",
@@ -1860,44 +1896,8 @@
                 "source": "Yen News",
                 "date": "2026-07-10T15:48:59Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "KENYA: Ahead of 21st AMECEA Plenary Assembly, Catholic Communicators Trained on Ethical Coverage",
-                "desc": "Sr. Jecinter Antoinette Okoth, FSSA\nAs Kenya prepares to host the 21st Plenary Assembly of the Association of Member Episcopal Conferences in Eastern Africa (AMECEA), the Kenya Conference of Catholic Bishops (KCCB), through its Commission for Social Communications, in partnership with the Media Council of Kenya (MCK), organized a four-day training aimed to equip media practitioners, to deliver accurate, professional, and impactful coverage of the plenary.\nAccording to the organizers, the training underscores the Church's commitment to promoting excellence in communication and strengthening the capacity of media professionals to tell stories that inspire, inform, and foster unity across the AMECEA region.\nSpeaking during the opening of the training on Monday, July 6, Fr. Gerald Omunyin, the National Executive Secretary at KCCB’s Commission for Social Communications, described the presence of the media practitioners as evidence of the vital partnership between the Church and the media in communicating the Gospel and serving society through truthful, ethical, and professional journalism.\nHe noted that the AMECEA Plenary Assembly is one of the most significant gatherings of the Catholic Church in Eastern Africa and will bring together bishops, clergy, religious, lay faithful, and other delegates from across the region to reflect on the life and mission of the Church, discern pastoral priorities, and strengthen the shared commitment to evangelization and human development.\nFr. Omunyin further told the over 30 participants that the success of the Assembly would depend not only on the quality of its deliberations but also on how effectively its message reaches the people of God and the wider public.\nThis, he said, is a responsibility that places journalists at the centre of the process rather than on its margins.\n You are not merely observers of the event; you are partners in communicating hope, promoting understanding, and ensuring that the fruits of the Assembly reach homes, parishes, institutions, and communities throughout Eastern Africa and beyond, he said.\nThe Catholic communicators were reminded of the importance of observing ethical journalism standards: verifying information before publication, respecting copyright laws, and maintaining accuracy and credibility in all content produced.\nOn his part, Fr. Andrew Kaufa, the Communication Coordinator at AMECEA, enlightened the participants, who were from various media houses within the country, on the context, mission, and significance of AMECEA. He narrated to the participants the history of AMECEA, the Church structures, and leadership communication.\nAll this aimed to equip participants with a deeper understanding of the regional Church, enabling them to report accurately, communicate the Church's mission faithfully, provide meaningful context for Church events and decisions, and foster unity and collaboration among the member Episcopal Conferences.\nAdditionally, the participants were further encouraged to use podcasts as a platform for civic education, public awareness, and community engagement, particularly among young people, who increasingly consume information through digital media.\nAddressing them on Wednesday, July 8, Ms. Christine Nguku, the MCK assistant director of training and curriculum development, emphasized that successful podcasts begin with a clear understanding of the target audience.\nBesides, the content creators were further urged to identify their listeners' needs, interests, and challenges to produce informative and engaging episodes, and to promote their podcasts on digital platforms such as Facebook, Instagram, TikTok, YouTube, and Spotify to increase visibility and reach wider audiences. The training explored various ways of monetizing podcasts, including sponsorships, memberships, advertising, and partnerships with organizations seeking to reach specific audiences.",
-                "image": "https://communications.amecea.org/wp-content/uploads/2016/05/cropped-AMECEA-LOGO-32x32.jpg",
-                "url": "https://communications.amecea.org/index.php/2026/07/10/kenya-ahead-of-21st-amecea-plenary-assembly-catholic-communicators-trained-on-ethical-coverage/",
-                "source": "AMECEA",
-                "date": "2026-07-10T15:46:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Will Ukraine's 'long-range sanctions' decide the war?",
-                "desc": "The Russian drone and missile attacks on Kyiv in early July 2026 were the largest such state terrorist attacks to date against civilian infrastructure in the Ukrainian capital. Yet, these acts by the Kremlin do little to change the overall picture of the war.\nIn contrast, the recent Ukrainian strikes on Russian energy facilities in St. Petersburg, Moscow, and elsewhere have altered the global perception of the Russia-Ukraine war.\nThis is especially true for ordinary Russians and observers outs",
-                "image": "https://assets.kyivindependent.com/content/images/2026/06/petersburg_20260604-183047_20260611-144658.webp",
-                "url": "https://kyivindependent.com/will-ukraines-long-range-sanctions-decide-the-war/",
-                "source": "The Kyiv Independent",
-                "date": "2026-07-10T15:43:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ZAMBIA: ZCCB Begins Strategic Planning Process for 2027-2036",
-                "desc": "Sandra Kunda\nThe Zambia Conference of Catholic Bishops (ZCCB) has commenced developing its 10-year Strategic Plan for the period 2027–2036, aimed at strengthening the Church’s mission and responding to social, economic, political, and pastoral challenges.\nThe process has entered a key stage with a Strategic Planning Workshop, held from June 21 to 27 at Kasisi Retreat Centre in Lusaka, bringing together about 45 participants from the Conference and its affiliated institutions.\nSpeaking during the opening Mass of the Workshop, ZCCB Secretary General Fr. Francis Mukosa emphasized the importance of introspection for both individuals and organizations, saying it helps to recognize areas of success and identify mistakes that require correction.\nAnd in his opening remarks, Fr. Mukosa said the planning process is intended to provide a pastoral vision rooted in the Gospel and guide the Church’s work over the next decade.\nFr. Mukosa noted that the new strategic plan builds on previous planning processes, including the current 2017–2026 Strategic Plan, which sought to promote deeper faith and moral uprightness.\nThe Secretary General said the Church must continue serving as a moral voice in society by promoting peace, dialogue, reconciliation, and integral human development, while responding to the needs of the poor, young people, and other vulnerable groups.\nFr. Mukosa urged participants to use the workshop as an opportunity for a prayerful discernment and collaboration, expressing confidence that the resulting strategic plan will strengthen evangelization, stewardship, and unity within both the Church and the nation.\nThe strategic planning process started earlier with two Senior Staff Meetings held at the Catholic Secretariat’s Kapingila Guest House.\nThe first meeting announced the commencement of the strategic planning process and outlined the roadmap, while the second meeting focused on departmental SWOT (Strengths, Weaknesses, Opportunities, and Threats) analyses, providing departments with an opportunity to assess their performance, identify key priorities, and contribute to the development of the ZCCB 10-Year Strategic Plan.\nEND",
-                "image": "https://communications.amecea.org/wp-content/uploads/2016/05/cropped-AMECEA-LOGO-32x32.jpg",
-                "url": "https://communications.amecea.org/index.php/2026/07/10/zambia-zccb-begins-strategic-planning-process-for-2027-2036/",
-                "source": "AMECEA",
-                "date": "2026-07-10T15:41:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Agrees To More Iran Talks But Ceasefire ‘Over’, Says Trump",
-                "desc": "US Agrees To More Iran Talks But Ceasefire ‘Over’, Says Trump",
-                "image": "https://www.channelstv.com/wp-content/uploads/2026/06/US-President-Donald-Trump-speaks-before-signing-a-proclamation-in-the-Oval-Office-of-the-White-House.jpg",
-                "url": "https://www.channelstv.com/2026/07/10/us-agrees-to-more-iran-talks-but-ceasefire-over-says-trump/",
-                "source": "Channels Television",
-                "date": "2026-07-10T15:41:41Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-11T07:00:21.304382Z"
+    "lastGlobalSync": "2026-07-11T07:16:04.866176Z"
 }
