@@ -4,6 +4,78 @@
     "en": {
         "business": [
             {
+                "title": "In China, parents turn to AI to help children select a university degree",
+                "desc": "This summer, millions of families turned to AI for advice on selecting a degree programme – a role once played by teachers, relatives and consultants.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/10/e73d3acf-b892-44cc-8f05-c4edcae91d51_33a3bd22.jpg?itok=Crvpvplb&v=1783680183",
+                "url": "https://www.scmp.com/economy/china-economy/article/3360144/china-parents-turn-ai-help-children-select-university-degree",
+                "source": "South China Morning Post",
+                "date": "2026-07-11T13:00:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kalshi CEO Says 100+ Employees Report to Both Founders",
+                "desc": "Kalshi CEO Tarek Mansour described the prediction market's management style as deliberately \"chaotic,\" but that leads to \"constant adaptability.\"",
+                "image": "https://i.insider.com/6a5000cbd3b3e45765197323?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/kalshi-ceo-tarek-mansour-org-structure-employees-report-to-founders-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-11T12:58:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ferrari has recovered from its Luce-unveil slump. Why the stock is still underappreciated",
+                "desc": "Ferrari shares are up 17% since falling after unveiling its panned Luce model. Two banks still see more potential in the stock.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108210003-1760020953758-gettyimages-2236252864-20090101250922-99-113765.jpeg?v=1760020994&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/11/ferrari-has-recovered-from-its-luce-unveil-slump-why-the-stock-is-still-underappreciated.html",
+                "source": "CNBC",
+                "date": "2026-07-11T12:55:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sam Altman wants a $1 trillion OpenAI IPO after SpaceX's success; But will investors still make money?",
+                "desc": "After SpaceX's IPO valuation surpassed $2 trillion, investors eye OpenAI as the next major IPO. CEO Sam Altman won't consider going public below $1 trillion, raising questions on whether OpenAI can match SpaceX's investment return despite their differing business models.",
+                "image": "https://www.livemint.com/lm-img/img/2026/07/11/1600x900/logo/Altman_1783774326467_1783774326613_fa73a18a-8179-4568-be6f-a08ead228b90.jpg",
+                "url": "https://www.livemint.com/money/personal-finance/sam-altman-wants-a-1-trillion-openai-ipo-after-spacexs-success-but-will-investors-still-make-money-11783769100528.html",
+                "source": "livemint.com",
+                "date": "2026-07-11T12:55:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Broadcom Inc. (AVGO) Is Going To Come Back, Says Jim Cramer",
+                "desc": "We recently published Jim Cramer Insisted Recent AI Chip Selloff Wasn’t A Bottom & Discussed These 17 Stocks. Broadcom Inc. (NASDAQ:AVGO) is one of the stocks discussed by Jim Cramer. Broadcom Inc. (NASDAQ:AVGO) is another AI stock that Jim Cramer has been nothing but enthusiastic about. The shares are up by 42% over the past […]",
+                "image": "https://s.yimg.com/lo/mysterio/api/692E8585E789E7E1C837702705891E38DF5B56BCB3E2C89823AC557F202D5552/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fdcf08a9dbb7c3de961dd78d32a01adf8",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-going-come-125347317.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAAEg8U8EcPcovKKTa6-bzsjp2jMl0lLhtS4lvGgbi6JLrmZ51F8FA-6DK1KVQNOeAlxam80YZdcw_9K6aNvIMBfghbX4AUt2sbpFerO7ksS1xPGsYHjnndyjt1FIEWwYa6178_g_S_iMeFYwLtzF_YhrqBivQ8CwA5rwizaf77K7d&_guc_consent_skip=1783783432",
+                "source": "Yahoo Finance",
+                "date": "2026-07-11T12:53:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Funflation' is back and hitting gaming and streaming services",
+                "desc": "Following a wave of price hikes, at-home pastimes like streaming movies or playing video games are pinching pocketbooks.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108082420-1736169088765-gettyimages-2022926715-FUBO_SPORTS_STREAMING.jpeg?v=1783629113&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
+                "source": "CNBC",
+                "date": "2026-07-11T12:47:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ethereum Foundation says AI found bug that could take validators offline",
+                "desc": "The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/e66950b0e6ed69b66abb166d8961c9cff1c8bfb1-720x406.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+                "source": "CoinDesk",
+                "date": "2026-07-11T12:42:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Venture Global (VG) On Its $1.5b Shipping Loan And The Case For Undervaluation",
+                "desc": "Venture Global (VG) is back in focus after its shipping subsidiary closed a senior secured term loan facility of up to US$1.5b, tied to the acquisition of nine LNG carriers and related reserves.\nSee our latest analysis for Venture Global.\nDespite the funding news and recent headlines around higher liquefaction fees and geopolitical tension, Venture Global’s share price has been choppy, with a 7 day share price return of 9.97% but a 1 year total shareholder return that is down 31.08%.\nIf this...",
+                "image": "https://images.simplywall.st/asset/industry/1032000-choice2-main-header/1585186674409",
+                "url": "https://simplywall.st/stocks/us/energy/nyse-vg/venture-global/news/venture-global-vg-on-its-15b-shipping-loan-and-the-case-for",
+                "source": "simplywall.st",
+                "date": "2026-07-11T12:42:36Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "'You've got the whole lot!': Huntly man's surprise Lotto win",
                 "desc": "The winner of the $1 million Lotto draw didn't know he was the recipient of all four prizes until he read a news story, and checked his ticket.",
                 "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-lotto-winner-didnt-know-how-much-he-had-won-until-he-che-AO2N6X2DIRB27OCQ4ZBQ7IEJGE.jpg?auth=c5657925b78a083b2e19b8d10b023904588adfe8e9305180dd0ccf67a06b637c&quality=70&width=600&height=315&focal=1137%2C508",
@@ -560,81 +632,99 @@
                 "source": "realestate.com.au",
                 "date": "2026-07-10T23:15:00Z",
                 "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Pearson Airport warns AI articles are sharing 'inaccurate' information about its operations",
-                "desc": "An airport spokesperson said \"bot authors\" are putting out \"upward of 100 articles a day with false figures, no attempted verification and misleading context that implies system-wide cascades.\"",
-                "image": "https://i.cbc.ca/ais/098d5a32-4c3c-419c-bcbf-b8b69bb10668,1778540591638/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C280%2C5372%2C3021%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/toronto/pearson-warning-ai-generated-articles-9.7265871",
-                "source": "CBC",
-                "date": "2026-07-10T23:09:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More outlets close at The Palms Shopping Centre, while long serving venues thrive",
-                "desc": "The exodus of retailers from The Palms Shopping Centre is continuing, with more businesses closing their doors at the Shirley...",
-                "image": "https://www.chrislynchmedia.com/wp-content/uploads/2026/07/Supplied-Chris-Lynch-Media-12-1.jpg",
-                "url": "https://www.chrislynchmedia.com/news-items/more-retailers-leave-the-palms-as-tenant-says-mall-is-dying-by-a-thousand-cuts/",
-                "source": "Chris Lynch Media",
-                "date": "2026-07-10T23:09:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta Suspends AI Image Feature After Days of Backlash",
-                "desc": "Meta said on Friday it would discontinue an AI feature that allowed users to generate images using public Instagram accounts.",
-                "image": "https://variety.com/wp-content/uploads/2026/07/Instagram.jpg?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/biz/news/meta-suspends-ai-image-instagram-feature-backlash-1236806989/",
-                "source": "Variety",
-                "date": "2026-07-10T23:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple sues OpenAI for trade secret theft in blockbuster case",
-                "desc": "The iPhone maker has accused the AI startup behind ChatGPT and its hardware chief of engaging in a coordinated campaign to steal information about upcoming products.",
-                "image": "https://static.ffx.io/images/$zoom_0.49929278642149927%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_8/t_crop_custom/q_86%2Cf_auto/0d2d00284f495528dc5d56a41b81d8f0c1cbf06d",
-                "url": "https://www.smh.com.au/business/companies/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case-20260711-p60ehf.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-10T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump Is Promoting ‘Freedom Fuel’ for $3.47 a Gallon. Who’s Behind It?",
-                "desc": "The president has praised a network of 25 recently rebranded gas stations in the Philadelphia region that have been selling gas for considerably less than the national average.",
-                "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10nat-freedom-fuel-02-fgcw/10nat-freedom-fuel-02-fgcw-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/10/us/freedom-fuel-gas-stations.html",
-                "source": "The New York Times",
-                "date": "2026-07-10T22:57:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ryanair flight from Greece to Germany makes emergency landing after passenger partially sucked through window",
-                "desc": "A Ryanair flight turned into a nightmare when a cabin window gave way mid-air, triggering panic, falling oxygen masks and a desperate rescue to save a passenger.",
-                "image": "https://images.thenightly.com.au/publication/C-22562683/1999c1900896c791a84536e68d39e4d197ebdd8a-16x9-x0y75w800h450.webp?imwidth=1200",
-                "url": "https://thenightly.com.au/world/ryanair-flight-from-greece-to-germany-makes-emergency-landing-after-passenger-partially-sucked-through-window-c-22562683",
-                "source": "The Nightly",
-                "date": "2026-07-10T22:51:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UNIGRID's sodium-ion home battery debuts in Europe, US is next",
-                "desc": "UNIGRID has delivered its first sodium-ion home batteries in Europe, with US residential installations expected by the end of 2026.",
-                "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/Na-Casa-Product-Image.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe-us/",
-                "source": "Electrek",
-                "date": "2026-07-10T22:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-                "desc": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o",
-                "source": "BBC",
-                "date": "2026-07-10T22:44:31Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Top Stories: 'iPhone Ultra' and Apple TV Rumors, iOS 27 Beta 3, and More",
+                "desc": "Apple's annual iPhone event is just two months away, but we're still not quite clear on when and in what quantities the new foldable \"iPhone Ultra\" will be available. It sounds like we could end up in a situation similar to that of the iPhone X where it was introduced at the September event but didn't become available for pre-orders until around six weeks later.",
+                "image": "https://images.macrumors.com/t/HHyZ5isJC6jzs843Pe7aEtaDm6U=/1600x/article-new/2026/07/top-stories-2026-07-11.jpg",
+                "url": "https://www.macrumors.com/2026/07/11/top-stories-iphone-ultra-apple-tv-rumors/",
+                "source": "MacRumors",
+                "date": "2026-07-11T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "With Wi-Fi: 10.1-inch IPS display with ESP32-P4 for smart home interfaces",
+                "desc": "A new smart display that should be well suited for integration into a smart home, where it can serve as a control center. It also features a touchscreen.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/crowpanel68.jpg",
+                "url": "https://www.notebookcheck.net/With-Wi-Fi-10-1-inch-IPS-display-with-ESP32-P4-for-smart-home-interfaces.1340206.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-11T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Forget Brompton, this folding bike mixes convenience with out-of-this-world, sci-fi design",
+                "desc": "The Tetra folding bike looks like it rolled straight out of a sci-fi movie",
+                "image": "https://s.yimg.com/lo/mysterio/api/26eeadbcb3ce49b0f0d991a0de624c406937887ad79c13a6cc2ebbd8ed77d61d/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ft3_620%2Fd0ccd5f282b754ad2037e8e42edbb70e",
+                "url": "https://shopping.yahoo.com/general/articles/forget-brompton-folding-bike-mixes-130000903.html",
+                "source": "Yahoo",
+                "date": "2026-07-11T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AC Black Flag: Resynced Records Two Million Sales in Opening Day Booty",
+                "desc": "Offers redemption code for in-game rewards - Ubisoft has announced that Assassin's Creed: Black Flag Resynced sold more than two million copies during its fi...",
+                "image": "https://images.pushsquare.com/b03b4cad23a15/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-records-two-million-sales-in-opening-day-booty",
+                "source": "Push Square",
+                "date": "2026-07-11T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation limited-time bargain is a Fallout meets GTA 5 'underrated gem'",
+                "desc": "This open-world game is fast, furious yours for just $5",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt7b7a76632db087b8/6a4fb1ef62d09fffbe5329dd/falloutmeetsgta.jpg",
+                "url": "https://www.gamingbible.com/news/platform/playstation/playstation-bargain-fallout-meets-gta-5-209320-20260709",
+                "source": "GAMINGbible",
+                "date": "2026-07-11T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kidbash: Super Legend is built in Blender but rendered like a classic SNES game",
+                "desc": "This indie game is reviving Donkey Kong Country's famous graphics trick.",
+                "image": "https://cdn.mos.cms.futurecdn.net/tr6SwuWyyR7AYuvxP2oicg-1600-80.jpg",
+                "url": "https://www.creativebloq.com/3d/video-game-design/kidbash-super-legend-is-built-in-blender-but-rendered-like-a-classic-snes-game",
+                "source": "Creative Bloq",
+                "date": "2026-07-11T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Cuts Free Cloud Storage for Android Backups",
+                "desc": "Following the change, backing up data like SMS messages, call history, and device settings will all count toward the 15GB of free storage Google gives you.",
+                "image": "https://sm.pcmag.com/t/pcmag_me/news/g/google-is-/google-is-giving-you-less-free-storage-for-your-android-back_pf92.1200.jpg",
+                "url": "https://me.pcmag.com/en/storage/37662/google-is-giving-you-less-free-storage-for-your-android-backups",
+                "source": "PCMag",
+                "date": "2026-07-11T12:55:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Is Giving You Less Free Storage for Your Android Backups",
+                "desc": "Following the change, backing up data like SMS messages, call history, and device settings will all count toward the 15GB of free storage Google gives you.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/g/google-is-/google-is-giving-you-less-free-storage-for-your-android-back_djd8.1200.jpg",
+                "url": "https://au.pcmag.com/storage/118720/google-is-giving-you-less-free-storage-for-your-android-backups",
+                "source": "PCMag Australia",
+                "date": "2026-07-11T12:55:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "My Fitbit Air test revealed the flaws of calorie counting with a health tracker - here's why",
+                "desc": "You should take calorie data with a grain of salt. Here's what I learned after testing the Fitbit Air's heart rate data against a gold standard heart rate monitor.",
+                "image": "https://www.zdnet.com/a/img/resize/dbf49c71454358558b2b1f9c6012ecf5ed0000f0/2026/07/09/6d2885bd-8786-426d-b88f-ad0ed37af940/fitbitair.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
+                "source": "ZDNET",
+                "date": "2026-07-11T12:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This Free iOS App Uses Your AirPods To Fix Your Posture",
+                "desc": "Posture Pal uses AirPods accelerometer data to track head tilt and alert iPhone users when their posture starts to slip while sitting.",
+                "image": "https://www.bgr.com/img/gallery/this-free-ios-app-uses-your-airpods-to-fix-your-posture/l-intro-1783437875.jpg",
+                "url": "https://www.bgr.com/2209617/how-to-use-airpods-to-fix-posture-app/",
+                "source": "bgr.com",
+                "date": "2026-07-11T12:47:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "John Carmack responds to Microsoft laying off id Software staff, and his comments hit hard for fans who watched him help build DOOM from the ground up",
                 "desc": "Carmack speaks out after Microsoft cuts jobs at id Software, raising questions about the studio’s future under Xbox.",
@@ -1174,99 +1264,99 @@
                 "source": "Highsnobiety",
                 "date": "2026-07-10T21:22:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google's SensorFM Reveals Where AI Takes Wearable Health",
-                "desc": "Google's trillion-minute SensorFM data shows wearables shifting from raw metrics to AI health agents, a trend already reshaping Whoop and Oura.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a515ee8fe7d3fe8a206e2b9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/josipamajic/2026/07/10/googles-sensorfm-reveals-where-ai-takes-wearable-health/",
-                "source": "Forbes",
-                "date": "2026-07-10T21:20:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta patents AI device that tracks your mood",
-                "desc": "‘Creepy’ patent could be used to serve ads targeted to users’ emotional vulnerabilities, privacy advocates warn",
-                "image": "https://s.yimg.com/lo/mysterio/api/79939E981BB36CCEF8450AB1C1744E98D80ADB8650DFEC6CAF7CD447B75AA0E9/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F286ee6d8fabb4cba3af07b4f9a802bba",
-                "url": "https://uk.finance.yahoo.com/news/meta-patents-mystery-ai-device-154726359.html",
-                "source": "Yahoo Finance UK",
-                "date": "2026-07-10T21:08:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Razer Found a New Way to Print Money: Cinnamoroll Gaming Headphones",
-                "desc": "There's also a Cinnamoroll-themed gaming chair, keyboard, mouse, and mouse pad.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/Razers-Kraken-Kitty-V2-BT-Cinnamoroll-Edition-1200x675.jpg",
-                "url": "https://gizmodo.com/razer-found-a-new-way-to-print-money-cinnamoroll-gaming-headphones-2000784323",
-                "source": "Gizmodo",
-                "date": "2026-07-10T21:05:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI Brings GPT-Live to ChatGPT Voice",
-                "desc": "OpenAI has launched GPT-Live, a new voice model system that makes ChatGPT Voice more natural, responsive, and capable of deeper AI tasks.",
-                "image": "https://cdomagazinecms.wpenginepowered.com/wp-content/uploads/2026/07/emiliano-vittoriosi-fvxNerA8uk0-unsplash-scaled.jpg",
-                "url": "https://www.cdomagazine.tech/aiml/openai-brings-gpt-live-to-chatgpt-voice",
-                "source": "CDO Magazine",
-                "date": "2026-07-10T21:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Insta360's Next Action Cam Could Be a Real GoPro Competitor",
-                "desc": "The new X6 360 camera has leaked.",
-                "image": "https://gizmodo.com/app/uploads/2025/09/Insta360-Go-Ultra-action-camera-05-1200x675.jpg",
-                "url": "https://gizmodo.com/insta360s-next-action-cam-could-be-a-real-gopro-competitor-2000784303",
-                "source": "Gizmodo",
-                "date": "2026-07-10T21:00:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sena Debuts 60X Headset With Joystick Controls & Wireless Charging",
-                "desc": "Sena has added a new flagship intercom to its 60 Series lineup with the introduction of the 60X, a communication system built around a redesigned interface, updated mounting hardware, and several usability improvements aimed at making day‑to‑day operation more intuitive.  The unit centers on a new glove-friendly joystick controller and introduces Sena’s first-ever customizable button […]",
-                "image": "https://www.advpulse.com/wp-content/uploads/2026/07/sena-60x-motorcycle-intercom-5.jpg",
-                "url": "https://www.advpulse.com/adv-news/sena-debuts-60x-headset-with-joystick-controls-wireless-charging/",
-                "source": "ADV Pulse",
-                "date": "2026-07-10T21:00:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Crank Up the Savings With JBL's Bar 1000MK2 Soundbar, Now at Its Lowest Price Ever",
-                "desc": "Don't miss out on almost 40% off this premium soundbar system.",
-                "image": "https://www.cnet.com/a/img/resize/4d29276cb5270bdcb96fa7f64212d423fdaa44ae/hub/2026/07/10/08802347-eb6a-4921-adb5-d6f458bbdadd/jbl-bar-1000mk2-7-1-4-channel-soundbar.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.cnet.com/deals/the-jbl-bar-1000mk2-soundbar-system-amazon-deal-2026-07-10/",
-                "source": "CNET",
-                "date": "2026-07-10T20:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "God of War Laufey Physical Disc Release Confirmed, Suggesting 2027 Launch",
-                "desc": "The release date is still a mystery.",
-                "image": "https://sm.ign.com/t/ign_ap/news/g/god-of-war/god-of-war-laufey-physical-disc-release-confirmed-suggesting_un8e.1200.jpg",
-                "url": "https://sea.ign.com/god-of-war-laufey/245322/god-of-war-laufey-physical-disc-release-confirmed-suggesting-2027-launch",
-                "source": "IGN Southeast Asia",
-                "date": "2026-07-10T20:50:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Petition seeks to halt PlayStation's plan to end game discs",
-                "desc": "A recent petition says more than 278,000 respondents want PlayStation games released on physical discs beyond January of 2028.  Read more.",
-                "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/07/0711-news-next-level-gaming16.jpg",
-                "url": "https://torontosun.com/news/national/petition-save-video-game-discs-playstations-transition",
-                "source": "Toronto Sun",
-                "date": "2026-07-10T20:49:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "War Thunder to Test Modern Infantry Battles in Africa",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2023/04/162213-390ce3ed/67bfc79b-de65-ed79-d0d3-e6042fd89f32.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=6a4b65053dc4a50d6b3a95205ab2663c4e89f0d8245f7e5312572dffb28e2b30",
-                "url": "https://www.gamespress.com/pl/War-Thunder-to-Test-Modern-Infantry-Battles-in-Africa",
-                "source": "Games Press",
-                "date": "2026-07-10T20:48:45Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "China’s Long March-10B rocket feat lights up social media: is SpaceX set to lose crown?",
+                "desc": "The space race just became a real race again, says one online commentator, after net-and-cable recovery of rocket booster sparks awe.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/11/a5512f9f-21ca-4d2e-8591-917970e7639b_71e5bc9f.jpg?itok=bRjbKT9O&v=1783769851",
+                "url": "https://www.scmp.com/news/china/science/article/3360231/chinas-long-march-10b-rocket-feat-lights-social-media-spacex-set-lose-crown",
+                "source": "South China Morning Post",
+                "date": "2026-07-11T13:00:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Full List of Countries Needing Visas",
+                "desc": "See the full list of countries whose nationals require a UK visa for stays under six months, as confirmed by the updated Immigration Rules. Find out if you",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/UK-FLAG-FEH.webp",
+                "url": "https://punchng.com/full-list-uk-confirms-countries-that-need-visas-for-stays-under-six-months/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-11T12:59:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eiffel Tower and other Paris landmarks to close early as another heatwave sweeps France",
+                "desc": "24 departments across northwestern France are under a red heat alert on Saturday, according to Météo-France, affecting more than 22 million people.",
+                "image": "https://images.euronews.com/articles/stories/09/83/47/03/1200x675_cmsv2_aaca5ef3-fc65-58bb-862e-2619c5a0c5e8-9834703.jpg",
+                "url": "https://www.euronews.com/my-europe/2026/07/11/eiffel-tower-and-other-paris-landmarks-to-close-early-as-another-heatwave-sweeps-france",
+                "source": "Euronews",
+                "date": "2026-07-11T12:57:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The 3 signs a desperate Putin is about to lash out against Europe",
+                "desc": "Ukraine issued an urgent alert for more Patriot missiles and, misguided or not, Vladimir Putin is convinced he is on the brink of victory, writes Robert Fox",
+                "image": "https://static.independent.co.uk/2026/06/02/07/2278662014..?width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/voices/ukraine-patriot-missiles-russia-anti-aircraft-war-putin-b3012737.html",
+                "source": "The Independent",
+                "date": "2026-07-11T12:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Who is Hassan Dakhlallah, the Ivorian builder now eyeing Ghana's roads?",
+                "desc": "He has laid 3,000 kilometres of road across seven countries without most of English-speaking Africa hearing his name.",
+                "image": "https://thebftonline.com/api/media/file/image-50.png",
+                "url": "https://thebftonline.com/article/who-is-hassan-dakhlallah-the-ivorian-builder-now-eyeing-ghana-s-roads",
+                "source": "Business & Financial Times",
+                "date": "2026-07-11T12:56:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigerian forces suffered casualties in kidnap rescue: army",
+                "desc": "Nigerian security forces suffered \"casualties\" during rescue of over 40 kidnapped schoolchildren and teachers, army says.",
+                "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/MUpK805QxHuCigbYjDaVF04FQhxtiuvm1KJUQCiG.jpg",
+                "url": "https://www.standardmedia.co.ke/africa/article/2001552557/nigerian-forces-suffered-casualties-in-kidnap-rescue-army",
+                "source": "standardmedia.co.ke",
+                "date": "2026-07-11T12:53:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran’s new supreme leader vows revenge for father’s death as Trump warns against any ‘attempt to assassinate’ him",
+                "desc": "U.S. President Donald Trump threatened Iran after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for his killing.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260711-trump-banner-nd-4ff56e.jpg",
+                "url": "https://www.nbcnews.com/world/iran/trump-threatens-iran-attempt-assassinate-open-calls-killing-khamenei-rcna434515",
+                "source": "NBC News",
+                "date": "2026-07-11T12:52:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia Adapts SM-2 Missile for Ground-Based Use",
+                "desc": "ADF tested a ground-based launcher for the SM-2 naval air defence missile during the Taipan Strike 2026 exercise, in conjunction with the AEGIS combat system.",
+                "image": "https://cdn.turdef.com/images/articles/7392/australia_adapts_sm_2_missile_for_ground_based_use.webp",
+                "url": "https://turdef.com/article/australia-adapts-sm-2-missile-for-ground-based-use",
+                "source": "TURDEF",
+                "date": "2026-07-11T12:50:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Turkey's Strategic Pondering on Canada's Defense Initiative",
+                "desc": "Turkey is considering joining Canada's Defense Security and Resilience Bank (DSRB) but has not committed yet. The country participated in negotiations and is part of the joint declaration at the NATO summit. Discussions with Turkish authorities are ongoing about their potential involvement.",
+                "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/19_03_2025_15_41_40_6223239.png&width=920&format=jpeg",
+                "url": "https://www.devdiscourse.com/article/law-order/3948839-turkeys-strategic-pondering-on-canadas-defense-initiative",
+                "source": "Devdiscourse",
+                "date": "2026-07-11T12:47:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Johor polls: Unofficial results say Barisan retains Yong Peng seat",
+                "desc": "YONG PENG: Barisan Nasional has unofficially retained the Yong Peng state seat, with MCA candidate Ling Tian Soon claiming victory after taking a commanding lead in the vote count.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/11/4005141.jpg",
+                "url": "https://www.thestar.com.my/news/nation/2026/07/11/johor-polls-unofficial-results-say-barisan-retains-yong-peng-seat",
+                "source": "The Star",
+                "date": "2026-07-11T12:47:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Runner gored in the face at Spain's San Fermin bull run festival",
                 "desc": "The huge animals knocked bodies to the cobblestones, and stumbling runners caused several pileups during the two-and-a-half-minute run from the pen to the bull ring where bullfighters will kill the bulls later in the day.",
@@ -1806,98 +1896,8 @@
                 "source": "The Daily Dot",
                 "date": "2026-07-10T21:37:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Uragasaurus kalasinensis: New dinosaur discovered in Thailand",
-                "desc": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo",
-                "source": "BBC",
-                "date": "2026-07-10T21:30:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Examining Sudan’s Humanitarian Crisis And The Failing Mediation",
-                "desc": "Since April 2023, Sudan has been in a civil war between the country’s two main military groups: the Sudanese Armed Forces and the paramilitary group Rapid Support Forces. Led by Abdel Fattah al-Bur…",
-                "image": "https://theowp.org/wp-content/uploads/2026/06/SUDANWAR_Visual.jpg",
-                "url": "https://theowp.org/examining-sudans-humanitarian-crisis-and-the-failing-mediation/",
-                "source": "The Organization for World Peace",
-                "date": "2026-07-10T21:29:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lincoln Memorial Reflecting Pool drained again as Trump project hits snags",
-                "desc": "President Donald Trump has blamed the peeling on vandals. Critics allege it is from shoddy repair work.",
-                "image": "https://www.ms.now/wp-content/uploads/2026/07/260710-reflecting-pool-lincoln-memorial-algae-green-water-construction-washington-dc-es.webp?crop=0px,164px,1600px,840px&w=1200&h=630",
-                "url": "https://www.ms.now/news/lincoln-memorial-pool-drained-again-trump-revamp",
-                "source": "MS NOW",
-                "date": "2026-07-10T21:27:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New GOP Bills Would Permanently Shift Ed. Dept. Programs to Other Agencies",
-                "desc": "The bills represent the most significant step so far among Republicans to nix the Education Department.",
-                "image": "https://epe.brightspotcdn.com/dims4/default/297c0f2/2147483647/strip/true/crop/7009x4674+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F9d%2F76%2Fc850c58a4b94b1229f1a32aff352%2Faptopix-america-250-26184689017796.jpg",
-                "url": "https://www.edweek.org/policy-politics/new-gop-bills-would-permanently-shift-ed-dept-programs-to-other-agencies/2026/07",
-                "source": "Education Week",
-                "date": "2026-07-10T21:23:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Family mourn British teenager who died in Greece",
-                "desc": "The parents of the boy - who has not been named - said their son will be \"missed beyond words\".",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d04a/live/0e1b9d40-7c98-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c75yp6r13wvo",
-                "source": "BBC",
-                "date": "2026-07-10T21:18:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Family mourn British teenager who died in Greece",
-                "desc": "The parents of the boy - who has not been named - said their son will be \"missed beyond words\".",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d04a/live/0e1b9d40-7c98-11f1-bee8-53ce494e1abc.jpg",
-                "url": "https://www.bbc.com/news/articles/c75yp6r13wvo",
-                "source": "BBC",
-                "date": "2026-07-10T21:18:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prince Harry, Meghan visit King Charles after security controversy",
-                "desc": "Prince Harry and Meghan have a rocky relationship with the prince's father.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/04/c2e4e088-ebdb-4573-8526-d1aae354e8d3/thumbnail/1200x630g2/af05c4edb410c32fd595435fa56ef55b/gettyimages-2271711942.jpg",
-                "url": "https://www.cbsnews.com/news/prince-harry-meghan-visit-king-charles-after-security-controversy/",
-                "source": "CBS News",
-                "date": "2026-07-10T21:15:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Minister of Foreign Affairs and African Affairs received by South African President",
-                "desc": "Pretoria (South Africa), July 10, 2026 (SPS) – The Minister of Foreign Affairs and African Affairs of the Sahrawi Republic, Mr. Mohamed Yeslem Beissat, was received today, Friday, in Pretoria by the President of South Africa, Mr. Cyril Ramaphosa, in his capacity as Special Envoy of the President of the Republic, Secretary-General of the Polisario Front, Mr. Brahim Ghali.",
-                "image": "https://www.spsrasd.info/sites/default/files/styles/social_large/public/2026-07/img_9570.jpeg?h=29234840&itok=xLRSP-Od",
-                "url": "https://www.spsrasd.info/en/2026/07/10/16634.html",
-                "source": "وكالة الأنباء الصحراوية",
-                "date": "2026-07-10T21:05:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran privately told Trump advisers \"they made a mistake\" in shooting at ships in Strait of Hormuz",
-                "desc": "The White House wants Iran to publicly acknowledge that shooting at the ships was a mistake.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/10/d975d09c-9db6-457f-9014-85e4bddc1ffe/thumbnail/1200x630/fa83a930bba05700f6467a270e66c329/gettyimages-2283273927.jpg",
-                "url": "https://www.cbsnews.com/news/iran-privately-said-made-a-mistake-in-shooting-at-ships-in-strait-of-hormuz/",
-                "source": "CBS News",
-                "date": "2026-07-10T21:04:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US demands Iran publicly state that Strait of Hormuz is open and Tehran won't attack ships anymore",
-                "desc": "WASHINGTON (AP) — The U.S. is demanding that Iran make a public statement saying the Strait of Hormuz is open and that ships crossing the vital corridor won’t be attacked anymore, senior U.S. officials said Friday, adding that internal Tehran power struggles have made it difficult to reach and keep a deal.",
-                "image": "https://s.yimg.com/lo/mysterio/api/DC91F617AAD402433A1DF2FCE50692DCCC62D05C10746A5D2CB55DE56A5336E4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcp_finance_889%2F8c6fd16aaf2eb9e572fcca8496f071c0",
-                "url": "https://ca.finance.yahoo.com/news/mysterious-airstrikes-target-iran-us-105547184.html",
-                "source": "Yahoo! Finance Canada",
-                "date": "2026-07-10T21:03:15Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T00:40:15.032047Z"
+    "lastGlobalSync": "2026-07-12T01:00:19.219894Z"
 }
