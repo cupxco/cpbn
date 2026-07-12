@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Eyewitness photo shows broken window inside Ryanair plane",
+                "desc": "A passenger was partially sucked through a dislodged window on a Ryanair Boeing 737 flight shortly after takeoff in Greece yesterday, two airport sources said, forcing an emergency landing.",
+                "image": "https://www.rte.ie/images/0024ae3f-1600.jpg",
+                "url": "https://www.rte.ie/news/world/2026/0711/1582904-ryanair-greece/",
+                "source": "RTE.ie",
+                "date": "2026-07-11T17:33:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "No Permit, No Utility Supply: A Practical Way to End Haphazard Development in Ghana",
+                "desc": "Ghana rsquo;s towns and cities are expanding rapidly, but much of this growth is occurring without adequate planning and effective development control .",
+                "image": "https://cdn.modernghana.com/images/content/711202671607-1i830o4bau-1002862810.jpg",
+                "url": "https://www.modernghana.com/news/1509825/no-permit-no-utility-supply-a-practical-way-to.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-11T17:33:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon Stock (AMZN) Opinions on AWS Momentum and AI Investments",
+                "desc": "AWS Momentum Spurs Upgrade: Recent analyst commentary highlights accelerating growth in Amazon's clo",
+                "image": "https://www.quiverquant.com/images/amzn_rect_new.png",
+                "url": "https://www.quiverquant.com/news/Amazon+Stock+%28AMZN%29+Opinions+on+AWS+Momentum+and+AI+Investments",
+                "source": "Quiver Quantitative",
+                "date": "2026-07-11T17:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Machine learning redefines precision cancer therapy using smart radiopharmaceuticals",
+                "desc": "JMIR Publications released a feature News and Perspectives story on technological advances in oncology.",
+                "image": "https://www.news-medical.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
+                "url": "https://www.news-medical.net/news/20260711/Machine-learning-redefines-precision-cancer-therapy-using-smart-radiopharmaceuticals.aspx",
+                "source": "News-Medical",
+                "date": "2026-07-11T17:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HDFC Bank redeploys backend employees to customer-facing roles",
+                "desc": "HDFC Bank is shifting backend employees to customer roles. Technology efficiencies are enabling this strategic talent redeployment. The bank is accelerating investments in artificial intelligence and dispute resolution. Cybersecurity defenses are strengthened against evolving digital threats. HDFC Bank's in-house AI model, Neev, supports these initiatives.",
+                "image": "https://img.etimg.com/thumb/msid-132335388,width-1200,height-630,imgsize-109478,overlay-economictimes/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-redeploys-backend-employees-to-customer-facing-roles/articleshow/132335364.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-07-11T17:30:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "America's cheapest city to grab a cheeseburger, fries and soda revealed-and it might surprise you",
+                "desc": "A cheeseburger, fries and a soda remain one of America's classic comfort meals, but what Americans pay for that combo depends heavily on where they live, according to the so-called Cheeseburger Index.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-39955296_e13489.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/07/11/us-news/americas-cheapest-city-to-grab-a-cheeseburger-fries-and-soda-revealedand-it-might-surprise-you/",
+                "source": "New York Post",
+                "date": "2026-07-11T17:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The AI Trade Is Rotating From Chips to Infrastructure. 2 Stocks Riding the Shift.",
+                "desc": "As money moves past the chipmakers, the companies that power and cool AI data centers are having a moment.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878508%2Finfrastructure-ai-stocks.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/11/the-ai-trade-is-rotating-from-chips-to-infrastruct/",
+                "source": "The Motley Fool",
+                "date": "2026-07-11T17:28:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Franklin Cudjoe urges Minister to intervene as Azumah Resources, E&P dispute heads to international arbitration",
+                "desc": "IMANI Africa Founding President Franklin Cudjoe has called on Lands and Natural Resources Minister Emmanuel Armah Kofi Buah to intervene in the dispute between Azumah Resources and Engineers Planners (E P), following reports that the matter has moved to international arbitration .",
+                "image": "https://cdn.modernghana.com/images/content/711202672417-rwnyqdcp53-m.png",
+                "url": "https://www.modernghana.com/news/1509827/franklin-cudjoe-urges-minister-to-intervene-as.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-11T17:28:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Forget GLP-1s-GLP-3s show promise in phase 3 weight loss and diabetes trial",
+                "desc": "Phase 3 clinical trial results (TRANSCEND-T2D-1) published in The Lancet report that retatrutide, an investigational once-weekly injection for diabetes management, can significantly improve blood sugar levels and lead to substantial weight loss in people with Type 2 diabetes. The study included adults with Type 2 diabetes who were not taking diabetes medicines and whose blood sugar was not adequately controlled with diet and exercise alone.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/insulin-injection.jpg",
+                "url": "https://medicalxpress.com/news/2026-06-glp-1s-3s-phase-weight.html",
+                "source": "Medical Xpress",
+                "date": "2026-07-11T17:20:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Police make arrest after Norwich store ram raid",
+                "desc": "A man has been arrested following a ram raid at a store when a JCB was used to pull a cash machine from the wall.",
+                "image": "https://www.edp24.co.uk/resources/images/20704719.jpg?type=og-image",
+                "url": "https://www.edp24.co.uk/news/26272336.police-make-arrest-norwich-store-ram-raid/",
+                "source": "EDP24",
+                "date": "2026-07-11T17:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Warning issued as impersonator tries to cash in on TD Pearse Doherty",
                 "desc": "The scam has led the Donegal TD to issue a warning to his followers.",
                 "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDRcXFwvMjQyMTAyMTVcXFwvMi44NDM5MzM3Ny5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImU0OWNhMzI3NjJlOWQ2ZWM0NzFhNzg3NGIwYWU1OTBiYTMzNWM1NmMifQ==/warning-issued-as-impersonator-tries-to-cash-in-on-td-pearse-doherty.jpg",
@@ -542,99 +632,99 @@
                 "source": "Modern Ghana",
                 "date": "2026-07-11T13:11:27Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Why China is finally letting AI firms buy the Nvidia H200",
-                "desc": "Beijing aims to 'temporarily ease the training bottleneck' in China's AI industry, but it remains focused on tech self-sufficiency, analysts say",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/11/4004538.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/09/why-china-is-finally-letting-ai-firms-buy-the-nvidia-h200",
-                "source": "The Star",
-                "date": "2026-07-11T13:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Berkshire Hathaway gains ground, but still trails the S&P 500 as '26 enters second half",
-                "desc": "With 2026 a bit more than half over, Berkshire Hathaway's B shares are down 1.8% year-to-date and 12.4 percentage points behind the S&P 500's 10.7% gain.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/11/berkshire-hathaway-gains-ground-but-still-trails-the-sp-500-as-26-enters-second-half.html",
-                "source": "CNBC",
-                "date": "2026-07-11T13:07:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is GE HealthCare’s MI-BET Biomarker Push With Mayo Clinic Reshaping The Investment Case For GEHC?",
-                "desc": "In early July 2026, GE HealthCare and Mayo Clinic announced the MI-BET research collaboration, using GE HealthCare’s StarGuide SPECT/CT and biomarker data to explore more personalized radioligand therapy for advanced prostate cancer patients at Mayo’s Rochester campus.\nA distinctive aspect of MI-BET is its use of imaging and blood-based biomarkers to potentially inform adaptive treatment pauses, supporting more tailored, data-driven theranostics and strengthening GE HealthCare’s role in...",
-                "image": "https://images.simplywall.st/asset/industry/6021000-choice2-main-header/1585186837163",
-                "url": "https://simplywall.st/stocks/us/healthcare/nasdaq-gehc/ge-healthcare-technologies/news/is-ge-healthcares-mi-bet-biomarker-push-with-mayo-clinic-res",
-                "source": "simplywall.st",
-                "date": "2026-07-11T13:03:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 Software Stocks Built For Lower Cost Open Source AI",
-                "desc": "The latest shift toward cheaper, more focused AI systems is putting a spotlight on open source AI software providers, as companies look for flexibility and tighter control over AI costs. That puts some large, well rated stocks exposed to open source models directly in the path of this trend, for better or worse. This article walks through three stocks that appear positively exposed to the same news event that is raising questions about expensive proprietary AI services. It is intended to help...",
-                "image": "https://images.simplywall.st/asset/industry/8041000-choice2-main-header/1585186556238",
-                "url": "https://simplywall.st/stocks/us/software/nasdaq-fivn/five9/news/3-software-stocks-built-for-lower-cost-open-source-ai",
-                "source": "simplywall.st",
-                "date": "2026-07-11T13:02:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stifel Financial (SF) Following Index Exit And JD Power Win Has Fair Value In Focus",
-                "desc": "Stifel Financial (SF) has drawn fresh investor attention after two contrasting developments: its removal from the Russell 1000 Dynamic Index during the latest reconstitution and a fourth consecutive No. 1 advisor satisfaction ranking in JD Power’s 2026 study.\nSee our latest analysis for Stifel Financial.\nDespite the latest index removal, Stifel Financial’s 30 day share price return of 6.73% and 7 day gain of 2.77% suggest near term momentum. At the same time, a 5 year total shareholder return...",
-                "image": "https://images.simplywall.st/asset/industry/7132000-choice1-main-header/1585186724276",
-                "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-sf/stifel-financial/news/stifel-financial-sf-following-index-exit-and-jd-power-win-ha",
-                "source": "simplywall.st",
-                "date": "2026-07-11T13:02:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chewy Stock And 2 Consumer Discretionary Picks For Cooling Inflation",
-                "desc": "Cooling German inflation, with June 2026 running at 2.3%, is taking some pressure off interest rate expectations in Europe and could matter directly for consumer discretionary stocks tied to household budgets and confidence. Slower price gains can give shoppers more breathing room, even as energy costs linked to the Iran war keep overall inflation risks in view. This article looks at 3 stocks from our Consumer Discretionary Stocks screener that appear positively exposed to this mix of easing...",
-                "image": "https://images.simplywall.st/asset/industry/4422000-choice1-main-header/1585186589176",
-                "url": "https://simplywall.st/stocks/us/retail/nyse-jmia/jumia-technologies/news/chewy-stock-and-2-consumer-discretionary-picks-for-cooling-i",
-                "source": "simplywall.st",
-                "date": "2026-07-11T13:02:54Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "In China, parents turn to AI to help children select a university degree",
-                "desc": "This summer, millions of families turned to AI for advice on selecting a degree programme – a role once played by teachers, relatives and consultants.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/10/e73d3acf-b892-44cc-8f05-c4edcae91d51_33a3bd22.jpg?itok=Crvpvplb&v=1783680183",
-                "url": "https://www.scmp.com/economy/china-economy/article/3360144/china-parents-turn-ai-help-children-select-university-degree",
-                "source": "South China Morning Post",
-                "date": "2026-07-11T13:00:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kalshi CEO Says 100+ Employees Report to Both Founders",
-                "desc": "Kalshi CEO Tarek Mansour described the prediction market's management style as deliberately \"chaotic,\" but that leads to \"constant adaptability.\"",
-                "image": "https://i.insider.com/6a5000cbd3b3e45765197323?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/kalshi-ceo-tarek-mansour-org-structure-employees-report-to-founders-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-11T12:58:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ferrari has recovered from its Luce-unveil slump. Why the stock is still underappreciated",
-                "desc": "Ferrari shares are up 17% since falling after unveiling its panned Luce model. Two banks still see more potential in the stock.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108210003-1760020953758-gettyimages-2236252864-20090101250922-99-113765.jpeg?v=1760020994&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/11/ferrari-has-recovered-from-its-luce-unveil-slump-why-the-stock-is-still-underappreciated.html",
-                "source": "CNBC",
-                "date": "2026-07-11T12:55:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sam Altman wants a $1 trillion OpenAI IPO after SpaceX's success; But will investors still make money?",
-                "desc": "After SpaceX's IPO valuation surpassed $2 trillion, investors eye OpenAI as the next major IPO. CEO Sam Altman won't consider going public below $1 trillion, raising questions on whether OpenAI can match SpaceX's investment return despite their differing business models.",
-                "image": "https://www.livemint.com/lm-img/img/2026/07/11/1600x900/logo/Altman_1783774326467_1783774326613_fa73a18a-8179-4568-be6f-a08ead228b90.jpg",
-                "url": "https://www.livemint.com/money/personal-finance/sam-altman-wants-a-1-trillion-openai-ipo-after-spacexs-success-but-will-investors-still-make-money-11783769100528.html",
-                "source": "livemint.com",
-                "date": "2026-07-11T12:55:04Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Every modern Mac hides a free local AI, and I got mine answering questions in Home Assistant",
+                "desc": "Why download a local LLM when your Mac already has one built in?",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/apfel-mac.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/every-modern-mac-hides-free-local-ai-home-assistant/",
+                "source": "XDA",
+                "date": "2026-07-11T17:30:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Firefox’s privacy defaults are too soft - and that’s exactly why I switched to this privacy-focused browser",
+                "desc": "It is Firefox, if Firefox woke up annoyed and decided cookies had enjoyed enough freedom.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/browsing-makeuseof-with-ironfox-browser.png?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/firefoxs-privacy-defaults-soft-switched-privacy-focused-android-browser/",
+                "source": "MakeUseOf",
+                "date": "2026-07-11T17:30:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I'm saving hundreds on new phones while everyone else panics about the RAM crisis",
+                "desc": "I found the one trick that keeps me ahead",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/a-hand-holding-three-smartphones-with-a-ram-price-increase-symbol-and-discount-icons.png?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/im-saving-hundreds-on-new-phones-while-everyone-else-panics-about-the-ram-crisis/",
+                "source": "Android Police",
+                "date": "2026-07-11T17:30:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fantasy action-RPG Soulframe is open to all players for a limited time, with a new dark progression path, wolf mounts, and a Warsongs origin quest on the way",
+                "desc": "Soulframe, the fantasy action-RPG from Warframe makers Digital Extremes, is getting wolf mounts, a Warsongs quest, and a new Vadagar progression path.",
+                "image": "https://assetsio.gnwcdn.com/MendicantReinbreaker.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.rockpapershotgun.com/fantasy-action-rpg-soulframe-is-open-to-all-players-for-a-limited-time-with-a-new-dark-progression-path-wolf-mounts-and-a-warsongs-origin-quest-on-the-way",
+                "source": "Rock Paper Shotgun",
+                "date": "2026-07-11T17:28:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung quietly leaks cheap PCIe 4.0 SSD as soaring RAM prices force surprising DRAM-free storage design change for mainstream buyers",
+                "desc": "Samsung's mystery 1TB SSD delivers 7,150 MB/s without DRAM",
+                "image": "https://cdn.mos.cms.futurecdn.net/ryhYAZfL7rahoS68bXpg9N-1920-80.png",
+                "url": "https://www.techradar.com/pro/samsung-set-to-launch-cheap-pcie-4-0-990-ssd-as-rampocalypse-pushes-even-the-worlds-largest-ssd-vendor-to-remove-dram-from-product",
+                "source": "TechRadar",
+                "date": "2026-07-11T17:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple’s Strategic Choice Can Defeat Rivals",
+                "desc": "Apple’s September launch of the iPhone 18 Pro allows it to learn from its Android rivals. Samsung and Google will take the pain as Apple reaps the benefits.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a527aaa815e7835cb11293b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/ewanspence/2026/07/11/phone-18-pro-market-timing-strategy/",
+                "source": "Forbes",
+                "date": "2026-07-11T17:24:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New generation approaches revive BET protein inhibitors in solid tumors",
+                "desc": "BET proteins, especially BRD4, drive oncogenic transcription in solid tumours. First‑generation inhibitors (JQ1, molibresib, birabresib) showed preclinical promise but failed clinically due to modest efficacy, dose‑limiting thrombocytopenia, and resistance (isoform switching, compensatory PI3K/AKT/WNT signalling).",
+                "image": "https://www.news-medical.net/images/tags/TagImage-2099-458520524366319441723-620x480.jpg",
+                "url": "https://www.news-medical.net/news/20260711/New-generation-approaches-revive-BET-protein-inhibitors-in-solid-tumors.aspx",
+                "source": "News-Medical",
+                "date": "2026-07-11T17:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WEBTOON Launches AI Story Chat Service byUs Featuring Creator-Approved Webtoon IP",
+                "desc": "Service allows users to create original stories by interacting with characters from creator-approved IPs",
+                "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ6/cms/news.9/239448/byus.jpg",
+                "url": "https://www.animenewsnetwork.com/news/2026-07-11/webtoon-launches-ai-story-chat-service-byus-featuring-creator-approved-webtoon-ip/.239448",
+                "source": "Anime News Network",
+                "date": "2026-07-11T17:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI's GPT-5.6 Outperforms Physicians in Health Evaluations",
+                "desc": "Here’s a sentence that would have sounded like science fiction two years ago: doctors reviewed medical responses, rated them blind, and the AI came out ahead. N",
+                "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
+                "url": "https://www.kucoin.com/news/flash/openai-s-gpt-5-6-outperforms-physicians-in-health-evaluations",
+                "source": "KuCoin",
+                "date": "2026-07-11T17:12:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
+                "desc": "If scrolling feels more exhausting than entertaining, you're not alone. I feel the same way, and a recent study backs up the sentiment: Social media is losing its fun factor.",
+                "image": "https://i.pcmag.com/imagery/articles/05jtX24y12N42HIDJ8fPcnG-1.fit_lim.size_1200x630.v1783789260.png",
+                "url": "https://www.pcmag.com/news/death-of-the-status-update-why-55-americans-stopped-posting-social-media",
+                "source": "PCMag",
+                "date": "2026-07-11T17:02:59Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "My phone doesn't go anywhere without this $10 accessory; it's better than a headphone jack",
                 "desc": "A simple splitter which opens a world of possibilities",
@@ -1174,99 +1264,99 @@
                 "source": "Sole Retriever",
                 "date": "2026-07-11T14:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 16 Available at Lowest Price in India",
-                "desc": "The iPhone 16 is now available at its lowest price in India, attracting significant consumer interest and engagement.",
-                "image": "https://thecsrjournal.in/wp-content/uploads/2026/02/iPhone-16-Preise-640x360-1.jpg",
-                "url": "https://thecsrjournal.in/iphone-16-available-at-lowest-price-in-india/",
-                "source": "The CSR Journal",
-                "date": "2026-07-11T13:55:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Switch vs PS2 Sales Comparison",
-                "desc": "The VGChartz sales comparison series of articles are updated monthly and each one focuses on a different sales [...]",
-                "image": "https://www.vgchartz.com/articles_media/images/switch-vs-ps2-sales-comparison-may-2026-921236_condensed.jpg",
-                "url": "https://www.vgchartz.com/article/468318/switch-vs-ps2-sales-comparison-may-2026/",
-                "source": "VGChartz",
-                "date": "2026-07-11T13:55:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Viral outbreak forces temporary closure of An Cat Dubh Sanctuary",
-                "desc": "AN CAT DUBH Sanctuary has been forced to close until further notice following a highly contagious viral outbreak.",
-                "image": "https://www.clareecho.ie/wp-content/uploads/2026/07/an-cat-dubh-sanctuary-1.jpg",
-                "url": "https://www.clareecho.ie/viral-outbreak-forces-temporary-closure-of-an-cat-dubh-sanctuary/",
-                "source": "Clare Echo",
-                "date": "2026-07-11T13:49:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei July 14 Global Event: These devices launching next week",
-                "desc": "Huawei will hold a grand-scale global event on July 14, launching incredible devices. The company has released many teasers hinting at what i",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/color-scheme.jpg",
-                "url": "https://www.huaweicentral.com/huawei-july-14-global-event-devices/",
-                "source": "Huawei Central",
-                "date": "2026-07-11T13:47:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "4 things I want to see from the Galaxy S27 Pro",
-                "desc": "Fix everything the Ultra got wrong.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/05/a-galaxy-s25-s25-plus-and-s25-ultra-at-the-center-with-several-question-marks-around-them.png?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/things-i-want-to-see-from-the-galaxy-s27-pro/",
-                "source": "How-To Geek",
-                "date": "2026-07-11T13:45:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google CEO Sundar Pichai on the one AI race Google is ‘losing’ to Anthropic and OpenAI, says: We maybe didn't quite have the...",
-                "desc": "Tech News News: Google CEO Sundar Pichai has conceded that his company is trailing rivals in agentic coding, the one AI capability that has turned into the industry's.",
-                "image": "https://static.toiimg.com/thumb/msid-132331458,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-on-the-one-ai-race-google-is-losing-to-anthropic-and-openai-says-we-maybe-didnt-quite-have-the-/articleshow/132331311.cms",
-                "source": "The Times of India",
-                "date": "2026-07-11T13:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Obsidian game director reacts to people \"spouting off\" about the studio and how it's not what it \"used to be\"",
-                "desc": "A director at Obsidian shared their thoughts about the \"extremely difficult week\" at the studio.",
-                "image": "https://assetsio.gnwcdn.com/Fallout-4_new-art.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/obsidian-director-disputes-studio-not-what-it-used-to-be",
-                "source": "Eurogamer.net",
-                "date": "2026-07-11T13:33:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I tried the browser made for gamers, and it has a feature every browser needs",
-                "desc": "I'm not a gamer, but this browser won me over anyway",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/opera-gx-on-macbook-with-headphones-in-the-background.jpeg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/tried-the-browser-made-for-gamers-has-a-feature-every-browser-needs/",
-                "source": "MakeUseOf",
-                "date": "2026-07-11T13:31:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I bought a Philips GoGear MP3 player in 2026, and it changed the way I listen to music at home",
-                "desc": "I bought an early 2000's MP3 player because I wanted to relive the past. But what I got was something that changed how I listen to music now.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/07/a-new-old-stock-philips-go-gear-on-a-table-with-several-comic-books.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/i-bought-an-mp3-player-and-it-changed-how-i-listen-to-music/",
-                "source": "How-To Geek",
-                "date": "2026-07-11T13:30:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I stopped using NotebookLM after Google Drive projects solved my research chaos",
-                "desc": "This hidden Google Drive feature finally ended my file-hunting nightmare",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/google-drive-projects-on-a-mac.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/i-stopped-using-notebooklm-after-google-drive-projects-solved-my-research-chaos/",
-                "source": "Android Police",
-                "date": "2026-07-11T13:30:10Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
+                "desc": "Lawmaker Khanna accuses soldiers of supporting the settlers, warning that Israeli forces made a ‘huge mistake’.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a527171-1783787889.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip",
+                "source": "Al Jazeera",
+                "date": "2026-07-11T17:37:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eyewitness photo shows broken window inside Ryanair plane",
+                "desc": "A passenger was partially sucked through a dislodged window on a Ryanair Boeing 737 flight shortly after takeoff in Greece yesterday, two airport sources said, forcing an emergency landing.",
+                "image": "https://www.rte.ie/images/0024ae3f-1600.jpg",
+                "url": "https://www.rte.ie/news/world/2026/0711/1582904-ryanair-greece/",
+                "source": "RTE.ie",
+                "date": "2026-07-11T17:33:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Supermarket staff call police after naked woman marches into store",
+                "desc": "Shop workers reported the woman entered the store without any clothes but then dressed herself before leaving.",
+                "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7035192.jpg",
+                "url": "https://www.express.co.uk/news/world/2228087/supermarket-staff-call-police-completely",
+                "source": "Daily Express",
+                "date": "2026-07-11T17:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration subpoenas New York Times journalists after Air Force One reporting",
+                "desc": "The Trump administration's move, which seeks to force the reporters to testify before a federal grand jury, should 'shock the conscience' of Americans, a New York Times lawyer says.",
+                "image": "https://i.cbc.ca/ais/f22c8887-46f1-4164-9d5c-acffd4edc114,1783781845967/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C579%2C8640%2C4860%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/trump-new-york-times-subpoenas-air-force-one-9.7266938",
+                "source": "CBC",
+                "date": "2026-07-11T17:26:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US congressman says he was detained by armed Israeli settlers in occupied West Bank",
+                "desc": "Ro Khanna said settlers were armed with US-made weapons and Israel Defense Forces refused to intervene",
+                "image": "https://i.guim.co.uk/img/media/8714504135d810afb951eac88fb8caf073e721a9/1002_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e829bf548d79bb64574cd23917e1f0e",
+                "url": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank",
+                "source": "The Guardian",
+                "date": "2026-07-11T17:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indian-origin former Google employee shot dead by husband in US' Georgia; son survives",
+                "desc": "Police said the shooting stemmed from a domestic dispute, though the exact circumstances leading to the incident remain under investigation. | World News",
+                "image": "https://www.hindustantimes.com/ht-img/img/2026/07/11/550x309/sheetal_us_georgia_1783789082686_1783789082833_c1fc3e38-552c-4cfb-af82-53dca91eb172.jpeg",
+                "url": "https://www.hindustantimes.com/world-news/sheetal-wrzesien-indian-origin-former-google-employee-shot-dead-by-husband-in-georgia-son-injured-survives-cobb-county-101783787736034.html",
+                "source": "Hindustan Times",
+                "date": "2026-07-11T17:17:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump suggests a standing order to attack Iran if it assassinates him, but Vance would make the call",
+                "desc": "WASHINGTON: President Donald Trump is suggesting he has left standing orders for the US military to destroy Iran ” at levels they’ve never seen before ” if Tehran follows through on its long-standing threats to kill him. But the US government has no way to create an automatic, preauthorized “dead man’s switch” that would prompt immediate retaliation. Instead, if Trump were",
+                "image": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/11/4730347-549867328.jpg?itok=UMmm2sxz",
+                "url": "https://www.arabnews.com/node/2650545/world",
+                "source": "Arab News",
+                "date": "2026-07-11T17:08:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "​To Replace T-72s Transferred to Ukraine, Czechia Has Got 42 Leopard 2A4s as Intermediate Version of Country's Main Tank",
+                "desc": "Against the backdrop of the supply of T-72 tanks to Ukraine, the Czech Republic has re-armed with German Leopard 2A4 tanks, which were received not only as part of the \"circular exchange\" from Germany",
+                "image": "https://en.defence-ua.com/media/illustration/articles/8e06a526bcd1b55a.jpg",
+                "url": "https://en.defence-ua.com/news/to_replace_t_72s_transferred_to_ukraine_czechia_has_got_42_leopard_2a4s_as_intermediate_version_of_countrys_main_tank-19102.html",
+                "source": "Defense Express",
+                "date": "2026-07-11T17:06:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eritrea: Mai-Nefhi College of Science Graduates 300 Students",
+                "desc": "Eritrea: Mai-Nefhi College of Science Graduates 300 Students",
+                "image": "https://www.zawya.com/favicon.ico",
+                "url": "https://www.zawya.com/en/press-release/africa-press-releases/eritrea-mai-nefhi-college-of-science-graduates-300-students-imprfz1c",
+                "source": "ZAWYA",
+                "date": "2026-07-11T17:06:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China’s Poverty Alleviation Model Offers Lessons for the Global South",
+                "desc": "China's achievement has been widely recognized as unprecedented in scale and speed. It demonstrates how a large and populous developing country can eliminate extreme poverty through sustained policy implementation, targeted...",
+                "image": "https://capitalfm.africa/wp-content/uploads/2026/07/Ningxia.jpeg",
+                "url": "https://capitalfm.africa/chinas-poverty-alleviation-model-offers-lessons-for-the-global-south/",
+                "source": "Capitalfm.co.ke",
+                "date": "2026-07-11T17:03:58Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "UN acts ahead of drought to protect thousands in South Sudan",
                 "desc": "Anticipatory action is when humanitarian assistance is triggered before a crisis hits to protect lives, food security and incomes, WFP explained.",
@@ -1806,98 +1896,8 @@
                 "source": "Jacobin",
                 "date": "2026-07-11T13:37:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "China evacuates over 1 million as Typhoon Bavi brushes past Taiwan, pummels southern Japan",
-                "desc": "People are waiting for Typhoon Bavi to make landfall in China, with more than a million people evacuating.",
-                "image": "https://i.cbc.ca/ais/68bf79e9-e3af-4f04-b7b3-8ebb27a59077,1783773017386/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C313%2C6000%2C3375%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/typhoon-bavi-evacuations-china-9.7266891",
-                "source": "CBC",
-                "date": "2026-07-11T13:32:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 7 Iconic Hikes Every Serious Traveler Should Have on Their List",
-                "desc": "The seven trails every serious hiker should walk once, from Peru's Inca Trail to New Zealand's Milford Track, and what makes each one worth the trip",
-                "image": "https://www.womansworld.com/wp-content/uploads/2026/07/GettyImages-99824074-7-hikes-worth-traveling.jpg?quality=40&strip=all",
-                "url": "https://www.womansworld.com/life/the-7-iconic-hikes-every-serious-traveler-should-have-on-their-list",
-                "source": "Woman's World",
-                "date": "2026-07-11T13:30:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Demands Iran Surrender Uranium Stockpile as Condition for Any Nuclear Deal",
-                "desc": "The Trump administration has ruled out any final agreement with Iran unless Tehran agrees to transfer its entire stockpile of highly enriched uranium to the US.",
-                "image": "https://static.kyivpost.com/storage/2026/07/11/a0246f0005abb8f167b45cdddc6f9455.jpg?w=1200&q=90&f=jpg",
-                "url": "https://www.kyivpost.com/post/80080",
-                "source": "Kyiv Post",
-                "date": "2026-07-11T13:30:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran Supreme Leader Vows Revenge For Father’s Killing",
-                "desc": "Iran Supreme Leader Vows Revenge For Father’s Killing",
-                "image": "https://www.channelstv.com/wp-content/uploads/2025/06/AFP__20250626__63VX4QC__v1__MidRes__IranIsraelConflictKhamaenei.jpg",
-                "url": "https://www.channelstv.com/2026/07/11/iran-supreme-leader-vows-revenge-for-fathers-killing/",
-                "source": "Channels Television",
-                "date": "2026-07-11T13:30:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "In written message, Mojtaba Khamenei said to vow revenge for slain father will come 'soon'",
-                "desc": "Khamenei, who has yet to appear in public since becoming Iran's supreme leader, is quoted saying 'vengeance is the will of our nation and must inevitably be carried out'",
-                "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26161727208914.jpg",
-                "url": "https://www.timesofisrael.com/in-written-message-mojtaba-khamenei-vows-revenge-for-slain-father-will-come-soon/",
-                "source": "The Times of Israel",
-                "date": "2026-07-11T13:27:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya, US Agree to Strengthen Naval Cooperation After New York Talks",
-                "desc": "Kenya Navy Commander Major General Paul Otieno met US Admiral Daryl Caudle in New York to strengthen Kenya-US naval cooperation and boost maritime security.",
-                "image": "https://cdn.thekenyatimes.com/2026/07/Stakeholders-TSC-X-2026-06-09-47.png",
-                "url": "https://thekenyatimes.com/latest-kenya-times-news/kenya-us-agree-to-strengthen-naval-cooperation-after-new-york-talks/",
-                "source": "The Kenya Times",
-                "date": "2026-07-11T13:20:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Warning to Online Sellers: 30-year sentences for Facebook Marketplace robbers",
-                "desc": "Two men have been sentenced to 30 years in prison for orchestrating a robbery scheme through Facebook Marketplace, luring unsuspecting victims under the pretense of buying gaming consoles and computers.",
-                "image": "https://iol-prod.appspot.com/image/0b7fe5128a2a5c9b7d7be963317aa079a61dfc73/1000/jpeg",
-                "url": "https://iol.co.za/news/crime-and-courts/2026-07-11-warning-to-online-sellers-30-year-sentences-for-facebook-marketplace-robbers/",
-                "source": "IOL",
-                "date": "2026-07-11T13:18:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ann Widdecombe attacked nearly 24 hours before she was found dead, police say",
-                "desc": "A 26-year-old white British man arrested on suspicion of murder has been released and is \"no longer part of the investigation\".",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/813e/live/8858dc40-7cf6-11f1-bbe2-7f9a5a48eac9.jpg",
-                "url": "https://www.bbc.com/news/articles/cgjx912wxw3o",
-                "source": "BBC",
-                "date": "2026-07-11T13:17:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Havana Syndrome victims get $3m payout from US government",
-                "desc": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7562/live/ef363980-cfa0-11ef-b967-0b921216563e.jpg",
-                "url": "https://www.bbc.com/news/articles/cr7xyl78vnko",
-                "source": "BBC",
-                "date": "2026-07-11T13:11:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Capital punishment in Pakistan: 'Islam does not promote the death penalty'",
-                "desc": "RFI: You are a barrister and the executive director of Justice Project Pakistan . How do you reconcile your work on the abolition of the death penalty while operating in Pakistan, an Islamic state? Sarah Belal: I don't find the two to be contrary .",
-                "image": "https://cdn.modernghana.com/images/content/711202613607-rwnyqdcp53-justice-project-pakistan-rally.jpg",
-                "url": "https://www.modernghana.com/news/1509747/capital-punishment-in-pakistan-islam-does-not.html",
-                "source": "Modern Ghana",
-                "date": "2026-07-11T13:10:59Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T05:00:20.070330Z"
+    "lastGlobalSync": "2026-07-12T05:40:15.839482Z"
 }
