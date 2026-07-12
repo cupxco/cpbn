@@ -4,6 +4,33 @@
     "en": {
         "business": [
             {
+                "title": "Pantry organisation tips: Should you decant pantry staples?",
+                "desc": "Professional organisers’ tips for setting up a kitchen cupboard that works for you, including whether decanting is the best option, how to label containers and preventing pantry moths and weevils.",
+                "image": "https://static.ffx.io/images/$zoom_0.4997%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/3cf9237629f6fbaa700672bc27696ab69a23d32d10b6f4cf115ed4866fbe4f28",
+                "url": "https://www.nine.com.au/lifestyle/homes/pantry-organisation-tips-should-you-decant-pantry-staples-20260710-p60eca.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-11T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NRC Investment Platform Collapses, Investors Lose Billions of Naira",
+                "desc": "An online investment platform known as National Reading Culture (NRC) has collapsed, leaving thousands of investors unable to access their funds and reportedly resulting in the loss of billions of naira.",
+                "image": "https://tvcnews.tv/wp-content/uploads/2026/07/Ponzi-Scheme.jpg",
+                "url": "https://www.tvcnews.tv/nrc-investment-platform-collapses-investors-lose-billions-of-naira/",
+                "source": "TVC News",
+                "date": "2026-07-11T19:50:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Artificial Intelligence (AI) Stocks Have Crushed the Broader Market in 2026. Here Are 2 Top Stocks to Buy Before They Soar Higher This Earnings Season and Beyond",
+                "desc": "These two AI stocks have struggled lately, but their solid earnings growth potential suggests they can step on the gas again.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878492%2Fnvidia-data-center-with-nvidia-units-installed-showing-nvidia-logo.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/11/artificial-intelligence-ai-stocks-have-crushed-the/",
+                "source": "The Motley Fool",
+                "date": "2026-07-11T19:46:39Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "British Airways Dreamliner operating flight BA5 declared an emergency and diverted to Azerbaijan",
                 "desc": "LONDON — A British Airways flight bound for Tokyo was forced to make an unexpected diversion to Azerbaijan today after declaring a mid-air emergency over Central Asia. Flight BA5, operated by a Boeing 787-9 Dreamliner, departed London Heathrow at 1:30 PM local time for what was scheduled to be a 13-hour journey to Tokyo Haneda […]",
                 "image": "https://airlive.net/wp-content/uploads/2026/07/BA5.jpg",
@@ -605,36 +632,54 @@
                 "source": "The Worcester News",
                 "date": "2026-07-11T15:22:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Man arrested after crash on Gatwick Airport main road",
-                "desc": "The collision, which closed the A23 Airport Way near Junction 9A of the M23, occurred at around 1.35pm earlier today (July 11).",
-                "image": "https://www.theargus.co.uk/resources/images/21171071.jpg?type=og-image",
-                "url": "https://www.theargus.co.uk/news/26272550.man-arrested-crash-gatwick-airport-main-road/",
-                "source": "The Argus",
-                "date": "2026-07-11T15:20:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple",
-                "desc": "Most of OpenAI’s Apple recruits came from Ternus’ hardware engineering division, and some designers had backed Tan over Ternus for the top hardware job in 2021.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2156402117-e1783782201684.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/07/11/openai-engineers-legal-fight-apple-ai-product-poaching/",
-                "source": "Fortune",
-                "date": "2026-07-11T15:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What $5,000 Invested in SpaceX Could Be Worth by 2030",
-                "desc": "Here are the bull, base, and bear cases every investor should consider.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877826%2Fgettyimages-1328283439.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/11/what-5000-invested-in-spacex-could-be-worth-2030/",
-                "source": "The Motley Fool",
-                "date": "2026-07-11T15:07:40Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Corsair Frame 4000D Wood RS (2026)",
+                "desc": "Corsair's modular Frame PC case platform comes into its own with the Frame 4000D Wood RS, which bundles premium looks, on-point cooling, and serious upgrade flexibility at a surprisingly reasonable price.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/review/c/corsair-fr/corsair-frame-4000d-wood-rs-2026_67hy.1200.jpg",
+                "url": "https://au.pcmag.com/pc-cases/118725/corsair-frame-4000d-wood-rs-2026",
+                "source": "PCMag Australia",
+                "date": "2026-07-11T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MicroPython Is This Summer’s Hottest Title For The SNES, Thanks To Claude Fable",
+                "desc": "MicroPython, for the uninitiated, is a pared-down version of python meant to run on today's powerful microcontollers. As impressive as it was for its day, the SNES is not quite in their leage in terms...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/07/micropython-snes-featured.jpg",
+                "url": "https://hackaday.com/2026/07/11/micropython-is-this-summers-hottest-title-for-the-snes-thanks-to-claude-fable/",
+                "source": "Hackaday",
+                "date": "2026-07-11T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Your smartwatch is an unlikely festival essential, from paying without digging out your phone to finding your way back to your tent — here are 5 key settings to enable",
+                "desc": "Get your Apple Watch festival ready in 2026",
+                "image": "https://cdn.mos.cms.futurecdn.net/tYmH4b3F5LuWMtqWPnvuwA-1920-80.png",
+                "url": "https://www.techradar.com/health-fitness/smartwatches/your-smartwatch-is-an-unlikely-festival-essential-from-paying-without-digging-out-your-phone-to-finding-your-way-back-to-your-tent-here-are-5-key-settings-to-enable",
+                "source": "TechRadar",
+                "date": "2026-07-11T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "profile mechanical keyboard with 8K polling rate & hot",
+                "desc": "Keychron launches the K5 Ultra 8K, a low-profile full-size mechanical keyboard with an 8,000Hz polling rate, hot-swappable switches, and RGB lighting.",
+                "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Keychron-K5-Ultra-8K-keyboard-1024x591.png",
+                "url": "https://www.gizmochina.com/2026/07/11/keychron-k5-ultra-8k-low-profile-mechanical-keyboard-launched-specs-price/",
+                "source": "Gizmochina",
+                "date": "2026-07-11T19:50:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stop blaming your phone for Android Auto lag-your head unit matters more than Google admits",
+                "desc": "Android Auto performance isn't just a phone problem.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/03/android-auto-apps.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/your-cars-head-unit-matters-more-than-google-admits-for-android-auto/",
+                "source": "How-To Geek",
+                "date": "2026-07-11T19:45:17Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Reverse scam: Redditor orders a Ryzen 7 7800X3D but gets blessed with a 9800X3D instead",
                 "desc": "A Ukrainian buyer ordered a Ryzen 7 7800X3D but reportedly received a Ryzen 7 9800X3D instead, a rare case of a reverse CPU-swap scam.",
@@ -1219,54 +1264,63 @@
                 "source": "MusicRadar",
                 "date": "2026-07-11T15:37:23Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Assassin's Creed Black Flag Resynced opens to 2 million sales on launch day",
-                "desc": "Ubisoft tends not to share sales figures publicly – which means we can't even compare it to the sales of prior Assassin's Creed games, let alone its peers.",
-                "image": "https://assetsio.gnwcdn.com/Main-Image-2-Edward-Smiling-Finding-Treasure.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-2-million-sales",
-                "source": "Eurogamer.net",
-                "date": "2026-07-11T15:32:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Your music app's high-res lossless setting is doing nothing your ears can hear",
-                "desc": "Files beyond CD quality sound impressive on paper, but they're unnecessary for almost everyone.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/hi-res-lossless-apple-music.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/your-high-res-lossless-setting-is-doing-nothing/",
-                "source": "MakeUseOf",
-                "date": "2026-07-11T15:30:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kelly Slater’s Pro Surfer Clip Explodes Online 24 Years Later: ‘Better Than Games Today’ (Video)",
-                "desc": "The beloved 2002 surfing video game is enjoying a viral resurgence thanks to its stunningly realistic waves.",
-                "image": "https://s.yimg.com/lo/mysterio/api/fda93f1383da64ce4580eb664eb9e07faeb80d61b4a39795c5065d517b06d3cb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsurfer_magazine_140%2Fd00683f7696e52786a7342fe41fa504b",
-                "url": "https://tech.yahoo.com/gaming/articles/kelly-slater-pro-surfer-clip-152646383.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-11T15:26:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei building 12-inch chip wafer plant to deal with DRAM shortage",
-                "desc": "Huawei is reportedly teaming up with the Chinese government to build a new 12-inch chip wafer plant that can help it cut off some pressure fr",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Huawei-AI-chip.jpg",
-                "url": "https://www.huaweicentral.com/huawei-building-12-inch-chip-wafer-plant/",
-                "source": "Huawei Central",
-                "date": "2026-07-11T15:22:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "My favorite Gemini alternative isn't ChatGPT or Copilot; it's way more productive",
-                "desc": "The AI tool that actually clicked",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/claude-is-best-gemini-alternative.png?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/favorite-gemini-alternative-is-not-chatgpt-or-copilot-it-is-way-more-productive/",
-                "source": "Android Police",
-                "date": "2026-07-11T15:15:10Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "One Nation is capitalising on Australians’ economic pessimism like never before. Is a ‘stagflation impulse’ to blame?",
+                "desc": "By tying housing cost to immigration, Pauline Hanson promises a simple solution to a multilayered problem",
+                "image": "https://i.guim.co.uk/img/media/f3e8aba656383bc135a5716a54f2a47f8f38afc3/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ced81992e2679601f78eee944a96a955",
+                "url": "https://www.theguardian.com/business/2026/jul/12/one-nation-australia-economy-stagflation-impulse-ntwnfb",
+                "source": "The Guardian",
+                "date": "2026-07-11T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "KDF medics perform surgeries on patients in Somalia under AUSSOM mission",
+                "desc": "The operations were conducted on patients suffering from hernia-related complications, with KDF saying the procedures were completed by a team of senior.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-11-204608.webp",
+                "url": "https://eastleighvoice.co.ke/somalia/378314/kdf-medics-perform-surgeries-on-patients-in-somalia-under-aussom-mission",
+                "source": "The Eastleigh Voice",
+                "date": "2026-07-11T19:49:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran holds crisis talks in Oman as US issues Strait of Hormuz demand",
+                "desc": "Iranian and Middle East diplomats held crisis talks in Oman Saturday to respond to the US demand that Tehran issue a public pledge to keep the Strait of Hormuz open – while reportedly weighing whether to propose a new travel route along the critical waterway.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134086917.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/07/11/world-news/iran-holds-crisis-talks-in-oman-as-us-issues-strait-of-hormuz-demand/",
+                "source": "New York Post",
+                "date": "2026-07-11T19:48:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Doesn't PM Modi Hold Press Meets? MEA Explains",
+                "desc": "PM Narendra Modi's decision to avoid regular press conferences has once again become a talking point. During his visit to New Zealand, a journalist asked",
+                "image": "https://cdn.gulte.com/wp-content/uploads/2026/05/modi-online-classes-.jpg",
+                "url": "https://www.gulte.com/political-news/420682/why-doesnt-pm-modi-hold-press-meets-mea-explains",
+                "source": "Gulte",
+                "date": "2026-07-11T19:45:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Firefighters and helicopters battle deadly wildfires in Spain",
+                "desc": "Firefighters in Spain are battling one of the country's deadliest wildfires, which has killed at least 12 people.",
+                "image": "https://dims.apnews.com/dims4/default/c072e90/2147483647/strip/true/crop/3543x2361+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8a%2Feb%2F5dd54cef85b5b3dfe115ff69685b%2Fe46cb7edd0fc45e99e0ad55835720564",
+                "url": "https://apnews.com/article/europe-spain-wildfires-heatwave-1bc964a58201bbba8a2fcb309e3ec6e6",
+                "source": "AP News",
+                "date": "2026-07-11T19:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Baghel fails to defuse Punjab Cong crisis as Channi lines up 92 leaders at meeting",
+                "desc": "Leadership dispute likely to reach high command’s court again.",
+                "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIwYjQ4OGYwLTdkNjAtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+                "url": "https://www.tribuneindia.com/news/punjab/baghel-fails-to-defuse-punjab-cong-crisis-as-channi-lines-up-92-leaders-at-meeting/",
+                "source": "The Tribune",
+                "date": "2026-07-11T19:42:41Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Heatwave fuels 127 fires in Algeria, one still burning",
                 "desc": "The department attributed the outbreak to high temperatures and dry conditions, increasing the risk of wildfires and accelerating their spread.",
@@ -1842,62 +1896,8 @@
                 "source": "Daily Mirror - Sri Lanka",
                 "date": "2026-07-11T15:35:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump and Iran’s supreme leader trade threats as mediators try to save their crumbling deal",
-                "desc": "The U.S. and Iran exchanged fresh threats Saturday as fragile talks continued, raising new doubts about efforts to prevent a wider conflict in the Middle East.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/Trump-Iran-talks.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11962338/trump-iran-deal-crumbles/",
-                "source": "Global News",
-                "date": "2026-07-11T15:30:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. Seeks Iran’s Uranium Surrender as Path to Nuclear Deal",
-                "desc": "Washington has ruled out any final diplomatic agreement with Iran unless Tehran agrees to transfer its entire stockpile of highly enriched uranium to the United States.",
-                "image": "https://caspianpost.com/storage/photos/thumbs/aspect/qEwzg2R0N3vV1INxnPYni4DhsWwflxwBYgc9oq5m.webp",
-                "url": "https://caspianpost.com/iran/u-s-seeks-iran-s-uranium-surrender-as-path-to-nuclear-deal",
-                "source": "Caspianpost.com",
-                "date": "2026-07-11T15:28:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malaysia’s seabass farmers struggle as Thailand export market stalls",
-                "desc": "Seabass farmers in northern Malaysia say their industry is struggling as tighter Thai inspections disrupt exports, leaving farms with unsold fish, rising costs and uncertain futures. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d7b633bfc02fe6e3b7ef77375d2d34f730868361c958d478b4d70bdce768bd6f",
-                "url": "https://www.straitstimes.com/asia/se-asia/we-need-to-borrow-money-just-to-feed-the-fish-malaysian-seabass-farmers-reel-from-thai-curbs",
-                "source": "The Straits Times",
-                "date": "2026-07-11T15:26:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Egyptian, Turkish Foreign Ministers stress need to contain regional tension, get back to negotiations",
-                "desc": "Cairo: Egyptian Foreign Minister Badr Abdelatty and his Turkish counterpart, Hakan Fidan, emphasized, during a phone call Saturday, the importance of...",
-                "image": "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg",
-                "url": "https://thepeninsulaqatar.com/article/11/07/2026/egyptian-turkish-foreign-ministers-stress-need-to-contain-regional-tension-get-back-to-negotiations",
-                "source": "The Peninsula Qatar",
-                "date": "2026-07-11T15:24:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump administration subpoenas New York Times reporters after Air Force One security report",
-                "desc": "The subpoenas, which seek the journalists’ testimonies before a federal grand jury, mark a significant escalation in the administration’s clash with the media",
-                "image": "https://www.theglobeandmail.com/resizer/v2/JXVCWUIOCJETXMN23HYMWYDFWM.jpg?auth=bb87beaa03899c80b340ad985adc9adbdba0188410eac224aab32613f2a8702b&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/article-new-york-times-subpoenas-air-force-one/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-11T15:23:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "7 Nations Where the Internet Remains a Luxury Only the Wealthy Can Afford",
-                "desc": "Image credits: Unsplash For most people in wealthy nations, a monthly internet bill is barely a passing thought. It slides out of a checking account automatically, and streaming, remote work, and vide...",
-                "image": "https://s.yimg.com/lo/mysterio/api/60f49456f47d22626ed60736ad59d38814dcc9100669d97c2fcb4ac342fc9e00/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftravelbinger_873%2F28a9bd9c4ce37d14ed9397460f4dd868",
-                "url": "https://www.yahoo.com/news/world/articles/7-nations-where-internet-remains-152014445.html",
-                "source": "Yahoo",
-                "date": "2026-07-11T15:20:14Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T07:40:20.714474Z"
+    "lastGlobalSync": "2026-07-12T08:00:17.686447Z"
 }
