@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Apple Sues OpenAI For Trade Secret Theft After Integrating ChatGPT",
+                "desc": "Apple sues OpenAI over alleged trade secret theft, exposing new details about its AI hardware ambitions and intensifying the race for next-gen devices.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a53650f89fad6526e373c88/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/jonmarkman/2026/07/12/apple-sues-openai-for-trade-secret-theft-after-integrating-chatgpt/",
+                "source": "Forbes",
+                "date": "2026-07-12T13:00:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why factories in southern China are feeling the squeeze despite pickup in orders",
+                "desc": "Manufacturers hoping for stimulus measures turn attention to coming Politburo meeting as costs eat into profits and investment.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/10/166b4529-0c95-49a0-81b3-dfc4c05134d0_0b969f45.jpg?itok=I7WEMlPq&v=1783678034",
+                "url": "https://www.scmp.com/economy/china-economy/article/3360136/why-factories-southern-china-are-feeling-squeeze-despite-pickup-orders",
+                "source": "South China Morning Post",
+                "date": "2026-07-12T13:00:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Seattle couple making $173K unsure having children is financially doable",
+                "desc": "After moving from St. Louis, Mo., to Seattle, a couple weighs whether they can afford children in the city — or if they’d be better off in the Midwest.",
+                "image": "https://images.seattletimes.com/wp-content/uploads/2026/07/07072026_tzr_tzr_151728.jpg?d=1200x630",
+                "url": "https://www.seattletimes.com/business/seattle-couple-making-173k-unsure-having-children-is-financially-doable/",
+                "source": "The Seattle Times",
+                "date": "2026-07-12T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Grid War: How Geopolitics And Anxiety Drive Home Solar",
+                "desc": "Cyberattacks on power grids and shifting federal policy are pushing Americans toward rooftop solar and batteries — not for climate ideals, but personal security.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a4fe0306031b2c0b892a239/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/kensilverstein/2026/07/12/grid-war-how-geopolitics-and-anxiety-drive-home-solar/",
+                "source": "Forbes",
+                "date": "2026-07-12T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Achy, breaky heart: Is the Calgary Stampede the ultimate relationship test?",
+                "desc": "A famed 10-day festival. Over one million visitors from around the world. Throw in alcohol and constant partying, and you might have the recipe for some relationship trouble.",
+                "image": "https://i.cbc.ca/ais/b34683bd-8dfc-4861-a45c-ab1bbacad4c3,1783728899675/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/calgary/calgary-stampede-divorces-breakups-9.7214692",
+                "source": "CBC",
+                "date": "2026-07-12T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BYD showcases three-brand lineup at Goodwood as DENZA Z makes global debut",
+                "desc": "body { font-size: 16px; line-height: 34px; ...",
+                "image": "https://gascloud.gasgoo.com/production/2026/07/feecbfef-7914-48b6-9159-41af3780e008-1783889722.png",
+                "url": "https://autonews.gasgoo.com/articles/ev/byd-showcases-three-brand-lineup-at-goodwood-as-denza-z-makes-global-debut-2076289401544818688",
+                "source": "Gasgoo",
+                "date": "2026-07-12T12:59:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here is what it takes to start a profitable Akara business",
+                "desc": "Starting a roadside business selling akara in Nigeria now requires triple the minimum wage in startup capital, according to estimates from...",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/05/Akara-Elepo-a-super-street-food-Nigeria-must-add-to-UNESCO-ICH-list.png",
+                "url": "https://businessday.ng/news/article/here-is-what-it-takes-to-start-a-profitable-akara-business/",
+                "source": "Business News Nigeria",
+                "date": "2026-07-12T12:57:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ecobox Picks Vizag for ₹1,008 Cr Logistics Park",
+                "desc": "Visakhapatnam is steadily emerging as a major data centre and technology hub. In another boost for the city, Ecobox has announced a ₹1,008 crore",
+                "image": "https://cdn.gulte.com/wp-content/uploads/2026/07/Ecobox.jpg",
+                "url": "https://www.gulte.com/political-news/420731/ecobox-picks-vizag-for-%E2%82%B91008-cr-logistics-park",
+                "source": "Gulte",
+                "date": "2026-07-12T12:55:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fashion chains Onot and Jump file urgent application for stay of proceedings",
+                "desc": "The companies request to operate the 33 remaining stores for 60 days in order to urgently locate a buyer and save the jobs of about 100 employees.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729523",
+                "url": "https://www.jpost.com/business-and-innovation/all-news/article-902244",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-12T12:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How To Reduce The Tax Drag On Stock Returns",
+                "desc": "Reduce the tax drag on stock returns with strategies including ETFs, tax-loss harvesting, exchange funds, opportunity zones and buy-and-hold.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a53884469a47790fb68254a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/bill_stone/2026/07/12/how-to-reduce-the-tax-drag-on-stock-returns/",
+                "source": "Forbes",
+                "date": "2026-07-12T12:47:21Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Tech Experts Wonder if AI is Moving too Fast for Humans to Fully Grasp it",
                 "desc": "As AI systems become more capable, experts are beginning to ask whether the technology is moving so quickly th...",
                 "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/kevin-andrews.jpg",
@@ -542,99 +632,63 @@
                 "source": "The Japan Times",
                 "date": "2026-07-11T23:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "5 Set A Record Few Others Can Boast About",
-                "desc": "The 2026 Mazda CX-5 secures a Top Safety Pick+ award, helping Mazda join an elite group of automakers with 100 or more such honors from the IIHS.",
-                "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/2026-mazda-cx-5-17.jpg?w=1600&h=900&fit=crop",
-                "url": "https://carbuzz.com/2026-mazda-cx-5-set-new-safety-record/",
-                "source": "CarBuzz",
-                "date": "2026-07-11T22:31:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Major American city again takes top honors for worst possible travel reason",
-                "desc": "Experts warn summer travelers to inspect hotel mattresses and furniture as bedbug activity surges across top U.S. cities hosting major events.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/4cce6bbc-woman_packing_suitcase.jpg",
-                "url": "https://www.foxnews.com/health/major-american-city-again-takes-top-honors-worst-possible-travel-reason",
-                "source": "Fox News",
-                "date": "2026-07-11T22:21:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "13 Assessing the Quality and Reliability of Online Health Information for Breast Pathology: Search Engines Versus Large Language Models",
-                "desc": "Using the DISCERN tool, LLMs (ChatGPT and OpenEvidence) scored significantly higher than Google on breast pathology health information quality and reliability, with mean total DISCERN scores of 62.2 and 64.8 vs 35.9, supporting integration of AI tools for patient education.",
-                "image": "https://cdn.sanity.io/images/0vv8moc6/cancernetwork/089b8085d760511190c330824e22a9be55415ecb-801x451.png",
-                "url": "https://www.cancernetwork.com/view/13-assessing-quality-reliability-online-health-information-breast-pathology-search-engines-versus-llms",
-                "source": "CancerNetwork",
-                "date": "2026-07-11T22:09:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Carrier Behind LATAM Airlines' Inflight Entertainment Overhaul",
-                "desc": "LATAM is reinventing inflight entertainment by following Delta Air Lines' digital blueprint, combining AI, Viasat WiFi, and personalization.",
-                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/latam-airlines.jpg?w=1600&h=900&fit=crop",
-                "url": "https://simpleflying.com/carrier-behind-latam-airlines-ife-overhaul/",
-                "source": "Simple Flying",
-                "date": "2026-07-11T22:00:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Secure glass containers for storing chemical waste through laser welding",
-                "desc": "As the adoption of electric vehicles continues to grow, so does the need for the safe and permanent storage of battery materials and industrial chemical waste. Certain waste streams require disposal in what are known as Category IV landfills, which impose particularly stringent requirements on storage containers. These must simultaneously ensure environmental protection, safe handling and long-term structural integrity.",
-                "image": "https://scx2.b-cdn.net/gfx/news/2026/secure-glass-container.jpg",
-                "url": "https://phys.org/news/2026-07-glass-chemical-laser-welding.html",
-                "source": "Phys.org",
-                "date": "2026-07-11T22:00:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LA supermarket’s despicable act after shopper dropped dead in aisle",
-                "desc": "Southern California’s Vons supermarket kept doors open for hours with a dead shopper in the bakery aisle, sparking outrage.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134124765.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/11/us-news/la-supermarkets-despicable-act-after-shopper-dropped-dead-in-aisle/",
-                "source": "New York Post",
-                "date": "2026-07-11T21:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What?",
-                "desc": "The Nasdaq-100 listing is one thing, but the forthcoming lock-up expiry dates are another.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878219%2Fgettyimages-1468209977-1200x800-5b2df79.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/11/elon-musks-spacex-just-joined-the-nasdaq-100-now-w/",
-                "source": "The Motley Fool",
-                "date": "2026-07-11T21:39:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Boston Scientific’s 2026 Guidance Cut and Pump Recall At Boston Scientific (BSX) Has Changed Its Investment Story",
-                "desc": "In early July 2026, Boston Scientific voluntarily recalled a single Intera Oncology INTERA 3000 Hepatic Artery Infusion Pump (Class II, Serial Number 20175) in the US after identifying potential leakage from the pump through the catheter, with the recall now classified as completed.\nA separate earnings update saw management cut 2026 guidance amid weakness in WATCHMAN, Electrophysiology, and Urology, while expressing confidence that upcoming product launches could support results in 2027 and...",
-                "image": "https://images.simplywall.st/asset/company-cover/317627-main-header/1756255518234",
-                "url": "https://simplywall.st/stocks/us/healthcare/nyse-bsx/boston-scientific/news/how-boston-scientifics-2026-guidance-cut-and-pump-recall-at",
-                "source": "simplywall.st",
-                "date": "2026-07-11T21:03:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What not to spend your money on if you want to get ahead - Diana Clement",
-                "desc": "Getting ahead financially is not simply about what you earn. It is about the hundreds of choices we make with that money every year. The goal could be to...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/BKKHLBTISZBFJBFPE66KANHXWY.jpg?auth=6affe2e7f2993bfb65d51448970d3abe73f90afe345b2ff75369619293950ef8&width=1200&height=675&quality=70&focal=899%2C772&smart=false",
-                "url": "https://www.nzherald.co.nz/business/what-not-to-spend-your-money-on-if-you-want-to-get-ahead-diana-clement/premium/2HCAQBGJQVEBVER7DBRVESDSV4/",
-                "source": "NZ Herald",
-                "date": "2026-07-11T21:03:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BHP Group (ASX:BHP) Wins Escondida Approval On A Copper Growth Story And Valuation Debate",
-                "desc": "BHP Group (ASX:BHP) is back in focus after securing initial environmental approval to expand its Escondida copper mine in Chile, allowing early stage projects within a larger copper growth plan.\nSee our latest analysis for BHP Group.\nBHP Group’s A$58.28 share price comes after a 1 day share price return of 2.48% and a year to date share price return of 27.36%, alongside a 1 year total shareholder return of 54.24%. This suggests momentum has been firm even as recent 7 day and 30 day share...",
-                "image": "https://images.simplywall.st/asset/company-cover/256654-main-header/1585186732463",
-                "url": "https://simplywall.st/stocks/au/materials/asx-bhp/bhp-group-shares/news/bhp-group-asxbhp-wins-escondida-approval-on-a-copper-growth",
-                "source": "simplywall.st",
-                "date": "2026-07-11T21:02:52Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Granblue Fantasy: Relink - Endless Ragnarok Review (Switch 2)",
+                "desc": "Cleared for takeoff - Though Cygames has always been a mobile game developer, the company has historically been pretty good about supporting its games with s...",
+                "image": "https://images.nintendolife.com/83305d930d25a/1280x720.jpg",
+                "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/granblue-fantasy-relink-endless-ragnarok",
+                "source": "nintendolife.com",
+                "date": "2026-07-12T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blue Prince became a bonding - and learning - experience for my family",
+                "desc": "The experience of watching how Blue Prince has brought my wife and son even closer while challenging them both is something I’ll forever cherish.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/blue-prince-hallway.png?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+                "url": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
+                "source": "The Verge",
+                "date": "2026-07-12T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AMD Radeon Drivers Silently Add Multi Frame Generation \"MFG 8x\", Ray Regeneration, and Neural Radiance Overrides, Hinting At A Bigger FSR Push",
+                "desc": "AMD's latest Radeon drivers silently added Multi-Frame Generation (MFG 8x) modes along with other FSR overrides, as exposed in RadeonTuner.",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/AMD-Radeon-GPU-Driver-FSR-MFG-8x-Multi-Frame-Generation-Ray-Regeneration-Neural-Radiance-Caching-_F.jpg",
+                "url": "https://wccftech.com/amd-radeon-drivers-hid-multi-frame-generation-mfg-8x-ray-regeneration-neural-radiance-overrides-hinting-at-a-bigger-fsr-push/",
+                "source": "Wccftech",
+                "date": "2026-07-12T12:55:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bose Goes Big on Soundbar Clearance, With an All-in-One Compact TV Speaker at Earbuds Pricing",
+                "desc": "For a limited time, you can pick up this compact Bose TV speaker for a 29% discount.",
+                "image": "https://gizmodo.com/app/uploads/2026/07/BoseTVSoundbar-1200x675.jpg",
+                "url": "https://gizmodo.com/bose-goes-big-on-soundbar-clearance-with-an-all-in-one-compact-tv-speaker-at-earbuds-pricing-2000784221",
+                "source": "Gizmodo",
+                "date": "2026-07-12T12:49:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "These 7 SUVs Have Engines From Proper Muscle Cars",
+                "desc": "SUVs with muscle-car motors include the Cadillac Escalade-V, Dodge Durango SRT Hellcat, and Jeep's Grand Cherokee Trackhawk and Wrangler Rubicon 392.",
+                "image": "https://www.jalopnik.com/img/gallery/these-7-suvs-have-engines-from-proper-muscle-cars/l-intro-1783435187.jpg",
+                "url": "https://www.jalopnik.com/2209563/7-suvs-muscle-car-engines/",
+                "source": "Jalopnik",
+                "date": "2026-07-12T12:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "03 Mini PC with Intel Core Ultra 9 386H, 128GB DDR5 RAM & discrete GPU support",
+                "desc": "Minisforum launches MS-03 mini PC with Intel Panther Lake, up to 128GB DDR5 RAM, triple NVMe storage, dual 10GbE ports, and Wi-Fi 7 connectivity.",
+                "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Minisforum-MS-03-mini-PC.png",
+                "url": "https://www.gizmochina.com/2026/07/12/minisforum-ms-03-mini-pc-launched-specs-price/",
+                "source": "Gizmochina",
+                "date": "2026-07-12T12:41:43Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Is Your Smartphone Ruining Your Life? These 6 People Switched to Flip Phones and Finally Found Peace",
                 "desc": "More and more young people say their lives have improved dramatically since downgrading to a dumb phone. Here's how some brave souls made the switch.",
@@ -1210,63 +1264,81 @@
                 "source": "MakeUseOf",
                 "date": "2026-07-11T21:00:19Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Only the Real Ones Gathered! 'FM26' Manager Meetup Held at Gen.G GGX",
-                "desc": "©INVEN'FM26' is a title that has undergone massive changes.",
-                "image": "https://static.invenglobal.com/upload/image/2026/07/11/i1783803744528941.jpeg",
-                "url": "https://www.invenglobal.com/articles/23672/only-the-real-ones-gathered-fm26-manager-meetup-held-at-geng-ggx",
-                "source": "Inven Global",
-                "date": "2026-07-11T21:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-                "desc": "Three years after becoming a viral sensation, the Nopia harmony machine synth will be out by the end of the year for ‘around £550.’",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-                "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-                "source": "The Verge",
-                "date": "2026-07-11T20:57:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy Watch Ultra Grabs Surprise New Update",
-                "desc": "A new round of updates is headed to the Galaxy Watch Ultra and Galaxy Watch 6 series this weekend, bringing all models up to the July 2026 Android security patch level. This is somewhat surprising to see, since no Samsung phone has seen the July patch yet, while these watches are now current...",
-                "image": "https://www.droid-life.com/wp-content/uploads/2023/07/Galaxy-Watch-6-Watch-6-Classic_-1200x628.jpg",
-                "url": "https://www.droid-life.com/2026/07/11/galaxy-watch-ultra-grabs-surprise-new-update/",
-                "source": "Droid Life",
-                "date": "2026-07-11T20:53:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pixel Vs. Samsung Galaxy: Which Is Better For Night Photography?",
-                "desc": "Both the Google Pixel and Samsung Galaxy line of phones are renowned for their high-qualiyt cameras, but which one is better for photos at night?",
-                "image": "https://www.bgr.com/img/gallery/google-pixel-vs-samsung-galaxy-which-is-better-for-night-photography/l-intro-1783446360.jpg",
-                "url": "https://www.bgr.com/2209813/google-pixel-vs-samsung-galaxy-camera-better-night-photograph/",
-                "source": "bgr.com",
-                "date": "2026-07-11T20:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy Watch 9 and Ultra 2 may arrive on July 22, and this new leak leaves little to the imagination",
-                "desc": "A new leak has revealed the processors, batteries, storage configurations, connectivity features, and possible prices of Samsung’s upcoming Galaxy Watches.",
-                "image": "https://www.digitaltrends.com/tachyon/2024/08/galaxy-watch-ultra-front.jpg?resize=1200%2C630",
-                "url": "https://www.digitaltrends.com/wearables/galaxy-watch-9-and-ultra-2-may-arrive-on-july-22-and-this-new-leak-leaves-little-to-the-imagination/",
-                "source": "Digital Trends",
-                "date": "2026-07-11T20:37:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I used my calendar as a notes and task hub, and my workflow finally made sense",
-                "desc": "Why use separate apps when one will do?",
-                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/nextcloud-calendar-11.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.xda-developers.com/used-my-calendar-as-notes-task-hub-workflow-finally-makes-sense/",
-                "source": "XDA",
-                "date": "2026-07-11T20:30:22Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Zohran Mamdani riding high despite New York Post’s daily demonization",
+                "desc": "The media-savvy mayor’s popularity has only grown as the Murdoch-owned tabloid has thrown everything at him",
+                "image": "https://i.guim.co.uk/img/media/4f6e8ccbc702109d0e337e94d5c98b53f118bab3/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f83f573aa31193518162aae759ee02a1",
+                "url": "https://www.theguardian.com/us-news/2026/jul/12/zohran-mamdani-new-york-post",
+                "source": "The Guardian",
+                "date": "2026-07-12T13:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "France and UK to increase staffing at border controls in effort to avert travel chaos",
+                "desc": "Disruption at Channel crossings expected to rise amid new fingerprint and facial recognition checks",
+                "image": "https://i.guim.co.uk/img/media/33a5230b9e32ad7c2a0b85a8126502e42a730e55/1320_0_6846_5477/master/6846.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6cbd8bd0c9a055da36751108d411785f",
+                "url": "https://www.theguardian.com/uk-news/2026/jul/12/france-uk-increase-staffing-border-controls-travel-chaos",
+                "source": "The Guardian",
+                "date": "2026-07-12T12:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenya still unprepared for major Ebola outbreak as review exposes critical health system gaps",
+                "desc": "An internal government review found Kenya has strengthened Ebola surveillance and laboratory capacity but still faces major weaknesses in patient care.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-11-104444.webp",
+                "url": "https://eastleighvoice.co.ke/health/378464/kenya-still-unprepared-for-major-ebola-outbreak-as-review-exposes-critical-health-system-gaps",
+                "source": "The Eastleigh Voice",
+                "date": "2026-07-12T12:57:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zelenskyy announces government reshuffle, including new Ukrainian prime minister",
+                "desc": "Outgoing PM Yuliia Svyrydenko said she was proud of her work in office and that she remained \"ready to serve the Ukrainian state.\"",
+                "image": "https://images.euronews.com/articles/stories/09/83/52/54/1200x675_cmsv2_0f92a475-20f1-556c-b391-a7a35d66a72b-9835254.jpg",
+                "url": "https://www.euronews.com/my-europe/2026/07/12/zelenskyy-announces-government-reshuffle-including-new-ukrainian-prime-minister",
+                "source": "Euronews",
+                "date": "2026-07-12T12:56:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Missing link? Why experts believe monkeys and apes are key to preventing a sixth mass extinction",
+                "desc": "Researchers are racing to find solutions to stave off such a catastrophic event, which would pose a major threat to the global food supply",
+                "image": "https://s.yimg.com/lo/mysterio/api/d8c43cc8612d3f9bc5429082ac7dc2f26b0a9d2db073f79fa999f07f39273c71/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F5501b90757dfe9813d2c5aa4b8bc6e2b",
+                "url": "https://malaysia.news.yahoo.com/missing-why-experts-believe-monkeys-124807565.html",
+                "source": "Yahoo",
+                "date": "2026-07-12T12:48:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Missing link? Why experts believe monkeys and apes are key to preventing a sixth mass extinction",
+                "desc": "Researchers are racing to find solutions to stave off such a catastrophic event, which would pose a major threat to the global food supply",
+                "image": "https://s.yimg.com/lo/mysterio/api/d8c43cc8612d3f9bc5429082ac7dc2f26b0a9d2db073f79fa999f07f39273c71/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F5501b90757dfe9813d2c5aa4b8bc6e2b",
+                "url": "https://www.yahoo.com/news/science/articles/missing-why-experts-believe-monkeys-124807565.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAALWh1ch1-0vGyTNra4i0TyY3yXyacfq1j6K--JBoJKYHzYd1xU3RlcbX0_x6MRLtlRjsf_2uyfuYsfGbGry_i6geZh78ZjDqo6UBiA2sQr3pcKjeTQmipa3wMvGWCHLYZBnCWNxlQn9cXW7NfPK4lGmRiZKq0AXk19vWMMQ8NCDB&_guc_consent_skip=1783861524",
+                "source": "Yahoo",
+                "date": "2026-07-12T12:48:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Missing link? Why experts believe monkeys and apes are key to preventing a sixth mass extinction",
+                "desc": "Researchers are racing to find solutions to stave off such a catastrophic event, which would pose a major threat to the global food supply",
+                "image": "https://static.independent.co.uk/2026/07/08/21/09/GettyImages-2213249691.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/science/sixth-extinction-prevention-monkeys-b3011535.html",
+                "source": "The Independent",
+                "date": "2026-07-12T12:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US strikes Iran, Tehran hits Gulf states, says Strait of Hormuz closed",
+                "desc": "By Steve Holland, Parisa Hafezi, Phil Stewart and Yomna EhabWASHINGTON/DUBAI, July 12 (Reuters) - U.S. and Iranian forces exchanged heavy missile and drone assaults with Tehran targeting U.S. facilities in states across the Gulf on Sunday and saying it had again closed the vital Strait of Hormuz.A series of attacks between the U.S. and Iran over the past several days led President Donald Trump to declare the end of a ceasefire meant to halt the fighting that the U.S. and Israel began on February 28, though Trump has left the door open to continued negotiations.",
+                "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-07/2026-07-11T232134Z_1_LYNXMPEM6A0GA_RTROPTP_4_IRAN-CRISIS-SHIPPING-UN.JPG?h=6a00fd0a&itok=qeVfHrGL",
+                "url": "https://www.al-monitor.com/originals/2026/07/us-strikes-iran-tehran-hits-gulf-states-says-strait-hormuz-closed",
+                "source": "Al-Monitor",
+                "date": "2026-07-12T12:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Oman Proposes Two-Corridor Navigation Scheme for Strait of Hormuz",
                 "desc": "Oman has proposed a two-corridor navigation agreement for the Strait of Hormuz, suggesting unrestricted passage through Omani waters and authorized access through Iranian waters.",
@@ -1824,80 +1896,8 @@
                 "source": "TSN",
                 "date": "2026-07-11T22:09:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Manhunt expands as Interpol joins Ireland murder search",
-                "desc": "Jamey Carney's Killarney murder has sparked a manhunt for an asylum seeker who fled to Turkey via Dublin Airport before Irish police issued alerts.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/carney-police.jpg",
-                "url": "https://www.foxnews.com/world/irish-police-under-fire-refusing-identify-reported-asylum-seeker-sought-american-mothers-murder",
-                "source": "Fox News",
-                "date": "2026-07-11T22:00:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Up: Top six claims we verified this week",
-                "desc": "This week, DUBAWA examined a range of widely shared claims and separated fact from fiction using official records, credible reports, and digital verification",
-                "image": "https://i0.wp.com/dubawa.org/wp-content/uploads/2026/07/image-29.png",
-                "url": "https://dubawa.org/round-up-top-six-claims-we-verified-this-week-2/",
-                "source": "Dubawa",
-                "date": "2026-07-11T21:52:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nyati Safari Lodge Launches Exclusive Private Rhino Camp In Greater Kruger: All You Need To Know",
-                "desc": "Nyati Safari Lodge launches Private Rhino Camp in Greater Kruger, offering exclusive luxury safari stays and Big Five wildlife experiences.",
-                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/a-6.jpg",
-                "url": "https://www.travelandtourworld.com/news/article/ziiml3lllz4a/",
-                "source": "Travel And Tour World",
-                "date": "2026-07-11T21:32:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US seeks free Hormuz access from Iran as talks focus on strait",
-                "desc": "The US is demanding that Iran publicly state it will stop attacks on ships in the Strait of Hormuz, and that all lanes will be open with no tolls.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--cc58sKms--/c_crop,h_448,w_798,x_1,y_12/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-11T104859Z_1_LYNXMPEM6A05L_RTROPTP_3_IRAN-CRISIS-MOJTABA.JPG?itok=4u8JaVsy",
-                "url": "https://www.channelnewsasia.com/world/iran-war-us-strait-hormuz-iran-talks-6248521",
-                "source": "CNA",
-                "date": "2026-07-11T21:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Disaster displacement: Bangladesh 6th worst-hit in the world",
-                "desc": "Natural disasters triggered more than 21 million internal displacements in Bangladesh between 2008 and 2025, placing the country among the world’s six most affected, according to a new study analysing internal displacement patterns.",
-                "image": "https://www.thedailystar.net/themes/custom/swallow/favicon.ico",
-                "url": "https://www.thedailystar.net/news/bangladesh/news/disaster-displacement-bangladesh-6th-worst-hit-the-world-4221646",
-                "source": "The Daily Star",
-                "date": "2026-07-11T21:25:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zelenskiy says Ukraine officials will be held accountable for weapons store",
-                "desc": "July 11 (Reuters) - Ukrainian President Volodymyr Zelenskiy said on Saturday that officials who allowed weapons warehouses to operate in a residential area outside Kyiv where explosions killed 10",
-                "image": "https://s.yimg.com/lo/mysterio/api/9c1a7754a5b3578f8c8baea2a0f0fae3ed697a41faf5489698c5465aa456489b/lightyear_networkapi/resizefill_w800_h533;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd7ec037daf2f99a2a883bf43b1896787",
-                "url": "https://www.yahoo.com/news/articles/zelenskiy-says-ukraine-officials-held-211202513.html",
-                "source": "Yahoo",
-                "date": "2026-07-11T21:12:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malaysia's durian price crash sparks nationwide party boom",
-                "desc": "As durian prices tumble, Malaysians are throwing durian parties across the country Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ba3075db8d09a8538d26109cf4887c26892e43abf7fb476d9d6b34f5c812f717",
-                "url": "https://www.straitstimes.com/asia/se-asia/when-durian-prices-crash-malaysia-throws-parties",
-                "source": "The Straits Times",
-                "date": "2026-07-11T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Quiz: Can You Rank All 7 Continents from Largest to Smallest?",
-                "desc": "It's time to put your map skills to the test!",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1919,h_1079/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01kx70qfsbqstywj8j4r.jpg",
-                "url": "https://www.mentalfloss.com/quizzes/geography/rank-all-7-continents-largest-to-smallest",
-                "source": "Mental Floss",
-                "date": "2026-07-11T21:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T00:41:10.547462Z"
+    "lastGlobalSync": "2026-07-13T01:01:10.635911Z"
 }
