@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Dorothy’s aged care home charged $52 a day for Foxtel, wine and newspapers that were no use to her. She wasn’t alone",
+                "desc": "Exclusive: Many aged care residents in Australia are charged for services they can’t use or understand, prompting an investigation from the regulator",
+                "image": "https://i.guim.co.uk/img/media/9df24f5e0da15c22dd8da156a6d06ccb7ec7c5bd/0_0_1320_1055/master/1320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d753b3fe7f6ed67563ff6e27ea4f3615",
+                "url": "https://www.theguardian.com/australia-news/2026/jul/13/aged-care-charges-services-regulator-investigation",
+                "source": "The Guardian",
+                "date": "2026-07-12T15:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia to ditch paper arrrival cards for incoming travellers",
+                "desc": "Digital customs declaration to be phased in at all international airports and seaports after successful Qantas trial",
+                "image": "https://i.guim.co.uk/img/media/a3d2dc8087d61bfc24e1a1f3799ef6b7d60ae1d6/298_116_1917_1533/master/1917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09a9a27ffdb781768a8929a7257a1510",
+                "url": "https://www.theguardian.com/australia-news/2026/jul/13/australia-travel-declaration-digital-to-replace-paper-customs-passenger-card-incoming-travellers",
+                "source": "The Guardian",
+                "date": "2026-07-12T15:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "We found out how minoxidil works for hair growth",
+                "desc": "Discover how minoxidil works for hair growth, who it is recommended for, its benefits and potential side effects, and how to use it properly.",
+                "image": "https://vogueadria.com/wp-content/uploads/2026/07/featured-2.jpg",
+                "url": "https://vogueadria.com/minoxidil-for-hair-growth/",
+                "source": "vogueadria.com",
+                "date": "2026-07-12T15:00:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Low-cost genome sequencing approach is powering genetics research on mental illness and many other studies",
+                "desc": "For researchers on the hunt for the genetic roots of disease, the cost of deep whole-genome sequencing makes it challenging to conduct large genetic studies involving thousands of participants, which are needed to reveal new genetic insights. So scientists at the Broad Institute came up with a clever approach, called the Blended Genome Exome (BGE), that lowers the cost of sequencing by 75% and is becoming one of the most commonly used sequencing methods at the Broad.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/low-cost-genome-sequen-1.jpg",
+                "url": "https://phys.org/news/2026-07-genome-sequencing-approach-powering-genetics.html",
+                "source": "Phys.org",
+                "date": "2026-07-12T15:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "We just found your next favourite cocktail bar in Vancouver - here's what to order",
+                "desc": "You need to try these wagyu sliders 🍔",
+                "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/07/IMG_7235-2.jpg?format=auto",
+                "url": "https://dailyhive.com/vancouver/nomo-nomo-vancouver-2026",
+                "source": "Daily Hive",
+                "date": "2026-07-12T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "£2,500 grants for home air con have just 60 applicants - and no one to install it",
+                "desc": "As households swelter in 30°C heat, people are still waiting to have government-funded air conditioning fitted months into the scheme",
+                "image": "https://inews.co.uk/wp-content/uploads/2026/07/SEI_305011091.jpg?crop=0px%2C98px%2C1920px%2C1083px&resize=1200%2C675",
+                "url": "https://inews.co.uk/news/2500-grants-home-air-con-only-60-applicants-4639121",
+                "source": "The i Paper",
+                "date": "2026-07-12T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Britain Bets on Hydropower to Boost Energy Security",
+                "desc": "The United Kingdom is reviving large-scale pumped hydropower to improve energy storage, strengthen grid reliability, enhance energy security, and support its long-term transition to low-carbon electricity.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-10_pc8ehlx5m0.jpg",
+                "url": "https://oilprice.com/Alternative-Energy/Hydroelectric/Britain-Bets-on-Hydropower-to-Boost-Energy-Security.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-07-12T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "March Current Account Deficit Widens to $5.1 billion",
+                "desc": "Egypt's current account deficit more than doubled to $5.1 billion in the January-March quarter from $2.3 billion a year earlier, central bank data showed on Sunday. Net foreign direct investment inflows edged down to $3.7 billion from $3.8 billion in the same period of 2025, Reuters reported. The central bank attributed the wider July-March current account deficit mainly to a larger merchandise trade deficit, partly offset by higher remittances, tourism revenue and Suez Canal receipts.",
+                "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-07/1663050_0.jpeg.webp",
+                "url": "https://english.aawsat.com/business/5295152-egypts-january-march-current-account-deficit-widens-51-billion",
+                "source": "Asharq Al-Awsat English",
+                "date": "2026-07-12T14:57:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Decoding China's innovation-led development",
+                "desc": "From intelligent manufacturing to emerging industries and a more open innovation ecosystem, China's development offers insights into how the world's second-largest economy is cultivating new quality productive forces and reshaping its role in global innovation.",
+                "image": "https://news.cgtn.com/news/2026-07-12/Decoding-China-s-innovation-led-development-1OJ2sLR4P8Q/img/2da2e2e6d8314be4acc59220c99e0478/2da2e2e6d8314be4acc59220c99e0478-750.jpeg",
+                "url": "https://news.cgtn.com/news/2026-07-12/Decoding-China-s-innovation-led-development-1OJ2sLR4P8Q/p.html",
+                "source": "news.cgtn.com",
+                "date": "2026-07-12T14:56:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Volkswagen CEO suggests 'more intelligent solutions than closing plants' amid turnaround effort",
+                "desc": "“We were able to improve our factory costs in Germany by an average 20% last year alone,” he said.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26177298579037-e1783867861342.jpg?resize=1200,600",
+                "url": "https://www.fortune.com/2026/07/12/volkswagen-ceo-factories-turnaround-effort-cost-cuts/",
+                "source": "Fortune",
+                "date": "2026-07-12T14:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "The broader debate underlying the Musk-OpenAI conflict",
                 "desc": "In Israel, one of the most prominent initiatives to examine the broader implications of the AI revolution is led by entrepreneur Daniel Schreiber, who seeks to foster a public framework for discussing AI's impact on Israeli society.",
                 "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1623648603/direct/shutterstock_1915103179_fhz9va.jpg",
@@ -542,99 +632,72 @@
                 "source": "Fortune",
                 "date": "2026-07-12T11:56:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "J-Ventures expands with $36 million third fund",
-                "desc": "The venture firm, built around a global network of 600 Jewish investors and executives, has grown to $110 million in assets under management while doubling down on Israeli and US startups.",
-                "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/04/24/S1AVPXLbR/S1AVPXLbR_0_21_719_405_0_large.jpg",
-                "url": "https://www.calcalistech.com/ctechnews/article/byfsl11bege",
-                "source": "CTech",
-                "date": "2026-07-12T11:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tech billionaires are shielding their children from the products that made them rich",
-                "desc": "As governments race to restrict minors’ social media use, the tech billionaires who built the platforms are imposing strict screen limits at home.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2022/05/GettyImages-1239812766.jpg?resize=1200,600",
-                "url": "https://fortune.com/article/peter-thiel-tech-billionaires-limit-kids-screen-time-social-media-smartphones-short-form-video-risks/",
-                "source": "Fortune",
-                "date": "2026-07-12T11:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "At 18, doctors gave him three hours to live. Now, he’s built a $10 million-a-year video game studio",
-                "desc": "This millennial founder survived a near-death experience. With just $1,000, he’s built a multimillion-dollar game studio inspired by a philosophy from Whole Foods’ CEO.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/Zhenghua-Yang.png?resize=1200,600",
-                "url": "https://fortune.com/article/millennial-entrepreneur-serenity-forge-video-games-founder-near-death-experience-whole-foods-ceo-inspiration-small-business-series-zhenghua-yang/",
-                "source": "Fortune",
-                "date": "2026-07-12T11:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold, silver rate outlook: Middle East conflict, inflation data to drive prices this week",
-                "desc": "India Business News: Precious metals are expected to remain under pressure in the coming week, with investors weighing geopolitical uncertainty in the Middle East against .",
-                "image": "https://static.toiimg.com/thumb/msid-132345104,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-outlook-middle-east-conflict-inflation-data-to-drive-prices-this-week/articleshow/132345030.cms",
-                "source": "The Times of India",
-                "date": "2026-07-12T11:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The durian tsunami, Plas-Stick, and more...",
-                "desc": "A Sunny Side Up edition where we talk about a lesson from Malaysia's durian tsunami, India's first Earth Prize, and more.",
-                "image": "https://cdn.finshots.app/images/2026/07/Durian.jpg",
-                "url": "https://finshots.in/archive/the-durian-tsunami-plas-stick-and-more-2/",
-                "source": "Finshots",
-                "date": "2026-07-12T01:33:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SBI Funds Management IPO size reduced to Rs 9,813 crore after pre-IPO round with marquee investors",
-                "desc": "SBI Funds Management IPO | The company had initially planned to raise Rs 11,692.9 crore through an IPO comprising 20.37 crore equity shares, representing 10 percent of its paid-up equity capital.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260709084333_SBI-MF.jpg",
-                "url": "https://www.moneycontrol.com/news/business/ipo/sbi-funds-management-ipo-size-reduced-to-rs-9-813-crore-after-pre-ipo-round-with-marquee-investors-13971741.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-12T01:32:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New footage shows damaged engine Ryanair flight passenger was nearly sucked out",
-                "desc": "New footage reveals the horrifying aftermath of a Ryanair flight where a passenger was nearly sucked out through a shattered window — leaving the man clinging to life.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/comp-12.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/11/world-news/new-footage-shows-damaged-engine-ryanair-flight-passenger-was-nearly-sucked-out/",
-                "source": "New York Post",
-                "date": "2026-07-12T01:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jio Medium-Term Validity Plan for People Who Do Not Want 5G",
-                "desc": "Reliance Jio offers the Rs 889 prepaid plan with 1.5GB of daily data, and 84 days of service validity.",
-                "image": "https://telecomtalk.info/wp-content/uploads/2026/07/jio-medium-term-validity-plan-for-people.png",
-                "url": "https://telecomtalk.info/jio-medium-term-validity-plan-for-people/1009579/",
-                "source": "TelecomTalk",
-                "date": "2026-07-12T01:31:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Begins Mass Production of High-Speed AI SSD for Nvidia Vera Rubin, Strengthening Its Position in AI Memory Market",
-                "desc": "Samsung Electronics has begun mass production of its latest enterprise solid-state drive, the PM1763, which will be deployed in Nvidia Corp’s upcoming Vera Rubin AI platform scheduled to launch later this year. Samsung’s New AI SSD Targets Faster Data Center...",
-                "image": "https://s.yimg.com/lo/mysterio/api/88725cd9000567f6eee0d27ca409ef9a63f53ccec78a5369e3924932615965d6/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F8515ab1c781c67439b0fd8248fe11651",
-                "url": "https://tech.yahoo.com/computing/articles/samsung-begins-mass-production-high-013103337.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-12T01:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Power companies need more homes to share control of their batteries",
-                "desc": "The ACCC is warning of major cost blowouts in the shift from coal unless millions of households share control of their batteries via “virtual power plants”.",
-                "image": "https://static.ffx.io/images/$zoom_0.5518518518518518%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/63a95d33211df2d27c360eda6e5c8177f4078e2e",
-                "url": "https://www.smh.com.au/business/consumer-affairs/power-companies-need-more-homes-to-share-control-of-their-batteries-20260710-p60eei.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-12T01:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Studio Ghibli calendar figures are back, look amazing whether you check the date or not[Photos]",
+                "desc": "Give Totoro, No-Face, and Jiji a little time every day, and they’ll make sure you don’t forget the date.",
+                "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/07/gc-0.jpg?w=1200&h=630&crop=1",
+                "url": "https://soranews24.com/2026/07/13/studio-ghibli-calendar-figures-are-back-look-amazing-whether-you-check-the-date-or-notphotos/",
+                "source": "SoraNews24",
+                "date": "2026-07-12T15:00:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "One of SteelSeries’ best gaming headsets is over $100 off",
+                "desc": "The SteelSeries Arctis Nova Pro wireless gaming headset has ANC, swappable batteries, and mixable sources. They’re discounted because their packaging is damaged.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25360143/akrales_220510_5209_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
+                "source": "The Verge",
+                "date": "2026-07-12T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Andrew Middleton’s 700hp, trophy-winning HK Monaro",
+                "desc": "Forget Silver Mink – Andrew Middleton’s trophy-magnet, 700hp HK Monaro proves that winners wear gold",
+                "image": "https://www.streetmachine.com.au/wp-content/uploads/2026/07/andrew-middleton-hk-monaro-7.jpg",
+                "url": "https://www.streetmachine.com.au/features/andrew-middleton-700hp-trophy-winning-hk-monaro",
+                "source": "Street Machine",
+                "date": "2026-07-12T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Intelligence began in Apple Car research",
+                "desc": "We've been telling you this for years — Apple Car research wasn't lit on fire, and the fruits of Apple's labor on it will be seen in artificial intelligence performance in the M7 and M8 processor.",
+                "image": "https://photos5.appleinsider.com/gallery/61811-127942-Glossy-VS-Matte-Displaky-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/07/12/power-of-apples-m7-m8-chips-was-born-from-apple-car-research",
+                "source": "AppleInsider",
+                "date": "2026-07-12T14:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A sustainable driven intrusion detection model for green CPS using ISP analysis and energy aware deep ensemble learning",
+                "desc": "Intrusion Detection Systems (IDSs) play a fundamental role in ensuring the reliability of green Cyber-Physical Systems (CPSs). Yet, existing IDS approaches did not capture the Inconsistent Sequential Pattern (ISP) in green CPS, thus resulting in high misclassification and limited sustainability. To address this issue, this study proposes a sustainability-driven ISP-aware intrusion detection framework that integrates ISP analysis and an energy-aware optimized deep ensemble learning model. The proposed framework encompasses the major layers, including the perception layer, transport layer, network layer, and control layer. The perception layer is responsible for authentication, whereas the transmission layer acts as an intermediate node between the perception layer and the network layer. Here, the network layer is generalized well enough to perform ISP-aware intrusion detection. Further, the proposed approach employs behavioral similarity modeling to enable fine-grained intrusion detection across CPS layers. Moreover, an optimized deep ensemble model is employed to detect intrusions while ensuring computational efficiency and generalization. Finally, the commands are executed through the actuator in the control layer. Thus, the proposed work obtains noticeable accuracies of 99.0654% and 99.4523% regarding network and IoT data, respectively. Hence, the experimental results confirm that the incorporation of ISP analysis significantly enhances IDS reliability and resilience in green CPS environments.",
+                "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-55501-0?error=cookies_not_supported&code=73312ba5-afa6-41d7-aaf4-c6895b33635c",
+                "source": "Nature",
+                "date": "2026-07-12T14:52:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Source Archive Manager Is Out with Support for ZIM Archives",
+                "desc": "PeaZip 11.2 open-source archive manager is now available for download with read support for Zeno IMproved .ZIM archives and other changes.",
+                "image": "https://9to5linux.com/wp-content/uploads/2026/07/pz112.webp",
+                "url": "https://9to5linux.com/peazip-11-2-open-source-archive-manager-is-out-with-support-for-zim-archives",
+                "source": "9to5Linux",
+                "date": "2026-07-12T14:46:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stop treating your 3D printer like a vending machine for other people's models",
+                "desc": "Designing your own models is a hidden side of 3D printing that many miss out on.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/04/printing-a-pla-benchy-on-the-ankermake-m5c-3d-printer.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/stop-treating-your-3d-printer-like-a-vending-machine-for-other-peoples-models/",
+                "source": "How-To Geek",
+                "date": "2026-07-12T14:45:17Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "iPhone 18 Pro Release Date: New iOS Update Reveals September Plan",
                 "desc": "The schedule that runs up to the release of the next iPhones is meticulously staged. So far, it looks like the iPhone 18 Pro timetable is proceeding according to plan.",
@@ -1201,72 +1264,99 @@
                 "source": "BBC",
                 "date": "2026-07-11T23:58:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "5 Underrated Apple TV Sci-Fi Shows You Have To Watch",
-                "desc": "Calls, Constellation, Dr. Brain, Invasion, and The Last Days of Ptolemy Grey are some of the most underrated Apple TV sci-fi shows you should be watching.",
-                "image": "https://www.bgr.com/img/gallery/5-underrated-apple-tv-sci-fi-shows-you-have-to-watch/l-intro-1783699476.jpg",
-                "url": "https://www.bgr.com/2212367/underrated-apple-tv-sci-fi-shows-have-to-watch/",
-                "source": "bgr.com",
-                "date": "2026-07-11T23:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Skip Pyrex: The Antique Dishware You Can Find At Thrift Stores That's A 'True Collector's Jewel'",
-                "desc": "The Le Creuset Dutch Oven Terrine is unique. Shaped like a duck and no longer in production, this piece is a rare and interesting twist on plain cookware.",
-                "image": "https://www.housedigest.com/img/gallery/skip-pyrex-the-antique-dishware-you-can-find-at-thrift-stores-thats-a-true-collectors-jewel/l-intro-1783514819.jpg",
-                "url": "https://www.housedigest.com/2210412/skip-pyrex-antique-dishware-le-creuset-duck-terrine-thrift-stores/",
-                "source": "House Digest",
-                "date": "2026-07-11T23:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI report accused of ruining startup’s reputation as Koi Security faces lawsuit over alleged cybersecurity hallucinations",
-                "desc": "Koi Security faces a legal battle after AI analysis sparks serious accusations",
-                "image": "https://cdn.mos.cms.futurecdn.net/c7YgN4hKc8SQX7FnAWApPE-1600-80.png",
-                "url": "https://www.techradar.com/pro/the-false-attributions-were-the-direct-product-of-kois-unsupervised-reliance-startup-sues-koi-security-after-ai-tool-hallucinates-and-links-it-to-a-chinese-spying-scam",
-                "source": "TechRadar",
-                "date": "2026-07-11T23:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The McLaren 788HS - The End of an Era, and What a Send-Off It Is",
-                "desc": "McLaren just dropped the final curtain call on the 720S/750S/765LT supercar lineage, and they're going out with a bang. Enter the McLaren 788HS: the th ...",
-                "image": "https://media.tarmaclife.co.nz/uploads/2026/07/9276560-18153-ns-mclaren-788hs-coupe-01-final-scaled.webp",
-                "url": "https://www.tarmaclife.co.nz/news/the-mclaren-788hs-the-end-of-an-era-and-what-a-send-off-it-is/",
-                "source": "Tarmac Life",
-                "date": "2026-07-11T23:26:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "No, Windows did not fall below 60% market share or lose 20 points to Linux",
-                "desc": "A web analytics company, claimed that Windows' market share had fallen from 70% to just 56%, but as expected, it turned out to be a reporting error",
-                "image": "https://www.windowslatest.com/wp-content/uploads/2026/07/Windows-market-share-1.jpg",
-                "url": "https://www.windowslatest.com/2026/07/12/no-windows-did-not-fall-below-60-market-share-or-lose-15-points-to-linux/",
-                "source": "Windows Latest",
-                "date": "2026-07-11T23:21:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 Podcasting Microphones With Great Audio For Every Budget",
-                "desc": "Whether you're investing in a massive upgrade to your equipment or just getting started, there's a podcasting microphone for everyone if you know where to look.",
-                "image": "https://www.bgr.com/img/gallery/5-podcasting-microphones-with-great-audio-for-every-budget/l-intro-1783452724.jpg",
-                "url": "https://www.bgr.com/2209987/podcasting-microphones-great-audio-every-budget/",
-                "source": "bgr.com",
-                "date": "2026-07-11T23:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toyota's Sports Cars Are Outselling BMW's By More Than 3 To 1",
-                "desc": "Toyota sold 3,523 GR86, GR Supra, and Lexus LC units in Q2 2026 vs. BMW's 1,099 Z4s — and BMW has no replacement coming.",
-                "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2022-bmw-z4-main.png?w=1600&h=900&fit=crop",
-                "url": "https://carbuzz.com/toyota-sports-cars-outselling-bmw/",
-                "source": "CarBuzz",
-                "date": "2026-07-11T23:10:11Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "One Nation’s rise puts the next election in ‘unknown territory’ - but does Pauline Hanson really have a path to government?",
+                "desc": "Data shows the rightwing party faces an obstacle in the form of urban seats – and the effect of preference flows is harder to predict",
+                "image": "https://i.guim.co.uk/img/media/00fcfd71010e8ecc87bcb22bd2dc48e8b34119e6/607_62_6803_5442/master/6803.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e868cbc30dcf1691883e142a0745a6f5",
+                "url": "https://www.theguardian.com/news/2026/jul/13/one-nation-rise-next-election-pauline-hanson-path-to-government",
+                "source": "The Guardian",
+                "date": "2026-07-12T15:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Minister confronts Transnet over policy than could derail reforms",
+                "desc": "Transport Minister Barbara Creecy gave the Transnet board three days to explain how it would correct a rail access agreement she said broke with legislation",
+                "image": "https://i0.wp.com/sundayworld-prod-s3-bucket.s3.eu-west-1.amazonaws.com/wp-content/uploads/2026/07/11193253/P11-freight-train-Supplied.jpg?fit=1344%2C886&ssl=1",
+                "url": "https://sundayworld.co.za/business/minister-confronts-transnet-over-policy-than-could-derail-reforms/",
+                "source": "sundayworld.co.za",
+                "date": "2026-07-12T15:00:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bavarian Football Works",
+                "desc": "Norway will row into their next World Cup stronger.",
+                "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2285682007.jpg?quality=90&strip=all&crop=0%2C11.454804434863%2C100%2C77.090391130274&w=1200",
+                "url": "https://www.bavarianfootballworks.com/fifa-world-cup/229467/three-observations-from-englands-2-1-win-over-norway-in-the-fifa-world-cup-quarterfinals",
+                "source": "Bavarian Football Works",
+                "date": "2026-07-12T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China reiterates rejection of 2016 'South China Sea Arbitration award'",
+                "desc": "China reiterates that the award of the \"2016 South China Sea Arbitration\" is null, void and has no binding force, and that it neither accepts nor recognizes it. July 12, 2026 marks the 10th anniversary of the ruling handed down by the Arbitral Tribunal",
+                "image": "https://video.cgtn.com/news/2026-07-12/China-reiterates-rejection-of-2016-South-China-Sea-Arbitration-award--1OIO2h0aICc/video/wu_1jtbb8v2uo9d6ajq9919fulutsq5/wu_1jtbb8v2uo9d6ajq9919fulutsq5-1280.jpg",
+                "url": "https://news.cgtn.com/news/2026-07-12/China-reiterates-rejection-of-2016-South-China-Sea-Arbitration-award--1OIO2h0aICc/p.html",
+                "source": "news.cgtn.com",
+                "date": "2026-07-12T14:58:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
+                "desc": "Pair airlifted to hospital in two-hour rescue operation after Guardia Civil searched area for survivors",
+                "image": "https://i.guim.co.uk/img/media/461f851385f42bc8d8626f25f81067bba8254a4b/292_0_4876_3901/master/4876.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0f143cca22fd580773e14e6f74df7e7",
+                "url": "https://www.theguardian.com/world/2026/jul/12/uk-couple-burned-semi-conscious-almeria-spanish-wildfires",
+                "source": "The Guardian",
+                "date": "2026-07-12T14:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside Kenya Power's renewed deal to buy Ethiopia's electricity for about KSh 20 per kWh",
+                "desc": "Kenya Power has signed a new electricity supply deal with Ethiopia, securing power at ETB 24.07 per kWh to boost regional trade and enhance supply in Northern Kenya.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/181fbc7bd9f3efeb.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/business-economy/energy/632305-inside-kenya-powers-renewed-deal-buy-ethiopia-electricity-ksh-20-kwh/",
+                "source": "Tuko News",
+                "date": "2026-07-12T14:54:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran war escalates as US, IRGC exchange fire over Strait of Hormuz",
+                "desc": "U.S. and Iranian forces exchanged heavy missile and drone attacks as the IRGC claimed Iran had closed the Strait of Hormuz, a critical route for global oil and LNG shipments, until the “end of U.S. interference” in the region. U.S. Central Command said commercial vessels continued to transit the waterway and that American forces struck more than 300 Iranian military targets over three nights.",
+                "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/07/984a6505e07e651c43056a1bbd0421de.jpg",
+                "url": "https://www.foxnews.com/live-news/us-iran-war-irgc-centcom-strait-hormuz-july-12",
+                "source": "Fox News",
+                "date": "2026-07-12T14:53:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor",
+                "desc": "President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko, would step down amid a broader shake-up in Ukraine’s senior leadership.",
+                "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12int-ukraine-leadership-01-jzqf/12int-ukraine-leadership-01-jzqf-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html",
+                "source": "The New York Times",
+                "date": "2026-07-12T14:51:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states",
+                "desc": "The fighting raised new questions about the interim deal Iran and the U.S. reached on June 17, beginning a 60-day period aimed at reaching a permanent end to the war.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/479c4017bf8a5fd0794d60a059034a1bd4c631ce3cca839f35e515500f4f314e.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11962793/iran-united-states-latest/",
+                "source": "Global News",
+                "date": "2026-07-12T14:48:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vietnam police detain captain after speedboat capsizing kills 15 Indian tourists",
+                "desc": "Vietnamese police have detained the captain of a speedboat that capsized off southern Vietnam, killing 15 Indian tourists.",
+                "image": "https://dims.apnews.com/dims4/default/11f8565/2147483647/strip/true/crop/3419x2278+541+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2Fd4%2F38e64ef113efadda593081e54029%2F96c12d5b9ea74224a6a01fcc86476cac",
+                "url": "https://apnews.com/article/vietnam-tourist-boat-capsizes-indian-eebc56ca6b1434bd513daa395e4b03ab",
+                "source": "AP News",
+                "date": "2026-07-12T14:48:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Shakib Confronts Zari Hassan Over Breakup Announcement in Viral Video",
                 "desc": "Zari Hassan and Shakib Cham Lutaaya reunited for a romantic getaway in Uganda, laughing off their recent breakup announcement after five years of marriage.",
@@ -1806,98 +1896,8 @@
                 "source": "Vanguard News",
                 "date": "2026-07-12T11:58:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Three cars set alight in Derry arson attacks",
-                "desc": "An investigation has been launched after three cars were subject to arson attacks in Derry city early this morning.According to Police, two vehicles were set on...",
-                "image": "https://img.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8wNFxcXC9QU05JLVBvbGljZS1Sb2FkLVNhZmV0eS1jaGVja3BvaW50LnBuZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC9zdG9yYWdlLmRvbmVnYWxkYWlseS5jb21cXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjUzYWM2MTI5MDZkMmYyNTNkZTI3ZGZiZTU3ZTFiN2I4NWZkZWNlMWUifQ==/three-cars-set-alight-in-derry-arson-attacks.png",
-                "url": "https://www.donegaldaily.com/news/three-cars-set-alight-in-derry-arson-attacks-641393",
-                "source": "Donegal Daily",
-                "date": "2026-07-12T11:58:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran outlines policies on women, family at BRICS WWG",
-                "desc": "TEHRAN – Narjes Abolqasemi, an official with the Vice-Presidency for Women and Family Affairs, has elaborated on the country’s macro-level policies on women and family at the BRICS Working Women Group (WWG) Meeting held in Kerala, India, on July 6-7.",
-                "image": "https://media.tehrantimes.com/d/t/2026/07/12/4/6097868.jpg?ts=1783857285783",
-                "url": "https://www.tehrantimes.com/news/528083/Iran-outlines-policies-on-women-family-at-BRICS-WWG",
-                "source": "Tehran Times",
-                "date": "2026-07-12T11:57:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine PM's resignation stuns lawmakers as potential successors emerge",
-                "desc": "Yulia Svyrydenko, who replaced former Prime Minister Denys Shmyhal in July 2025, will now take on a new role leading cooperation with Ukraine’s key partners, Zelensky announced on social media.",
-                "image": "https://assets.kyivindependent.com/content/images/2026/02/GettyImages-2224813694.jpg",
-                "url": "https://kyivindependent.com/ukraine-pm-steps-down-amid-government-reshuffle/",
-                "source": "The Kyiv Independent",
-                "date": "2026-07-12T11:57:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. embassy in Mogadishu says American flag desecration by Somali security forces harms U.S.-Somalia relations",
-                "desc": "The U.S. Embassy in Mogadishu says the desecration of the American flag by Somali security forces harms U.S.-Somalia relations, while welcoming Somalia's swift action against those involved.",
-                "image": "https://www.somaliguardian.com/wp-content/uploads/2025/02/4-1-1024x683.jpg",
-                "url": "https://www.somaliguardian.com/news/somalia-news/somalia-us-embassy-american-flag-desecration/",
-                "source": "Somali Guardian",
-                "date": "2026-07-12T11:51:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Tech Leader Shot Dead by Husband in 'Domestic Violence Case'",
-                "desc": "A tech leader was shot dead by her husband at their home in Georgia, USA, in a suspected domestic violence incident.",
-                "image": "https://www.desiblitz.com/wp-content/uploads/2026/07/US-Tech-Leader-Shot-Dead-by-Husband-in-Domestic-Violence-Case-f.jpg",
-                "url": "https://www.desiblitz.com/content/us-tech-leader-shot-dead-by-husband-in-domestic-violence-case",
-                "source": "DESIblitz",
-                "date": "2026-07-12T11:47:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Health, Nutrition, and Early Childhood Development Can Power Growth in Central and West Africa",
-                "desc": "In a region exposed to fragility, conflict, violence, climate shocks, and food insecurity, the choice is stark: turn this youth surge into a demographic dividend, or allow it to deepen instability, exclusion, and vulnerability to harmful influences.",
-                "image": "https://i0.wp.com/tanzaniatimes.net/wp-content/uploads/2026/07/central-africa-early-child-development-scaled.webp?fit=1170%2C780&ssl=1",
-                "url": "https://tanzaniatimes.net/why-health-nutrition-and-early-childhood-development-can-power-growth-in-central-and-west-africa/",
-                "source": "The Tanzania Times",
-                "date": "2026-07-12T11:46:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Inside Wagner’s Drug Empire in Africa That Survived Prigozhin’s Death",
-                "desc": "Wagner Group remnants in CAR maintain influence through a tramadol trafficking network, supplementing illegal gold mining profits after Prigozhin's death.",
-                "image": "https://storage.united24media.com/og/6/c2/d0ddeb010c3fb1887b01c6f8d172fc26.jpeg",
-                "url": "https://united24media.com/war-in-ukraine/inside-wagners-drug-empire-in-africa-that-survived-prigozhins-death-20689",
-                "source": "UNITED24 Media",
-                "date": "2026-07-12T11:45:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Three cars set alight in the Altnagelvin area of Derry",
-                "desc": "The PSNI is investigating two incidents of cars being set alight in the Altnagelvin area of Derry in the early hours of this morning. Police say at approximately 3.45am, officers received a report that two vehicles had been set alight outside a residential property in the Ivy Mead area of the Waterside. The Northern Ireland […]",
-                "image": "https://highlandradio.com/wp-content/uploads/2022/08/psni-logo.jpg",
-                "url": "https://highlandradio.com/2026/07/12/three-cars-set-alight-in-the-altnagelvin-area-of-derry/",
-                "source": "Highland Radio",
-                "date": "2026-07-12T11:36:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Manhunt underway after 2 killed in mass shooting at Canada’s largest Latin street festival in Toronto, police say",
-                "desc": "A manhunt is underway after two people were killed and several others were injured in a mass shooting at Canada’s largest Latin street festival in Toronto on Saturday, police said.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285123195.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/11/world/toronto-shooting-sat-intl",
-                "source": "CNN",
-                "date": "2026-07-12T00:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Heatwave grips Japan, record-tying 39.3 C at Kyushu tourist spot",
-                "desc": "Parts of Japan's southwestern region of Kyushu saw a hot summer day on Saturday, with the mercury hitting a record-tying 39.3 C in Dazaifu, a tourist spot in Fukuoka",
-                "image": "https://globalnation.inquirer.net/files/2026/07/Heatwave-grips-Japan-record-tying-39.3-C-at-Kyushu-tourist-spot-scaled.jpg",
-                "url": "https://globalnation.inquirer.net/330542/heatwave-grips-japan-record-tying-39-3-c-at-kyushu-tourist-spot",
-                "source": "Inquirer.net",
-                "date": "2026-07-12T00:52:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T02:41:11.974011Z"
+    "lastGlobalSync": "2026-07-13T03:01:09.522048Z"
 }
