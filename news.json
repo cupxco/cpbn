@@ -4,6 +4,15 @@
     "en": {
         "business": [
             {
+                "title": "duration energy storage facility",
+                "desc": "The Latrobe Valley will be home to Australia’s first long-duration CO2 energy storage facility, with SEC revealing a new energy innovation precinct.",
+                "image": "https://www.energymagazine.com.au/wp-content/uploads/2026/07/Artists-impression-of-Energy-Domes-CO2-Battery-project-in-the-Latrobe-Valley-Victoria.jpg",
+                "url": "https://www.energymagazine.com.au/meet-victorias-first-long-duration-energy-storage-facility/",
+                "source": "Energy Magazine",
+                "date": "2026-07-12T23:43:10Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Nigeria's $500m Metering Project Installs Only 217,784 Meter",
                 "desc": "A new report reveals that only 217,784 electricity meters have been installed under Nigeria's $500m World Bank-backed free metering programme, falling far",
                 "image": "https://punchng.com/wp-content/uploads/2026/07/metre_1783898857.webp",
@@ -622,15 +631,6 @@
                 "url": "https://www.manilatimes.net/2026/07/13/tmt-newswire/globenewswire/the-8020-institute-introduces-an-approach-to-expand-margin-without-cutting-by-concentrating-on-the-20-that-drives-profit/2382994",
                 "source": "The Manila Times",
                 "date": "2026-07-12T20:10:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?",
-                "desc": "One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F66026f7773699286c73c3ab5f122b4888e5c42a9-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/",
-                "source": "The Motley Fool",
-                "date": "2026-07-12T19:59:59Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1268,6 +1268,15 @@
         ],
         "world": [
             {
+                "title": "Mitch McConnell releases health update, says he is ‘regaining’ strength",
+                "desc": "The US Republican senator has been absent from Congress during a weeks-long hospitalisation, spurring party concern.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5421f2-1783898610.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength",
+                "source": "Al Jazeera",
+                "date": "2026-07-12T23:42:10Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Sky News Australia",
                 "desc": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
                 "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
@@ -1887,17 +1896,8 @@
                 "source": "DW.com",
                 "date": "2026-07-12T19:28:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Breakfast briefing: 'Strategy' beating 'firepower'",
-                "desc": "China car exports flood global markets; helium access a new chokepoint; Japan PPI high & rising; eyes on yen; US data languid; freight rates rise again; UST 10yr at 4.56%; gold rises; oil holds on Strait closure; NZ$1 = 57.6 USc; TWI-5 = 61.5",
-                "image": "https://www.interest.co.nz/sites/default/files/2022-01/Breakfast1_Loop.gif",
-                "url": "https://www.interest.co.nz/economy/139344/china-car-exports-flood-global-markets-helium-access-new-chokepoint-japan-ppi-high",
-                "source": "Interest.co.nz",
-                "date": "2026-07-12T19:19:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T11:41:11.228931Z"
+    "lastGlobalSync": "2026-07-13T11:44:32.181792Z"
 }
