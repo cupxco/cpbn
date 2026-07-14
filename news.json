@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "STATEMENT FROM THE RIGMORA BIOTECH INVESTORS",
+                "desc": "MONACO, July 14, 2026 /PRNewswire/ -- The Rigmora Biotech Investors welcome the order issued July 10th 2026 by Hon. Justice Jalil Asif KC of the Grand Court of the Cayman Islands.",
+                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+                "url": "https://www.manilatimes.net/2026/07/14/tmt-newswire/pr-newswire/statement-from-the-rigmora-biotech-investors/2383726",
+                "source": "The Manila Times",
+                "date": "2026-07-13T22:39:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Power bills set to rise in final four months",
+                "desc": "Households and businesses are bracing for higher electricity bills in the final four months of this year as the Energy Regulatory Commission (ERC) has announced a sharp increase in the fuel tariff (Ft), which is expected to jump nearly fivefold from 0.16 baht to 0.94 baht per kilowatt-hour, driving overall power tariffs upwards.",
+                "image": "https://static.bangkokpost.com/media/content/20260714/c1_3285575_260714053925_700.jpg",
+                "url": "https://www.bangkokpost.com/business/general/3285575/power-bills-set-to-rise-in-final-four-months",
+                "source": "Bangkok Post",
+                "date": "2026-07-13T22:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Estée Lauder Cos to Retain Too Faced, Smashbox & Dr. Jart+ Brands",
+                "desc": "Estée Lauder to keep key brands Too Faced, Smashbox, and Dr. Jart+.",
+                "image": "https://wwd.com/wp-content/uploads/2026/02/90.-Too-Faced.jpg?w=1000&h=563&crop=1",
+                "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-keep-too-faced-smashbox-dr-jart-1239065048/",
+                "source": "WWD",
+                "date": "2026-07-13T22:34:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s Grid Constraints Come Into Focus as Regional Markets Push Toward Integration",
+                "desc": "Africa’s electricity demand is projected to nearly double to 2,291 TWh by 2050, requiring an estimated $30 billion in transmission and grid infrastructure",
+                "image": "https://panafricanvisions.com/wp-content/uploads/2026/07/sanr.jpg",
+                "url": "https://panafricanvisions.com/2026/07/africas-grid-constraints-come-into-focus-as-regional-markets-push-toward-integration/",
+                "source": "pan african visions",
+                "date": "2026-07-13T22:33:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World stocks dip as oil rises after Trump's Hormuz levy threat",
+                "desc": "Stocks moved back into negative territory after yo-yoing between gains and losses as oil hit one-month highs on Tuesday after President Donald Trump said the US was reinstating its blockade of Iranian shipping and would collect a 20% fee on the Strait of Hormuz cargo traffic.",
+                "image": "https://assets.theedgemarkets.com/global-markets-4_20241031103548_theedgemalaysia-APP_14.jpg",
+                "url": "https://theedgemalaysia.com/node/810525",
+                "source": "The Edge Malaysia",
+                "date": "2026-07-13T22:32:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chilean copper exports record US$30.2bn, despite production drop",
+                "desc": "Chilean copper exports hit a record of US$30.236bn in the first half, but lower ore grades, water scarcity, and labor disputes reduced Chilean production",
+                "image": "https://cdnimg.bnamericas.com/XEKeEiQouvBeOYCzjpschTxRWFoSfuzYBBrVcHNeRJAUXXgHGUrejCeGdynZvVdn.jpg",
+                "url": "https://www.bnamericas.com/en/features/chilean-copper-exports-record-us302bn-despite-production-drop",
+                "source": "BNamericas",
+                "date": "2026-07-13T22:30:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "4 ASX shares which could improve by 25% to more than 100%",
+                "desc": "Canaccord Genuity has released reports on 4 ASX shares it believes could deliver outsized share price returns over the next year.",
+                "image": "https://www.fool.com.au/wp-content/uploads/2021/10/graph-16_9-1200x675.jpg",
+                "url": "https://www.fool.com.au/2026/07/14/4-asx-shares-which-could-improve-by-25-to-more-than-100/",
+                "source": "The Motley Fool Australia",
+                "date": "2026-07-13T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Economists say 'we must act now' on AI's economic impact and job displacement risks",
+                "desc": "Hundreds of economists say that institutions \"must act now\" to address how AI could transform the economy and could put many people out of work.",
+                "image": "https://cdn.abcotvs.com/dip/images/19214002_060126-kgo-anthropic-public2-img.jpg?w=1600",
+                "url": "https://abc7news.com/post/economists-say-act-now-ais-economic-impact-job-displacement-risks/19501555/",
+                "source": "ABC7 Bay Area",
+                "date": "2026-07-13T22:29:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jim Cramer says tech remains the market's best place to find big winners despite recent struggles",
+                "desc": "CNBC's Jim Cramer said tech stocks continue to offer the market's biggest upside.",
+                "image": "https://image.cnbcfm.com/api/v1/image/107109968-NUP_198430_00193r.jpg?v=1696632386&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/13/jim-cramer-tech-best-place-find-big-winners.html",
+                "source": "CNBC",
+                "date": "2026-07-13T22:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "T-Mobile Customers on Old Plans Are Being Pushed to New Ones Starting This Week",
+                "desc": "If you're on a grandfathered plan, it will soon be automatically forced onto a newer plan that could cost more.",
+                "image": "https://www.cnet.com/a/img/resize/dcb0af2dbeab1e50cb82811a9fdebc0027e82f06/hub/2025/12/11/df0ad42d-e07b-4f90-8455-619c2bcdb952/tmo-emergency-day-boc.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.cnet.com/tech/mobile/t-mobile-customers-on-old-plans-are-being-pushed-to-new-ones-starting-this-week/",
+                "source": "CNET",
+                "date": "2026-07-13T22:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Island businesses forced to 'plan around' unreliable postal service",
                 "desc": "Islanders face high postal costs and inconsistent services, according to the watchdog Consumer Scotland.",
                 "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48a0/live/42b9d230-7ee9-11f1-bee8-53ce494e1abc.jpg",
@@ -542,99 +632,99 @@
                 "source": "Travel And Tour World",
                 "date": "2026-07-13T19:33:23Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Bugatti's new Molsheim home for the Tourbillon",
-                "desc": "Bugatti has inaugurated La Manufacture in Molsheim, a purpose-built facility for the Tourbillon hypercar with capacity for up to 200 cars a year.",
-                "image": "https://www.autonext.co/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdzmtsqtky%2Fimage%2Fupload%2Fv1783971142%2Fraitklrncaorztoqnpiv.webp&w=1360&q=75",
-                "url": "https://www.autonext.co/news/bugatti-la-manufacture-molsheim-tourbillon",
-                "source": "AutoNext.co",
-                "date": "2026-07-13T19:33:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Baird International And Global Growth Funds Q2 2026 Contributors And Detractors",
-                "desc": "The Baird Chautauqua Global Growth Fund Net Investor Class returned +12.18% during the quarter, underperforming the MSCI ACWI Index® ND, which returned +14.93%.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2221411629/image_2221411629.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4921673-baird-international-global-growth-funds-q2-2026-contributors-detractors",
-                "source": "Seeking Alpha",
-                "date": "2026-07-13T19:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Recovery in Dutch commercial real estate is less robust than it appears",
-                "desc": "The outlook for Dutch commercial estate in 2026",
-                "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_2780534069.jpg",
-                "url": "https://think.ing.com/articles/recovery-dutch-commercial-real-estate-less-robust-than-it-appears/",
-                "source": "ING THINK economic and financial analysis | ING THINK",
-                "date": "2026-07-13T19:32:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New York City hydro line shutdown: Hydro-Quebec reports another cable issue",
-                "desc": "The current cable issue with the power line Champlain Hudson Power Express, which operated during New York City's recent heat wave, is unrelated to a shutdown that happened on July 1.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729765",
-                "url": "https://www.jpost.com/international/article-902411",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-13T19:32:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "De Beers to pause work at SA's largest diamond mine",
-                "desc": "De Beers is majority-owned by British mining giant Anglo American, which is seeking to offload its stake as the natural diamond market faces intense pressure from laboratory-grown gems.",
-                "image": "https://www.enca.com/sites/default/files/styles/large/public/afp/2026-07/doc-B9ZQ8T3-%40photo0.jpg.webp?itok=Zmo-Z5Db",
-                "url": "https://www.enca.com/business/de-beers-pause-work-sas-largest-diamond-mine",
-                "source": "eNCA",
-                "date": "2026-07-13T19:28:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These 9 States Could See Aurora Tonight",
-                "desc": "The northern lights may appear in some of the northernmost states Monday night.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/69d123c801c84796fec48ee5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/conormurray/2026/07/13/northern-lights-update-9-states-could-see-the-aurora-borealis-tonight/",
-                "source": "Forbes",
-                "date": "2026-07-13T19:26:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Big tech blind spots leave young men vulnerable to online sexual extortion",
-                "desc": "eSafety received more than 2000 reports of online sexual extortion in half a year, 85 per cent of them from men.",
-                "image": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/cfb26f66d1cd8a8bcebeadb232f9bdcf45e70b27",
-                "url": "https://www.smh.com.au/technology/big-tech-blind-spots-leave-young-men-vulnerable-to-online-sexual-extortion-20260713-p60eut.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-13T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2 struggling ASX shares tipped to rebound up to 15%",
-                "desc": "After falling significantly over the last few months, these ASX shares offer buy-low opportunities for investors.",
-                "image": "https://www.fool.com.au/wp-content/uploads/2022/05/Older-couple-jumps-high-and-happy-16_9-1200x675.jpg",
-                "url": "https://www.fool.com.au/2026/07/14/2-struggling-asx-shares-tipped-to-rebound-up-to-15/",
-                "source": "The Motley Fool Australia",
-                "date": "2026-07-13T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Better than the locals would have you believe",
-                "desc": "“We’re not happy until you’re not happy” is this national carrier’s supposed unofficial motto, but I found it a surprisingly easy alternative way to reach the US.",
-                "image": "https://static.ffx.io/images/$zoom_0.2446%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_159/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/d829e35bb5fdd88882f2226ec8d2a39ce0378b7d",
-                "url": "https://www.theage.com.au/traveller/reviews-and-advice/locals-think-this-airline-is-a-joke-i-laughed-only-at-the-dad-jokes-20260713-p60eui.html",
-                "source": "The Age",
-                "date": "2026-07-13T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "House That! Henley Brook $3 million 5-bed mansion is complete with huge man cave",
-                "desc": "Is this the most expensive man cave in Perth?",
-                "image": "https://images.perthnow.com.au/publication/C-22572539/d19e20a6d13649f09fe476d194eb8c3c591bf2fd-16x9-x47y78w718h404.jpg?imwidth=1200",
-                "url": "https://www.perthnow.com.au/wa/house-that-henley-brook-3-million-5-bed-mansion-is-complete-with-huge-man-cave--c-22572539",
-                "source": "PerthNow",
-                "date": "2026-07-13T19:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "ThreatLocker CEO: AI vs. AI in cybersecurity is ‘complete garbage’",
+                "desc": "As outlined in CRN, ThreatLocker CEO Danny Jenkins has strongly refuted the notion that artificial intelligence (AI) can effectively defend against AI-powered cyberattacks, calling the concept \"complete garbage.\"",
+                "image": "https://files.cyberriskalliance.com/wp-content/uploads/2026/06/AdobeStock_712166448-scaled.jpeg",
+                "url": "https://www.scworld.com/brief/threatlocker-ceo-ai-vs-ai-in-cybersecurity-is-complete-garbage",
+                "source": "SC Media",
+                "date": "2026-07-13T22:36:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy S26 Ultra users are seeing red over screen issue",
+                "desc": "Privacy Display might be to blame",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-galaxy-s26-ultra-finder-search.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-users-are-seeing-red-over-screen-issue/",
+                "source": "Android Police",
+                "date": "2026-07-13T22:30:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Queensland Manufacturing Hub to host inaugural robotics and automation industry lunch in Toowoomba",
+                "desc": "Manufacturing Queensland has announced that the Queensland Manufacturing Hub in Toowoomba will host its inaugural Robotics and Automation Industry Lunch on 22 July, bringing together manufacturers and industry representatives to discuss the adoption of robotics and automation across the sector.",
+                "image": "https://www.australianmanufacturing.com.au/wp-content/uploads/2000/04/imgpsh_fullsize_anim-1.jpg",
+                "url": "https://www.australianmanufacturing.com.au/queensland-manufacturing-hub-to-host-inaugural-robotics-and-automation-industry-lunch-in-toowoomba/",
+                "source": "Australian Manufacturing",
+                "date": "2026-07-13T22:30:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EXCLUSIVE INTERVIEW: Former Sony Veteran On Digital vs. Disc Gaming and PlayStation Stars Failure",
+                "desc": "In this exclusive interview, we catch up with an 18-year SIE veteran about digital vs. disc gaming, and why PlayStation Stars failed.",
+                "image": "https://insider-gaming.com/wp-content/uploads/2026/07/playstation-disc-digital.png",
+                "url": "https://insider-gaming.com/exclusive-interview-sony-veteran-digital-disc-gaming-playstation-stars/",
+                "source": "Insider Gaming",
+                "date": "2026-07-13T22:30:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marvo gaming mouse clicks with value",
+                "desc": "The Niro 50 combines three connection options, long battery life and a clean design at an accessible price, writes ZIANDA GOLDSTUCK.",
+                "image": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2026/07/Screenshot-2026-07-13-100726.png?resize=962%2C600&ssl=1",
+                "url": "https://gadget.co.za/marvogamingmouse21t/",
+                "source": "gadget.co.za",
+                "date": "2026-07-13T22:22:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Dell laptop with 32GB of RAM and NVIDIA graphics is just $525",
+                "desc": "Save 72% on a refurbished Dell Precision workstation with 32GB of RAM, dedicated NVIDIA graphics, and Windows 11 Pro.",
+                "image": "https://helios-i.mashable.com/imagery/articles/05XTx6NzStH9z5ygMaeNpO5/hero-image.fill.size_1200x675.v1783587335.jpg",
+                "url": "https://mashable.com/tech/july-13-dell-precision-3561-2021-15-6-laptop-i7-11800h-32gb-ram-512gb-ssd",
+                "source": "Mashable",
+                "date": "2026-07-13T22:19:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gothic 3D Collectathon 'Bobo and the Chest of Nightmares' Officially Announced for Nintendo Switch",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/zh-CN/Gothic-3D-Collectathon-Bobo-and-the-Chest-of-Nightmares-Officially-Ann",
+                "source": "Games Press",
+                "date": "2026-07-13T22:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Best Cheap SSDs for 2026",
+                "desc": "Still booting from a hard drive? Storage prices may be rising, but these budget-minded solid-state drives will give your poky PC a big speed boost. We've tested dozens; these are the best.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/guide/t/the-best-c/the-best-cheap-ssds-for-2026_4fvd.1200.jpg",
+                "url": "https://au.pcmag.com/ssds/53359/the-best-cheap-ssds",
+                "source": "PCMag Australia",
+                "date": "2026-07-13T22:17:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI Shuffles ChatGPT Apps, Kills Atlas Browser, Improves Voice",
+                "desc": "OpenAI has replaced its Mac apps with a confusing 1.45 GB amalgamation, killed its ChatGPT Atlas Web browser after less than a year, and boosted ChatGPT Voice by backing it with more capable models.",
+                "image": "https://tidbits.com/uploads/2026/07/ChatGPT-app-confusion.png",
+                "url": "https://tidbits.com/2026/07/13/openai-shuffles-chatgpt-apps-kills-atlas-browser-improves-voice/",
+                "source": "tidbits.com",
+                "date": "2026-07-13T22:15:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Health will delete your data without AI training consent",
+                "desc": "As its new redesign rolls out, Samsung Health is also forcing users into a choice – let their data be...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-watch-8-classic-20.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/13/samsung-health-ai-training-data-consent/",
+                "source": "9to5Google",
+                "date": "2026-07-13T22:15:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Apple Acquires Observability Platform Developer SigScalr",
                 "desc": "Apple acquired certain assets of SigScalr and hired certain SigScalr employees, according to acquisitions from the European Commission.",
@@ -1174,99 +1264,99 @@
                 "source": "The Next Web",
                 "date": "2026-07-13T19:38:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Pokemon Go celebrates 10 years with global festival, as fans continue to try to catch 'em all",
-                "desc": "While you're not likely to see the swarms of players you did in 2016, people around the world gathered to catch new Pokemon while spending a summer day outside with like-minded friends for the mobile game's 10th anniversary.",
-                "image": "https://i.cbc.ca/ais/23d358ba-acc6-4b73-b870-e9288938825f,1783966617154/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/entertainment/pokemon-go-10-year-annniversary-9.7268531",
-                "source": "CBC",
-                "date": "2026-07-13T19:36:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "COD Black Ops Ports On PS4 & PS5 Already Filled With Hackers",
-                "desc": "Players are hacking and cheating like its 2012 all over again",
-                "image": "https://kotaku.com/app/uploads/2024/11/0e9ee0d4258a8f30dfdd9b78d30d99ae-1200x675.jpg",
-                "url": "https://kotaku.com/black-ops-ports-on-ps4-and-ps5-are-already-filled-with-cheaters-and-hackers-2000715306",
-                "source": "Kotaku",
-                "date": "2026-07-13T19:35:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former Xbox Studio Compulsion Games Says It's Open to Collaborations",
-                "desc": "Montreal-based developer Compulsion Games, who avoided closure amidst the mass layoffs by Xbox Game Studios this month by negotiating its independence, has taken to LinkedIn to let other developers and publishers know that they are open for business – and seemingly open to working as a support studio on another team's project.",
-                "image": "https://assets-prd.ignimgs.com/2026/07/13/assets-2025-04-1744811063-southofmidnight-preview-screenshot-24-hazel-bottetree-1783969538698.png?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/former-xbox-studio-compulsion-games-says-its-open-to-collaborations",
-                "source": "IGN",
-                "date": "2026-07-13T19:24:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World’s First Superconducting Quantum Heat Engine Offers Path To Larger Quantum Computers",
-                "desc": "Recent improvements in our understanding of how the principles of thermodynamics apply in the quantum realm could give a boost to quantum technology, and a",
-                "image": "https://www.eurasiareview.com/wp-content/uploads/2026/07/a-101.jpg",
-                "url": "https://www.eurasiareview.com/13072026-worlds-first-superconducting-quantum-heat-engine-offers-path-to-larger-quantum-computers/",
-                "source": "Eurasia Review",
-                "date": "2026-07-13T19:21:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LG claims that you can improve your aim by up to 38% by playing on a 480Hz OLED monitor",
-                "desc": "LG claims its 480Hz OLED gaming monitors can boost hit accuracy by 38% over 60Hz, but it's also LG telling you to buy their monitors.",
-                "image": "https://static.tweaktown.com/news/1/1/112607_1_lg-claims-that-you-can-improve-your-aim-by-up-to-38-playing-on-480hz-oled-monitor_full.png",
-                "url": "https://www.tweaktown.com/news/112607/lg-claims-that-you-can-improve-your-aim-by-up-to-38-percent-by-playing-on-a-480hz-oled-monitor/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-13T19:20:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New imaging method reveals how electric fields reshape ferroelectric materials",
-                "desc": "New research is shedding light on longstanding debates over the behavior of ferroelectric materials when those materials are exposed to electric fields. The findings stem from the use of a novel technique that allows researchers to observe the real-time behavior of domain walls in ferroelectric materials as they are \"poled\" and \"depoled.\"",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-technique-sheds-li.jpg",
-                "url": "https://phys.org/news/2026-07-imaging-method-reveals-electric-fields.html",
-                "source": "Phys.org",
-                "date": "2026-07-13T19:20:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Android Auto's biggest update of the year is finally rolling out",
-                "desc": "Immersive Navigation is finally reaching your car. Here's what it can do for you.",
-                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/2026/07/android-auto-google-maps-immersive-navigation.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.pocket-lint.com/android-auto-immersive-navigation/",
-                "source": "Pocket-lint",
-                "date": "2026-07-13T19:00:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Best Amazfit Watches for Every Kind of Person",
-                "desc": "This budget brand is seriously starting to impress me.",
-                "image": "https://sm.lifehacker.com/t/lifehacker_au/feature/t/the-best-a/the-best-amazfit-watches-for-every-kind-of-person_2hjz.1200.jpg",
-                "url": "https://au.lifehacker.com/fitness/119049/the-best-amazfit-watches-for-every-kind-of-person",
-                "source": "Lifehacker",
-                "date": "2026-07-13T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Big tech blind spots leave young men vulnerable to online sexual extortion",
-                "desc": "eSafety received more than 2000 reports of online sexual extortion in half a year, 85 per cent of them from men.",
-                "image": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/cfb26f66d1cd8a8bcebeadb232f9bdcf45e70b27",
-                "url": "https://www.smh.com.au/technology/big-tech-blind-spots-leave-young-men-vulnerable-to-online-sexual-extortion-20260713-p60eut.html",
-                "source": "SMH.com.au",
-                "date": "2026-07-13T19:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Soundcore headphones for back to school - my top picks from $20",
-                "desc": "From earbuds to over-the-ear headphones with built-in ANC, here are the Anker Soundcore headphones that provide the biggest bang for your buck.",
-                "image": "https://cdn.mos.cms.futurecdn.net/WmQqPhYBoWdHRhq87Bc2g5-2000-80.jpg",
-                "url": "https://www.tomsguide.com/audio/soundcore-headphones-for-back-to-school-my-top-picks-from-usd20",
-                "source": "Tom's Guide",
-                "date": "2026-07-13T18:56:05Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "School Farms Boost Food Security In Kenya's Drylands",
+                "desc": "Kenya, 9th June 2026: At Inaarok Lukuny Comprehensive School in Kenya's Kajiado County, pupil enrolment has more than doubled over the past year,",
+                "image": "https://panafricanvisions.com/wp-content/uploads/2026/07/farm-1.jpg",
+                "url": "https://panafricanvisions.com/2026/07/school-farms-boost-food-security-in-kenyas-drylands/",
+                "source": "pan african visions",
+                "date": "2026-07-13T22:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
+                "desc": "South Carolina governor chooses Darline Graham Nordone to serve the rest of the late US senator’s term until early 2027.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26194738229031-1783977708.jpg?resize=1200%2C675",
+                "url": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate",
+                "source": "Al Jazeera",
+                "date": "2026-07-13T22:36:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Architecture Festival: Explore the shortlisted finalists for 2026",
+                "desc": "Bustler is all about architecture and architecture-related competitions and events.",
+                "image": "https://archinect.gumlet.io/uploads/pi/pi3qoihuc1b43z0l.jpg?fit=crop&auto=compress%2Cformat&w=1200",
+                "url": "https://bustler.net/news/11072/world-architecture-festival-explore-the-shortlisted-finalists-for-2026",
+                "source": "Bustler: Architecture",
+                "date": "2026-07-13T22:35:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia news LIVE: US to ‘guard’ Strait of Hormuz as ceasefire with Iran collapses; PM to deliver major speech on AI",
+                "desc": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+                "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/0d4baaef99c182c7f7ec519681c4f8e2d1d0647a",
+                "url": "https://www.smh.com.au/national/australia-news-live-us-iran-ceasefire-crumbles-most-want-house-prices-to-drop-20260714-p60f0w.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-13T22:34:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Turkey Publishes Full List of 8 Countries Whose Citizens Are Allowed to Enter With Expired Passports",
+                "desc": "Turkey has announced the only eight countries whose citizens can gain entry with their expired passports. The conditions for entry were also explained.",
+                "image": "https://cdn.legit.ng/images/1200x675/8eb0af53678a0cff.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1719132-turkey-citizens-8-countries-enter-expired-passports/",
+                "source": "Legit.ng",
+                "date": "2026-07-13T22:34:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spain Alongside Italy, Greece, Indonesia and More Face the Overtourism Crisis as Popular Travel Destinations Battle Crowded Streets, Rising Costs and the Fight for Sustainable Tourism in 2026: All You",
+                "desc": "Spain, Italy, Greece and Indonesia face growing tourism backlash as popular destinations tackle overcrowding, housing pressure and sustainability.",
+                "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/high-level-description-a-four-panel-edit_iW1ivYj7XDqFnYxfxq6Irw_vsLj8z5qS0K24oC0D7oO-Q_cover_hd-1-1.jpg",
+                "url": "https://www.travelandtourworld.com/news/article/mtzaqrqyqrl0/",
+                "source": "Travel And Tour World",
+                "date": "2026-07-13T22:33:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICE agents shoot and kill Colombian motorist in Maine",
+                "desc": "A federal immigration officer has fatally shot a motorist in Maine, the second time in a week that US Immigration and Customs Enforcement agents have used deadly force.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/4735f7376b1e5f3a9711db167dfda62a?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-14/ice-shoot-and-kill-colombian-motorist-in-maine/106911958",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-13T22:30:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bangkok bar fire: Thai band recount deadly blaze",
+                "desc": "Thai bandmates share harrowing accounts of the deadly Bangkok bar fire that claimed at least 32 lives, including two of their own. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7ce594b5337a4b28c968aee6438c9a022f7e29d504d5d74906ddb67ea1c0e84a",
+                "url": "https://www.straitstimes.com/asia/se-asia/thai-bandmates-recount-chaos-of-deadly-bangkok-bar-fire-as-death-toll-rises-to-at-least-32",
+                "source": "The Straits Times",
+                "date": "2026-07-13T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Clearest Lakes in the World Ranked by Visibility",
+                "desc": "Lake visibility measures how far light travels in water before being obscured by particles or organisms, with rankings based on documented measurements.",
+                "image": "https://www.worldatlas.com/r/w1200-q80/upload/0f/32/d1/istock-1094741786-s3cdn.jpg",
+                "url": "https://www.worldatlas.com/lakes/the-clearest-lakes-in-the-world-ranked-by-visibility.html",
+                "source": "WorldAtlas",
+                "date": "2026-07-13T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iranian Army delivers crushing blows: US terror bases in Kuwait turned into infernos",
+                "desc": "The Iranian Army has delivered another powerful blow to the US occupation forces in the region, turning American bases into infernos of their own making.",
+                "image": "https://cdn.presstv.ir/Photo/2026/7/13/f4811671-dfe2-423a-afd5-ead2033c3d30.jpg",
+                "url": "https://www.presstv.ir/Detail/2026/07/13/772194/Iranian-Army-delivers-crushing-blows--US-terror-bases-in-Kuwait-turned-into-infernos",
+                "source": "PressTV",
+                "date": "2026-07-13T22:28:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Will Manila and Hanoi’s maritime deal challenge Beijing in the South China Sea?",
                 "desc": "A new cooperation agreement chips away at China’s bilateral negotiation tactic, but experts say its value is mostly symbolic.",
@@ -1806,98 +1896,8 @@
                 "source": "The Guardian",
                 "date": "2026-07-13T18:49:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Archaeologists discover hidden underground chamber beneath Emperor Hadrian's villa in Italy that could be the site's oldest structure",
-                "desc": "Science News: Archaeologists have uncovered a hidden underground chamber beneath Hadrian's Villa in Tivoli, Italy, in a discovery that could reshape historians' und.",
-                "image": "https://static.toiimg.com/thumb/msid-132375168,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/science/archaeologists-discover-hidden-underground-chamber-beneath-emperor-hadrians-villa-in-italy-that-could-be-the-sites-oldest-structure/articleshow/132375123.cms",
-                "source": "The Times of India",
-                "date": "2026-07-13T18:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK Publishes Full List of People Who Can Apply for its Global Talent Visa, Explains Conditions",
-                "desc": "The UK government has explained the categories of people who are eligible to apply for its Global Talent visa. The requirements and conditions were also listed.",
-                "image": "https://cdn.legit.ng/images/1200x675/46a0fb8d403f1c65.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1719113-uk-publishes-full-list-people-apply-global-talent-visa/",
-                "source": "Legit.ng",
-                "date": "2026-07-13T18:41:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Saudi Arabia intercepts Houthi ballistic missiles launched towards Abha airport",
-                "desc": "There have been no reports of casualties or damage from the apparent missile strikes.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/686572",
-                "url": "https://www.jpost.com/middle-east/article-902397",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-13T18:40:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spain Confirms Only 8 African Countries Have Visa",
-                "desc": "Spain has published its 2026 entry requirements. Discover the only 8 countries that qualify for visa-free access and the Schengen visa rules for the rest of Africa.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/c160cdfa6e894737.jpeg?v=1",
-                "url": "https://yen.com.gh/world/europe/307815-spain-confirms-8-african-countries-visa-free-entry-2026/",
-                "source": "Yen News",
-                "date": "2026-07-13T18:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israel courted Iran’s former hardline president for post-regime role, reports claim",
-                "desc": "Mahmoud Ahmadinejad reportedly wooed by Mossad agents after distancing himself from Khamenei",
-                "image": "https://i.guim.co.uk/img/media/50e2cb44405c83a70144f43b91a6edaf74d8dc50/108_602_3448_2758/master/3448.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e89405b92cc9e82dd12039b54d6267bb",
-                "url": "https://www.theguardian.com/world/2026/jul/13/israel-courted-mahmoud-ahmadinejad-iran-former-hardline-president-post-regime-role-reports-claim",
-                "source": "The Guardian",
-                "date": "2026-07-13T18:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ceasefire disintegrates as Trump says US will reinstate blockade of Iranian ships in Strait of Hormuz",
-                "desc": "Regional tensions are ramping up as US strikes reach farther inland and Iran-backed Houthis accuse Saudi Arabia of airport attack. Follow for live news updates.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-13t034404z-15392971-rc2rcmaab9qi-rtrmadp-3-iran-crisis.JPG?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/13/world/live-news/iran-war-trump",
-                "source": "CNN",
-                "date": "2026-07-13T18:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "“Keep this beautiful tradition alive,” Catholic Bishop Praises Choirs for Sustaining Hope amid South Sudan's Conflict",
-                "desc": "The Bishop of the Catholic Diocese of Tombura-Yambio in South Sudan has encouraged Church choir members to preserve their ministry of music, saying their service has long been a source of unity, peace, and hope, especially during times of conflict.",
-                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-07-13t212656_1783967227.jpg?w=1200&format=jpeg",
-                "url": "https://www.aciafrica.org/news/22917/keep-this-beautiful-tradition-alive-catholic-bishop-praises-choirs-for-sustaining-hope-amid-south-sudans-conflict",
-                "source": "ACI Africa",
-                "date": "2026-07-13T18:32:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US judge nullifies Trump deal to resolve IRS lawsuit in scathing ruling",
-                "desc": "Kathleen Williams sanctions president’s lawyers and says $10bn suit against IRS was brought for ‘improper purpose’",
-                "image": "https://i.guim.co.uk/img/media/f346bdab2e33d96fcf1fb777fdaa6831234c4b7b/8_406_2221_1777/master/2221.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61bab645c1df947ab1a17c10b434bd36",
-                "url": "https://www.theguardian.com/us-news/2026/jul/13/trump-irs-ruling-judge-kathleen-williams",
-                "source": "The Guardian",
-                "date": "2026-07-13T18:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bison tossing man 8 feet in air at Yellowstone National Park caught on video",
-                "desc": "In the video of the attack, taken by photographer Mike MacLeod, the bull bison appears to be agitated and roaming around the campground before it charges at the man.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/07/bison-attack-yellowstone-national-park-video.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/11963456/bison-tosses-man-in-air-yellowstone-national-park-video/",
-                "source": "Global News",
-                "date": "2026-07-13T18:27:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Judge voids Donald Trump's 'improper' $1.8b IRS settlement that gave him immunity from tax audits",
-                "desc": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/468c/live/a01b76f0-7ede-11f1-84b4-d5196cc76857.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego",
-                "source": "BBC",
-                "date": "2026-07-13T18:25:39Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-14T10:00:30.538800Z"
+    "lastGlobalSync": "2026-07-14T10:40:21.532247Z"
 }
