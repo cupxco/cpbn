@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Hyperliquid plans to introduce decentralized prediction markets in HIP",
+                "desc": "Permissionless prediction markets will be available first on testnet and later on mainnet, Hyperliquid said.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe40a8bc86378b21cc13a4982e5041c0a41305c0-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+                "url": "https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4",
+                "source": "CoinDesk",
+                "date": "2026-07-20T10:06:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Top CD rates from major banks July 20, 2026: Chase CDs, Bank of America CDs, Citibank CDs, and more",
+                "desc": "A deposit account at a bank you already recognize can be a safe way to earn interest on your money.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Big-Bank-CD-Rates-July-20.jpg?resize=1200,600",
+                "url": "https://fortune.com/article/major-bank-cd-rates-07-20-2026/",
+                "source": "Fortune",
+                "date": "2026-07-20T10:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AWS Releases Loom, an Open-Source Reference Platform for Governing AI Agents at Enterprise Scale",
+                "desc": "AWS released Loom, an open-source reference platform on AWS Labs for governing AI agents at scale. Built on Strands Agents and Bedrock AgentCore Runtime, it implements RFC 8693 token exchange for iden",
+                "image": "https://res.infoq.com/news/2026/07/loom-aws-agent-platform/en/headerimage/generatedHeaderImage-1784031634775.jpg",
+                "url": "https://www.infoq.com/news/2026/07/loom-aws-agent-platform/",
+                "source": "infoq.com",
+                "date": "2026-07-20T10:04:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MTAR Tech falls over 30% in one month: Analysts suggest trading levels for multi-bagger stock",
+                "desc": "MTAR Tech stock witnessed a sharp rally earlier this year as investors increasingly viewed the company as part of the AI infra supply chain.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260708091630_stock_market_Sensex-Nifty.jpg",
+                "url": "https://www.moneycontrol.com/news/business/markets/mtar-tech-fell-30-in-one-month-where-can-one-buy-stock-with-a-long-term-view-13978555.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-20T10:04:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Your Camera, Their Rights: What a Nigerian Court Ruling Means for Event Organisers in Ghana",
+                "desc": "Attending an event is not consent . Appearing in footage is not endorsement . And a notice on a wall is not a lawful basis for processing personal data .",
+                "image": "https://cdn.modernghana.com/images/content/720202680815-0g830m4yxt-camera.png",
+                "url": "https://www.modernghana.com/news/1511991/your-camera-their-rights-what-a-nigerian-court.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-20T10:03:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU slaps €550 million fine on AliExpress over illegal and counterfeit goods",
+                "desc": "The EU’s crackdown on Chinese online marketplaces is accelerating, with aggressive compliance checks and increased charges for imports into the bloc from fast-fashion sites like Temu and Shein.",
+                "image": "https://images.euronews.com/articles/stories/09/84/41/75/1200x675_cmsv2_17cdb153-7d2d-5582-85a3-fc0e756cc053-9844175.jpg",
+                "url": "https://www.euronews.com/my-europe/2026/07/20/eu-slaps-550-million-fine-on-aliexpress-over-illegal-and-counterfeit-goods",
+                "source": "Euronews.com",
+                "date": "2026-07-20T10:03:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This manufacturing industry insider thinks U.S. will soften on CUSMA",
+                "desc": "Managing director of Marsh Risk Canada has an intimate view of what industry is seeing and he feels bullish on U.S.-Canada trade.",
+                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/autos-1.jpg",
+                "url": "https://nationalpost.com/news/why-this-manufacturing-industry-insider-thinks-the-u-s-will-soon-come-around-on-cusma",
+                "source": "National Post",
+                "date": "2026-07-20T10:03:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Staying Ahead of Viral Evolution: Q&A with Robert Allen, Ph.D",
+                "desc": "Robert Allen, Ph.D., Chief Scientific Officer, outlines how the company's Invymab platform uses viral surveillance and predictive modeling to design monoclonal antibodies against likely future variants rather than current strains.",
+                "image": "https://cdn.sanity.io/images/0vv8moc6/pharmexec/6b9ebd52c9828fed8109a8ca390311bc9c03bcf9-1280x720.jpg",
+                "url": "https://www.pharmexec.com/view/staying-ahead-viral-evolution-qa-robert-allen-phd",
+                "source": "Pharmaceutical Executive",
+                "date": "2026-07-20T10:03:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "One year on, Trump tariffs continue battering Japan automakers",
+                "desc": "In fiscal 2025, which ended in March this year, combined costs from the Trump tariffs at six major Japanese automakers, including industry leader Toyota, exceeded ¥2.4 trillion.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/20/552642.JPG?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/20/trump-tariffs-japan-automakers/",
+                "source": "The Japan Times",
+                "date": "2026-07-20T10:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How big should your pension pot be?",
+                "desc": "‘The real question is whether someone knows what income they personally need in retirement, based on their lifestyle’",
+                "image": "https://www.irishtimes.com/resizer/v2/5VW2E7QWFVEHDGVLLVASX6G6BQ.jpg?smart=true&auth=b0e518e5daf1c5ed6b000cf4a71aca8a4790ade5325549f169cf56b19327aa57&width=1200&height=630",
+                "url": "https://www.irishtimes.com/business/2026/07/20/how-big-should-your-pension-pot-be/",
+                "source": "The Irish Times",
+                "date": "2026-07-20T10:02:17Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Oil prices rise as fighting between US and Iran intensifies",
                 "desc": "Oil prices rose on Monday morning as fighting between the US and Iran intensified, fuelling concerns over disruptions to energy shipments through the Strait of Hormuz.",
                 "image": "https://images.euronews.com/articles/stories/09/83/68/49/1200x675_cmsv2_42b58e04-f90c-5dd1-8873-b96fac9efb9d-9836849.jpg",
@@ -542,99 +632,99 @@
                 "source": "RNZ",
                 "date": "2026-07-19T23:08:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Community Trust Bancorp (CTBI) Looks Fairly Priced Following Strong Q2 Results And Analyst Upgrade",
-                "desc": "Community Trust Bancorp (CTBI) is back on investors’ radar after reporting second quarter results that included higher net interest income, net income, and earnings per share, followed shortly by an analyst upgrade.\nSee our latest analysis for Community Trust Bancorp.\nAt a share price of $74.93, Community Trust Bancorp has pulled back 2.66% over the last day but still carries strong momentum, with a 30 day share price return of 9.63%, a year to date share price return of 32.82%, and a 5 year...",
-                "image": "https://images.simplywall.st/asset/industry/7013000-choice1-main-header/1585186561056",
-                "url": "https://simplywall.st/stocks/us/banks/nasdaq-ctbi/community-trust-bancorp/news/community-trust-bancorp-ctbi-looks-fairly-priced-following-s",
-                "source": "simplywall.st",
-                "date": "2026-07-19T20:21:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Workers will be worse off under new Leave Bill, Labour and Greens say",
-                "desc": "The Employment Leave Bill promotes insecure work and will leave thousands of workers worse off, the Labour Party and the Greens say.",
-                "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/sick_leave.jpg?itok=R4RbiLTg",
-                "url": "https://www.odt.co.nz/news/national/workers-will-be-worse-under-new-leave-bill-labour-and-greens-say-rnz",
-                "source": "Otago Daily Times",
-                "date": "2026-07-19T20:20:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Phillips Edison (PECO) Could Be 2% Overvalued On Strong Retail REIT Leasing Trends",
-                "desc": "Recent commentary on retail REITs has put Phillips Edison (PECO) in focus, as strong leasing demand and limited new supply draw attention to its grocery anchored shopping centers and leasing portfolio.\nSee our latest analysis for Phillips Edison.\nFor context, Phillips Edison’s 1 month share price return of 8.16% and year to date share price return of 24.78% point to building momentum, while the 1 year total shareholder return of 30.48% and 5 year total shareholder return of 85.68% suggest...",
-                "image": "https://images.simplywall.st/asset/industry/9551736-choice2-main-header/1585186602415",
-                "url": "https://simplywall.st/stocks/us/real-estate/nasdaq-peco/phillips-edison/news/phillips-edison-peco-could-be-2-overvalued-on-strong-retail",
-                "source": "simplywall.st",
-                "date": "2026-07-19T20:19:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold (XAUUSD) Price Forecast: Gold Consolidates as Oil Clouds Fed Outlook",
-                "desc": "Gold price is consolidating as traders assess whether rising oil prices will lift inflation, reshape Fed policy, and determine the next gold breakout.",
-                "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/3Gold-Coins-1.jpg?func=cover&q=70&width=1201",
-                "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-price-forecast-gold-consolidates-as-oil-clouds-fed-outlook-1611389",
-                "source": "FXEmpire",
-                "date": "2026-07-19T20:17:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Calls to improve pedestrian safety in Victoria after increase in deaths",
-                "desc": "Pedestrian group Victoria Walks wants $150 million spent over four years to install or upgrade crossings, so people can safely cross the road.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/61878d7fb9683fd3217c75561e85615e?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=78&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-20/push-to-improve-pedestrian-safety-road-crossings-footpaths-vic/106928628",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-19T20:14:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NZ parties want to make rooftop solar more affordable. We found cost isn't everything",
-                "desc": "Analysis: Rooftop solar has emerged as one of the more unexpected policy contests of New Zealand's election campaign.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--Jg4roiLl--/t_tohu-badge-facebook/f_auto/q_auto/4JP1WCG_solar_power_03_jpg",
-                "url": "https://www.rnz.co.nz/news/politics/748082/nz-parties-want-to-make-rooftop-solar-more-affordable-we-found-cost-isn-t-everything",
-                "source": "RNZ",
-                "date": "2026-07-19T20:13:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Samsung Layoffs in the U.S. Show Smartphone Arm's Struggles, Even as It Profits Massively From AI",
-                "desc": "Roughly 839 Samsung employees are losing their jobs in the U.S.",
-                "image": "https://gizmodo.com/app/uploads/2026/07/samsung-nyc-1200x675.jpg",
-                "url": "https://gizmodo.com/new-samsung-layoffs-in-the-u-s-show-smartphone-arms-struggles-even-as-it-profits-massively-from-ai-2000787512",
-                "source": "Gizmodo",
-                "date": "2026-07-19T20:11:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New trial of AI-powered traffic lights will be a test for who gets priority on public roads",
-                "desc": "Australia’s first AI traffic-light trial could cut delays. It also raises hard questions about fairness, safety and who gets priority on public roads.",
-                "image": "https://images.theconversation.com/files/747683/original/file-20260714-78-3yugzy.jpg?ixlib=rb-4.1.1&rect=0%2C108%2C4898%2C2449&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/new-trial-of-ai-powered-traffic-lights-will-be-a-test-for-who-gets-priority-on-public-roads-287193",
-                "source": "The Conversation",
-                "date": "2026-07-19T20:05:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Not just the shipyards: Inchcape cashes in on Korea's maritime surge",
-                "desc": "Inchcape Shipping Services is expanding in Korea as rising naval port calls, defense activity and the shipbuilding boom fuel double-digit growth. The British port agency says Korea has become a key market for naval support, offshore projects and shipyard business.",
-                "image": "https://image.koreajoongangdaily.com/12778207.jpg?imageId=12778207&x=22.91&y=13.96&cropw=72.29&croph=46.07&panox=22.91&panoy=13.96&panow=72.29&panoh=46.07&width=1200&height=683",
-                "url": "https://www.koreajoongangdaily.com/business/not-just-the-shipyards-inchcape-cashes-in-on-koreas-maritime-surge/12776425",
-                "source": "Korea JoongAng Daily",
-                "date": "2026-07-19T20:02:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bray-Greystones cliff walk barriers have injured more people than the landslides have, TD says",
-                "desc": "Local Sinn Féin TD John Brady said that people have received “serious injuries” while climbing the barricades, including one man who he said was impaled.",
-                "image": "https://img2.thejournal.ie/article/7101340/river/?height=400&version=7102387",
-                "url": "https://www.thejournal.ie/bray-greystones-cliff-walk-closure-7101340-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-19T20:01:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+                "desc": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates.",
+                "image": "https://www.bleepstatic.com/content/hl-images/2026/07/20/DELL.jpg",
+                "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+                "source": "BleepingComputer",
+                "date": "2026-07-20T10:06:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Polestar 2 used buying guide: 400 miles of range for £20k",
+                "desc": "Polestar's first EV, the 2, is Scandi-cool on wheels and now a £12k bargain",
+                "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/1-polestar-2-fd-2026-me-15.jpg",
+                "url": "https://www.autocar.co.uk/car-news/features/polestar-2-used-buying-guide-400-miles-range-%C2%A320k",
+                "source": "Autocar",
+                "date": "2026-07-20T10:05:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xiaomi Redmi Watch 6 Lite leaks with AMOLED and GPS for €60",
+                "desc": "The Xiaomi Redmi Watch 6 Lite and the Redmi Watch 6 Active have been revealed ahead of time thanks to a major leak. The base model, featuring an AMOLED display, 140 sport modes, and a battery life of several weeks, is expected to cost just €50 ($57).",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-Redmi-Watch-6-Lite.jpg",
+                "url": "https://www.notebookcheck.net/Xiaomi-Redmi-Watch-6-Lite-leaks-with-AMOLED-and-GPS-for-EUR60.1347096.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-20T10:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oppo A7 Pro Max is coming soon with a 10,000mAh battery",
+                "desc": "It is tipped to sport a 6.78-inch AMOLED display. A new leak suggests Oppo is gearing up to launch its A7 series of smartphones. The leak also reveals the...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/oppo-a7-pro-max-specs-leak/-952x498w6/gsmarena_00.jpg",
+                "url": "https://www.gsmarena.com/oppo_a7_pro_max_is_coming_soon_with_a_10000mah_battery-news-73790.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-20T10:04:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BBC chef announces permanent closure of 5-star restaurant as it ‘no longer feels like the right choice’",
+                "desc": "A TV chef has announced the shock closure of his five-star restaurant at an iconic UK market.\nIt comes after the restaurateur said renewing the...",
+                "image": "https://www.thesun.co.uk/wp-content/uploads/2026/06/sorry-closed-sign-store-window-952169835_4765f9.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.co.uk/money/39812439/bbc-chef-closing-restaurant-philip-juma-kitchen-borough-market/",
+                "source": "The Sun",
+                "date": "2026-07-20T10:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 Officially Reveals Its 2026 Revenue Expectations",
+                "desc": "An official statement reveals how much Take-Two and Rockstar Games expect to earn from Grand Theft Auto 6's imminent 2026 release.",
+                "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/07/grand-theft-auto-6-official-sale-revenue-expectation-gamerant.jpg?w=1600&h=900&fit=crop",
+                "url": "https://gamerant.com/gta-6-official-revenue-statement/",
+                "source": "GameRant",
+                "date": "2026-07-20T10:00:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Pixel 11 Pro's LED lights are a brilliant Android throwback",
+                "desc": "Google's finally teased the Pixel 11 Pro's new Pixel Glow feature. It reminds me a lot of old-school notification LEDs — in a good way.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-google-store-teaser.jpg",
+                "url": "https://www.androidauthority.com/pixel-11-pro-pixel-glow-throwback-3688717/",
+                "source": "Android Authority",
+                "date": "2026-07-20T10:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Recent Release, \"Mudd,\" from Fulton Books Author Scott Tomer, Invites Young Readers to Imagine a World Beyond the Ordinary & Discover What Lies Beyond Familiar Boundaries",
+                "desc": "Scott Tomer has completed a new book, called, &quot;Mudd,&quot; a children's adventure that opens in a peculiar world where everything&mdash;clothing,...",
+                "image": "https://img.pr.com/o1200/release/2607/518317/pressrelease_518317_1783977767.jpeg",
+                "url": "https://www.pr.com/press-release/973653",
+                "source": "PR.com",
+                "date": "2026-07-20T10:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Recent Release, \"The Phoenician Messenger,\" from Fulton Books Author Dan Bentley",
+                "desc": "Dan Bentley-Baker has completed a new book, &quot;The Phoenician Messenger,&quot; which weaves together three distinct narratives spanning from the first...",
+                "image": "https://img.pr.com/o1200/release/2607/518317/pressrelease_518317_1783977864.jpeg",
+                "url": "https://www.pr.com/press-release/973654",
+                "source": "PR.com",
+                "date": "2026-07-20T10:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This $46 Million Toilet Startup Is Betting Smart Seats Can Be A Billion-Dollar Business",
+                "desc": "Medical tech company Casana raised $46 million to launch a toilet seat that monitors your health. Their goal? Make sittables the next wearables.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a5d3eb481bb3c99c4438ae5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/alexyork/2026/07/20/this-46-million-toilet-startup-is-betting-smart-seats-can-be-a-billion-dollar-business/",
+                "source": "Forbes",
+                "date": "2026-07-20T10:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Railway Dispatch Strategy Game \"The next train is\" Joins Steam Train Fest 2026 with Major Localization Update",
                 "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
@@ -1174,99 +1264,99 @@
                 "source": "Memeburn",
                 "date": "2026-07-19T22:48:46Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Sunday Reboot: Shrinking models and an on-device AI future",
-                "desc": "In this week's Sunday Reboot, Apple's AI model-shrinking talk could have massive benefits, with a chance of also being a billion-dollar deal if it plays its cards right.",
-                "image": "https://photos5.appleinsider.com/gallery/68289-143946-57996-118130-000-lede-Siri-2-xl-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/19/sunday-reboot-shrinking-models-and-an-on-device-ai-future",
-                "source": "AppleInsider",
-                "date": "2026-07-19T20:12:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Apple's scrapped Mac Pro plans reportedly included a new Intel model",
-                "desc": "A new report reveals Apple developed two unreleased Mac Pro models before discontinuing the line, including one powered by Intel.",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/mac-pro-rip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/07/19/apples-scrapped-mac-pro-plans-reportedly-included-an-intel-model/",
-                "source": "9to5Mac",
-                "date": "2026-07-19T20:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "11 Of The Best Apple Watch Cases You Can Buy On Amazon",
-                "desc": "Durable, stylish, and highly rated by Amazon shoppers, these Apple Watch cases will protect your device from scratches, drops, and everyday wear.",
-                "image": "https://www.bgr.com/img/gallery/11-of-the-best-apple-watch-cases-you-can-buy-on-amazon/l-intro-1783953259.jpg",
-                "url": "https://www.bgr.com/2213609/best-apple-watch-cases-buy-amazon/",
-                "source": "bgr.com",
-                "date": "2026-07-19T20:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Phantom Twist drone spins so quickly that it virtually disappears",
-                "desc": "The Phantom Twist drone spins so quickly that motion blur turns it into a faint haze, making it 10 times less visible than a quadcopter.",
-                "image": "https://www.thebrighterside.news/uploads/2026/07/drone-1.jpg?auto=webp",
-                "url": "https://www.thebrighterside.news/post/new-phantom-twist-drone-spins-so-quickly-that-it-virtually-disappears/",
-                "source": "The Brighter Side of News",
-                "date": "2026-07-19T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Automated Pressure Advance Using A Bed-Leveling Sensor",
-                "desc": "One of the most crucial aspects of FDM 3D printing is ensuring sufficient material is extruded. Determining the right flow rate can be done manually, but some printers these days automatically perform...",
-                "image": "https://hackaday.com/wp-content/uploads/2026/07/pressure_advance_k-value_cnckitchen_youtube.jpg",
-                "url": "https://hackaday.com/2026/07/19/automated-pressure-advance-using-a-bed-leveling-sensor/",
-                "source": "Hackaday",
-                "date": "2026-07-19T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Maps is getting a major visual upgrade which will transform how you use it and it's already hitting Android Auto",
-                "desc": "Google rolling out a major update for Google Maps and Android Auto but, for a technical reason, updating the app won't be enough and we may need some patience",
-                "image": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Google-Maps-12.webp",
-                "url": "https://supercarblondie.com/google-maps-android-auto-update/",
-                "source": "supercarblondie.com",
-                "date": "2026-07-19T19:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "They've travelled 12,000kms to Australia - and probably not for the reason you think",
-                "desc": "They've spent thousands and flown across the globe — all to watch a newly released film at a unique Melbourne cinema.",
-                "image": "https://assets.sbs.com.au/dims4/default/262aa3f/2147483647/strip/true/crop/2048x1152+0+107/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F2f%2F63%2F118d4ca847a39830ef522aca8cfa%2F2026-07-08-imax-the-odyssey-10-39-dsc-9910-imax-the-odyssey-pic-eugene-hyland.jpg",
-                "url": "https://www.sbs.com.au/news/article/theyve-travelled-12-000kms-to-australia-and-probably-not-for-the-reason-you-think/mssw0p5tl",
-                "source": "SBS",
-                "date": "2026-07-19T19:40:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Says More Exclusives Are Coming But Tells Players Not to 'Overly Fixate on Single-Player' Games",
-                "desc": "\"...it certainly isn't something that's carved in stone.\"",
-                "image": "https://sm.ign.com/t/ign_ap/news/x/xbox-says-/xbox-says-more-exclusives-are-coming-but-tells-players-not-t_5pv3.1200.jpg",
-                "url": "https://sea.ign.com/clockwork-revolution/245654/xbox-says-more-exclusives-are-coming-but-tells-players-not-to-overly-fixate-on-single-player-games",
-                "source": "IGN Southeast Asia",
-                "date": "2026-07-19T19:39:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Black Flag Resynced New Game+ & Features to Be Added",
-                "desc": "AC Black Flag Resynced's director pleasds fans to still play game when GTA 6 is released, confirms New Game+ and other features to be added.",
-                "image": "https://mp1st.com/wp-content/uploads/2026/07/assassins-creed-black-flag-resynced-img4.jpg",
-                "url": "https://mp1st.com/news/assassins-creed-black-flag-resynced-director-fans-please-play-game-when-gta-is-out-confirms-new-game-new-features",
-                "source": "MP1st",
-                "date": "2026-07-19T19:39:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Says More Exclusives Are Coming But Tells Players Not to 'Overly Fixate on Single-Player' Games",
-                "desc": "\"...it certainly isn't something that's carved in stone.\"",
-                "image": "https://sm.ign.com/t/ign_pk/news/x/xbox-says-/xbox-says-more-exclusives-are-coming-but-tells-players-not-t_5r4k.1200.jpg",
-                "url": "https://pk.ign.com/clockwork-revolution/258048/xbox-says-more-exclusives-are-coming-but-tells-players-not-to-overly-fixate-on-single-player-games",
-                "source": "IGN Pakistan",
-                "date": "2026-07-19T19:34:27Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "UK to get new prime minister as Trump slams Britain as 'Poverty Stricken Disaster'",
+                "desc": "The prospect of Burnham, considered more left-leaning than Starmer, replacing the incumbent prime minister sent jitters through bond markets earlier this year.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108324907-1782141968433-gettyimages-2282767586-3b9a9028_7vj5npod.jpeg?v=1782141991&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/20/uk-prime-minister-burnham-trump-poverty-stricken-disaster.html",
+                "source": "CNBC",
+                "date": "2026-07-20T10:06:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mudavadi to youth: Irresponsible social media use will cost you openings abroad",
+                "desc": "He highlighted that digital footprint is becoming a key consideration in international vetting processes",
+                "image": "https://cdn.radioafrica.digital/image/2026/07/9c454e32-daa3-4831-b995-46a846577b97.webp?1784556127676",
+                "url": "https://www.the-star.co.ke/news/2026-07-20-mudavadi-social-media-misuse-will-cost-youth",
+                "source": "the-star.co.ke",
+                "date": "2026-07-20T10:05:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. and Iran launch new strikes after 3 U.S. service members are killed",
+                "desc": "The U.S. attacks were the ninth consecutive day of bombing since peace talks between the two countries collapsed in dispute over a memorandum of understanding focused on the Strait of Hormuz.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F7a%2F84f0432e44dcae6c76f2d2a80990%2Fgettyimages-2286118100.jpg",
+                "url": "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates",
+                "source": "NPR",
+                "date": "2026-07-20T10:04:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Supermarket at Gurney Drive mall shut over hygiene breach",
+                "desc": "Penang health committee chairman Daniel Gooi says hygiene violations were uncovered during a routine inspection at the outlet.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/2283e431-notis-penutupan-premis-penang-fb-200726.webp",
+                "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/20/supermarket-at-gurney-drive-mall-shut-over-hygiene-breach",
+                "source": "Free Malaysia Today",
+                "date": "2026-07-20T10:04:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa's Shield In A More Lawless World",
+                "desc": "John Rawls rsquo;s ldquo;veil of ignorance rdquo; remains one of the clearest tests of justice .",
+                "image": "https://cdn.modernghana.com/images/content/7202026101553-0e72xljwwr-africa-shield.jpg",
+                "url": "https://www.modernghana.com/news/1512001/africas-shield-in-a-more-lawless-world.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-20T10:03:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Madagascar's wave of disappearances exposes 'deeper institutional failings'",
+                "desc": "So far this year, Malagasy police have recorded 172 reports of disappearances, including of 91 children, with numbers rising sharply since late June .",
+                "image": "https://cdn.modernghana.com/images/content/7202026113607-l5grj7u3i1-000-78wu2ee.jpg",
+                "url": "https://www.modernghana.com/news/1512019/madagascars-wave-of-disappearances-exposes-deepe.html",
+                "source": "Modern Ghana",
+                "date": "2026-07-20T10:03:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Putin Needs a New Escalation: Lithuanian Defense Minister Warns of Risks of Russian Provocations in the Baltic States",
+                "desc": "In an interview with LRT radio, Kaunas noted that the war is not developing according to the scenario that the Kremlin expected. According to him, Russia has failed to achieve its goals in Ukraine, and within the country itself, the number of",
+                "image": "https://news.inbox.eu/w/img/fe/2a/fe2a6b457afed4f339.webp",
+                "url": "https://news.inbox.eu/150iz8w-putin-needs-a-new-escalation-lithuanian-defense-minister-warns-of-risks-of-russian-provocations-in-the-baltic-states?language=en",
+                "source": "Inbox.eu",
+                "date": "2026-07-20T10:03:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eight die at preacher Chris Ndikumana's gathering",
+                "desc": "A wall at the exit gate collapsed as many people jostled to leave the venue at night, police say.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f511/live/4b91a760-8421-11f1-8aab-7b42b0ff0499.jpg",
+                "url": "https://www.bbc.com/news/articles/c4g3702rrxno",
+                "source": "BBC",
+                "date": "2026-07-20T10:02:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wildfire Smoke Can Attack Almost Every Part of Your Body - Not Just Your Lungs",
+                "desc": "This past week, a child stood on the observation deck of Toronto's CN Tower and looked out at a city skyline blurred by haze.",
+                "image": "https://www.sciencealert.com/images/2026/07/Child-looks-out-from-the-CN-Tower.jpg",
+                "url": "https://www.sciencealert.com/wildfire-smoke-can-attack-almost-every-part-of-your-body-not-just-your-lungs",
+                "source": "ScienceAlert",
+                "date": "2026-07-20T10:02:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Study in Luxembourg Without IELTS 2026-2027: Top Scholarships for International Students",
+                "desc": "Luxembourg is becoming an increasingly attractive study destination for international students seeking high-quality education in Europe at an affordable cost.",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/1e7f6029-72ce-4f1d-95c7-454c2eeafe59.jpeg",
+                "url": "https://www.globalsouthopportunities.com/2026/07/20/luxembourg-2/",
+                "source": "Global South Opportunities",
+                "date": "2026-07-20T10:02:38Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
                 "desc": "President Trump has vowed to avenge the deaths of any U.S. military personnel.",
@@ -1806,98 +1896,8 @@
                 "source": "NewsNation",
                 "date": "2026-07-19T23:15:50Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Carney attends World Cup final alongside Trump, Sheinbaum",
-                "desc": "Prime Minister Mark Carney watched the World Cup final from a glassed-in suite alongside his wife and U.S. President Donald Trump",
-                "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/07/19/CP176642429-e1784492930581.jpg",
-                "url": "https://toronto.citynews.ca/2026/07/19/carney-attends-world-cup-final-alongside-trump/",
-                "source": "CityNews Toronto",
-                "date": "2026-07-19T20:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "At least 6 people killed, hundreds displaced after earthquake rocks Peru",
-                "desc": "A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday. More than 30 people were injured and 300 have been displaced.",
-                "image": "https://i.cbc.ca/ais/0e8f3a41-22d5-457a-8964-851cdf127b92,1784484613815/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C27%2C3681%2C2070%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/earthquake-peru-9.7275896",
-                "source": "CBC",
-                "date": "2026-07-19T20:25:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zohran Mamdani's \"God-Tier\" Pivot During A Podcast Interview Is Going Viral",
-                "desc": "\"This man has God-tier message discipline.\"",
-                "image": "https://s.yimg.com/lo/mysterio/api/e7371b5053e4b6a01e1fe1ce2131f5b65c9a320bae44040dab2e461f10c7f58c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2Fb08879d41cbff9d5c066b9f413464bce",
-                "url": "https://sg.news.yahoo.com/zohran-mamdanis-god-tier-pivot-202358097.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAALplUOzoOOYWcLiP_ATjp4DGBDPGm6S2numSeyWPU9hQv9r1pNRIjUZCF7CqemhZgOSOuoEWPzC2U9HVoXal98O5Taaf5VNNn4L9gQwa988dDYHLAZ_Z6Z3WB5cAA6MoDMMgM8m3w7lRWMJ_H4fF4XDn2houtmkViW_KwZR7e0Jl&_guc_consent_skip=1784495136",
-                "source": "Yahoo News Singapore",
-                "date": "2026-07-19T20:23:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stellenbosch University leads child TB meningitis study",
-                "desc": "The PRECISE-TBM initiative brings together experts from Africa and Europe.",
-                "image": "https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/06/unspash.jpg",
-                "url": "https://www.sabcnews.com/sabcnews/stellenbosch-university-leads-child-tb-meningitis-study/",
-                "source": "SABC News",
-                "date": "2026-07-19T20:23:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
-                "desc": "US military says service member was killed in Iraq during ‘controlled detonation’ as it launches more airstrikes at Iran",
-                "image": "https://i.guim.co.uk/img/media/fb61b9a7e4d16751023a88709c029c2926baedbf/533_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72bfafcd13bc114d8bb383214d9ec603",
-                "url": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
-                "source": "The Guardian",
-                "date": "2026-07-19T20:17:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Andy Burnham’s in-tray: The challenges facing the new UK PM",
-                "desc": "Andy Burnham will become Britain’s next prime minister on Monday, with huge challenges and opportunities.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a5d16db77651-1784485595.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm",
-                "source": "Al Jazeera",
-                "date": "2026-07-19T20:16:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Twin earthquakes strike Peru killing at least five",
-                "desc": "Peruvian authorities say the magnitude 5.1 and 3.7 quakes were in the mountainous Junin region east of Lima.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5d15f1000c-1784485361.jpg?resize=1920%2C1402",
-                "url": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five",
-                "source": "Al Jazeera",
-                "date": "2026-07-19T20:16:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran war LIVE updates: US service member killed in Iraq, Israel’s warning to Iran",
-                "desc": "A service member was killed during a controlled detonation of a downed Iranian drone, CENTCOM says.",
-                "image": "https://static.ffx.io/images/$zoom_0.4288%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_852%2C$y_258/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/c7c59b56cd7ee1f1198211f65f4ec12dcf574d6e93bfec3cf413bb3ea40cdd73",
-                "url": "https://www.nine.com.au/world-news/iran-war-live-updates-us-announces-death-of-military-service-member-20260720-p60goi.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-19T20:15:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Free Countries 2026: Full List of Nations That Can Enter Without a Visa",
-                "desc": "Romania now allows visa-free entry for nationals from over 60 countries under Regulation EU 1806/2018, including conditions for Canadians, Japanese, and Americans.",
-                "image": "https://cdn.legit.ng/images/1200x675/711d262827840b2e.jpeg?v=1",
-                "url": "https://www.legit.ng/world/europe/1720223-romania-visa-free-countries-2026-full-list-nations-enter-a-visa/",
-                "source": "Legit.ng",
-                "date": "2026-07-19T20:10:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN & Business Leaders Call for Stronger Collaboration as Companies Race to Deliver on SDGs",
-                "desc": "Business leaders and the UN Global Compact are urging stronger partnerships to accelerate the Sustainable Development Goals before the 2030 deadline. Business leaders and the UN Global Compact are urging stronger partnerships to accelerate the Sustainable Development Goals before the 2030 deadline.",
-                "image": "https://www.fairplaytalks.com/wp-content/uploads/2020/08/CEO-survey-main.jpg",
-                "url": "https://www.fairplaytalks.com/2026/07/19/un-business-leaders-call-for-stronger-collaboration-as-companies-race-to-deliver-on-sdgs/",
-                "source": "Fair Play Talks",
-                "date": "2026-07-19T20:04:42Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-20T20:54:02.733757Z"
+    "lastGlobalSync": "2026-07-20T22:07:03.148691Z"
 }
