@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "3D-printed battery developed by Belfast researchers could help tackle climate crisis",
+                "desc": "Researchers at Queen’s University have developed a ‘potential game changer’ battery that uses iron rather than lithium",
+                "image": "https://www.irishtimes.com/resizer/v2/ACOWCRCAORAGVL6SS52SXB657E.jpeg?smart=true&auth=5dd15b378fae8c51e749390eb8f47a7cb72d3ad54b4a04be2d8a1c95589cd111&width=1200&height=630",
+                "url": "https://www.irishtimes.com/environment/2026/07/20/3d-printed-battery-developed-by-belfast-researchers-could-help-tackle-climate-crisis/",
+                "source": "The Irish Times",
+                "date": "2026-07-20T19:37:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Preventing Aerospace IP Leaks with Dual Compliance Across the OEM Design Life Cycle",
+                "desc": "As aerospace manufacturers improve physical quality controls, they must also protect the engineering data that defines each component.",
+                "image": "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2026/07/6a5e768abac876f1cc3dbca3-dreamstime_l_182070612.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+                "url": "https://www.machinedesign.com/cad-cam-software/article/55392179/preventing-aerospace-ip-leaks-with-dual-compliance-across-the-oem-design-life-cycle",
+                "source": "Machine Design",
+                "date": "2026-07-20T19:37:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 things to watch on the ASX 200 on Tuesday",
+                "desc": "Santos Ltd (ASX: STO) and Regis Resources Ltd (ASX: RRL) shares will be on watch on the ASX 200 on Tuesday...",
+                "image": "https://www.fool.com.au/wp-content/uploads/2021/11/what-to-watch4-16.9-1200x675.jpg",
+                "url": "https://www.fool.com.au/2026/07/21/5-things-to-watch-on-the-asx-200-on-tuesday-21-july-2026/",
+                "source": "The Motley Fool Australia",
+                "date": "2026-07-20T19:34:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI is scared of open-weight models. Should the US be?",
+                "desc": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+                "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+                "source": "TechCrunch",
+                "date": "2026-07-20T19:33:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philippines office market sees strategic shifts, rising rental demand into 2026",
+                "desc": "PROPERTY developers in the Philippine office market have become more strategic during the first half of 2026. Many have chosen to prioritize addressing their current vacancies before embarking on new projects. The IT-BPM companies, still the market’s main driver, are eyeing other cities beyond Cebu, Davao and Pampanga as they consider expansion outside Metro Manila. The flexible workspace sector is growing as companies opt for more hybrid or remote work arrangements.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/21/1143060.jpg",
+                "url": "https://www.manilatimes.net/2026/07/21/business/real-estate-and-property/philippines-office-market-sees-strategic-shifts-rising-rental-demand-into-2026/2387939",
+                "source": "The Manila Times",
+                "date": "2026-07-20T19:33:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NUPRC to hold commercial bid conference for 50 oil, gas blocks",
+                "desc": "The commission said the commercial evaluation would be based on key bid parameters, including the signature bonus, work programme commitment and commitment to performance security.",
+                "image": "https://media.premiumtimesng.com/wp-content/files/2023/05/Nigerian-Upstream-Petroleum-Regulatory-Commission-NUPRC.jpg",
+                "url": "https://www.premiumtimesng.com/business/business-news/896888-nuprc-to-hold-commercial-bid-conference-for-50-oil-gas-blocks.html",
+                "source": "Premium Times Nigeria",
+                "date": "2026-07-20T19:29:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "B.C. announces when driver's licence changes come into effect",
+                "desc": "B.C. has announced when the major changes to the driver licence program in the province will come into effect.",
+                "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/07/bc-driver-licence.jpg?format=auto",
+                "url": "https://dailyhive.com/vancouver/bc-drivers-licence-changes",
+                "source": "Daily Hive",
+                "date": "2026-07-20T19:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Court Backs FCCPC’s Oversight Of Airtime Lending",
+                "desc": "Court Backs FCCPC’s Oversight Of Airtime Lending",
+                "image": "https://www.channelstv.com/wp-content/uploads/2024/09/FCCPC.jpg",
+                "url": "https://www.channelstv.com/2026/07/20/court-backs-fccpcs-oversight-of-airtime-lending/",
+                "source": "Channels Television",
+                "date": "2026-07-20T19:28:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Megaworld starts construction of Paragua Sands Hotel in Palawan's Paragua Coastown",
+                "desc": "PROPERTY giant Megaworld has officially started the construction of the 313-room Paragua Sands Hotel, one of its two hotels being built inside the 462-hectare Paragua Coastown township in San Vicente, Palawan.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/21/1143065.jpeg",
+                "url": "https://www.manilatimes.net/2026/07/21/business/real-estate-and-property/megaworld-starts-construction-of-paragua-sands-hotel-in-palawans-paragua-coastown/2387937",
+                "source": "The Manila Times",
+                "date": "2026-07-20T19:26:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "XRPPower Launches Free AI-Powered Smart App, Providing Passive Asset Growth Solutions for Global Financial Users",
+                "desc": "SINGAPORE, July 20, 2026 (GLOBE NEWSWIRE) -- XRPPower today announced the launch of its free AI-powered smart application, providing users worldwide with access to AI-driven financial tools designed to simplify digital asset management and support long-term financial planning. The launch reflects the company's commitment to making advanced financial technology more accessible through intelligent automation and an intuitive user experience.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/21/1144114.jpg",
+                "url": "https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/xrppower-launches-free-ai-powered-smart-app-providing-passive-asset-growth-solutions-for-global-financial-users/2387936",
+                "source": "The Manila Times",
+                "date": "2026-07-20T19:19:46Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Inflation expected to hit a two-year high",
                 "desc": "Economists are expecting the annual rate to touch at least 4% in the 12 months ended June from 3.1% in the March quarter.",
                 "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/cost-of-living-file-image-4CX3JOTILRHF5L7PUXK7CGTJII.jpg?auth=e457598ac4a2baf0f3129400f70dc5878685ebffb95f9fe4d5524ac1568d6027&quality=70&width=600&height=315&focal=1912%2C893",
@@ -542,99 +632,99 @@
                 "source": "Euronews.com",
                 "date": "2026-07-20T07:12:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Chocolate Master Ryan Stevenson named as official Callebaut Ambassador in South Pacific, Australia.",
-                "desc": "Internationally acclaimed Chocolatier to lead Callebaut's renewed engagement with the chocolate and pastry community across Australia and New Zealand",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/20/1142813.jpg",
-                "url": "https://www.manilatimes.net/2026/07/20/tmt-newswire/pr-newswire/chocolate-master-ryan-stevenson-named-as-official-callebaut-ambassador-in-south-pacific-australia/2387266",
-                "source": "The Manila Times",
-                "date": "2026-07-20T05:09:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fostering new opportunities in the Greater Bay Area and Asia's Pharmaceutical Industry",
-                "desc": "SHANGHAI, July 20, 2026 /PRNewswire/ -- Following the landmark success of CPHI & PMEC China in June 2026, which welcomed an unprecedented gathering of industry professionals and fostered pivotal connections across the pharmaceutical supply chain, attention now shifts to South China. Building on this momentum, CPHI & PMEC Shenzhen 2026 will take place from 16-18 September 2026 at Shenzhen Convention & Exhibition Center (SZCEC), addressing the growing demand for access to South China's key pharmaceutical markets.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/20/1142811.jpg",
-                "url": "https://www.manilatimes.net/2026/07/20/tmt-newswire/pr-newswire/fostering-new-opportunities-in-the-greater-bay-area-and-asias-pharmaceutical-industry/2387265",
-                "source": "The Manila Times",
-                "date": "2026-07-20T05:09:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 Omoda C7 previewed in Malaysia again - CKD; launch in Q3; 1.6T, 7DCT; 2WD and AWD variants?",
-                "desc": "At Omoda | Jaecoo Malaysia’s second anniversary celebration, the company once again previewed the Omoda C7 ahead of the SUV’s eventual launch. To get you up to speed with the C7, here’s a brief recap. …",
-                "image": "https://paultan.org/image/2026/07/2026-Omoda-C7-CKD-preview-Malaysia-1-1200x750.jpg",
-                "url": "https://paultan.org/2026/07/20/2026-omoda-c7-previewed-in-malaysia-again/",
-                "source": "Paul Tan",
-                "date": "2026-07-20T05:06:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aktsiaselts Infortar own share acquisition transactions",
-                "desc": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 13 July - 17 July 2026 as follows:",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/20/1142808.png",
-                "url": "https://www.manilatimes.net/2026/07/20/tmt-newswire/globenewswire/aktsiaselts-infortar-own-share-acquisition-transactions/2387263",
-                "source": "The Manila Times",
-                "date": "2026-07-20T05:04:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Insider Spends kr993k Buying More Shares In Viaplay Group",
-                "desc": "Investors who take an interest in Viaplay Group AB (publ) ( STO:VPLAY B ) should definitely note that the Executive VP...",
-                "image": "https://images.simplywall.st/asset/industry/4312000-choice1-main-header/1585186618222",
-                "url": "https://simplywall.st/stocks/se/media/sto-vplay-b/viaplay-group-shares/news/insider-spends-kr993k-buying-more-shares-in-viaplay-group",
-                "source": "simplywall.st",
-                "date": "2026-07-20T05:04:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rs 91,000 crore wipeout: What spooked HDFC Bank, Axis Bank and Kotak investors even as credit growth picked up?",
-                "desc": "Nearly Rs 91,000 crore was wiped off the market value of HDFC Bank, Axis Bank and Kotak Mahindra Bank as stronger credit growth failed to offset concerns over shrinking net interest margins, weaker CASA deposits and leadership uncertainty. ICICI Bank bucked the trend, supported by resilient profitability and balanced loan growth.",
-                "image": "https://img.etimg.com/thumb/msid-132506468,width-1200,height-630,imgsize-2126024,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-91000-crore-wipeout-what-spooked-hdfc-bank-axis-bank-and-kotak-investors-even-as-credit-growth-picked-up/articleshow/132506463.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-20T05:04:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cornwall care agency collapses and 'rebrands' leaving massive tax debt",
-                "desc": "The boss laid off staff and told people the name change was part of a 'rebrand' - no mention of debt or insolvency of the debts, which are also owed to staff and other businesses",
-                "image": "https://i2-prod.cornwalllive.com/article11063488.ece/ALTERNATES/s1200d/0_LL_DCM160726-SynergyJPG.jpg",
-                "url": "https://www.cornwalllive.com/news/cornwall-news/cornwall-care-agency-collapses-rebrands-11063428",
-                "source": "Cornwall Live",
-                "date": "2026-07-20T05:04:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil Rises as US-Iran Attacks Escalate, Bonds Fall: Markets Wrap",
-                "desc": "(Bloomberg) -- Oil climbed to the highest level in more than a month and bonds fell as US and Iranian attacks escalated, renewing inflation concerns. Stocks edged up after a technology-led selloff rattled markets last week.",
-                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1765874455",
-                "url": "https://www.swissinfo.ch/eng/oil-rises-as-us-iran-attacks-escalate%2C-bonds-fall%3A-markets-wrap/91769164",
-                "source": "SWI swissinfo.ch",
-                "date": "2026-07-20T05:03:44Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Developers seek further tax breaks to boost home building",
-                "desc": "State must tap international investors for housing cash, lobby group also says",
-                "image": "https://www.irishtimes.com/resizer/v2/YJN34FXU4FFOLO6U4ZW3EE2ROQ.jpg?smart=true&auth=7ec54c860c7d5e5069c7caca76f21365be46e7061860e9f75db086f2b5c0c38b&width=1200&height=630",
-                "url": "https://www.irishtimes.com/business/2026/07/20/developers-seek-further-tax-breaks-to-boost-home-building/",
-                "source": "The Irish Times",
-                "date": "2026-07-20T05:03:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Safaricom Helps Keep Your M-PESA Account Secure",
-                "desc": "Learn how Safaricom helps keep your M-PESA account secure with PIN protection, stronger authentication, SIM safeguards and fraud prevention tips.",
-                "image": "https://techtrendske.co.ke/wp-content/uploads/2025/11/upgraded-M-PESA-platform.jpg",
-                "url": "https://techtrendske.co.ke/2026/07/20/safaricom-keep-your-m-pesa-account-secure/",
-                "source": "TechTrendsKE",
-                "date": "2026-07-20T05:02:20Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Best Buy's Top Back-to-School Deals on Tech From HP, Lenovo, and More",
+                "desc": "While it's still summer, back-to-school season is coming up faster than you think. Here are the A+ deals from Best Buy to make sure you (or your kids) ace the school year.",
+                "image": "https://i.pcmag.com/imagery/articles/05sC29tUskPWmDPeHRkZcKC-4.fit_lim.size_1200x630.v1784567222.png",
+                "url": "https://www.pcmag.com/deals/best-best-buy-back-to-school-deals-2026",
+                "source": "PCMag",
+                "date": "2026-07-20T19:36:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WhatsApp begins rolling out Liquid Glass revamp to its Mac app",
+                "desc": "WhatsApp is now rolling out its Liquid Glass redesign to the Mac app, bringing it in line with the iPhone and iPad versions.",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-macos-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/20/whatsapp-rolling-out-liquid-glass-revamp-to-its-mac-app/",
+                "source": "9to5Mac",
+                "date": "2026-07-20T19:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Valve suggests memory crisis is \"still getting worse,\" admitting, \"we're limited by memory capacity, for sure\"",
+                "desc": "Steam Machine developer and gaming giant Valve has admitted that sourcing memory and storage supply for the Steam Machi…",
+                "image": "https://assetsio.gnwcdn.com/Steam-Machine-(3).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/valve-suggests-memory-crisis-is-still-getting-worse-admitting-were-limited-by-memory-capacity-for-sure",
+                "source": "GamesIndustry.biz",
+                "date": "2026-07-20T19:31:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung unveils tandem OLED display for laptops that can reach 1,600 nits peak brightness",
+                "desc": "The display is one of the first to carry the brand new DisplayHDR True Black 1400 certification from VESA and Lenovo already sells a laptop with it.",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-tandem-oled-display-for-laptops/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/samsung_unveils_tandem_oled_display_for_laptops_that_can_reach_1600_nits_peak_brightness-news-73799.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-20T19:31:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Plurality in iOS 27 beta code may not be iPhone Fold hints",
+                "desc": "Code references in the iOS 27 developer betas mention an iPhone using multiple batteries. This could be related to the iPhone Fold, but it may have a more pedestrian explanation.",
+                "image": "https://photos5.appleinsider.com/gallery/68304-143970-68214-143793-000-lead-iPhone-Fold-d2-xl-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/07/20/plurality-in-ios-27-beta-code-may-be-red-herring-not-iphone-fold-hints",
+                "source": "AppleInsider",
+                "date": "2026-07-20T19:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Link’s Leaked Cinematic May Have Clues For KH4",
+                "desc": "Kingdom Hearts: Missing-Link may not be coming out, but its leaked cinematic may hint at stories yet to come",
+                "image": "https://kotaku.com/app/uploads/2024/01/7b193ae53bb84e5f400dafa274dcfafa.jpg",
+                "url": "https://kotaku.com/kingdom-hearts-missing-link-cinematic-leak-kh4-iv-sigurd-2000717735",
+                "source": "Kotaku",
+                "date": "2026-07-20T19:30:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Redditor builds his own PS4 handheld, the 'PS4P' has a 1080p screen and a cooling fan from a GTX 750",
+                "desc": "A Reddit modder shrank their DIY PS4 handheld even further for round two, this time borrowing a GTX 750 cooling fan to keep things running.",
+                "image": "https://static.tweaktown.com/news/1/1/112717_1_redditor-builds-his-own-ps4-handheld-the-ps4p-has-1080p-screen-and-cooling-fan-from-gtx-750_full.png",
+                "url": "https://www.tweaktown.com/news/112717/redditor-builds-his-own-ps4-handheld-the-ps4p-has-a-1080p-screen-and-a-cooling-fan-from-a-gtx-750/index.html",
+                "source": "TweakTown",
+                "date": "2026-07-20T19:30:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oral Drug Maintains Cancer Treatment Amid Low Platelets",
+                "desc": "In a phase 2 trial of patients with gastrointestinal cancers, avatrombopag helped 70% of those receiving chemotherapy to stay on treatment schedule",
+                "image": "https://cdn1.miragenews.com/tmp_cache?cdn=cdn.pixabay.com%2Fphoto%2F2014%2F12%2F10%2F20%2F48%2Flaboratory-563423_960_720.jpg",
+                "url": "https://www.miragenews.com/oral-drug-maintains-cancer-treatment-amid-low-1713055/",
+                "source": "Mirage News",
+                "date": "2026-07-20T19:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ubisoft teases Ghost Recon news soon after leaks",
+                "desc": "Fans will have to wait for official word on a Ghost Recon Wildlands definitive edition and the reveal of Project OVR.",
+                "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19548989/apps.27106.69102537558414061.4d1172aa_a5b5_4d6b_a965_d003b94564cb.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.polygon.com/ghost-recon-teases-25th-anniversary-news-as-leaks-keep-poppin-gup/",
+                "source": "Polygon.com",
+                "date": "2026-07-20T19:27:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Seeds Fourth visionOS 27 Beta to Developers",
+                "desc": "Apple today provided developers with the fourth beta of an upcoming visionOS 27 update for testing purposes, with the beta coming two weeks after Apple released the third beta. visionOS 27 can be installed by opening the Settings app, going to Software Updates, and opting into Beta Updates. visionOS 27 introduces Siri AI, the smarter and more capable version of Siri that's similar in capability to chatbots like ChatGPT and Claude.",
+                "image": "https://images.macrumors.com/t/HnbWdb1qxI6-t6aIEmt9atRqLGg=/1600x/article-new/2026/06/curved_windows_visionos-27.jpg",
+                "url": "https://www.macrumors.com/2026/07/20/apple-seeds-visionos-27-beta-4/",
+                "source": "MacRumors",
+                "date": "2026-07-20T19:24:17Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Modern Warfare 4: Open Beta, NEXT, Fanatics Fest, & Serialized Camo",
                 "desc": "Relive Modern Warfare® 4 at Fanatics Fest, get Open Beta and Call of Duty®: NEXT intel, plus Nintendo® Switch 2 pre-order details and a first-of-its-kind Serialized Weapon Camo pre-order challenge.",
@@ -1174,99 +1264,99 @@
                 "source": "What Hi-Fi?",
                 "date": "2026-07-20T07:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Xiaomi 18 series may launch by December in India, Pro Max tipped to replace Ultra",
-                "desc": "Xiaomi 18 series is tipped to launch in India this December with Xiaomi 18, 18 Pro and 18 Pro Max, replacing the expected Ultra model.",
-                "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Xiaomi-18-render.jpg",
-                "url": "https://www.gizmochina.com/2026/07/20/xiaomi-18-series-india-launch-december-18-pro-max-leak/",
-                "source": "Gizmochina",
-                "date": "2026-07-20T05:08:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brainstore Publishes 'I Really Want to Work in Games,' a Career Guide for Aspiring Game Industry Professionals",
-                "desc": "Source: Brainstore ©BrainstoreBrainstore, the publisher behind professional career guides for job seekers such as 'I Really Want to Work in Soccer' and 'I Really Want to Work ...",
-                "image": "https://static.invenglobal.com/upload/image/2026/07/20/r1784523620762306.jpeg",
-                "url": "https://www.invenglobal.com/articles/23950/brainstore-publishes-i-really-want-to-work-in-games-a-career-guide-for-aspiring-game-industry-professionals",
-                "source": "Inven Global",
-                "date": "2026-07-20T05:05:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cardle of the Day - Monday 20 July 2026",
-                "desc": "Monday's Cardle puzzle served up one of Britain's most divisive sports cars — and it took until clue five to seal the deal.",
-                "image": "https://media.tarmaclife.co.nz/uploads/2026/07/cardle-6c22681a13-2.webp",
-                "url": "https://www.tarmaclife.co.nz/news/cardle-of-the-day-monday-20-july-2026/",
-                "source": "Tarmac Life",
-                "date": "2026-07-20T05:03:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Fitbit Air fitness tracker review: lightweight, affordable and screen",
-                "desc": "Seven-day battery life and subscription-free option are among the key selling points",
-                "image": "https://i2-prod.irishmirror.ie/article37451568.ece/ALTERNATES/s1200d/0_Obsidian-Dance.png",
-                "url": "https://www.irishmirror.ie/affiliates/google-fitbit-air-fitness-tracker-37451557",
-                "source": "Irish Mirror",
-                "date": "2026-07-20T05:03:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Leaftronics: greener electronics learnt from leaves",
-                "desc": "Hans Kleeman describes how inspiration from leaves will enable a new generation of sustainable, biodegradable electronics.",
-                "image": "https://www.advancedsciencenews.com/wp-content/uploads/2026/07/Kleemann_BW-1024x683-crop.jpg",
-                "url": "https://www.advancedsciencenews.com/leaftronics-greener-electronics-learnt-from-leaves/",
-                "source": "Advanced Science News",
-                "date": "2026-07-20T05:02:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This unscented face wash is the solution to suncream",
-                "desc": "Enter Eucerin DermoPure Clinical Purifying Cleanser, a gentle but effective face wash that whips suncreams right off.",
-                "image": "https://www.yaycork.ie/wp-content/uploads/2026/07/This-unscented-face-wash-is-the-solution-to-suncream-induced-spot-outbreaks.jpg",
-                "url": "https://www.yaycork.ie/this-unscented-face-wash-is-the-solution-to-suncream-induced-spot-outbreaks/",
-                "source": "Yay Cork",
-                "date": "2026-07-20T05:01:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Edward Carson attacks David Lloyd George over US newspaper articles: On This Day in 1926",
-                "desc": "Carson and Lloyd George - July 20 1926",
-                "image": "https://www.irishnews.com/resizer/v2/CMJHUEKPSBG7NNNWRORWOLW3CE?smart=true&auth=893dccc811c4a417298530edd3a0dce870c96cc01bfe95858a2874532357dca3&width=1200&height=630",
-                "url": "https://www.irishnews.com/news/northern-ireland/edward-carson-attacks-david-lloyd-george-over-us-newspaper-articles-on-this-day-in-1926-33J73JG4ZBAWRKIBSLNRXDIYTE/",
-                "source": "The Irish News",
-                "date": "2026-07-20T05:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Workaway trip to build a festival in Belgium: ‘I was beginning to think this trip was a mistake’",
-                "desc": "I wanted to escape life in London, so I volunteered to help build a music festival in the Belgian countryside. Was it the right call?",
-                "image": "https://www.irishtimes.com/resizer/v2/2GZPFVI2ONHTBMXP2MSFKOV3Y4.jpeg?smart=true&auth=4b8fe28c32beb41573319566d87d7014baf106253c14c115df3009f0870cdd95&width=1200&height=630",
-                "url": "https://www.irishtimes.com/life-style/travel/2026/07/20/a-workaway-trip-to-build-a-festival-in-belgium-i-was-beginning-to-think-this-trip-was-a-mistake/",
-                "source": "The Irish Times",
-                "date": "2026-07-20T04:58:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple raises iCloud+ prices in the Philippines",
-                "desc": "If you're paying for iCloud services, get ready for a slight price hike. Apple has increased iCloud+ subscription prices in the Philippines and seven other...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/20/117337.webp",
-                "url": "https://mb.com.ph/2026/07/20/apple-raises-icloud-prices-in-the-philippines",
-                "source": "Manila Bulletin",
-                "date": "2026-07-20T04:57:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AMD 'Medusa Point' APU benchmarks show that Zen 6 is impressively fast in a mobile chip",
-                "desc": "A new benchmark result for an upcoming Zen 6 10-core 'Medusa Point' processor points to impressive performance for AMD's next-gen Ryzen tech.",
-                "image": "https://static.tweaktown.com/news/1/1/112702_2_amd-medusa-point-apu-benchmarks-show-that-zen-6-is-impressively-fast-in-mobile-chip_full.jpg",
-                "url": "https://www.tweaktown.com/news/112702/amd-medusa-point-apu-benchmarks-show-that-zen-6-is-impressively-fast-in-a-mobile-chip/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-20T04:56:08Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Chancellor John Healey will be under pressure to deliver for armed forces",
+                "desc": "Prime Minister Andy Burnham's new chancellor of the exchequer resigned as defence secretary last month following a row over military spending.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f6b8/live/ee038e10-8470-11f1-b286-f1d324aa6c22.jpg",
+                "url": "https://www.bbc.com/news/articles/cjej92vgxkvo",
+                "source": "BBC",
+                "date": "2026-07-20T19:36:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google gains 14 Shopping ad markets but bans medicine ads across all 14",
+                "desc": "Bulgaria, Serbia, Malta and 11 more markets open to merchants, while OTC and prescription drug listings stay blocked across all 14 new territories added now.",
+                "image": "https://ppc.land/content/images/size/w1200/2026/07/listings.webp",
+                "url": "https://ppc.land/google-gains-14-shopping-ad-markets-but-bans-medicine-ads-across-all-14/",
+                "source": "PPC Land",
+                "date": "2026-07-20T19:36:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran War Live Updates: U.S. and Iran Trade Attacks, After Killing of U.S. Soldiers",
+                "desc": "The move against Saudi ships will add new pressure on energy markets. Tehran said it had received new proposals from mediators.",
+                "image": "https://static01.nyt.com/images/2026/07/20/multimedia/20mideast-live-promo-2PMEST-clkh/20mideast-live-promo-2PMEST-clkh-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz",
+                "source": "The New York Times",
+                "date": "2026-07-20T19:28:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump breaks silence on New York mayor’s move to arrest Netanyahu in the US",
+                "desc": "United States President Donald Trump has declared that Israeli Prime Minister Benjamin Netanyahu will.....",
+                "image": "https://tribuneonlineng.com/wp-content/uploads/2026/03/Netanyahu-AND-Trump.jpg",
+                "url": "https://tribuneonlineng.com/trump-breaks-silence-on-new-york-mayors-move-to-arrest-netanyahu-in-the-us/",
+                "source": "Tribune Online",
+                "date": "2026-07-20T19:25:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Breakfast briefing: War and debt stresses grow",
+                "desc": "US leading indicators turn down; Big Tech debt in focus; Canada inflation eases; China rates hold but cuts expected; some big countries have big currency issues; UST 10yr at 4.60%; gold dips; oil rises; NZ$1 = 58.5 USc; TWI-5 = 62.3",
+                "image": "https://www.interest.co.nz/sites/default/files/2022-01/Breakfast1_Loop.gif",
+                "url": "https://www.interest.co.nz/economy/139457/us-leading-indicators-turn-down-big-tech-debt-focus-canada-inflation-eases-china",
+                "source": "Interest.co.nz",
+                "date": "2026-07-20T19:19:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Judit Polgar, Tapped As Next President Of Hungary, Declines",
+                "desc": "Chess legend Judit Polgar was invited by PM Peter Magyar to become Hungary's next president.",
+                "image": "https://images.chesscomfiles.com/uploads/v1/news/2090869.b4602e4f.5000x5000o.a2e7f2ea7f7f.jpg",
+                "url": "https://www.chess.com/news/view/judit-polgar-declines-president-of-hungary",
+                "source": "Chess.com",
+                "date": "2026-07-20T19:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Senegal’s President Bassirou Faye takes charge of ECOWAS as bloc faces security and unity challenges",
+                "desc": "Senegalese President Bassirou Diomaye Faye takes over the rotating chairmanship of ECOWAS as the regional bloc faces rising insecurity, member withdrawals.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-20-182424.webp",
+                "url": "https://eastleighvoice.co.ke/africa/381287/senegals-president-bassirou-faye-takes-charge-of-ecowas-as-bloc-faces-security-and-unity-challenges",
+                "source": "The Eastleigh Voice",
+                "date": "2026-07-20T19:10:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ghanaian Woman Arrested by Nigerian Military Over Links to Terrorists",
+                "desc": "The Nigerian Army arrested a 36-year-old, Mary Florence, a Ghanaian national, during a counter-terrorism operation in Borno State on July 19, 2026.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/21525afc01578b89.jpeg?v=1",
+                "url": "https://yen.com.gh/ghana/308295-ghanaian-woman-arrested-by-nigerian-military-links-terrorists/",
+                "source": "Yen News",
+                "date": "2026-07-20T19:08:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tate brothers appear in US federal court to begin extradition hearings",
+                "desc": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6301/live/65d8f040-848c-11f1-b976-0b9c15b0ccfc.jpg",
+                "url": "https://www.bbc.com/news/articles/c6294y87wk6o",
+                "source": "BBC",
+                "date": "2026-07-20T19:05:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man, 28, charged with murder of Ann Widdecombe",
+                "desc": "Joshua Kerry from Rotherham will appear at Westminster Magistrates' Court on Tuesday.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8039/live/fa3e3230-8456-11f1-8cf4-43aed99842b4.png",
+                "url": "https://www.bbc.com/news/articles/cn4n2erympvo",
+                "source": "BBC",
+                "date": "2026-07-20T19:02:04Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "International Travel Is Still Growing, But Is It Becoming Unaffordable What Higher Airfares, Accommodation Inflation and Reduced Airline Capacity Mean for Tourists Planning Holidays in 2026: All You N",
                 "desc": "Rising fuel prices, inflation and flight limits are making cheap travel harder, changing how tourists plan, book and choose destinations in 2026.",
@@ -1806,98 +1896,8 @@
                 "source": "The Japan Times",
                 "date": "2026-07-20T07:12:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Greater Horn of Africa Faces Looming Polycrisis as El Niño, War and Ebola Threaten Famine",
-                "desc": "Africa’s Greater Horn faces a looming polycrisis as El Niño-driven droughts and floods, rising food and fertilizer prices from the Iran war, Ebola risks and entrenched conflicts converge, threatening famine, mass displacement and a weakened humanitarian response across multiple countries.",
-                "image": "https://cf-images.assettype.com/downtoearth%2F2026-07-20%2F2d92ywv0%2FiStock-916873200.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://www.downtoearth.org.in/africa/africas-greater-horn-region-is-facing-a-looming-polycrisis-fueled-by-conflict-prices-climate-and-disease",
-                "source": "Down To Earth",
-                "date": "2026-07-20T05:06:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa: Shadows of Past Political Violence Shape the Lives of Young Africans for Years - a Study of Nine Countries",
-                "desc": "Analysis - Political violence refers to the use of force by groups pursuing political goals. It can include attacks on civilians, armed clashes, riots and explosions, all of which cause obvious and immediate harm.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607200010.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-20T05:05:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ivory Coast eyes 'national champion' firms to lead economy",
-                "desc": "International, MNA | From natural cosmetics to oil and gas distribution, Ivory Coast is betting on champion firms that emerged from 15 years of economic growth to carry its development plan forward to 2030.",
-                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2026/07/Trade_shutterstock_1475750324.jpg",
-                "url": "https://macaubusiness.com/ivory-coast-eyes-national-champion-firms-to-lead-economy/",
-                "source": "Macau Business",
-                "date": "2026-07-20T05:04:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Churches facing closure as Christians giving up religion",
-                "desc": "Churches facing closure as Christians are giving up the practicing religion, Archbishop of Colombo Cardinal Malcolm Ranjith said during the week end.",
-                "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_494384143b.jpg",
-                "url": "https://www.dailymirror.lk/breaking-news/Churches-facing-closure-as-Christians-giving-up-religion/108-346084",
-                "source": "Daily Mirror - Sri Lanka",
-                "date": "2026-07-20T05:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Morocco • OCP Group's African wager in the midst of the cadmium scandal",
-                "desc": "Facing mounting health, regulatory, and geopolitical pressures, the Moroccan phosphate giant is seeking to protect its market share in Africa, where regulations are less stringent, whilst they are",
-                "image": "https://www.africaintelligence.com/utils/imagesocial/Linkedin?rnd=145737&web=1&text=MHhRQnptSlZoenljM1diOFdGK3I3L0RVZG1rMXJSakdPRC9yaU1QazRNdz01&file64=QUlcUGhvdG9zXE9DUF9BSV8yMDA3MjYuanBn",
-                "url": "https://www.africaintelligence.com/north-africa/2026/07/20/ocp-group-s-african-wager-in-the-midst-of-the-cadmium-scandal,110843437-ge0",
-                "source": "Africa Intelligence",
-                "date": "2026-07-20T05:03:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Abbie Chatfield: Podcaster cackles at footage of ‘loser’ Andrew Tate being arrested in Miami, Florida",
-                "desc": "There aren’t many people in Australia celebrating the recent arrest of far right figure Andrew Tate MORE than Abbie Chatfield.",
-                "image": "https://images.perthnow.com.au/publication/C-22599943/d4c35d789d53e2483f118b54a440028ac44a5adc-16x9-x1y0w2446h1376.jpg?imwidth=1200",
-                "url": "https://www.perthnow.com.au/entertainment/influencers/abbie-chatfield-podcaster-cackles-at-footage-of-loser-andrew-tate-being-arrested-in-miami-florida-c-22599943",
-                "source": "PerthNow",
-                "date": "2026-07-20T05:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stealth fighters assemble for multinational combat training in Australia",
-                "desc": "American, Australian and Japanese F-35A Lighting II stealth fighters are training together over northern Australia as part of Pitch Black.",
-                "image": "https://www.stripes.com/incoming/hu3dhd-210726pitch-blackphoto01.jpg/alternates/LANDSCAPE_480/210726PITCH-BLACKphoto01.jpg",
-                "url": "https://www.stripes.com/theaters/asia_pacific/2026-07-20/pitch-black-air-force-australia-f35-22314256.html",
-                "source": "stripes.com",
-                "date": "2026-07-20T05:02:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "79 Facts That Prove Reality Is Often Stranger Than Fiction",
-                "desc": "Not all screen time is brain-rotting and unproductive. Sometimes it can enrich our knowledge through easily digestible facts. Enter the Genuine History Instagram page, which has no shortage of tidbits of trivia that could be your next dinner conversation topic. Here are some of the best posts from the page. . Curiosities, Interesting Facts",
-                "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/interesting-facts-genuine-history-fb.jpg",
-                "url": "https://www.boredpanda.com/interesting-facts-genuine-history/",
-                "source": "Bored Panda",
-                "date": "2026-07-20T05:01:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Running holidays: Europe's best destinations for a 'runcation' as active travel booms",
-                "desc": "Running holidays are becoming one of travel's fastest-growing trends, with new search data revealing a surge in demand for active getaways. From the Dolomites to Madeira, these are the best places in Europe to lace up your trainers.",
-                "image": "https://images.euronews.com/articles/stories/09/83/87/28/1200x675_cmsv2_f1332d9a-9cad-5e65-8f79-b2d1dbc40b17-9838728.jpg",
-                "url": "https://www.euronews.com/travel/2026/07/20/running-holidays-europes-best-destinations-for-a-runcation-as-active-travel-booms",
-                "source": "Euronews.com",
-                "date": "2026-07-20T05:00:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Curlew chicks released after eggs rescued from wildfire",
-                "desc": "Endangered curlew chicks have been released into the wild after their eggs were rescued from a wildfire on Slieve Beagh.",
-                "image": "https://www.rte.ie/images/0024b97e-1600.jpg",
-                "url": "https://www.rte.ie/news/ulster/2026/0720/1584096-slieve-beagh-curlew/",
-                "source": "RTE.ie",
-                "date": "2026-07-20T05:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-21T04:52:51.119674Z"
+    "lastGlobalSync": "2026-07-21T07:37:32.915653Z"
 }
