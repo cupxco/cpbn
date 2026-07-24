@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Rogers confirms plan to sell MLSE stake after transaction",
+                "desc": "Communication company recently announced deal to take 100% ownership of MLSE, set to become owners of Leafs, Raptors, Blue Jays and more.",
+                "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/01/rogers_outlook_2.jpg",
+                "url": "https://torontosun.com/sports/rogers-confirms-plan-sell-mlse-stake",
+                "source": "Toronto Sun",
+                "date": "2026-07-23T16:49:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Euro notes are getting a makeover - and you can vote for your favourite",
+                "desc": "Four out of the ten options are for vertical notes.",
+                "image": "https://img2.thejournal.ie/article/7111489/river/?height=400&version=7111652",
+                "url": "https://www.thejournal.ie/new-euro-note-design-7111489-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-23T16:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Putting Together An Enterprise Bring-Your-Own-Agent Policy",
+                "desc": "Also in the Forbes CIO newsletter: What happens when an AI system decides to hack on its own, Google has a very good and very bad day.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a6244f6e945dbd638bb046d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/cio/2026/07/23/putting-together-an-enterprise-bring-your-own-agent-policy/",
+                "source": "Forbes",
+                "date": "2026-07-23T16:47:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil price hits $100/barrel after attacks on vessels in Red Sea",
+                "desc": "Oil price hit $100 a barrel on Thursday.",
+                "image": "https://www.thecable.ng/wp-content/uploads/2024/07/Crude-Oil.jpg",
+                "url": "https://www.thecable.ng/oil-price-hits-100-barrel-after-attacks-on-vessels-in-red-sea/",
+                "source": "TheCable",
+                "date": "2026-07-23T16:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Customers prefer AI chatbots to humans’ says British Gas boss as 1,300 call centre staff axed",
+                "desc": "Chris O’Shea defends Centrica’s plans as it reports rise in retail profits despite falling customer numbers",
+                "image": "https://i.guim.co.uk/img/media/0e88d80f7db3c789a9e641d7862a91aba864b214/132_0_2736_2188/master/2736.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a66760452c91ac3af72dedf170a1b812",
+                "url": "https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss",
+                "source": "The Guardian",
+                "date": "2026-07-23T16:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PT Organics fruit pouches recalled over possible soft strands of plastic in purée",
+                "desc": "More than 380,000 fruit pouches are being recalled nationwide over concerns they may contain soft strands of plastic in the purée.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260723-pumpkin-tree-peter-rabbit-organics-vl-1239p-f4acf5.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/pt-organics-fruit-pouches-recalled-possible-soft-strands-plastic-puree-rcna588886",
+                "source": "NBC News",
+                "date": "2026-07-23T16:43:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HK cements springboard role for ‘going global’ firms",
+                "desc": "Tu Haiming says SAR’s strengths are an enormous\nasset the nation can leverage for worldwide growth.",
+                "image": "https://www.chinadailyhk.com/upload/main/image/2024/06/06/062c4c22fe9b8f1998f15c66b487ccdc.jpg",
+                "url": "https://www.chinadailyasia.com/hk/article/636864",
+                "source": "chinadailyasia.com",
+                "date": "2026-07-23T16:43:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil price shock for New Zealand far from over - Westpac economist",
+                "desc": "The oil price shock that hit New Zealand earlier this year in the wake of the Iran war is far from over, and Kiwis may soon have to again fork out for higher petrol prices.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--bJa2fmt7--/t_tohu-badge-facebook/f_auto/q_auto/4JR9FZN_2_png",
+                "url": "https://www.rnz.co.nz/news/business/781190/oil-price-shock-for-new-zealand-far-from-over-westpac-economist",
+                "source": "RNZ",
+                "date": "2026-07-23T16:43:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Opera icons or birds? Europeans invited to pick new euro banknotes",
+                "desc": "The ECB has unveiled ten finalist designs for future euro banknotes. The culture and nature themes feature Leonardo da Vinci, Maria Callas, Beethoven, Marie Curie and birds symbolising Europe's biodiversity.",
+                "image": "https://images.euronews.com/articles/stories/09/84/87/36/1200x675_cmsv2_c42d66bf-0bfa-5127-88df-ac068610ab8f-9848736.jpg",
+                "url": "https://www.euronews.com/business/2026/07/23/leonardo-callas-and-curie-or-europes-birds-culture-or-nature-on-new-euro-banknotes-vote-op",
+                "source": "Euronews.com",
+                "date": "2026-07-23T16:41:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Telcos seek stronger infrastructure protection to bridge Nigeria’s digital divide",
+                "desc": "By Juliet Umeh & Islamiyyah Adekanbi The Association of Licensed Telecommunications Operators of Nigeria (ALTON) has called for stronger protection of telecommunications infrastructure, saying sustained investment, innovation and collaboration are essential to closing Nigeria’s digital divide. Chairman of ALTON, Gbenga Adebayo, made the call at the Nigeria Information Technology Reporters Association (NITRA) Innovative and Scientific […]",
+                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2012/08/Mast-telecom-e1648530577184.jpg",
+                "url": "https://www.vanguardngr.com/2026/07/telcos-seek-stronger-infrastructure-protection-to-bridge-nigerias-digital-divide/",
+                "source": "Vanguard News",
+                "date": "2026-07-23T16:41:20Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "EU imposes €890m fine on Google for ‘breaching Digital Markets Act’",
                 "desc": "The European Commission has fined Google €890 million for breaching the Digital Markets Act (DMA), accusing the tech giant of favouring its own services in search results and restricting businesses from directing users to alternative purchase channels.",
                 "image": "https://www.thecable.ng/wp-content/uploads/2022/10/Google-e1711376455236.jpeg",
@@ -542,99 +632,99 @@
                 "source": "FX News Group",
                 "date": "2026-07-23T04:19:44Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "HLIB sees earnings surprise for tech sector, tips record quarter for UWC and ViTrox",
-                "desc": "The upcoming second-quarter reporting season may hold a few earnings surprises for the tech sector, with at least two companies set to post record highs, according to Hong Leong Investment Bank (HLIB) Research.",
-                "image": "https://assets.theedgemarkets.com/Tech-Sector_theedgemalaysia_4_0.jpg",
-                "url": "https://theedgemalaysia.com/node/811747",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-23T02:43:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donald Trump's Iran Blockade Announcement Sent Oil Prices Surging and the Dow Falling",
-                "desc": "The conflict in the Middle East is raging again, which highlights an important fact that energy investors ignore at their own risk.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879329%2F22_08_02-two-people-riding-a-seesaw-_gettyimages-1081951356.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/22/donald-trumps-iran-blockade-announcement-sent-oil/",
-                "source": "The Motley Fool",
-                "date": "2026-07-23T02:41:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Red Cat: Hypergrowth Today, Dilution Tomorrow, Profitability Maybe",
-                "desc": "Red Cat delivers explosive revenue growth in military drones but remains deeply unprofitable. Read why RCAT stock is a potential speculative bet.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2269249131/image_2269249131.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4924473-red-cat-hypergrowth-today-dilution-tomorrow-profitability-maybe",
-                "source": "Seeking Alpha",
-                "date": "2026-07-23T02:36:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China's Central SOEs Post 1.4 Trillion Yuan Profit in H1; SASAC Maps Out Six Priorities to Drive Transformation",
-                "desc": "China's State-owned Assets Supervision and Administration Commission (SASAC) announced at a recent workshop for heads of central state-owned…",
-                "image": "https://img.biggo.com/RFwPGnAAj_udBDuz2m3nEk8r8bsJc8T-xe2Hxqjrnx0/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2ZkZmM0MzYyLTlhOTMtNGM1MC1iMmRkLTlmOGNlZTI5Mjk0Y18xNzg0Nzc0NDU4X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/fdfc4362-9a93-4c50-b2dd-9f8cee29294c",
-                "source": "finance.biggo.com",
-                "date": "2026-07-23T02:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DTI pushes ₱5-billion SB Corp. budget increase",
-                "desc": "The Department of Trade and Industry (DTI) is seeking additional funding of up to ₱5 billion for Small Business (SB) Corp. to support its loan programs for...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/23/118112.webp",
-                "url": "https://mb.com.ph/2026/07/23/dti-pushes-5-billion-sb-corp-budget-increase",
-                "source": "Manila Bulletin",
-                "date": "2026-07-23T02:35:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Korean labour unions push for higher payouts after Samsung’s US$400,000 bonus",
-                "desc": "What began with workers calling for Samsung and SK Hynix to share profits reaped from the AI boom is spilling over to other industries.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/23/ce796377-c414-4f16-a5ca-4e1b9ecc634f_d37ced60.jpg?itok=RQNqd_3v&v=1784771889",
-                "url": "https://www.scmp.com/news/asia/east-asia/article/3361526/south-korean-labour-unions-push-higher-payouts-after-samsungs-us400000-bonus",
-                "source": "South China Morning Post",
-                "date": "2026-07-23T02:35:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Upgraded Philippines still trails ASEAN peers in investor confidence",
-                "desc": "Philippines reached upper-middle-income status but it is still behind neighbors in competitiveness.",
-                "image": "https://media.philstar.com/photos/2026/07/21/aseanflagsforatf20261_2026-07-21_18-45-47.jpg",
-                "url": "https://www.philstar.com/business/2026/07/23/2543689/upgraded-philippines-still-trails-asean-peers-investor-confidence",
-                "source": "Philstar.com",
-                "date": "2026-07-23T02:32:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cambodia Receives Institutional Capability Development Plan to Strengthen NPCC and Advance Productivity-led Growth",
-                "desc": "The APO-supported roadmap aims to help Cambodia’s national productivity institution become more capable, evidence driven, future ready, and implementation focused",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/23/1147776.png",
-                "url": "https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/cambodia-receives-institutional-capability-development-plan-to-strengthen-npcc-and-advance-productivity-led-growth/2389881",
-                "source": "The Manila Times",
-                "date": "2026-07-23T02:31:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SOLOWIN HOLDINGS (NASDAQ: AXG) Expands into Latin America Through Strategic Partnership with ATTRUS (Formerly Facilitapay)",
-                "desc": "HONG KONG, July 22, 2026 (GLOBE NEWSWIRE) -- SOLOWIN HOLDINGS (Nasdaq: AXG) ('AXG” or the 'Company”), a leading financial technology firm bridging traditional and digital assets, today announced that its indirect wholly-owned subsidiary, Gello Finance Ltd. ('Gello Finance”), has officially signed a financial and technological services agreement with ATTRUS US LLC ('ATTRUS,” formerly known as Facilitapay), a well-known provider of cross-border payment and liquidity solutions. The two entities will collaborate to develop an ecosystem encompassing liquidity services, cross-border payment networks, and stablecoin fiat on/off-ramp services in Latin America, with an initial strategic focus on Mexico and Brazil.",
-                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-                "url": "https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/solowin-holdings-nasdaq-axg-expands-into-latin-america-through-strategic-partnership-with-attrus-formerly-facilitapay/2389880",
-                "source": "The Manila Times",
-                "date": "2026-07-23T02:31:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CBN: Banks must now support productive sector",
-                "desc": "With bank recapitalization completed, the financial institutions must now focus on support for the productive sector, Central Bank of Nigeria said",
-                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/05/20154225/Olayemi-Cardoso.jpg",
-                "url": "https://thenationonlineng.net/cbn-banks-must-now-support-productive-sector/",
-                "source": "The Nation Newspaper",
-                "date": "2026-07-23T02:31:38Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Moto Guzzi World Days 2026 Celebrates New Museum & Factory",
+                "desc": "It is set to be one of the most important events in Moto Guzzi’s history: from 3 to 6 September, Mandello del Lario, in Italy.",
+                "image": "https://www.roadracingworld.com/wp-content/uploads/2026/07/01-motoguzzi_1784824924.jpg",
+                "url": "https://www.roadracingworld.com/news/moto-guzzi-world-days-2026-celebrates-new-museum-factory/",
+                "source": "Roadracing World",
+                "date": "2026-07-23T16:53:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Puzzling Places Opens Steam Workshop, Bringing Community-Created Puzzles to Players",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/pl/Puzzling-Places-Opens-Steam-Workshop-Bringing-Community-Created-Puzzle",
+                "source": "Games Press",
+                "date": "2026-07-23T16:52:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A game where you repair and restore retro gadgets sounds like the perfect way to unwind.",
+                "desc": "In ReStory you’re tasked with growing your “quaint electronics repair shop in mid-2000s Tokyo” by dismantling, repairing, cleaning, and restoring devices like cellphones, consoles, and cameras. Developed by Mandragora Studio the game launches on Steam on August 6th\n[Media: https://www.youtube.com/watch?v=uJl20DGhjfw]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/restory.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/tech/970090/restory-steam-electronics-repair-restore-game",
+                "source": "The Verge",
+                "date": "2026-07-23T16:52:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here's What's New in the iOS 27 and MacOS 27 Second Public Betas",
+                "desc": "Apple just released the second public betas of both iOS 27 and macOS 27, so anyone signed up for the beta program can now test the latest public version of the software on their compatible devices.",
+                "image": "https://lifehacker.com/imagery/articles/01KY7R8XPCEA99GA8Q419B7RAP/hero-image.fill.size_1200x675.png",
+                "url": "https://lifehacker.com/tech/macos-27-and-ios-27-second-public-betas",
+                "source": "Lifehacker",
+                "date": "2026-07-23T16:52:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox Is Now Testing Its Free, Ad",
+                "desc": "'Up to two' minutes' worth of ads in exchange for an hour of gaming",
+                "image": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
+                "url": "https://kotaku.com/xbox-testing-free-ad-supported-streaming-2000718818",
+                "source": "Kotaku",
+                "date": "2026-07-23T16:51:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "inch M5 Pro MacBook Pro with 48GB RAM",
+                "desc": "Apple's current 14-inch MacBook Pro with an M5 Pro chip and upgrade to 48GB of RAM is $400 off during B&H's month-end sale, but supply is limited at the reduced price.",
+                "image": "https://photos5.appleinsider.com/gallery/68342-144047-macbook-pro-48gb-ram-deal-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/07/23/apples-macbook-pro-with-48gb-ram-drops-to-2699-saving-you-400",
+                "source": "AppleInsider",
+                "date": "2026-07-23T16:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox Introduces Free Game Streaming With Ads, Outlines Five Principles They'll Adhere To",
+                "desc": "Rolling out now as a \"test\" for Xbox Insiders - There have been rumours for a while now that Xbox might be planning to introduce a form of ad-supported tier ...",
+                "image": "https://images.purexbox.com/b76c6c69371bf/large.jpg",
+                "url": "https://www.purexbox.com/news/2026/07/xbox-introduces-free-game-streaming-with-ads-outlines-five-principles-theyll-adhere-to",
+                "source": "Pure Xbox",
+                "date": "2026-07-23T16:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Virtual OPUS cards launch on Android in Montreal",
+                "desc": "Great news for Android users, you will finally be able to use a virtual OPUS card in Montreal!",
+                "image": "https://cdn.cogecolive.com/prod-20260723/article_1784817937252883_ori.jpeg",
+                "url": "https://www.thebeat925.ca/news/791063/virtual-opus-cards-launch-on-android-in-montreal",
+                "source": "The Beat 92.5",
+                "date": "2026-07-23T16:43:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Closed-loop AI framework could shorten clean energy materials development by years",
+                "desc": "Developing the materials needed for cleaner energy technologies has traditionally been a slow and expensive process, often relying on years of trial and error. Now, researchers have outlined a new artificial intelligence ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-powered-closed-loop.jpg",
+                "url": "https://techxplore.com/news/2026-07-loop-ai-framework-shorten-energy.html",
+                "source": "Tech Xplore",
+                "date": "2026-07-23T16:40:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wallhack Debuts K-001 HE Gaming Keyboard with Retro Design",
+                "desc": "Wallhack, the niche gaming accessory brand, recently showed off its first gaming mouse, the M-001, which will feature wireless connectivity, swappable batteries, and a bit of a retro twist, but more recently in a post on X, the brand also gave us our first look at the gaming keyboard it's been...",
+                "image": "https://www.techpowerup.com/img/2ekBjnPUgnpKH0YT.jpg",
+                "url": "https://www.techpowerup.com/351019/wallhack-debuts-k-001-he-gaming-keyboard-with-retro-design",
+                "source": "TechPowerUp",
+                "date": "2026-07-23T16:38:28Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "​Qualcomm Expands Snapdragon Supply for Samsung's New Galaxy Lineup",
                 "desc": "Qualcomm Technologies is expanding shipments of its Snapdragon platforms across Samsung El",
@@ -1174,99 +1264,99 @@
                 "source": "Inside Retail Asia",
                 "date": "2026-07-23T04:12:36Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Terrific value RTX 5070 gaming laptop with Ryzen AI 9 HX 370 CPU is $370 cheaper in Amazon deal",
-                "desc": "This great machine comes with a 165Hz 1660p display, 32GB of DDR5 RAM and 1TB SSD storage - bag it quickly!",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Terrific-value-RTX-5070-gaming-laptop-with-Ryzen-AI-9-HX-370-CPU-is-370-cheaper-in-Amazon-deal.jpg",
-                "url": "https://www.pcguide.com/deals/terrific-value-rtx-5070-gaming-laptop-with-ryzen-ai-9-hx-370-cpu-is-370-cheaper-in-amazon-deal/",
-                "source": "PC Guide",
-                "date": "2026-07-23T02:49:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Silver Palace Launches Second Closed Beta 'Dichotomy Test'",
-                "desc": "©ElementaGlobal game developer and publisher Elementa announced that the second closed beta test for its open world mystery adventure ARPG, 'Silver Palace,' titled the 'Dichot...",
-                "image": "https://static.invenglobal.com/upload/image/2026/07/23/r1784774837846958.jpeg",
-                "url": "https://www.invenglobal.com/articles/24075/silver-palace-launches-second-closed-beta-dichotomy-test",
-                "source": "Inven Global",
-                "date": "2026-07-23T02:48:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung’s newest, most advanced smartphone of 2026 is 25% off in this Galaxy S26 Ultra deal",
-                "desc": "Save $325 off the MSRP of this premium phone with 256GB storage and an included S Pen stylus - bag it quick!",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Samsungs-newest-most-advanced-smartphone-of-2026-is-25-off-in-this-Galaxy-S26-Ultra-deal.jpg",
-                "url": "https://www.pcguide.com/deals/samsungs-newest-most-advanced-smartphone-of-2026-is-25-off-in-this-galaxy-s26-ultra-deal/",
-                "source": "PC Guide",
-                "date": "2026-07-23T02:46:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei lets cameras speak for themselves",
-                "desc": "Huawei swaps spec sheets for live in-store camera demos across Asia-Pacific — customers compare colour accuracy on their own phone vs Huawei's side by side.",
-                "image": "https://www.cmgassets.com/s3fs-public/styles/opengraph/public/2026-07/whatsapp-image-2026-07-16-at-16.44.59.jpeg?VersionId=D4OHv.izxmih0Kg2iN5E1jjaLj0yjPGQ&h=3f13b417&itok=-hWCjNhM",
-                "url": "https://retailasia.com/exclusive/huawei-lets-cameras-speak-themselves",
-                "source": "Retail Asia",
-                "date": "2026-07-23T02:42:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei lets cameras speak for themselves",
-                "desc": "Huawei swaps spec sheets for live in-store camera demos across Asia-Pacific — customers compare colour accuracy on their own phone vs Huawei's side by side.",
-                "image": "https://www.cmgassets.com/s3fs-public/styles/opengraph/public/2026-07/whatsapp-image-2026-07-16-at-16.44.59.jpeg?VersionId=D4OHv.izxmih0Kg2iN5E1jjaLj0yjPGQ&h=3f13b417&itok=-hWCjNhM",
-                "url": "https://asianbusinessreview.com/exclusive/huawei-lets-cameras-speak-themselves",
-                "source": "Asian Business Review",
-                "date": "2026-07-23T02:42:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Big screen and big battery Google Pixel 10 Pro XL has $250 knocked off the price in unmissable Amazon deal",
-                "desc": "The 6.8-inch variant of Google’s premium flagship smartphone has fantastic cameras and all-round performance.",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/Big-screen-and-big-battery-Google-Pixel-10-Pro-XL-has-250-knocked-off-the-price-in-unmissable-Amazon-deal.jpg",
-                "url": "https://www.pcguide.com/deals/big-screen-and-big-battery-google-pixel-10-pro-xl-has-250-knocked-off-the-price-in-unmissable-amazon-deal/",
-                "source": "PC Guide",
-                "date": "2026-07-23T02:34:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bow down to Archaon - the new statue from Wētā Workshop",
-                "desc": "The Lord of the End Times in 1:10 scale.",
-                "image": "https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/wetaarchaon-jul23-1-feature-2lkzhjfcvl.jpg",
-                "url": "https://www.warhammer-community.com/en-gb/articles/u3xqe7ts/bow-down-to-archaon-the-new-statue-from-weta-workshop/",
-                "source": "Warhammer Community",
-                "date": "2026-07-23T02:32:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "With the Sony FX5, Gareth Edwards takes guerrilla filmmaking to the next level",
-                "desc": "Sony’s FX5: a cinema camera so small Gareth Edwards can hide in plain sight and so capable he calls it a TARDIS.",
-                "image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-csonyt_gareth.jpg",
-                "url": "https://www.fxguide.com/fxfeatured/hiding-in-plain-sight-with-the-sony-fx5-gareth-edwards-takes-guerrilla-filmmaking-to-the-next-level/",
-                "source": "fxguide",
-                "date": "2026-07-23T02:29:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Silver Palace Opens Its \"Dichotomy\" Beta Test!",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/230320-1b77163a/KV.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=1ae6739fd7b35751f09f9d7c9510e3ce293f8921bba5d1f7e9afd46a42ef1432",
-                "url": "https://www.gamespress.com/Silver-Palace-Opens-Its-Dichotomy-Beta-Test",
-                "source": "Games Press",
-                "date": "2026-07-23T02:26:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Silver Palace Opens Its \"Dichotomy\" Beta Test!",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/230320-1b77163a/KV.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=1ae6739fd7b35751f09f9d7c9510e3ce293f8921bba5d1f7e9afd46a42ef1432",
-                "url": "https://www.gamespress.com/en-US/Silver-Palace-Opens-Its-Dichotomy-Beta-Test",
-                "source": "Games Press",
-                "date": "2026-07-23T02:26:27Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Former President Motlanthe says hostility towards migrants ignores shared history",
+                "desc": "Motlanthe was speaking at his foundation's winter seminar in Sandton on Thursday.",
+                "image": "https://media-cache.primedia-service.com/media/mhhpqzno/kgalema.jpg?width=1200&height=630",
+                "url": "https://www.ewn.co.za/2026/07/23/former-president-motlanthe-says-hostility-towards-migrants-ignores-shared-history",
+                "source": "EWN",
+                "date": "2026-07-23T16:52:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "High Humidity and Heat Combine to Create Sweltering Conditions Across the Island",
+                "desc": "It's a hot, sticky one in many parts of the province including the Avalon Peninsula where the humidex is expec...",
+                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/sunny-sun-sunshine-warm-summer-weather-hot.jpg",
+                "url": "https://vocm.com/2026/07/23/305097/",
+                "source": "VOCM",
+                "date": "2026-07-23T16:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "European Commission to refine proposals for sanctions on Russian combatants with subsequent adoption expected in autumn",
+                "desc": "The European Commission is set to further refine its proposal regarding a ban on entry into European Union member states for Russian combatants, with formal adoption anticipated in the autumn.",
+                "image": "https://media.interfax.com.ua/media/thumbs/images/2021/05/9To6EsPLZFGW.jpg",
+                "url": "https://en.interfax.com.ua/news/general/1187586.html",
+                "source": "Interfax-Ukraine",
+                "date": "2026-07-23T16:49:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Shipping Insurance Rates are Rising, as Hormuz, Bab al-Mandeb Shut Down",
+                "desc": "Maritime insurance prices have soared amid shipping disruptions in the Strait of Hormuz and are also rising for vessels traversing the Bab al-Mandeb, with both waterways - critical channels for the global economy - now theatres of war.",
+                "image": "https://caspianpost.com/storage/photos/thumbs/aspect/b3wqn4W9Tucu3z3Ee8sE0sz5dj3tijbLiOi9Ufk4.webp",
+                "url": "https://caspianpost.com/analytics/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down",
+                "source": "Caspian Post",
+                "date": "2026-07-23T16:47:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FBI Announces $5,000 Reward for Useful Information on Deadly Triple Murder Case",
+                "desc": "The FBI offered a $5,000 reward for information after a triple homicide in Delaware left three people dead and one injured as investigators searched for suspects.",
+                "image": "https://cdn.legit.ng/images/1200x675/4763403e16ecda54.jpeg?v=1",
+                "url": "https://www.legit.ng/world/us/1721074-fbi-offers-5000-reward-hunt-continues-suspects-deadly-delaware-triple-homicide/",
+                "source": "Legit.ng",
+                "date": "2026-07-23T16:45:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What You Can & Can't Bring Into the Country",
+                "desc": "Planning a trip to the UK? Understand the updated UK travel rules on alcohol, tobacco, and other goods. Avoid issues with customs by knowing what's allowed",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/uk-home-office-original_1784387878.webp",
+                "url": "https://punchng.com/uk-updates-list-of-items-travellers-can-cant-bring-into-country/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-23T16:45:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump Weighs Military Strikes Against an Eighth Nation",
+                "desc": "President Trump is considering opening a new military front in another nation, with advisers weighing military strikes in Mali against an al-Qaeda-linked group known as JNIM,...",
+                "image": "https://cdn.newser.com/image/1700582-12-20260723114947.jpeg",
+                "url": "https://www.newser.com/story/393389/trump-weighs-military-strikes-against-an-eighth-nation.html",
+                "source": "Newser",
+                "date": "2026-07-23T16:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man jailed after piloting small boat for two hours in Channel",
+                "desc": "Basir Ramatullah, from Afghanistan, was fleeing the Taliban, says his lawyer.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6383/live/e7a4a850-86b0-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c5yd7xz39k9o",
+                "source": "BBC",
+                "date": "2026-07-23T16:38:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+                "desc": "He says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+                "image": "https://cdn.radioafrica.digital/image/2026/05/2173f34d-082c-4b23-98d0-41c7deba2e58.jpg?1784836643869",
+                "url": "https://www.the-star.co.ke/news/world/2026-07-23-trump-saudis-must-recognise-israel-for-nuclear-deal",
+                "source": "the-star.co.ke",
+                "date": "2026-07-23T16:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World News: ECOSOC Chief, UN Debate, Mali Torture, Drowning",
+                "desc": "Amar Bendjama, Permanent Representative of Algeria to the UN, was elected on Thursday to serve as the next president of the UN's Economic and Social",
+                "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/23-07-2026-UN-Amar-Bendjama.jpg/image770x420cropped.jpg",
+                "url": "https://www.miragenews.com/world-news-ecosoc-chief-un-debate-mali-torture-1715398/",
+                "source": "Mirage News",
+                "date": "2026-07-23T16:38:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Florida scientists used female Burmese pythons as live lures to find invasive males in the Everglades, but 3 million camera-trap photos produced only four python detections",
                 "desc": "US News: Florida scientists used female Burmese pythons as live lures to find invasive males in the Everglades, but 3 million camera-trap photos produced only .",
@@ -1806,98 +1896,8 @@
                 "source": "Tuko News",
                 "date": "2026-07-23T04:04:59Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Donald Trump considers Iran escalation as US military forces gather in region",
-                "desc": "According to the WSJ, US President Donald Trump is considering expanding his attacks on Iran, and the added forces in the region are intended to provide him with more military options.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729584",
-                "url": "https://www.jpost.com/middle-east/iran-news/article-903381",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-23T02:35:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesia urges ASEAN to ‘deliver promises’ as Middle East crisis looms",
-                "desc": "South China Sea and Myanmar have dominated agenda for ASEAN top diplomats in Manila amid renewed push for progress in the bloc’s two long-standing issues.",
-                "image": "https://asianews.network/wp-content/uploads/2026/07/AFP__20260721__C2PT2YW__v2__MidRes__CorrectionPhilippinesAsean.jpg",
-                "url": "https://asianews.network/indonesia-urges-asean-to-deliver-promises-as-middle-east-crisis-looms/",
-                "source": "Asia News Network",
-                "date": "2026-07-23T02:34:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Houthis claim attack on Saudi tankers in Red Sea",
-                "desc": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5df9/live/bacada70-862e-11f1-b1b6-99ee8edc68f7.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko",
-                "source": "BBC",
-                "date": "2026-07-23T02:33:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Houthis claim attack on Saudi tankers in Red Sea",
-                "desc": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5df9/live/bacada70-862e-11f1-b1b6-99ee8edc68f7.jpg",
-                "url": "https://www.bbc.com/news/articles/cpw9xzx9r4ko",
-                "source": "BBC",
-                "date": "2026-07-23T02:33:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2 killed as US strikes Iran for 12th night, tanker fire fuels Hormuz tensions",
-                "desc": "The US launched fresh strikes on Iran for a 12th straight night, killing at least two people in a missile attack near the Iran-Iraq border. Meanwhile, tensions in the Strait of Hormuz escalated after a ship caught fire in an explosion Iran blamed on a mine, while two other tankers turned back.",
-                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/smoke-rises-after-a-us-one-way-attack-surface-drone-reached-its-target--a-submarine-and-ship-mainten-232544236-16x9_0.jpg?VersionId=Ey9Yn7K3N9ePLM_iBIazniBCSVR6m1_I",
-                "url": "https://www.indiatoday.in/world/story/us-strikes-iran-for-12th-night-as-trump-tehran-warn-of-escalation-2954040-2026-07-23",
-                "source": "India Today",
-                "date": "2026-07-23T02:31:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Poland takes control of the border but leaves backdoor open",
-                "desc": "At the same time the number of work permits issued to Africans was over 20,000 as Poland continued to be an attractive destination for foreign workers.",
-                "image": "https://brusselssignal.eu/content/uploads/2026/07/13432081-1000x600.webp",
-                "url": "https://brusselssignal.eu/2026/07/poland-takes-control-of-illegal-border-crossings-in-the-east-but-leaves-backdoor-open/",
-                "source": "Brussels Signal",
-                "date": "2026-07-23T02:30:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Did Russia aid Iranian drone attacks on CIA sites? What report says",
-                "desc": "News News: US intelligence agencies are investigating whether Russia played a role in recent Iranian drone attacks on CIA facilities in the Gulf by providing tar.",
-                "image": "https://static.toiimg.com/thumb/msid-132570732,width-1280,height-720,imgsize-544206,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/defence/news/did-russia-aid-iranian-drone-attacks-on-cia-sites-what-report-says/articleshow/132570629.cms",
-                "source": "The Times of India",
-                "date": "2026-07-23T02:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brent Breaks $96 as U.S. Strikes Iran for 12th Consecutive Night",
-                "desc": "Oil prices climbed to six-week highs as escalating U.S.-Iran hostilities and mounting threats to key shipping lanes outweighed bearish U.S. inventory data.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-22_awivfitjul.jpg",
-                "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Nears-96-as-US-Strikes-Iran-for-12th-Consecutive-Night.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-23T02:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India’s Passport Rank Slips to 81st in Henley Index 2026: 20",
-                "desc": "India’s passport rank slips from 71st to 81st in 20 years, with access to 55 visa-free or visa-on-arrival destinations, Henley Passport Index 2026 shows.",
-                "image": "https://media.assettype.com/gulfnews%2Fimport%2F2022%2F02%2F02%2F20220202-India-passport_17ebaf3068e_large.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://gulfnews.com/world/asia/india/india-passport-ranking-drops-from-71-to-81-in-20-years-major-visa-free-changes-explained-1.500616415",
-                "source": "Gulf News",
-                "date": "2026-07-23T02:25:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "tariff treatment to 63 countries",
-                "desc": "​China has now granted zero-tariff policies for 63 countries, a customs official said on Wednesday, as the country moves to further expand high-standard opening up.",
-                "image": "https://images.china.cn/images1/ch/2022ChinaIdex/img/shareF2023.png",
-                "url": "http://www.china.org.cn/2026-07/23/content_118613486.shtml",
-                "source": "China.org.cn",
-                "date": "2026-07-23T02:24:42Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-24T01:12:02.791850Z"
+    "lastGlobalSync": "2026-07-24T04:54:32.975058Z"
 }
