@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Bank of Canada told again not to use replacement workers at headquarters",
+                "desc": "The Bank of Canada has been ordered for the second time this month to stop using the services of contract workers while its security officers are on strike.",
+                "image": "https://i.cbc.ca/ais/ea37c86e-30b1-4491-a9d8-b2eb5e19e46a,1784831776364/full/max/0/default.jpg?im=Crop%2Crect%3D%28564%2C173%2C5725%2C3220%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/politics/bank-of-canada-strike-security-labour-law-9.7281236",
+                "source": "CBC",
+                "date": "2026-07-23T22:00:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why overseas cosmetic patients are turning to China’s ‘born-with-it’ beauty philosophy",
+                "desc": "China is emerging as an alternative to South Korea for cosmetic procedures, with overseas patients drawn by natural-looking results, experienced doctors and competitive prices - though industry observers say it is still early days.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--NpDu2uJI--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/23/medical-aesthetics-clinic-tourism-botox-facials-china-south-korea-gfx-cna_0.png?itok=j1rMEBgU",
+                "url": "https://www.channelnewsasia.com/east-asia/china-medical-aesthetics-foreigners-beauty-tourism-industry-6272866",
+                "source": "CNA",
+                "date": "2026-07-23T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Six IPOs this year, most trading below issue price: What this means for Singapore's market reforms",
+                "desc": "Analysts say the underwhelming showing reflects thin liquidity and a global tilt towards AI stocks more than a failure of Singapore's push to revive its equity market.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--FuYD-q-2--/c_crop,h_1123,w_1997,x_3,y_51/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/sgx-07---file-photo-data.jpg?itok=xg614R47",
+                "url": "https://www.channelnewsasia.com/singapore/sgx-ipo-price-stocks-justco-foundation-healthcare-6270171",
+                "source": "CNA",
+                "date": "2026-07-23T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PvX pushes revenue-based lending for consumer apps",
+                "desc": "PvX Capital is promoting revenue-based lending as an alternative to equity financing for consumer app companies.",
+                "image": "https://asianbankingandfinance.net/s3/files/styles/opengraph/public/2026-07/pvx-banner_1920-x-1080.jpg?h=920929c4&itok=WJdT14Mi",
+                "url": "https://asianbankingandfinance.net/financial-technology/exclusive/pvx-pushes-revenue-based-lending-consumer-apps",
+                "source": "Asian Banking & Finance",
+                "date": "2026-07-23T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil prices spike as Yemen's Houthis attack Saudi tankers in the Red Sea",
+                "desc": "The price of Brent crude oil, the international standard, spiked more than 6% overnight, to about US$100 a barrel - the highest level since May.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-houthi-tanker-attacks-mark-a-major-escalation-as-trump-t-J2KDACPWK5ABDJYRTQXMBONW2U.png?auth=4c710810c52b70cdfd258f974207f665de96e1a923e1435df09f6eb5fbda67b1&quality=70&width=600&height=315&focal=729%2C355",
+                "url": "https://www.1news.co.nz/2026/07/24/oil-prices-spike-as-yemens-houthis-attack-saudi-tankers-in-the-red-sea/",
+                "source": "1News",
+                "date": "2026-07-23T21:54:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IKEA '$10 off' voucher offer withdrawn after complaint to watchdog",
+                "desc": "Scandi retailer admitted its terms and conditions didn't match how the promotion worked, prompting an Advertising Standards Authority complaint.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/ikea-EAHIUAM4SVAZ5NLMJVNQMUF7AM.jpg?auth=3ec6d5e8d737ae27536f97564ca5d8d18d304ff660a5b4dbc2263af2eb4d1958&quality=70&width=600&height=315&focal=1015%2C431",
+                "url": "https://www.1news.co.nz/2026/07/24/ikea-10-off-voucher-offer-withdrawn-after-complaint-to-watchdog/",
+                "source": "1News",
+                "date": "2026-07-23T21:53:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil prices rise following Houthi attack in Red Sea",
+                "desc": "Oil prices rose above $100 for the first time since May after Yemen's Iran-backed Houthis opened a new front in the Iran war by targeting Saudi vessels in the Bab el-Mandeb Strait.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731260",
+                "url": "https://www.jpost.com/middle-east/article-903523",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-23T21:52:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US senators clash over scope of Chinese connected-vehicle ban",
+                "desc": "Senator Ted Cruz, chairman of US Senate Committee on Commerce, warns substantial revisions will be needed before bill can become law.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/24/51bcc825-2a89-47a2-90cb-dc4ced3849d9_db106da8.jpg?itok=Rcb-A9zc&v=1784845131",
+                "url": "https://www.scmp.com/news/us/diplomacy/article/3361651/us-senators-clash-over-scope-chinese-connected-vehicle-ban",
+                "source": "South China Morning Post",
+                "date": "2026-07-23T21:48:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The more interesting number than the $60m government commitment to Fletcher Building's cement plant",
+                "desc": "Bede Henderson says the terms of the Government's $60m deal to support Golden Bay Cement read like a Crown that's learned where closure costs land",
+                "image": "https://www.interest.co.nz/sites/default/files/2026-07/Truck.jpg",
+                "url": "https://www.interest.co.nz/business/139514/bede-henderson-says-terms-governments-60m-deal-support-golden-bay-cement-read-crown",
+                "source": "Interest.co.nz",
+                "date": "2026-07-23T21:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "There's a business case for companies to embrace sustainability, if it's pitched the right way",
+                "desc": "Sustainable business practices are often seen as a luxury that only rich countries can afford. And these days, some of the biggest economies, including the U.S., are backtracking on those commitments.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2021/2-business.jpg",
+                "url": "https://phys.org/news/2026-07-business-case-companies-embrace-sustainability.html",
+                "source": "Phys.org",
+                "date": "2026-07-23T21:40:06Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "5 things to watch on the ASX 200 on Friday",
                 "desc": "Woodside Energy Group Ltd (ASX: WDS) and Generation Development Group Ltd (ASX: GDG) shares will be on watch on the ASX 200 on Friday...",
                 "image": "https://www.fool.com.au/wp-content/uploads/2024/12/bank-blues-16.9-1200x675.jpg",
@@ -542,99 +632,99 @@
                 "source": "Construction Enquirer",
                 "date": "2026-07-23T07:45:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Man who won £235m on Powerball wished he 'tore up ticket' after life imploded",
-                "desc": "The world's biggest lottery game has launched in the UK this week and below we look inside the brutal downfall of a previous record-breaking Powerball winner",
-                "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7056035.jpg",
-                "url": "https://www.express.co.uk/news/world/2231905/man-won-235m-powerball-jackpot-dark-side",
-                "source": "Daily Express",
-                "date": "2026-07-23T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I have to sell my flat at auction",
-                "desc": "Nieves Guijarro said she poured her life savings into buying her home - but now faces selling it at a loss",
-                "image": "https://inews.co.uk/wp-content/uploads/2026/07/SEI_305104570.jpg?crop=0px%2C182px%2C519px%2C294px&resize=1200%2C675",
-                "url": "https://inews.co.uk/inews-lifestyle/money/property-and-mortgages/sell-flat-two-months-no-viewings-4643530",
-                "source": "The i Paper",
-                "date": "2026-07-23T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ServiceNow's latest earnings show why it paid $7.75 billion for Armis",
-                "desc": "Management devoted much of its quarterly update to explaining how the Israeli cybersecurity company fits into its strategy to become the enterprise AI control layer.",
-                "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/04/27/ryf8MP36Wx/ryf8MP36Wx_519_116_1371_772_0_large.jpg",
-                "url": "https://www.calcalistech.com/ctechnews/article/s1thnxksmg",
-                "source": "calcalistech.com",
-                "date": "2026-07-23T05:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Popular Stockport restaurant to close after 22 years as it issues devastating announcement",
-                "desc": "The restaurant brought together food from across the world as well as from local markets",
-                "image": "https://i2-prod.manchestereveningnews.co.uk/article34335988.ece/ALTERNATES/s1200d/0_screenshot-stockport-restaurant.png",
-                "url": "https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/popular-stockport-restaurant-close-after-34336008",
-                "source": "Manchester Evening News",
-                "date": "2026-07-23T05:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Let's enjoy the ride' says Elon Musk, as AI risk concerns mount",
-                "desc": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4082/live/50efec00-8681-11f1-b60e-a7e0943a9c78.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo",
-                "source": "BBC",
-                "date": "2026-07-23T05:56:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Natural Gas (NATGAS) Is up by 2.01% on Jul 23: Is the Demand Outlook Changing?",
-                "desc": "EIA reports smaller-than-anticipated natural gas injections, signaling tighter market balances.Elevated cooling demand drives record consumption for power generation amid persistent heat.Production plateaus and strong LNG exports limit supply, increasing vulnerability to disruptions.",
-                "image": "https://resource.tradingkey.com/uploads/20260609/commodities-3-0d1e0392023d44378ed4ca2f92f7d442.jpg",
-                "url": "https://www.tradingkey.com/news/market-movers/262048958-market-movers-natgas-20260723",
-                "source": "TradingKey",
-                "date": "2026-07-23T05:55:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "12 Nigerian startups to access $350,000 funding under iDICE Growth Lab",
-                "desc": "By Juliet UmehNo fewer than 12 high-potential Nigerian startups are set to access funding of up to $350,000 under the Growth Lab accelerator programme of the iDICE Startup Bridge initiative. The programme, an initiative of the Federal Government’s Investment in Digital and Creative Enterprises, iDICE, Programme implemented by the Bank of Industry, BOI, has opened […]",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2020/05/MSMEs.jpg",
-                "url": "https://www.vanguardngr.com/2026/07/12-nigerian-startups-to-access-350000-funding-under-idice-growth-lab/",
-                "source": "Vanguard News",
-                "date": "2026-07-23T05:53:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Driver fees extended for ride-hailing platforms",
-                "desc": "ComfortDelGro, Grab, Gojek, and Tada will continue to charge additional driver fees until September 30 to help drivers manage rising operating costs. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d26cffa4a4f425b3da043de705623f76c3526ef41bc672e9678348f2408f67aa",
-                "url": "https://www.straitstimes.com/singapore/comfortdelgro-grab-gojek-tada-to-retain-additional-driver-fee-for-rides-till-sept-30",
-                "source": "The Straits Times",
-                "date": "2026-07-23T05:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huhtamaki resolved on establishing a new share ownership plan for the members of its Global Executive Team",
-                "desc": "HUHTAMÄKI OYJ STOCK EXCHANGE RELEASE 23.7.2026 at 08.45",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/23/1147875.jpg",
-                "url": "https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/huhtamaki-resolved-on-establishing-a-new-share-ownership-plan-for-the-members-of-its-global-executive-team/2389953",
-                "source": "The Manila Times",
-                "date": "2026-07-23T05:52:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World's Largest Cabinet Maker OPPEIN Deepens Middle East Footprint with Custom Offerings",
-                "desc": "World's Largest Cabinet Maker OPPEIN Deepens Middle East Footprint with Custom Offerings",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/23/1147872.jpg",
-                "url": "https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/worlds-largest-cabinet-maker-oppein-deepens-middle-east-footprint-with-custom-offerings/2389952",
-                "source": "The Manila Times",
-                "date": "2026-07-23T05:52:39Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Waze piled on AI features, but only two are worth turning on",
+                "desc": "Motorcycle mode I can't use, a beta that's already full, and a headline feature that didn't work when I tried it twice.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/waze-on-android-auto.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/waze-piled-on-ai-features-but-only-two-are-worth-turning-on/",
+                "source": "MakeUseOf",
+                "date": "2026-07-23T22:00:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Innovaccer’s CEO walked away from Disney and NASA. Now, the startup has crossed $200 million in ARR",
+                "desc": "The company connects hospitals’ electronic health records and insurance claims systems, positioning itself as the infrastructure layer beneath the healthcare AI boom.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Innovaccer-at-HIMSS42.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/07/23/innovaccers-ceo-walked-away-from-disney-and-nasa-to-fix-healthcares-data-mess-now-the-startup-has-crossed-200-million-in-arr/",
+                "source": "Fortune",
+                "date": "2026-07-23T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gemini Spark rolling out to Google AI Pro users in the US",
+                "desc": "After launching in May with AI Ultra, Gemini Spark is now rolling out to Google AI Pro subscribers in the US. It will “soon” be available...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Mac-spark-summer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/23/gemini-spark-google-ai-pro-us/",
+                "source": "9to5Google",
+                "date": "2026-07-23T21:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone Ultra is now rumored to be delayed, again",
+                "desc": "A lot of recent rumors have claimed the contrary, however. In the latest episode of 'will it, won't it?', a new report claims the iPhone Ultra may be...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iphone-ultra-delayed-again/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/iphone_ultra_is_now_rumored_to_be_delayed_again-news-73853.php",
+                "source": "GSMArena.com",
+                "date": "2026-07-23T21:51:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AMD expands its software stack with Rocm.ai",
+                "desc": "The company wants to simplify AI workload deployment with unified development and optimization platform",
+                "image": "https://cdn.mos.cms.futurecdn.net/dzYoiba4savFJXcXLwfxQC-1920-80.jpg",
+                "url": "https://www.itpro.com/hardware/amd-expands-its-software-stack-with-rocm-ai",
+                "source": "IT Pro",
+                "date": "2026-07-23T21:48:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Home welcomes two new affordable Walmart Onn cameras",
+                "desc": "Google's sharing the details on the latest budget-priced Walmart Onn cameras with Gemini built-in support.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/onn-outdoor-camera-plug-in-rain.jpg",
+                "url": "https://www.androidauthority.com/google-home-walmart-onn-cameras-3690911/",
+                "source": "Android Authority",
+                "date": "2026-07-23T21:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone Ultra: Release Date For Apple’s First Foldable Remains Uncertain",
+                "desc": "There have been reports that the first folding iPhone would be delayed, then others that it will land right on time. Here’s the latest.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a628360d212b04aa74bbbe1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/davidphelan/2026/07/23/iphone-ultra-release-date-for-apples-first-foldable-remains-uncertain/",
+                "source": "Forbes",
+                "date": "2026-07-23T21:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hamilton Bolted a Literal Fuel Gauge Onto Its Legendary Khaki Field in Two Fresh Military Colorways",
+                "desc": "A hand-wound field watch that tells you when it's running on empty.",
+                "image": "https://cdn.hiconsumption.com/wp-content/uploads/2026/07/Hamilton-Khaki-Field-Power-Reserve-40mm-0-Hero.jpg",
+                "url": "https://hiconsumption.com/watches/hamilton-khaki-field-power-reserve-40mm/",
+                "source": "HiConsumption",
+                "date": "2026-07-23T21:24:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LG to Remove Unwanted Monitor Pop-Ups, Following Nudge From Microsoft",
+                "desc": "LG monitors quietly installed an app that showed a pop-up ad for McAfee software, an example of how third-party devices can leverage Windows to install bloatware and adware.",
+                "image": "https://i.pcmag.com/imagery/articles/02kGfcDbSG7blyOTlWNvMct-1.fit_lim.size_1200x630.v1784839546.jpg",
+                "url": "https://www.pcmag.com/news/lg-to-remove-unwanted-monitor-pop-ups-following-nudge-from-microsoft",
+                "source": "PCMag",
+                "date": "2026-07-23T21:23:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LG to Remove Unwanted Monitor Pop-Ups, Following Nudge From Microsoft",
+                "desc": "LG monitors quietly installed an app that showed a pop-up ad for McAfee software, an example of how third-party devices can leverage Windows to install bloatware and adware.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/l/lg-to-remo/lg-to-remove-unwanted-monitor-pop-ups-following-nudge-from-m_ynnx.1200.jpg",
+                "url": "https://au.pcmag.com/monitors/118944/lg-to-remove-unwanted-monitor-pop-ups-following-nudge-from-microsoft",
+                "source": "PCMag Australia",
+                "date": "2026-07-23T21:22:50Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Take Note, PlayStation: Xbox Brings Classic Games To PC",
                 "desc": "Xbox backwards compatibility arrives on PC and shines a strange light on game perseveration shortcomings.",
@@ -1174,99 +1264,99 @@
                 "source": "Inven Global",
                 "date": "2026-07-23T07:41:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Announces Intelligent Eyewear Built on Android XR",
-                "desc": "Samsung reveals Gemini-powered smart glasses at Galaxy Unpacked, with designs created alongside Gentle Monster and Warby Parker | XR News from Auganix.com",
-                "image": "https://www.auganix.org/wp-content/uploads/2026/07/Samsung-Smart-Glasses.jpg",
-                "url": "https://www.auganix.org/xr-news-samsung-smart-glasses-galaxy-unpacked-2026/",
-                "source": "Auganix.org",
-                "date": "2026-07-23T06:00:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Honor Magic 9 series to bring major changes in appearance",
-                "desc": "Honor could unveil the Magic 9 series in October this year, and the flagship lineup is expected to undergo major changes in appearance compar",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Honor-Magic-8-Pro.jpg",
-                "url": "https://www.huaweicentral.com/honor-magic-9-series-to-bring-major-changes-in-appearance/",
-                "source": "Huawei Central",
-                "date": "2026-07-23T05:56:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pixel Watch 5's key specs revealed via Google Play Console listing",
-                "desc": "It's expected to go official on August 12 alongside the Pixel 11 series smartphones. The Google Pixel Watch 5 is expected to go official on August 12...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-watch-5-key-specs-play-console-listing/-952x498w6/gsmarena_001.jpg",
-                "url": "https://www.gsmarena.com/google_pixel_watch_5_key_specs_play_console_listing-news-73837.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-23T05:54:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oura Ring 4 Puts Women's Health First",
-                "desc": "Discover the Oura five and its impressive size reduction. This ring is 40 % smaller and also puts women's health first.",
-                "image": "https://womenlovetech.com/wp-content/uploads/2026/07/New-Project-14.jpg",
-                "url": "https://womenlovetech.com/ive-worn-every-oura-ring-since-i-fell-for-the-four-heres-why-the-oura-ring-5-is-the-smartest-yet/",
-                "source": "Women Love Tech",
-                "date": "2026-07-23T05:51:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Two Blokes Talking Tech Episode 742 is live from Samsung's Galaxy Unpacked event in London",
-                "desc": "Two Blokes Talking Tech Episode 742 with Stephen Fenech and Trevor Long is coming to you live from Samsung’s Galaxy Unpacked event in London where the company released its latest foldable smartphones. This week, we take a look at the new devices – the Galaxy Z Flip8, the Galaxy Z Fold 8 (the passport foldable",
-                "image": "https://www.techguide.com.au/wp-content/uploads/2026/07/TBTT742.jpeg",
-                "url": "https://www.techguide.com.au/news/podcast/two-blokes-talking-tech-episode-742-is-live-from-samsungs-galaxy-unpacked-event-in-london/",
-                "source": "techguide.com.au",
-                "date": "2026-07-23T05:41:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ingesto- free camera card offload tool for Mac & Windows",
-                "desc": "Ingesto is a free camera card offload tool for Mac and Windows that copies your footage to multiple drives at once and verifies every file bit-for-bit.",
-                "image": "https://www.newsshooter.com/wp-content/uploads/2026/07/Free-Verified-Camera-Card-Offload-—-INGESTO-Mac-Windows.jpeg",
-                "url": "https://www.newsshooter.com/2026/07/22/ingesto-free-camera-card-offload-tool-for-mac-windows/",
-                "source": "Newsshooter",
-                "date": "2026-07-23T05:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japanese firm acts to stop 7-Eleven store staff scalping anime, game merchandise",
-                "desc": "Some owners and employees have been caught setting aside merchandise before its release or buying up large quantities for resale.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/23/9ed6d5c2-cefa-4874-b70d-a1182fa7063b_58903886.jpg?itok=Wg5EkLoS&v=1784783386",
-                "url": "https://www.scmp.com/news/asia/east-asia/article/3361553/japanese-firm-acts-stop-7-eleven-store-staff-scalping-anime-game-merchandise",
-                "source": "South China Morning Post",
-                "date": "2026-07-23T05:27:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AndaSeat Launches Monitor Arm Series as AI-Assisted Work Expands the Need for Adaptable Screen Positioning",
-                "desc": "AndaSeat Launches Monitor Arm Series as AI-Assisted Work Expands the Need for Adaptable Screen Positioning",
-                "image": "https://img.einnews.com/facebook/1157319/axis-single-monitor-arm.png",
-                "url": "https://www.einpresswire.com/article/928713589/andaseat-launches-monitor-arm-series-as-ai-assisted-work-expands-the-need-for-adaptable-screen-positioning",
-                "source": "EIN Presswire",
-                "date": "2026-07-23T05:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "After a Decade of Connecting Raspberry Pi, Sixfab Now Makes It Think",
-                "desc": "New Sixfab AI HAT+ and Edge AI Expansion Board bring DEEPX-powered edge and vision AI to Raspberry Pi 5. No cloud, no GPU, from $60.",
-                "image": "https://img.einnews.com/facebook/1157073/after-a-decade-of-connecting-ra.jpeg",
-                "url": "https://www.einpresswire.com/article/928681346/after-a-decade-of-connecting-raspberry-pi-sixfab-now-makes-it-think",
-                "source": "EIN Presswire",
-                "date": "2026-07-23T05:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "StarHub offers Samsung Galaxy Z foldables with 5G plans",
-                "desc": "Singapore operator StarHub has opened pre-orders for Samsung's Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8 foldable smartphones, with promotions tied to its 5G Unlimited+ plans. Customers pre-ordering the devices between 23 July and 13 August can receive up to SGD 1,688 in device savings and up to SGD 2,880 in DeviceDollars over 36 months, which can be used to offset interest-free device instalments. StarHub said the offers can reduce the cost of the devices to as little as zero dollars, dependi",
-                "image": "https://ik.imagekit.io/tp/20240603-starhub-logo.png",
-                "url": "https://www.telecompaper.com/news/starhub-offers-samsung-galaxy-z-foldables-with-5g-plans--1577851",
-                "source": "Telecompaper",
-                "date": "2026-07-23T05:15:51Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "US imposes new tariffs over forced labour concerns",
+                "desc": "The US introduces new tariffs on 60 trading partners due to forced labour concerns, impacting major economies like China, India, and the EU. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b6400081432dd6a0d38ec02d83135dd888a11c495f06e6d204de8788c3ded112",
+                "url": "https://www.straitstimes.com/world/united-states/us-unveils-new-tariffs-on-60-partners-as-trump-rebuilds-trade-agenda",
+                "source": "The Straits Times",
+                "date": "2026-07-23T22:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Senator Calls for Mamdani to Be Arrested and Sent to Guantanamo",
+                "desc": "Music, Film, TV and Political News Coverage",
+                "image": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=1200,height=628/https://images-r2-1.thebrag.com/rs/uploads/2021/12/RS-AU_LOGO-RED.png",
+                "url": "https://au.rollingstone.com/culture/culture-news/senator-calls-zohran-mamdani-guantanamo-98834/",
+                "source": "Rolling Stone Australia",
+                "date": "2026-07-23T21:57:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. hits dozens of countries, including Canada, with new 10% tariff",
+                "desc": "The new tariff, which accuses 60 countries of weak forced labour protections, replaces a stopgap measure Trump enacted after the U.S. Supreme Court struck down his earlier tariffs.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/b336e40e3cb9a1c0a1eb327925c4548a66dacd137a4f8d8bd5301437dfc26767_0916df.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/11986761/donald-trump-tariffs-forced-labour-10-percent/",
+                "source": "Global News",
+                "date": "2026-07-23T21:55:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Suspect yelled 'Allahu Akbar' before stabbing Jewish man, second victim: police",
+                "desc": "NYPD arrested Raul Morales after two men were stabbed near Central Park West in Manhattan, with investigators probing whether the attacks qualify as a hate crime.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/allahu-akbar-scream-attack-nyc.jpg",
+                "url": "https://www.foxnews.com/us/suspect-custody-2-men-found-stab-wounds-officials-call-antisemitic-attack",
+                "source": "Fox News",
+                "date": "2026-07-23T21:54:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US hits New Zealand with higher 12.5 percent tariff",
+                "desc": "The US is set to impose new tariffs ranging from 10 to 12.5 percent on 60 economies, including New Zealand, as the Trump administration looks to rebuild its tariff regime.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--119Zab1F--/t_tohu-badge-facebook/f_auto/q_auto/4JSUMIS_AFP__20260220__98EB9E3__v2__HighRes__776464246_jpg",
+                "url": "https://www.rnz.co.nz/news/business/782170/us-hits-new-zealand-with-higher-12-point-5-percent-tariff",
+                "source": "RNZ",
+                "date": "2026-07-23T21:54:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Content creator who left bathtub on Pen y Fan apologises",
+                "desc": "Tom Christopher carried the tub up the mountain in flip flops, before bathing in it at the summit.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0037/live/2df3f6f0-872c-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cnvnq2g1jjeo",
+                "source": "BBC",
+                "date": "2026-07-23T21:53:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ten Reasons Why Ethiopia is Still Poor and Aid Dependent - Abiy Ahmed’s gospel of prosperity is a myth",
+                "desc": "In his latest piece, Dr. Aklog Birara highlights ten reasons why Ethiopia is still poor. He says\"Abiy Ahmed’s gospel of  prosperity is a myth\" Read.",
+                "image": "https://borkena.com/wp-content/uploads/2026/07/Ethiopia-Poor-_-Hope-Ethiopia-Children.jpg",
+                "url": "https://borkena.com/2026/07/23/ten-reasons-why-ethiopia-is-still-poor-and-aid-dependent-abiy-ahmeds-gospel-of-prosperity-is-a-myth/",
+                "source": "Borkena",
+                "date": "2026-07-23T21:52:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Houthis say they attacked Saudi tankers in the Red Sea as US concludes 12th day of strikes on Iran",
+                "desc": "Yemen-based group said on Monday they were imposing a naval blockade on Saudi Arabia. US-Iran war",
+                "image": "https://i.tribune.com.pk/media/images/551782354060-6/551782354060-6-640x480.webp",
+                "url": "https://tribune.com.pk/story/2619780/houthis-say-they-attacked-saudi-tankers-in-red-sea-as-us-concludes-12th-day-of-strikes-on-iran",
+                "source": "The Express Tribune",
+                "date": "2026-07-23T21:50:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man dead and three others in hospital after explosion that 'sounded like a bomb' at industrial unit",
+                "desc": "A MAN has been killed and three others injured in a devastating blast on an industrial estate.\nPolice responded to reports of a \"suspected...",
+                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/07/newspress-collage-674cqbxlm-1784842613937.jpg?quality=90&strip=all&1784846726&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.ie/news/17345821/man-dead-three-hospital-explosion-bomb/",
+                "source": "The Irish Sun",
+                "date": "2026-07-23T21:50:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada, Mexico among countries getting hit",
+                "desc": "The Trump administration says it is hitting dozens of countries, including Canada, with tariffs citing forced labour in supply chains.",
+                "image": "https://www.bnnbloomberg.ca/resizer/v2/NP5P6SHBTFSBPBFX3VYHGB37JA.jpg?smart=true&auth=b8f55dd8dff327ba212bbb3b8189cb4d748583f1d2c4ceccdcc67686ad7ea79b&width=1200&height=630",
+                "url": "https://www.bnnbloomberg.ca/tariffs/2026/07/23/trump-hitting-dozens-of-countries-including-canada-with-forced-labour-tariffs/",
+                "source": "BNN Bloomberg",
+                "date": "2026-07-23T21:50:07Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "First nursery for babies of Ebola victims opens in Democratic Republic of Congo",
                 "desc": "The first UNICEF-supported Ebola nursery opens in the Democratic Republic of Congo, supporting young children whose parents have contracted the disease while the number of cases intensifies.",
@@ -1806,98 +1896,8 @@
                 "source": "The Guardian",
                 "date": "2026-07-23T07:48:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ramaphosa sends delegation to Mahama over South Africa xenophobic attacks",
-                "desc": "President John Dramani Mahama has disclosed that South African President Cyril Ramaphosa recently dispatched a delegation to Ghana to discuss the recurring",
-                "image": "https://www.citinewsroom.com/wp-content/uploads/2026/03/MAHAMA-PHIL-3.jpg",
-                "url": "https://www.citinewsroom.com/2026/07/ramaphosa-sends-delegation-to-mahama-over-south-africa-xenophobic-attacks/",
-                "source": "CitiNewsroom.com",
-                "date": "2026-07-23T06:01:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa: Bill Gates Urges Early AI Rollout in Africa to Narrow Health Gap",
-                "desc": "American philanthropist Bill Gates has called for artificial intelligence (AI) to be deployed in Africa from the early stages of its development, warning that introducing the technology only after it has benefited wealthier nations would deepen global health inequalities.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202607230180.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-23T06:01:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada pushes new UK government to join defense bank",
-                "desc": "Ottawa is hopeful that Britain will sign up after membership was blocked by ousted finance minister Rachel Reeves.",
-                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/22/GettyImages-2236804783-scaled.jpg",
-                "url": "https://www.politico.eu/article/canada-new-uk-government-join-defence-security-and-resilience-bank-david-mcguinty/",
-                "source": "politico.eu",
-                "date": "2026-07-23T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India sends medical assistance to Kenya to strengthen preparedness for Ebola",
-                "desc": "India News: NEW DELHI: Indian High Commissioner to Kenya Adarsh Swaika Tuesday handed over the first tranche of medical assistance, weighing 4.5 tonnes, to the co.",
-                "image": "https://static.toiimg.com/thumb/msid-132573080,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/india/india-sends-medical-assistance-to-kenya-to-strengthen-preparedness-for-ebola/articleshow/132572987.cms",
-                "source": "The Times of India",
-                "date": "2026-07-23T05:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Niger: 3 Years of Military Rule Deepens Human Rights Crisis",
-                "desc": "Security Threat Spurs Crackdown on Political Opposition, Civil Society, Media",
-                "image": "https://cdn.allafrica.com/download/pic/main/main/csiid/00650599:ba4b9c0af60b3422fc5ea25e9b76c2f8:arc614x376:w1200.jpg",
-                "url": "https://allafrica.com/stories/202607230168.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-23T05:56:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran claims to have struck US Patriot missile system in Kuwait",
-                "desc": "The IRGC stated that in retaliation for what it described as US interference in the Strait of Hormuz, it struck a US military equipment warehouse and a Patriot missile system in Kuwait.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730735",
-                "url": "https://www.jpost.com/middle-east/iran-news/article-903376",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-23T05:54:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Emerging Talents: International Fashion Platform in Switzerland",
-                "desc": "Deadline: 31-Dec-2026 The Emerging Talents: International Fashion Platform Programme supports emerging fashion and accessory designers connected to Switzerland by providing funding for participation in international trade fairs, showrooms, and specialist events. Selected designers can receive up to CHF 4,000 in support, with additional childcare assistance available for designers with family responsibilities. About the Emerging Talents:",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/innovation/emerging-talents-international-fashion-platform-in-switzerland/",
-                "source": "fundsforNGOs",
-                "date": "2026-07-23T05:51:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Houthis hit Saudi ship in Red Sea as Iran war escalates",
-                "desc": "A Saudi vessel was attacked in the Red Sea as Tehran-backed Houthis claimed to strike tankers in the waterway, Riyadh’s state media said, signalling a potential new front in the US-Iran conflict.",
-                "image": "https://news24cobalt.24.co.za/resources/02a7-212b9fb7d99e-7276cf572a8a-1000/format/inline/houthi_soldier.jpeg",
-                "url": "https://www.news24.com/world/houthis-hit-saudi-ship-in-red-sea-as-iran-war-escalates-20260723-0290",
-                "source": "News24",
-                "date": "2026-07-23T05:50:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Cockroach’ protests: India’s Modi promises to punish corrupt officials in bid to quell anger",
-                "desc": "Prime minister says ‘those who try to harm the future of our youth will not be spared’ as exam leaks scandal spirals into widespread anger with his government",
-                "image": "https://i.guim.co.uk/img/media/ff44c34f244b5957ed62f50384f854394872ec3e/1200_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bec8d1d3a3f39ec25f3c822b95b5c353",
-                "url": "https://www.theguardian.com/world/2026/jul/23/cockroach-janta-party-protest-cjp-india-modi-corrupt-officials",
-                "source": "The Guardian",
-                "date": "2026-07-23T05:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Funding cuts threaten Africa's progress in fight against disease",
-                "desc": "A growing funding crisis dominated discussions at the African Union's Extraordinary Summit on Health in Accra on Wednesday. Leaders warned that cuts in international aid and limited domestic investment are threatening decades of progress against diseases including HIV, malaria and tuberculosis.",
-                "image": "https://images.euronews.com/articles/stories/09/84/76/97/1024x538_cmsv2_bb63b1ca-4e20-59b8-940f-d3e6ca054449-9847697.jpg",
-                "url": "https://www.africanews.com/2026/07/23/funding-cuts-threaten-africas-progress-in-fight-against-disease/",
-                "source": "africanews.com",
-                "date": "2026-07-23T05:47:13Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-24T07:36:55.114222Z"
+    "lastGlobalSync": "2026-07-24T10:00:17.722991Z"
 }
