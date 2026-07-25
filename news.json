@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Starship 13th flight concludes as megarocket splashes down in Indian Ocean",
+                "desc": "Starship has cleared its biggest hurdle, but the mission is only just beginning. Several crucial moments still lie ahead as the world's most powerful rocket embarks on yet another test, one that could shape the future travel to Moon and Mars.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/starship-launched-all-eyes-on-starlink-deployment--indian-ocean-crash-245519183-16x9_0.png?VersionId=pCiA0y9kKuMRK6_eag3x2TmlgMN46jab",
+                "url": "https://www.indiatoday.in/science/story/musks-starship-launched-all-eyes-on-starlink-deployment-2955765-2026-07-25",
+                "source": "India Today",
+                "date": "2026-07-24T22:52:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elon Musk Wouldn't Rule Out a Tesla-SpaceX Merger on the July 22 Earnings Call. Here's What It Would Mean for the Shares You Own Today.",
+                "desc": "The idea of combining the two companies is no longer a fan theory. It came up on an earnings call, and the CEO didn't say no.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880393%2Felon-musk_tesla_tsla_ceo_imagesource_the-white-house_2.jpeg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/24/elon-musk-wouldnt-rule-out-a-tesla-spacex-merger-o/",
+                "source": "The Motley Fool",
+                "date": "2026-07-24T22:47:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "S&P 500 Wavers as Oil Decline Offsets Chip Selloff: Markets Wrap",
+                "desc": "(Bloomberg) -- Wall Street traders sent stocks wavering at the end of a jittery week, with a drop in oil prices and signs of strength in Corporate America’s profit machine offsetting a selloff in chipmakers.",
+                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1765874455",
+                "url": "https://www.swissinfo.ch/eng/s%26p-500-wavers-as-oil-decline-offsets-chip-selloff%3A-markets-wrap/91792550",
+                "source": "SWI swissinfo.ch",
+                "date": "2026-07-24T22:35:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Patios and local food options drive summer traffic at this Sault pub",
+                "desc": "With indoor seating plus street-level and rooftop patios, The Tap Room gives Sault residents more options for warm-weather drinks and light bites downtown",
+                "image": "https://www.vmcdn.ca/f/files/sootoday/images/columns/lets-eat/the-tap-room/20260723-the-tap-room-lets-eat-dt-01.jpg;w=1200;h=800;mode=crop",
+                "url": "https://www.sootoday.com/lets-eat/patios-and-local-food-options-drive-summer-traffic-at-this-sault-pub-12588127",
+                "source": "SooToday.com",
+                "date": "2026-07-24T22:35:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+                "desc": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+                "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
+                "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+                "source": "TechCrunch",
+                "date": "2026-07-24T22:25:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Altana Acquires Customs Automation Startup Cervo AI",
+                "desc": "Altana is expanding its supply chain mapping and compliance solution with the acquisition of Cervo AI, a startup that automates customs paperwork.",
+                "image": "https://wwd.com/wp-content/uploads/2026/07/smartport.jpg?w=1000&h=563&crop=1",
+                "url": "https://wwd.com/sourcing-journal/trade/altana-acquires-cervo-ai-customs-compliance-trade-cbp-maersk-supply-chain-1239082469/",
+                "source": "WWD",
+                "date": "2026-07-24T22:22:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Salmonella outbreak tied to eggs has sickened 98 people since November",
+                "desc": "Nearly 100 people in 17 states have been sickened in a salmonella outbreak tied to recalled eggs, federal health officials said Friday.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260724-eggs-salmonela-bf-1810-1f0275.jpg",
+                "url": "https://www.nbcnews.com/health/health-news/salmonella-outbreak-tied-eggs-sickened-98-people-november-rcna589153",
+                "source": "NBC News",
+                "date": "2026-07-24T22:19:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
+                "desc": "(Security) hole-ier than thou",
+                "image": "https://image.theregister.com/5278665.jpg?imageId=5278665&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/security/2026/07/24/popes-official-prayer-app-commits-cardinal-sin-leaks-700k-users-info/5278603",
+                "source": "The Register",
+                "date": "2026-07-24T22:19:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "More Cores, More (3D V-)Cache, Clocks & Scalable Configs",
+                "desc": "AMD has launched its first Zen 6 CPUs, the EPYC Venice, and we use them to analyze what we can expect from the Ryzen \"Olympic Ridge\" lineup.",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/AMD-Ryzen-Zen-6-CPUs.jpg",
+                "url": "https://wccftech.com/amd-epyc-venice-previews-zen-6-ryzen-olympic-ridge-cpus-more-cores-3d-v-cache-clocks/",
+                "source": "Wccftech",
+                "date": "2026-07-24T22:10:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+                "desc": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-smart-money-stage.jpg?w=1200",
+                "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+                "source": "TechCrunch",
+                "date": "2026-07-24T22:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "F.D.A. Panel’s Vote on Peptides Raises Concerns About a Prescribing Boom",
                 "desc": "The committee endorsed broader use of the peptides in lightly regulated compounding pharmacies that have grown into a multibillion-dollar business.",
                 "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-peptides-FDA-fkjz/24dc-peptides-FDA-fkjz-facebookJumbo.jpg",
@@ -542,99 +632,99 @@
                 "source": "BBC",
                 "date": "2026-07-24T09:35:23Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Wise tumbles after US declines national trust bank application",
-                "desc": "July 24 (Reuters) - London-listed ⁠shares of Wise fell 10% on Friday after ⁠the money transfer group said its application ‌to create a national trust bank in the United States was denied by regulators, amid major changes in financial policy.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/24/4026383.jpg",
-                "url": "https://www.thestar.com.my/tech/tech-news/2026/07/24/wise-tumbles-after-us-declines-national-trust-bank-application",
-                "source": "The Star",
-                "date": "2026-07-24T08:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Young victims of doxxing among 200 cases S’pore’s Online Safety Commission has seen in first month",
-                "desc": "Among the victims were two children whose phone numbers and photos were posted online. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0611a5fbf547027ff5ffa8c9c673dba2d38d46d8da080b8a8df1e03a99f93539",
-                "url": "https://www.straitstimes.com/tech/young-victims-of-doxxing-among-200-cases-spores-online-safety-commission-has-seen-in-first-month",
-                "source": "The Straits Times",
-                "date": "2026-07-24T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Korean tycoon ordered to pay $831m in divorce",
-                "desc": "The court ruled that his former wife is entitled to one-third of their marital assets. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a9cd70ae5b16552e412d7ff2ca56ff96fe5febf100cbd9016b0791963fe95255",
-                "url": "https://www.straitstimes.com/asia/east-asia/south-korean-tycoon-ordered-to-pay-832m-in-divorce",
-                "source": "The Straits Times",
-                "date": "2026-07-24T07:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks suffer fresh blow as markets hit by perfect storm",
-                "desc": "Markets now face the resurgent Middle East war, a spike in oil prices back past US$100 and worries about the artificial intelligence investment boom.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--EJQJFM0z--/c_crop,h_1125,w_2000,x_0,y_53/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/24/000_c2tx6ke.jpg?itok=JVE1h66q",
-                "url": "https://www.channelnewsasia.com/asia/asian-stocks-down-middle-east-war-ai-tariffs-6275201",
-                "source": "CNA",
-                "date": "2026-07-24T07:58:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan to test rare earth mining 6km underwater in February 2027",
-                "desc": "A mission had successfully recovered rare earth samples from 6km below the waves. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4e4cca110338d777f5dae12a43ac3473338094048d8bf7d533cf936000f0bbe7",
-                "url": "https://www.straitstimes.com/asia/east-asia/japan-to-test-rare-earth-mining-6km-underwater-in-february-2027",
-                "source": "The Straits Times",
-                "date": "2026-07-24T07:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Natixis Forecasts Fed Rate Pause Until 2026 Amid Soft Jobs and Stable CPI",
-                "desc": "FXStreet reports—Natixis's latest FOMC outlook indicates that weak June employment data (non-farm payrolls rose by only 57,000) and flat core CPI month-over-mon",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.6.0/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/natixis-forecasts-fed-rate-pause-until-2026-amid-soft-jobs-and-stable-cpi",
-                "source": "KuCoin",
-                "date": "2026-07-24T07:54:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Twice-Yearly Lenacapavir Strengthens Promise of HIV Prevention",
-                "desc": "New data to be presented at AIDS 2026 will show that injectable lenacapavir given twice yearly remains an exceptional protection against HIV with nearly no new infections, good adherence and no new safety issues across the PURPOSE-1 and PURPOSE-2 trials.\nResearchers reported promising results for a weekly oral HIV treatment of islatravir and lenacapavir that was as effective as daily therapy in keeping viral suppression. This fuels hope of more flexible options for both prevention and treatment. \nInjectable lenacapavir is a highly effective long-acting pre-exposure prophylaxis (PrEP) that can be given just twice a year and has shown near-complete effectiveness in preventing HIV infection and could be a potentially transformative HIV prevention medicine.",
-                "image": "https://cdn.allafrica.com/download/pic/main/main/csiid/00680920:e4dc066392828d8e412917d4856759c7:arc614x376:w1200.png",
-                "url": "https://allafrica.com/view/group/main/main/id/00097550.html",
-                "source": "allAfrica.com",
-                "date": "2026-07-24T07:51:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Coke is hit? In India, Iran war can shortage sends Diet Coke prices fizzing",
-                "desc": "The closure of the Strait of Hormuz, a critical supply route for aluminium cans, has forced Coca-Cola to source some from Southeast Asia.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/24/58796208-50fb-47fa-b4b6-e74b365c1b2b_2b583a9b.jpg?itok=avJ2bHU1&v=1784879499",
-                "url": "https://www.scmp.com/news/asia/south-asia/article/3361729/coke-hit-india-iran-war-can-shortage-sends-diet-coke-prices-fizzing",
-                "source": "South China Morning Post",
-                "date": "2026-07-24T07:51:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KFC Singapore launches lifestyle merchandise collection with bucket bag, plush toy and jacket",
-                "desc": "The items will be available from Aug 1 from KFC Kallang and the brand's online merchandise store.",
-                "image": "https://dam.mediacorp.sg/image/upload/s---s2vtIpZ--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/24/kfc_lifestyle_merchandise_jacket_bucket_bag.png?itok=fQpWFllO",
-                "url": "https://cnalifestyle.channelnewsasia.com/dining/kfc-swags-singapore-merchandise-586436",
-                "source": "CNA Lifestyle",
-                "date": "2026-07-24T07:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Take a look at the T-7 as BAE, Boeing, and Saab formalise bid for Hawk replacement",
-                "desc": "BAE Systems, Boeing and Saab have formalised a joint bid for the RAF’s future fast-jet trainer programme",
-                "image": "https://www.forcesnews.com/sites/default/files/styles/cover_image/public/T7%20Red%20Hawk%20Farnborough%20Airshow%20230726%20CREDIT%20BFBS.jpg?itok=Lp5Ew-Kp",
-                "url": "https://www.forcesnews.com/services/raf/take-look-t-7-bae-systems-boeing-and-saab-formalise-bid-hawk-replacement",
-                "source": "Forces News",
-                "date": "2026-07-24T07:50:55Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "iOS 27: All the New iCloud Features",
+                "desc": "iOS 27 includes new iCloud capabilities across several apps like Apple Home, Siri, Photos, and more. There are some direct iCloud improvements like upgrades to photo uploads and sharing, along with some indirect new features. HomeKit Secure Video Cameras (iCloud+) If you have HomeKit Secure Video cameras, the Home app in iOS 27 has a couple of useful new Apple Intelligence features. You can get text-based summaries of what's going on, sent as notifications.",
+                "image": "https://images.macrumors.com/t/Oj2-MOVN-HKD5LYKies25pQb53E=/2500x/article-new/2026/07/iOS-27-All-the-New-iCloud-Features.jpg",
+                "url": "https://www.macrumors.com/guide/ios-27-icloud/",
+                "source": "MacRumors",
+                "date": "2026-07-24T22:54:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2 days left to get Microsoft’s Visual Studio Pro 2026 for just $30",
+                "desc": "Get Microsoft Visual Studio Professional 2026 for $29.97 through July 26 — just two more days left.",
+                "image": "https://helios-i.mashable.com/imagery/articles/01MppPneCFOBbfhD3hwx9Je/hero-image.fill.size_1200x675.v1784649155.jpg",
+                "url": "https://mashable.com/tech/july-24-microsoft-visual-studio-professional-2026",
+                "source": "Mashable",
+                "date": "2026-07-24T22:11:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tesla Cybercab caught on the road near Cardrona",
+                "desc": "New images posted to the Rare and Unique Car Spotting New Zealand Facebook page show a Tesla Cybercab moving under its own power on what appears to be",
+                "image": "https://autotrader.co.nz/wp-content/uploads/2026/07/756441013_2565113827268539_4466534529372455674_n.jpg",
+                "url": "https://autotrader.co.nz/news/tesla-cybercab-caught-on-the-road-near-cardrona",
+                "source": "Auto Trader NZ",
+                "date": "2026-07-24T22:01:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google, Epic app store injunction split creates global competition experiment",
+                "desc": "Google and Epic Games’ recent abandonment of their effort to modify an injunction before a California federal judge could create a natural experiment that will test two different systems for restoring competition in Android app distribution — one in the US and the other abroad.",
+                "image": "https://www.mlex.com/images/.png",
+                "url": "https://www.mlex.com/mlex/articles/2505727/google-epic-app-store-injunction-split-creates-global-competition-experiment",
+                "source": "MLex",
+                "date": "2026-07-24T22:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marvel Tokon: Fighting Souls Beta Crashes PSN Servers for Hours on End",
+                "desc": "Marvel Tōkon: Fighting Souls officially started an open beta test on the morning of July 24, but shortly after the beta went live, users started reporting that they could not access the game due to a PlayStation Account error. The beta, went live across PC, PS5, and Xbox platforms, has reportedly...",
+                "image": "https://www.techpowerup.com/img/SjsuIhrI37c549So.jpg",
+                "url": "https://www.techpowerup.com/351064/marvel-tokon-fighting-souls-beta-crashes-psn-servers-for-hours-on-end",
+                "source": "TechPowerUp",
+                "date": "2026-07-24T21:51:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Roku jacks up streaming device prices by up to 60%",
+                "desc": "Once stock runs out, the increase hits",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/07/copy-of-169-16.png?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/roku-jacks-up-streaming-device-prices-by-up-to-60/",
+                "source": "Android Police",
+                "date": "2026-07-24T21:45:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google launches selfie video sign-in for account recovery",
+                "desc": "Google launches selfie video sign-in for account recovery",
+                "image": "https://images.t2online.in/cdn-cgi/image/width=1200,fit=crop,gravity=auto,quality=70/https://apis.t2online.in/getImageStream/7879/1784929548524.png",
+                "url": "https://t2online.in/tech/tech-news/google-launches-selfie-video-sign-in-for-account-recovery/2006741",
+                "source": "t2ONLINE",
+                "date": "2026-07-24T21:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Joining the fold: flexible phones target more consumers",
+                "desc": "From a clumsy beginning, smartphones with screens that fold and flip are attracting more interest from makers and...",
+                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/be2ad2c5-ac10-45ca-a1da-89b44e4b3ac5.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+                "url": "https://www.canberratimes.com.au/story/9317333/joining-the-fold-flexible-phones-target-more-consumers/",
+                "source": "The Canberra Times",
+                "date": "2026-07-24T21:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Everyone's Favorite DJI Clone Just Stopped Selling its Osmo Pocket 4P Lookalike",
+                "desc": "Days after the FCC cracked down on Xtra and other similar DJI-like companies, Xtra has stopped taking preorders for its newest camera.",
+                "image": "https://petapixel.com/assets/uploads/2026/06/The-Dual-Lens-Xtra-Muse-2-Pro-Undercuts-Insta360-with-Sub-700-Price.jpg",
+                "url": "https://petapixel.com/2026/07/24/everyones-favorite-dji-clone-just-stopped-selling-its-osmo-pocket-4p-lookalike/",
+                "source": "PetaPixel",
+                "date": "2026-07-24T21:35:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hinge Review: An Excellent Dating App for Opening the Door to Love",
+                "desc": "Hinge lets you build beautiful profiles, send voice notes, and interact with potential partners in a fun, flirty fashion.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/review/h/hinge-revi/hinge-review-an-excellent-dating-app-for-opening-the-door-to_geqy.1200.png",
+                "url": "https://au.pcmag.com/dating/67046/hinge",
+                "source": "PCMag Australia",
+                "date": "2026-07-24T21:28:27Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "GTA 6 physical copies in Japan have a 170-day expiration date",
                 "desc": "Rockstar's support page apparently shows GTA 6 Japanese physical codes expire in 170 days, which has not gone over well with supporters of physical discs.",
@@ -1174,99 +1264,99 @@
                 "source": "nerdbot",
                 "date": "2026-07-24T09:36:43Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The Square by Square, a Hanhart Like Rarely Seen Before",
-                "desc": "Created for the Dubai Watch Week x Grail Watch Design Competition, the radical Square by Square is made available to collectors.",
-                "image": "https://monochrome-watches.com/app/uploads/2026/07/hanhart_square-by-square_collection-shaped_Watch-1.jpg",
-                "url": "https://monochrome-watches.com/hanhart-square-by-square-shaped-watch-introducing-price/",
-                "source": "Monochrome Watches",
-                "date": "2026-07-24T08:01:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Tensor chipsets have reached the end of the road",
-                "desc": "According to the results of a recent reader poll, the majority believe that the Google Tensor chipset program should be retired. Agree?",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixel-10-pro-fold-tensor-g5-hero-2-scaled.jpg",
-                "url": "https://www.androidauthority.com/continue-google-tensor-poll-results-3690972/",
-                "source": "Android Authority",
-                "date": "2026-07-24T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gemini Live is now available on some early Google Home devices.",
-                "desc": "Google’s more powerful, conversational assistant for the home is now available on first-generation Google Home Mini speaker and Google Nest Hub display. You’ll need a Google Home Premium subscription to make it work though.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-                "url": "https://www.theverge.com/tech/970466/gemini-live-is-now-available-on-some-early-google-home-devices",
-                "source": "The Verge",
-                "date": "2026-07-24T07:53:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa's most popular phones have a tracking problem",
-                "desc": "Researchers have decrypted what Tecno, Infinix and Itel smartphones quietly send home: location, apps and camera activity.",
-                "image": "https://techcentral.co.za/wp-content/uploads/2026/07/phone-user-1500-800-2.jpg",
-                "url": "https://techcentral.co.za/africas-most-popular-phones-have-a-tracking-problem/284100/",
-                "source": "TechCentral",
-                "date": "2026-07-24T07:42:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-                "desc": "NodeBB fixes eight flaws Aikido rates high severity, including bugs exposing admin pages, private messages, and federation content to outsiders.",
-                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixTLaT7NCY3UuotqW1AHLiB1xN5K-nlqtpnOav_n7PWHNWWZmrSmmPTzmL6oA7N7dOgwSGxEbbBq90Q3OVK6wF2PSXdXLs7mKmBYc1dEBIc64Qsq6XEl7rYbv5PjRMViYiGXr8-ypMSs0ZJv_rJXqSWIbS4FVTuIphO7g9IfC0MG6m5dDXPXJoz7iezck/s1700-e365/nodebb.jpg",
-                "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-                "source": "The Hacker News",
-                "date": "2026-07-24T07:41:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Huawei Mate XT 2 stock expected to be more than Apple's foldable",
-                "desc": "Huawei Mate XT 2 will launch around Apple's foldable phone timeline, and a new leak says that the company has just increased the stock volume",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/MateXTs.jpg",
-                "url": "https://www.huaweicentral.com/huawei-mate-xt-2-stock-apples-foldable/",
-                "source": "Huawei Central",
-                "date": "2026-07-24T07:34:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "30 Years On, Patek Philippe Revisits A Modern Classic",
-                "desc": "In 1996, Patek Philippe introduced the Annual Calendar, a complication designed to bridge the gap between a standard date watch and a perpetual calendar.",
-                "image": "https://www.businesstoday.com.my/wp-content/uploads/2026/07/Patek-Philippe.jpg",
-                "url": "https://www.businesstoday.com.my/2026/07/24/30-years-on-patek-philippe-revisits-a-modern-classic/",
-                "source": "BusinessToday Malaysia",
-                "date": "2026-07-24T07:23:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xiaomi and Redmi's 2026 Audio Range Delivers Flagship Sound Without the Flagship Price < NAG",
-                "desc": "Xiaomi has spent years building a reputation on the core idea that technology should be affordable even at the high-end level. It is a philosophy that has worked exceptionally well for their smartphone ranges, and now the company is applying the same idea to personal audio. In South Africa we have no shortage of options when it comes to Bluetooth headphones, from entry-level imported brands to the most expensive flagship hardware. Even for a hardware reviewer like me, it becomes […]",
-                "image": "https://www.nag.co.za/wp-content/uploads/2026/07/xiaomiaudio_1.jpg",
-                "url": "https://www.nag.co.za/2026/07/24/xiaomi-and-redmis-2026-audio-range-delivers-flagship-sound-without-the-flagship-price/",
-                "source": "nag.co.za",
-                "date": "2026-07-24T07:17:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ACCC says Epic-Google settlement would promote competition in Australia",
-                "desc": "Epic Games and Google have received draft approval from Australia's competition watchdog for a global settlement to their long-running antitrust dispute. The Australian Competition & Consumer Commission said the proposed settlement would increase competition in app distribution and payment processing by allowing third-party app stores and alternative payment systems, while reducing service fees for many developers. The watchdog proposes to authorize the settlement until Sept. 30, 2032 and is seeking submissions until Aug. 7 before issuing a final determination in August or September.",
-                "image": "https://www.mlex.com/images/.png",
-                "url": "https://www.mlex.com/mlex/articles/2505303/accc-says-epic-google-settlement-would-promote-competition-in-australia",
-                "source": "MLex",
-                "date": "2026-07-24T07:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dataminers have discovered an Xbox 360 emulator hiding within the Xbox PC backwards compatibility",
-                "desc": "It was hidden in plain sight.",
-                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/08/xbox-360-disc-tray-open.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.xda-developers.com/dataminers-discover-an-xbox-360-emulator-hiding-within-the-xbox-pc-backward-compatibility/",
-                "source": "XDA",
-                "date": "2026-07-24T07:14:05Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "ICC prosecutor Karim Khan removed over 'serious misconduct'",
+                "desc": "Karim Khan was removed after 82 of the International Criminal Court's 125 member states voted to dismiss him following an investigation into allegations of sexual assault.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--diTWGDx1--/c_crop,h_560,w_997,x_1,y_31/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/ICC_Prosecutor_2_752.jpg?itok=hbp_7jBq",
+                "url": "https://www.channelnewsasia.com/world/karim-khan-icc-prosecutor-removed-sexual-assault-6277326",
+                "source": "CNA",
+                "date": "2026-07-24T22:54:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi strikes Houthi sites in Yemen after Red Sea tanker attack",
+                "desc": "Saudi Arabia and the Houthis traded fire recently for the first time in years, threatening a 2022 truce that has held despite expiring.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260713172127_Hormuz-New-11.jpg",
+                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/saudi-strikes-houthi-sites-in-yemen-after-red-sea-tanker-attack-article-13983206.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-24T22:52:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AHF Backs Africa Union’s Debt Reform Push",
+                "desc": "KAMPALA, Uganda--(BUSINESS WIRE)--AIDS Healthcare Foundation (AHF) welcomed the African Union’s focus on debt sustainability at this week’s Specialized",
+                "image": "https://aijourn.com/wp-content/uploads/2024/04/cropped-The-AI-Journal-1-32x32.png",
+                "url": "https://aijourn.com/ahf-backs-africa-unions-debt-reform-push/",
+                "source": "The AI Journal",
+                "date": "2026-07-24T22:46:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US missiles hit Iran as path towards de-escalation uncertain",
+                "desc": "Trump has threatened to expand targets in Iran, though he said he had not yet made a decision for new major strikes.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--Nya8NnXH--/c_crop,h_562,w_1000,x_0,y_51/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Iran_War_19143.jpg?itok=KIBrM-5S",
+                "url": "https://www.channelnewsasia.com/world/us-missiles-iran-war-donald-trump-6277381",
+                "source": "CNA",
+                "date": "2026-07-24T22:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Affordable Care Act rates could increase again in Pennsylvania",
+                "desc": "People who buy their healthcare coverage in Pennsylvania through the Affordable Care Act are expected to see their premiums skyrocket.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/16/e6c1040f-c5a0-4d88-bb6c-45a644e313f7/thumbnail/1200x630/e2548391b8f432b90ce4956e7158cbdf/5p-pkg-cost-of-health-care-wcco8ywx-00-01-2208.jpg",
+                "url": "https://www.cbsnews.com/pittsburgh/news/affordable-care-act-pennsylvania-rates/",
+                "source": "CBS News",
+                "date": "2026-07-24T22:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How volunteers with 3D printers make weapons for Ukraine",
+                "desc": "Last week, Ukrainian President Zelenskyy dismissed his tech-savvy defense minister. That sparked protests among supporters who credit him with helping transform Ukraine’s defense capabilities. Special correspondent Simon Ostrovsky and producer Katia Patin report on the technologies and policies that helped drive that transformation. A warning: this story includes graphic descriptions of war.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/weaponsondemand-1024x576.jpg",
+                "url": "https://www.pbs.org/newshour/show/how-volunteers-with-3d-printers-make-weapons-for-ukraine",
+                "source": "PBS",
+                "date": "2026-07-24T22:40:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The future is not something that will just be given to you - Julius Malema",
+                "desc": "Leader says EFF exists because it refuses to tell the youth that their suffering is normal, its role is to organise the anger of the people",
+                "image": "https://www.politicsweb.co.za/media/2026/04/JuliusMalemaHeroImage-1.jpg",
+                "url": "https://www.politicsweb.co.za/news/the-future-is-not-something-that-will-just-be-given-to-you-julius-malema",
+                "source": "Politicsweb",
+                "date": "2026-07-24T22:36:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "International Criminal Court prosecutor Karim Khan dismissed after sexual misconduct investigation",
+                "desc": "The International Criminal Court has dismissed prosecutor Karim Khan following an investigation into sexual misconduct allegations.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/c206d9d03c22b9301dedfd38a3aec7c2?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-25/icc-prosecutor-karim-khan-dismissed-sexual-misconduct/106957660",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-24T22:11:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says Saudi Arabia must join Abraham Accords for nuclear deal",
+                "desc": "Donald Trump says Saudi Arabia must join the Abraham Accords before moving forward with a civilian nuclear energy deal, adding there will be no enrichment.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-nuclear-announcement-oval-office.jpg",
+                "url": "https://www.foxnews.com/politics/trump-says-saudi-nuclear-agreement-wont-move-forward-without-abraham-accords-they-have-to-be-member",
+                "source": "Fox News",
+                "date": "2026-07-24T22:00:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Military action will not reopen Hormuz: CNA",
+                "desc": "Iran's ability to control commercial traffic through the strait of Hormuz is unlikely to be deterred by US military operations given the effectiveness of Iran's asymmetrical warfare tactics, according to the Center for Naval Analyses (CNA).",
+                "image": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/images/14-generic-hero-banners/herobanner_1600x530_generic-c.jpg?h=530&iar=0&w=1600&rev=2cf023b4e0484c1bb091b9f72dbf7771&hash=72DBDFEBEF6EE62E751AB5DD2221C77E",
+                "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2857065-military-action-will-not-reopen-hormuz-cna",
+                "source": "Argus Media",
+                "date": "2026-07-24T21:56:29Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "How a Summer of War With Iran Could Shape the Fall Elections",
                 "desc": "President Trump and Republicans can’t seem to escape the political fallout of the conflict.",
@@ -1806,98 +1896,8 @@
                 "source": "TechAfrica News",
                 "date": "2026-07-24T09:32:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "International Criminal Court members to vote on dismissing prosecutor Karim Khan",
-                "desc": "France said on Thursday it would vote in favor of the removal of Khan. The Netherlands, which hosts the court in The Hague, has also said it would support his dismissal.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730379",
-                "url": "https://www.jpost.com/international/article-903547",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-24T08:03:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mangrove Photography Awards 2026: Winning images",
-                "desc": "The overall winner of the photography competition highlights the impact of abandoned fishing nets on mangroves.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/overall-winner-tangled-glow-when-life-meets-the-ruins-gaurav-patil-1-1.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/world/mangrove-photography-awards-2026-c2e-spc",
-                "source": "CNN",
-                "date": "2026-07-24T08:02:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malaysia faces 10% duty under US’s new Section 301 tariffs over forced labour import rules",
-                "desc": "KUALA LUMPUR: Malaysia, among Asean countries, faces the lowest tariff of 10 per cent under the United States'  new Section 301 tariffs following failure to impose and effectively enforce forced labour import rules.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/24/4026374.JPG",
-                "url": "https://www.thestar.com.my/business/business-news/2026/07/24/malaysia-faces-10-duty-under-uss-new-section-301-tariffs-over-forced-labour-import-rules",
-                "source": "The Star",
-                "date": "2026-07-24T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump weighs massive Iran attack, Pakistan seeks peace talks restart",
-                "desc": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108338259-1784686800933-gettyimages-2286821261-ah707335_ztpnezjh.jpeg?v=1784824525&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
-                "source": "CNBC",
-                "date": "2026-07-24T07:54:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sex predator admits assaulting 11 children including daughter, granddaughters, nieces",
-                "desc": "SINGAPORE: Over three decades, a man sexually assaulted 11 young girls: his daughter, his son's two daughters, four nieces and four other children.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/24/4026370.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/24/sex-predator-admits-assaulting-11-children-including-daughter-granddaughters-nieces",
-                "source": "The Star",
-                "date": "2026-07-24T07:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Southern Europe still battling wildfires as Spain declares national emergency in Madrid region",
-                "desc": "Spain has declared a national emergency as wildfires threaten the Madrid region, while France seeks EU help and Italy battles blazes across Sicily.",
-                "image": "https://images.euronews.com/articles/stories/09/84/90/70/1200x675_cmsv2_72360ce6-65e8-5ad8-a35f-7e56992309af-9849070.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/07/24/southern-europe-still-battling-wildfires-as-spain-declares-national-emergency-in-madrid-re",
-                "source": "Euronews.com",
-                "date": "2026-07-24T07:52:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese ship shoots water cannon at Philippine vessel near South China Sea flashpoint",
-                "desc": "Chinese ships fired water cannon at Philippine vessels, including one carrying a CNN crew, near a dangerous flashpoint in the South China Sea on Friday – the third tense confrontation this week in the contested waters.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-22834454-4042-5129999999995-thumb.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/24/asia/china-philippines-south-china-sea-scarborough-intl-hnk",
-                "source": "CNN",
-                "date": "2026-07-24T07:49:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France evacuates Cap Ferret peninsula as Spain battles to prevent wildfires merging near Madrid - Europe live",
-                "desc": "Evacuees have been told to leave using hundreds of mobilised boats or the only road linking the area with the mainland",
-                "image": "https://i.guim.co.uk/img/media/09fb1decd7596822f688980f87dc3bb9f37de833/0_0_4153_3322/master/4153.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d413fe539cb5c102666dbd6153981e42",
-                "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
-                "source": "The Guardian",
-                "date": "2026-07-24T07:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UNIDO Advances Global Cooperation on Artificial Intelligence for Industry at WAIC 2026",
-                "desc": "The United Nations Industrial Development Organization (UNIDO) is strengthening international cooperation on artificial intelligence (AI) for industrial development through its participation in the World Artificial Intelligence Conference (WAIC) 2026. The organization highlighted the importance of using AI to support sustainable industrial growth, innovation, and inclusive digital transformation worldwide. At WAIC 2026, UNIDO emphasized the need",
-                "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
-                "url": "https://news.fundsforngos.org/2026/07/24/unido-advances-global-cooperation-on-artificial-intelligence-for-industry-at-waic-2026/",
-                "source": "fundsforNGOs News",
-                "date": "2026-07-24T07:45:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The UK Cabinet just got an AI Minister born in Bihar’s Muzaffarpur",
-                "desc": "Kanishka Narayan's elevation as Artificial Intelligence minister caps a journey that began in Muzaffarpur, took him through Cardiff, Eton, Oxford and Stanford, and into the heart of British politics",
-                "image": "https://images.indianexpress.com/2026/07/kanishka-narayan-1.jpg",
-                "url": "https://indianexpress.com/article/cities/patna/united-kingdom-cabinet-ai-minister-kanishka-narayan-bihar-muzaffarpur-10801449/",
-                "source": "The Indian Express",
-                "date": "2026-07-24T07:45:36Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-25T09:22:07.275914Z"
+    "lastGlobalSync": "2026-07-25T10:56:49.182572Z"
 }
