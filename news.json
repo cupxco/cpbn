@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Meet Yu Donglai, founder of China’s viral supermarket chain and guest of Premier Li Qiang",
+                "desc": "Yu’s company has caught the public’s attention for its business practices and high-quality goods.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/24/b28e7047-d36c-476a-8c04-6ebd45a8779f_c5c34f54.jpg?itok=MU0dgsTS&v=1784886076",
+                "url": "https://www.scmp.com/business/china-business/article/3361755/meet-yu-donglai-founder-chinas-viral-supermarket-chain-and-guest-premier-li-qiang",
+                "source": "South China Morning Post",
+                "date": "2026-07-25T08:00:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mushroom farmers concerned about U.S. tariffs, market shares",
+                "desc": "Some Canadian mushroom farmers are raising concerns over how the latest American tariffs on the product could impact their sales on both sides of the border.",
+                "image": "https://i.cbc.ca/ais/5afc4d72-cd72-4441-96e6-770893e23171,1784928693058/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/ottawa/local-mushroom-farmers-concerns-us-tariffs-9.7282599",
+                "source": "CBC",
+                "date": "2026-07-25T08:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Waymo’s driverless cars involved in 68% fewer crashes than human drivers, U.S. study finds",
+                "desc": "Waymo driverless cars were involved in 68 per cent fewer crashes than human drivers over a three-year period across four U.S. cities, according to new data from the U.S. Insurance Institute for Highway Safety.",
+                "image": "https://i.cbc.ca/ais/0a3154a8-90de-4bbd-92b2-62dafd00fd81,1784921602926/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/waymo-driverless-car-safety-study-9.7282895",
+                "source": "CBC",
+                "date": "2026-07-25T08:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tornado warnings are rising faster than actual tornadoes. Is that a good thing?",
+                "desc": "If you feel like you've been inundated with tornado warnings this year, it's not just you. Canada is not only on track for a record-setting tornado year, but warnings from Environment and Climate Change Canada are outpacing the twisters.",
+                "image": "https://i.cbc.ca/ais/d4612d7e-ee7d-4d32-b447-c39ae702acda,1784846055508/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C430%2C8256%2C4644%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/tornado-warnings-up-in-2026-9.7281459",
+                "source": "CBC",
+                "date": "2026-07-25T08:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How USDT Generated $481M in 30 Days",
+                "desc": "Tether news: USDT generated nearly $481M in 30-day revenue, according to DefiLlama. Here's how Tether's reserve model powers those earnings.",
+                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/July2026/tether-news-usdt-generated-481m-in-30-days-6158.webp",
+                "url": "https://www.coingabbar.com/en/crypto-currency-news/tether-news-usdt-generated-481m-in-30-days",
+                "source": "Coin Gabbar",
+                "date": "2026-07-25T08:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canadian Blood Services supply drops nearly 20% since June, prompting call for urgent blood donations",
+                "desc": "Canadian Blood Services is appealing for people across the country to donate blood, saying its supply has dropped significantly in the last several weeks.",
+                "image": "https://i.cbc.ca/ais/ea17d014-0838-4a82-800a-999223cbc02a,1784917920248/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C472%2C5712%2C3213%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/toronto/canadian-blood-services-public-appeal-donations-9.7282827",
+                "source": "CBC",
+                "date": "2026-07-25T08:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Interprovincial booze rules may be easing, but other trade barriers still remain",
+                "desc": "Though it will soon be easier for Canadians to buy alcohol from outside their home provinces, a litany of other barriers remain. Here's a look at some key issues that hinder the free flow of goods, services and labour between provinces.",
+                "image": "https://i.cbc.ca/ais/4251647b-12ea-479f-9875-2f5765965e2e,1784935889890/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C877%2C8416%2C4734%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/business/remaining-interprovincial-trade-barriers-9.7283460",
+                "source": "CBC",
+                "date": "2026-07-25T08:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two London stations are closing for almost a month for major upgrade works",
+                "desc": "London's Charing Cross and Waterloo East stations will close from this weekend for upgrade works worth £20,000,000 on tracks, platforms, and more.",
+                "image": "https://metro.co.uk/wp-content/uploads/2026/06/SEI_299918554-b001_1784721676.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+                "url": "https://metro.co.uk/2026/07/25/two-london-stations-closing-almost-a-month-major-upgrade-works-29197808/",
+                "source": "Metro.co.uk",
+                "date": "2026-07-25T08:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Petrol Price Increase Looms As $100/b Crude Raises Landing Costs, Supply Uncertainty",
+                "desc": "LEADERSHIP findings showed that key marketing groups are in close conversations to determine price variations and actual selling price.",
+                "image": "https://leadership.ng/wp-content/uploads/2026/06/fuel.webp",
+                "url": "https://leadership.ng/petrol-price-increase-looms-as-100-b-crude-raises-landing-costs-supply-uncertainty/",
+                "source": "LEADERSHIP Newspapers",
+                "date": "2026-07-25T07:55:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Equity Bank boosts transport sector with PSV fleet",
+                "desc": "Equity Bank has flagged off a fleet of 11 new public service vehicles (PSVs) for Nakonns SACCO in Othaya, Nyeri County, in a move expected to boost the SACCO's operations and expand its transport network.",
+                "image": "https://assets.citizen.digital/172043/conversions/932a89ac-9bb7-4164-9a19-e14f5bce1b64_equity-bank-og_image.webp",
+                "url": "https://citizen.digital/article/equity-bank-boosts-transport-sector-with-psv-fleet-n387092",
+                "source": "Citizen Digital",
+                "date": "2026-07-25T07:48:13Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Honda ZR-V Launched in India at Rs. 47.99 Lakh",
                 "desc": "With both India batches sold out, Honda has announced the prices of the ZR-V that is powered by a 2.0-litre strong hybrid powertrain,",
                 "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/224798/zr-v-exterior-left-front-three-quarter.jpeg?isig=0&art=1&isig=0&q=80",
@@ -542,99 +632,99 @@
                 "source": "TechCrunch",
                 "date": "2026-07-24T22:10:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "F.D.A. Panel’s Vote on Peptides Raises Concerns About a Prescribing Boom",
-                "desc": "The committee endorsed broader use of the peptides in lightly regulated compounding pharmacies that have grown into a multibillion-dollar business.",
-                "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-peptides-FDA-fkjz/24dc-peptides-FDA-fkjz-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html",
-                "source": "The New York Times",
-                "date": "2026-07-24T21:15:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK Brings Large Tech Providers into Regulatory Perimeter as Critical Third Parties",
-                "desc": "HM Treasury designated four global cloud services and technology providers as Critical Third Parties, bringing them under direct oversight of the UK financial regulators. The designations come in response to the increasing reliance of financial institutions on third-party service providers and the concentration risks that arise from a small number of service providers. CTP designation has similarities with the EU’s DORA and the U.S. Bank Service Company Act, but there are differences in scope and regulatory reach. In this memo we discuss these and other aspects of the UK Critical Third Party regime.",
-                "image": "https://www.sullcrom.com/SullivanCromwell/_Assets/images/sc-logo-2D_1200x630.png",
-                "url": "https://www.sullcrom.com/insights/memo/2026/July/Large-Tech-Providers-UK-Financial-Institutions-Subjected-Regulatory-Oversight",
-                "source": "Sullivan & Cromwell LLP",
-                "date": "2026-07-24T21:10:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-                "desc": "Models are improving quickly, but the cheaper options are often good enough.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-1152x648.jpg",
-                "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-                "source": "Ars Technica",
-                "date": "2026-07-24T21:05:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Siptu workers at Ireland’s largest dementia care facility announce 72-hour strike next week",
-                "desc": "Siptu said the escalation follows the ‘ongoing failure of management to regrade and pay the workers rates that recognise the duties they currently carry out’.",
-                "image": "https://img2.thejournal.ie/article/7112962/river/?height=400&version=7112966",
-                "url": "https://www.thejournal.ie/siptu-workers-at-irelands-largest-dementia-care-facility-announce-72-hour-strike-7112962-Jul2026/",
-                "source": "The Journal",
-                "date": "2026-07-24T21:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cadbury chocolate bar recalled across Canada",
-                "desc": "The Canadian Food Inspection Agency (CFIA) has issued a recall for a Cadbury chocolate bar sold across Canada.",
-                "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/07/shutterstock_2529191185.jpg?format=auto",
-                "url": "https://dailyhive.com/canada/cadbury-chocolate-bar-recall-canada",
-                "source": "Daily Hive",
-                "date": "2026-07-24T21:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The great tech manhunt: East Asia’s billion-dollar race for ASEAN talent",
-                "desc": "Japan, South Korea and Taiwan are turning to South-east Asia to plug a shortage of tech talents. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/58648f65540630aec4f75132f13e8c9c0c1da225de0df7519b9e987728252939",
-                "url": "https://www.straitstimes.com/asia/east-asia/the-great-tech-manhunt-east-asias-billion-dollar-race-for-asean-talent",
-                "source": "The Straits Times",
-                "date": "2026-07-24T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From tech visas to ‘gold card’, scholarships: Fast track to working in Japan, South Korea and Taiwan",
-                "desc": "These East Asian economies are looking for tech talent overseas to plug labour shortages back home Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c3d3c131712faa81c41a46ae27ea27791ab5064f541a747fbf8574156137009f",
-                "url": "https://www.straitstimes.com/asia/east-asia/from-tech-visas-to-gold-card-scholarships-fast-track-to-working-in-japan-south-korea-and-taiwan",
-                "source": "The Straits Times",
-                "date": "2026-07-24T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How should Faye, 68, and Ava, 60, draw down their RRSPs given their $108,000 spending target?",
-                "desc": "The couple is looking for advice on how to turn their savings into sustainable, tax-efficient retirement income",
-                "image": "https://www.theglobeandmail.com/resizer/v2/LZJIUSSUAZFBZFYIPD5XWQL6L4.JPG?auth=7fe84516292092caed2c29a8edb542cb24d96585eb886bc9acf2e771784085cf&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/investing/personal-finance/financial-facelift/article-financial-facelift-faye-ava-rrsp-tax-efficient-retirement-income/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-24T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Envisioning The Future Workplace: Leadership Lessons on Change",
-                "desc": "Executives share their insights on how to guide the future of work amid constant change due to AI. Gain leadership lessons and learn AI use cases.",
-                "image": "https://www.shrm.org/content/dam/en/shrm/topics-tools/news/gallup-summit-katy-george-web.png",
-                "url": "https://www.shrm.org/topics-tools/news/envisioning-future-workplace-leadership-lessons-on-change",
-                "source": "SHRM",
-                "date": "2026-07-24T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Worker housing for approved $1.5 billion Queensland wind farm faces opposition",
-                "desc": "While the worker accommodation would be a $68 million investment in Kingaroy, residents are voicing their opposition to the temporary project.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/7e42b024706960cd8a087c5bfcd45545?impolicy=wcms_watermark_news&cropH=1125&cropW=2000&xPos=0&yPos=104&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-25/kingaroy-residents-oppose-worker-housing-qld-tarong-wind-farm/106953774",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-24T20:57:20Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "One UI 9 makes Galaxy phones harder to break into after repeated wrong PIN attempts",
+                "desc": "Samsung's One UI 9 introduces stricter lock screen security with progressive lockouts and permanent device lock after 13 failed unlock attempts. Here's what Galaxy users need to know.",
+                "image": "https://tech-ish.com/wp-content/uploads/2026/06/Samsung-One-UI-9.jpg",
+                "url": "https://tech-ish.com/2026/07/25/one-ui-9-galaxy-wrong-pin-lockscreen-security/",
+                "source": "tech-ish.com",
+                "date": "2026-07-25T07:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "God Of War Laufey Gets February Date As Major Releases Pile Up",
+                "desc": "The PS5 exclusive barely seven months away from launching",
+                "image": "https://kotaku.com/app/uploads/2026/06/topgod2-1200x675.jpg",
+                "url": "https://kotaku.com/god-of-war-laufey-joins-the-growing-pile-of-february-2027-game-releases-2000719291",
+                "source": "Kotaku",
+                "date": "2026-07-25T07:27:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Free iPhone deal: T-Mobile is giving away the Apple iPhone 17 for free - how to qualify",
+                "desc": "How to get the Apple iPhone for free. Score the Apple iPhone 17 or iPhone 17 Pro for free with T-Mobile.",
+                "image": "https://helios-i.mashable.com/imagery/articles/06naruTjCqpW1JAGWxXrtun/hero-image.fill.size_1200x675.v1784900601.jpg",
+                "url": "https://mashable.com/tech/july-25-free-apple-iphone-deal",
+                "source": "Mashable",
+                "date": "2026-07-25T07:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ubuntu 26.10 \"Stonking Stingray\": All the New Features So Far",
+                "desc": "As usual, Canonical is using an interim release to test features headed for the next LTS. Her, we keep a track of the features as they are added.",
+                "image": "https://itsfoss.com/content/images/2026/07/ubuntu-26-10-features-banner.png",
+                "url": "https://itsfoss.com/news/ubuntu-26-10-features/",
+                "source": "It's FOSS",
+                "date": "2026-07-25T07:22:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "KDE Plasma 6.8 finally makes securing a remote desktop server a lot less annoying",
+                "desc": "Also, Discover's downloads look a lot better.",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/kde-plasma-laptop.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/kde-plasma-68-finally-makes-securing-a-remote-desktop-server-a-lot-less-annoying/",
+                "source": "XDA",
+                "date": "2026-07-25T07:17:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best DJI drone deal: Get the DJI Mini 5 Pro at its lowest price yet",
+                "desc": "Get the DJI Mini 5 Pro drone for $683, down from $759, as of July 25 — a 10% discount and at its record low price.",
+                "image": "https://helios-i.mashable.com/imagery/articles/03Y4zuYDyb05BkGbpzHynrM/hero-image.fill.size_1200x675.v1784894453.jpg",
+                "url": "https://mashable.com/tech/july-25-dji-mini-5-pro-deal",
+                "source": "Mashable",
+                "date": "2026-07-25T07:15:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vivo S2 India launch date tipped: Expected price, specifications, first sale date",
+                "desc": "Vivo S2 could release early next month, with the first sale expected to release a week later. The handset is expected to feature a similar design to the X300 FE.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260725070929_Vivo-S2.jpeg",
+                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/technology/vivo-s2-india-launch-date-tipped-expected-price-specifications-first-sale-date-article-13983327.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-25T07:09:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'AI will transform every industry': NVIDIA CEO Jensen Huang bats for open-weight AI models in his debut X post - Here's what he said",
+                "desc": "'AI will transform every industry': NVIDIA CEO Jensen Huang bats for open-weight AI models in his debut X post",
+                "image": "https://images.etnownews.com/thumb/msid-155175162,updatedat-1784962905095,width-1280,height-720,resizemode-75/155175162.jpg",
+                "url": "https://www.etnownews.com/technology/ai-will-transform-every-industry-nvidia-ceo-jensen-huang-bats-for-open-weight-ai-models-in-his-debut-x-post-heres-what-he-said-article-155175162",
+                "source": "ET Now",
+                "date": "2026-07-25T07:01:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft Azure California Service Outage Linked to Five Hour Fibre Network",
+                "desc": "Microsoft Azure California outage lasted nearly five hours after a major fibre network failure, disrupting cloud services and affecting customers",
+                "image": "https://chshyd.in/wp-content/uploads/2026/07/Microsoft-Azure-California-Outage.png",
+                "url": "https://chshyd.in/tech/microsoft-azure-california-outage-lasts-nearly-five-hours-following-major-fibre-network-failure/",
+                "source": "chshyd.in",
+                "date": "2026-07-25T07:01:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zenith Pays Tribute to Paris Once More",
+                "desc": "Zenith has introduced a new Paris-exclusive limited edition, available only in the French capital. After releasing a three-hand Defy model in 2024, the brand now",
+                "image": "https://en.worldtempus.com/themes/custom/worldtempus/favicon.ico",
+                "url": "https://en.worldtempus.com/article/new-watches/zenith-pays-tribute-paris-once-more-zenith-82932.html",
+                "source": "en.worldtempus.com",
+                "date": "2026-07-25T07:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Nothing's Reported Market Exit Raises Questions Over Strategy",
                 "desc": "Nothing is reportedly exiting several global markets. Here's what the claims mean, what is confirmed, and why Kenya may not be affected.",
@@ -1174,99 +1264,99 @@
                 "source": "PCMag Australia",
                 "date": "2026-07-24T21:28:27Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 physical copies in Japan have a 170-day expiration date",
-                "desc": "Rockstar's support page apparently shows GTA 6 Japanese physical codes expire in 170 days, which has not gone over well with supporters of physical discs.",
-                "image": "https://static.tweaktown.com/news/1/1/112829_2_gta-6-physical-copies-in-japan-have-170-day-expiration-date_full.jpg",
-                "url": "https://www.tweaktown.com/news/112829/gta-6-physical-copies-in-japan-have-a-170-day-expiration-date/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-24T21:20:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Roku Hikes Hardware Prices by Up to 60%",
-                "desc": "RAMageddon has claimed another company's products, with costs for streaming devices the latest to blow out.",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/roku-vs-apple-1-of-10_054072.jpg",
-                "url": "https://www.cnet.com/tech/home-entertainment/roku-hardware-prices-rise-ramageddon/",
-                "source": "CNET",
-                "date": "2026-07-24T21:10:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google announces a Pixel 11 price hike three weeks before the phone's official reveal",
-                "desc": "Android's next flagships will be more expensive.",
-                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/pixel-10-with-glowing-google-g-logo.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.howtogeek.com/google-pixel-11-early-price-hike/",
-                "source": "How-To Geek",
-                "date": "2026-07-24T21:06:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Instagram Is Starting to Crack Down on Creepy Smart Glasses Videos",
-                "desc": "Instagram is cracking down on smart glasses harassment videos. Here’s what Meta’s policy means and how to spot camera glasses in the wild.",
-                "image": "https://lifehacker.com/imagery/articles/01KYAVSYMVA04NJATA8PNXMDA5/hero-image.fill.size_1200x675.webp",
-                "url": "https://lifehacker.com/tech/instagram-banning-smart-glasses-harassment-videos",
-                "source": "Lifehacker",
-                "date": "2026-07-24T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Swatch’s new gold MoonSwatch is priced like it’s 1969",
-                "desc": "Swatch's Mission to the Moon 1969 has 11 grams of real gold, priced at 1969 rates",
-                "image": "https://s.yimg.com/lo/mysterio/api/07cac9fd15df63eb3adc190a8e697ecaed96e8ddff047d901ceb9b8643964cdb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_manual_309%2F8e030600fdd7dd34055a722ec8183f90",
-                "url": "https://shopping.yahoo.com/style/accessories/articles/swatch-gold-moonswatch-priced-1969-210000363.html",
-                "source": "Yahoo",
-                "date": "2026-07-24T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New living plastic self-destructs in 6 days, without leaving microplastics",
-                "desc": "Once switched on, the microbes produced two cooperating enzymes.",
-                "image": "https://s.yimg.com/lo/mysterio/api/3c35046f968a28c44d731237aeac3b7412aa0e7e922896b6a1056b2d22620a09/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fb8d3ffc08960c5d9676142a574aaf93e",
-                "url": "https://www.yahoo.com/news/science/articles/living-plastic-self-destructs-6-210000552.html",
-                "source": "Yahoo",
-                "date": "2026-07-24T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI Is 'Very Interested' in Building Out ChatGPT Integrations for Wearables",
-                "desc": "OpenAI President Greg Brockman talks a bit about where the company's increasingly Jarvis-like AI agents could be heading next… and in what form.",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/Meta.glasses.2026.jpg",
-                "url": "https://www.cnet.com/tech/services-and-software/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wearables/",
-                "source": "CNET",
-                "date": "2026-07-24T20:59:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "7 Splatoon Raiders Tips To Help You Get Your Sea Legs",
-                "desc": "Woomy up",
-                "image": "https://kotaku.com/app/uploads/2026/06/splatoon-raiders-direct.jpg",
-                "url": "https://kotaku.com/7-splatoon-raiders-tips-to-help-you-get-your-sea-legs-2000719175",
-                "source": "Kotaku",
-                "date": "2026-07-24T20:56:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nothing rejects exit rumours, says restructuring will drive next growth phase",
-                "desc": "Nothing rejects exit rumours, says restructuring will drive next growth phase",
-                "image": "https://images.t2online.in/cdn-cgi/image/width=1200,fit=crop,gravity=auto,quality=70/https://apis.t2online.in/getImageStream/7877/1784926332525.jpg",
-                "url": "https://t2online.in/tech/tech-news/nothing-rejects-exit-rumours--says-restructuring-will-drive-next-growth-phase/2006739",
-                "source": "t2ONLINE",
-                "date": "2026-07-24T20:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Can Build Your Workout. But Can It Actually Replace Your Trainer?",
-                "desc": "A new wave of AI-driven equipment is bringing personalized fitness to your fingertips. We asked the experts how smart these devices really are.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a60fb9f64ab5437098d405e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/forbes-personal-shopper/2026/07/24/ai-personal-training-fitness/",
-                "source": "Forbes",
-                "date": "2026-07-24T20:50:38Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "ICT Firm Leaders Hail Ethiopia's AI University as Catalyst for Africa's Digital Future",
+                "desc": "Addis Ababa, July 25, 2026 (ENA) —Information and Communication Technology (ICT) firm leaders from Ghana, Egypt, and Zimbabwe have hailed Ethiopia's establishment of its first Artificial Intelligence University (AIU) as a landmark initiative, describing it as a catalyst for Africa's digital transformation and future technological advancement.\nIn an exclusive interview with ENA, they described the initiative as a transformative step toward strengthening Africa's AI capabilities, promoting data sovereignty, and accelerating homegrown innovation across the continent.\nFounder and Chief Executive Officer of FloodGates International and creator of Trustur AI, Oswald Wedam Anonadaga, said the initiative positions Ethiopia to shape its own digital future by developing AI solutions tailored to the country's priorities and development needs.\n\"I think establishing an AI university, especially one that focuses on the Ethiopian context and creates solutions for the Ethiopian economy, is one of the best initiatives,\" he said.\nAccording to Anonadaga, the university should evolve beyond a conventional academic institution and become a strategic hub for AI research, innovation, entrepreneurship, and talent development capable of supporting both the public and private sectors.\nHe emphasized that grounding AI education and research in local realities would enable Ethiopia to develop technologies that address the country's unique social, economic, cultural, and linguistic challenges while reducing reliance on imported technologies.\nAnonadaga also encouraged other African countries to establish similar institutions that can \"train people, build solutions and adapt AI locally for our countries.\"\nHe noted that locally driven AI education would allow African nations to define their own technological priorities, protect their data, strengthen digital sovereignty, and build globally competitive technology companies.\nHighlighting the broader economic benefits of AI skills development, he said expanding the pool of AI professionals would stimulate research, entrepreneurship, innovation, and the growth of vibrant digital ecosystems across Africa.\nDrawing inspiration from Ghana's One Million Coders initiative, Anonadaga suggested Ethiopia could launch an ambitious national program to train one million AI specialists.\n \n\"If you are designing a solution, especially in Ethiopia, one of the things to look at is how we make this AI first,\" he said, proposing a vision of producing \"one million AI coders.\"\nCo-founder of Deaf Gain, Alshimaa Elbahrawy, on her part emphasized that the planned university presents an important opportunity to make AI education more inclusive by ensuring that persons with disabilities have equal access to learning, research, and innovation.\nShe called for dedicated programs that empower people with disabilities and stressed the crucial role educators and institutions play in expanding access to AI knowledge.\n\"We need to make a different collaboration,\" she said, adding that Africa should demonstrate to the world that it can build good partnership and good collaboration.\"\nElbahrawy emphasized that inclusivity should be embedded in the design of AI education so that technological progress benefits every segment of society and no one is left behind in the digital transformation.\nSimilarly, Executive Director of Accountability Lab East and Southern Africa, McDonald Lewanika, underscored the importance of data sovereignty as African countries expand their AI ambitions.\n\"Data sovereignty is an important one. Now data itself is the new oil,\" he said.\nLewanika argued that African countries must take greater ownership of their data by investing in secure digital infrastructure, including data centers, strengthening governance and regulatory frameworks, and developing specialized AI expertise to ensure Africans derive maximum value from the data they generate.\nThe experts agreed that Ethiopia's proposed AI University represents far more than the establishment of a new higher education institution.\nThey said it is a strategic investment that could strengthen Africa's technological independence, advance data sovereignty, nurture a new generation of AI professionals, and position Ethiopia as a leading continental hub for artificial intelligence research, innovation, and digital transformation.",
+                "image": "https://www.ena.et/documents/42142/0/ICT++S+6.jpg/b084936b-7185-6418-6e1c-cb5e39722cc9?version=1.0&t=1784965756516&download=true",
+                "url": "https://www.ena.et/web/eng/w/eng_9270907",
+                "source": "ENA English",
+                "date": "2026-07-25T07:57:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US intelligence sees Mojtaba Khamenei more open to nuclear weapon than his father: NYT",
+                "desc": "Trump warned the US military is prepared for larger strikes if necessary. Overnight hostilities expanded with US strikes in southern Iran and Iranian attacks targeting assets in Kuwait, Bahrain, and Iraq's Kurdistan Region. European diplomats reduced their presence in Tehran. US intelligence agencies believe Iran's new Supreme Leader, Mojtaba Khamenei, shows greater willingness than his predecessor to seek a nuclear weapon. The assessment follows the death of former Supreme Leader Ali Khamenei during the war. Officials cautioned that much of the underlying intelligence predates the conflict. While Mojtaba Khamenei has kept a low profile since taking power, US officials noted Iran has not resumed nuclear enrichment, even after relocating some equipment to the underground site at Pickaxe Mountain. Trump weighs major strike US President Donald Trump met with top advisors on Friday to evaluate possible escalation. He told reporters he had not yet decided whether to launch new strikes, but warned that American forces remain \"locked and loaded\". A day earlier, Trump indicated he was considering an attack \"larger than all previous attacks.\" Inside Iran, analysts and social media users voiced deep anxiety over the threat of wider bombardment. International affairs analyst Amir-Ali Abolfath compared the current atmosphere to the hours before the war's opening strikes, warning that a larger confrontation could lie ahead. Military exchanges widen across region US Central Command carried out strikes across southern Iran, targeting military installations, logistics facilities, and air defense systems. In response, Iranian forces launched strikes against US positions in Kuwait, Bahrain, and Iraq's Kurdistan Region. The Islamic Revolutionary Guard Corps claimed strikes on a US base in Kuwait and an Amazon data center in Bahrain. Iran's army also reported strikes on Isa Air Base in Bahrain, while the IRGC warned civilians to stay at least 500 meters away from potential targets. Diplomats exit as mediators arrive Britain announced the withdrawal of all diplomats from Tehran, while French and German missions adjusted operations. Amid the escalating confrontation, an Omani delegation arrived in Tehran. Official reports focused on shipping management in the Strait of Hormuz, but the visit prompted speculation that Muscat may be conveying messages between Washington and Tehran.",
+                "image": "https://backend.royanews.tv/imageserv/Size728Q70/english/news/20260725/6a64605e99c3f1784963166.jpg",
+                "url": "https://en.royanews.tv/news/72034/US-intelligence-sees-Mojtaba-Khamenei-more-open-to-nuclear-weapon-than-his-father%3A-NYT",
+                "source": "Roya News",
+                "date": "2026-07-25T07:54:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Crisis almost business as usual' as US tariff hits Kiwi exporters",
+                "desc": "Business leaders say confidence is 'brittle' as the higher 12.5% import tax lands on an already tough market.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/wine-H7O6UZSV6BHJRLOYVWFZXBBKYA.jpg?auth=18b7f7adc5986e868ca84156706adb07bfe4ff084fbff4c35a96c0e1cd3c706f&quality=70&width=600&height=315&focal=861%2C309",
+                "url": "https://www.1news.co.nz/2026/07/25/crisis-almost-business-as-usual-as-us-tariff-hits-kiwi-exporters/",
+                "source": "1News",
+                "date": "2026-07-25T07:53:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FABC Delegates Explore Regional Synodal Collaboration Through 'Table Conversations'",
+                "desc": "Bishops and delegates at the 12th Plenary Assembly of the Federation of Asian Bishops' Conferences (FABC) turned their attention to strengthening regional ties on July 25, as they explored how local Churches across Asia can deepen their relationships and advance the Church's synodal mission together.",
+                "image": "https://www.rvasia.org/sites/default/files/styles/og_image/public/2026-07/synodal_collaboration_2.png?h=d1cb525d&itok=S2NYPIvf",
+                "url": "https://www.rvasia.org/asian-news/fabc-delegates-explore-regional-synodal-collaboration-through-conversation-spirit",
+                "source": "Radio Veritas Asia | RVA",
+                "date": "2026-07-25T07:53:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Biya's Absence Sparks Succession Deba",
+                "desc": "President Paul Biya's 48-day absence from Cameroon reignites concerns over a power vacuum and government inaction, fueling debate about the post-Biya era.",
+                "image": "https://punchng.com/wp-content/uploads/2026/07/Paul-Biya_1784965877.webp",
+                "url": "https://punchng.com/biyas-48-day-absence-reignites-debate-over-power-vacuum-in-cameroon/",
+                "source": "Punch Newspapers",
+                "date": "2026-07-25T07:52:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Teen girl sexually assaulted in Asda before hero female shopper stepped in to confront suspect as man, 28, arrested",
+                "desc": "COPS have arrested a man after reports a teenage girl was sexually assaulted in the kitchen aisle of an Asda store.\nA hero female shopper jumped...",
+                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/07/asda-wakey_8930c5.jpg?quality=90&strip=all&w=920&h=476&crop=1",
+                "url": "https://www.thesun.ie/news/17352755/teen-girl-sexually-assaulted-asda-hero-shopper-confronts-suspect/",
+                "source": "The Irish Sun",
+                "date": "2026-07-25T07:52:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EFF bets on structures, youth vote and outright victories in bid to break coalition cycle",
+                "desc": "EFF secretary-general Marshal Dlamini outlined a campaign that departs from personality politics and instead places the party’s structures, manifesto and organisational discipline at the centre of its election machinery",
+                "image": "https://www.businessday.co.za/resizer/v2/WFXLCV2OEJHI3M4Z33GIM4OQJM.jpg?smart=true&auth=ec3db37ac1a162a34714facc3d367c0028d50e25cedd0b9c75e04cb3a964b8e1&width=1200&height=630",
+                "url": "https://www.businessday.co.za/politics/2026-07-25-eff-bets-on-structures-youth-vote-and-outright-victories-in-bid-to-break-coalition-cycle/",
+                "source": "Business Day",
+                "date": "2026-07-25T07:50:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EFF bets on structures, youth vote and outright victories in bid to break coalition cycle",
+                "desc": "EFF secretary-general Marshal Dlamini outlined a campaign that departs from personality politics and instead places the party’s structures, manifesto and organisational discipline at the centre of its election machinery",
+                "image": "https://www.timeslive.co.za/resizer/v2/WFXLCV2OEJHI3M4Z33GIM4OQJM.jpg?smart=true&auth=ec3db37ac1a162a34714facc3d367c0028d50e25cedd0b9c75e04cb3a964b8e1&width=1200&height=630",
+                "url": "https://www.timeslive.co.za/politics/2026-07-25-eff-bets-on-structures-youth-vote-and-outright-victories-in-bid-to-break-coalition-cycle/",
+                "source": "TimesLIVE",
+                "date": "2026-07-25T07:50:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran's Araghchi Discusses Alleged U.S. Violations With China as Talks Continue",
+                "desc": "Iranian Foreign Minister Abbas Araghchi appealed to China over what Tehran calls U.S. violations of the war-termination agreement, as Washington continues negotiations with Iran while keeping military options on the table.",
+                "image": "https://d2wqffb2bc8st5.cloudfront.net/images/1784966900_kurdistan24.jpg",
+                "url": "https://www.kurdistan24.net/en/story/928058/irans-araghchi-discusses-alleged-us-violations-with-china-as-talks-continue",
+                "source": "Kurdistan24",
+                "date": "2026-07-25T07:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran-US war latest: Trump insists Tehran can’t have a nuclear weapon as Houthis claim missile attack on Saudi Arabia",
+                "desc": "Trump says he doesn’t ‘think it’s time yet’ to agree to a deal",
+                "image": "https://static.independent.co.uk/2026/07/25/08/2026-07-25T062453Z_861026417_RC2QKMA4ZA3K_RTRMADP_3_USA-TRUMP-DINNER.JPG?trim=0,781,881,541&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-houthis-nuclear-weapon-oil-hormuz-b3021379.html",
+                "source": "The Independent",
+                "date": "2026-07-25T07:48:34Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "EAC Central Bank Governors Commit to Single Currency by 2031",
                 "desc": "KAMPALA, Uganda: East African Community (EAC) central bank governors reaffirmed their commitment to establishing a regional monetary union and a single currency by 2031 on Friday, but warned that uneven progress in meeting agreed economic targets continues to threaten the bloc’s integration agenda. The commitment was made during the 29th Ordinary Meeting of the EAC …",
@@ -1806,98 +1896,8 @@
                 "source": "Argus Media",
                 "date": "2026-07-24T21:56:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How a Summer of War With Iran Could Shape the Fall Elections",
-                "desc": "President Trump and Republicans can’t seem to escape the political fallout of the conflict.",
-                "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24pol-on-politics-newsletter-trump-lqpk/24pol-on-politics-newsletter-trump-lqpk-facebookJumbo-v2.jpg",
-                "url": "https://www.nytimes.com/2026/07/24/us/politics/republicans-trump-iran-war-midterms.html",
-                "source": "The New York Times",
-                "date": "2026-07-24T21:21:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Request for Applications: F5 Tech for Good Grant",
-                "desc": "Deadline: 03-Aug-2026 F5 is inviting nonprofit organizations in Africa, Asia, and Latin America to apply for climate technology grants supporting technology-driven solutions that address climate challenges in vulnerable communities. Selected organizations will receive a one-time grant of USD 50,000 to implement technology-enabled projects focused on climate adaptation, clean energy, sustainable agriculture, disaster resilience, and community",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/innovation/request-for-applications-f5-tech-for-good-grant/",
-                "source": "fundsforNGOs",
-                "date": "2026-07-24T21:13:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Karim Khan removed as ICC prosecutor over sexual misconduct allegations",
-                "desc": "ICC prosecutor Karim Khan was removed by member states over sexual misconduct allegations, marking the first time the International Criminal Court dismissed a chief prosecutor.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/karim-khan-icc.jpg",
-                "url": "https://www.foxnews.com/world/icc-prosecutor-whose-netanyahu-warrant-fueled-mamdani-arrest-threat-fired-over-sexual-misconduct",
-                "source": "Fox News",
-                "date": "2026-07-24T21:10:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prayers, parties and the changing face of KL’s Bukit Bintang",
-                "desc": "Explore the debate surrounding new mosque developments in Kuala Lumpur's Bukit Bintang district and their impact on public space and national identity. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c3be85278e6edbc7a325b2c7fcb4c09a664d0428b306d1997fd46e6860359048",
-                "url": "https://www.straitstimes.com/asia/prayers-parties-and-the-changing-face-of-kuala-lumpurs-bukit-bintang",
-                "source": "The Straits Times",
-                "date": "2026-07-24T21:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Hunter Biden went from a pariah to a potential presidential candidate",
-                "desc": "While Hunter Biden’s name was on the lips of every conservative commentator in the US, the then-president’s son stayed silent. Now he’s speaking his mind.",
-                "image": "https://static.ffx.io/images/$zoom_0.7592%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/1635db975edd69ddb565be50199d421c3df7cd36",
-                "url": "https://www.nine.com.au/world-news/usa/how-hunter-biden-went-from-a-pariah-to-a-potential-presidential-candidate-20260723-p60hv7.html",
-                "source": "Nine.com.au",
-                "date": "2026-07-24T20:59:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ICC chief prosecutor removed over sexual misconduct allegations",
-                "desc": "The chief prosecutor of the International Criminal Court has been removed from office. The vote Friday to oust British barrister Karim Khan came nearly two years after sexual misconduct allegations against him first emerged.",
-                "image": "https://dims.apnews.com/dims4/default/b033c0d/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F30%2F08ff58ed5239775c3d97a3f55523%2F788287ed53e04cc3aad2ec249d120b71",
-                "url": "https://apnews.com/article/icc-court-prosecutor-karim-khan-united-nations-5a9490e98b74f3bf13f5eae26fb3c3d7",
-                "source": "AP News",
-                "date": "2026-07-24T20:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Burnham picks three new PIO MPs from 2024 intake to join front bench; Malhotra and Gill return to backbenches",
-                "desc": "UK News: TOI correspondent from London: Three Indian-origin young Labour MPs elected at the July 2024 general election have been given front bench roles in UK .",
-                "image": "https://static.toiimg.com/thumb/msid-132614653,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/uk/burnham-picks-three-new-pio-mps-from-2024-intake-to-join-front-bench-malhotra-and-gill-return-to-backbenches/articleshow/132614652.cms",
-                "source": "The Times of India",
-                "date": "2026-07-24T20:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ICC prosecutor Karim Khan removed over ‘serious misconduct’",
-                "desc": "Karim Khan, accused of sexually assaulting a Malaysian lawyer, is suspended in a secret ballot in which 82 of 125 court members voted to remove him.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/6dbfdc3c-karim-khan-22072026.webp",
-                "url": "https://www.freemalaysiatoday.com/category/highlight/2026/07/25/icc-members-vote-to-dismiss-embattled-prosecutor-karim-khan",
-                "source": "Free Malaysia Today",
-                "date": "2026-07-24T20:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US small businesses challenge Trump’s new forced labour tariffs",
-                "desc": "In lawsuit on Friday, two small businesses said latest round of tariffs on 60 countries needs to be legally justified.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T224831Z_576771873_RC2W1KAIZZFA_RTRMADP_3_USA-TARIFFS-TRUMP-STATES-1784852840.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs",
-                "source": "Al Jazeera",
-                "date": "2026-07-24T20:51:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump angrily responds as new US-Canada bridge opens and Americans are left out of the ceremony",
-                "desc": "The newly completed $4.7 billion bridge connects Michigan to Ontario",
-                "image": "https://static.independent.co.uk/2026/07/24/18/18/GettyImages-2286690611.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-canada-us-bridge-ceremony-b3021221.html",
-                "source": "The Independent",
-                "date": "2026-07-24T20:42:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-25T18:41:18.126536Z"
+    "lastGlobalSync": "2026-07-25T20:00:26.806698Z"
 }
