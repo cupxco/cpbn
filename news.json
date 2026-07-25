@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "F.D.A. Panel’s Vote on Peptides Raises Concerns About a Prescribing Boom",
+                "desc": "The committee endorsed broader use of the peptides in lightly regulated compounding pharmacies that have grown into a multibillion-dollar business.",
+                "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-peptides-FDA-fkjz/24dc-peptides-FDA-fkjz-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html",
+                "source": "The New York Times",
+                "date": "2026-07-24T21:15:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK Brings Large Tech Providers into Regulatory Perimeter as Critical Third Parties",
+                "desc": "HM Treasury designated four global cloud services and technology providers as Critical Third Parties, bringing them under direct oversight of the UK financial regulators. The designations come in response to the increasing reliance of financial institutions on third-party service providers and the concentration risks that arise from a small number of service providers. CTP designation has similarities with the EU’s DORA and the U.S. Bank Service Company Act, but there are differences in scope and regulatory reach. In this memo we discuss these and other aspects of the UK Critical Third Party regime.",
+                "image": "https://www.sullcrom.com/SullivanCromwell/_Assets/images/sc-logo-2D_1200x630.png",
+                "url": "https://www.sullcrom.com/insights/memo/2026/July/Large-Tech-Providers-UK-Financial-Institutions-Subjected-Regulatory-Oversight",
+                "source": "Sullivan & Cromwell LLP",
+                "date": "2026-07-24T21:10:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+                "desc": "Models are improving quickly, but the cheaper options are often good enough.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-1152x648.jpg",
+                "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+                "source": "Ars Technica",
+                "date": "2026-07-24T21:05:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Siptu workers at Ireland’s largest dementia care facility announce 72-hour strike next week",
+                "desc": "Siptu said the escalation follows the ‘ongoing failure of management to regrade and pay the workers rates that recognise the duties they currently carry out’.",
+                "image": "https://img2.thejournal.ie/article/7112962/river/?height=400&version=7112966",
+                "url": "https://www.thejournal.ie/siptu-workers-at-irelands-largest-dementia-care-facility-announce-72-hour-strike-7112962-Jul2026/",
+                "source": "The Journal",
+                "date": "2026-07-24T21:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cadbury chocolate bar recalled across Canada",
+                "desc": "The Canadian Food Inspection Agency (CFIA) has issued a recall for a Cadbury chocolate bar sold across Canada.",
+                "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/07/shutterstock_2529191185.jpg?format=auto",
+                "url": "https://dailyhive.com/canada/cadbury-chocolate-bar-recall-canada",
+                "source": "Daily Hive",
+                "date": "2026-07-24T21:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The great tech manhunt: East Asia’s billion-dollar race for ASEAN talent",
+                "desc": "Japan, South Korea and Taiwan are turning to South-east Asia to plug a shortage of tech talents. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/58648f65540630aec4f75132f13e8c9c0c1da225de0df7519b9e987728252939",
+                "url": "https://www.straitstimes.com/asia/east-asia/the-great-tech-manhunt-east-asias-billion-dollar-race-for-asean-talent",
+                "source": "The Straits Times",
+                "date": "2026-07-24T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From tech visas to ‘gold card’, scholarships: Fast track to working in Japan, South Korea and Taiwan",
+                "desc": "These East Asian economies are looking for tech talent overseas to plug labour shortages back home Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c3d3c131712faa81c41a46ae27ea27791ab5064f541a747fbf8574156137009f",
+                "url": "https://www.straitstimes.com/asia/east-asia/from-tech-visas-to-gold-card-scholarships-fast-track-to-working-in-japan-south-korea-and-taiwan",
+                "source": "The Straits Times",
+                "date": "2026-07-24T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How should Faye, 68, and Ava, 60, draw down their RRSPs given their $108,000 spending target?",
+                "desc": "The couple is looking for advice on how to turn their savings into sustainable, tax-efficient retirement income",
+                "image": "https://www.theglobeandmail.com/resizer/v2/LZJIUSSUAZFBZFYIPD5XWQL6L4.JPG?auth=7fe84516292092caed2c29a8edb542cb24d96585eb886bc9acf2e771784085cf&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/personal-finance/financial-facelift/article-financial-facelift-faye-ava-rrsp-tax-efficient-retirement-income/",
+                "source": "The Globe and Mail",
+                "date": "2026-07-24T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Envisioning The Future Workplace: Leadership Lessons on Change",
+                "desc": "Executives share their insights on how to guide the future of work amid constant change due to AI. Gain leadership lessons and learn AI use cases.",
+                "image": "https://www.shrm.org/content/dam/en/shrm/topics-tools/news/gallup-summit-katy-george-web.png",
+                "url": "https://www.shrm.org/topics-tools/news/envisioning-future-workplace-leadership-lessons-on-change",
+                "source": "SHRM",
+                "date": "2026-07-24T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Worker housing for approved $1.5 billion Queensland wind farm faces opposition",
+                "desc": "While the worker accommodation would be a $68 million investment in Kingaroy, residents are voicing their opposition to the temporary project.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/7e42b024706960cd8a087c5bfcd45545?impolicy=wcms_watermark_news&cropH=1125&cropW=2000&xPos=0&yPos=104&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-25/kingaroy-residents-oppose-worker-housing-qld-tarong-wind-farm/106953774",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-24T20:57:20Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Dyson HushJet Mini Cool portable fan now in 3 colors, blasts 55 mph air",
                 "desc": "Dyson's first portable fan can clip onto your neck, sit on your desk, or fit in your pocket — and it stays surprisingly quiet.",
                 "image": "https://www.cleveland.com/resizer/v2/ARTNSTTBZFCEZA3HXFB444DYCU.png?auth=93d1fb08567a0394bbc9de9dbf4baaafbddb23d7b79565e7697bf5cad4158c4a&width=1280&smart=true&quality=90",
@@ -542,99 +632,99 @@
                 "source": "Forces News",
                 "date": "2026-07-24T07:50:55Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Cathay Pacific increasing fuel surcharges from August 2026",
-                "desc": "From 1 August 2026, Cathay Pacific will hike its fuel surcharges by 40%, as oil prices reverse their recent declines.",
-                "image": "https://milelion.com/wp-content/uploads/2026/05/cathay-pacific-jet-1.jpg",
-                "url": "https://milelion.com/2026/07/24/cathay-pacific-increasing-fuel-surcharges-from-august-2026/",
-                "source": "The MileLion",
-                "date": "2026-07-24T06:05:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Volkswagen profit falls, revises down full-year revenue outlook",
-                "desc": "German auto giant Volkswagen on Friday reported weaker-than-expected second-quarter profit and revised down its sales forecast for 2026.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108176236-1753353598783-gettyimages-2215029122-3h4a0105_lswefliq.jpeg?v=1768807038&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/24/volkswagen-earnings-autos-germany.html",
-                "source": "CNBC",
-                "date": "2026-07-24T06:05:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meralco Explains Power Bill Surge: Fuel Shock, Weak Peso and Costly Generation Charges Behind Higher Electricity Rates",
-                "desc": "Meralco explains that recent power bill increases are driven by higher generation charges, rising global fuel costs, a weaker peso and reliance on natural gas, not higher distribution rates. Learn why electricity prices are surging, how ERC and DOE regulate charges, and what this means for Filipino households.",
-                "image": "https://images.assettype.com/tribune/2025-07-22/hvk7bblp/Meralco?w=1200&auto=format",
-                "url": "https://tribune.net.ph/2026/07/24/meralco-points-to-fuel-shock-behind-power-bill-surge",
-                "source": "Daily Tribune",
-                "date": "2026-07-24T06:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dollar to Naira exchange rate today, July 24, 2026",
-                "desc": "The Nigerian naira traded within a relatively stable range against the United States dollar on Friday, July 24, 2026, at both the official Nigerian Foreign Exchange Market (NFEM) and the parallel market, as traders continued to monitor foreign exchange liquidity and demand.",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/Dollar1.png",
-                "url": "https://www.vanguardngr.com/2026/07/dollar-to-naira-exchange-rate-today-july-24-2026/",
-                "source": "Vanguard News",
-                "date": "2026-07-24T06:00:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DeXe Shock To Targon's Surge",
-                "desc": "Crypto gainers and losers today: why Targon and Score explode over 4000% while DeXe crashes 53%. Full market snapshot, tables, and sourced analysis insi...",
-                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/July2026/crypto-gainers-and-losers-today-targon-dexe-market-update-3511.webp",
-                "url": "https://www.coingabbar.com/en/crypto-currency-news/crypto-gainers-and-losers-today-targon-dexe-market-update",
-                "source": "Coin Gabbar",
-                "date": "2026-07-24T06:00:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "‘A small snippet’: what pubs make of Burnham’s £100m rates giveaway",
-                "desc": "Landlords say high costs of running hospitality business outweigh potential savings of business rates discount",
-                "image": "https://i.guim.co.uk/img/media/abd52ece36f1ca186ea7293201ae376c50eb4c89/680_0_5583_4467/master/5583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c331a24e8b8793ae738eb52693081530",
-                "url": "https://www.theguardian.com/business/2026/jul/24/snippet-pubs-burnham-rates-giveaway-landlors",
-                "source": "The Guardian",
-                "date": "2026-07-24T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore’s manufacturing shift from cost to quality",
-                "desc": "Supply chain resilience replaces cost efficiency as the primary criterion, creating structural investment opportunities in Singapore’s industrial sector.",
-                "image": "https://www.jll.com/content/dam/jllcom/en/hk/images/stock/insights/26-insights-singapore-s-manufacturing.jpg",
-                "url": "https://www.jll.com/en-au/insights/singapore-s-manufacturing-shift-from-cost-to-quality",
-                "source": "JLL",
-                "date": "2026-07-24T05:52:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India’s Defense Sensor Ecosystem",
-                "desc": "Unlocking domestic capabilities through technology, policy, and ecosystem development",
-                "image": "https://www.bain.com/contentassets/217075d8984c4a28a825d407e0572cfe/1440x810.jpg",
-                "url": "https://www.bain.com/insights/indias-defense-sensor-ecosystem/",
-                "source": "Bain",
-                "date": "2026-07-24T05:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alphabet-Owned YouTube Ad Sales Hit a Record $11.06 Billion. Is YouTube Dangerously Close to Surpassing Netflix in Revenue?",
-                "desc": "Is YouTube about to become the biggest video entertainment platform?",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8cd8731a26355010ef79cbdd7ecfec846670cc1d-1200x801.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/24/alphabet-owned-youtube-ad-sales-hit-a-record-1106-billion-is-youtube-dangerously-close-to-surpassing-netflix-in-revenue/",
-                "source": "The Motley Fool",
-                "date": "2026-07-24T05:43:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yamaha Sales Breakup June 2026, Q2 - RayZR, MT15, FZ, R15, Fascino, XSR, Aerox, EC06",
-                "desc": "Yamaha India registered strong domestic sales growth in June 2026, with volumes reaching 66,573 units. This was a 49.88% YoY increase over 44,417 units sold in June 2025",
-                "image": "https://www.rushlane.com/wp-content/uploads/2024/08/yamaha-aerox-155-version-s-review-4.jpg",
-                "url": "https://www.rushlane.com/yamaha-sales-breakup-june-2026-q2-rayzr-mt15-fz-r15-12551487.html",
-                "source": "RushLane",
-                "date": "2026-07-24T05:41:23Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "GTA 6 physical copies in Japan have a 170-day expiration date",
+                "desc": "Rockstar's support page apparently shows GTA 6 Japanese physical codes expire in 170 days, which has not gone over well with supporters of physical discs.",
+                "image": "https://static.tweaktown.com/news/1/1/112829_2_gta-6-physical-copies-in-japan-have-170-day-expiration-date_full.jpg",
+                "url": "https://www.tweaktown.com/news/112829/gta-6-physical-copies-in-japan-have-a-170-day-expiration-date/index.html",
+                "source": "TweakTown",
+                "date": "2026-07-24T21:20:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Roku Hikes Hardware Prices by Up to 60%",
+                "desc": "RAMageddon has claimed another company's products, with costs for streaming devices the latest to blow out.",
+                "image": "https://www.cnet.com/wp-content/uploads/sites/2/roku-vs-apple-1-of-10_054072.jpg",
+                "url": "https://www.cnet.com/tech/home-entertainment/roku-hardware-prices-rise-ramageddon/",
+                "source": "CNET",
+                "date": "2026-07-24T21:10:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google announces a Pixel 11 price hike three weeks before the phone's official reveal",
+                "desc": "Android's next flagships will be more expensive.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/pixel-10-with-glowing-google-g-logo.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/google-pixel-11-early-price-hike/",
+                "source": "How-To Geek",
+                "date": "2026-07-24T21:06:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Instagram Is Starting to Crack Down on Creepy Smart Glasses Videos",
+                "desc": "Instagram is cracking down on smart glasses harassment videos. Here’s what Meta’s policy means and how to spot camera glasses in the wild.",
+                "image": "https://lifehacker.com/imagery/articles/01KYAVSYMVA04NJATA8PNXMDA5/hero-image.fill.size_1200x675.webp",
+                "url": "https://lifehacker.com/tech/instagram-banning-smart-glasses-harassment-videos",
+                "source": "Lifehacker",
+                "date": "2026-07-24T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Swatch’s new gold MoonSwatch is priced like it’s 1969",
+                "desc": "Swatch's Mission to the Moon 1969 has 11 grams of real gold, priced at 1969 rates",
+                "image": "https://s.yimg.com/lo/mysterio/api/07cac9fd15df63eb3adc190a8e697ecaed96e8ddff047d901ceb9b8643964cdb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_manual_309%2F8e030600fdd7dd34055a722ec8183f90",
+                "url": "https://shopping.yahoo.com/style/accessories/articles/swatch-gold-moonswatch-priced-1969-210000363.html",
+                "source": "Yahoo",
+                "date": "2026-07-24T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New living plastic self-destructs in 6 days, without leaving microplastics",
+                "desc": "Once switched on, the microbes produced two cooperating enzymes.",
+                "image": "https://s.yimg.com/lo/mysterio/api/3c35046f968a28c44d731237aeac3b7412aa0e7e922896b6a1056b2d22620a09/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fb8d3ffc08960c5d9676142a574aaf93e",
+                "url": "https://www.yahoo.com/news/science/articles/living-plastic-self-destructs-6-210000552.html",
+                "source": "Yahoo",
+                "date": "2026-07-24T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI Is 'Very Interested' in Building Out ChatGPT Integrations for Wearables",
+                "desc": "OpenAI President Greg Brockman talks a bit about where the company's increasingly Jarvis-like AI agents could be heading next… and in what form.",
+                "image": "https://www.cnet.com/wp-content/uploads/sites/2/Meta.glasses.2026.jpg",
+                "url": "https://www.cnet.com/tech/services-and-software/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wearables/",
+                "source": "CNET",
+                "date": "2026-07-24T20:59:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "7 Splatoon Raiders Tips To Help You Get Your Sea Legs",
+                "desc": "Woomy up",
+                "image": "https://kotaku.com/app/uploads/2026/06/splatoon-raiders-direct.jpg",
+                "url": "https://kotaku.com/7-splatoon-raiders-tips-to-help-you-get-your-sea-legs-2000719175",
+                "source": "Kotaku",
+                "date": "2026-07-24T20:56:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nothing rejects exit rumours, says restructuring will drive next growth phase",
+                "desc": "Nothing rejects exit rumours, says restructuring will drive next growth phase",
+                "image": "https://images.t2online.in/cdn-cgi/image/width=1200,fit=crop,gravity=auto,quality=70/https://apis.t2online.in/getImageStream/7877/1784926332525.jpg",
+                "url": "https://t2online.in/tech/tech-news/nothing-rejects-exit-rumours--says-restructuring-will-drive-next-growth-phase/2006739",
+                "source": "t2ONLINE",
+                "date": "2026-07-24T20:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Can Build Your Workout. But Can It Actually Replace Your Trainer?",
+                "desc": "A new wave of AI-driven equipment is bringing personalized fitness to your fingertips. We asked the experts how smart these devices really are.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a60fb9f64ab5437098d405e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/forbes-personal-shopper/2026/07/24/ai-personal-training-fitness/",
+                "source": "Forbes",
+                "date": "2026-07-24T20:50:38Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Albee Layer Found The End Of Maui",
                 "desc": "Albee Layer hikes deep into remote Maui for three days of camping and high-performance surfing over razor-shallow lava rock.",
@@ -1174,99 +1264,99 @@
                 "source": "XDA",
                 "date": "2026-07-24T07:14:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Infinix HOT 70: What Less Than KES 20,000 Buys in Kenya's Toughest Year for Cheap Phones",
-                "desc": "What the Infinix HOT 70 gets right, what rivals do better, and why 2026 makes it interesting.",
-                "image": "https://tech-ish.com/wp-content/uploads/2026/07/FEATURED_infinix_hot70-Large.jpeg",
-                "url": "https://tech-ish.com/2026/07/24/infinix-hot-70-kenya-price-specs-2026/",
-                "source": "tech-ish.com",
-                "date": "2026-07-24T06:02:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox now lets you stream games for free, if you sit through two minutes of ads first",
-                "desc": "Tech News News: Microsoft has started testing an ad-supported version of Xbox Cloud Gaming, letting players stream games they already own without a Game Pass subscrip.",
-                "image": "https://static.toiimg.com/thumb/msid-132597582,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/tech-news/xbox-now-lets-you-stream-games-for-free-if-you-sit-through-two-minutes-of-ads-first/articleshow/132597582.cms",
-                "source": "The Times of India",
-                "date": "2026-07-24T06:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Is Expanding Access To Its Gemini Spark Agentic AI Assistant",
-                "desc": "Gemini Spark is now available to more users.",
-                "image": "https://www.engadget.com/img/gallery/google-is-expanding-access-to-its-gemini-spark-agentic-ai-assistant/l-intro-1784872745.jpg",
-                "url": "https://www.engadget.com/2222303/google-expanding-access-gemini-spark/",
-                "source": "Engadget",
-                "date": "2026-07-24T06:00:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oppo K15 is official with an active-cooling fan, 8,000mAh battery",
-                "desc": "It’s powered by the MediaTek Dimensity 7360 Super chipset. The Oppo K15 has been quietly unveiled in China, joining the K15 Pro and K15 Pro+, which debuted...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/oppo-k15-ofic/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/oppo_k15_is_official_with_an_activecooling_fan_8000mah_battery-news-73859.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-24T06:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KT opens Galaxy Z series experience spaces across South Korea",
-                "desc": "Korea Telecom (KT) is operating dedicated experience spaces for Samsung's new Galaxy Z series at three flagship stores and six regional locations across South Korea, allowing customers to test selected features of the Galaxy Z Flip8 and Galaxy Z Fold8. The flagship experience spaces are located at KT Onmari in Gwanghwamun, KT Avenue and Hongdae Adshop Plus. Visitors can complete missions using features including the Galaxy Z Flip8's Flex Window and the Galaxy Z Fold8's Dual Recording and My Fancam functions",
-                "image": "https://ik.imagekit.io/tp/202607220-samsung-galaxy-fold8-ultra-flip8.png?updatedAt=1784728405096",
-                "url": "https://www.telecompaper.com/news/kt-opens-galaxy-z-series-experience-spaces-across-south-korea--1578010",
-                "source": "Telecompaper",
-                "date": "2026-07-24T05:54:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motorola's moto g37 to launch through three Japanese mobile operators",
-                "desc": "Motorola's moto g37 smartphone series will be offered through three of Japan's major mobile operators, with SoftBank and NTT Docomo launching the moto g37 and Rakuten Mobile offering the related moto g37j. KDDI's au is not listed among the operators launching either model. SoftBank will launch the 5G-capable moto g37 on 31 July, while Rakuten Mobile will offer the moto g37j from the same date. NTT Docomo will launch its moto g37 M-51G variant from mid-October, with pre-orders opening on 24 July.",
-                "image": "https://ik.imagekit.io/tp/20220214-smartphone-calling-appartments-letterboxes.png",
-                "url": "https://www.telecompaper.com/news/motorolas-moto-g37-to-launch-through-three-japanese-mobile-operators--1578009",
-                "source": "Telecompaper",
-                "date": "2026-07-24T05:51:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uniqlo Launches New Pokémon 30th Anniversary T-Shirt Collection",
-                "desc": "Available now in Japan - As part of Pokémon's ongoing 30th anniversary celebrations, Uniqlo has launched its second UT collection of t-shirt designs. Accor...",
-                "image": "https://images.nintendolife.com/2fb62af7b6931/large.jpg",
-                "url": "https://www.nintendolife.com/news/2026/07/uniqlo-launches-new-pokemon-30th-anniversary-t-shirt-collection",
-                "source": "Nintendo Life",
-                "date": "2026-07-24T05:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LG agrees to kill McAfee pop-up on Windows PCs after Microsoft steps in",
-                "desc": "LG has agreed to disable the McAfee pop-up ad in its Monitor App Installer after weeks of user complaints and a direct nudge from Microsoft chief Pavan Davuluri.",
-                "image": "https://www.digitaltrends.com/tachyon/2026/05/DT-2026-05-03T120536.483.jpg?resize=1200%2C630",
-                "url": "https://www.digitaltrends.com/computing/lg-agrees-to-kill-mcafee-pop-up-on-windows-pcs-after-microsoft-steps-in/",
-                "source": "Digital Trends",
-                "date": "2026-07-24T05:44:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This Israeli startup is building sensors for AI, not human eyes",
-                "desc": "Led by veterans of Meta-acquired Pebbles Interfaces, Elio Labs raises $21 million for adaptive optics that let AI choose what to capture in real time across microscopy, chipmaking, robotics and defense",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/23/rJXNV41HMx/rJXNV41HMx_0_0_1448_1086_0_large.jpg",
-                "url": "https://www.ynetnews.com/business/article/skadbekhfl",
-                "source": "Ynetnews",
-                "date": "2026-07-24T05:38:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rohm adds evaluation board for DC",
-                "desc": "Rohm has developed an evaluation board to demonstrate the features of its BD83070GWL DC-DC converter IC which achieves efficiency of up to 97% and",
-                "image": "https://static.electronicsweekly.com/wp-content/uploads/2026/06/19093350/favicon-96x96-1-75x75.webp",
-                "url": "https://www.electronicsweekly.com/news/business/rohm-adds-evaluation-board-for-dc-dc-converter-2026-07/",
-                "source": "Electronics Weekly",
-                "date": "2026-07-24T05:32:40Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "How a Summer of War With Iran Could Shape the Fall Elections",
+                "desc": "President Trump and Republicans can’t seem to escape the political fallout of the conflict.",
+                "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24pol-on-politics-newsletter-trump-lqpk/24pol-on-politics-newsletter-trump-lqpk-facebookJumbo-v2.jpg",
+                "url": "https://www.nytimes.com/2026/07/24/us/politics/republicans-trump-iran-war-midterms.html",
+                "source": "The New York Times",
+                "date": "2026-07-24T21:21:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Request for Applications: F5 Tech for Good Grant",
+                "desc": "Deadline: 03-Aug-2026 F5 is inviting nonprofit organizations in Africa, Asia, and Latin America to apply for climate technology grants supporting technology-driven solutions that address climate challenges in vulnerable communities. Selected organizations will receive a one-time grant of USD 50,000 to implement technology-enabled projects focused on climate adaptation, clean energy, sustainable agriculture, disaster resilience, and community",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/innovation/request-for-applications-f5-tech-for-good-grant/",
+                "source": "fundsforNGOs",
+                "date": "2026-07-24T21:13:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Karim Khan removed as ICC prosecutor over sexual misconduct allegations",
+                "desc": "ICC prosecutor Karim Khan was removed by member states over sexual misconduct allegations, marking the first time the International Criminal Court dismissed a chief prosecutor.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/karim-khan-icc.jpg",
+                "url": "https://www.foxnews.com/world/icc-prosecutor-whose-netanyahu-warrant-fueled-mamdani-arrest-threat-fired-over-sexual-misconduct",
+                "source": "Fox News",
+                "date": "2026-07-24T21:10:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prayers, parties and the changing face of KL’s Bukit Bintang",
+                "desc": "Explore the debate surrounding new mosque developments in Kuala Lumpur's Bukit Bintang district and their impact on public space and national identity. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c3be85278e6edbc7a325b2c7fcb4c09a664d0428b306d1997fd46e6860359048",
+                "url": "https://www.straitstimes.com/asia/prayers-parties-and-the-changing-face-of-kuala-lumpurs-bukit-bintang",
+                "source": "The Straits Times",
+                "date": "2026-07-24T21:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Hunter Biden went from a pariah to a potential presidential candidate",
+                "desc": "While Hunter Biden’s name was on the lips of every conservative commentator in the US, the then-president’s son stayed silent. Now he’s speaking his mind.",
+                "image": "https://static.ffx.io/images/$zoom_0.7592%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/1635db975edd69ddb565be50199d421c3df7cd36",
+                "url": "https://www.nine.com.au/world-news/usa/how-hunter-biden-went-from-a-pariah-to-a-potential-presidential-candidate-20260723-p60hv7.html",
+                "source": "Nine.com.au",
+                "date": "2026-07-24T20:59:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICC chief prosecutor removed over sexual misconduct allegations",
+                "desc": "The chief prosecutor of the International Criminal Court has been removed from office. The vote Friday to oust British barrister Karim Khan came nearly two years after sexual misconduct allegations against him first emerged.",
+                "image": "https://dims.apnews.com/dims4/default/b033c0d/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F30%2F08ff58ed5239775c3d97a3f55523%2F788287ed53e04cc3aad2ec249d120b71",
+                "url": "https://apnews.com/article/icc-court-prosecutor-karim-khan-united-nations-5a9490e98b74f3bf13f5eae26fb3c3d7",
+                "source": "AP News",
+                "date": "2026-07-24T20:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Burnham picks three new PIO MPs from 2024 intake to join front bench; Malhotra and Gill return to backbenches",
+                "desc": "UK News: TOI correspondent from London: Three Indian-origin young Labour MPs elected at the July 2024 general election have been given front bench roles in UK .",
+                "image": "https://static.toiimg.com/thumb/msid-132614653,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/uk/burnham-picks-three-new-pio-mps-from-2024-intake-to-join-front-bench-malhotra-and-gill-return-to-backbenches/articleshow/132614652.cms",
+                "source": "The Times of India",
+                "date": "2026-07-24T20:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICC prosecutor Karim Khan removed over ‘serious misconduct’",
+                "desc": "Karim Khan, accused of sexually assaulting a Malaysian lawyer, is suspended in a secret ballot in which 82 of 125 court members voted to remove him.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/6dbfdc3c-karim-khan-22072026.webp",
+                "url": "https://www.freemalaysiatoday.com/category/highlight/2026/07/25/icc-members-vote-to-dismiss-embattled-prosecutor-karim-khan",
+                "source": "Free Malaysia Today",
+                "date": "2026-07-24T20:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US small businesses challenge Trump’s new forced labour tariffs",
+                "desc": "In lawsuit on Friday, two small businesses said latest round of tariffs on 60 countries needs to be legally justified.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T224831Z_576771873_RC2W1KAIZZFA_RTRMADP_3_USA-TARIFFS-TRUMP-STATES-1784852840.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs",
+                "source": "Al Jazeera",
+                "date": "2026-07-24T20:51:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump angrily responds as new US-Canada bridge opens and Americans are left out of the ceremony",
+                "desc": "The newly completed $4.7 billion bridge connects Michigan to Ontario",
+                "image": "https://static.independent.co.uk/2026/07/24/18/18/GettyImages-2286690611.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-canada-us-bridge-ceremony-b3021221.html",
+                "source": "The Independent",
+                "date": "2026-07-24T20:42:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Car bomb attack kills 27 in northwest Pakistan",
                 "desc": "The Pakistani Taliban said four suicide bombers carried out the assault in the country’s northwest.",
@@ -1806,98 +1896,8 @@
                 "source": "The Indian Express",
                 "date": "2026-07-24T07:45:36Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump tariffs bring more uncertainty to Australia's shores",
-                "desc": "The Business Council of Australia says a new tariff will make it harder for Australian businesses to compete in the US and could reduce investment.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/b1396562eae3814a83a481e4ef7ee7a3?impolicy=wcms_watermark_news&cropH=533&cropW=948&xPos=2&yPos=41&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-24/trump-tariffs-bring-more-uncertainty-to-australian-shores/106954074",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-24T06:05:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?",
-                "desc": "In 2014, a young Drapatyi became an icon for his daredevilry in Mariupol. Can he lead his military to victory?",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26202740405932-1784860584.jpg?resize=1920%2C1333",
-                "url": "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction",
-                "source": "Al Jazeera",
-                "date": "2026-07-24T06:04:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada Outlines 6 Requirements for Foreigners Seeking Visitor Visas",
-                "desc": "Canada has outlined six key requirements that foreign nationals must meet when applying for a visitor visa, including proving they will leave the country.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/48408ded70ca6c28.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/business-economy/economy/634054-canada-outlines-6-requirements-foreigners-seeking-visitor-visas/",
-                "source": "Tuko News",
-                "date": "2026-07-24T06:01:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The President of Latvia announced a new border protection mechanism with Belarus: what is already known",
-                "desc": "According to the president, the National Security Council made the corresponding decision this week. The implementation of the new measures will be the responsibility of the Ministry of the Interior and the Ministry of Defense.",
-                "image": "https://news.inbox.eu/w/img/ce/b7/ceb716ff3e293b380e.webp",
-                "url": "https://news.inbox.eu/150jk5i-the-president-of-latvia-announced-a-new-border-protection-mechanism-with-belarus-what-is-already-known?language=en",
-                "source": "Inbox.eu",
-                "date": "2026-07-24T06:01:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump considers military strikes in Mali - which would be the 8th country he’s attacked this term",
-                "desc": "The administration is reportedly mulling a campaign against al-Qaeda-linked JNIM in the junta-controlled country",
-                "image": "https://static.independent.co.uk/2026/07/22/19/2272666948..?width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-mali-military-action-jnim-b3020712.html",
-                "source": "The Independent",
-                "date": "2026-07-24T06:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'No adverse' Aughinish findings, but lack of Russian data",
-                "desc": "An independent review into Aughinish Alumina exports to Russia has made no \"adverse findings\" against the plant.",
-                "image": "https://www.rte.ie/images/001b8310-1600.jpg",
-                "url": "https://www.rte.ie/news/ireland/2026/0724/1584873-aughinish-alumina-report/",
-                "source": "RTE.ie",
-                "date": "2026-07-24T06:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US to use frozen Iranian assets to fund war damages",
-                "desc": "US President Donald Trump said any damages to ships and cargo would be paid for using Iranian assets.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5b45/live/fd31d670-8719-11f1-926f-c90d1bcfbc84.jpg",
-                "url": "https://www.bbc.com/news/articles/c05ql5llj4do",
-                "source": "BBC",
-                "date": "2026-07-24T05:59:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "M42 car and motorbike crash in Warwickshire causes long delays",
-                "desc": "National Highways says the incident closed the motorway southbound between Curdworth and Tamworth.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/111c/live/9fa46e20-8721-11f1-9733-edfe8d3e29a7.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cvgv1537jemo",
-                "source": "BBC",
-                "date": "2026-07-24T05:56:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
-                "desc": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister resigns.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x3402+0+311/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2Faa%2Ff5edf29445e0b3aeec6b9de81f11%2Fap26203376820395.jpg",
-                "url": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
-                "source": "NPR",
-                "date": "2026-07-24T05:56:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Saudi Prince found dead in London hotel: Inquest reveals the cause of death",
-                "desc": "Trending News: When hotel staff discovered a young Saudi prince unresponsive on the bathroom floor of a £600-a-night suite in London last year, it immediately raised.",
-                "image": "https://static.toiimg.com/thumb/msid-132597266,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/etimes/trending/saudi-prince-found-dead-in-london-hotel-inquest-reveals-the-cause-of-death/articleshow/132597232.cms",
-                "source": "The Times of India",
-                "date": "2026-07-24T05:56:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-25T07:23:15.899854Z"
+    "lastGlobalSync": "2026-07-25T09:22:07.275914Z"
 }
