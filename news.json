@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Lofty ambitions: can puffer jackets be made more sustainable?",
+                "desc": "As temperature dip, the puffer’s appeal inflates. But quality and filler are factors to consider before buying new",
+                "image": "https://i.guim.co.uk/img/media/f025de4cc07e8df407808206c6e900e96a7792b0/889_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4506ca667f81cfc9ddfc3c914fb3edef",
+                "url": "https://www.theguardian.com/australia-news/2026/jul/25/lofty-ambitions-can-puffer-jackets-be-made-more-sustainable",
+                "source": "The Guardian",
+                "date": "2026-07-25T00:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RM400mil water deal is Penang’s best option for now, says expert",
+                "desc": "However, the state will have to deal with higher tariffs for consumers on top of the costly agreement with Perak in the long term.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/05/5723c28f-sungai-perak-pbapic-050524-.webp",
+                "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/25/rm400mil-water-deal-is-penang-s-best-option-for-now-says-expert",
+                "source": "Free Malaysia Today",
+                "date": "2026-07-25T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX launches major starship test in post-IPO spotlight",
+                "desc": "The rocket is carrying upgraded Starlink satellites that are intended to burn up later in the atmosphere as part of the roughly hour-long test mission.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260724235747_Starlink-launch.jpg",
+                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/science/spacex-launches-major-starship-test-in-post-ipo-spotlight-article-13983210.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-24T23:58:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
+                "desc": "Elon Musk's rocket maker is conducting the first test fight for its massive Starship rocket since the company's IPO last month.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108340151-17849340882026-07-24t230105z_855968858_rc2mkma87xje_rtrmadp_0_space-spacex-starship.jpeg?v=1784934105&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
+                "source": "CNBC",
+                "date": "2026-07-24T23:57:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FDA approves pain pill that combines Tylenol and naproxen",
+                "desc": "The FDA approved a new table that combines Tylenol with naproxen, an anti-inflammatory medication.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/22/USAT/86300409007-20250922-vpc-trump-autism-announcement-thumb-getty-00-00-00-00-still-004.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/news/health/2026/07/24/fda-pain-pill-combines-tylenol-naproxen/91039395007/",
+                "source": "USA Today",
+                "date": "2026-07-24T23:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan identifies large share of rare earths in deep-sea mud off remote island",
+                "desc": "An analysis of mud from off Minamitorishima island found medium and heavy rare earth elements accounted for about 54% of the total rare earth content.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/25/553484.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/business/2026/07/25/economy/japan-rare-earths-mud-minamitorishima/",
+                "source": "The Japan Times",
+                "date": "2026-07-24T23:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EZRide co-owner says company will take a 'hit' if Uber comes to town",
+                "desc": "Chris Morris wants the City of Sault Ste. Marie to 'really think' about the long-term impacts if Uber decides to further expand to the Sault after moving into northeastern Ontario",
+                "image": "https://www.vmcdn.ca/f/files/sootoday/images/business/2026-07-24-ezridestock.jpg;w=1200;h=800;mode=crop",
+                "url": "https://www.sootoday.com/local-news/ezride-co-owner-says-company-will-take-a-hit-if-uber-comes-to-town-12591141",
+                "source": "SooToday.com",
+                "date": "2026-07-24T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+                "desc": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-7.12.08-PM.png?resize=1200,1021",
+                "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+                "source": "TechCrunch",
+                "date": "2026-07-24T23:25:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says",
+                "desc": "Investigators have determined that shell eggs recalled by Midwest Poultry Services are a likely source of the germ, but the Indiana-based company doesn’t account for all the illnesses.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2022/09/GettyImages-1415035613-e1667412503779-1024x608.jpg",
+                "url": "https://www.pbs.org/newshour/health/salmonella-outbreak-tied-to-eggs-has-sickened-98-people-in-17-states-since-november-fda-says",
+                "source": "PBS",
+                "date": "2026-07-24T23:25:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why uptime, not hype, will win the digital payment war",
+                "desc": "SM Investments Corp. (SMIC)-backed PayRex is expanding in the local market with an approach that bypasses the growth-at-all-costs gospel of the financial...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/25/118578.webp",
+                "url": "https://mb.com.ph/2026/07/25/why-uptime-not-hype-will-win-the-digital-payment-war",
+                "source": "Manila Bulletin",
+                "date": "2026-07-24T23:21:54Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Starship 13th flight concludes as megarocket splashes down in Indian Ocean",
                 "desc": "Starship has cleared its biggest hurdle, but the mission is only just beginning. Several crucial moments still lie ahead as the world's most powerful rocket embarks on yet another test, one that could shape the future travel to Moon and Mars.",
                 "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/starship-launched-all-eyes-on-starlink-deployment--indian-ocean-crash-245519183-16x9_0.png?VersionId=pCiA0y9kKuMRK6_eag3x2TmlgMN46jab",
@@ -542,99 +632,99 @@
                 "source": "CNBC",
                 "date": "2026-07-24T11:00:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "BMW Says The Electric M3 May Be The Best M3 To Drive",
-                "desc": "The next-gen BMW M3 going electric isn’t up for debate anymore. The real question is, which flavor will buyers actually pick? BMW has already spilled the beans: the legendary sports sedan will come as a classic six-cylinder gas-burner or as a full-blown EV riding on the Neue Klasse platform. Both ...",
-                "image": "https://s.yimg.com/lo/mysterio/api/11f7951acd170553703dea999f9efe4c488d16f093663abec3e126e5bc107392/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fautoblog_arena_articles_145%2Fa95af0ade35fcf24efd103c28708a30c",
-                "url": "https://autos.yahoo.com/ev-and-future-tech/articles/bmw-says-electric-m3-may-094500073.html",
-                "source": "Yahoo Autos",
-                "date": "2026-07-24T09:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FOMC Preview: Fed To Stay On Hold After June's Hawkish Shift",
-                "desc": "The June FOMC meeting dispelled any fears about a potential politicisation of the Federal Reserve via the appointment of Kevin Warsh as its new Chair. Read more here.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2179045532/image_2179045532.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4925213-fomc-preview-fed-to-stay-on-hold-after-june-hawkish-shift",
-                "source": "Seeking Alpha",
-                "date": "2026-07-24T09:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israeli startups dominate Google's AI cybersecurity accelerator",
-                "desc": "Of the 33 startups selected for Google’s top cybersecurity program, 11 are either founded in Israel or led by Israeli entrepreneurs.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731300",
-                "url": "https://www.jpost.com/business-and-innovation/article-903556",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-24T09:43:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From Bhadohi to Brooklyn: India's small towns are set to go global",
-                "desc": "India's latest ecommerce export reforms could transform thousands of MSMEs into global exporters by connecting small-town manufacturers with overseas buyers through platforms such as Amazon and Flipkart. Combined with Districts as Export Hubs, ODOP and FTAs, the policy aims to broaden India's exports and create the country's next export growth story.",
-                "image": "https://img.etimg.com/thumb/msid-132601718,width-1200,height-630,imgsize-313486,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-ecommerce-exports-msme-exports-districts-as-export-hubs-from-bhadohi-to-brooklyn-indias-small-towns-are-set-to-go-global-odop-amazon-flipkart-fdi/articleshow/132601167.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-07-24T09:43:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold holds above $4,020 as Fed-rate risk caps rebound - Kitco AM Report",
-                "desc": "(Kitco NewsWire) - Spot gold and silver prices are higher ahead of the North American market open Friday, as precious metals steadied after Thursday’s selloff while traders weighed a stronger U.S. labor-market signal, the ECB’s rate hold, elevated crude oil prices and firm Treasury yields. At the time of writing, spot gold was trading near $4,055.00 an ounce, up 0.16%, while spot silver was trading near $58.31, up 1.35% on the session.Gold’s early range was $4,021.20 to $4,064.90, leaving the metal above Thursday’s lows but still below the $4,067 and $4,139 resistance levels identified in the latest technical setup. Silver’s early range was $56.98 to $58.76, with the metal rebounding back above the 50-period moving average near $58.22 but still below the $58.56 to $59.94 resistance area.Positioning after the latest significant economic data remains less dovish than the softer CPI and PPI prints initially suggested. The ECB left its deposit rate unchanged at 2.25%, with the main refinancing rate at 2.40% and the marginal lending rate at 2.65%, while keeping the focus on the intensity and duration of the energy-price shock. U.S. initial jobless claims fell by 22,000 to 187,000 for the week ended July 18, the lowest level since September 1969, while the prior week was revised up to 209,000. The data reinforce a market view that layoffs remain historically low even as hiring momentum has cooled. The 10-year Treasury yield was near 4.70% and DXY was near 101.39, leaving gold supported by geopolitical risk but capped by firm yields and a stronger dollar.The Strait of Hormuz situation is best characterized as open but highly stressed transit under active military and shipping pressure, not a normalized operating environment. U.S.-Iran tensions remain centered on control of the waterway, while Houthi attacks on Saudi tankers in the Red Sea have widened the shipping-risk map and complicated Gulf export routes. Brent crude eased to roughly $97.67 after peaking above $102, while U.S. crude traded near $89.76, keeping an energy-risk premium in place even as prices backed off their highs. For gold, the impact remains two-sided: geopolitical risk supports defensive demand, but high oil prices keep inflation risk elevated, support Treasury yields and limit the upside for non-yielding bullion. For broader markets, the setup is oil still elevated, yields firm, the dollar steady and silver trading as the higher-beta leg of the metals complex.Traders are watching Fed communication ahead of next week’s July 29 policy decision, flash PMI data, follow-through in jobless claims and any fresh disruption to Hormuz or Red Sea shipping lanes. A sustained move above $4,067 would improve gold’s short-term setup, while a break below $4,030 would put the $3,998 support area back in focus.The key outside markets see Nymex WTI crude oil prices lower but still elevated and trading near $89.76 a barrel, while Brent crude was near $97.67. The U.S. dollar index is steady near 101.39. The yield on the benchmark 10-year U.S. Treasury note is trading near the 4.70% area.Technically, spot gold bears have the overall near-term technical advantage as prices remain below the 50-period moving average near $4,067 and the 100-period moving average near $4,063, while trendline resistance near $4,150 continues to cap rebounds. Bulls' next upside price objective is to push prices back above $4,067, with a sustained move targeting $4,139 and then $4,150. Bears' next near-term downside price objective is a break below $4,030, with deeper downside targets at $3,998 and then $3,957. First resistance is seen at $4,064.90 and then at $4,067. First support is seen at $4,030 and then at $3,998.Spot silver bulls have improved the near-term technical setup after prices rebounded from $57.10 support and moved back above the 50-period moving average near $58.22. Silver bulls' next upside price objective is to drive prices back above $58.56, with a move above that level targeting $59.94 and then $60.95. The next downside price objective for the bears is a break below $57.10, with deeper downside targets at $56.12 and then $54.69. First resistance is seen at $58.56 and then at $59.94. Next support is seen at $57.10 and then at $56.12.",
-                "image": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0.097826086956522&left=0&width=1024&height=575.80434782609&scale_width=1920&token=ec050fbedd656f59e58ba42c9b544f14b2956017a62cb28c14a5f6ccb267d05c",
-                "url": "https://www.kitco.com/news/article/2026-07-24/gold-holds-above-4020-fed-rate-risk-caps-rebound-kitco-am-report",
-                "source": "KITCO",
-                "date": "2026-07-24T09:41:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT",
-                "desc": "The \"GCottrell93\" account bet the funds on Trump's election win and cashed out the profit, though who paid in and who collected is unclear.",
-                "image": "https://s.yimg.com/lo/mysterio/api/2226099d034a8b39d70abbe8c2629dfa738d3cefc48524f3add8730110e5e156/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F7173b6d6ba594bddbb3fa4410c37e5a7",
-                "url": "https://www.yahoo.com/news/politics/articles/polymarket-account-farage-backers-name-094050232.html",
-                "source": "Yahoo",
-                "date": "2026-07-24T09:40:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meet the Trillion-Dollar Company Retail Investors Have Spent More Money Buying Than Any Other Stock in July",
-                "desc": "Retail investors have poured four times as much into this stock since the beginning of July as they did into Alphabet, Amazon, and Tesla, combined!",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880055%2Fsmartphone-retail-investing-robinhood-buy-sell-retire-stock-market-crypto-getty.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/24/meet-trillion-dollar-retail-investors-buy-in-july/",
-                "source": "The Motley Fool",
-                "date": "2026-07-24T09:39:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Figaro secures SEC approval for Angel's Pizza spin-off",
-                "desc": "Figaro Culinary Group Inc. (FCG), a listed café and restaurant chain operator, has secured the approval of the Securities and Exchange Commission (SEC) for the...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/24/118458.webp",
-                "url": "https://mb.com.ph/2026/07/24/figaro-secures-sec-approval-for-angels-pizza-spin-off",
-                "source": "Manila Bulletin",
-                "date": "2026-07-24T09:37:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil falls on report China pushing for end of U.S.-Iran war",
-                "desc": "Energy markets are in a precarious state",
-                "image": "https://www.theglobeandmail.com/resizer/v2/OPLFGWAMURDRZJI4BO2ANXC74E.JPG?auth=829d6c4e1429646aa45dfd3386b92945f3f74515602c566c58d82bed6bba0c6e&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/investing/article-oil-prices-middle-east-escalation/",
-                "source": "The Globe and Mail",
-                "date": "2026-07-24T09:36:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scotch whisky levy lifted as Trump imposes new wave of US tariffs",
-                "desc": "The Scottish government welcomed the lifting of the 10% levy, which the US President agreed after the state visit of King Charles.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7aff/live/8408ca30-779f-11f1-90c7-73fde41eb72e.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c7vgz680977o",
-                "source": "BBC",
-                "date": "2026-07-24T09:35:23Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "What We Love About Clarins' Double Serum Eye",
+                "desc": "Clarins' newly reformulated Double Serum Eye promises to visibly brighten, smooth, hydrate and depuff. I was skeptical at first, but pleasantly surprised by the results.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a56606b210f399faf9531b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/forbes-personal-shopper/2026/07/24/clarins-double-serum-eye-ode/",
+                "source": "Forbes",
+                "date": "2026-07-25T00:06:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox's Backward Compatibility On PC Can Run Xbox 360 Games",
+                "desc": "Turns out that Microsoft's new Xbox emulator is actually an Xbox 360 emulator in disguise",
+                "image": "https://kotaku.com/app/uploads/2016/04/xbox-360-classics-fixed.jpg",
+                "url": "https://kotaku.com/xbox-360-pc-backwards-compatibility-microsoft-xefu-2000719199",
+                "source": "Kotaku",
+                "date": "2026-07-25T00:00:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Find out How an Adorable Duck Drove us to Get Creative with Dodo Duckie",
+                "desc": "The story behind the development, design and inspiration for BornMonkie’s indie title Dodo Duckie.",
+                "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/07/Dodo-Duckie-Key-Art-396a1b46ae9a94046099-scaled.jpg",
+                "url": "https://news.xbox.com/en-us/2026/07/24/find-out-how-an-adorable-duck-drove-us-to-get-creative/",
+                "source": "XBOX Wire",
+                "date": "2026-07-25T00:00:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Esther McCarthy: Making hay while the sun shines - five happy moments from this week",
+                "desc": "Everything seems to be blooming where you least expect it.",
+                "image": "https://www.irishexaminer.com/cms_media/module_img/10330/5165398_3_org_iStock-491701259_20_2_.jpg",
+                "url": "https://www.irishexaminer.com/lifestyle-columnists/arid-41883919.html",
+                "source": "Irish Examiner",
+                "date": "2026-07-25T00:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hot Tech to Buy This Week",
+                "desc": "Every Friday, I'll be highlighting tech products you should buy that I have reviewed, are reviewing, or plan to review in the near future.",
+                "image": "https://wifihifi.com/wp-content/uploads/2025/11/victrola-journey-glow-angle-opposite.jpg",
+                "url": "https://wifihifi.com/friday-finds-hot-tech-to-buy-this-week-3/",
+                "source": "Wifi Hifi Magazine",
+                "date": "2026-07-24T23:57:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Big Fish Can't Pursue Apple Store Takedown, Dev Says",
+                "desc": "An Armenian game developer accused of withholding source code belonging to Big Fish Games urged a Washington federal judge Friday to block the company's attempt to have games removed from the Apple Store.",
+                "image": "https://www.law360.com/images/law360-stacked.png",
+                "url": "https://www.law360.com/articles/2505594/big-fish-can-t-pursue-apple-store-takedown-dev-says",
+                "source": "Law360",
+                "date": "2026-07-24T23:45:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "NordVPN's New HangUp App Screens Calls and Texts for Scams",
+                "desc": "Scam calls and text are rampant, and there's no shortage of tools at your disposal to combat them.",
+                "image": "https://www.cnet.com/wp-content/uploads/sites/2/HangUp-app-fotor.jpg",
+                "url": "https://www.cnet.com/tech/services-and-software/nordvpn-hangup-app-scam-call-text-screening/",
+                "source": "CNET",
+                "date": "2026-07-24T23:44:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google confirms Pixel phone prices are going up, but here's what you can do about it",
+                "desc": "You'll have to be smarter to save",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/pixel-10-pro-xl-back-log.JPG?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/google-is-feeling-the-pressure-pixel-prices-increasing/",
+                "source": "Android Police",
+                "date": "2026-07-24T23:28:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Navigating Tomorrow: A Bold Look at How Generation Alpha Will Live and Work in 2040",
+                "desc": "A thought-provoking new book offers parents and educators a detailed roadmap to the technological and societal shifts defining the future for today's children.",
+                "image": "https://img.einnews.com/facebook/1158780/generation-alpha-2040-book.jpeg",
+                "url": "https://www.einpresswire.com/article/929178732/navigating-tomorrow-a-bold-look-at-how-generation-alpha-will-live-and-work-in-2040",
+                "source": "EIN Presswire",
+                "date": "2026-07-24T23:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Galaxy Watch 9 vs. Watch Series 11: Has Apple finally met its smartwatch match?",
+                "desc": "Samsung's Galaxy Watch 9 undercuts Apple's Watch Series 11 on price while packing a brighter display and newer chip, but Apple's software depth remains tough to match.",
+                "image": "https://www.digitaltrends.com/tachyon/2026/07/Galaxy-Watch-8-vs.-Apple-watch-Series-11-scaled.jpg?resize=1200%2C630",
+                "url": "https://www.digitaltrends.com/wearables/galaxy-watch-9-vs-watch-series-11-with-specs-health-features-and-prices/",
+                "source": "Digital Trends",
+                "date": "2026-07-24T23:26:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "iOS 27: All the New iCloud Features",
                 "desc": "iOS 27 includes new iCloud capabilities across several apps like Apple Home, Siri, Photos, and more. There are some direct iCloud improvements like upgrades to photo uploads and sharing, along with some indirect new features. HomeKit Secure Video Cameras (iCloud+) If you have HomeKit Secure Video cameras, the Home app in iOS 27 has a couple of useful new Apple Intelligence features. You can get text-based summaries of what's going on, sent as notifications.",
@@ -1174,99 +1264,99 @@
                 "source": "What Hi-Fi?",
                 "date": "2026-07-24T11:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation Killing Discs Has a Potential Upside, Ubisoft Boss Yves Guillemot Says",
-                "desc": "Sony's controversial decision to kill PlayStation 5 discs could have some upsides, Ubisoft boss Yves Guillemot has said.",
-                "image": "https://assets-prd.ignimgs.com/2026/07/24/gettyimages-1246763414-1784884199131.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/playstation-killing-discs-has-upsides-ubisoft-boss-yves-guillemot-says-pointing-to-cheaper-consoles-without-disc-drives",
-                "source": "IGN",
-                "date": "2026-07-24T09:45:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "David Potter CBE: Scientist, entrepreneur and pioneer of mobile computing",
-                "desc": "London Business School mourns the passing of Dr David Potter CBE",
-                "image": "https://images.london.edu/hxo16fanegqh/3xhNkcZGFwc8XJs85AM2Ql/8c55a359e44ad96ec37b04eb0ca6eb2c/David_Potter_Thumbnail.jpg?w=1200&h=600",
-                "url": "https://www.london.edu/news/in-memory-of-david-potter",
-                "source": "London Business School",
-                "date": "2026-07-24T09:44:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israeli startups dominate Google's AI cybersecurity accelerator",
-                "desc": "Of the 33 startups selected for Google’s top cybersecurity program, 11 are either founded in Israel or led by Israeli entrepreneurs.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731300",
-                "url": "https://www.jpost.com/business-and-innovation/article-903556",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-24T09:43:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Presses for 20% Cut in iPhone 18 OLED Panel Prices on 'Chipflation'",
-                "desc": "Apple is strongly demanding lower display panel prices as rising memory semiconductor pric",
-                "image": "https://cdn.thelec.net/news/photo/202607/12514_12610_251.png",
-                "url": "https://www.thelec.net/news/articleView.html?idxno=12514",
-                "source": "thelec.net",
-                "date": "2026-07-24T09:43:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Instagram Cracks Down on Creepy Videos Filmed With Meta Glasses",
-                "desc": "Videos filmed on smart glasses that harass strangers in public places will not be allowed on Instagram, says Adam Mosseri.",
-                "image": "https://i.pcmag.com/imagery/articles/02dtIsLsGKlNRtnbYl3I6pl-1.fit_lim.size_1200x630.v1784880600.webp",
-                "url": "https://www.pcmag.com/news/instagram-cracks-down-on-creepy-videos-filmed-with-meta-glasses",
-                "source": "PCMag",
-                "date": "2026-07-24T09:42:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Machine vision lighting for OEMs: From integration risk to performance enabler",
-                "desc": "This White Paper outlines how OEM machine builders and system integrators can eliminate integration risks and accelerate time-to-market using a structured three-level customisation framework and co-engineering workflow",
-                "image": "https://www.imveurope.com/themes/custom/bootstrap_sass_lse/images/faviconIMVE.ico",
-                "url": "https://www.imveurope.com/white-paper/machine-vision-lighting-oems-integration-risk-performance-enabler",
-                "source": "Imaging and Machine Vision Europe",
-                "date": "2026-07-24T09:40:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Boox Picco is an extremely compact 4-inch e-reader",
-                "desc": "The trend toward compact, pocket-sized e-readers continues, as the Xteink X4 Pro is soon to be followed by the Boox Picco – another model that, with its 3.97-inch display, is significantly smaller than a smartphone. Onyx is now offering a sneak peek at the first model in the brand-new Boox Tile series.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Onyx-Boox-Picco3.jpeg",
-                "url": "https://www.notebookcheck.net/Boox-Picco-is-an-extremely-compact-4-inch-e-reader.1350763.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-07-24T09:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Chatbots Match Humans in Emotional Support Skills",
-                "desc": "Research involving our School of Education has found AI chatbots, such as ChatGPT, can match humans as a source of everyday emotional support. Led",
-                "image": "https://www.dur.ac.uk/media/durham-university/research-/AI-and-emotional-support---Web-header.png",
-                "url": "https://www.miragenews.com/ai-chatbots-match-humans-in-emotional-support-1715957/",
-                "source": "Mirage News",
-                "date": "2026-07-24T09:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Andrej Karpathy Says He Likes to Ramble at His LLM",
-                "desc": "Karpathy, a leading AI researcher, said he will send LLMs 10-minute long \"total mess\" memos — and calls the bots response \"useful.\"",
-                "image": "https://i.insider.com/6a627b5fce52cb26b8393409?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/andrej-karpathy-ramble-llm-ai-anthropic-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-24T09:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How AI Audio Tools Are Changing Podcasts, Dubbing, and Game Sound Design",
-                "desc": "For podcasters, video editors and game creators, audio is no longer the quiet part of production. New AI audio systems are changing how people plan",
-                "image": "https://nerdbot.com/wp-content/uploads/2026/07/image-38.jpeg",
-                "url": "https://nerdbot.com/2026/07/24/how-ai-audio-tools-are-changing-podcasts-dubbing-and-game-sound-design/",
-                "source": "nerdbot",
-                "date": "2026-07-24T09:36:43Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "elect speaking out against continuing the country’s peace agenda",
+                "desc": "Open Forum News Blog",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTyXcGDWFEBczvd1r2XrbIf_Y_vMAyYA9J6PtO0RjxJcWs2wfgxnUxgs1pKdc1sdZZzz3tylrNC598Euy6n1MHaSoTqq31i_cSxkTg49kAIw3JoflMZJ3BONEcM0aIT0gJlS4FATH-Syk3FBdC1RCFTK5J0CRF8ygMCGOZegeV02ATRpcwX_zhDbvryOwn/w1200-h630-p-k-no-nu/1000609936.jpg",
+                "url": "https://www.counterview.net/2026/07/whats-behind-columbias-president-elect.html",
+                "source": "Counterview",
+                "date": "2026-07-25T00:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+                "desc": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the ‘Abraham Accords’.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a63ef31aea1-1784934193.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel",
+                "source": "Al Jazeera",
+                "date": "2026-07-24T23:55:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says hasn't decided on major Iran strikes, Tehran getting 'serious'",
+                "desc": "Saudi-led coalition says it hit Houthi targets in Yemen, as US continues to bomb Islamic Republic targets and Iran retaliates with strikes across the region",
+                "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26205707073234.jpg",
+                "url": "https://www.timesofisrael.com/trump-says-hasnt-decided-on-major-iran-strikes-tehran-getting-serious/",
+                "source": "The Times of Israel",
+                "date": "2026-07-24T23:55:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Setback for Trump: US appeals court refuses to revive $100,000 H-1B visa fee",
+                "desc": "International Business News: The Trump administration suffered a setback on Friday after a US federal appeals court refused to lift a ruling that blocks the government from chargi.",
+                "image": "https://static.toiimg.com/thumb/msid-132617143,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/business/international-business/setback-for-trump-us-appeals-court-refuses-to-revive-100000-h-1b-visa-fee/articleshow/132617133.cms",
+                "source": "The Times of India",
+                "date": "2026-07-24T23:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Commercial vessel attacked in Black Sea, Indian killed",
+                "desc": "This came to light days after four Indians were among 10 killed in an attack on a commercial vessel off the coast of Ukraine on July 19.",
+                "image": "https://images.indianexpress.com/2026/07/Hormuz-ship-1_20260724234400.jpg",
+                "url": "https://indianexpress.com/article/india/commercial-vessel-attacked-in-black-sea-indian-killed-10802474/",
+                "source": "The Indian Express",
+                "date": "2026-07-24T23:45:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Vacuum-Gapped, Not Just Air-Gapped'-After Iran Hit Amazon's Cloud",
+                "desc": "After Iranian drones hit Amazon data centers in the Gulf, Lonestar's Chris Stott says storing data on the moon is the ultimate backup. The business case, examined.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a63f6d90ccc50ffd7bb0c56/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/boazsobrado/2026/07/24/vacuum-gapped-not-just-air-gapped-after-iran-hit-amazons-cloud/",
+                "source": "Forbes",
+                "date": "2026-07-24T23:44:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Appeals court denies Trump’s bid to allow $100,000 fee on new H-1B visas",
+                "desc": "Three-judge panel of Democratic appointees let stand lower court’s ruling that fee constitutes an unlawful tax",
+                "image": "https://i.guim.co.uk/img/media/c904e066403c08d5ae92a42d3d4b23c966303172/467_0_4648_3721/master/4648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d71b62263d1c29494b33c91bb246b23d",
+                "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-h1b-visa-fee",
+                "source": "The Guardian",
+                "date": "2026-07-24T23:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power",
+                "desc": "Prime minister’s propaganda machine falters as fiercely secular youth protests reclaim nationalism",
+                "image": "https://i.guim.co.uk/img/media/800c2520812c2aae113802b6c336f81c200a23ab/289_0_3693_2956/master/3693.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd09047145d4e39e1d9aab7f1c4ea7ef",
+                "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/25/i-will-die-for-this-cause-how-indias-cockroach-meme-became-the-biggest-challenge-to-modis-grip-on-power",
+                "source": "The Guardian",
+                "date": "2026-07-24T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "White House says Trump to give ‘unifying yet vicious’ speech at rescheduled press gala",
+                "desc": "Correspondents’ dinner begins in Washington, three months after original event was halted by a shooting",
+                "image": "https://i.guim.co.uk/img/media/b869f8c482bea933bfa9b6a12cb6bdcc299a98c1/394_0_3970_3176/master/3970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91fff74d0e6e0e515c8c8ec5498cef6b",
+                "url": "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington",
+                "source": "The Guardian",
+                "date": "2026-07-24T23:29:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Donald Trump returns to White House Correspondents' dinner months after shooting forced postponement",
+                "desc": "US News: US President Donald Trump on Friday attended the rescheduled White House Correspondents' Association (WHCA) dinner, nearly three months after the annu.",
+                "image": "https://static.toiimg.com/thumb/msid-132617115,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/us/trump-returns-to-white-house-correspondents-dinner-months-after-shooting-forced-postponement/articleshow/132617111.cms",
+                "source": "The Times of India",
+                "date": "2026-07-24T23:29:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "ICC prosecutor Karim Khan removed over 'serious misconduct'",
                 "desc": "Karim Khan was removed after 82 of the International Criminal Court's 125 member states voted to dismiss him following an investigation into allegations of sexual assault.",
@@ -1806,98 +1896,8 @@
                 "source": "The Times of India",
                 "date": "2026-07-24T11:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "U.S., Iran proposed Strait of Hormuz fees defy int'l law: U.N. agency head",
-                "desc": "The head of the International Maritime Organization on Thursday rejected proposals by U.S. President Donald Trump and Iran to charge fees for the safe passage of ships through the Strait of Hormuz, saying such fees are \"not in line with international law.\"",
-                "image": "https://english-kyodo.ismcdn.jp/mwimgs/2/7/1200x/img_27f54504ee0c4ba9abe7505db2ad0f03751863.jpg",
-                "url": "https://english.kyodonews.net/articles/-/80672",
-                "source": "Japan Wire by Kyodo News",
-                "date": "2026-07-24T09:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
-                "desc": "One Israeli was also killed near town of Tal in Nablus, according to Israel’s Magen David Adom rescue services.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6320dc027b-1784881372.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town",
-                "source": "Al Jazeera",
-                "date": "2026-07-24T09:45:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China Rushes to Secure Russian Oil as Middle East Supply Risks Escalate",
-                "desc": "Chinese refiners have accelerated purchases of Russia's ESPO crude as escalating disruptions in the Middle East threaten global oil supplies.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-24_ntqnsxwbmy.jpg",
-                "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Rushes-to-Secure-Russian-Oil-as-Middle-East-Supply-Risks-Escalate.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-07-24T09:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Renewed Hormuz tensions pressure graphite feedstock prices",
-                "desc": "The Middle East conflict and the rising cost of feedstock materials has led to prices for pre-calcined petroleum needle coke rising 23% so far this year on an RMB-basis (26% on a USD-basis) according to Benchmark’s Synthetic Graphite Price Assessment.",
-                "image": "https://a.storyblok.com/f/287943243085208/7992x4027/6b5cc3936a/strait-of-hormuz.jpeg",
-                "url": "https://source.benchmarkminerals.com/article/renewed-hormuz-tensions-reignite-pressure-on-graphite-feedstock-prices",
-                "source": "Benchmark Mineral Intelligence",
-                "date": "2026-07-24T09:39:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Porn Star Sworn In as Senator in Colombia",
-                "desc": "Former adult film actress Amaranta Hank, Deyci Alejandra Omaña Ortiz, has been sworn in as a senator in Colombia, advocating for adult entertainment worker",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/PFMNOP7445C4RKJBS5RVQCSWXI_1784885580-992x630.webp",
-                "url": "https://punchng.com/ex-porn-star-sworn-in-as-senator-in-colombia/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-24T09:38:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Philippines should stop infringement activities, provocations",
-                "desc": "On Friday, the China Coast Guard took necessary measures to drive away Philippine vessels that illegally intruded into China's territorial waters of Huangyan Dao, said Jiang Lue, a spokesperson for the CCG, vowing to resolutely safeguard China's territorial sovereignty and maritime rights and interests",
-                "image": "https://www.chinadailyhk.com/upload/main/image/2026/02/26/141422b00f9938c6938474c1dd5c8624.png",
-                "url": "https://www.chinadailyasia.com/hk/article/636901",
-                "source": "chinadailyasia.com",
-                "date": "2026-07-24T09:36:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "$8.3 bn out, $192 mn in: China-Africa zero-tariff test",
-                "desc": "China exported $8.28 billion of apparel to Africa in 2025 and imported $192.05 million, TexPro data shows.\nThe 43-to-one gap highlights a sourcing relationship still led by Chinese shipments into African",
-                "image": "https://static.fibre2fashion.com/Newsresource/images/312/chatgpt-image-jul-24-3_323613.jpg",
-                "url": "https://www.fibre2fashion.com/news/textile-news/8-3-bn-out-192-mn-in-china-africa-zero-tariff-test-312036-newsdetails.htm",
-                "source": "Fibre2Fashion",
-                "date": "2026-07-24T09:35:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Philippines accuses China of using water cannon on vessels for second day",
-                "desc": "The Philippine Coast Guard says 12 China Coast Guard vessels and three Chinese maritime militia vessels were involved.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6310cd477b-1784877261.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/24/philippines-accuses-china-of-using-water-cannon-on-vessels-for-second-day",
-                "source": "Al Jazeera",
-                "date": "2026-07-24T09:34:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s recent actions on Iran and tariffs could hurt Republicans",
-                "desc": "“He’s on a death march for the economy and seems not to care,” said Senator Peter Welch, a Democrat from Vermont.",
-                "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/INPCHWRSQOERDZADTLWQBY6LQQ.jpg?auth=5b4ef64649adbc55a88725cf635759f220bb00bceeea5bd8b09a4c6f654f6e02&width=1440",
-                "url": "https://www.bostonglobe.com/2026/07/24/nation/gas-prices-trump-iran/",
-                "source": "The Boston Globe",
-                "date": "2026-07-24T09:33:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MTN’s Ralph Mupita Calls for Greater Economic Opportunity to Unlock Africa’s Future",
-                "desc": "As a sponsor of this year’s KMF seminar, MTN Group believes platforms that bring together diverse perspectives are essential to building practical solutions to some of the continent’s most complex challenges.",
-                "image": "https://techafricanews.com/wp-content/uploads/2026/07/MTN.png",
-                "url": "https://techafricanews.com/2026/07/24/mtns-ralph-mupita-calls-for-greater-economic-opportunity-to-unlock-africas-future-2/",
-                "source": "TechAfrica News",
-                "date": "2026-07-24T09:32:32Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-25T10:56:49.182572Z"
+    "lastGlobalSync": "2026-07-25T12:06:51.869749Z"
 }
