@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Riders grill OC Transpo boss at town hall",
+                "desc": "Ottawa's transit agency has pledged to put customers first under its newest strategy and dozens of riders showed up at an information session Tuesday night to test that commitment.",
+                "image": "https://i.cbc.ca/ais/83ac3271-f68e-44b8-a05b-f460461b599d,1785299141421/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3520%2C1980%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/ottawa/oc-transpo-customer-information-session-changes-9.7288513",
+                "source": "CBC",
+                "date": "2026-07-29T11:45:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uncertainty surrounds US interest rate decision: Market expects rates to remain unchanged",
+                "desc": "Higher central bank interest rates could lead to increased market volatility.",
+                "image": "https://imgproxy.watchmedier.dk/watchmedier/resize:fill:1200:0:0/plain/https://photos.watchmedier.dk/Images/19503643/dk8ak3/ALTERNATES/schema-16_9/usa-fedwarsh",
+                "url": "https://amwatch.com/AMNews/Fund_Management/article19503823.ece",
+                "source": "AMWatch",
+                "date": "2026-07-29T11:43:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stonehill Reports Sharp Rise in Organizational Design Work as Hiring Freezes and AI Push Companies to Restructure",
+                "desc": "Stonehill, a strategy and innovation consultancy serving PE-backed and founder-led middle-market companies.",
+                "image": "https://techrseries.com/wp-content/uploads/2026/07/Stonehill-Reports-Sharp-Rise-in-Organizational-Design-Work-as-Hiring-Freezes-and-AI-Push-Companies-to-Restructure.jpg",
+                "url": "https://techrseries.com/hiring/stonehill-reports-sharp-rise-in-organizational-design-work-as-hiring-freezes-and-ai-push-companies-to-restructure/",
+                "source": "HRTech Series",
+                "date": "2026-07-29T11:43:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Optimization and hardware evaluation of a modified reconfigurable ring oscillator PUF",
+                "desc": "Physical Unclonable Functions (PUFs) are emerging hardware security primitives that generate device-specific secret keys by exploiting inherent manufacturing variations. Among the various PUF architectures, Ring Oscillator PUFs (RO-PUFs) are notable for their simplicity and high performance. However, conventional RO-PUFs suffer from a limited number of challenge–response pairs (CRPs), making them susceptible to machine learning (ML) attacks, and scaling them to handle more CRPs often incurs significant hardware overheads. This paper presents a novel Configurable Delay Unit based Modified Reconfigurable Ring Oscillator PUF (MRROPUF) that integrates Exclusive-OR (XOR) and Exclusive-NOR (XNOR) gates to dynamically configure delay paths using challenge bits. This architecture substantially increases the CRP space and entropy while reducing resource utilization. Additional security is achieved through challenge obfuscation via permutation and enhanced reliability via Temporal Majority Voting (TMV). The proposed design was implemented on Xilinx Virtex-6 and Zynq-7000 FPGAs. The experimental results demonstrated high uniqueness (49.76% and 49.0%), near-ideal uniformity (49.3% and 49.0%), and excellent reliability (99.72% and 99.0%) across the two platforms. Compared to existing Configurable RO-PUF and Reconfigurable RO-PUF designs, the MRROPUF achieves superior efficiency and robustness, making it a strong candidate for secure and lightweight hardware authentication in resource-constrained applications.",
+                "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-61746-6?error=cookies_not_supported&code=77e97a8a-62e0-4439-828d-ceac7824bd7c",
+                "source": "Nature",
+                "date": "2026-07-29T11:42:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nexxen to Announce Second Quarter 2026 Financial Results on August 12, 2026",
+                "desc": "NEW YORK, July 29, 2026 (GLOBE NEWSWIRE) -- Nexxen International Ltd. (NASDAQ: NEXN) ('Nexxen” or the 'Company”), the advertising technology platform powered by unique data and media, will release its financial results for the three and six months ended June 30, 2026, before the U.S. market opens on Wednesday, August 12, 2026.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/29/1155913.png",
+                "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/nexxen-to-announce-second-quarter-2026-financial-results-on-august-12-2026/2393942",
+                "source": "The Manila Times",
+                "date": "2026-07-29T11:41:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Quantum Cyber Applauds President Trump's Drone Dominance Program and Supply Chain Framework, Reaffirms Commitment to On-Shore U.S. Manufacturing of Autonomous Systems",
+                "desc": "Company Views the Department of War's Drone Dominance Program Supply Chain Framework as Direct Validation of Its Domestic Manufacturing Strategy Led by Peter O'Rourke and David Lazar; Bridgeport, Connecticut Facility Positioned to Support Non-Covered-Country Sourcing Requirements",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/29/1155912.png",
+                "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/quantum-cyber-applauds-president-trumps-drone-dominance-program-and-supply-chain-framework-reaffirms-commitment-to-on-shore-us-manufacturing-of-autonomous-systems/2393941",
+                "source": "The Manila Times",
+                "date": "2026-07-29T11:41:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FTI Consulting Appoints E-Discovery, Data Analytics and Legal Technology Leader as Senior Managing Director",
+                "desc": "Diane Quick Brings More Than 20 Years of Experience Helping Clients Navigate Complex Disputes, Investigations and Emerging Data Challenges",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/29/1155899.jpg",
+                "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/fti-consulting-appoints-e-discovery-data-analytics-and-legal-technology-leader-as-senior-managing-director/2393928",
+                "source": "The Manila Times",
+                "date": "2026-07-29T11:41:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Keystone Bank Partners Kewalram On Auto Loan Financing",
+                "desc": "Keystone Bank Limited has reaffirmed its commitment to deepening consumer auto financing through a strategic partnership with Kewalram Nigeria Limited, a leading automotive distributor of Soueast, Foton, and Isuzu vehicles in Nigeria. In a statement on Wednesday, the bank disclosed that the partnership aims to expand access to affordable and convenient vehicle financing solutions and...",
+                "image": "https://independent.ng/wp-content/uploads/2026/07/IMG-20260729-WA0003.jpg",
+                "url": "https://independent.ng/keystone-bank-partners-kewalram-on-auto-loan-financing/",
+                "source": "Independent Newspaper Nigeria",
+                "date": "2026-07-29T11:40:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Presco Plc delivers 9.3% PBT growth to n122.2 billion in h1 2026; board proposes n10 interim dividend",
+                "desc": "Stay connected via Google News Presco Plc (Bloomberg: PRESCO:NL | Reuters: PRESCO.LG | NGX: PRESCO), Nigeria’s leading fully…",
+                "image": "https://www.thecable.ng/wp-content/uploads/2025/10/presco-1.jpg",
+                "url": "https://www.thecable.ng/presco-plc-delivers-9-3-pbt-growth-to-n122-2-billion-in-h1-2026-board-proposes-n10-interim-dividend/",
+                "source": "TheCable",
+                "date": "2026-07-29T11:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meridian Holdings Reports Second Quarter 2026 Financial Results",
+                "desc": "Revenue Up 16% Year-Over-Year to $50.2 Million Second Consecutive Quarter of GAAP Profitability with Net Income Attributable to MRDN of $2.2 Million and Diluted EPS of $0.17 Adjusted EBITDA Up 43% Year-Over-Year to $5.9 Million Total Debt Reduced 45% Year-Over-Year to $26.7 Million; Cash and Cash Equivalents of $17.3 Million Net Debt Reduced 65% Year-Over-Year to $9.4 Million; Net Debt Leverage of 0.39x LAS VEGAS, NV - July 29, 2026 (NEWMEDIAWIRE) - Meridian Holdings Inc. (NASDAQ: MRDN) (\"Meridian Holdings\" or the \"Company\"), a global operator and licensor of online and retail sports betting, gaming and casino platforms, serving B2B and B2C customers across over 20 regulated markets, today announced its financial results for the second quarter ended June 30, 2026...",
+                "image": "https://iprsoftwaremedia.com/270/files/202607/20a48fd15c04718262b582ba1eb69f56/6a69e488ed6ae56134c8df4d_cc5a25e7ad1ee2ba_6a69203bda846f464e6633e9_/cc5a25e7ad1ee2ba_6a69203bda846f464e6633e9__hero.jpg?v=c2a86588-4d2a-43d3-bca7-6e269f1f3b7b",
+                "url": "https://www.newmediawire.com/news/meridian-holdings-reports-second-quarter-2026-financial-results-7088041",
+                "source": "NewMediaWire",
+                "date": "2026-07-29T11:38:16Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Power Africa Today Brings Global Policymakers, Regulators & Market Experts to African Energy Week...",
                 "desc": "The inaugural Power Africa Today conference,  taking place at African Energy Week (AEW) 2026, in Cape Town on October 12- 16, will...",
                 "image": "http://www.businessghana.com/site/img/../../cms/img/news/2026-07-28-141052002.jpg",
@@ -542,99 +632,99 @@
                 "source": "Punch Newspapers",
                 "date": "2026-07-29T03:20:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Hawke's Bay growers abandon bid to save McCain factory after equipment pulled",
-                "desc": "A group of vegetable growers in Hawke's Bay are ditching their plans to save the McCain factory.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--nUlLrbuG--/t_tohu-badge-facebook/f_auto/q_auto/4MEJ3MF_copyright_image_256542",
-                "url": "https://www.rnz.co.nz/news/business/829280/hawke-s-bay-growers-abandon-bid-to-save-mccain-factory-after-equipment-pulled",
-                "source": "RNZ",
-                "date": "2026-07-29T01:03:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SK Hynix profit disappoints, spending soars to US$31 bil",
-                "desc": "SK Hynix Inc earmarked at least US$31 billion (RM126.71 billion) in capital spending this year after reporting a six-fold surge in quarterly profit, a record outlay that coincides with growing fears about overinvestment in AI capacity.",
-                "image": "https://assets.theedgemarkets.com/The_SK_hynix_logo_and_a_computer_motherboard_appear_in_this_illustration_taken_Aug_25,_2025px-Dado_Ruvic_R-APP_4.jpg",
-                "url": "https://theedgemalaysia.com/node/812385",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-29T01:03:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bank Recapitalisation: Cheaper, Safer Financial Services",
-                "desc": "EFInA CEO Foyinsola Akinjayeju states that Nigeria's bank recapitalisation must lead to cheaper, safer, and more accessible financial services for consumer",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/EFINA_1785286957.webp",
-                "url": "https://punchng.com/bank-recapitalisation-must-deliver-cheaper-safer-financial-services-efina/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-29T01:03:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Survey Finds Americans See AI as Comparable to Humans. It's Making Them Trust It Less",
-                "desc": "The better it gets, the worse it feels.",
-                "image": "https://gizmodo.com/app/uploads/2024/11/GettyImages-2154701385.jpg",
-                "url": "https://gizmodo.com/survey-finds-americans-see-ai-as-comparable-to-humans-its-making-them-trust-it-less-2000792032",
-                "source": "Gizmodo",
-                "date": "2026-07-29T01:01:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TeamViewer SE (TMVWF) Half Year 2026 Earnings Call Highlights: Strategic Partnerships and AI ...",
-                "desc": "Despite a slight revenue dip, TeamViewer SE (TMVWF) strengthens its market position through strategic alliances and increased AI integration, while navigating macroeconomic uncertainties.",
-                "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-                "url": "https://finance.yahoo.com/technology/ai/articles/teamviewer-se-tmvwf-half-2026-010151865.html",
-                "source": "Yahoo Finance",
-                "date": "2026-07-29T01:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-                "desc": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A263825_large-1152x648.jpg",
-                "url": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
-                "source": "Ars Technica",
-                "date": "2026-07-29T01:00:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2027 Audi Q9: All-new flagship SUV revealed as Audi's largest model yet",
-                "desc": "Audi takes aim at Mercedes-Benz GLS and BMW X7 with its all-new, 5.3m-long Q9 flagship SUV, due here next year.",
-                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/audi-sq9-outdoor-2027-01.jpg",
-                "url": "https://www.carexpert.com.au/car-news/2027-audi-q9-all-new-flagship-suv-revealed-as-audis-largest-model-yet",
-                "source": "CarExpert",
-                "date": "2026-07-29T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Audi continues U.S. product push with three-row Q9 SUV",
-                "desc": "Audi sales have struggled in the U.S. over the last several quarters. The brand has been hit by tariffs and a market shift away from EVs. New product may help.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108341426-1785276757501-frame_577.jpg?v=1785284366&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/28/audi-q9-suv.html",
-                "source": "CNBC",
-                "date": "2026-07-29T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bitcoin (BTCUSD) Recovers Part of Its Losses but the Recovery Remains Incomplete - Analysis - 29-07-2026",
-                "desc": "(BTCUSD) extended its cautious gains during its latest intraday trading, supported by the improvement of relative strength indicators after they moved out of oversold territory. This provided the price with momentum that helped it recover part of its previous losses and regain some balance in its movements.",
-                "image": "https://dylta6p24nxqg.cloudfront.net/images/1785286771.png",
-                "url": "https://www.economies.com/crypto/analysis/bitcoin-(btcusd)-recovers-part-of-its-losses-but-the-recovery-remains-incomplete-%E2%80%93-analysis-%E2%80%93-29-07-2026-128781",
-                "source": "Economies.com",
-                "date": "2026-07-29T00:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wall Street ends mixed as investors await tech earnings",
-                "desc": "Traders on Wall Street are pricing in a 29 per cent chance of a Federal Reserve rate hike this week.",
-                "image": "https://assets.commbank.com.au/is/image/commbank/newsroom-wall-st-traders-mar-26:Large",
-                "url": "https://www.commbank.com.au/articles/newsroom/2026/July/wall-street-ends-mixed-as-investors-await-tech-earnings.html",
-                "source": "CommBank",
-                "date": "2026-07-29T00:58:02Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Deaf home cinema fans deserve more than subtitles - here's why",
+                "desc": "Movie streaming platforms need to pull their socks up",
+                "image": "https://cdn.mos.cms.futurecdn.net/x4bKKx9Hw9WHrTGkiVtJm3-2560-80.jpg",
+                "url": "https://www.whathifi.com/streaming-entertainment/deaf-home-cinema-fans-deserve-more-than-subtitles-heres-why",
+                "source": "What Hi-Fi?",
+                "date": "2026-07-29T11:45:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone 18 Pro: Apple’s Launch Schedule Comes Into Focus With New Strategy",
+                "desc": "The next iPhones are going to appear in a split schedule, it seems, and a new report adds weight to the theory.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a69e4a600f35061133fd5f5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/davidphelan/2026/07/29/iphone-18-pro-apples-launch-schedule-comes-into-focus-with-new-strategy/",
+                "source": "Forbes",
+                "date": "2026-07-29T11:45:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lenovo Quietly Cut This Windows 11 Laptop (8GB, 256GB SSD, Copilot AI) by 60% Off",
+                "desc": "Amazon is now offering a rare chance to save almost $700 on a solid everyday laptop.",
+                "image": "https://gizmodo.com/app/uploads/2026/07/lenovo-v15-1200x675.jpg",
+                "url": "https://gizmodo.com/lenovo-quietly-cut-this-windows-11-laptop-8gb-256gb-ssd-copilot-ai-by-60-off-2000792166",
+                "source": "Gizmodo",
+                "date": "2026-07-29T11:45:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thornley Kelham unveils 200bhp Porsche 356 European SL for Megaphonics weekend",
+                "desc": "Thornley Kelham's new aluminium-bodied 356 European SL offers either 180bhp or 200bhp, and will make its debut at Megaphonics this weekend.",
+                "image": "https://media.magnetomagazine.com/app/uploads/2026/07/28134228/Thornley-Kelham-356-European-SL-profile_1000px_72dpi.jpg",
+                "url": "https://www.magnetomagazine.com/articles/thornley-kelham-unveils-200bhp-porsche-356-european-sl-for-megaphonics-weekend/",
+                "source": "magnetomagazine.com",
+                "date": "2026-07-29T11:44:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best Anker deal: Save $15.01 on the black Anker soundcore 2 portable speaker",
+                "desc": "As of July 29, the black Anker soundcore 2 portable speaker is discounted to $29.98 at Amazon. That's 33% off its list price of $44.99.",
+                "image": "https://helios-i.mashable.com/imagery/articles/03bslnqAO4SvwRF93SR53Fj/hero-image.fill.size_1200x675.v1785322870.jpg",
+                "url": "https://mashable.com/tech/july-29-anker-soundcore-2-portable-speaker-deal",
+                "source": "Mashable",
+                "date": "2026-07-29T11:44:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox Takes a Leap Into Advertising, Could Shake up Gaming Market",
+                "desc": "Xbox is testing a way for users to stream the games for free by watching ads. Ad execs say the move hints at a bigger advertising play.",
+                "image": "https://i.insider.com/6a68c674548c9c486b311567?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/xbox-takes-leap-into-advertising-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-29T11:42:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "One UI 9 on foldables confirms features we’ve been waiting for",
+                "desc": "Samsung’s latest range of foldables featuring One UI 9 stable have confirmed a handful of features that were previously leaked.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-vs-z-fold-8-ultra-2.jpg",
+                "url": "https://www.androidauthority.com/samsung-one-ui-9-wifi-restriction-3692279/",
+                "source": "Android Authority",
+                "date": "2026-07-29T11:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Wins Exclusive OLED Touchscreen Deal for Apple’s Upcoming MacBook Pro",
+                "desc": "Samsung Display has reportedly won Apple's exclusive OLED touchscreen contract for future MacBook Pro models, highlighting its lead in large-format display manufacturing.",
+                "image": "https://assets.techrepublic.com/uploads/2026/07/tr-07292026-samsung-exclusive-oled-macbook.jpg?f=jpeg",
+                "url": "https://www.techrepublic.com/article/news-samsung-exclusive-oled-macbook-pro-display-deal/",
+                "source": "TechRepublic",
+                "date": "2026-07-29T11:38:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mario Kart World Tops Nintendo Switch 2 Best-Sellers as Console Sales Near 20 Million Units Worldwide",
+                "desc": "Mario Kart World is the top-selling Nintendo Switch 2 game, driving console sales to nearly 20 million units worldwide within a year of launch, according to Nintendo's latest sales figures.",
+                "image": "https://d.ibtimes.com.au/en/full/1891432/mario-kart-world-dominates-japans-january-2026-physical-game-sales.jpg",
+                "url": "https://www.ibtimes.com.au/mario-kart-world-dominates-switch-2-sales-1873193",
+                "source": "International Business Times Australia",
+                "date": "2026-07-29T11:35:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "23 WIRED-Approved Gifts for Frequent Travelers (2026)",
+                "desc": "Looking for thoughtful gifts for travelers? Our guide has 23 tested picks that jet-setters and frequent fliers will actually appreciate.",
+                "image": "https://media.wired.com/photos/6a69273206d0cf4762d442ce/191:100/w_1280,c_limit/Smart-Gifts-for-Travelers-Who-Live-Out-of-a-Suitcase.jpg",
+                "url": "https://www.wired.com/gallery/best-travel-gift/",
+                "source": "WIRED",
+                "date": "2026-07-29T11:34:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Top reasons to buy the Samsung Galaxy Watch Ultra 2",
                 "desc": "Check out some of the biggest reasons why you should buy Samsung's latest flagship smartwatch, the Galaxy Watch Ultra 2.",
@@ -1174,99 +1264,99 @@
                 "source": "Analog Stick Gaming",
                 "date": "2026-07-29T03:05:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Northern Nats 10 awards results",
-                "desc": "The full list of results from Northern Nats 10 at Springmount Raceway",
-                "image": "https://cdn.streetmachine.com.au/2026/07/northern-nats-10-results-scaled-e1785286589392.jpg",
-                "url": "https://www.streetmachine.com.au/events/northern-nats-10-awards-results",
-                "source": "Street Machine",
-                "date": "2026-07-29T01:04:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Harmonics Sampled From Grand Pianos",
-                "desc": "The Crow Hill Company releases ...HARMONIC PIANO",
-                "image": "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/44190_342.jpg",
-                "url": "https://sonicstate.com/news/2026/07/29/harmonics-sampled-from-grand-pianos",
-                "source": "Sonicstate",
-                "date": "2026-07-29T01:03:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Plugin Turns Your DAW Into A 3D Studio",
-                "desc": "Audiocube Space puts a full 3D audio engine inside any DAW",
-                "image": "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/44192_236.jpg",
-                "url": "https://sonicstate.com/news/2026/07/29/plugin-turns-your-daw-into-a-3d-studio-/",
-                "source": "Sonicstate",
-                "date": "2026-07-29T01:03:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mercedes-Benz's Non-AMG V12 Sports Car Costs Half As Much As The Cheapest New Car On Sale",
-                "desc": "This slept-on drop-top delivers all of the cylinders for used Corolla money.",
-                "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/sl600-main.png?w=1600&h=900&fit=crop",
-                "url": "https://carbuzz.com/mercedes-benz-sl600-v12-sports-car-bargain-2026/",
-                "source": "CarBuzz",
-                "date": "2026-07-29T01:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI's First Devices: Speaker, Smartphone, and More",
-                "desc": "OpenAI's hardware roadmap has sharpened considerably in recent months, with its first device now identified, a smartphone said to be arriving as soon as next year, and a wider lineup taking shape behind them. AI Smart Speaker OpenAI's first product is a portable, screenless smart speaker developed with former Apple design chief Jony Ive, designed to act as a personal companion in the home rather than a conventional voice assistant.",
-                "image": "https://images.macrumors.com/t/bzVs-8bKuClS_OQgMN-mbh9HsqQ=/2500x/article-new/2026/05/OpenAI-Smartphone-Feature.jpg",
-                "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/",
-                "source": "MacRumors",
-                "date": "2026-07-29T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Homey Updates to Matter 1.5 - Supports More Smart Devices",
-                "desc": "The Homey platform gains Matter 1.5 certification, bringing support for a more Matter devices as well as bridging existing non-Matter devices",
-                "image": "https://homekitnews.com/wp-content/uploads/2026/07/Homey-Pro-MATTER-1.5-MT-TH-NW-FI.jpg",
-                "url": "https://homekitnews.com/2026/07/29/homey-updates-to-matter-1-5-supports-more-smart-devices/",
-                "source": "Homekit News and Reviews",
-                "date": "2026-07-29T00:54:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google On SEO Impact Of URLs Injected Into HTML By CMS Platforms",
-                "desc": "Google's John Mueller explains the SEO impact of random URLs injected by CMS platforms into the raw HTML of web pages.",
-                "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/07/google-seo-impact-518.jpg",
-                "url": "https://www.searchenginejournal.com/google-on-seo-impact-of-urls-injected-into-html-by-cms-platforms/584037/",
-                "source": "Search Engine Journal",
-                "date": "2026-07-29T00:38:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Target Has Dropped A Great Halo: Campaign Evolved Day One Bargain",
-                "desc": "Target Has Dropped A Great Halo: Campaign Evolved Day One Bargain",
-                "image": "https://press-start.com.au/wp-content/uploads/2026/07/TYarget-Halo.jpg",
-                "url": "https://press-start.com.au/bargains/2026/07/29/target-has-dropped-a-great-halo-campaign-evolved-day-one-bargain/",
-                "source": "Press Start Australia",
-                "date": "2026-07-29T00:34:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Video: Crazy Taxi: World Tour Gets A Crazy New Trailer Highlighting West Coast Map",
-                "desc": "Closed network test announced for other platforms - Sega is reviving the Crazy Taxi series in 2027, and after releasing an announcement trailer last month, i...",
-                "image": "https://images.nintendolife.com/6a9373fef9ef1/large.jpg",
-                "url": "https://www.nintendolife.com/news/2026/07/video-crazy-taxi-world-tour-gets-a-crazy-new-trailer-highlighting-west-coast-map",
-                "source": "Nintendo Life",
-                "date": "2026-07-29T00:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australian GTA Online players officially blocked by Rockstar from getting rarest vehicle",
-                "desc": "Rockstar has revoked access to The Diamond Casino & Resort within GTA Online for players in Australia, removing access to the rarest vehicle in the game.",
-                "image": "https://static.tweaktown.com/news/1/1/112885_1_gta-onlines-casino-locked-for-another-country-after-seven-years-of-gambling_full.png",
-                "url": "https://www.tweaktown.com/news/112885/australian-gta-online-players-officially-blocked-by-rockstar-from-getting-rarest-vehicle/index.html",
-                "source": "TweakTown",
-                "date": "2026-07-29T00:17:08Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Anthony Fauci again called to testify about COVID-19 to U.S. Senate",
+                "desc": "Dr. Anthony Fauci has testified in Congress more than 20 times since COVID-19 was discovered in China, but Wednesday's appearance occurs before a panel led by his chief Republican antagonist, who would like to see him criminally prosecuted.",
+                "image": "https://i.cbc.ca/ais/83859111-1d90-4d4e-b55d-cf294a0b925b,1785296231086/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C414%2C5472%2C3078%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/us-senate-fauci-testimony-stakes-9.7288490",
+                "source": "CBC",
+                "date": "2026-07-29T11:42:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Woman Heartbroken as Thug Breaks into Her Vehicle, Steals Her Handbag",
+                "desc": "South African woman Gaopalelwe details the trauma of her car being broken into and a bribe request at a licensing office after her belongings were stolen.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/d03be79f602b8e7d.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/people/634588-woman-heatbroken-thug-breaks-vehicle-steals-handbag/",
+                "source": "Tuko News",
+                "date": "2026-07-29T11:42:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thousands return home but new heatwave raises fears",
+                "desc": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/676e/live/d3e05150-8b3f-11f1-b2d7-b96c6bc9d7f5.jpg",
+                "url": "https://www.bbc.com/news/articles/cwyjgwg8jddo",
+                "source": "BBC",
+                "date": "2026-07-29T11:42:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spain wildfires: Thousands return home but new heatwave raises fears",
+                "desc": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/676e/live/d3e05150-8b3f-11f1-b2d7-b96c6bc9d7f5.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo",
+                "source": "BBC",
+                "date": "2026-07-29T11:42:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+                "desc": "The US says it intercepted an Iranian ‘surprise attack’ on US forces as fears rise of wider war.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a69bc817cfe-1785314433.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading",
+                "source": "Al Jazeera",
+                "date": "2026-07-29T11:41:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gen Z workers are leaving offices to cry and nap in cinemas, fitting rooms as burnout rises",
+                "desc": "Subsequent surveys have found that many Gen Z employees describe conventional office jobs as 'soul-sucking', while an increasing number are pursuing alternatives such as freelancing, building multiple income streams, becoming content creators or entering skilled trades.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260729114110_hdsjdskjhshsbjhhs.jpg",
+                "url": "https://www.moneycontrol.com/news/trends/gen-z-workers-are-leaving-offices-to-cry-and-nap-in-cinemas-fitting-rooms-train-stations-as-burnout-rises-13987343.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-07-29T11:41:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US military intercepts Iran missiles",
+                "desc": "The US military announced the interception of multiple ballistic missiles launched by Iran, ending a recent lull in hostilities between the two nations. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/45bb703cbed444ef56ff142bec3d053b2b388c1a7773de2d248aeb52bd610395",
+                "url": "https://www.straitstimes.com/world/united-states/us-military-says-intercepted-missiles-launched-by-iran",
+                "source": "The Straits Times",
+                "date": "2026-07-29T11:37:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "immigration protest: South Africa govment to prosecute citizens wey cause kasala during protests as govment battle to redeem kontri image",
+                "desc": "Tok-tok pesin for South Africa Department of International Relations and Cooperation tok say govment dey willing to prosecute citizens wey act unlawfully.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_pidgin/2042/live/3a801250-8b37-11f1-b2ab-0dd01740f9f6.png",
+                "url": "https://www.bbc.com/pidgin/articles/c0qv8e5lld1o",
+                "source": "BBC",
+                "date": "2026-07-29T11:37:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump's Tic Tac funeral moment shows his friendships are purely transactional",
+                "desc": "The US President's contempt for allies who cannot help him was clear in his unconventional behaviour on Tuesday",
+                "image": "https://inews.co.uk/wp-content/uploads/2026/07/SEI_306772990.jpg?crop=60px%2C19px%2C1770px%2C1001px&resize=1200%2C675",
+                "url": "https://inews.co.uk/news/world/trumps-tic-tac-funeral-friendships-transactional-4673480",
+                "source": "The i Paper",
+                "date": "2026-07-29T11:37:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Reclaiming the Republic: Why True Judicial Efficiency Demands Systemic Reform Over Retirement Age Extensions",
+                "desc": "A fundamental mistake in political thinking is confusing a raw democratic majority with a true constitutional republic.",
+                "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_cc91f6ab16.jpeg",
+                "url": "https://www.dailymirror.lk/breaking-news/Reclaiming-the-Republic-Why-True-Judicial-Efficiency-Demands-Systemic-Reform-Over-Retirement-Age-Extensions/108-346884",
+                "source": "Daily Mirror - Sri Lanka",
+                "date": "2026-07-29T11:34:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Japan's PM says rescuers in 'race against time' after powerful earthquake",
                 "desc": "Soldiers and emergency workers combed through a badly damaged shopping mall and collapsed houses looking for trapped survivors Wednesday after a powerful earthquake that killed at least 18 people and left many missing in southwestern Japan.",
@@ -1806,98 +1896,8 @@
                 "source": "Cyprus Shipping News",
                 "date": "2026-07-29T02:58:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "CBS’ ’60 minutes’ announces new slate of correspondents",
-                "desc": "Two months after a major shakeup, CBS’s “60 Minutes” has hired a lineup of new correspondents and contributors in time for its 59th season, including Ross Douthat, a conservative opinion columnist at The New York Times, and Norah O’Donnell, former anchor of “CBS Evening News.”",
-                "image": "https://www.chicagotribune.com/wp-content/uploads/2026/07/Media_CBS_6__Minutes_51945-1.jpg?w=3723&h=2482",
-                "url": "https://www.chicagotribune.com/2026/07/28/cbs-60-minutes-correspondents/",
-                "source": "Chicago Tribune",
-                "date": "2026-07-29T01:00:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Luxury rail travel is having a moment",
-                "desc": "Three new reasons to fall in love with train travel",
-                "image": "https://images.thewest.com.au/publication/C-22639596/688abeb348687f14c45b6ff7e15be26808197975-16x9-x0y1092w11648h6552.jpg?imwidth=1200",
-                "url": "https://thewest.com.au/news/travel/luxury-rail-travel-is-having-a-moment-c-22639596",
-                "source": "The West Australian",
-                "date": "2026-07-29T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tiny crystals from a 17th-century shipwreck hold secrets of a global supply chain at the dawn of capitalism",
-                "desc": "Nearly four centuries after the Batavia wrecked, a new study about its precious cargo shows that stories can indeed be written in stone.",
-                "image": "https://images.theconversation.com/files/750166/original/file-20260727-57-4fbbcd.jpeg?ixlib=rb-4.1.1&rect=0%2C456%2C5472%2C2736&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/tiny-crystals-from-a-17th-century-shipwreck-hold-secrets-of-a-global-supply-chain-at-the-dawn-of-capitalism-287688",
-                "source": "The Conversation",
-                "date": "2026-07-29T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Learning from China's economic journey",
-                "desc": "China has achieved remarkable progress in economic development, industrial modernization and technological innovation in recent decades. Its model of governance has attracted global attention.",
-                "image": "http://img2.chinadaily.com.cn/images/202607/29/6a69500da310986e101a7dd0.png",
-                "url": "https://www.chinadaily.com.cn/a/202607/29/WS6a69500da310986e2b467d22.html",
-                "source": "China Daily",
-                "date": "2026-07-29T00:57:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Houthis attempting to emulate Iran's Hormuz model in Red Sea: Yemeni official",
-                "desc": "Trump says US and Tehran having 'good talks' as drones hit Iran's neighbours. US-Iran war, Israel",
-                "image": "https://i.tribune.com.pk/media/images/trump-r1784913361-0/trump-r1784913361-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2620709/houthis-attempting-to-emulate-irans-hormuz-model-in-red-sea-yemeni-official",
-                "source": "The Express Tribune",
-                "date": "2026-07-29T00:54:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US and Saudi forces conduct strikes on Iranian proxies in Iraq",
-                "desc": "US Central Command said the US military and Saudi Arabian forces conducted joint strikes “against Iran-aligned terrorists” in Iraq. Earlier, it said the US military intercepted ballistic missiles fired by Iran in an attempted “surprise attack.” Follow for live updates.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26209742987379.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/28/world/live-news/iran-trump-news",
-                "source": "CNN",
-                "date": "2026-07-29T00:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Race against time’: Japan earthquake death toll rises as rescue teams search for missing",
-                "desc": "Military mobilises thousands of personnel after quake on southern Kyushu island that registered a maximum 7 on the Japanese shindo intensity scale",
-                "image": "https://i.guim.co.uk/img/media/7cb2ed4c3fbff0876c8af72c2c8cb955a63707d5/1758_373_6414_5131/master/6414.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2709219ee205296213832ebcdaf6e557",
-                "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks",
-                "source": "The Guardian",
-                "date": "2026-07-29T00:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran Update Special Report, July 28, 2026",
-                "desc": "Three competing groups within the regime are attempting to influence negotiations policy, per ISW-CTP's Iran Update Special Report.",
-                "image": "https://understandingwar.org/wp-content/uploads/2025/10/Website-Featured-Image-1-scaled.webp",
-                "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-july-28-2026/",
-                "source": "Institute for the Study of War",
-                "date": "2026-07-29T00:33:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Argentina latest beef exporter to win Indonesian market access",
-                "desc": "ARGENTINA has secured access to the Indonesian market for beef and offal exports, adding another major supplier to a key Australian export destination. The opening of access to Argentinean beef and dairy products follows a",
-                "image": "https://datamarnews.com/wp-content/uploads/2025/12/raw-veal-beef-stew-set-old-dark-wooden-table.jpg",
-                "url": "https://datamarnews.com/noticias/argentina-latest-beef-exporter-to-win-indonesian-market-access/",
-                "source": "DatamarNews",
-                "date": "2026-07-29T00:33:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MTN CEO, Ralph Mupita, advocates for borderless Africa to drive economic growth",
-                "desc": "Add as a preferred source In a powerful call for continental solidarity, the Group CEO of MTN, Ralph Mupita, has asserted that the future of the African continent depends on the dismantling of xenophobic barriers. Speaking at the Kgalema Motlanthe Foundation (KMF) Winter Seminar on July 23, Mupita framed migration as a fundamental characteristic of […]",
-                "image": "https://tribuneonlineng.com/wp-content/uploads/2026/07/Ralph-Mupita.jpg",
-                "url": "https://tribuneonlineng.com/mtn-ceo-ralph-mupita-advocates-for-borderless-africa-to-drive-economic-growth/",
-                "source": "Tribune Online",
-                "date": "2026-07-29T00:30:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-29T22:42:23.547289Z"
+    "lastGlobalSync": "2026-07-29T23:45:43.015496Z"
 }
