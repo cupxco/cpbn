@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "The impact buying second-hand has on communities",
+                "desc": "A new report estimates the New Zealand op-shop industry reinvests $78 million back into communities.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--JIT_VvaE--/t_tohu-badge-facebook/f_auto/q_auto/4JKZUOW_IMG_1157_JPG",
+                "url": "https://www.rnz.co.nz/life/lifestyle/the-impact-buying-second-hand-has-on-communities",
+                "source": "RNZ",
+                "date": "2026-07-29T17:49:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Democrat senators ask US SEC to probe Trump Media’s fast feed sale",
+                "desc": "Trump Media has discussed charging as much as $100,000 a month for the Truth API product for buyers to get first access.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP25352450628333-1767207590.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/economy/2026/7/29/democrat-senators-ask-us-sec-to-probe-trump-medias-fast-feed-sale",
+                "source": "Al Jazeera",
+                "date": "2026-07-29T17:48:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BoC officials split over how long recent economic rebound will last",
+                "desc": "Members of the Bank of Canada’s governing council were split over how sustainable a recent economic rebound could be, deliberations from the central bank’s rate decision earlier this month show.",
+                "image": "https://www.bnnbloomberg.ca/resizer/v2/D76PT7NP4GS5LNQMHCOIGENU5A.jpg?smart=true&auth=e449dd6d8390bcee66a5898e05371612b92f7b2d35a351b6de6c22e989ba295c&width=1200&height=630",
+                "url": "https://www.bnnbloomberg.ca/business/economics/2026/07/29/bank-of-canada-officials-split-over-how-long-the-recent-economic-rebound-will-last/",
+                "source": "BNN Bloomberg",
+                "date": "2026-07-29T17:48:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple shares just hit a record. Here's how trader Mike Khouw is playing the move",
+                "desc": "Even as broader tech names and momentum plays have faltered, Apple has hit new all-time highs.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108318499-1780956215217-gettyimages-2280563837-_73a4256_oan98rng.jpeg?v=1780956247&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/29/apple-shares-just-hit-a-record-heres-how-trader-mike-khouw-is-playing-the-move.html",
+                "source": "CNBC",
+                "date": "2026-07-29T17:47:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+                "desc": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/07/humanoid-robot-china-fcc-2285947327.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
+                "source": "TechCrunch",
+                "date": "2026-07-29T17:41:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Interest rate warnings: How much extra could you be paying by the end of the year?",
+                "desc": "Experts on the best- and worst-case scenarios as global uncertainty takes its toll., All things property, under OneRoof",
+                "image": "https://s.oneroof.co.nz/image/2b/01/2b01cdd8a0e85da347442a40fc5d5507.jpg?x-oss-process=image/quality,q_80",
+                "url": "https://www.oneroof.co.nz/news/interest-rate-warnings-how-much-extra-could-you-be-paying-by-the-end-of-the-year-49940",
+                "source": "OneRoof",
+                "date": "2026-07-29T17:40:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "German company and B.C.’s Ksi Lisims sign landmark long-term LNG agreement",
+                "desc": "Last year, phase two of LNG Canada and the proposed Ksi Lisims LNG export terminal were referred to the federal government's major projects office for fast-tracking.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/d7d33318f44b0d89365b0d417186a5425ea01625a8a096a969d4168ccaa1ffa0.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/12000629/bc-lng-international-energy-exports-latest/",
+                "source": "Global News",
+                "date": "2026-07-29T17:40:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Simple things make it really difficult': Why pensioner households have had fastest inflation",
+                "desc": "Whangārei pensioner Bruce Tebbutt says he's noticed the price of everything increasing recently.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--h7Kv_98h--/t_tohu-badge-facebook/f_auto/q_auto/4KHE1CZ_cost_of_living_01_jpg",
+                "url": "https://www.rnz.co.nz/news/personal-finance/835678/simple-things-make-it-really-difficult-why-pensioner-households-have-had-fastest-inflation",
+                "source": "RNZ",
+                "date": "2026-07-29T17:39:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Former owner of Citywest Hotel receives over €50m for housing IP applicants",
+                "desc": "The €15.68 million brings to €49.24 million the State has paid Cape Wrath UC in three quarterly periods since the start of October last year.",
+                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMTBcXFwvMjExNTQ3MzFcXFwvQ0MtQ0lUWVdFU1QtVFVFU0RBWTEyLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMWMyZTcwMTkwZDE4ODVhNzM0MTQ5YmIwZWM4MTY0YzFlMzI1YjU0NyJ9/former-owner-of-citywest-hotel-receives-over-50m-for-housing-ip-applicants.jpg",
+                "url": "https://www.breakingnews.ie/business/former-owner-of-citywest-hotel-receives-over-e50m-for-housing-ip-applicants-1933696.html",
+                "source": "BreakingNews.ie",
+                "date": "2026-07-29T17:37:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cheesecake Factory’s Stock Surge Boosts Founder’s Fortune Above $300 Million",
+                "desc": "The restaurant chain’s stock has nearly doubled this year to a new all-time high.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a6a39f2f75a16dbabbcfd5e/0x0.jpg?format=jpg&crop=3294,1852,x0,y0,safe&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/tylerroush/2026/07/29/cheesecake-factorys-record-stock-run-builds-founders-300-million-fortune/",
+                "source": "Forbes",
+                "date": "2026-07-29T17:37:03Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Nigerian-owned Caribbean bank takes Zambia to court in $40 million fight over failed bank investment",
                 "desc": "Nigerian businessman Michael Prest’s Bank of Nevis International is seeking $40 million from Zambia, claiming regulators failed to recognise its stake in Investrust Bank before the lender was liquidated. | Business Insider Africa",
                 "image": "https://ocdn.eu/pulscms-transforms/1/MtOktkpTURBXy84OWE3NzcxZDI1NGFmMDkxZGZhN2MwNWQzMTc2YTJkMS5wbmeSlQMAIM0EOM0CYJMFzQSwzQJ2",
@@ -542,99 +632,99 @@
                 "source": "The Smart Investor",
                 "date": "2026-07-29T06:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Lincoln County Hospital's £26.5m endoscopy unit ready for patients",
-                "desc": "The endoscopy unit at Lincoln County Hospital cost £26.5m and can accommodate more patients.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a236/live/3be0ed00-8a96-11f1-abbc-1d62d6206917.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/clyerg927pmo",
-                "source": "BBC",
-                "date": "2026-07-29T04:56:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jollibee to double Tim Ho Wan stores in Taiwan with stronger franchisee",
-                "desc": "Jollibee Foods Corp. (JFC), one of the largest Asian food service companies, has unveiled a four-year growth plan to double Tim Ho Wan’s store network in...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/29/119470.webp",
-                "url": "https://mb.com.ph/2026/07/29/jollibee-to-double-tim-ho-wan-stores-in-taiwan-with-stronger-franchisee",
-                "source": "Manila Bulletin",
-                "date": "2026-07-29T04:52:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China’s humanoid robots have been taking over the global market. Now the US is banning them",
-                "desc": "China, which supplies the vast majority of the world’s humanoid robots, has suddenly been cut off from its largest export market as the US government moves to curb its reliance on foreign technology.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287539965.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/29/tech/us-china-robot-ban-intl-hnk",
-                "source": "CNN",
-                "date": "2026-07-29T04:51:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Households rush to withdraw cash ahead of rule changes under Andy Burnham",
-                "desc": "From April 2027, unused defined contribution pensions will for the first time fall within the scope of inheritance tax.",
-                "image": "https://i2-prod.birminghammail.co.uk/article34366287.ece/ALTERNATES/s1200d/0_andy-burnham8.jpg",
-                "url": "https://www.birminghammail.co.uk/news/cost-of-living/households-rush-withdraw-cash-ahead-34366218",
-                "source": "Birmingham Live",
-                "date": "2026-07-29T04:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Peak District National Park partnership with Skoda criticised",
-                "desc": "Skoda installs adverts for one of their new cars on Peak District National Park signs.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eafd/live/aa688180-8a6d-11f1-924e-bfa32777c3ff.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cgr7gegjd7zo",
-                "source": "BBC",
-                "date": "2026-07-29T04:48:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Celebrating Innovation & Talent in Nigerian Adv",
-                "desc": "The AAAN Awards spotlight innovation and emerging talent in Nigeria's advertising industry. Discover how agencies are navigating tech changes and nurturing",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/images-22_1785294744.webp",
-                "url": "https://punchng.com/advertisers-spotlight-innovation-talent-at-aaan-awards/",
-                "source": "Punch Newspapers",
-                "date": "2026-07-29T04:48:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Constar Identifies Southeast Asia as the Fastest-Growing Market for Colored Contact Lenses",
-                "desc": "China-based dual-certified manufacturer reports surging OEM demand from beauty brands and distributors across Thailand, Indonesia, Malaysia and Vietnam.\nJuly",
-                "image": "https://img.einnews.com/facebook/1139366/constar-lenses-factory.png",
-                "url": "https://www.einpresswire.com/article/930096757/constar-identifies-southeast-asia-as-the-fastest-growing-market-for-colored-contact-lenses",
-                "source": "EIN Presswire",
-                "date": "2026-07-29T04:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Infosys, TCS shares jump about 3%, Nifty IT top sectoral gainer as AI spending fears ease; US Fed decision eyed",
-                "desc": "Indian IT stocks advanced sharply on Wednesday, with the Nifty IT index emerging as the top sectoral gainer, as investors bought into the sector after a global selloff in semiconductor shares shifted focus from AI exuberance to more reasonable valuations ahead of the US Fed policy decision.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260509025235_Nifty_sensex_marketup.jpg",
-                "url": "https://www.moneycontrol.com/news/business/markets/infosys-tcs-shares-jump-about-3-nifty-it-top-sectoral-gainer-as-ai-spending-fears-ease-us-fed-decision-eyed-13986696.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-29T04:46:32Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "WAVEMAKER Business Creation Award for Blue Economy Ventures",
-                "desc": "Deadline: 31-Aug-2026 The WAVEMAKER Business Creation Award is a regional innovation competition supported by the Innovation Fund of Montenegro to identify and accelerate scalable ventures addressing challenges in the blue economy. The programme offers networking opportunities, business development support, a one-year EIT Water membership for 2027 for the top three teams, and a chance to",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/innovation/wavemaker-business-creation-award-for-blue-economy-ventures/",
-                "source": "fundsforNGOs",
-                "date": "2026-07-29T04:43:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MGAA appoints Padda Consulting as UK compliance and regulatory partner",
-                "desc": "The partnership begins in September, just as SM&CR reforms and wider FCA oversight of delegated authority start to bite",
-                "image": "https://cdn-res.keymedia.com/cms/images/us/018/0382_639208969716478199.png",
-                "url": "https://www.insurancebusinessmag.com/uk/news/breaking-news/mgaa-appoints-padda-consulting-as-uk-compliance-and-regulatory-partner-584063.aspx",
-                "source": "Insurance Business",
-                "date": "2026-07-29T04:43:32Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "15 useful gadgets that will make your life easier - including this handy jar opener for 50% off",
+                "desc": "Think less bending, lifting and straining: from accessible can openers to robot vacuums and tile scrubbers that do the work for you.",
+                "image": "https://s.yimg.com/lo/mysterio/api/64c528cd5a0916cd6f6747dbf7d50a8c1398088f88130df7e124571f2a56480d/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fa-20_6844.png",
+                "url": "https://ca.style.yahoo.com/15-useful-gadgets-that-will-make-your-life-easier--including-this-handy-jar-opener-for-50-off-150744507.html",
+                "source": "Yahoo Lifestyle Canada",
+                "date": "2026-07-29T17:46:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Teases The Pixel 11 Pro And Hints At A New Camera Bar Feature",
+                "desc": "We played spot the difference and noticed this intriguing difference in Google's teaser for the Pixel 11 Pro.",
+                "image": "https://www.engadget.com/img/gallery/google-teases-the-pixel-11-pro-and-hints-at-a-new-camera-bar-feature/l-intro-1785345727.jpg",
+                "url": "https://www.engadget.com/2226320/google-pixel-11-pro-camera-bar-tease/",
+                "source": "Engadget",
+                "date": "2026-07-29T17:40:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘I Have a Personal Vendetta Against Filler Content’ - How The Blood of Dawnwalker Makes Its Open World Feel Meaningful",
+                "desc": "The valley of Vale Sangora is the stage for your story.",
+                "image": "https://sm.ign.com/t/ign_za/preview/i/i-have-a-p/i-have-a-personal-vendetta-against-filler-content-how-the-bl_qzdw.1200.jpg",
+                "url": "https://za.ign.com/the-blood-of-dawnwalker/237743/i-have-a-personal-vendetta-against-filler-content-how-the-blood-of-dawnwalker-makes-its-open-world-f",
+                "source": "IGN Africa",
+                "date": "2026-07-29T17:34:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New CapuchinAI system automates cognitive testing of wild primates",
+                "desc": "Scientists created an AI system that uses facial recognition and real-time, touchscreen testing to automate cognitive studies of capuchin monkeys in the wild.",
+                "image": "https://www.news-medical.net/image-handler/picture/2018/7/bananas_grapes_-_Hanna_photo_A1_1518fb38984646578f68056acfd8e150-620x480.jpg",
+                "url": "https://www.news-medical.net/news/20260729/New-CapuchinAI-system-automates-cognitive-testing-of-wild-primates.aspx",
+                "source": "News-Medical",
+                "date": "2026-07-29T17:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy",
+                "desc": "They combine proprietary indexes with real-time web retrieval and task-specific search policies rather than applying the same search algorithm across every domain.",
+                "image": "https://images.ctfassets.net/jdtwqhzvc2n1/LMGG5SRd4dH0XCVfsK7CW/9dcdae7394442bed7a247b99ce4bd63a/ChatGPT_Image_Jul_29__2026__12_16_53_PM.png?w=800&q=75",
+                "url": "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy",
+                "source": "VentureBeat",
+                "date": "2026-07-29T17:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Stop Scammers From Showing You Ads on Your Android After Every Phone Call",
+                "desc": "It's a ad abuse scheme known as \"AfterCall.\"",
+                "image": "https://sm.lifehacker.com/t/lifehacker_au/feature/h/how-to-sto/how-to-stop-scammers-from-showing-you-ads-on-your-android-af_7zna.1200.jpg",
+                "url": "https://au.lifehacker.com/android/119211/how-to-stop-scammers-from-showing-you-ads-on-your-android-after-every-phone-call",
+                "source": "Lifehacker",
+                "date": "2026-07-29T17:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Stop Scammers From Showing You Ads on Your Android After Every Phone Call",
+                "desc": "Android users are being targeted with an ad fraud scam, and you can do something about it.",
+                "image": "https://lifehacker.com/imagery/articles/01KYMTA71BYZB9KR0Q65EDJMM5/hero-image.fill.size_1200x675.png",
+                "url": "https://lifehacker.com/tech/aftercall-ads-scam-android",
+                "source": "Lifehacker",
+                "date": "2026-07-29T17:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pokémon Pokopia Expansion and Free Update Arrive Next Week, Unlocking Underwater Gameplay",
+                "desc": "I heard you like Mudkips.",
+                "image": "https://sm.ign.com/t/ign_za/news/p/pokemon-po/pokemon-pokopia-expansion-and-free-update-arrive-next-week-u_qexs.1200.jpg",
+                "url": "https://za.ign.com/pokemon-pokopia/237737/pokemon-pokopia-expansion-and-free-update-arrive-next-week-unlocking-underwater-gameplay",
+                "source": "IGN Africa",
+                "date": "2026-07-29T17:29:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Runna's New Coaching Feature Will Adjust Your Workout Based On Local Heat And Humidity",
+                "desc": "If it's extra hot or humid where you are, the Runna app will adjust your workouts accordingly.",
+                "image": "https://www.engadget.com/img/gallery/runnas-new-coaching-feature-will-adjust-your-workout-based-on-local-heat-and-humidity/l-intro-1785345997.jpg",
+                "url": "https://www.engadget.com/2226300/runnas-new-coaching-feature-will-adjust-your-workout-based-on-local-heat-and-humidity/",
+                "source": "Engadget",
+                "date": "2026-07-29T17:29:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Disney Drops GitHub Copilot, Adds OpenAI's Codex in AI Tool Shake-up",
+                "desc": "Disney is shaking up its AI tools by moving on from Microsoft's GitHub Copilot. It's also planning to add OpenAI's Codex alongside Claude and Cursor.",
+                "image": "https://i.insider.com/6a6a00d7548c9c486b311c2a?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/disney-microsoft-github-copilot-openai-codex-ai-tools-claude-cursor-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-29T17:25:52Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Seriously, Don't Buy a Windows 11 PC With 8GB of RAM",
                 "desc": "Before you fall for lower starting prices on new Windows 11 laptops, know this: 16GB of RAM is the absolute minimum you should accept.",
@@ -1174,99 +1264,99 @@
                 "source": "The Star",
                 "date": "2026-07-29T06:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Basler Introduces Compact 3D Stereo Camera System for Robotics and Logistics",
-                "desc": "Basler AG, a leading provider of machine vision components and solutions, is expanding its 3D portfolio with the Stereo mini – a compact, lightweight, and cost-efficient camera developed specifically for use in robotics and logistics applications.",
-                "image": "https://www.azooptics.com/images/news/ThumbForNews_30742_17853015171797533.jpg",
-                "url": "https://www.azooptics.com/News.aspx?newsID=30742",
-                "source": "AZoOptics",
-                "date": "2026-07-29T04:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TCL launches Father's Day home entertainment gift guide",
-                "desc": "Big-screen TV buyers in Australia face prices up to AUD $14,999 as TCL pairs premium sets with a soundbar and monitor for Father's Day.",
-                "image": "https://futurefive.com.au/uploads/story/2026/07/29/compatible_Level_up_Father_s_Day_with_the_Ultimate_Home_Entertainment_Upgrade.jpg",
-                "url": "https://futurefive.com.au/story/tcl-launches-father-s-day-home-entertainment-gift-guide",
-                "source": "futurefive.com.au",
-                "date": "2026-07-29T04:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TCL launches Father's Day home entertainment gift guide",
-                "desc": "Big-screen TV buyers in Australia face prices up to AUD $14,999 as TCL pairs premium sets with a soundbar and monitor for Father's Day.",
-                "image": "https://channellife.com.au/uploads/story/2026/07/29/compatible_Level_up_Father_s_Day_with_the_Ultimate_Home_Entertainment_Upgrade.jpg",
-                "url": "https://channellife.com.au/story/tcl-launches-father-s-day-home-entertainment-gift-guide",
-                "source": "ChannelLife Australia",
-                "date": "2026-07-29T04:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 Gameplay Reportedly Coming in August, Insider Says",
-                "desc": "GTA 6 gameplay could reportedly be revealed in August as Rockstar ramps up marketing ahead of its November 19 release date.",
-                "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/07/GTA-6-Gameplay-Reportedly-Coming-in-August-Insider-Says.jpg?w=1280",
-                "url": "https://www.vice.com/en/article/gta-6-gameplay-coming-august/",
-                "source": "VICE",
-                "date": "2026-07-29T04:50:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "You can now lease an iPhone from Apple, and the iPhone Upgrade Program is dead",
-                "desc": "Apple Upgrade lets US customers lease iPhones, iPads, Macs and Watches through Klarna. Apple has ended the iPhone Upgrade Program.",
-                "image": "https://tech-ish.com/wp-content/uploads/2025/12/iPhone-17-price-in-Kenya-December-2025.jpg",
-                "url": "https://tech-ish.com/2026/07/29/you-can-now-lease-an-iphone-from-apple-and-the-iphone-upgrade-program-is-dead/",
-                "source": "tech-ish.com",
-                "date": "2026-07-29T04:46:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NHMRC Boosts Global Medical Research Partnerships",
-                "desc": "NHMRC is investing almost one million dollars for international collaborations in medical research through the NHRMC-Horizon Europe grant scheme.\nThis",
-                "image": "https://cdn1.miragenews.com/tmp_cache?cdn=cdn.pixabay.com%2Fphoto%2F2015%2F04%2F20%2F06%2F43%2Fmeeting-room-730679_1280.jpg",
-                "url": "https://www.miragenews.com/nhmrc-boosts-global-medical-research-1718200/",
-                "source": "Mirage News",
-                "date": "2026-07-29T04:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Screen LMS™ Makes Its Debut With a Proprietary AI Adaptive Engine and a Powerful Visual Activity Builder",
-                "desc": "Singapore-based Data Chord launches Screen LMS™, a next-generation platform designed to make personalised digital learning more accessible to educators",
-                "image": "https://img.einnews.com/facebook/1160811/screen-lms-logo.png",
-                "url": "https://www.einpresswire.com/article/930122164/screen-lms-makes-its-debut-with-a-proprietary-ai-adaptive-engine-and-a-powerful-visual-activity-builder",
-                "source": "EIN Presswire",
-                "date": "2026-07-29T04:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Your AI agents can reach data no one approved",
-                "desc": "New research on AI agent governance finds agents reaching data no one approved, with no consensus on who is accountable when things break.",
-                "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/11072521/brain-ai.webp",
-                "url": "https://www.helpnetsecurity.com/2026/07/29/1password-ai-agent-governance/",
-                "source": "Help Net Security",
-                "date": "2026-07-29T04:30:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hades II Announces Another Update, Here Are The Full Patch Notes",
-                "desc": "More fixes are on the way... - Since launching Hades II last year, Supergiant Games has released multiple post-launch updates addressing all sorts of bugs. ...",
-                "image": "https://images.nintendolife.com/6be424642aaf8/large.jpg",
-                "url": "https://www.nintendolife.com/news/2026/07/hades-ii-announces-another-update-here-are-the-full-patch-notes",
-                "source": "Nintendo Life",
-                "date": "2026-07-29T04:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Garmin CIRQA Smart Band Offers Up to 10 Days of Battery Life",
-                "desc": "Garmin has unveiled the CIRQA Smart Band, its first screen-free smart band designed for users who want continuous health and fitness tracking without the",
-                "image": "https://www.gadgetpilipinas.net/wp-content/uploads/2026/07/Garmin-CIRQA-Smart-Band-Philippines-1.jpg",
-                "url": "https://www.gadgetpilipinas.net/2026/07/garmin-cirqa-smart-band-price/",
-                "source": "Gadget Pilipinas",
-                "date": "2026-07-29T04:22:33Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Iran pushes back against US as regional attacks heat up",
+                "desc": "New round of strikes raises fears of further escalation as Iran rejects Omani proposal for joint Hormuz oversight.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260724__C32P8HZ__v3__HighRes__IranUsIsraelWar-1785343891.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up",
+                "source": "Al Jazeera",
+                "date": "2026-07-29T17:48:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Benjamin Netanyahu brushes off fears of ICC arrest during overseas travel",
+                "desc": "Netanyahu downplayed the risk of countries enforcing ICC arrest warrants placed on him, implying that IDF Special Forces would protect or rescue him.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731522",
+                "url": "https://www.jpost.com/israel-news/article-904002",
+                "source": "The Jerusalem Post",
+                "date": "2026-07-29T17:46:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ebola worsens hunger in DR Congo, Kizza Besigye collapses in court",
+                "desc": "Today in Africa news roundup for July 29, 2026: the Ebola outbreak is deepening hunger in eastern DR Congo, Uganda opposition leader Kizza Besigye collapsed during his treason trial, and a U.N. report links Boeing aircraft to RSF weapons flights in Sudan.",
+                "image": "https://image.okayafrica.com/1421719.jpg?imageId=1421719&x=0&y=14.17&cropw=100&croph=71.67&panox=0&panoy=14.17&panow=100&panoh=71.67&width=1200&height=683",
+                "url": "https://www.okayafrica.com/today-in-africa-july-29-2026-ebola-worsens-hunger-in-dr-congo-ugandas-kizza-besigye-collapses-in-court/1436476",
+                "source": "OkayAfrica",
+                "date": "2026-07-29T17:45:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Operations at Qacha’s Nek Port of Entry (PoE) in Matatiele between South Africa and Lesotho have been temporarily suspended due to heavy snowfall in the area",
+                "desc": "The Commissioner of the Border Management Authority (BMA), Dr Michael Masiapato, wishes to inform travellers and stakeholders that operations at Qacha’s",
+                "image": "https://www.arrivealive.co.za/ckfinder/userfiles/images/Screenshot%202026-07-29%20194057.jpg",
+                "url": "https://www.arrivealive.co.za/news.aspx?i=78126&s=0&page=operations-at-qacha-s-nek-port-of-entry-poe-in-matatiele-between-south-africa-and-lesotho-have-been-temporarily-suspended-due-to-heavy-snowfall-in-the-area",
+                "source": "arrivealive.co.za",
+                "date": "2026-07-29T17:44:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mozambique awards Chinese firms a 25-year contract to build and operate a one-stop border post linking it to Zimbabwe",
+                "desc": "Mozambique has granted a 25-year concession to two Chinese firms to build and operate a one-stop border post at Machipanda, which connects Mozambique to Zimbabwe. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/MoSktkpTURBXy83ZmY0OGM4OTU5OGYyZDgxZDBhNWY2OTI3M2RmMGY4Ni5qcGeSlQMFAM0C3M0BnJMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/mozambique-awards-chinese-firms-a-25-year-contract-to-build-and-operate-a-one-stop/80mpjt2",
+                "source": "Business Insider Africa",
+                "date": "2026-07-29T17:43:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Legal restrictions hold back Lebanese forces from keeping Hezbollah at bay",
+                "desc": "Lebanese media reported that many consider the exceptional circumstances facing the country as a reason to justify extending the military’s authority.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731488",
+                "url": "https://www.jpost.com/middle-east/article-903993",
+                "source": "jpost.com",
+                "date": "2026-07-29T17:42:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nominations open for Waitaki Citizens’ Awards (New Zealand)",
+                "desc": "Deadline: 31-Jul-2026 The Waitaki Citizens’ Awards recognise individuals and voluntary organisations that provide outstanding service and make a positive difference to the Waitaki District and its communities. The awards celebrate volunteers whose dedication, leadership, and community contributions improve local wellbeing and support community development. The programme honours “unsung heroes” who contribute their time, skills, and",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/community-development-2/nominations-open-for-waitaki-citizens-awards-new-zealand/",
+                "source": "fundsforngos.org",
+                "date": "2026-07-29T17:39:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fauci invokes Fifth Amendment in heated COVID-19 Senate hearing",
+                "desc": "Physician declines to answer Senate questions as Republicans like Rand Paul accuse him of covering up COVID’s origins.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6a140317c4-1785336835.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/29/fauci-invokes-fifth-amendment-in-heated-covid-19-senate-hearing",
+                "source": "aljazeera.com",
+                "date": "2026-07-29T17:36:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says Iran ‘going to get a beating’ as fresh fighting shatters calm",
+                "desc": "A few days of relative calm in the Middle East came to an end as Iran fired missiles at US forces and joint US-Saudi strikes targeted Iranian proxies in Iraq. Follow along for live news updates.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269663591-20260727045806141.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://edition.cnn.com/2026/07/29/world/live-news/iran-trump-news",
+                "source": "CNN",
+                "date": "2026-07-29T17:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump asks Supreme Court to overturn €71 million defamation award in sexual assault case",
+                "desc": "The appeal was filed electronically and is expected to be formally docketed with the court later on Wednesday.",
+                "image": "https://images.euronews.com/articles/stories/09/85/53/95/1200x675_cmsv2_67d0b8a1-2772-5472-9acc-05bb7b1b5c68-9855395.jpg",
+                "url": "https://www.euronews.com/2026/07/29/trump-asks-supreme-court-to-overturn-71-million-defamation-award-in-sexual-assault-case",
+                "source": "Euronews.com",
+                "date": "2026-07-29T17:35:51Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Black Sea port attacks could decimate Ukraine crop exports",
                 "desc": "A Ukrainian farm organization is warning that the country’s crop exports could be decimated by Russia’s ongoing port attacks.",
@@ -1806,98 +1896,8 @@
                 "source": "ChimpReports",
                 "date": "2026-07-29T05:59:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "South Africa Scholarship Programme 2027",
-                "desc": "Deadline: 08-Oct-2026 The France-South Africa Scholarship Programme supports students from South Africa, Lesotho, and Malawi to pursue Master’s and PhD studies at universities and higher education institutions in France. The programme welcomes applicants from all academic fields, with priority given to science, technology, engineering, mathematics (STEM), and related humanities and social sciences disciplines. The scholarship",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/science/call-for-applications-france-south-africa-scholarship-programme-2027/",
-                "source": "fundsforNGOs",
-                "date": "2026-07-29T04:55:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran buys Chinese shoulder-fired air defense missiles to rebuild military",
-                "desc": "The contract covers the purchase of between 300 and 400 man-portable air defense systems (MANPADS), including Chinese-made QW-12 and FN-16 missiles.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731882",
-                "url": "https://www.jpost.com/middle-east/iran-news/article-903963",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-29T04:54:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mozambique: Works on US$37.2 million Machipanda one-stop border post to start in October",
-                "desc": "Construction of the Machipanda One-Stop Border Post along National Road No. 6 (N6) in Manica district, Manica Province, is expected to begin in October, with an",
-                "image": "https://clubofmozambique.com/wp-content/uploads/2026/07/4247a5bf-c17b-4b9f-ade1-08f73d751ef4-1024x473-1.jpeg",
-                "url": "https://clubofmozambique.com/news/mozambique-works-on-us37-2-million-machipanda-one-stop-border-post-to-start-in-october/",
-                "source": "CLUB OF MOZAMBIQUE",
-                "date": "2026-07-29T04:51:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The airport nobody loves (until it closes)",
-                "desc": "POLITICO’s must-read briefing on what’s driving the day in Brussels, by Gerardo Fortuna, Nicholas Vinocur and Gabriel Gavin. By GERARDO FORTUNA Send tips here | Follow us @gerardofortuna @Nic…",
-                "image": "https://www.politico.eu/wp-content/uploads/2025/02/04/Brussels-Playbook.png",
-                "url": "https://www.politico.eu/newsletter/brussels-playbook/the-airport-nobody-loves-until-it-closes/",
-                "source": "politico.eu",
-                "date": "2026-07-29T04:49:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mozambique to grant 25-year concession for Machipanda border post",
-                "desc": "The concession for the Machipanda border post, in Manica Province, will run for 25 years, during which the concessionaire will be responsible for managing the i",
-                "image": "https://clubofmozambique.com/wp-content/uploads/2026/07/machipanda.dom_.jpg",
-                "url": "https://clubofmozambique.com/news/mozambique-to-grant-25-year-concession-for-machipanda-border-post/",
-                "source": "CLUB OF MOZAMBIQUE",
-                "date": "2026-07-29T04:47:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mainland tourist stabbed in neck after payment row at sex service flat in Mong Kok",
-                "desc": "A mainland Chinese tourist was stabbed in the neck following a dispute over payment at a suspected sex service flat in Mong Kok early Wednesday morning (Jul 29), with police hunting for a suspect believed to be a transgender sex worker.",
-                "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/f66e8ae135511a6e8aa018bd9b678720/2026-07/kkk.png",
-                "url": "https://www.thestandard.com.hk/news/article/338535/Mainland-tourist-stabbed-in-neck-after-payment-row-at-sex-service-flat-in-Mong-Kok",
-                "source": "The Standard (HK)",
-                "date": "2026-07-29T04:45:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Victory Hubs 2026: uCare Grant Competition (Ukraine)",
-                "desc": "Deadline: 31-Aug-2026 The Victory Hubs 2026 Grant Competition, launched by uCare, provides grants of up to $3,000 to Ukrainian non-profit organizations developing sustainable and scalable solutions that improve the lives of people living with war-related injuries. The programme supports innovative projects that enhance recovery, social inclusion, employment, and long-term independence, with applications accepted on a",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/innovation/victory-hubs-2026-ucare-grant-competition-ukraine/",
-                "source": "fundsforNGOs",
-                "date": "2026-07-29T04:44:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nepal's First Online News Portal",
-                "desc": "KATHMANDU: The 17th International Tiger Day is being observed today with the goal of raising global awareness about the conservation of endangered tigers and reaffirming a collective commitment to their protection. In response to the rapid decline of tiger populations worldwide, the “St. Petersburg Tiger Summit” held in Russia in 2010 under the “Global Tiger […]",
-                "image": "https://english.nepalnews.com/wp-content/uploads/2026/07/Tiger-2-1.jpg",
-                "url": "https://english.nepalnews.com/s/nation/in-photos-nepal-celebrates-international-tiger-day-as-number-nears-400/",
-                "source": "Nepalnews.com",
-                "date": "2026-07-29T04:43:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Musk's X says Australia social media ban crackdown undermines international law",
-                "desc": "Elon Musk's X accused Australia of trying to give its internet regulator unfair information-gathering powers and undermining U.S. law with plans for tougher enforcement of a teen social media ban.",
-                "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/f4aff28429dac2f0e660b585f38de666/2026-07/r_17.jpg",
-                "url": "https://www.thestandard.com.hk/world/article/338520/Musks-X-says-Australia-social-media-ban-crackdown-undermines-international-law",
-                "source": "The Standard (HK)",
-                "date": "2026-07-29T04:33:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zelensky after meeting with senators: Sanctions bill represents strong support for Ukraine and sends important signal to Europe",
-                "desc": "Following a meeting with U.S. senators, Ukrainian President Volodymyr Zelensky stated that the bill to increase sanctions pressure on Russia is extremely important both for curbing the financing of the war and as a signal of support for Ukraine and its European partners. — Ukrinform.",
-                "image": "https://static.ukrinform.com/photos/2026_07/thumb_files/630_360_1785252514-864.jpg",
-                "url": "https://www.ukrinform.net/rubric-polytics/4148962-zelensky-after-meeting-with-senators-sanctions-bill-represents-strong-support-for-ukraine-and-sends-important-signal-to-europe.html",
-                "source": "Ukrinform",
-                "date": "2026-07-29T04:33:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-30T02:55:48.862163Z"
+    "lastGlobalSync": "2026-07-30T05:50:19.811793Z"
 }
