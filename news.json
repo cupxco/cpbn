@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Shares of Microsoft extend gains to 7% after hours on capex guide",
+                "desc": "Same night as META, same capex arms race, opposite reaction. The difference is monetization you can see.",
+                "image": "https://investinglive.com/cms/media/Processed/Categories/featured/Microsoft%20CEO%20Satya%20Nadella-featured-1785363693.jpg",
+                "url": "https://investinglive.com/stocks/shares-of-microsoft-extend-gains-to-7-after-hours-on-capex-guide/",
+                "source": "investingLive",
+                "date": "2026-07-29T22:50:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+                "desc": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+                "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+                "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+                "source": "TechCrunch",
+                "date": "2026-07-29T22:46:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wind project faces referral due to long distance objectors, citing impacts of a wind farm that doesn't exist",
+                "desc": "Public meeting called for wind project due to submissions from mostly long distance objectors, including a group citing impacts of a wind farm that does not exist.",
+                "image": "https://reneweconomy.com.au/wp-content/uploads/2026/07/Bullawah.jpg",
+                "url": "https://reneweconomy.com.au/wind-project-faces-referral-due-to-long-distance-objectors-citing-impacts-of-a-wind-farm-that-doesnt-exist/",
+                "source": "Renew Economy",
+                "date": "2026-07-29T22:45:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Small batch producer fears broader impacts as county",
+                "desc": "The labels on some of Tasmanian producer Stuart Young's handcrafted goods say some ingredients may come from \"further afield\". But that was a reference to the Australian mainland — not China.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/c7a77af64f14f31da491a11c54784d9d?impolicy=wcms_watermark_news&cropH=1910&cropW=3395&xPos=1071&yPos=231&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-30/food-labelling-country-of-origin-concerns-small-batch-producer/106973206",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-29T22:44:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What a divided Fed means for investors",
+                "desc": "Wall Street has a clear takeaway from this week's Federal Reserve decision: A hike is likely on the horizon.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108341984-1785352838305-gettyimages-2288190361-wm025301_8kp9qjin.jpeg?v=1785352925&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html",
+                "source": "CNBC",
+                "date": "2026-07-29T22:43:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Warsh vows not to 'waver' on inflation as divided Fed leaves rates unchanged",
+                "desc": "Despite delivering no rate cuts, US President Donald Trump stood by Fed Chair Kevin Warsh, calling him a \"brilliant guy\".",
+                "image": "https://dam.mediacorp.sg/image/upload/s--HYT_pCPs--/c_crop,h_450,w_800,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-01T180654Z_1_LYNXMPEM6036K_RTROPTP_3_GLOBAL-CENBANK.JPG?itok=YTmALHUu",
+                "url": "https://www.channelnewsasia.com/world/federal-reserve-rates-unchanged-kevin-warsh-vows-not-waver-inflation-6287021",
+                "source": "CNA",
+                "date": "2026-07-29T22:37:56Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Waikato businesses owe Inland Revenue more than $400m in unpaid tax",
+                "desc": "Waikato businesses owe Inland Revenue more than $400 million in unpaid tax, the department says. This figure included about $140m in PAYE (or schedular...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/EVKBHIYG4FF53CXMJBI4E52LZQ.jpg?auth=07d787163be84488018e96e4f6cf603f509422b04be477f6b577c4316d9f410a&width=1200&height=675&quality=70&smart=true",
+                "url": "https://www.nzherald.co.nz/waikato-news/news/waikato-businesses-owe-inland-revenue-more-than-400m-in-unpaid-tax/FV77L6U5ARCQDHTQCZYZ72JFEI/",
+                "source": "NZ Herald",
+                "date": "2026-07-29T22:37:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI says rogue AI agent attack hit other companies",
+                "desc": "ChatGPT maker OpenAI has revealed that an autonomous artificial intelligence agent which hacked a popular platform for computer programmers also attempted to...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/B7CVK5USIZGDVNU6BEJBY3H4T4.jpg?auth=4ff56c9708ab06279b558a58c5245110f3325d4b7d88a5d1a9a2321bd2ee0ab9&width=1200&height=675&quality=70&focal=527%2C341&smart=false",
+                "url": "https://www.nzherald.co.nz/business/openai-says-rogue-ai-agent-attack-hit-other-companies/CSRESV3Q3RFKDLAO4ROXXFUH4E/",
+                "source": "NZ Herald",
+                "date": "2026-07-29T22:33:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+                "desc": "US President Donald Trump says he is considering ‘AI controls’ following OpenAI’s disclosure.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6a5b7d0cd5-1785355133.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies",
+                "source": "Al Jazeera",
+                "date": "2026-07-29T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rafa accelerates growth with investment in soap manufacturing facility",
+                "desc": "Lagos— Rafa Corporation, manufacturer of Rafa detergent brand, has announced a landmark investment in world-class soap manufacturing technology, marking a major milestone in its ambition to build one of Africa’s leading home and personal care manufacturing enterprises. The investment significantly expands Rafa’s production capabilities while reinforcing its commitment to innovation, industrial excellence and long-term value […]",
+                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+                "url": "https://www.vanguardngr.com/2026/07/rafa-accelerates-growth-with-investment-in-soap-manufacturing-facility/",
+                "source": "Vanguard News",
+                "date": "2026-07-29T22:24:37Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "LaGuardia’s Capital One Landing Wins Most Instagrammable Airport Lounge",
                 "desc": "The Terminal B lounge won accolades for its design at the Airport Food & Beverage and Hospitality Conference.",
                 "image": "https://media.timeout.com/images/106431820/image.jpg",
@@ -542,99 +632,99 @@
                 "source": "CNA",
                 "date": "2026-07-29T09:24:58Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore households to get additional $300 CDC vouchers",
-                "desc": "Singaporean households will receive an additional $300 in CDC vouchers in January 2027 to help manage rising costs due to inflation. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a9a85947f638b2e0d5a6e9e47e1c4940b60c741962dc755b43c97538fb0f430d",
-                "url": "https://www.straitstimes.com/singapore/spore-households-to-get-300-cdc-vouchers-in-january-2027-to-cushion-impact-of-inflation",
-                "source": "The Straits Times",
-                "date": "2026-07-29T08:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": ".NET 11 Preview 6 Modernises MAUI CollectionView and Android Shell",
-                "desc": "Microsoft has released .NET 11 Preview 6 with several architectural and reliability improvements for .NET MAUI. The update brings the next-generation CollectionView implementation to Windows, moves An",
-                "image": "https://res.infoq.com/news/2026/07/net-maui-11-preview-6/en/headerimage/header-1785099918786.jpg",
-                "url": "https://www.infoq.com/news/2026/07/net-maui-11-preview-6/",
-                "source": "infoq.com",
-                "date": "2026-07-29T08:00:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Advanced technologies now account for 1 in 6 valid invention patents in China",
-                "desc": "Hi-tech manufacturing and digital industries such as AI have emerged as key drivers of economic growth.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/29/68b32fd6-c020-46eb-bbd4-774ee451f612_b14f59fa.jpg?itok=TS475avP&v=1785307451",
-                "url": "https://www.scmp.com/economy/china-economy/article/3362232/advanced-technologies-now-account-1-6-valid-invention-patents-china",
-                "source": "South China Morning Post",
-                "date": "2026-07-29T08:00:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Qatar Airways Turned Retired Widebodies Into A Backup Fleet To Cover Its Grounded Airbus A350s",
-                "desc": "In times of fleet groundings, few options are left available. Qatar Airways turned to its 'past mistakes' and proved that having a backup is vital.",
-                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/qatar-airways-widebody.jpg?w=1600&h=900&fit=crop",
-                "url": "https://simpleflying.com/how-qatar-airways-turned-retired-widebodies-backup-fleet-cover-grounded-airbus-a350s/",
-                "source": "Simple Flying",
-                "date": "2026-07-29T08:00:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Additional S$300 CDC vouchers, U-Save rebates for Singaporean households amid Middle East crisis",
-                "desc": "The government will also raise the monthly payouts for lower-income families receiving urgent and temporary financial relief under ComCare.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--yK6rYtnU--/c_crop,h_900,w_1600,x_0,y_67/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/01/02/jem_0660.jpg?itok=kSErfIpm",
-                "url": "https://www.channelnewsasia.com/singapore/cdc-voucher-300-usave-rebate-support-package-6285241",
-                "source": "CNA",
-                "date": "2026-07-29T08:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Extra S$300 in CDC Vouchers, U-Save rebates for households as part of S$900 million support package",
-                "desc": "ComCare Interim Assistance will also be enhanced for lower-income households Read more at The Business Times.",
-                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/e89b02fce3845a94ba4b539ad9226c2fc099c9860169dea325bfd94faa86859c?w=1920&f=webp",
-                "url": "https://www.businesstimes.com.sg/singapore/extra-s300-cdc-vouchers-u-save-rebates-households-part-s900-million-support-package",
-                "source": "businesstimes.com.sg",
-                "date": "2026-07-29T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What is open-weight AI, the tech behind Kimi K3 that's turning heads in Silicon Valley?",
-                "desc": "The freedom and lower price tag of open-weight models is turning the heads of business leaders in the west, where the merits have prompted letters from top tech leaders warning against restrictions on open models, despite the potential for security risks.",
-                "image": "https://i.cbc.ca/ais/373543b9-f2b4-4a4a-a0df-3f57d3277042,1785263866373/full/max/0/default.jpg?im=Crop%2Crect%3D%28176%2C869%2C5803%2C3264%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/business/open-weight-ai-kimi-k3-9.7287025",
-                "source": "CBC",
-                "date": "2026-07-29T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Inverter supply chains and cybersecurity",
-                "desc": "Inverter supply chains and cybersecurity - A commentary by Peter Levi, Leonardo Paoli, Timur Gül, Laura Cozzi",
-                "image": "https://iea.imgix.net/93d55611-61b4-418f-898f-a1977d49ee85/shutterstock_2665631451_InverterSupplyChainsandCybersecurity.jpg?auto=compress%2Cformat&fit=min&h=600&q=80&rect=0%2C0%2C5472%2C2736&w=1200",
-                "url": "https://www.iea.org/commentaries/inverter-supply-chains-and-cybersecurity",
-                "source": "IEA – International Energy Agency",
-                "date": "2026-07-29T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Treasury yields inch higher as Wall Street awaits Fed's rate decision",
-                "desc": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose over 1 basis point to 4.614%.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108295278-1776860361515-gettyimages-2271888399-warsh_senate_517_042126.jpeg?v=1778700082&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/29/treasury-yields-fed-interest-rates.html",
-                "source": "CNBC",
-                "date": "2026-07-29T07:58:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Korea’s Memory Chip Giant Defies A.I. Market Jitters",
-                "desc": "SK Hynix, a leading memory chipmaker, reported stratospheric sales and profits on Wednesday. But it was not enough to calm skittish investors.",
-                "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29Biz-AI-Chips-zcvp/29Biz-AI-Chips-zcvp-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html",
-                "source": "The New York Times",
-                "date": "2026-07-29T07:57:28Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Steam Machine Updates: FSR 4.1 Lands Alongside CAD Files for Custom Faceplates",
+                "desc": "Since the long-awaited launch of the Steam Machine, Valve has provided periodic updates on the new hybrid game console. Despite Valve's recent confirmations that RAM remains in short supply and at a high cost, the company has said in its latest update that it should be able to offer everyone in...",
+                "image": "https://www.techpowerup.com/img/FXJp0m7hocQyBGIg.jpg",
+                "url": "https://www.techpowerup.com/351209/steam-machine-updates-fsr-4-1-lands-alongside-cad-files-for-custom-faceplates",
+                "source": "TechPowerUp",
+                "date": "2026-07-29T22:30:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stack OLED Panel to Broaden Market Reach < Display Panel < 기사본문",
+                "desc": "LG Display has developed a lower-cost organic light-emitting diode (OLED) panel designed t",
+                "image": "https://cdn.thelec.net/news/photo/202607/12638_12734_2952.jpg",
+                "url": "https://www.thelec.net/news/articleView.html?idxno=12638",
+                "source": "thelec.net",
+                "date": "2026-07-29T22:29:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Confirms Pixel 11 Price Increase As RAM Costs Force Higher Phone Prices",
+                "desc": "Google says rising memory costs will increase Pixel 11 prices as AI-driven demand reshapes the smartphone supply chain.",
+                "image": "https://cdn.eweek.com/pixel.jpg",
+                "url": "https://www.eweek.com/news/google-pixel-11-price-increase-memory-costs/",
+                "source": "eWeek",
+                "date": "2026-07-29T22:28:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Telstra powers on satellite beyond texts",
+                "desc": "Satellite capabilities in select phones on Telstra will now do more than simply text. They'll also let you use maps, weather, and WhatsApp, too.",
+                "image": "https://www.pickr.com.au/wp-content/uploads/2025/06/telstra-satellite-2025-01.jpg",
+                "url": "https://www.pickr.com.au/news/2026/telstra-powers-on-satellite-beyond-texts/",
+                "source": "pickr.com.au",
+                "date": "2026-07-29T22:19:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "16,000 reviews and counting: ‘Amazing’ Sony headphones with ‘incredible’ noise-cancellation drop to 40 per cent off",
+                "desc": "Run, don’t walk: this under $150 pair is too good to miss.",
+                "image": "https://images.7news.com.au/publication/C-22649219/a1971c00a2336cc31f140f0adfe41ee0e951a719-16x9-x0y0w1280h720.png?imwidth=1200",
+                "url": "https://7news.com.au/7you/tech/16000-reviews-and-counting-amazing-sony-headphones-with-incredible-noise-cancellation-drop-to-40-per-cent-off--c-22649219",
+                "source": "7NEWS",
+                "date": "2026-07-29T22:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox Says Game Discs Should Have Worked During Its Outage",
+                "desc": "The company’s tech chief said a fix for the error will be arriving soon.",
+                "image": "https://www.engadget.com/img/gallery/xbox-says-game-discs-should-have-worked-during-its-outage/l-intro-1785362905.jpg",
+                "url": "https://www.engadget.com/2226687/xbox-says-game-discs-should-have-worked-during-its-outage/",
+                "source": "Engadget",
+                "date": "2026-07-29T22:10:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Moser Adds a Mesmerizing New Dial Treatment to Its Ultimate Grail Watch",
+                "desc": "Have you ever seen the cosmic rain?",
+                "image": "https://s.yimg.com/lo/mysterio/api/6c7645aa45c39fd8008a29b3b99f28233036b0a3c4dd68308d8c1c8f1c3ff933/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgear_patrol_593%2F99362a88f03f2611fc8e62c2217b6aaf",
+                "url": "https://shopping.yahoo.com/style/accessories/articles/moser-adds-mesmerizing-dial-treatment-220426361.html",
+                "source": "Yahoo",
+                "date": "2026-07-29T22:04:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Moser Adds a Mesmerizing New Dial Treatment to Its Ultimate Grail Watch",
+                "desc": "Moser has introduced a new version of its ultimate grail featuring a mesmerizing new \"Cosmic Rain\" dial treatment.",
+                "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/moser-endeavour-minute-repeater-cylindrical-tourbillon-skeleton-cosmic-rain-lead.webp",
+                "url": "https://www.gearpatrol.com/watches/moser-endeavour-minute-repeater-cylindrical-tourbillon-skeleton-cosmic-rain/",
+                "source": "Gear Patrol",
+                "date": "2026-07-29T22:04:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Releases Safari Technology Preview 249 With Bug Fixes and Performance Improvements",
+                "desc": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed Safari Technology Preview to allow users to test features that are planned for future release versions of the Safari browser. Safari Technology Preview 249 includes fixes and updates for Accessibility, Animations, CSS, Editing, Forms, HTML, JavaScript, Media, Rendering, Spatial Web, Web API, Web Audio, Web Inspector, WebAssembly, WebDriver, and WebRTC.",
+                "image": "https://images.macrumors.com/t/gSfA9gdPJTtAYv_7hjK9YByevcM=/2500x/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+                "url": "https://www.macrumors.com/2026/07/29/apple-releases-safari-technology-preview-249/",
+                "source": "MacRumors",
+                "date": "2026-07-29T22:03:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EnFi Secures $15 Million to Bring Agentic AI to Commercial Lending",
+                "desc": "AI-native lending platform EnFi has raised $15 million in Series A funding. The round was led by FINTOP and the investment brings the firm's total capital raised to date to $22.5 million.",
+                "image": "https://finovate.com/wp-content/uploads/2026/07/osman-rana-xhpMNieqBwA-unsplash-scaled.jpg",
+                "url": "https://finovate.com/enfi-secures-15-million-to-bring-agentic-ai-to-commercial-lending/",
+                "source": "Finovate",
+                "date": "2026-07-29T22:03:06Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "At Waymo, an AI project isn't ready until its evals are - not when the model performs well",
                 "desc": "Waymo treats AI evaluation as continuous engineering, not a pre-launch check — a readiness model enterprises can apply to any AI agent deployment today.",
@@ -1174,99 +1264,99 @@
                 "source": "Oncodaily",
                 "date": "2026-07-29T09:20:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Lenovo Capital takes aim at robotics, coding agents in ‘sniper’ AI investment strategy",
-                "desc": "Chinese firm makes long-term bets on 100 artificial intelligence companies, from chip and hardware manufacturers to models and applications.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/29/b4628ac0-a722-40d3-aa69-fa4b5bbbe713_632a4640.jpg?itok=FVimB1h_&v=1785301133",
-                "url": "https://www.scmp.com/tech/tech-trends/article/3362213/lenovo-capital-takes-aim-robotics-coding-agents-sniper-ai-investment-strategy",
-                "source": "South China Morning Post",
-                "date": "2026-07-29T08:00:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tune's new Nano Road wheelsets are built for bigger riders and ditch the restrictive weight limit of other carbon wheels",
-                "desc": "New carbon road wheels promise performance, light weight and toughness for riders weighing up to 120kg",
-                "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/a1a95c71-8f9f-40dc-accf-557f2f03bac8/thumbnails/3dcced02-cc9a-44e8-9863-871c796cf394.jpeg?w=1200",
-                "url": "https://www.bikeradar.com/news/tune-nano-road-wheels",
-                "source": "BikeRadar",
-                "date": "2026-07-29T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘My sister’s biggest wish isn’t anything money can buy, it’s time’",
-                "desc": "EMMA CONNOLLY hears how Cork mother-of-three Lorraine Kirby has won the support of her community as she seeks specialist treatment for cancer",
-                "image": "https://www.echolive.ie/cms_media/module_img/10345/5172601_3_org_Lorraine.jpg",
-                "url": "https://www.echolive.ie/wow/arid-41887114.html",
-                "source": "echo live",
-                "date": "2026-07-29T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ogilvy and WPP lead World Creative Rankings",
-                "desc": "Provisional standings: LePub, TBWA, and Uncommon Creative Studio record the biggest gains",
-                "image": "https://marketingreport.one/Article Images/Key Industy Images/world-creative-rankings-marketing-report-one.webp",
-                "url": "https://marketingreport.one/creation/ogilvy-and-wpp-remain-leaders-in-the-world-creative-rankings.html",
-                "source": "marketingreport.one",
-                "date": "2026-07-29T07:56:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Claude privacy guide: How to keep your chats and Google files safe",
-                "desc": "Over the weekend, thousands of users found that their privacy had been breached as the public share links created for Anthropic’s Claude chats were showing up in Google and Bing search...",
-                "image": "https://www.thenews.com.pk/assets/uploads/2026-07-29/1410566_125140_updates.jpg",
-                "url": "https://www.thenews.com.pk/latest/1410566-claude-privacy-guide-how-to-keep-your-chats-and-google-files-safe",
-                "source": "The News International",
-                "date": "2026-07-29T07:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mindbreeze InSpire Reduces Token Maxxing, Turning Runaway AI Costs Into Predictable Enterprise Value",
-                "desc": "Mindbreeze, a leading global provider of AI-based knowledge management solutions, announced that Mindbreeze InSpire reduces token maxxing, the costly overconsumption of large language model (LLM) tokens that is straining enterprise AI budgets.",
-                "image": "https://aithority.com/wp-content/uploads/2026/07/ai-machine-learning-hands-robot-kid-600nw-2346306093.jpg",
-                "url": "https://aithority.com/technology/mindbreeze-inspire-reduces-token-maxxing-turning-runaway-ai-costs-into-predictable-enterprise-value/",
-                "source": "AiThority",
-                "date": "2026-07-29T07:43:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Helix: Descent N Ascent Review: I Looked at the Abyss, it Slapped Me",
-                "desc": "Helix: Descent N Ascent is a beautiful, baffling puzzle adventure packed with strange worlds, clever mechanics and irresistible mystery.",
-                "image": "https://www.nag.co.za/wp-content/uploads/2026/07/Helix-Descent-N-Ascent-01.jpg",
-                "url": "https://www.nag.co.za/2026/07/29/helix-descent-n-ascent-review-i-looked-at-the-abyss-it-slapped-me/",
-                "source": "nag.co.za",
-                "date": "2026-07-29T07:35:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Much a Managed SEO Service Should Actually Cost (And What You Get for It)",
-                "desc": "Pricing for SEO services varies wildly across the market — from a few hundred dollars a month for…",
-                "image": "https://pctechmag.com/wp-content/uploads/2026/07/job-colleagues-working-laptop.jpg",
-                "url": "https://pctechmag.com/2026/07/how-much-a-managed-seo-service-should-actually-cost-and-what-you-get-for-it/",
-                "source": "PC Tech Magazine",
-                "date": "2026-07-29T07:34:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony poised for 'GTA VI' boost as memory prices bite",
-                "desc": "TOKYO, July 29 : Sony is set to be a major beneficiary of the launch of \"Grand Theft Auto VI\" but the highly anticipated game is landing as the PlayStation maker grapples with rising prices of memory chips. The Japanese entertainment conglomerate, widely seen as the winner of the high-end console wars as Micr",
-                "image": "https://dam.mediacorp.sg/image/upload/s--mx900LGy--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-29T074254Z_2_LYNXMPEM6S0M1_RTROPTP_3_SONY-GTAVI.JPG?itok=0mc7Gtj7",
-                "url": "https://www.channelnewsasia.com/business/sony-poised-gta-vi-boost-memory-prices-bite-6285401",
-                "source": "CNA",
-                "date": "2026-07-29T07:33:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Snapdragon 8 Elite Gen 6 Pro Leak Reveals Major CPU, GPU and AI Upgrades",
-                "desc": "A new leak has revealed several details about Qualcomm's upcoming Snapdragon 8 Elite Gen 6 Pro chipset, giving an early look",
-                "image": "https://www.phoneworld.com.pk/wp-content/uploads/2026/07/Snapdragon-8-Elite-Gen-6-Pro-Leak.jpg",
-                "url": "https://www.phoneworld.com.pk/snapdragon-8-elite-gen-6-pro-leak-reveals-major-cpu-gpu-and-ai-upgrades/",
-                "source": "PhoneWorld",
-                "date": "2026-07-29T07:32:25Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Why tech alone won’t stop exam paper leaks",
+                "desc": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4c8b/live/9c0bab50-8b24-11f1-aaf3-8dae78dd0f1a.jpg",
+                "url": "https://www.bbc.com/news/articles/c1m1gz1nx45o",
+                "source": "bbc.com",
+                "date": "2026-07-29T22:50:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Five Kenyan soldiers killed in al-Shabaab clashes",
+                "desc": "An exchange of fire with al-Shabaab militants happened in the country’s Mandera county near the Somali border, police said.",
+                "image": "https://apanews.net/wp-content/uploads/2026/07/Al-Shabaab.jpg",
+                "url": "https://apanews.net/five-kenyan-soldiers-killed-in-al-shabaab-clashes/",
+                "source": "apanews.net",
+                "date": "2026-07-29T22:47:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meet Oghenetega Ighedo, first black woman to earn pure mathematics PhD at UNISA",
+                "desc": "Professor Oghenetega Ighedo has become the first Black woman to earn a doctorate in Pure Mathematics from University of South Africa",
+                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/oghenetega.webp",
+                "url": "https://www.vanguardngr.com/2026/07/meet-oghenetega-ighedo-first-black-woman-to-earn-pure-mathematics-phd-at-unisa/",
+                "source": "Vanguard News",
+                "date": "2026-07-29T22:46:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Unidentified object lands deep inside Poland causing explosion as Russia launches deadly, Ukraine-wide attack",
+                "desc": "An unidentified object crashed and caused an explosion about 90 kilometers (55 miles) into Polish territory early Thursday, local authorities said, as Russia launched deadly longe-range attacks across Ukraine.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287555992.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/29/europe/ukraine-kyiv-missile-attack-latam-intl",
+                "source": "CNN",
+                "date": "2026-07-29T22:38:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canadian town of St. Mary's removes rotten fish smell after years of stench",
+                "desc": "The townspeople of St. Mary’s can now breathe a sigh of relief. They are finally getting rid of the foul smell of rotten fish that has for years wafted over their tiny community in Canada’s easternmost province.",
+                "image": "https://dims.apnews.com/dims4/default/33c44b3/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd9%2F2d%2F8c6d99f21bf009757a7b7157b587%2F59d99b3382b544938a4a5f209487c6ec",
+                "url": "https://apnews.com/article/canada-abandoned-factory-st-mary-94048cc119edf38393f1a337b4ff5023",
+                "source": "AP News",
+                "date": "2026-07-29T22:37:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Family Services Inc., Altoona Curve partner to raise awareness against human trafficking",
+                "desc": "WJAC provides news, weather and sports information for Johnstown, Altoona, State College and DuBois, Pennsylvania. Our coverage area includes Bedford, Everett, Somerset, Meyersdale, Ebensburg, Windber, Hollidaysburg, Huntingdon, Mount Union, Tyrone, Bellefonte, Philipsburg, Clearfield, Punxsutawney, St. Marys, Brookville, Emporium, Treasure Lake, Ridgway, Centre Hall, Reynoldsville and Curwensville.",
+                "image": "https://wjactv.com/resources/media2/16x9/1920/1320/center/90/b6567ab0-d085-43b8-beba-e56011da6f4f-bd3561dce37f4a20bc9eaa083f28b80d.png",
+                "url": "https://wjactv.com/news/local/family-services-inc-altoona-curve-partner-to-raise-awareness-against-human-trafficking",
+                "source": "WJAC",
+                "date": "2026-07-29T22:36:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "High-profile claimants face multimillion-dollar bill after losing Daily Mail privacy case",
+                "desc": "The battle over costs comes after a judge comprehensively ruled against the prince and six other high-profile figures and rejected phone-hacking allegations they made against the newspapers.",
+                "image": "https://static.ffx.io/images/$zoom_0.2257514389256022%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_11/t_crop_custom/q_86%2Cf_auto/5e2ac453a7de4e0d6478d41b075ff4b38f2c83a0",
+                "url": "https://www.smh.com.au/world/europe/eye-watering-prince-harry-celebrities-face-35m-legal-bill-after-daily-mail-court-loss-20260730-p60jux.html",
+                "source": "SMH.com.au",
+                "date": "2026-07-29T22:35:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "8 killed, 30 injured across Ukraine as Russia launches massive ballistic missile, drone attack",
+                "desc": "Russia launched dozens of ballistic and cruise missiles, as well as hundreds of drones, towards Ukraine in the early hours of July 30 in yet another large-scale attack. Damage was reported in various cities, including Kyiv and Lviv, just hours after President Volodymyr Zelensky warned that Russia was preparing another large-scale attack.",
+                "image": "https://assets.kyivindependent.com/content/images/2026/07/photo_2026-07-29_22-34-05_20260730-024541.jpg",
+                "url": "https://kyivindependent.com/explosions-heard-in-kyiv-as-russia-launches-large-scale-ballistic-missile-attack-across-ukraine/",
+                "source": "The Kyiv Independent",
+                "date": "2026-07-29T22:29:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Effective Tariff Rate Falls On Latest Tariffs, Changing Trade Flows",
+                "desc": "The U.S. effective tariff rate (ETR) has declined to 7.4% from 9.4% after the U.S. replaced the temporary Section 122 surcharge with new Section 30",
+                "image": "https://dmarketforces.com/wp-content/uploads/2026/07/US-Effective-Tariff-Rate-Falls-on-Latest-Tariffs-Changing-Trade-Flows.jpg",
+                "url": "https://dmarketforces.com/us-effective-tariff-rate-falls-on-latest-tariffs-changing-trade-flows/",
+                "source": "MarketForces Africa",
+                "date": "2026-07-29T22:29:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fareed's bail pending sentencing moved to this afternoon",
+                "desc": "Fareed's bail pending sentencing moved to this afternoon",
+                "image": "https://www.fijivillage.com/news_images/20260730110345_media_6a6a7d4670b639_54650159.jpg",
+                "url": "https://www.fijivillage.com/a/fareed-s-bail-pending-sentencing-moved-to-this-afternoon-c4c92f/",
+                "source": "fijivillage.com",
+                "date": "2026-07-29T22:28:50Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Calls to replace axed affordable housing scheme as thousands struggle with rent increases",
                 "desc": "Advocates call for a National Rental Affordability Scheme 2.0 after thousands of people participating in subsidies face rent hikes.",
@@ -1806,98 +1896,8 @@
                 "source": "StratNews Global",
                 "date": "2026-07-29T09:30:19Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Economic hardship, housing crisis keeping Nigerian youths single - UNFPA",
-                "desc": "The United Nations Population Fund (UNFP) has stated that a survey it conducted in Nigeria shows that many youths are single due to economic and housing...",
-                "image": "https://dailytrust.com/wp-content/uploads/2025/06/Should-money-dictate-love-in-marriage-813x400-1.jpg",
-                "url": "https://dailytrust.com/economic-hardship-housing-crisis-keeping-nigerian-youths-single-unfpa/",
-                "source": "Daily Trust",
-                "date": "2026-07-29T08:02:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada urged to welcome Haitians fleeing U.S. deportations as Trump ends protected status",
-                "desc": "Montreal refugee advocates say they are hearing from a growing number of Haitians in the United States who are considering coming to Canada after the Trump administration moved to end deportation protections for hundreds of thousands of people.",
-                "image": "https://i.cbc.ca/ais/7cbd6fc0-76ec-4143-87a3-51165743cee8,1785274653545/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C231%2C6997%2C3935%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/montreal/haitians-fleeing-united-states-9.7288147",
-                "source": "CBC",
-                "date": "2026-07-29T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Deep breathing: the asthma clinic buried 250 metres into an Armenian salt mine",
-                "desc": "Underground clinic’s fate hangs in the balance after government withdrew state funding",
-                "image": "https://i.guim.co.uk/img/media/c1d6af6f5b26aad078719db3a697af587079b916/585_312_3805_3046/master/3805.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10d037ecbde71d556b622a8b58692420",
-                "url": "https://www.theguardian.com/world/2026/jul/29/respiratory-clinic-armenia-salt-mine-asthma-speleotherapy",
-                "source": "The Guardian",
-                "date": "2026-07-29T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A human-made forest is at the centre of France's raging wildfires",
-                "desc": "Scientists say climate change is driving the extraordinary fire conditions gripping western Europe, but that the scale of those fires cannot be understood without looking at how humans drastically changed part of the landscape 200 years ago.",
-                "image": "https://i.cbc.ca/ais/0284c840-541b-497e-bc1f-07a0dfa8534e,1785274982386/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C430%2C8256%2C4644%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/human-made-forest-france-wildfires-9.7287788",
-                "source": "CBC",
-                "date": "2026-07-29T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malaysia's AirBorneo to grow narrowbody fleet to 5 by YE26",
-                "desc": "AirBorneo (MY, Kuching) plans to more than double its narrowbody fleet from two to five aircraft by the end of 2026, chief executive Megat Ardian Aminuddin told Channel NewsAsia. He...",
-                "image": "https://www.ch-aviation.com/images/stockPhotos/9676/7701297cfffe745fcb923ba28b130e5aeb398085.jpg",
-                "url": "https://www.ch-aviation.com/news/169984-malaysias-airborneo-to-grow-narrowbody-fleet-to-5-by-ye26",
-                "source": "ch-aviation",
-                "date": "2026-07-29T07:57:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Slovak village questioning its UNESCO status",
-                "desc": "The picturesque village of Vlkolinec in Slovakia has been on UNESCO's World Heritage List since 1993. Vlkolinec was recently in the headlines for wanting to be taken off the list. DW visited the village to find out why.",
-                "image": "https://static.dw.com/image/78133638_6.jpg",
-                "url": "https://www.dw.com/en/the-slovak-village-questioning-its-unesco-status/a-78141298",
-                "source": "DW.com",
-                "date": "2026-07-29T07:56:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "History made as 18-year-old becomes youngest professor ever",
-                "desc": "The 18-year-old’s achievement ended the 306-year record previously held by Colin Maclaurin, who became a professor at 19.",
-                "image": "https://theeagleonline.com.ng/wp-content/uploads/2026/07/Youngest-Professor-Nathan-Thomas.jpg",
-                "url": "https://theeagleonline.com.ng/history-made-as-18-year-old-becomes-youngest-professor-ever/",
-                "source": "theeagleonline.com.ng",
-                "date": "2026-07-29T07:54:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya probes potential toxin after 15 elephants die in Amboseli ecosystem",
-                "desc": "NAIROBI, July 29 (Reuters) – Fifteen elephants died in Kenya’s Amboseli ecosystem from June 24 to July 24, with preliminary tests detecting a potential toxic substance in samples from several animals, the Kenya Wildlife Service (KWS) said in a statement late on Tuesday. The broader Amboseli ecosystem spans the national park and surrounding community land in southern […]",
-                "image": "https://cdn.cnbc.africa/wp-content/uploads/2026/07/Elephants-Kenya.jpg",
-                "url": "https://www.cnbcafrica.com/2026/kenya-probes-potential-toxin-after-15-elephants-die-in-amboseli-ecosystem",
-                "source": "CNBC Africa",
-                "date": "2026-07-29T07:50:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Concerns raised after swastika graffiti appears in village",
-                "desc": "Police say they are investigating what they have described as \"hate-motivated criminal damage\".",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2e58/live/2d0ea840-8b17-11f1-b8ee-9b3c26ad07bb.png",
-                "url": "https://www.bbc.com/news/articles/c9v4gv87kjgo",
-                "source": "BBC",
-                "date": "2026-07-29T07:50:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Senior safety risks in Bangalore that NRI families don't think about, until something goes wrong",
-                "desc": "Six senior safety risks in Bangalore that NRI families underestimate: monsoon flooding, traffic delays, power cuts, lift-less buildings, heat, and isolation.",
-                "image": "https://pctechmag.com/wp-content/uploads/2026/07/photo-1717616408171-6cde78f9f68b.jpeg",
-                "url": "https://pctechmag.com/2026/07/senior-safety-risks-in-bangalore-that-nri-families-dont-think-about-until-something-goes-wrong/",
-                "source": "PC Tech Magazine",
-                "date": "2026-07-29T07:48:04Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-30T08:41:09.934350Z"
+    "lastGlobalSync": "2026-07-30T10:53:05.623297Z"
 }
