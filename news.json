@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Asia’s air cargo market is no longer defined by e-commerce",
+                "desc": "AI-driven semiconductor demand is reshaping Asia’s air cargo market as airlines shift capacity away from slowing cross-border e-commerce.",
+                "image": "https://insideretail.asia/wp-content/uploads/2026/07/china-airlines-cargo.jpg",
+                "url": "https://insideretail.asia/2026/07/30/asias-air-cargo-market-is-no-longer-defined-by-e-commerce/",
+                "source": "Inside Retail Asia",
+                "date": "2026-07-30T00:49:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "We're raising our price target on Starbucks after a home-run quarter",
+                "desc": "Shares jumped in extended trading Thursday as CEO Brian Niccol's turnaround gathers momentum.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108296583-1776982515269-gettyimages-2260236106-303787final.jpeg?v=1776982636&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/29/were-raising-our-price-target-on-starbucks-after-a-home-run-quarter-.html",
+                "source": "CNBC",
+                "date": "2026-07-30T00:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Chinese robot army transforming the UK's retail industry",
+                "desc": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+                "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
+                "url": "https://www.aol.com/articles/chinese-robot-army-transforming-uks-220834000.html",
+                "source": "AOL.com",
+                "date": "2026-07-30T00:46:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ex-JPMorgan Banker Fires Back at Former Boss He Accused of Sexual Harassment",
+                "desc": "The ex-JPMorgan banker accusing his boss of sexual abuse admits he pinned his claims on another employer online ... but says he was only covering his tracks out of fear.",
+                "image": "https://imagez.tmz.com/image/f8/16by9/2026/07/14/f8549a14cfc94870863cc24dcca6961f_xl.png",
+                "url": "https://www.tmz.com/2026/07/29/jpmorgan-banker-defends-abuse-claims/",
+                "source": "TMZ",
+                "date": "2026-07-30T00:45:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EPA warns of drinking water contamination risk",
+                "desc": "The Environmental Protection Agency has warned that thousands of people could be drinking water from private supplies that are not being monitored for contamination, posing an ongoing risk to public health.",
+                "image": "https://www.rte.ie/images/0024c6b7-1600.jpg",
+                "url": "https://www.rte.ie/news/ireland/2026/0730/1585726-epa-drinking-water/",
+                "source": "RTE.ie",
+                "date": "2026-07-30T00:45:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ACMA to sue Optus in Federal Court over 2025 network outage",
+                "desc": "The Australian Communications and Media Authority is suing Optus in the Federal Court over last year's network outage in which hundreds of calls failed to reach Triple Zero.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/677fbc036a27935782433605f0337636?impolicy=wcms_watermark_news&cropH=2812&cropW=5000&xPos=0&yPos=519&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-07-30/acma-takes-optus-to-federal-court-over-2025-outage/106975412",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-07-30T00:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Effect of a complementary feeding intervention based on iron- and zinc-biofortified pearl millet on the gut microbiota in 12–18-month-old children: a randomized trial",
+                "desc": "Iron supplementation studies in children under five suggest potentially adverse gut microbiota shifts. Given iron’s importance during early childhood, food-based approaches may offer a more viable supplementation strategy. Using shotgun metagenomics, we examined the effects of 9 months’ daily consumption of iron/zinc-biofortified pearl millet (FeZnPM; 8.70 mg/100 g iron) versus control pearl millet (CPM; 3 mg/100 g iron) on the gut microbiome in 12–18-month-old children without severe anemia (hemoglobin ≥9.0 g/dL) from Mumbai urban slums through a randomized controlled trial, the primary outcomes of which were iron status biomarkers and infant growth (ClinicalTrials.gov ID: NCT02233764). In paired (n = 81) and endpoint (n = 108) analyses, FeZnPM consumption was not associated with detectable adverse effects on developing microbiomes and exploratory analyses suggest that it may support beneficial metabolic adaptations via direct modulation of antibiotic, antioxidant, and pollutant degradation pathways. This suggests biofortified crops could provide a sustainable approach to addressing iron deficiency while maintaining healthy microbiome development in early life. In this randomized trial, the authors report that biofortified pearl millet is a potentially sustainable, climate-smart, and microbiome-friendly solution to improve micronutrient status in 12−18 month old children.",
+                "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41467-026-75674-6?error=cookies_not_supported&code=97cac89f-1da6-48a8-a4b6-83d5cbd46574",
+                "source": "Nature",
+                "date": "2026-07-30T00:44:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump considering AI controls after OpenAI hacking incidents",
+                "desc": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ade/live/8444b290-8ba7-11f1-97f2-db346fdb1706.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o",
+                "source": "BBC",
+                "date": "2026-07-30T00:41:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump considering AI controls after OpenAI hacking incidents",
+                "desc": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6ade/live/8444b290-8ba7-11f1-97f2-db346fdb1706.jpg",
+                "url": "https://www.bbc.com/news/articles/c20dppq3y90o",
+                "source": "BBC",
+                "date": "2026-07-30T00:41:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta stock drops 10% as free cash flow gets crushed-and Zuckerberg hints at cloud business",
+                "desc": "Meta’s quarterly results showcased the strength of its core social media business, as well as the gap in its business model in the AI arms race.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284934270_256dc4-e1785370245260.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/07/29/meta-earnings-zuckerberg-hints-cloud-business-free-cash-flow-capex/",
+                "source": "Fortune",
+                "date": "2026-07-30T00:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Shares of Microsoft extend gains to 7% after hours on capex guide",
                 "desc": "Same night as META, same capex arms race, opposite reaction. The difference is monetization you can see.",
                 "image": "https://investinglive.com/cms/media/Processed/Categories/featured/Microsoft%20CEO%20Satya%20Nadella-featured-1785363693.jpg",
@@ -542,99 +632,99 @@
                 "source": "Autocar",
                 "date": "2026-07-29T10:25:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "ArcelorMittal SA’s shares slide as loss grows by half",
-                "desc": "ArcelorMittal SA’s share price slumped 7% on Wednesday morning after the steelmaker announced a widening of its expected interim loss.",
-                "image": "https://news24cobalt.24.co.za/resources/029b-1e5dc0557c76-f80b8fb8bfdd-1000/format/inline/gettyimages-502120934.jpeg",
-                "url": "https://www.news24.com/business/companies/arcelormittal-sas-shares-slide-as-loss-grows-by-half-20260729-0534",
-                "source": "News24",
-                "date": "2026-07-29T09:35:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PwC's US CEO Says Companies Are Getting 2 Things Wrong About AI",
-                "desc": "PwC's US CEO Paul Griggs says companies are thinking about AI as a technological revolution, when it's really a business one.",
-                "image": "https://i.insider.com/6a67a45654f987526177a38f?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/pwc-us-ceo-companies-getting-wrong-about-ai-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-29T09:34:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Are we in an age of risk or an era of opportunity?",
-                "desc": "The World Economic Forum’s (WEF) Global Risks Report 2026, published in January 2026, heralds the second half of what it justifiably terms a ‘turbulent decade’.[1] Back in 2020, most people would have expected the COVID-19 pandemic to be the low point of the decade in terms of the global risk landscape. Five years later, there […]",
-                "image": "https://media.alj.com/app/uploads/2026/07/shutterstock_2492911131-scaled.jpg",
-                "url": "https://alj.com/en/perspective/are-we-in-an-age-of-risk-or-an-era-of-opportunity/",
-                "source": "Abdul Latif Jameel",
-                "date": "2026-07-29T09:33:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Features & Safety",
-                "desc": "The Brezza gets the advantage of a CNG powertrain, while the XUV 3XO cuts ahead with a diesel engine option.",
-                "image": "https://stimg2.cardekho.com/images/carNewsimages/userimages/36405/1785317466268/GeneralNew.jpg",
-                "url": "https://www.cardekho.com/india-car-news/maruti-brezza-facelift-vs-mahindra-xuv-3xo-the-subcompact-suv-faceoff-36406.htm",
-                "source": "CarDekho",
-                "date": "2026-07-29T09:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks jump as BSP signals end to aggressive rate hikes",
-                "desc": "Local stocks advanced as investors drew encouragement from signals that the Bangko Sentral ng Pilipinas (BSP) will refrain from aggressive interest-rate hikes,...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/29/119619.webp",
-                "url": "https://mb.com.ph/2026/07/29/stocks-jump-as-bsp-signals-end-to-aggressive-rate-hikes",
-                "source": "Manila Bulletin",
-                "date": "2026-07-29T09:30:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese AI start-up Moonshot seeks influential ambassadors to widen Kimi’s global reach",
-                "desc": "Start-up is recruiting entrepreneurs, developers, creators and students who use Kimi to share their experiences with broader communities.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/29/c31eb075-c5f3-4318-bf38-f470fd6be5ef_d2a6f95c.jpg?itok=Hz0tdJha&v=1785316557",
-                "url": "https://www.scmp.com/tech/article/3362261/chinese-ai-start-moonshot-seeks-influential-ambassadors-widen-kimis-global-reach",
-                "source": "South China Morning Post",
-                "date": "2026-07-29T09:30:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 Core Singapore Dividend Stocks to Buy and Hold",
-                "desc": "Explore the 5 core Singapore dividend stocks to buy and hold for a stable investment strategy and reliable income.",
-                "image": "https://thesmartinvestor.com.sg/wp-content/uploads/2026/07/DBS.png",
-                "url": "https://thesmartinvestor.com.sg/5-core-singapore-dividend-stocks-to-buy-and-hold-2/",
-                "source": "The Smart Investor",
-                "date": "2026-07-29T09:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "N.S. metal detector operator dives to find Louisiana man's submerged wedding band",
-                "desc": "HALIFAX — When Louisiana’s Jeff Daglaris lost his wedding ring at the bottom of a Nova Scotia lake, he turned to the internet for advice and the answer was simple: call Nate McLagan.",
-                "image": "https://halifax.citynews.ca/wp-content/blogs.dir/sites/5/2026/07/7eea39847ebe39968cd289ad68fe6c3bf6c576513c291fea13649f8600c4ff8e.jpg",
-                "url": "https://halifax.citynews.ca/2026/07/29/n-s-metal-detector-operator-dives-to-find-louisianas-mans-submerged-wedding-band/",
-                "source": "CityNews Halifax",
-                "date": "2026-07-29T09:29:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2 'Red Lines' in Iran War to Watch to Know When to De-Risk Portfolio",
-                "desc": "While there are several potential red line scenarios, two of them stand out as \"edging closer to reality,\" MRB Partners says.",
-                "image": "https://i.insider.com/6a6905b754f987526177ab89?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/iran-war-escalation-oil-shock-stock-portfolio-risk-strait-hormuz-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-29T09:25:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold ticks higher as markets brace for Fed decision",
-                "desc": "July 29 : Gold prices edged up on Wednesday, supported by some technical buying, as investors hunkered down for the Federal Reserve's interest rate decision later today.Spot gold gained 0.22 per cent to $4,036.09 per ounce by 0908 GMT , while U.S gold futures for August delivery were steady at $4,037.3.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--WuiB-rfJ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-29T011440Z_1_LYNXMPEM6S02P_RTROPTP_3_GLOBAL-PRECIOUS.JPG?itok=qlfq9y03",
-                "url": "https://www.channelnewsasia.com/business/gold-ticks-higher-markets-brace-fed-decision-6284631",
-                "source": "CNA",
-                "date": "2026-07-29T09:24:58Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Effects of CYP3A4, CYP3A5, and ABCB1 genetic variants on tacrolimus metabolism during the early period after kidney transplantation",
+                "desc": "Tacrolimus (TAC) exhibits substantial interindividual pharmacokinetic variability, complicating early dose optimization after kidney transplantation. This study evaluated the effects of CYP3A5 rs776746 (6986A > G), CYP3A4 rs4646437 (G > A), and ABCB1 rs1045642 (3435C > T) genetic variations on TAC metabolism during the first post-transplant month. In 120 kidney transplant recipients, TAC exposure was assessed using dose-normalized trough concentrations (C0/D), and patients with a low C0/D ratio (<1.05 ng/mL per mg/day) were classified as fast metabolizers, whereas those with a high C0/D ratio (≥1.05 ng/mL per mg/day) were classified as slow metabolizers. Fast metabolizers (48.3%) had lower TAC trough levels, required higher doses, and showed reduced C0/D ratios compared with slow metabolizers (0.95 ± 0.12 vs 2.39 ± 0.53 ng/mL per mg/day; p < 0.001). CYP3A5 rs776746 was the primary determinant, with each A allele strongly associated with fast metabolism (adjusted OR 44.11, 95% CI 11.70–166.36; p < 0.001). CYP3A4 rs4646437 provided additional stratification, whereas ABCB1 rs1045642 showed modest effects. Combined CYP3A5/CYP3A4 risk genotypes identified fast metabolizers in 88.2% of cases. These findings support genotype-informed TAC dosing to improve early post-transplant exposure.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41397-026-00427-z/MediaObjects/41397_2026_427_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41397-026-00427-z?error=cookies_not_supported&code=6bcb48cd-75d4-4ea6-8338-851ab81787de",
+                "source": "Nature",
+                "date": "2026-07-30T00:48:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tilta Camera Cage & Handle Kit for Kinefinity Vista",
+                "desc": "Tilta's Camera Cage and Handle Kit for the Kinefinity Vista is a modular system that combines a precision-fit camera cage with an ergonomic wooden handle,",
+                "image": "https://www.newsshooter.com/wp-content/uploads/2026/07/Kine-740x416.jpg",
+                "url": "https://www.newsshooter.com/2026/07/29/tilta-camera-cage-handle-kit-for-kinefinity-vista/",
+                "source": "Newsshooter",
+                "date": "2026-07-30T00:42:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AMD's cheapest RDNA 4 card has landed: the Radeon RX 9050 is a US$279, 92W 1080p GPU, and Australia is on the launch list",
+                "desc": "AMD spent 2025 building out its Radeon RX 9000 range from the top down. This week it finally filled in the bottom rung.",
+                "image": "https://media.itwire.com/2026/07/30/amds-cheapest-rdna-4-card-has-landed-the-radeon-rx-9050-is-a-us-279-92w-1080p-gpu-and-australia-is-on-the-launch-list-3f9232845944.webp",
+                "url": "https://itwire.com/your-it-news/home-it/amds-cheapest-rdna-4-card-has-landed-the-radeon-rx-9050-is-a-us-279-92w-1080p-gpu-and-australia-is-on-the-launch-list",
+                "source": "iTWire",
+                "date": "2026-07-30T00:37:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AudioBro's V2 web app adds conversational AI to make troubleshooting and optimising your home hi-fi setup even easier",
+                "desc": "A huge new update harnesses the power of AI to create a more conversational helper",
+                "image": "https://cdn.mos.cms.futurecdn.net/jfHEcBot3mYojKxi6oPHSc-1536-80.png",
+                "url": "https://www.whathifi.com/hi-fi/audiobros-v2-web-app-adds-conversational-ai-to-make-troubleshooting-and-optimising-your-home-hi-fi-setup-even-easier",
+                "source": "What Hi-Fi?",
+                "date": "2026-07-30T00:32:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flying Eagle Android RAT source code circulates on Telegram",
+                "desc": "The Flying Eagle framework is being distributed as a fake \"公安一网通办\" Public Security service application targeting Android users in China.",
+                "image": "https://files.cyberriskalliance.com/wp-content/uploads/2025/07/AdobeStock_805640723.jpg",
+                "url": "https://www.scworld.com/brief/flying-eagle-android-rat-source-code-circulates-on-telegram",
+                "source": "scworld.com",
+                "date": "2026-07-30T00:31:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stupid Never Dies Pencils in October Release Date Plus Shares Details on DLC, Deluxe Edition & More",
+                "desc": "The team at GPTRACK50 have uncorked a ton of new details about Stupid Never Dies, including the game's release date in October.",
+                "image": "https://www.cgmagonline.com/wp-content/uploads/2026/07/stupid-never-dies-pencils-in-october-release-date-with-a-hard-hitting-new-trailer-9130.jpg",
+                "url": "https://www.cgmagonline.com/news/stupid-never-dies-release-date/",
+                "source": "CGMagazine",
+                "date": "2026-07-30T00:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stylish action RPG Stupid Never Dies gets release date, new trailer",
+                "desc": "Former Capcom developer Hiroyuki Kobayashi's studio GPTRACK50 announces release date for wildly stylish action-RPG Stupid Never Dies.",
+                "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/snd_teaser_001a_2k-1.png?w=1600&h=900&fit=crop",
+                "url": "https://www.polygon.com/stupid-never-dies-game-release-date-hiroyuki-kobayashi/",
+                "source": "Polygon.com",
+                "date": "2026-07-30T00:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why most creative agencies don't last (and what Insight Creative did differently)",
+                "desc": "Insight Creative founder Mike Tisdall discusses what his agency did to achieve longevity as it celebrates its 50th birthday this year.",
+                "image": "https://nzmarketingmag.co.nz/wp-content/uploads/2026/07/Insight-Creative-900x500-1.png",
+                "url": "https://nzmarketingmag.co.nz/why-most-creative-agencies-dont-last/",
+                "source": "New Zealand Marketing magazine",
+                "date": "2026-07-30T00:26:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Redmi Turbo 6 Max leak reveals Apple- and Pixel-inspired design with massive 10,000mAh battery",
+                "desc": "A leaked render suggests the Redmi Turbo 6 Max may feature a slimmer, flat-edged design, a Pixel-style camera bar, and a 7-inch 2K display. Rumored specifications include a Dimensity 9500s or 9600s chipset and a massive 10,000mAh battery.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/2326d990-84d4-442b-9248-4f9890e77586.png",
+                "url": "https://www.notebookcheck.net/Redmi-Turbo-6-Max-leak-reveals-Apple-and-Pixel-inspired-design-with-massive-10-000mAh-battery.1354942.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-30T00:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xiaomi 12.5-inch tablet leaks with next-gen Xring O3 chipset",
+                "desc": "The Xiaomi Pad 8S Pro has surfaced in a new leak revealing some of its specifications. The upcoming tablet is tipped to feature Xiaomi’s next-generation Xring O3 chipset.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-Pad-8s-Pro-news.png",
+                "url": "https://www.notebookcheck.net/Xiaomi-12-5-inch-tablet-leaks-with-next-gen-Xring-O3-chipset.1355006.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-30T00:14:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Steam Machine Updates: FSR 4.1 Lands Alongside CAD Files for Custom Faceplates",
                 "desc": "Since the long-awaited launch of the Steam Machine, Valve has provided periodic updates on the new hybrid game console. Despite Valve's recent confirmations that RAM remains in short supply and at a high cost, the company has said in its latest update that it should be able to offer everyone in...",
@@ -1174,99 +1264,99 @@
                 "source": "CineD",
                 "date": "2026-07-29T10:19:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Crazy Taxi: World Tour opens signups for closed network test",
-                "desc": "Sign up for the Crazy Taxi: World Tour closed network test and experience its online multiplayer modes before the 2027 release.",
-                "image": "https://cassette.sphdigital.com.sg/image/hardwarezone/8219804d3e01a090c60f3701880d525875856bdb308390722f9c33411502c577",
-                "url": "https://www.hardwarezone.com.sg/entertainment/gaming/crazy-taxi-world-tour-closed-network-test-sega",
-                "source": "HardwareZone Singapore",
-                "date": "2026-07-29T09:38:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Play and Save More With These Xbox Game Pass Deals",
-                "desc": "Hundreds of games and more await with these Xbox Game Pass deals. Nab the offer and play more without stretching your budget.",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/258c71ee-ee42-441e-947d-e42f861dfe5b.png",
-                "url": "https://www.cnet.com/deals/best-xbox-game-pass-deals-2/",
-                "source": "CNET",
-                "date": "2026-07-29T09:36:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Honor's Robot Phone camera details emerge before official August 2026 unveiling",
-                "desc": "Honor seems to want to avoid any surprises when it formally introduces its new Robot Phone to the world on 12 August. The Chinese company...",
-                "image": "https://stuff.co.za/wp-content/uploads/2026/07/Robot-Phone-camera.png",
-                "url": "https://stuff.co.za/2026/07/29/honors-robot-phone-camera-details-emerge-before-official-august-2026-unveiling/",
-                "source": "Stuff South Africa",
-                "date": "2026-07-29T09:32:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Modern AI Hardware Shifts Focus Beyond \"New Species\" Innovation",
-                "desc": "The defining milestone for future watershed development lies in enabling users to access a full, seamless AI experience completely independent of mobile devices, marking a transformative shift in how people interact with artificial intelligence beyond traditional smartphone-reliant ecosystems.",
-                "image": "https://img.36krcdn.com/hsossms/20260729/v2_1ff41a1ecdf446d0b9af7c1b2937c995@5895246_oswg975603oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-                "url": "https://eu.36kr.com/en/p/3916476987518600",
-                "source": "36 Kr",
-                "date": "2026-07-29T09:30:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I swapped my Fire TV Stick for the Google TV Streamer. One glitch almost ruined it",
-                "desc": "Replacing my Fire TV Stick with the Google TV Streamer was an incredible decision — until a software glitch almost ruined it.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/Google-TV-Streamer-with-Remote-on-TV-console-with-red-light.jpg",
-                "url": "https://www.androidauthority.com/swapped-fire-tv-stick-google-tv-streamer-glitch-almost-ruined-3690678/",
-                "source": "Android Authority",
-                "date": "2026-07-29T09:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony poised for GTA VI boost as memory prices bite",
-                "desc": "Sony said it has ​secured memory supply for ⁠this financial year but expects prices to be high in 2027. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/1ec0e250905dbfbea15d4bae54bf42440913c24cedaa05193ed47feb29dcbd3d",
-                "url": "https://www.straitstimes.com/life/sony-poised-for-gta-vi-boost-as-memory-prices-bite",
-                "source": "The Straits Times",
-                "date": "2026-07-29T09:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Best robot vacuum deal: Save $700 on roborock Qrevo CurvX",
-                "desc": "Get the best robot vacuum deal on Amazon. Save 47% on the roborock Qrevo CurvX at Amazon right now.",
-                "image": "https://helios-i.mashable.com/imagery/articles/014eSHrKodl1JM4BtowluIA/hero-image.fill.size_1200x675.v1785309836.png",
-                "url": "https://mashable.com/tech/july-29-roborock-qrevo-robot-vacuum-deal",
-                "source": "Mashable",
-                "date": "2026-07-29T09:25:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "007 First Light's Switch 2 release date may be closer than we realised",
-                "desc": "Amazon Japan may have just given us an idea of when 007 First Light will be released on Nintendo Switch 2",
-                "image": "https://assetsio.gnwcdn.com/007_First_Light_Walkthrough_2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/007-first-light-nintendo-switch-2-release-date-leak",
-                "source": "Eurogamer.net",
-                "date": "2026-07-29T09:24:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Awaited Gameplay Trailer Leaks Ahead Of Impending Reveal",
-                "desc": "Gaming insider NateTheHate predicts Grand Theft Auto VI's highly anticipated gameplay trailer will release in August.",
-                "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/hlkk7oyxsaa1dbq.jpeg?w=1600&h=900&fit=crop",
-                "url": "https://screenrant.com/gta-6-gameplay-trailer-august/",
-                "source": "ScreenRant",
-                "date": "2026-07-29T09:21:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "223 Plus Cabozantinib Does Not Improve SSE",
-                "desc": "RADICAL Trial: Radium-223 Plus Cabozantinib Does Not Improve SSE-FS in mRCC With Bone Metastases / cancer, cancer care, Cancer research, cancer treatment,",
-                "image": "https://oncodaily.com/pub/uploads/2026/07/RADICAL-Trial.webp",
-                "url": "https://oncodaily.com/genitourinary-oncology/radical-2",
-                "source": "Oncodaily",
-                "date": "2026-07-29T09:20:33Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "US-Iran war: Egypt's difficult balancing act",
+                "desc": "The US-Iran war has already had a negative economic impact on Egypt. Now new threats from the Houthi group in Yemen are likely to worsen that. At the same time, Egypt is trying to stay on good terms with all parties.",
+                "image": "https://static.dw.com/image/76547864_6.jpg",
+                "url": "https://www.dw.com/en/iran-war-egypts-difficult-balancing-act/a-78162983",
+                "source": "DW.com",
+                "date": "2026-07-30T00:48:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "British Airways Heathrow near miss sparks investigation after Airbus A320 stalls over London",
+                "desc": "Investigators are examining a serious in-flight incident after a routine landing reportedly turned into a terrifying cockpit emergency.",
+                "image": "https://images.thenightly.com.au/publication/C-22649634/183c825da3023de4850140e17e5ef373a79576bb-16x9-x0y38w724h407.webp?imwidth=1200",
+                "url": "https://thenightly.com.au/world/british-airways-heathrow-near-miss-sparks-investigation-after-airbus-a320-stalls-over-london-c-22649634",
+                "source": "The Nightly",
+                "date": "2026-07-30T00:47:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. resumes strikes against Iran in retaliation for missile attack",
+                "desc": "The U.S. forces began launching strikes against Iran Wednesday stateside, plunging the two sides back into open conflict after a days-long pause.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108342016-1785354793809-gettyimages-2287534440-DULLES_RENOVATION.jpeg?v=1785354837&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
+                "source": "CNBC",
+                "date": "2026-07-30T00:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Greens warn Carroll: Don't let big business water down WFH rights",
+                "desc": "The Victorian Greens are calling on new Premier Ben Carroll to guarantee Labor will not water down its WFH laws to appease big business, following reports he will reopen negotiations with business lobby groups and amend the legislation in the Upper House.",
+                "image": "https://greens.org.au/vic/news/media-release/:/,",
+                "url": "https://greens.org.au/vic/news/media-release/greens-warn-carroll-dont-let-big-business-water-down-wfh-rights",
+                "source": "The Australian Greens",
+                "date": "2026-07-30T00:42:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bullets that killed two at Seattle food festival do not match teen shooter’s gun, police say",
+                "desc": "Police link shooting to gang violence but have not said who might have fired bullets that killed bystanders on Sunday",
+                "image": "https://i.guim.co.uk/img/media/c56d3cc5cf019580e5f4cf0604ff97542a711788/506_0_6620_5297/master/6620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c53e123334002a0f8fbcc07a0bf55752",
+                "url": "https://www.theguardian.com/us-news/2026/jul/29/seattle-food-festival-bullets-gun-police",
+                "source": "The Guardian",
+                "date": "2026-07-30T00:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lithuania eyes sharing Ukraine-tested maritime tech with PCG",
+                "desc": "Lithuania is looking to bring maritime security technologies emerging from the war in Ukraine to the Philippine Coast Guard, Foreign Minister K?stutis Budrys said, part of a widening security partnership between the two countries.",
+                "image": "https://media.philstar.com/photos/2026/07/29/lithuanianfm-leadphoto-1_2026-07-29_22-50-21.jpg",
+                "url": "https://www.philstar.com/headlines/2026/07/30/2545693/lithuania-eyes-sharing-ukraine-tested-maritime-tech-pcg",
+                "source": "Philstar.com",
+                "date": "2026-07-30T00:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran Update Special Report, July 29, 2026",
+                "desc": "The Iranian regime likely launched a “surprise attack” on US forces in Jordan on July 28, published by ISW.",
+                "image": "https://understandingwar.org/wp-content/uploads/2025/10/Website-Featured-Image-1-scaled.webp",
+                "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-july-29-2026/",
+                "source": "Institute for the Study of War",
+                "date": "2026-07-30T00:34:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning",
+                "desc": "Returning from the US, Zelenskyy says Ukraine’s safety depends on allies’ willingness to provide anti-missile defences.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-24T113355Z_135945465_RC2BKMAFHMC6_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION-1785367531.jpg?resize=1200%2C630",
+                "url": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning",
+                "source": "Al Jazeera",
+                "date": "2026-07-30T00:32:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenya says 15 elephants died of cyanide poisoning after eating tomatoes from nearby farms",
+                "desc": "Fifteen elephants in southern Kenya are suspected to have been poisoned by cyanide-contaminated tomatoes, according to wildlife authorities | WWJ Newsradio 950",
+                "image": "https://www.audacy.com/media-library/kenya-elephants-732.jpg?id=67554557&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+                "url": "https://www.audacy.com/wwjnewsradio/news/world/kenya-elephants-poisoning-cyanide-16472f80a3b345db6d476fc3bf4ef57b",
+                "source": "Audacy",
+                "date": "2026-07-30T00:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Middle East crisis live: US launches fresh strikes on Iran after days-long pause in attacks",
+                "desc": "US announces attacks early on Thursday, as experts say strikes carried out by both sides in previous day increase risk of return to all-out war",
+                "image": "https://i.guim.co.uk/img/media/b9cd31be409236e6a4f7ec829de9e6f0e2910980/586_0_7136_5712/master/7136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=df0094d0aeedd3db6461941a87cfec76",
+                "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
+                "source": "The Guardian",
+                "date": "2026-07-30T00:30:33Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Why tech alone won’t stop exam paper leaks",
                 "desc": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
@@ -1806,98 +1896,8 @@
                 "source": "CBS News",
                 "date": "2026-07-29T10:33:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Holy See: Urban planning must address homelessness to promote human dignity",
-                "desc": "The Permanent Observer Mission of the Holy See to the United Nations highlights the importance of addressing homelessness in order to build ...",
-                "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/07/29/03/1785287197391.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-                "url": "https://www.vaticannews.va/en/vatican-city/news/2026-07/homelessness-common-good-holy-see-sustainability-united-nations.html",
-                "source": "Vatican News",
-                "date": "2026-07-29T09:40:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia's visa \"quality correction\" leaves sector seeking greater certainty",
-                "desc": "A year of sweeping policy reforms set the stage for a frank debate at The PIE Live Asia Pacific over balancing visa integrity with Australia's long-term international competitiveness.",
-                "image": "https://thepienews.b-cdn.net/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-13.43.08.jpeg",
-                "url": "https://thepienews.com/australias-visa-quality-correction-leaves-sector-seeking-greater-certainty/",
-                "source": "The PIE News",
-                "date": "2026-07-29T09:40:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Poverty Dynamics Amid Multiple Crises in Madagascar: National Mixed Methods Report",
-                "desc": "Poverty in Madagascar is structural and dynamic, reproduced by the interaction of institutional fragility, spatial inequality, gendered constraints, and increasingly frequent compound shocks. Amid intermittent growth spurts, the country has achieved little sustained poverty reduction since the early 2000s. More than three-quarters of the population live below the national poverty line, with rural poverty particularly … Continued",
-                "image": "https://povertyevidence.org/wp-content/uploads/2026/02/iStock-108313157-1.webp",
-                "url": "https://povertyevidence.org/resources/poverty-dynamics-amid-multiple-crises-in-madagascar-national-mixed-methods-report/",
-                "source": "Data & evidence to end extreme poverty",
-                "date": "2026-07-29T09:39:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Network School’s closure tells foreign investors about doing business in Malaysia",
-                "desc": "The saga shows foreign investors need to understand Malaysia’s multi-layered regulatory system and navigate domestic political and geopolitical sensitivities, analysts say.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--r1c-XY3w--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/22/nz8_4329.jpg?itok=OkezCmCk",
-                "url": "https://www.channelnewsasia.com/asia/network-school-johor-malaysia-lessons-foreign-tech-investors-6285236",
-                "source": "CNA",
-                "date": "2026-07-29T09:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What does Andy Burham’s new cabinet mean for UK foreign policy?",
-                "desc": "Andy Burnham has signalled that he wants to focus his energies on domestic policy, and his Cabinet appointments suggest he is willing to delegate responsibility to his top team – though that does not come without risks, write Jack Pannell and Ed Arnold. The experience of recent Prime Ministers suggests foreign policy requires the direct attention and energy of the Prime Minister.",
-                "image": "https://europeanleadershipnetwork.org/wp-content/uploads/2026/07/3F47TRR-1024x683.jpg",
-                "url": "https://europeanleadershipnetwork.org/commentary/what-does-andy-burhams-new-cabinet-mean-for-uk-foreign-policy/",
-                "source": "European Leadership Network",
-                "date": "2026-07-29T09:36:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zimbabwean Military Delegation Visits Rwanda to Study Defence Transformation and Post",
-                "desc": "A delegation from the Zimbabwe Staff College Joint Command and Staff Course 39 is undertaking a two-week study tour in Rwanda aimed at strengthening professional military cooperation and gaining insights into the country’s remarkable transformation in security, governance and post-conflict recovery. Today, the delegation visited the Ministry of Defence and Rwanda Defence Force (RDF) Headquarters, […]",
-                "image": "https://taarifa.rw/wp-content/uploads/2026/07/IMG_0921.jpeg",
-                "url": "https://taarifa.rw/2026/07/29/zimbabwean-military-delegation-visits-rwanda-to-study-defence-transformation-and-post-genocide-recovery/",
-                "source": "Taarifa Rwanda",
-                "date": "2026-07-29T09:35:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "List of Countries Nigerians Can Visit with eVisa in 2026 Emerges",
-                "desc": "Nigerian passport holders can travel to no fewer than 60 countries across the world in 2026 with eVisas, applying online with no embassy visits needed.",
-                "image": "https://cdn.legit.ng/images/1200x675/07389afc0a86c565.jpeg?v=1",
-                "url": "https://www.legit.ng/nigeria/1722011-list-countries-nigerians-visit-evisa-2026-emerges/",
-                "source": "Legit.ng",
-                "date": "2026-07-29T09:34:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Government Announces Timeline for Receiving an American Passport",
-                "desc": "The US government announces passport processing times: routine 6-8 weeks, expedited 2-3 weeks, with essential tips for international travel planning.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/375e342f9776e2da.jpeg?v=1",
-                "url": "https://yen.com.gh/people/308850-us-government-shares-timeline-receiving-american-passport/",
-                "source": "Yen News",
-                "date": "2026-07-29T09:34:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The African divide behind AGOA's 14.1% apparel fall",
-                "desc": "US apparel imports from matched AGOA suppliers fell 14.1 per cent to $484.1 million in January-May 2026.\nMadagascar and Lesotho drove most losses, while Kenya rose 5.5 per cent, pointing to selective",
-                "image": "https://static.fibre2fashion.com/Newsresource/images/312/chatgpt-image-jul-29-4_323738.jpg",
-                "url": "https://www.fibre2fashion.com/news/apparel-news/the-african-divide-behind-agoa-s-14-1-apparel-fall-312161-newsdetails.htm",
-                "source": "Fibre2Fashion",
-                "date": "2026-07-29T09:30:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China's New Disaster Challenge: AI-Generated Misinformation",
-                "desc": "A new BBC report by Stephen McDonell warns that AI-generated fake videos are becoming a major challenge for China's",
-                "image": "https://stratnewsglobal.com/wp-content/uploads/2026/07/China-30.png",
-                "url": "https://stratnewsglobal.com/world-news/chinas-new-disaster-challenge-ai-generated-misinformation/",
-                "source": "StratNews Global",
-                "date": "2026-07-29T09:30:19Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-30T10:53:05.623297Z"
+    "lastGlobalSync": "2026-07-30T12:49:27.814973Z"
 }
