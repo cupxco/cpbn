@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Manual federated simulation for multiple sclerosis integrating XGBoost algorithm with SHAP explanation",
+                "desc": "Multiple sclerosis (MS) is a chronic autoimmune disorder of the central nervous system, underscoring the importance of early and accurate diagnosis. In this study investigates the predictive modelling of MS progression in patients with Clinically Isolated Syndrome (CIS), privacy-preserving for a federated and explainable Machine Learning (ML) framework. To address missing data while preserving inter-feature dependencies, Multivariate Imputation by Chained Equations (MICE) with iterative imputers was employed. Classification was performed using the Extreme Gradient Boosting (XGBoost) algorithm. Model interpretability was developed through Explainable Artificial Intelligence (XAI) techniques, specifically Shapley Additive Explanations (SHAP). To ensure data confidentiality and simulate decentralized clinical environments, an in silico federated learning framework was applied. Experimental results demonstrated strong predictive performance, achieving 96.7% accuracy and 99% ROC–AUC during training, 92.5% accuracy in validation, and 81.8% accuracy with an AUC of 88% on the test set. For the Federated Learning (FL) simulation, the model maintained competitive performance, yielding an accuracy of 76.3% and an AUC of 83.9%. The proposed approach supports early diagnosis, enhances clinical trust through interpretability, and promotes secure data collaboration, thereby contributing to more informed and transparent clinical decision-making and improved patient care.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-63991-1?error=cookies_not_supported&code=f3238ffe-0529-4fcc-9017-2af567ccd08c",
+                "source": "Nature",
+                "date": "2026-07-30T17:16:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "On Deodorants of 2026, According to Dermatologists",
+                "desc": "Dermatologists share what to look for in a roll-on deodorant, plus their top picks for staying fresh, dry and irritation-free.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260727-best-roll-on-deodorants-dj-main-062ef3.jpg",
+                "url": "https://www.nbcnews.com/select/shopping/best-roll-on-deodorants-rcna589721",
+                "source": "NBC News",
+                "date": "2026-07-30T17:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is Micron Being Squeezed Out Now That SK Hynix and Samsung Have Partnered With Major Chip Companies?",
+                "desc": "SK Hynix's partnership with Nvidia and Samsung's collaboration with Broadcom appear to leave Micron behind.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880822%2Fmu.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/30/is-micron-being-squeezed-out-now-that-sk-hynix-and/",
+                "source": "The Motley Fool",
+                "date": "2026-07-30T17:13:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "We are developing safety regulatory framework for electric, CNG vehicles - FRSC",
+                "desc": "THE Federal Road Safety Corps (FRSC) is putting in place a safety, regulatory and enforcement framework for seamless adoption of Electric Vehicles (EVs) and Compressed Natural Gas (CNG) vehicles across Nigeria The Corps Marshal, Shehu Mohammed said this at the 3rd Nigeria Auto Industry Summit (NASIU). This is contained in a statement by the Corps",
+                "image": "https://realnewsmagazine.net/wp-content/uploads/2026/07/images-2-2.jpeg",
+                "url": "https://realnewsmagazine.net/we-are-developing-safety-regulatory-framework-for-electric-cng-vehicles-frsc/",
+                "source": "Realnews Magazine",
+                "date": "2026-07-30T17:12:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "It’s the \"Return of the King” as Shelby American Reintroduces F-150 Super Snake Sport Two Door Truck with 810+ Horsepower",
+                "desc": "It’s the 'Return of the King” as Shelby American Reintroduces F-150 Super Snake Sport Two Door Truck with 810+ Horsepower",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/31/1158455.jpg",
+                "url": "https://www.manilatimes.net/2026/07/31/tmt-newswire/globenewswire/its-the-return-of-the-king-as-shelby-american-reintroduces-f-150-super-snake-sport-two-door-truck-with-810-horsepower/2395371",
+                "source": "The Manila Times",
+                "date": "2026-07-30T17:12:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Siemens Healthineers Appoints João Seabra President and Head of the Americas",
+                "desc": "Erlangen, Germany, July 30, 2026 (GLOBE NEWSWIRE) -- João Seabra, head of Siemens Healthineers Enterprise Services, is appointed President and Head of the Americas for Siemens Healthineers, effective Oct. 1, 2026, succeeding John Kowal.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/31/1158454.png",
+                "url": "https://www.manilatimes.net/2026/07/31/tmt-newswire/globenewswire/siemens-healthineers-appoints-joo-seabra-president-and-head-of-the-americas/2395370",
+                "source": "The Manila Times",
+                "date": "2026-07-30T17:12:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "(JMKE) starts trading on the New York Stock Exchange",
+                "desc": "Jersey Mike's priced its initial public offering at $23 per share.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108342424-1785418219523-gettyimages-2287616935-JERSEY_MIKES_IPO.jpeg?v=1785418259&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
+                "source": "cnbc.com",
+                "date": "2026-07-30T17:08:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Loblaw boosts profit on generic GLP-1 drug sales, bargain hunting shoppers",
+                "desc": "Canada's largest grocer is focusing on a new, profitable business: generic GLP-1 drugs. Loblaw says sales are up 40 per cent year-to-date.",
+                "image": "https://i.cbc.ca/ais/b79c8487-b216-4309-b119-b710e1646f56,1785429672973/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C187%2C3600%2C2025%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/business/loblaw-profits-glp-1-9.7290790",
+                "source": "CBC",
+                "date": "2026-07-30T17:03:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'He was a dictator': Mother of Marokopa children speaks out about her relationship with Tom Phillips",
+                "desc": "For most people, the Tom Phillips case began when he first disappeared with his children into the bush in 2021 and ended when he was shot dead by police last year.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--F1riRsxV--/t_tohu-badge-facebook/f_auto/q_auto/4JKNS1G_MATA_MAROKOPA_PHILLIPS_c_jpg",
+                "url": "https://www.rnz.co.nz/news/crime-and-justice/847951/he-was-a-dictator-mother-of-marokopa-children-speaks-out-about-her-relationship-with-tom-phillips",
+                "source": "RNZ",
+                "date": "2026-07-30T17:03:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Daraxonrasib Shows Promise as a Treatment for Pancreatic Cancer",
+                "desc": "A clinical trial of the new drug daraxonrasib showed increased survival rates for those with pancreatic cancer. Learn more about this experimental medicine.",
+                "image": "https://www.cancer.org/content/dam/cancer-org/images/logos/acs/favicon.png",
+                "url": "https://www.cancer.org/cancer/latest-news/daraxonrasib-shows-promise-as-pancreatic-cancer-treatment.html",
+                "source": "American Cancer Society",
+                "date": "2026-07-30T17:02:47Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Eurozone sees highest GDP growth since 2025",
                 "desc": "Eurozone economies expanded by 0.4% in the second quarter of 2026, exceeding expectations and marking the strongest quarterly growth since early 2025.",
                 "image": "https://static.dw.com/image/73618761_6.jpg",
@@ -542,99 +632,99 @@
                 "source": "The Irish Times",
                 "date": "2026-07-30T05:02:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Boosting crop survival and sustainability through community driven agri-tech",
-                "desc": "Agricultural innovations create the greatest impact when they are embraced and shared by farmers themselves.This farmer-led approach earned the Jollibee Group...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/30/118668.webp",
-                "url": "https://mb.com.ph/2026/07/30/boosting-crop-survival-and-sustainability-through-community-driven-agri-tech",
-                "source": "Manila Bulletin",
-                "date": "2026-07-30T03:15:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Genting Malaysia may report loss in 2Q, analyst warns",
-                "desc": "KUALA LUMPUR (July 30): Genting Malaysia Bhd (KL:GENM) may report a net loss in what could turn out to be an unusually weak second quarter for the casino-and-resort operator, an analyst flagged.",
-                "image": "https://assets.theedgemarkets.com/Genting-Malaysia_www.gentingmalaysia.com_20251201093047-APP_1.jpg",
-                "url": "https://theedgemalaysia.com/node/812570",
-                "source": "The Edge Malaysia",
-                "date": "2026-07-30T03:15:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Viral video of woman using fork to scratch dead skin off foot raises cleanliness questions",
-                "desc": "How clean is restaurant cutlery? A viral clip highlights the blind faith we put in dishwashers and in staff to have basic hygiene standards.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/07/29/202c3e91-7d31-4e72-9708-d74544963470_687da44c.jpg?itok=MErC4x6y&v=1785320136",
-                "url": "https://www.scmp.com/lifestyle/food-drink/article/3362273/viral-video-woman-using-fork-scratch-dead-skin-foot-raises-cleanliness-questions",
-                "source": "South China Morning Post",
-                "date": "2026-07-30T03:15:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung posts first-ever loss in its smartphone division",
-                "desc": "For obvious reasons, Samsung’s latest earnings call has seen the company report its first-ever loss in its mobile division despite...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Samsung-S26-and-Z-Fold-8-family.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/29/samsungs-smartphone-division-just-posted-its-first-ever-loss-amid-ramageddon/",
-                "source": "9to5google.com",
-                "date": "2026-07-30T03:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SolarEdge (SEDG) Stock Looks Undervalued Following Its 87% Five Year Slump",
-                "desc": "SolarEdge Technologies stock has rebounded over the past year after a deep multi year slump, which sits awkwardly with a mixed valuation read and the fact that the shares still screen as undervalued on market multiples. The recent share price around US$39.04 comes after a steep 5 year decline, so investors are trying to work out whether the current level offers genuine value or just reflects a reset in expectations. SolarEdge Technologies shares are down 86.7% over 5 years, which suggests...",
-                "image": "https://s.yimg.com/lo/mysterio/api/B57DFC4718DCAF3CFCA2AE7E790FCD4DCCA8D0A6B807227AB4DE369AAE86AE8B/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F98479ef7e2a2339ba3575f02b13c7750",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-sedg-stock-looks-undervalued-031538909.html",
-                "source": "Yahoo Finance",
-                "date": "2026-07-30T03:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Waaree Energies shares fall 6% after subdued Q1 operating performance; Nomura says 'buy'",
-                "desc": "Brokerage firm Nomura though, has maintained its \"buy\" rating on Waaree Energies with a price target of ₹3,750, which implies an upside potential of 37% from current levels.",
-                "image": "https://images.cnbctv18.com/uploads/2026/07/waaree-energies-2026-07-183aa1db806549d20cee7d8a6cd7955e.jpeg?im=FitAndFill,width=1200,height=675",
-                "url": "https://www.cnbctv18.com/market/waaree-energies-share-price-q1-result-reaction-nomura-says-buy-margin-pressure-execution-returns-19957406.htm",
-                "source": "CNBC TV18",
-                "date": "2026-07-30T03:13:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The bond market is voting against Warsh. Bond yields hit the highest since 2007",
-                "desc": "Talking about getting to 2% inflation and taking action aren't the same thing",
-                "image": "https://investinglive.com/cms/media/Processed/Categories/featured/kevin-warsh-featured-1785382309.jpg",
-                "url": "https://investinglive.com/central-banks/the-bond-market-is-voting-against-warsh-bond-yields-hit-the-highest-since-2007/",
-                "source": "investingLive",
-                "date": "2026-07-30T03:13:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Big W shoppers demand product recall of 'inappropriate' toy: 'Gross'",
-                "desc": "Concerned customers were quick to call out the \"weird\" toy sold at Big W.",
-                "image": "https://s.yimg.com/lo/mysterio/api/48d2447741b85ebc8ca43c5fde8bc4579db83b1a4514e95ee355cd835b7a4c2f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbig-w_2652.png",
-                "url": "https://au.lifestyle.yahoo.com/big-w-shoppers-demand-product-recall-of-inappropriate-toy-gross-031256064.html",
-                "source": "Yahoo Lifestyle Australia",
-                "date": "2026-07-30T03:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "likely made in Malaysia, previews upcoming Proton X90 facelift?",
-                "desc": "The main star of Geely’s Gaikindo Indonesia International Auto Show (GIIAS) 2026 booth is the Coolray, a Geely-badged Proton X50 that’s made in Malaysia at Tanjong Malim. The CBU import is a curious blend of …",
-                "image": "https://paultan.org/image/2026/07/2026-GIIAS-Geely-Okavango-2-1200x801.jpg",
-                "url": "https://paultan.org/2026/07/30/2026-geely-okavango-shown-in-indonesia-likely-made-in-malaysia-previews-upcoming-proton-x90-facelift/",
-                "source": "Paul Tan",
-                "date": "2026-07-30T03:10:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Q1 Results: Bajaj Finance, Tata Steel, M&M, Vedanta Aluminium, Torrent Pharma, Hyundai, IRFC, Swiggy, others to post earnings on July 30",
-                "desc": "Shipyard Mazagon Dock Shipbuilders, engineering conglomerate Thermax, speciality pharmaceutical company Ajanta Pharma, battery maker Exide Industries, home loan provider LIC Housing Finance, and grooming products manufacturer Gillette India, among others, will also post earnings on July 30.",
-                "image": "https://assets.upstox.com/content/assets/images/news/q1-results-july-30-2026.webp",
-                "url": "https://upstox.com/news/market-news/earnings/q1-results-bajaj-finance-tata-steel-mahindra-and-mahindra-vedanta-aluminium-torrent-pharma-hyundai-irfc-swiggy-others-to-post-earnings-on-july-30/article-197809/",
-                "source": "Upstox",
-                "date": "2026-07-30T03:06:37Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Friend’s AI pendant returns with a speaker, at double the price",
+                "desc": "Friend relaunched its AI-companion pendant with a speaker that talks back, at double the price ($249). The privacy objections have not changed.",
+                "image": "https://media.thenextweb.com/2026/07/friend-ai-pendant.avif",
+                "url": "https://thenextweb.com/news/friend-ai-pendant-relaunch-speaker-double-price",
+                "source": "The Next Web",
+                "date": "2026-07-30T17:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation 5 emulator successfully runs games - with acceptable FPS and graphical bugs",
+                "desc": "Work on emulators is gradually progressing, and some projects are in a \"playable\" state.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1282754/796f5424-9289-4c97-a9cb-1c4dd3dfa6fb.png",
+                "url": "https://ixbt.games/en/news/2026/07/30/na-emuliatore-playstation-5-smogli-zapustit-igry-s-priemlemym-fps-i-graficeskimi-bagami.html",
+                "source": "ixbt.games",
+                "date": "2026-07-30T17:16:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Maingear’s Fishbowl PCs Are a Cable-Free Stage for Your Components (and Labubus)",
+                "desc": "And, of course, they cost a whole lot of money.",
+                "image": "https://gizmodo.com/app/uploads/2026/07/Maingear_Zero-MKII-Display_Case_ALT_1000-2-1200x675.jpg",
+                "url": "https://gizmodo.com/maingears-fishbowl-pcs-are-a-cable-free-stage-for-your-components-and-labubus-2000793007",
+                "source": "Gizmodo",
+                "date": "2026-07-30T17:15:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What to expect from the Galaxy Z Fold 8's crease after a week",
+                "desc": "While the crease on Samsung's new foldables does seem to become more visible after a week of usage, it still feels very smooth.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/samsung-z-fold-8-ultra-screen-1-scaled.jpeg",
+                "url": "https://www.androidauthority.com/samsung-fold-8-crease-3692860/",
+                "source": "Android Authority",
+                "date": "2026-07-30T17:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Galactic Civilizations IV: Federations & Empires Turns Every Form of Government Into a Different Game",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/301431-e0af5b0d/gc4_fedemp_keyartwlogo.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=764170a9b738d9546bf9faa36200f3ea15075c13153e6bcda12c6ad7bfa7209b",
+                "url": "https://www.gamespress.com/en-US/Galactic-Civilizations-IV-Federations-Empires-Turns-Every-Form-of-Gove",
+                "source": "Games Press",
+                "date": "2026-07-30T17:13:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Xbox app is now rolling out on Hisense TVs.",
+                "desc": "Microsoft said Thursday that it’s been rolling the app out “over the past month” to supported TVs running Hisense’s VIDAA OS. The company announced earlier this year that the app was on the way.\nThe Xbox app is also available on select Samsung TVs, Amazon Fire TV devices, and LG TVs.\n[Link: XBOX App Available on Hisense and VIDAA OS-powered TVs | https://news.xbox.com/en-us/2026/07/30/xbox-app-hisense-vidaa/ | XBOX Wire]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VIDAA_LAUNCH_STATIC_16x9_4k-V-ac6bb866d4f0dc69d6b1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+                "url": "https://www.theverge.com/games/973299/the-xbox-app-is-now-rolling-out-on-hisense-tvs",
+                "source": "theverge.com",
+                "date": "2026-07-30T17:12:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bethesda Has a New Logo to Celebrate Its 40th Anniversary - and It Harkens Back to the Studio's Old Terminator Games",
+                "desc": "Future shock.",
+                "image": "https://sm.ign.com/t/ign_za/news/b/bethesda-h/bethesda-has-a-new-logo-to-celebrate-its-40th-anniversary-an_9h6m.1200.jpg",
+                "url": "https://za.ign.com/the-terminator-future-shock/237873/bethesda-has-a-new-logo-to-celebrate-its-40th-anniversary-and-it-harkens-back-to-the-studios-old-ter",
+                "source": "IGN Africa",
+                "date": "2026-07-30T17:10:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GAMIVO Announces New Analysis on the Impact of Digital-Only Game Distribution",
+                "desc": "GAMIVO's experts analyze the possible results of abandoning the physical distribution of console games.Sliema, MALTA, July 30, 2026 (GLOBE NEWSWIRE) -- GAMIVO, a digital video game e-commerce platform, today announced the release of a new analysis examining how the gaming industry's shift away from physical game distribution could affect video game pricing and player access. The report explores the potential impact of digital-only distribution on developers, retailers, and consumers, including t",
+                "image": "https://s.yimg.com/lo/mysterio/api/A965E074084CB14E1829325C9DF330CAE7911AB417736C32E537AFA46CCC5FA7/subgraphmysterio/resizefill_w1200_h380;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobe_newswire_uk_374%2F8fd78cd728624adf19aa8d1890e89c82",
+                "url": "https://uk.finance.yahoo.com/news/gamivo-announces-analysis-impact-digital-171000002.html",
+                "source": "Yahoo Finance UK",
+                "date": "2026-07-30T17:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New DRYOUT x UAG Gear Collection Aims to Save Your Phone After a Day in the Snow",
+                "desc": "New DRYOUT x UAG Gear Collection Aims to Save Your Phone After a Day in the Snow",
+                "image": "https://www.snowsportsnews.com/media/igklhkeb/uag-x-dryout.jpg?width=1200&quality=100&v=1dd2045934f6870",
+                "url": "https://www.snowsportsnews.com/newsrepository/2026/july/new-dryout-x-uag-gear-collection-aims-to-save-your-phone-after-a-day-in-the-snow/",
+                "source": "Snow Industry News",
+                "date": "2026-07-30T17:07:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rebecca Taylor Is Back: Inside The Beloved Brand’s New Retail Era From Tribeca To The Hamptons",
+                "desc": "Rebecca Taylor is making a comeback with a new direct-to-consumer strategy, a Tribeca boutique, and a Hamptons pop-up as Y2K fashion surges again.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a6b5f16c14324f8de9bdb73/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/amandalauren/2026/07/30/rebecca-taylor-is-back-inside-the-beloved-brands-new-retail-era-from-tribeca-to-the-hamptons/",
+                "source": "Forbes",
+                "date": "2026-07-30T17:06:18Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pokémon Go’s Legacy At 10 Years Is, Well, Complicated",
                 "desc": "The AR phenomenon took over the world 10 years ago, and it’s been a bumpy ride ever since",
@@ -1174,99 +1264,99 @@
                 "source": "AUTOMATON",
                 "date": "2026-07-30T04:53:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung posts first-ever loss in its smartphone division",
-                "desc": "For obvious reasons, Samsung’s latest earnings call has seen the company report its first-ever loss in its mobile division despite...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Samsung-S26-and-Z-Fold-8-family.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/29/samsungs-smartphone-division-just-posted-its-first-ever-loss-amid-ramageddon/",
-                "source": "9to5Google",
-                "date": "2026-07-30T03:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Honor Files Fourth IPO Tutelage Progress Report With Citic Securities",
-                "desc": "Honor Files Fourth IPO Tutelage Progress Report With Citic Securities",
-                "image": "https://images.tmtpost.com/uploads/images/2026/07/3dc4597ff04306987f407e9c6f6c16c0_1785381067.jpg?imageMogr2/strip/interlace/1/quality/85/thumbnail/506x342/gravity/center/crop/!506x342&ext=.jpg",
-                "url": "https://en.tmtpost.com/news/8084928",
-                "source": "en.tmtpost.com",
-                "date": "2026-07-30T03:13:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Honor X6e arrives with a 7,500 mAh battery",
-                "desc": "It's the latest addition to the ever-expanding Honor X6 series. Honor has just added a new device to the increasingly crowded X6 lineup, which already...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/honor-x6e-official/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/honor_x6e_arrives_with_a_7500_mah_battery-news-73927.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-30T03:11:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Battlefield 6 Maps: Every Release Date From Launch to Season 4's Wake Island",
-                "desc": "From nine launch maps on Oct. 10 to Wake Island's Aug. 18 return, here's the full Battlefield 6 map timeline across four seasons.",
-                "image": "https://www.shanethegamer.com/wp-content/uploads/2026/07/stg-battlefield-6-86340.jpg",
-                "url": "https://www.shanethegamer.com/video-gaming/battlefield-6-maps-every-release-date-from-launch-to-season-4s-wake-island/",
-                "source": "Shane the Gamer",
-                "date": "2026-07-30T03:09:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ispace-EUROPE Wins €65 Million Contract From The European Space Agency",
-                "desc": "ispace-EUROPE has received a €65 million contract from the European Space Agency to complete the development, launch and operation of MAGPIE, Europe’s first lunar rover designed to explore polar ice.",
-                "image": "https://cdn.pulse2.com/cdn/2026/07/ispace-EUROPE-Logo.jpeg",
-                "url": "https://pulse2.com/ispace-europe-wins-e65-million-contract-from-the-european-space-agency/",
-                "source": "Pulse 2.0",
-                "date": "2026-07-30T03:07:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to change your Home address in Maps on iPhone",
-                "desc": "Changing your home's address on Apple Maps can be almost as stressful as moving home in real life, but there's one sure-fire way to get the job done without pulling your hair out.",
-                "image": "https://photos5.appleinsider.com/gallery/61508-127051-Apple-Maps-library-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/30/how-to-change-your-home-address-in-maps-on-iphone",
-                "source": "AppleInsider",
-                "date": "2026-07-30T03:04:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ASUS Rolls Out School-Ready Deals with Protection, Bundles, and Cashback Through September 15",
-                "desc": "ASUS is extending its “No. 1 Quality, School-Ready Deals” campaign in the Philippines, giving students, professionals, and tech enthusiasts a set of",
-                "image": "https://www.gadgetpilipinas.net/wp-content/uploads/2026/07/1-ASUS-No.-1-Quality-School-Ready-Deals-Until-September-15-2026.jpg",
-                "url": "https://www.gadgetpilipinas.net/2026/07/asus-school-ready-deals-ph/",
-                "source": "Gadget Pilipinas",
-                "date": "2026-07-30T02:52:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Adds Natural-Language Voice Controls To Gemini App For macOS",
-                "desc": "Google has introduced new voice capabilities for the Gemini app on macOS, allowing users to dictate, edit and summarize content directly within the applications where they are working.",
-                "image": "https://cdn.pulse2.com/cdn/2026/06/Google-Logo.jpg",
-                "url": "https://pulse2.com/google-adds-natural-language-voice-controls-to-gemini-app-for-macos/",
-                "source": "Pulse 2.0",
-                "date": "2026-07-30T02:50:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Moza Racing reveals Kiwi pricing for latest additions to its sim range",
-                "desc": "In tandem with the news that it is partnering with Gran Turismo to bring its range of racing sim equipment to PS5 users, Moza Racing has also intro...",
-                "image": "https://www.drivencarguide.co.nz/media/wmvogg3r/moza-racing-001.jpg?v=1dd1f5e4d4a8860",
-                "url": "https://www.drivencarguide.co.nz/news/moza-racing-reveals-kiwi-pricing-for-latest-additions-to-its-sim-range/",
-                "source": "Driven Car Guide",
-                "date": "2026-07-30T02:36:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pixel 11 price increases confirmed",
-                "desc": "Google confirms Pixel 11 price increases due to soaring memory chip costs, impacting the entire Pixel lineup and Pixel Watch 5.",
-                "image": "https://cassette.sphdigital.com.sg/image/hardwarezone/e13b0b9d293d357e4195fce46e1567b3cbfeea57b1ddc4529f2e32c99692b70a",
-                "url": "https://www.hardwarezone.com.sg/mobile/google-confirms-pixel-11-price-hike",
-                "source": "HardwareZone Singapore",
-                "date": "2026-07-30T02:34:13Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Thousands break through border separating Spain's Ceuta from Morocco",
+                "desc": "Video footage showed crowds of people, mainly Moroccans, walking around the breakwaters at Tarajal beach onto local roads.",
+                "image": "https://dims.apnews.com/dims4/default/47b6046/2147483647/strip/true/crop/4634x3088+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F39%2F15%2F777426dc516ec86933083e2b42ba%2Facd63642a6454a0f97d231244c71410b",
+                "url": "https://apnews.com/article/spain-ceuta-tarajal-morocco-migrants-5c864e5f951e2a7cf7a3eac417668e97",
+                "source": "AP News",
+                "date": "2026-07-30T17:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ocean oxygen deficiency could accelerate global warming and deprive world of fish",
+                "desc": "Global warming not only reduces oxygen levels in the ocean but also has the potential to trigger a chain reaction that will accelerate the accumulation of greenhouse gases, disrupt the cycles of essential chemical elements and threaten global fisheries. Such was the conclusion reached by an international team of scientists led by researchers from the",
+                "image": "https://globalenergyprize.org/en/wp-content/uploads/2023/06/cropped-glen_fav-32x32.png",
+                "url": "https://globalenergyprize.org/en/2026/07/30/ocean-oxygen-deficiency-could-accelerate-global-warming-and-deprive-world-of-fish/",
+                "source": "globalenergyprize.org",
+                "date": "2026-07-30T17:14:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU’s new carbon tax on fuel to exacerbate inequality between urban and rural areas",
+                "desc": "From 2028 onward, motor fuel prices in the European Union will rise due to the introduction of the Emissions Trading System (ETS 2). Gasoline and diesel suppliers will purchase greenhouse gas emission quotas, with additional costs expected to be partially passed on to consumers. Researchers from the University of Turin in Italy have found that",
+                "image": "https://globalenergyprize.org/en/wp-content/uploads/2023/06/cropped-glen_fav-32x32.png",
+                "url": "https://globalenergyprize.org/en/2026/07/30/eus-new-carbon-tax-on-fuel-to-exacerbate-inequality-between-urban-and-rural-areas/",
+                "source": "globalenergyprize.org",
+                "date": "2026-07-30T17:14:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "One body recovered after Khoi Nguyen 18 maritime accident",
+                "desc": "One body recovered after Khoi Nguyen 18 maritime accident",
+                "image": "https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2026/7/31/one-body-recovered-after-khoi-nguyen-18-maritime-accident-e1a44579f01142c8bb4680f03559eaae-25.jpg?width=0&s=aXKYWVWD89l9y8hkQcATKg",
+                "url": "https://vietnamnet.vn/en/one-body-recovered-after-khoi-nguyen-18-maritime-accident-2540722.html",
+                "source": "Báo VietNamNet",
+                "date": "2026-07-30T17:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Matatu operators reject plans to empower NTSA to regulate fares",
+                "desc": "Matatu operators have rejected plans by Parliament to empower National Transport and Safety Authority (NTSA) to set minimum and maximum public transport fares.",
+                "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/w7mqTZQyv7L8dindNO5dVjGNrYDfNpDz5dXBx8yP.jpg",
+                "url": "https://www.standardmedia.co.ke/counties/article/2001554176/matatu-operators-reject-plans-to-empower-ntsa-to-regulate-fares",
+                "source": "standardmedia.co.ke",
+                "date": "2026-07-30T17:11:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa's Marketing Leaders to converge in Zambia as AI and trade rules reshape the industry",
+                "desc": "As artificial intelligence, digital trade and the African Continental Free Trade Area reshape how African businesses build brands and compete, the...",
+                "image": "http://www.businessghana.com/site/img/../../cms/img/news/2026-07-30-17063501.jpg",
+                "url": "http://www.businessghana.com/site/news/business/353140/Marketing-leaders-convene-in-Zambia",
+                "source": "BusinessGhana",
+                "date": "2026-07-30T17:10:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Southeast Asia’s cyber-fraud industry expands globally, costing billions",
+                "desc": "The UNODC reports that the failure of law enforcement to keep pace with criminal innovations has led to estimated costs of $88 billion to $114 billion for the region in 2025.",
+                "image": "https://files.cyberriskalliance.com/wp-content/uploads/2024/03/030724_cybercrime.jpg",
+                "url": "https://www.scworld.com/brief/southeast-asias-cyber-fraud-industry-expands-globally-costing-billions",
+                "source": "SC Media",
+                "date": "2026-07-30T17:10:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa's Marketing Leaders to converge in Zambia as AI and trade rules reshape the industry",
+                "desc": "As artificial intelligence, digital trade and the African Continental Free Trade Area reshape how African businesses build brands and compete, the...",
+                "image": "http://www.businessghana.com/site/img/../../cms/img/news/2026-07-30-17063501.jpg",
+                "url": "http://www.businessghana.com/site/news/business/353140/Africa&",
+                "source": "BusinessGhana",
+                "date": "2026-07-30T17:10:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Annual student city ranking underlines continued ascent of Asian destinations",
+                "desc": "The most attractive cities for students to study in are in Asia, Europe, and Australia, according to the 2027 edition of QS Best Student Cities. To arrive at the ranking, QS looks at factors includin",
+                "image": "https://cdn.monitor.icef.com/wp-content/uploads/2026/07/timothee-gidenne-AwlLYexpQhE-unsplash-1200.jpg",
+                "url": "https://monitor.icef.com/2026/07/annual-student-city-ranking-underlines-continued-ascent-of-asian-destinations/",
+                "source": "ICEF Monitor",
+                "date": "2026-07-30T17:09:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Does Saudi Nuclear Deal Signal a New US Middle East Strategy?",
+                "desc": "On July 22, amid the ongoing war against Iran, U.S. and Saudi energy ministers announced a landmark peaceful nuclear cooperation agreement - a 123 Agreement negotiated intermittently over nearly two decades. Riyadh has long been eager to construct its own civilian nuclear power infrastructure. The motivation behind this ambition is twofold. Economically, Saudi Arabia (KSA) needs to diversify its energy mix, conserving oil reserves while establishing a fresh asset to position itself as a...",
+                "image": "https://caspianpost.com/storage/photos/thumbs/aspect/wUfCQJwLivqddendU5U7ylGfjSAvm1gczIeRgmRR.webp",
+                "url": "https://caspianpost.com/analytics/does-saudi-nuclear-deal-signal-a-new-us-middle-east-strategy",
+                "source": "Caspian Post",
+                "date": "2026-07-30T17:00:56Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Russia’s history of disregarding the sovereignty and territorial integrity of its neighbours: UK statement to the OSCE",
                 "desc": "Ambassador Holland argued that Russia’s war against Ukraine reflects a long-standing pattern of challenging the sovereignty and territorial integrity of neighbouring states.",
@@ -1806,98 +1896,8 @@
                 "source": "ecofinagency.com",
                 "date": "2026-07-30T04:55:46Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "U.N. says human trafficking into Asian scam centers is surging",
-                "desc": "The U.N. migration agency says people from more than 80 countries have been lured ‌in ‌through social media, with some being sexually abused.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/30/554495.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/news/2026/07/30/asia-pacific/crime-legal/un-human-trafficking-asia-scam-centers/",
-                "source": "The Japan Times",
-                "date": "2026-07-30T03:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
-                "desc": "The former top US health official invoked the amendment as Republicans questioned him over COVID-19.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6a6ea785ba-1785360039.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/30/why-did-anthony-fauci-invoke-the-fifth-amendment-senate-hearing-explained",
-                "source": "Al Jazeera",
-                "date": "2026-07-30T03:11:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Deadzoning': the travel trend everyone's talking about",
-                "desc": "Escape the digital grind with \"deadzoning\", the 2026 travel trend. See how choosing remote destinations can reclaim your holiday joy and reset your mind.",
-                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/130854433/7849bfce-585d-44bb-8ef2-f7b74c57ebe1.jpg/r0_663_3806_2661_w1200_h630_fmax.jpg",
-                "url": "https://www.canberratimes.com.au/story/9319003/deadzoning-the-travel-trend-everyones-talking-about/",
-                "source": "The Canberra Times",
-                "date": "2026-07-30T03:09:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
-                "desc": "Telegram told the BBC it rejects the allegations and will contest them in court.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cb1a/live/c8c335c0-f81a-11f0-8652-4de4e28f2840.jpg",
-                "url": "https://www.bbc.com/news/articles/crmrv4pnexmo",
-                "source": "BBC",
-                "date": "2026-07-30T03:03:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ANC proposes African migration plan to stop violence",
-                "desc": "The party is seeking a continental migration framework amid diplomatic fallout",
-                "image": "https://www.timeslive.co.za/resizer/v2/CZARC7ABF5ISHP7LFMGG7GWBOQ.jpg?smart=true&auth=860f858302b6a199993073dc8f824143e8363faf865b32dd7a60b75477184253&width=1200&height=630",
-                "url": "https://www.timeslive.co.za/politics/2026-07-30-anc-proposes-african-migration-plan-to-stop-violence/",
-                "source": "TimesLIVE",
-                "date": "2026-07-30T03:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ANC seeks AU migration compact",
-                "desc": "The party has proposed a continental migration framework amid a diplomatic fallout",
-                "image": "https://www.businessday.co.za/resizer/v2/CZARC7ABF5ISHP7LFMGG7GWBOQ.jpg?smart=true&auth=860f858302b6a199993073dc8f824143e8363faf865b32dd7a60b75477184253&width=1200&height=630",
-                "url": "https://www.businessday.co.za/politics/2026-07-30-anc-seeks-au-migration-compact/",
-                "source": "Business Day",
-                "date": "2026-07-30T03:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ten APAC Markets Mark UM Impact Day With Local Community Projects",
-                "desc": "UM's APAC offices extended Global Impact Day into month-long community initiatives across ten markets, from animal welfare in Thailand to elderly care in India.",
-                "image": "https://www.brandinginasia.com/wp-content/uploads/2026/07/UM-Philippines-2.webp",
-                "url": "https://www.brandinginasia.com/ten-apac-markets-mark-um-impact-day-with-local-community-projects/",
-                "source": "Branding in Asia",
-                "date": "2026-07-30T03:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Search continues for 6 missing people in Lau",
-                "desc": "Search continues for 6 missing people in Lau",
-                "image": "https://www.fijivillage.com/news_images/20260730174345_media_6a6ac9fb8c3ed7_43276580.jpg",
-                "url": "https://www.fijivillage.com/r/search-continues-for-missing-persons-in-lau-b1a54b/",
-                "source": "fijivillage.com",
-                "date": "2026-07-30T02:57:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore fines French teen for iJooz vending machine straw-licking stunt",
-                "desc": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcf7/live/fa355690-8bbf-11f1-842d-097f342ad5c4.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko",
-                "source": "BBC",
-                "date": "2026-07-30T02:54:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore fines French teen for iJooz vending machine straw",
-                "desc": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bcf7/live/fa355690-8bbf-11f1-842d-097f342ad5c4.jpg",
-                "url": "https://www.bbc.com/news/articles/crrvqjw8epko",
-                "source": "bbc.com",
-                "date": "2026-07-30T02:54:54Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-31T01:17:23.997682Z"
+    "lastGlobalSync": "2026-07-31T05:18:07.391226Z"
 }
