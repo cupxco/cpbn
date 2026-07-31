@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Amazon Ad Sales Up 26%, Q2 Profit Hits $62.6 Billion With Anthropic",
+                "desc": "Amazon reported its second-quarter 2026 earnings Thursday, revealing it beat Wall Street's estimates with more than $200 billion in revenue.",
+                "image": "https://variety.com/wp-content/uploads/2025/10/Amazon.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/digital/news/amazon-ad-sales-q2-profit-62-billion-anthropic-1236824567/",
+                "source": "variety.com",
+                "date": "2026-07-30T20:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AWS earnings Q2 2026",
+                "desc": "Amazon Web Services announced new business with Meta and OpenAI in the quarter.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108342668-1785435676725-gettyimages-2270256909-myv05142_syl2orpg.jpeg?v=1785437725&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/30/aws-earnings-q2-2026.html",
+                "source": "CNBC",
+                "date": "2026-07-30T20:19:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chipotle CEO says chain making ‘meaningful progress’ on affordability",
+                "desc": "Chipotle’s CEO Scott Boatwright said the chain’s affordability scores reached their highest level in years as customers reported stronger perceptions of value.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/08/0/0/Chipotle-2.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/retail/chipotle-ceo-says-chain-making-meaningful-progress-major-customer-concern",
+                "source": "Fox Business",
+                "date": "2026-07-30T20:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Corvus Pharmaceuticals to Provide Business Update and Second Quarter 2026 Financial Results on August 6, 2026",
+                "desc": "Company to host conference call and webcast at 4:30 pm ET / 1:30 pm PT",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/31/1158574.jpg",
+                "url": "https://www.manilatimes.net/2026/07/31/tmt-newswire/globenewswire/corvus-pharmaceuticals-to-provide-business-update-and-second-quarter-2026-financial-results-on-august-6-2026/2395432",
+                "source": "The Manila Times",
+                "date": "2026-07-30T20:14:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mdxhealth to Release Second Quarter 2026 Financial Results on August 13",
+                "desc": "Company to Host Conference Call with Live Q&A, August 13, 2026, at 4:30pm ET / 22:30 CET",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/31/1158563.png",
+                "url": "https://www.manilatimes.net/2026/07/31/tmt-newswire/globenewswire/mdxhealth-to-release-second-quarter-2026-financial-results-on-august-13/2395426",
+                "source": "The Manila Times",
+                "date": "2026-07-30T20:13:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Helios Towers plc (HTWSF) Q2 2026 Earnings Call Transcript",
+                "desc": "Helios Towers plc (HTWSF) Q2 2026 Earnings Call July 30, 2026 4:30 AM EDTCompany ParticipantsTom Greenwood - Group Chief Executive Officer &...",
+                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+                "url": "https://seekingalpha.com/article/4928171-helios-towers-plc-htwsf-q2-2026-earnings-call-transcript",
+                "source": "Seeking Alpha",
+                "date": "2026-07-30T20:13:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FDA Grants Priority Review to RYBREVANT FASPRO After Promising 42% Response in Head and Neck Cancer",
+                "desc": "FDA grants Priority Review to RYBREVANT FASPRO for recurrent or metastatic head and neck cancer, supported by promising OrigAMI-4 results.",
+                "image": "https://oncodaily.com/pub/uploads/2026/07/RYBREVANT-FASPRO-OncoDaily-1.webp",
+                "url": "https://oncodaily.com/fda-approvals/rybrevant-faspro-fda-2026",
+                "source": "Oncodaily",
+                "date": "2026-07-30T20:13:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fastest charging EV batteries beat BYD Blade 2 times to near fueling a gas tank",
+                "desc": "The incredibly short charging times of BYD's already commercialized Blade 2 battery are being challenged left and right. The goal now is to achieve not just a 10-80% but a full charge in the time it takes to fuel a gas vehicle.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Hongqui-E-HS9.jpg",
+                "url": "https://www.notebookcheck.net/Fastest-charging-EV-batteries-beat-BYD-Blade-2-times-to-near-fueling-a-gas-tank.1356227.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-07-30T20:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX Is Down Nearly 50% From Its All-Time High -- That's Great News for Long-Term Investors",
+                "desc": "The more this stock deflates, the better the long-term potential becomes.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872237%2Fstock-arrow-down-red.jpeg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/07/30/spacex-is-down-50-thats-great-news-for-long-term/",
+                "source": "The Motley Fool",
+                "date": "2026-07-30T20:11:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ingram Micro Reports Record Q2 2026 Results Exceeding the High End of Guidance Across All Financial Metrics with Significant Operating Leverage",
+                "desc": "Fiscal Second Quarter 2026:\nNet sales of $14.5 billion, above high end of guidance range and up 13.6% over prior year\nGross profit of…...",
+                "image": "https://d1io3yog0oux5.cloudfront.net/_47c429515e21944f4e601951fdec1633/ingrammicro/db/2409/21719/social_image_resized.jpg",
+                "url": "https://ir.ingrammicro.com/press-releases/detail/967/ingram-micro-reports-record-q2-2026-results-exceeding-the-high-end-of-guidance-across-all-financial-metrics-with-significant-operating-leverage",
+                "source": "Ingram Micro",
+                "date": "2026-07-30T20:10:15Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Manual federated simulation for multiple sclerosis integrating XGBoost algorithm with SHAP explanation",
                 "desc": "Multiple sclerosis (MS) is a chronic autoimmune disorder of the central nervous system, underscoring the importance of early and accurate diagnosis. In this study investigates the predictive modelling of MS progression in patients with Clinically Isolated Syndrome (CIS), privacy-preserving for a federated and explainable Machine Learning (ML) framework. To address missing data while preserving inter-feature dependencies, Multivariate Imputation by Chained Equations (MICE) with iterative imputers was employed. Classification was performed using the Extreme Gradient Boosting (XGBoost) algorithm. Model interpretability was developed through Explainable Artificial Intelligence (XAI) techniques, specifically Shapley Additive Explanations (SHAP). To ensure data confidentiality and simulate decentralized clinical environments, an in silico federated learning framework was applied. Experimental results demonstrated strong predictive performance, achieving 96.7% accuracy and 99% ROC–AUC during training, 92.5% accuracy in validation, and 81.8% accuracy with an AUC of 88% on the test set. For the Federated Learning (FL) simulation, the model maintained competitive performance, yielding an accuracy of 76.3% and an AUC of 83.9%. The proposed approach supports early diagnosis, enhances clinical trust through interpretability, and promotes secure data collaboration, thereby contributing to more informed and transparent clinical decision-making and improved patient care.",
                 "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
@@ -542,99 +632,99 @@
                 "source": "CNBC",
                 "date": "2026-07-30T06:56:06Z",
                 "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Oil prices slip and Asian shares are mostly lower as investors sell chipmaker stocks",
-                "desc": "Oil prices have fallen and Asian shares are mostly trading lower | KYW Newsradio",
-                "image": "https://www.audacy.com/media-library/south-korea-financial-markets.jpg?id=67554766&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
-                "url": "https://www.audacy.com/kywnewsradio/news/business/stock-markets-rates-korea-ai-oil-99b5702d93a2b5c6e513fb952ccdcc92",
-                "source": "Audacy",
-                "date": "2026-07-30T05:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is it safe to extend its lifespan?",
-                "desc": "Hartlepool power station has been operating for 43 years, whereas its initial lifespan was 25 years.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/263e/live/c98db0c0-876c-11f1-b430-afa19a42b819.jpg",
-                "url": "https://www.bbc.com/news/articles/cp87y14r11do",
-                "source": "BBC",
-                "date": "2026-07-30T05:08:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hanoi welcomes over 21 million visitors in first seven months",
-                "desc": "Hanoi has welcomed more than 21.16 million visitors in the first seven months of 2026, up 15% year-on-year, according to the municipal Department of Tourism.",
-                "image": "https://vietnam.vnanet.vn/english/tin-tuc/images/vnp.jpg",
-                "url": "https://vietnam.vnanet.vn/english/tin-tuc/hanoi-welcomes-over-21-million-visitors-in-first-seven-months-459467.html",
-                "source": "vietnam.vnanet.vn",
-                "date": "2026-07-30T05:08:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Loving your body in a world where weight stigma helps sell GLP",
-                "desc": "Body acceptance in a era when social media is awash with before-and-after weight-loss content and aggressive marketing from companies selling GLP-1 drugs can be hard. But these experts have some tips.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/91ab655a487c041cb26af95a2c64c2f6?impolicy=wcms_watermark_news&cropH=936&cropW=1664&xPos=0&yPos=100&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-30/loving-your-body-in-the-ozempic-era-of-weight-loss/106971060",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-30T05:07:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I stop the car on Shrewsbury Road and wonder: ‘Who can afford to live in houses like these?’",
-                "desc": "If Shrewsbury Road residents have a neighbourhood WhatsApp, what do they text about?",
-                "image": "https://www.irishtimes.com/resizer/v2/6RHT33M75JE5FFDM3C2EPUYAHE.JPG?smart=true&auth=5dc9ee5f15f374851554b6765f0a35b50e7594aaaad94d3717235f307c7fb636&width=1200&height=630",
-                "url": "https://www.irishtimes.com/life-style/people/2026/07/30/i-stop-the-car-on-shrewsbury-road-and-wonder-who-can-afford-to-live-in-houses-like-these/",
-                "source": "The Irish Times",
-                "date": "2026-07-30T05:06:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft Corp (MSFT) (Q4 2026) Earnings Call Highlights: Record Revenue Surpasses $331 ...",
-                "desc": "Microsoft Corp (MSFT) delivered a record fiscal year with Azure revenue surpassing $100 billion, while AI-driven demand continues to outpace capacity.",
-                "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corp-msft-q4-2026-050436699.html",
-                "source": "Yahoo Finance",
-                "date": "2026-07-30T05:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TfL must control driverless taxi trials, says London Assembly",
-                "desc": "Caroline Russell says driverless taxi regulation needs to be passed to Transport for London (TfL).",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c14/live/618a7480-89ac-11f1-803f-770138b0c57a.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c2elw93e9xmo",
-                "source": "BBC",
-                "date": "2026-07-30T05:03:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TfL must control driverless taxi trials, says London Assembly",
-                "desc": "Caroline Russell says driverless taxi regulation needs to be passed to Transport for London (TfL).",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3c14/live/618a7480-89ac-11f1-803f-770138b0c57a.jpg",
-                "url": "https://www.bbc.com/news/articles/c2elw93e9xmo",
-                "source": "BBC",
-                "date": "2026-07-30T05:03:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "’Magical material’: How Europe’s drought-struck islands could soon harvest water from dry air",
-                "desc": "Europe’s tourist islands are facing severe water stress. Is tech that harvests water from dry air a solution?",
-                "image": "https://images.euronews.com/articles/stories/09/85/51/42/1200x675_cmsv2_89769a29-e37a-5f63-b207-ba69899f927c-9855142.jpg",
-                "url": "https://www.euronews.com/2026/07/30/magical-material-how-europes-drought-struck-islands-could-soon-harvest-water-from-dry-air",
-                "source": "Euronews",
-                "date": "2026-07-30T05:02:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Security heightened at Vico Baths after ‘unacceptable behaviour’ towards contractors",
-                "desc": "Repair works at popular south Dublin swimming spot have stalled, with council no longer able to provide completion date",
-                "image": "https://www.irishtimes.com/resizer/v2/JZWTBL4PNBE7RPPUO2D575HOSA.JPG?smart=true&auth=f89f0d0e57d05efbd4a93c12a84e02e375d2a536ada980d892f707ff56a5ad25&width=1200&height=630",
-                "url": "https://www.irishtimes.com/ireland/dublin/2026/07/30/security-heightened-at-vico-baths-after-unacceptable-behaviour-towards-contractors/",
-                "source": "The Irish Times",
-                "date": "2026-07-30T05:02:22Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Skullcandy Crusher 1080 ANC Review: A Huge Boost From Bose",
+                "desc": "The Crusher 1080 ANC are a solid pair of wireless headphones with lots of help from Bose, but might not be the best value in this price range.",
+                "image": "https://gizmodo.com/app/uploads/2026/07/Skullcandy-Crusher-1080-ANC-review-1-1200x675.jpg",
+                "url": "https://gizmodo.com/skullcandy-crusher-1080-anc-review-a-huge-boost-from-bose-2000792027",
+                "source": "Gizmodo",
+                "date": "2026-07-30T20:20:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Your 4K Blu-ray player has an underrated feature that you aren't using",
+                "desc": "4K Blu-ray players can do more than play movies.",
+                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/06/blu-ray-disc.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.pocket-lint.com/4k-blu-ray-player-cd/",
+                "source": "Pocket-lint",
+                "date": "2026-07-30T20:15:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "dNovo Group Named One of Canada's Leading SEO Companies for 2026",
+                "desc": "Toronto, Ontario, July 30, 2026 (GLOBE NEWSWIRE) -- dNovo Group, a Canadian digital marketing agency specializing in SEO and AI Search Optimization, has been recognized by MobileSyrup as one of the Top SEO Companies in Canada. The newly published industry roundup highlights leading agencies helping Canadian businesses improve their online visibility as search engines and AI-powered discovery platforms continue to reshape how consumers find products and services.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/31/1158551.png",
+                "url": "https://www.manilatimes.net/2026/07/31/tmt-newswire/globenewswire/dnovo-group-named-one-of-canadas-leading-seo-companies-for-2026/2395417",
+                "source": "The Manila Times",
+                "date": "2026-07-30T20:13:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Just because a game is on disc doesn’t mean it will work in the future",
+                "desc": "DoesItPlay tracks the many \"physical\" games that don't work without the Internet.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/discburn-1152x648.jpg",
+                "url": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+                "source": "Ars Technica",
+                "date": "2026-07-30T20:12:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Snap Will Show Off Its AR Specs At A September 16 Event",
+                "desc": "The company is promising the first in-depth look at the $2,195 glasses.",
+                "image": "https://www.engadget.com/img/gallery/snap-will-show-off-its-ar-specs-at-a-september-16-event/l-intro-1785441975.jpg",
+                "url": "https://www.engadget.com/2227433/snap-ar-specs-launch-date-september-event/",
+                "source": "Engadget",
+                "date": "2026-07-30T20:12:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Small Glimpse at New Technology on Display at Cultivate’26",
+                "desc": "While there’s no way we could cover everything to be found on the Cultivate show floor, here’s a closer look at seven products that caught our attention.",
+                "image": "https://s3.amazonaws.com/files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2026/07/TTA-ISO-Flex-Filler.jpg",
+                "url": "https://www.greenhousegrower.com/technology/a-small-glimpse-at-new-technology-on-display-at-cultivate26/",
+                "source": "greenhousegrower.com",
+                "date": "2026-07-30T20:10:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I tried Android Auto offline while on a road trip, and it beats mobile data in 2 ways",
+                "desc": "A recent trip upstate revealed the benefits and limitations of running Android Auto in low- to no-signal areas.",
+                "image": "https://www.zdnet.com/a/img/resize/d0ea14e95bfa37e4e6859cdf19da773882be1938/2026/07/30/5ad3c18e-d73d-434f-86e0-650c81c38d00/20260729-075628.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.zdnet.com/article/i-tried-android-auto-offline-while-on-a-road-trip-and-it-beats-mobile-data-in-2-ways/",
+                "source": "ZDNET",
+                "date": "2026-07-30T20:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia Graphics Cards Are About to Get Even More Expensive",
+                "desc": "RAMageddon, continued.",
+                "image": "https://sm.ign.com/t/ign_pk/news/n/nvidia-gra/nvidia-graphics-cards-are-about-to-get-even-more-expensive_n3dr.1200.jpg",
+                "url": "https://pk.ign.com/nvidia-rtx-5070/258619/nvidia-graphics-cards-are-about-to-get-even-more-expensive",
+                "source": "IGN Pakistan",
+                "date": "2026-07-30T20:05:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Scientists identify fructose as a surprise driver of cancer spread",
+                "desc": "A new study from The Wistar Institute has uncovered an unexpected link between fructose—a common dietary sugar—and the spread of an aggressive form of ovarian cancer. Published in Nature Aging, the study found that cancer cells not killed by chemotherapy send signals to neighboring tumor cells, helping them become more capable of spreading.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/wistar-scientists-iden-1.jpg",
+                "url": "https://medicalxpress.com/news/2026-07-scientists-fructose-driver-cancer.html",
+                "source": "Medical Xpress",
+                "date": "2026-07-30T20:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Men 50 years and older seem to have insufficient knowledge toward benign prostatic hyperplasia",
+                "desc": "Men aged 50 years and older demonstrate insufficient knowledge, a positive attitude and proactive practices regarding benign prostatic hyperplasia (BPH), according to a study published online July 17 in Neurourology and Urodynamics.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/men-50-years-and-older.jpg",
+                "url": "https://medicalxpress.com/news/2026-07-men-years-older-insufficient-knowledge.html",
+                "source": "Medical Xpress",
+                "date": "2026-07-30T20:00:03Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Friend’s AI pendant returns with a speaker, at double the price",
                 "desc": "Friend relaunched its AI-companion pendant with a speaker that talks back, at double the price ($249). The privacy objections have not changed.",
@@ -1174,99 +1264,99 @@
                 "source": "Android Authority",
                 "date": "2026-07-30T06:50:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "WhatsApp rings in the changes with a major upgrade coming to all UK users",
-                "desc": "WhatsApp is bringing a big update to UK phones and here's everything that's new.",
-                "image": "https://i2-prod.mirror.co.uk/article35208791.ece/ALTERNATES/s1200d/1_Whatsapp-alert.jpg",
-                "url": "https://www.mirror.co.uk/tech/whatsapp-call-chat-update-uk-37493091",
-                "source": "The Mirror",
-                "date": "2026-07-30T05:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Khadas Mind Panther Lake Mini PC Price Skyrockets Due To RAMpocalypse",
-                "desc": "Khadas recently unveiled its Mind Pro mini PC, powered by Intel's Panther Lake CPUs, alongside its modular eGPU solution, which is powered by the NVIDIA GeForce RTX 5060 Ti, but the brand has recently announced that the ongoing hardware shortages caused by the AI boom have resulted in the brand...",
-                "image": "https://www.techpowerup.com/img/KfZEB2shE3kc9f9i.jpg",
-                "url": "https://www.techpowerup.com/347776/khadas-mind-panther-lake-mini-pc-price-skyrockets-due-to-rampocalypse",
-                "source": "TechPowerUp",
-                "date": "2026-07-30T05:08:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Extremely violating’: Tinder pauses AI photo enhancement feature",
-                "desc": "\"It was extremely violating,\" Rubin said. \"Those are not my teeth. That's not what my mouth looks like.\"",
-                "image": "https://s.yimg.com/lo/mysterio/api/8d37102af0b79d58fc02d99868da80fe0cdf50c99262a478146ff922a40ef832/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Ffcbdb3c57ba55a7534a1ecad6e1b5d18",
-                "url": "https://tech.yahoo.com/ai/deals/articles/extremely-violating-tinder-pauses-ai-050815248.html",
-                "source": "Yahoo Tech",
-                "date": "2026-07-30T05:08:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exclusive: Garmin Cirqa PM says ‘it just felt like we had all of the pieces in place’ to launch a screen-free fitness tracker",
-                "desc": "I chatted with the product manager for the Garmin Cirqa to learn more about the design process, the decision to give it a physical button, the lack of GPS, and more.",
-                "image": "https://cdn.mos.cms.futurecdn.net/sg3JXoV6C6r56Fnc9YzB6X-2560-80.jpg",
-                "url": "https://www.tomsguide.com/wellness/fitness-trackers/exclusive-garmin-cirqa-pm-says-it-just-felt-like-we-had-all-of-the-pieces-in-place-to-launch-a-screen-free-fitness-tracker",
-                "source": "Tom's Guide",
-                "date": "2026-07-30T05:07:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei Nova 16 SE Specs, Price, Launch Date and Full Comparison",
-                "desc": "Huawei Nova 16 SE leaks point to Kirin 8020, an 8,500mAh battery, Red Maple imaging and a possible August 5 launch in China.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/07/Huawei-Nova-16-SE-Specs-Price-Launch-Date-and-Full-Comparison.jpg",
-                "url": "https://memeburn.com/huawei-nova-16-se-specs/",
-                "source": "Memeburn",
-                "date": "2026-07-30T05:06:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Permission granted for new five-star hotel at Deer Park in Howth",
-                "desc": "Developer Michael McElligott lodged plans to demolish Howth hotel in 2022 but faced a legal challenge",
-                "image": "https://www.irishtimes.com/resizer/v2/4LUSFFJKU5H5NGVRXJPL3Z6USA.jpg?smart=true&auth=32969f1993c2ac29545370abb13f890b43359c98bcff8adaaa63bdad0d8b1f11&width=1200&height=630",
-                "url": "https://www.irishtimes.com/business/2026/07/30/tetrarch-gets-green-light-for-five-star-deer-park-hotel-redevelopment/",
-                "source": "The Irish Times",
-                "date": "2026-07-30T05:02:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "After A Painless Tattoo? London Startup CipherX Says It Has The Answer",
-                "desc": "The CipherX painless tattoo uses a microneedle patch to apply permanent black designs in about 15 minutes, but its 15mm canvas has limits.",
-                "image": "https://manofmany.com/wp-content/uploads/2026/07/CX-Tattoo-Applicator-CipherX-microdot-tattoo-system-10.jpg",
-                "url": "https://manofmany.com/tech/cipherx-painless-tattoo-microdot-technology",
-                "source": "Man of Many",
-                "date": "2026-07-30T05:01:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Resident Evil's Grace & Leon Will Officially Return This Halloween",
-                "desc": "Grace and Leon, the legendary protagonists of some of Resident Evil's best games, are officially returning this Halloween.",
-                "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/resident-evil-requiem-9-leon-ada-characters.jpg?w=1600&h=900&fit=crop",
-                "url": "https://screenrant.com/resident-evil-halloween-horror-nights-grace-leon-return/",
-                "source": "ScreenRant",
-                "date": "2026-07-30T05:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google's new Pixel 11 Pro teaser offers a better look at the Pixel Glow feature",
-                "desc": "The Pixel 11 lineup will be unveiled on August 12. Ahead of its Made by Google event on August 12, Google has released a new teaser for the upcoming Pixel...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-11-pro-new-teaser/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/googles_new_pixel_11_pro_teaser_offers_a_better_look_at_the_pixel_glow_feature-news-73931.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-30T05:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "style game designed to \"end your friendships\" announced for August 6 release in Japan. Gameplay details unveiled",
-                "desc": "The mysterious project by Dragon Quest creator Yuji Horii and author Muneyuki Kaneshiro has finally been fully unveiled.",
-                "image": "https://automaton-media.com/en/wp-content/uploads/2026/07/20260730-457289-header.jpg",
-                "url": "https://automaton-media.com/en/news/yuji-horii-supervised-sugoroku-style-game-designed-to-end-your-friendships-announced-for-august-6-release-in-japan-gameplay-details-unveiled/",
-                "source": "AUTOMATON",
-                "date": "2026-07-30T04:53:02Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
+                "desc": "The humanitarian toll is mounting as fighting continues in the Middle East beyond strikes and counterstrikes between the US and Iran, the UN aid coordination office OCHA warned on Thursday, with civilians increasingly at risk and essential infrastructure disrupted in several countries across the region.",
+                "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/13-07-2026_AdobeStock_Oman.jpg/image770x420cropped.jpg",
+                "url": "https://news.un.org/en/story/2026/07/1168055",
+                "source": "UN News",
+                "date": "2026-07-30T20:20:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi Arabia establishes maritime coalition backed by 13 nations to secure Red Sea",
+                "desc": "Saudi Arabia has unveiled plans for a multinational maritime defence coalition in the Red Sea. The move aims to protect shipping and energy routes as Houthi attacks disrupt regional trade.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/saudi-arabia--red-sea-30070492-16x9_0.png?VersionId=V2qNzP.e2l2hc0eS2Xo5AUotvYjU0isY",
+                "url": "https://www.indiatoday.in/world/story/saudi-arabia-establishes-maritime-coalition-backed-by-13-nations-to-secure-red-sea-amid-houthi-attacks-2960222-2026-07-31",
+                "source": "India Today",
+                "date": "2026-07-30T20:16:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia School Photos Scraped for AI-Fueled Image Misuse",
+                "desc": "Australia’s eSafety commissioner issued an advisory on July 28 urging schools to review how they share images online, citing a rise in the misuse of school photos. Between January and March 2026, the commissioner received over 100 reports concerning anonymous accounts targeting schools and school staff through misuse of images taken from official school websites and social media accounts.",
+                "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/07/202607asia_australia_children_camera.jpg?h=d07d10a6&itok=0Qeck0cm",
+                "url": "https://www.hrw.org/news/2026/07/30/australia-school-photos-scraped-for-ai-fueled-image-misuse",
+                "source": "Human Rights Watch",
+                "date": "2026-07-30T20:15:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FAI joins Uefa nations in World Cup boycott",
+                "desc": "All 55 Uefa nations have rebelled against Fifa’s plans to sell World Cup stake to private equity",
+                "image": "https://www.irishtimes.com/resizer/v2/U4BOCZHSJBCSVE2S7K72G4IEJA.jpg?smart=true&auth=fc8c07014820a2e0b828f3ef221d0285ca970e7e748f19021476b30f3d2278df&width=1200&height=630",
+                "url": "https://www.irishtimes.com/sport/soccer/2026/07/30/fai-joins-uefa-nations-in-world-cup-boycott/",
+                "source": "The Irish Times",
+                "date": "2026-07-30T20:14:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Middle eastern conflicts send home heating oil prices soaring ahead of colder months",
+                "desc": "It may be the middle of summer, but preparing for winter right now could save you hundreds of dollars.",
+                "image": "https://gray-wggb-prod.gtv-cdn.com/resizer/v2/XP5NA7J3CJFHPO4S57UXXGRNUE.png?auth=899d81583d8ea24278ced6cde44aead1dbf1145cfbbc047a34cfea248c97b249&width=1200&height=600&smart=true",
+                "url": "https://www.westernmassnews.com/2026/07/30/middle-eastern-conflicts-send-home-heating-oil-prices-soaring-ahead-colder-months/",
+                "source": "Western Mass News",
+                "date": "2026-07-30T20:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UEFA to boycott FIFA tournaments Q&A: Why they are doing, can it stop Gianni Infantino and where do other confederations stand?",
+                "desc": "Sky Sports News chief correspondent Kaveh Solhekol answers the immediate questions after UEFA announced it was boycotting FIFA tournaments; it comes after plans were revealed that would see Gianni Infantino seek external investment for a stake in the World Cup amid huge controversy",
+                "image": "https://e0.365dm.com/26/03/1600x900/skysports-uefa-logo-headquarters_7193297.jpg?20260315134758",
+                "url": "https://www.skysports.com/football/news/11095/13568527/uefa-to-boycott-fifa-tournaments-q-and-a-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand",
+                "source": "Sky Sports",
+                "date": "2026-07-30T20:12:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Montana man impales self on hiking pole, treks hours to reach hospital",
+                "desc": "The impaled climber travelled about 16 kilometres and descended roughly 5,000 feet over the course of six hours with the pole in his body.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/montana-mountains-hikig-accident-e1785425479950.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/12002715/hiker-impaled-on-hiking-pole-montana/",
+                "source": "Global News",
+                "date": "2026-07-30T20:10:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Influencer Sara Gilson's Ex-Husband Paying for Funeral After Alleged Murder-Suicide",
+                "desc": "Sara Gilson's ex-husband is covering all of her funeral expenses ... telling TMZ he spent his birthday picking out her burial plot.",
+                "image": "https://imagez.tmz.com/image/e8/16by9/2026/07/30/e838d743c582429c9ce99a266b47c8ac_xl.jpg",
+                "url": "https://www.tmz.com/2026/07/30/sara-gilsons-ex-husband-paying-for-her-funeral/",
+                "source": "TMZ",
+                "date": "2026-07-30T20:10:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mali Reaffirms Support for Morocco’s Territorial Integrity, Backs Autonomy Plan for Sahara",
+                "desc": "Bamako, July 30, GNA – The Republic of Mali has reaffirmed its support for Morocco’s territorial integrity and sovereignty over all its territory, including the Sahara region, while…",
+                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
+                "url": "https://gna.org.gh/2026/07/mali-reaffirms-support-for-moroccos-territorial-integrity-backs-autonomy-plan-for-sahara/",
+                "source": "Ghana News Agency",
+                "date": "2026-07-30T20:09:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Defining a ‘normal’ country: Japan’s long struggle between pacifism and the threats of a new era",
+                "desc": "Japan’s leader says the country needs a stronger military. This has prompted deep reflection and fierce debate about the country’s post-war legacy.",
+                "image": "https://images.theconversation.com/files/750466/original/file-20260728-57-vtz1g4.png?ixlib=rb-4.1.1&rect=0%2C50%2C1600%2C800&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/defining-a-normal-country-japans-long-struggle-between-pacifism-and-the-threats-of-a-new-era-283891",
+                "source": "The Conversation",
+                "date": "2026-07-30T20:09:11Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Thousands break through border separating Spain's Ceuta from Morocco",
                 "desc": "Video footage showed crowds of people, mainly Moroccans, walking around the breakwaters at Tarajal beach onto local roads.",
@@ -1806,98 +1896,8 @@
                 "source": "Euronews.com",
                 "date": "2026-07-30T06:55:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine says it hit a major Russian oil refinery hours after Zelensky’s meeting with Trump",
-                "desc": "Ukraine says it hit one of Russia's largest oil refineries, ramping up pressure on Moscow",
-                "image": "https://static.independent.co.uk/2026/07/28/09/2026-07-08T072304Z_1789482964_RC2Y8MAL04H9_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-OMSK.JPG?trim=0,123,0,123&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-oil-refinery-attacks-b3024267.html",
-                "source": "The Independent",
-                "date": "2026-07-30T05:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israel building new land barriers in Gaza and displacing families",
-                "desc": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d78b/live/3e5491c0-8b6a-11f1-b2ab-0dd01740f9f6.png",
-                "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o",
-                "source": "BBC",
-                "date": "2026-07-30T05:05:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Conserving tropical forests could preserve billions of dollars in pharmaceutical value from undiscovered drugs",
-                "desc": "Tropical forests hold $714bn in undiscovered drug value, but deforestation has already put $86bn of it at risk. Here's what's at stake",
-                "image": "https://zerocarbon-analytics.org/wp-content/uploads/2026/07/shutterstock_2709188703-scaled.jpg",
-                "url": "https://zerocarbon-analytics.org/nature/conserving-tropical-forests-could-preserve-billions-in-pharmaceutical-value-from-undiscovered-drugs/",
-                "source": "Zero Carbon Analytics",
-                "date": "2026-07-30T05:02:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Danube River reaches record low water levels during prolonged drought",
-                "desc": "As wildfires and successive heatwaves in France and Spain highlight climate change's impact, a severe drought is causing record low water levels on the Danube River, affecting tourism and industry.",
-                "image": "https://dims.apnews.com/dims4/default/0cbeefe/2147483647/strip/true/crop/2685x1789+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F59%2Fe2%2F59e703e62153de77ebcbf4091d79%2F941c21623afa49d0a7dc33ac519c8dd8",
-                "url": "https://apnews.com/article/danube-river-record-lows-tourism-industry-drought-05103b433efb46990d9664ba4d155834",
-                "source": "AP News",
-                "date": "2026-07-30T05:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Lenin was an enemy of humanity’: Why Kyiv wants to put Cossack chief statue in place of Soviet leader",
-                "desc": "Removal of Soviet-era statues sped up when Russia seized Crimea in 2014, and since Putin’s 2022 invasion has moved at pace as Ukrainians question their identity",
-                "image": "https://i.guim.co.uk/img/media/456e5e1677e80835d7e486abe060c07ead986bd5/775_317_5203_4163/master/5203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2434cd691667d88292dd8ef38f8b24b",
-                "url": "https://www.theguardian.com/world/2026/jul/30/ukraine-kyiv-replace-lenin-statue-with-cossack-chief-ivan-mazepa",
-                "source": "The Guardian",
-                "date": "2026-07-30T05:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
-                "desc": "Losing funds should force leaders to confront their own challenges, they said, while many voiced concerns over increasing foreign influence",
-                "image": "https://i.guim.co.uk/img/media/4dd271160dec72444f8effd07d4020694f256227/560_0_5262_4209/master/5262.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9db3e767883863f586f458314d329137",
-                "url": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
-                "source": "The Guardian",
-                "date": "2026-07-30T05:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The unlikely city that is Ukraine’s lifeline to West",
-                "desc": "Once a quiet regional centre, Rzeszów now funnels weapons, aid and visiting world leaders into wartime Ukraine",
-                "image": "https://www.irishtimes.com/resizer/v2/5ZMKIOBDMRCRBDVUMBLX6YQRAE.jpg?smart=true&auth=3e464d59727058a069dd332ba9015846709e87d9d0a0c3da8a417c87887faf46&width=1200&height=630",
-                "url": "https://www.irishtimes.com/world/europe/2026/07/30/the-unlikely-polish-city-that-is-ukraines-lifeline-to-the-west/",
-                "source": "The Irish Times",
-                "date": "2026-07-30T04:57:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Overstaying Their Welcome: The Problem of Presidential Term Limit Evasion",
-                "desc": "Around the world, power-hungry heads of state are increasingly circumventing term-limit restrictions. These efforts can have lasting consequences for a country’s democratic trajectory.",
-                "image": "https://freedomhouse.org/sites/default/files/styles/1380x450_fp_and_crop_/public/2026-07/2C5BX54.jpg?h=0eb05aff&itok=RypTXS8N",
-                "url": "https://freedomhouse.org/report/special-report/2026/overstaying-their-welcome-problem-presidential-term-limit-evasion",
-                "source": "freedomhouse.org",
-                "date": "2026-07-30T04:57:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Getting 'carried away' again? Musk's million-dollar plan to rescue Trump in mid-elections",
-                "desc": "US News: Days after Elon Musk admitted that he “got carried away” during Donald Trump’s 2024 election campaign, he is once again stepping into the US political.",
-                "image": "https://static.toiimg.com/thumb/msid-132727270,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/getting-carried-away-again-how-musks-hundreds-of-millions-of-dollars-will-rescue-trump-in-mid-elections/articleshow/132727161.cms",
-                "source": "The Times of India",
-                "date": "2026-07-30T04:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ECOWAS Confirms 2027 Eco Launch but Leaves Key Terms Unresolved",
-                "desc": "ECOWAS heads of state confirmed the launch of the Eco single currency for 2027 at their July 19 summit in Lungi, Sierra Leone.\nLeaders agreed to",
-                "image": "https://www.ecofinagency.com/media/k2/items/cache/f53b47a146882049c411f717b9f99bc9_S.jpg",
-                "url": "https://www.ecofinagency.com/insights/3007-57846-ecowas-confirms-2027-eco-launch-but-leaves-key-terms-unresolved",
-                "source": "ecofinagency.com",
-                "date": "2026-07-30T04:55:46Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-31T05:18:07.391226Z"
+    "lastGlobalSync": "2026-07-31T08:21:45.847691Z"
 }
