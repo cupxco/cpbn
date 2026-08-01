@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Datacom boss on how to beat surging AI costs, questions about local control",
+                "desc": "New Zealand needs a discussion on who owns, and profits from, data centres in our country, says Datacom group chief executive Greg Davidson. The boss of our...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/KH6OMFZNRZEAXO4RDUX2Z4NPTQ.jpg?auth=cf28667e55a4af845339483ed524f650d5ec360ff79d14562b1e3ba495e3d7da&width=1200&height=675&quality=70&focal=342%2C298&smart=false",
+                "url": "https://www.nzherald.co.nz/business/datacom-boss-on-how-to-beat-surging-ai-costs-questions-about-local-control/premium/WLZFCVGHQBFBNLOADJEGSINUGU/",
+                "source": "NZ Herald",
+                "date": "2026-07-31T17:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Major twist for new Mitsubishi Pajero: Is Mitsubishi cooking up a show-stopping surprise for the launch of the LandCruiser 300 Series and Nissan Patrol rival?",
+                "desc": "Is Mitsubishi cooking up one of the great automotive surprises with the launch of its new Pajero? Reports make that a distinct possibility, with news the brand is rushing a hybrid powertrain to market for its Triton ute.",
+                "image": "https://images.carsguide.com.au/image/upload/f_auto,fl_lossy,q_auto,t_default/v1/editorial/2026-Mitsubishi-Pajero-Render-Throttle-1490x790--1.jpg",
+                "url": "https://www.carsguide.com.au/car-news/major-twist-for-new-mitsubishi-pajero-is-mitsubishi-cooking-up-a-show-stopping-surprise",
+                "source": "CarsGuide",
+                "date": "2026-07-31T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hottest new models barred from Australia, including the 2027 Kia Telluride, Toyota Highlander and a true Subaru Outback alternative",
+                "desc": "This has been a bumper year for super-exciting models strutting the automotive world stage. With competition from China more intense than ever, legacy carmakers are leaning in big time on their unique experiences and strengths to keep consumers interested.",
+                "image": "https://images.carsguide.com.au/image/upload/f_auto,fl_lossy,q_auto,t_default/v1/editorial/2026-Kia-Telluride-SUV-silver-1490x790p-1.jpg",
+                "url": "https://www.carsguide.com.au/car-news/hottest-new-models-barred-from-australia-including-the-2027-kia-telluride-toyota",
+                "source": "CarsGuide",
+                "date": "2026-07-31T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NIST’s Cyber AI Profile is designed to move agencies from abstract frameworks to real operational choices",
+                "desc": "There is the potential for what they call, drift, over time. And that is something that it's very important for an organization to recognize,\" said Kat Megas.",
+                "image": "https://federalnewsnetwork.com/wp-content/uploads/2026/05/GettyImages-2216204017.jpg",
+                "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/07/nists-cyber-ai-profile-is-designed-to-move-agencies-from-abstract-frameworks-to-real-operational-choices/",
+                "source": "Federal News Network",
+                "date": "2026-07-31T16:58:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LESCO Cuts NEPRA Gap to Rs21bn, Losses Fall",
+                "desc": "LESCO shrinks its NEPRA financial gap to Rs21bn and beats recovery targets, cutting distribution losses to 11.86%. Read more.",
+                "image": "https://profit.pakistantoday.com.pk/wp-content/uploads/2025/01/lesco.png",
+                "url": "https://profit.pakistantoday.com.pk/2026/07/31/lesco-shrinks-nepra-financial-gap-to-rs21bn-amid-recovery-loss-reduction-gains",
+                "source": "Profit by Pakistan Today",
+                "date": "2026-07-31T16:57:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Construction, validation, and visualization tool development of a risk prediction model for prostate cancer biopsy decision-making",
+                "desc": "This study aims to establish and validate a multi-dimensional clinical indicator-based risk prediction model for prostate cancer biopsy decision-making, and to develop an associated online visualization tool. This retrospective study enrolled 718 prostate biopsy patients from three Grade-A tertiary hospitals in Wuhan, with biopsy procedures spanning from October 2021 through October 2024. The data were randomly divided into training set and validation set at a ratio of 7∶3. The training set was divided into two groups based on the presence or absence of prostate cancer. LASSO regression was used for variable selection, Logistic regression analysis was used to identify the risk factors of prostate cancer, and a nomogram prediction model was constructed based on the results. Then the receiver operating characteristic (ROC) curve was used to evaluate the discrimination of the model. The calibration curve and Hosmer-Lemeshow test were used to verify the calibration of the model. Finally, the decision curve analysis (DCA) was used to evaluate the clinical application value of the model. In addition, an online visualization tool was generated using the Shiny package from R Studio. Prostate cancer was diagnosed in 280 patients, accounting for 38.9% of the study cohort. The logistic regression analysis identified age > 65 years, prostate volume < 35 ml, PI-RADS scores > 3, free prostate specific antigen / total prostate specific antigen < 0.16, prostate-specific antigen density > 0.15, and platelet < 125 mmol/L as significant risk factors for prostate cancer (P < 0.05). The discrimination efficiency of the prediction model was verified by ROC curve, and the area under the ROC curve was 0.763 (95%CI, 0.721–0.805). In terms of calibration, the calibration curve showed that the predicted value was in good agreement with the observed value, which was confirmed by Hosmer-Lemeshow test results (χ2 = 11.553, P = 0.116). DCA further verified the clinical application value of the prediction model. Development of online visual tools can promote the clinical application of forecasting model (see the link: https://xiafuhai.shinyapps.io/dynnomapp/). This study successfully developed and validated the first multidimensional risk prediction model for prostate cancer biopsy decision-making specifically tailored for the Chinese population. The model demonstrated improved diagnostic efficacy compared with single clinical indicators. Through clinical implementation via nomogram visualization and an online interactive tool, the model exhibited moderate-to-good discrimination and calibration performance. This model provides a quantitative risk assessment tool for patients with clinically suspected prostate cancer who meet the indications for biopsy, and facilitates more accurate and targeted decision-making regarding prostate needle biopsy for both clinicians and patients.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-63337-x?error=cookies_not_supported&code=f0b62615-0acb-4515-abe6-851cec8bc2fe",
+                "source": "Nature",
+                "date": "2026-07-31T16:55:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "We Toured United's Fanciest Airbus Jet yet; See Inside the A321XLR",
+                "desc": "The Airbus A321XLR underscores United's continued push to court higher-paying travelers as demand for more comforts grows.",
+                "image": "https://i.insider.com/6a6ba56f97a2276a3423b5ce?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/united-new-airbus-jet-tour-seats-features-a321xlr-photos-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-31T16:55:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada’s Enbridge postpones plans for second phase of Mainline oil pipeline expansion",
+                "desc": "Enbridge announced Friday that it is postponing a 250 barrel per day expansion of its Mainline pipeline network used to transport Canadian crude oil to U.S. markets.",
+                "image": "https://globalnews.ca/wp-content/uploads/2019/05/enbridge-mainline-map.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/12004814/enbridge-mainline-pipeline-expansion-postponed/",
+                "source": "Global News",
+                "date": "2026-07-31T16:55:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Adam O’Neal Resigns as Washington Post Opinion Editor",
+                "desc": "Adam O’Neal inherited a mandate from the paper’s owner, Jeff Bezos, to shift toward “personal liberties and free markets.”",
+                "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31BIZ-WAPO-1-qfwt/31BIZ-WAPO-1-qfwt-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/31/business/media/washington-post-opinion-editor-resigns-after-1-year.html",
+                "source": "The New York Times",
+                "date": "2026-07-31T16:54:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Friction in how office space is used costs midsized firms up to $9M annually: Robin",
+                "desc": "Much of the friction comes from organizations using space-management tools that don’t communicate with one another, the company says in a report.",
+                "image": "https://imgproxy.divecdn.com/Amus3R4cEgIXDjaE67tJKcH7gEwtGgsl_ats5xEZ2rM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk2ODI0MjM3LmpwZw==.webp",
+                "url": "https://www.facilitiesdive.com/news/workplace-friction-costs-mid-sized-firms-up-to-9m-annually-robin/826733/",
+                "source": "Facilities Dive",
+                "date": "2026-07-31T16:54:12Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Apple shows that AI winners don't have to build the biggest models",
                 "desc": "A Fortune analysis looks at Apple's strategy of skipping the AI infrastructure arms race.",
                 "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285152295.jpg?resize=1200,600",
@@ -542,99 +632,99 @@
                 "source": "bbc.com",
                 "date": "2026-07-31T05:32:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New preferred operator chosen for New Zealand's largest farm",
-                "desc": "At 180,787 hectares, Molesworth is slightly larger than Rakiura/Stewart Island and bigger than 10 of New Zealand’s national parks.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/horse-trekking-across-the-station-could-be-on-the-agenda-for-T4Z4ABQA3ZGNHGYIDVC2PWQI2Y.jpg?auth=eef124c946a583d4d0625d280e6aa9f683d89c5666df8e69067973342a2e08df&quality=70&width=600&height=315&focal=1105%2C566",
-                "url": "https://www.1news.co.nz/2026/07/31/new-preferred-operator-chosen-for-new-zealands-largest-farm/",
-                "source": "1News",
-                "date": "2026-07-31T03:47:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "meltdown to record rebound",
-                "desc": "South Korea's stock market staged its sharpest reversal on record on Friday, capping a month of wild swings.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108273965-1772671845897-gettyimages-2258962168-AFP_94RZ49F.jpeg?v=1772671854&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/31/south-korea-kospi-samsung-sk-hynix-meltdown-record-rebound.html",
-                "source": "CNBC",
-                "date": "2026-07-31T03:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung and SK Hynix answer AI doubters with big numbers and deals",
-                "desc": "Market participants want answers to a far bigger question than last quarter’s profitability: Is the pace of AI infrastructure spending sustainable?",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/31/554757.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/business/2026/07/31/samsung-sky-hynix-ai/",
-                "source": "The Japan Times",
-                "date": "2026-07-31T03:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CNX Resources (CNX) Q2 2026 Earnings Call Transcript",
-                "desc": "Management lowered guidance but projects $90M annual carbon credit run rate starting 2027.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/earnings/call-transcripts/2026/07/30/cnx-resources-cnx-q2-2026-earnings-call-transcript/",
-                "source": "The Motley Fool",
-                "date": "2026-07-31T03:43:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BOJ keeps rates unchanged amid speculation of yen intervention",
-                "desc": "The Bank of Japan’s decision to sit tight was widely expected as the central bank just raised its policy rate from 0.75% to 1% in June.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/31/554754.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/business/2026/07/31/economy/boj-retains-benchmark-interest-rate/",
-                "source": "The Japan Times",
-                "date": "2026-07-31T03:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sticky Inflation and Strong Jobs Data Challenge Crypto’s Rate-Cut Narrative",
-                "desc": "The numbers keep refusing to cooperate with the narrative crypto traders want. The latest U.S. economic releases—weekly jobless claims at 197,000 for the week ending July 25, and June’s",
-                "image": "https://cnews24.ru/uploads/62c/62cb0bea7ffebd4972d351f2f982e384b212ed6c.jpg",
-                "url": "https://cryptonews.net/news/analytics/33227473/",
-                "source": "Cryptonews.net",
-                "date": "2026-07-31T03:36:53Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Pakistan fuel imports jump 5.76% to $16.86B in FY26",
-                "desc": "Pakistan’s petroleum imports rose 5.76% in FY26 to $16.86B as crude imports surged. Read the latest PBS data now.",
-                "image": "https://profit.pakistantoday.com.pk/uploads/oil-1784271862497-3dls3p.png",
-                "url": "https://profit.pakistantoday.com.pk/2026/07/31/pakistans-fuel-imports-rise-576percent-to-dollar1686-billion-in-fy26",
-                "source": "Profit by Pakistan Today",
-                "date": "2026-07-31T03:36:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Socket Mobile (SCKT) Q2 2026 Earnings Call Transcript",
-                "desc": "Revenue fell to $3M as retail scanning weakness pressured margins and cash.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/earnings/call-transcripts/2026/07/30/socket-mobile-sckt-q2-2026-earnings-call-transcript/",
-                "source": "The Motley Fool",
-                "date": "2026-07-31T03:36:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New owners to relaunch century-old retail icon Smiths City after going into liquidation in 2025",
-                "desc": "Iconic retailer Smiths City is making a comeback as new owners prepare to relaunch the company. The century-old retailer went into voluntary administration...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/NEFG6DZDORC5DGYUNORWNA4QU4.jpg?auth=66dc8f6f8613b3ad7d8e1efd76f0777ca2a31a93b90a3c9e42d16b03a164096c&width=1200&height=675&quality=70&focal=477%2C471&smart=false",
-                "url": "https://www.nzherald.co.nz/business/new-owners-to-relaunch-century-old-retail-icon-smiths-city-after-going-into-liquidation-in-2025/XXLOJE2SPNEKPNTQIUCCR2S5WY/",
-                "source": "NZ Herald",
-                "date": "2026-07-31T03:34:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CCC Intelligent Solutions (CCC) Q2 2026 Earnings Call Transcript",
-                "desc": "AI workflows drive $286M revenue, up 10% YoY, with subrogation automation leading growth.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/earnings/call-transcripts/2026/07/30/ccc-intelligent-solutions-ccc-q2-2026-earnings-call-transcript/",
-                "source": "The Motley Fool",
-                "date": "2026-07-31T03:34:02Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Behind the Quiver: A YouTube series on Kelowna’s Halo Efoils",
+                "desc": "The Halo Channel Trench is a board designed to handle a wide range of riding styles on the water",
+                "image": "https://kelownacapnews.com/wp-content/uploads/sites/5/2026/07/2_2129b4.jpg?w=1024",
+                "url": "https://kelownacapnews.com/2026/07/31/behind-the-quiver-a-youtube-series-on-kelownas-halo-efoils/",
+                "source": "Kelowna Capital News",
+                "date": "2026-07-31T17:01:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rumour: LEGO Astro Bot Sweetens the Deal on Leaked PS1 Set",
+                "desc": "Build a bot - Earlier in the year, a rumour was doing the rounds that LEGO and PlayStation are partnering up for an official PS1 set, apparently launching in...",
+                "image": "https://images.pushsquare.com/cc365f2a6a691/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/07/rumour-lego-astro-bot-sweetens-the-deal-on-leaked-ps1-set",
+                "source": "Push Square",
+                "date": "2026-07-31T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Africa once had an antelope that shimmered blue. Now, its story is coming to classrooms for free",
+                "desc": "A look at the first large African mammal lost to recorded extinction also arrives as a free lesson for middle and high school classrooms.",
+                "image": "https://www.thesouthafrican.com/wp-content/uploads/2026/07/Bluebuck.jpg.webp",
+                "url": "https://www.thesouthafrican.com/lifestyle/environment/south-africa-once-had-an-antelope-that-shimmered-blue-now-its-story-is-coming-to-classrooms-for-free/",
+                "source": "The South African",
+                "date": "2026-07-31T16:53:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Smaller Dynamic Island, 12GB or 9GB RAM",
+                "desc": "Apple's base model iPhone 18 is probably not going to arrive until spring 2027, but the rumor mill already has a lot to say about the device. Here's what you need to know.",
+                "image": "https://media.appleinsider.com/gallery/68394-144151-65152-136111-iPhone-17-Side-xl-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/07/31/2027-iphone-18-rumors-smaller-dynamic-island-12gb-or-9gb-ram-2nm-a20-chip",
+                "source": "appleinsider.com",
+                "date": "2026-07-31T16:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "First Googlebooks from Lenovo leak: Two sizes and 2-in-1 tablet",
+                "desc": "Ahead of the fall launch, the first set of Googlebooks from Lenovo has leaked. According to images from...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Googlebooks-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/31/googlebook-lenovo-leak/",
+                "source": "9to5Google",
+                "date": "2026-07-31T16:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Relic: First Guardian launches across PlayStation 5 and PC today with promised, continued future support",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/311619-fddc5a5e/The_Relic_Artwork.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=577edfa7bb093ea0da84a2cb6c3db1bc5377816e19b825d33c36cf652ef6755a",
+                "url": "https://www.gamespress.com/en-US/The-Relic-First-Guardian-launches-across-PlayStation-5-and-PC-today-wi",
+                "source": "Games Press",
+                "date": "2026-07-31T16:50:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wish Upon a Cat Available Now on Mobile",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2022/05/211532-a445e662/logo_490.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=807a89f2a7a8c777676f07fe6436db5deb6d174d9ee027c0f1de160d781a4ec3",
+                "url": "https://www.gamespress.com/en-GB/Wish-Upon-a-Cat-Available-Now-on-Mobile",
+                "source": "Games Press",
+                "date": "2026-07-31T16:50:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gamers, You Can Pick Up an Epos Wireless Headset or External Sound Card for Just $20",
+                "desc": "If you spend a little time figuring out coupons you can save big on this gaming headset.",
+                "image": "https://www.cnet.com/wp-content/uploads/sites/2/Epos-gaming-accessories.jpg",
+                "url": "https://www.cnet.com/deals/epos-gaming-accessories-deal-07-31-26/",
+                "source": "CNET",
+                "date": "2026-07-31T16:49:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+                "desc": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+                "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+                "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+                "source": "TechCrunch",
+                "date": "2026-07-31T16:49:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LG's defense of installing adware on Windows 11 proves the company is hopeless",
+                "desc": "LG stopped shoving McAfee ads onto Windows 11 PCs after Microsoft stepped in, but its official response proves the company still doesn't get the problem.",
+                "image": "https://cdn.mos.cms.futurecdn.net/4Z5ShVi65GVNstHKKdbzfS-2048-80.jpg",
+                "url": "https://www.windowscentral.com/hardware/lg/lgs-defense-of-installing-adware-on-windows-11-proves-the-company-is-hopeless",
+                "source": "Windows Central",
+                "date": "2026-07-31T16:47:44Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "A Deal to Watch Out For: Take 20% Off the Google Pixel Watch 4",
                 "desc": "Want a smartwatch that can keep track of your time and health? The Pixel Google Pixel Watch 4 fits that bill, and you can now get it for $100 off today.",
@@ -1174,99 +1264,99 @@
                 "source": "Storyboard18",
                 "date": "2026-07-31T05:26:16Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "\"Poko a Pokémon\" Free Update Coming August 5! Players can learn the new move \"Dive,\" and the summer in",
-                "desc": "The Pokémon Company will release a free update for the city-building game \"Poko a Pokémon\" for the Nintendo Switch 2 on Thursday, August 5, 2026. Deta...",
-                "image": "https://i0.wp.com/uploads.saigacdn.com/2026/07/pocoapokemon-update-ver2-announcement-00.jpg?resize=1200,630",
-                "url": "https://saiganak.com/news/pokemon-pokopia-update-ver2-announcement/",
-                "source": "Saiga NAK",
-                "date": "2026-07-31T03:48:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro Max: Launch date, design, display and everything that has leaked till date",
-                "desc": "Apple's iPhone 18 Pro Max is tipped to bring a 2nm chip, variable aperture camera, bigger battery, new colours and higher pricing, though the company has not confirmed these details.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260419051501_iPhone-18-Pro-colour-options.png",
-                "url": "https://www.moneycontrol.com/technology/iphone-18-pro-max-launch-date-design-display-and-everything-that-has-leaked-till-date-article-13989694.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-07-31T03:48:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Make a Splash in Sponge Break Now Available on Steam",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/es/Make-a-Splash-in-Sponge-Break-Now-Available-on-Steam",
-                "source": "Games Press",
-                "date": "2026-07-31T03:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Cookie Run: Crumble', First Idle Game in the IP, Hits No. 1 in Popularity and No. 3 in Revenue on App Store",
-                "desc": "Devsisters' new title, 'Cookie Run: Crumble', climbed to the top of the domestic App Store charts on its launch day. ©Devsisters'Cookie Run: Crumble' reached No. 1 on the domestic Apple App Store's free game popularity chart on the 30th.",
-                "image": "https://static.invenglobal.com/upload/image/2026/07/31/r1785469224447271.jpeg",
-                "url": "https://www.invenglobal.com/articles/24330/cookie-run-crumble-first-idle-game-in-the-ip-hits-no-1-in-popularity-and-no-3-in-revenue-on-app-store",
-                "source": "Inven Global",
-                "date": "2026-07-31T03:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Meta’s AI glass puts civilian privacy at risk | Explained",
-                "desc": "These glasses see what you see, and the AI responds to what you ask. In the case of Meta’s smart glasses, the AI understands the context as well as identifies objects, landmarks, and publicly available information.",
-                "image": "https://th-i.thgim.com/public/sci-tech/technology/hk7g67/article71288916.ece/alternates/LANDSCAPE_1200/AI%20glasses%20Meta.jpg",
-                "url": "https://www.thehindu.com/sci-tech/technology/how-metas-ai-glass-puts-civilian-privacy-at-risk-explained/article71288928.ece",
-                "source": "The Hindu",
-                "date": "2026-07-31T03:44:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xiaomi 18 and Xiaomi 18 Pro Max certification hints at both of them going global",
-                "desc": "This is good news if you've been craving the rear screen. A few days ago a rumor claimed Xiaomi would be launching the 18 Pro in global markets, unlike its...",
-                "image": "https://st.gsmarena.com/imgroot/news/26/07/xiaomi-18-xiaomi-18-pro-max-certification/-952x498w6/gsmarena_000.jpg",
-                "url": "https://m.gsmarena.com/xiaomi_18_and_xiaomi_18_pro_max_certification_hints_at_both_of_them_going_global-news-73942.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-31T03:43:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple AI compute costs will be covered by iCloud+ subscriptions",
-                "desc": "Monetizing AI is a tricky business and it seems Apple's only plans so far are tying daily usage limits to users' iCloud+ subscription tier, but whether or not that'll be enough isn't yet known.",
-                "image": "https://media.appleinsider.com/gallery/68417-144180-iPadOS-27-Siri-AI-search-Spotlight-xl.jpg",
-                "url": "https://appleinsider.com/articles/26/07/31/apple-ai-compute-costs-will-be-covered-by-icloud-subscriptions-for-now",
-                "source": "appleinsider.com",
-                "date": "2026-07-31T03:42:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents",
-                "desc": "Perplexity's open-source Numbat watches AI coding agents on endpoints, adding detection and opt-in blocking after OpenAI's models breached Hugging Face.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a6c1834bb103e2eeb71b9d1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/janakirammsv/2026/07/30/perplexity-open-sources-numbat-to-monitor-risky-ai-coding-agents/",
-                "source": "Forbes",
-                "date": "2026-07-31T03:38:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents",
-                "desc": "Perplexity's open-source Numbat watches AI coding agents on endpoints, adding detection and opt-in blocking after OpenAI's models breached Hugging Face.",
-                "image": "https://s.yimg.com/lo/mysterio/api/3d034b2f37d3ca778b376938d2f581737b021ffecf57ad504503a8d164b2b13c/lightyear_networkapi/resizefill_w959_h640;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Fadf94de7166284a654c02f1b7c9951f2",
-                "url": "https://uk.news.yahoo.com/perplexity-open-sources-numbat-monitor-033850417.html",
-                "source": "Yahoo News UK",
-                "date": "2026-07-31T03:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei Watch GT 7 Pro promo image leak sheds light on design",
-                "desc": "Huawei Watch GT 7 series will soon debut with the standard and Pro models, and ahead of any official announcement unveiling, a promo image is",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/WatchGT6Pro.jpg",
-                "url": "https://www.huaweicentral.com/huawei-watch-gt-7-pro-promo-image-leak-sheds-light-on-design/",
-                "source": "Huawei Central",
-                "date": "2026-07-31T03:37:01Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Kuwait intercepts hostile drones after attacks on vital, military sites",
+                "desc": "Kuwait's Armed Forces intercepted and destroyed drones that entered its airspace on Friday morning, adding there was material damage due to falling debris but no casualties.",
+                "image": "https://mm.aiircdn.com/525/5c5bc1fa21970.png",
+                "url": "https://www.dubaieye1038.com/news/international/kuwait-intercepts-hostile-drones-after-attacks-on-vital-military-sites/",
+                "source": "dubaieye1038.com",
+                "date": "2026-07-31T16:59:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Morocco's King Mohammed VI marks 27th anniversary of accession to throne",
+                "desc": "A long list of world leaders, heads of state, and governors sent congratulatory messages to him.",
+                "image": "https://images.euronews.com/articles/stories/09/85/82/54/1024x538_cmsv2_0bbd6262-afdf-50fb-baef-c791db525d69-9858254.jpg",
+                "url": "https://www.africanews.com/2026/07/31/moroccos-king-mohammed-vi-marks-27th-anniversary-of-accession-to-throne/",
+                "source": "africanews.com",
+                "date": "2026-07-31T16:58:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Documentaries on Ebola Outbreaks and Lessons Learned",
+                "desc": "Explore documentaries and reporting that provide background and lessons from past Ebola outbreaks in West Africa and beyond.",
+                "image": "https://www.pbs.org/wgbh/frontline/media/uploads/2026/07/GettyImages-2282538218.jpg",
+                "url": "https://www.pbs.org/wgbh/frontline/article/ebola-outbreak-documentaries-west-africa-democratic-republic-congo/",
+                "source": "PBS",
+                "date": "2026-07-31T16:55:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "El Niño could cause Ireland to have unseasonably warm autumn",
+                "desc": "Weather pattern ‘continues to intensify and ... much of the world faces above-normal temperatures’",
+                "image": "https://www.irishtimes.com/resizer/v2/76F7AQKWKBEEHDEZFFIGGTTAHI.jpg?smart=true&auth=29ec2dcd907dce59e1bd6a985be78f42d617c6304c37ad2fd6ed2fafdb8ba9cc&width=1200&height=630",
+                "url": "https://www.irishtimes.com/environment/2026/07/31/el-nino-could-cause-ireland-to-have-unseasonably-warm-autumn/",
+                "source": "The Irish Times",
+                "date": "2026-07-31T16:55:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Latvia Outlines Four Requirements for Foreigners Seeking Citizenship",
+                "desc": "Latvia has outlined four citizenship requirements on its official website: residency, language, national history knowledge, and financial stability for foreigners.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/70087b9c46748d8e.jpeg?v=1",
+                "url": "https://yen.com.gh/people/309034-latvia-outlines-requirements-foreigners-seeking-citizenship/",
+                "source": "Yen News",
+                "date": "2026-07-31T16:52:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada, allies warn North Korea IT workers pose ‘insider threat’ abroad",
+                "desc": "The joint advisory urged countries and companies to 'deepen their understanding' of the tactics used and implement measures to counter them.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/07/north-korea-e1785511629142.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/12004694/north-korea-insider-threat-warning-canada-allies/",
+                "source": "Global News",
+                "date": "2026-07-31T16:50:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Falling in and out of love with Esperanto",
+                "desc": "Letters: Readers respond to a long read article on the international auxiliary language Esperanto",
+                "image": "https://hermes.media.static.aol.com/media/2026/07/31/53e5af15-4c0d-3ab3-b8b5-3eca0d6858ed/974c60d2-3f6c-404e-8059-6417bedb65b9.jpg",
+                "url": "https://www.aol.co.uk/articles/falling-love-esperanto-163611000.html",
+                "source": "AOL.co.uk",
+                "date": "2026-07-31T16:48:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The return of Trump's tariffs",
+                "desc": "The 'Liberation Day' tariffs were struck down earlier this year, but Trump is back with a new round of tariffs, and experts say these look more legally sound",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--AxdXdfAP--/t_tohu-badge-facebook/f_auto/q_auto/4JKMOYO_AFP__20260727__C3BX42F__v1__HighRes__UsPresidentDonaldTrumpDeliversRemarksAtGeneralM_jpg",
+                "url": "https://www.rnz.co.nz/news/business/854786/the-return-of-trump-s-tariffs",
+                "source": "RNZ",
+                "date": "2026-07-31T16:48:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spain says migrants are returning from Ceuta after 57 killed in border rush",
+                "desc": "Spain says that it has reversed a huge rush of migrants into a Spanish enclave in North Africa, with most of the more than 50,000 people who crossed the border by land and sea already heading back voluntarily.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--lSoAnnbc--/t_tohu-badge-facebook/f_auto/q_auto/4JKM5OP_AFP__20260730__C3LR7T3__v1__HighRes__SpainMoroccoMigration_jpg",
+                "url": "https://www.rnz.co.nz/news/world/854787/spain-says-migrants-are-returning-from-ceuta-after-57-killed-in-border-rush",
+                "source": "RNZ",
+                "date": "2026-07-31T16:48:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Florida woman’s autopsy report reveals extent of alligator attack",
+                "desc": "Brittany Clark struggled for her life before dying from brutal injuries in rare attack, autopsy report confirms",
+                "image": "https://i.guim.co.uk/img/media/3425e4863486ba14032d33fe6df71df0d1937fed/345_0_2832_2266/master/2832.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f548652163be13437f9bdefa8b986455",
+                "url": "https://www.theguardian.com/us-news/2026/jul/31/brittany-clark-florida-alligator-attack-autopsy",
+                "source": "The Guardian",
+                "date": "2026-07-31T16:48:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Amhara Region Delivers 357 Kilograms of Gold to NBE",
                 "desc": "Addis Ababa, July 31, 2026 (ENA) — The Amhara National Regional State supplied 357 kilograms of gold to the National Bank of Ethiopia (NBE) for the first time during the 2018 Ethiopian fiscal year.\nAccording to a post on the Amhara Communications Social Media Page, the supply has marked a significant milestone as the regional government stepped up efforts to formalize the mining sector and curb illegal mineral trade.\nThe remarks were made by Amhara Region Chief Administrator Arega Kebede while presenting an annual performance report to the Amhara Regional Council during its 12th regular session.\nThe Chief Administrator emphasized that the achievement resulted from strengthened regulation of the mining sector and coordinated measures to combat illegal mining and illicit mineral trading.\nAccording to Arega, the unprecedented gold supply will enhance the region's contribution to the national economy while supporting Ethiopia's foreign exchange earnings and overall financial stability.\nThe chief administrator said the regional government also intensified enforcement against illegal mining activities throughout the fiscal year.\nAs part of the crackdown, authorities seized more than 133,500 cubic meters of illegally extracted minerals, he clarified, adding that the enforcement campaign also generated more than 27.19 million Birr through corrective measures and confiscations, with the proceeds deposited into the government treasury.\nThe Chief Administrator further revealed that mineral exploration and reserve verification identified an estimated 5,148 tons of iron ore within a 10 square kilometer area.\nHe added that exploration activities also confirmed reserves of approximately 2.5 billion tons of granite and 1.625 billion tons of basalt across a 440 square kilometer area, highlighting the region's vast mineral resource potential.\nThe chief administrator said the regional government will continue strengthening regulatory oversight to prevent the illegal exploitation of mineral resources, improve governance in the mining sector, increase the legal supply of minerals, and ensure greater availability of raw materials for domestic industries.",
@@ -1806,98 +1896,8 @@
                 "source": "People Matters Global",
                 "date": "2026-07-31T05:35:54Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How FNB enabled people to join the SGK pyramid scheme",
-                "desc": "Bank employees signed up new customers at an SGK recruitment site",
-                "image": "https://groundup.org.za/media/_versions/images/photographers/khotsofalang_koloi/heavily_armed_police_officers_at_sgk_app_offices_as_disgruntled_members_demands_answers_from_their_recruiters__1_extra_large.jpeg",
-                "url": "https://groundup.org.za/article/how-fnb-enabled-people-to-join-sgk-pyramid-scheme/",
-                "source": "GroundUp",
-                "date": "2026-07-31T03:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jamaica pledges support for students remaining in crisis-hit Cuba",
-                "desc": "KINGSTON, Jamaica, Jul. 30, CMC – The government says it remains committed to supporting the approximately 270 Jamaican students still pursuing studies in Cuba amid the island’s ongoing energy cri…",
-                "image": "https://www.thestkittsnevisobserver.com/wp-content/uploads/KAMINA-JOHNSON-SMITH-e1785412030591-600x463-1.jpeg",
-                "url": "https://www.thestkittsnevisobserver.com/jamaica-pledges-support-for-students-remaining-in-crisis-hit-cuba/",
-                "source": "thestkittsnevisobserver.com",
-                "date": "2026-07-31T03:38:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World-renowned climber Nirmal Purja among 10 feared missing after avalanche on Pakistan mountain",
-                "desc": "Expedition on Broad Peak includes mountaineers from Nepal, the US, Pakistan, Oman and China",
-                "image": "https://i.guim.co.uk/img/media/f99504dd2c2163221943dadab03878d9168436d3/1206_89_2188_1751/master/2188.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=045a886898467b92cd89bb1e95dd7b7f",
-                "url": "https://www.theguardian.com/world/2026/jul/31/nirmal-purja-10-climbers-missing-pakistan-broad-peak-mountain",
-                "source": "The Guardian",
-                "date": "2026-07-31T03:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Pirate’ priest duping couples into sham weddings, baptisms, mass and spiritual guidance unmasked",
-                "desc": "The Diocese of La Paz issued a public alert Tuesday warning residents and visitors about a fake priest operating in Baja California Sur. Church officials identified the man as Gregorio Díaz Mora and s...",
-                "image": "https://s.yimg.com/lo/mysterio/api/c7001d38270c4c240c2b772183f868e358b01e355c3da52b7ba8717941a7f7bb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fe536948d4634d9f63f8d58c357c6e9f6",
-                "url": "https://www.yahoo.com/news/world/articles/pirate-priest-duping-couples-sham-033409360.html",
-                "source": "Yahoo",
-                "date": "2026-07-31T03:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘We searched for our babies but never found them’: Nairobi flood survivors relive their worst nightmare",
-                "desc": "Families in Nairobi’s informal settlements recount the trauma of losing children, homes and livelihoods to the 2024 floods as fresh warnings of heavy.",
-                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-30-164456.webp",
-                "url": "https://eastleighvoice.co.ke/city-affairs/385150/we-searched-for-our-babies-but-never-found-them-nairobi-flood-survivors-relive-their-worst-nightmare",
-                "source": "The Eastleigh Voice",
-                "date": "2026-07-31T03:32:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Blooms on the beach",
-                "desc": "This remote Namaqualand flower camp is only open for one month a year. Here’s why you should visit in 2026.",
-                "image": "https://media.timeout.com/images/106432224/image.jpg",
-                "url": "https://www.timeout.com/cape-town/news/blooms-on-the-beach-080126",
-                "source": "timeout.com",
-                "date": "2026-07-31T03:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukrainian intelligence exposes Russian spy network controlling Wagner’s African network",
-                "desc": "Ukrainian intelligence has revealed how the Kremlin is using the remnants of Yevgeny Prigozhin's empire in Africa – Russia's foreign intelligence has taken control of the hidden influence network Africa Politology",
-                "image": "https://newsukraine.rbc.ua/static/img/_/_/__ohoronna__bamako_mali_gettyimages_1238621753_ecbce35cba8808f61d7b6f59ced46d0c_1300x820_8dc175e4d52fdaf9e917f4b73904d951_650x410.jpg",
-                "url": "https://newsukraine.rbc.ua/news/ukrainian-intelligence-exposes-russian-spy-1785466971.html",
-                "source": "RBC-Ukraine",
-                "date": "2026-07-31T03:30:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2 homes, different traumas: Japan quake leaves scars seen and unseen",
-                "desc": "For thousands of survivors — especially those living near the epicenter in places like Yatsushiro — psychological and financial scars will endure long after the initial disaster",
-                "image": "https://www.rappler.com/tachyon/2026/07/2026-07-30T082105Z_349331195_RC24OMAF63PQ_RTRMADP_3_JAPAN-QUAKE-FAMILY.jpg",
-                "url": "https://www.rappler.com/world/asia-pacific/kumamoto-earthquake-aftermath-updates-july-30-2026/",
-                "source": "Rappler",
-                "date": "2026-07-31T03:29:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "African governments must ratify convention on violence against women - Dr Agyeman-Rawlings",
-                "desc": "The second Vice-President of the Pan-African Parliament, Dr Zanetor Agyeman-Rawlings, has said violence against women continues to undermine...",
-                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-07-30-1138530.jpg",
-                "url": "https://www.businessghana.com/site/news/general/353077/African-governments-must-ratify-convention-on-violence-against-women-Dr-Agyeman-Rawlings",
-                "source": "BusinessGhana",
-                "date": "2026-07-31T03:28:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesian court rules government cannot spend education funding on school meals",
-                "desc": "The ​ruling came after students and educators filed petitions arguing the country's education budget should not be funding the free meals program.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/dcff410e8988eda8e793a438d740111c?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=120&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-07-31/indonesia-court-restricts-use-of-education-funding-for-meals/106977534",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-07-31T03:26:41Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-01T01:19:50.141378Z"
+    "lastGlobalSync": "2026-08-01T05:01:57.141302Z"
 }
