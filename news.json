@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "The Stock Market Is Doing Something Observed Only 6 Times Since 1871 -- and the Previous 5 Occurrences Ended in Disaster for Wall Street",
+                "desc": "History can be a powerful teaching tool, with past events on Wall Street having the uncanny ability of foreshadowing the future.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880838%2Fnyse-floor-trader-stock-market-invest-buy-sell-fed-wall-street-getty.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/08/02/stock-market-do-something-6-times-1871-wall-street/",
+                "source": "The Motley Fool",
+                "date": "2026-08-02T10:38:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stablecoin outflows hit $7B in 2026, pressuring...",
+                "desc": "Stablecoin liquidity is declining as exchanges like Binance see $7 billion in net outflows this year, reducing capital available for crypto purchases. This trend, also evident in South Korea, reflects investors moving funds abroad and a cautious market environment. Despite this, Bitcoin remains resilient, trading around $62,800-$63,500, supported by spot ETF inflows and long-term holders. Continued price stability depends on renewed stablecoin demand and improved market liquidity.",
+                "image": "https://image-cdn.pluang.com/web/compressed/market_news.webp",
+                "url": "https://pluang.com/en/news-feed/keluaran-stablecoin-binance-7-miliar-dolar-dan-ketahanan-bitcoin",
+                "source": "Pluang",
+                "date": "2026-08-02T10:36:51Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Your Weekly Dose of Bike Updates: 2026 KTM 390 Adventure, Honda CB500, and More!",
+                "desc": "The Indian two-wheeler industry witnessed some exciting events last week, not just in terms of new launches but also related to upcoming products.",
+                "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/225212/right-side-view-2.jpeg?isig=0&q=80",
+                "url": "https://www.bikewale.com/news/your-weekly-dose-of-bike-updates-2026-ktm-390-adventure-honda-cb500-and-more/",
+                "source": "bikewale.com",
+                "date": "2026-08-02T10:34:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ripple unlocks 1 billion XRP but locks 700 mill...",
+                "desc": "Ripple executed its monthly XRP escrow routine on August 1, 2026, releasing 1 billion XRP in three parts but simultaneously locking 700 million XRP back into escrow. This move reduced the fresh XRP supply to 300 million, potentially preventing the usual August price drop that has historically affected XRP holders for 13 years. The XRP price found support around $1.0480 and showed positive returns in early August, suggesting a possible new price floor and a break from the typical seasonal decline. This strategy may reassure investors by limiting token supply during a month known for price weakness.",
+                "image": "https://image-cdn.pluang.com/web/compressed/market_news.webp",
+                "url": "https://pluang.com/en/news-feed/1-miliar-xrp-dari-ripple-dikunci-kembali-apakah-lantai-harga-agustus-akan-datang",
+                "source": "Pluang",
+                "date": "2026-08-02T10:32:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What the Cracker Barrel rage spiral was actually about",
+                "desc": "A revealing detail came from Cracker Barrel’s announcement this week that CEO Julie Masino is stepping down soon: She’s leaving with company-funded security still in place from the public meltdown over Cracker Barrel’s rebrand last year.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2232416729-20260730201947086.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/02/business/cracker-barrel-ceo-culture-wars",
+                "source": "CNN",
+                "date": "2026-08-02T10:30:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Frankfurt Airport stood 37,000 solar panels dead upright along 2,800 meters of a runway, edge-on to the sun, so the array gives up the middle of the day on purpose and comes out as a camel with two hu",
+                "desc": "Wheat and grass-clover between the rows showed no yield decline at all. \"The crops don't seem to mind the presence of solar panels,\" said Uffe Jørgensen, a",
+                "image": "https://www.autonocion.com/us/wp-content/uploads/2026/08/Fraport-vertical-photovoltaic-modules-Runway-18-West.jpg",
+                "url": "https://www.autonocion.com/us/frankfurt-airport-solar-panels/",
+                "source": "Autonocion.com",
+                "date": "2026-08-02T10:30:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Audi unveils its full-size Q9 SUV: 'We've done it right'",
+                "desc": "The all-new Audi Q9 is the brand's flagship vehicle.",
+                "image": "https://i.abcnewsfe.com/a/cc15290f-28de-44a8-958e-170e6db72df4/q9-main-ht-jt-260730_1785427509039_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/Business/audi-unveils-full-size-q9-suv-weve/story?id=135294686",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-08-02T10:30:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Over 600 jobs lost as UK high street chain closes 130 shops",
+                "desc": "Over 600 jobs are being lost as a UK high street chain is closing more than 130 shops across the country.",
+                "image": "https://www.oxfordmail.co.uk/resources/images/21264019.jpg?type=og-image",
+                "url": "https://www.oxfordmail.co.uk/news/26429573.600-jobs-lost-uk-high-street-chain-closes-130-shops/",
+                "source": "Oxford Mail",
+                "date": "2026-08-02T10:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Investors May Respond To Telix Pharmaceuticals (ASX:TLX) Upgraded FY26 Guidance And Pipeline Milestones",
+                "desc": "In July 2026, Telix Pharmaceuticals reported positive Phase 1 ProstACT SELECT data for its PSMA-targeting rADC TLX591-Tx, dosed the first patient in the Phase 3 LUTEON trial for TLX250-Tx in clear cell renal cell carcinoma, entered a collaboration with Regeneron Pharmaceuticals on radiopharmaceutical therapies, and raised its Fiscal Year 2026 revenue guidance to above US$1 billion alongside higher quarterly revenue of US$247 million.\nTogether, these updates underscore Telix's attempt to...",
+                "image": "https://images.simplywall.st/asset/industry/6111000-choice2-main-header/1585186599552",
+                "url": "https://simplywall.st/stocks/au/pharmaceuticals-biotech/asx-tlx/telix-pharmaceuticals-shares/news/how-investors-may-respond-to-telix-pharmaceuticals-asxtlx-up",
+                "source": "simplywall.st",
+                "date": "2026-08-02T10:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside The $250 Million Superyacht Owned By A 27",
+                "desc": "For 27-year-old Dubai mogul Abbas Sajwani, his 348-foot pleasure vessel isn’t just a floating trophy, it’s a palatial office from which he runs his empire.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a6d09206c333268f0958d4b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/giacomotognini/2026/08/02/aboard-the-250-million-superyacht-amadea-with-the-worlds-youngest-real-estate-billionaire/",
+                "source": "Forbes",
+                "date": "2026-08-02T10:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Aer Lingus Cabin Crew Salary in 2026",
                 "desc": "A cabin crew career with Aer Lingus in 2026 offers a competitive European salary, excellent travel benefits and the opportunity to work...",
                 "image": "https://aviationa2z.com/wp-content/uploads/2025/03/Aer-Lingus-cabin-crew-1.webp",
@@ -542,99 +632,99 @@
                 "source": "CNBC",
                 "date": "2026-08-02T01:56:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Crushed by Kospi rout, angry Koreans rip Lee and vow not to buy",
-                "desc": "Retail investors sold a record amount of Kospi shares on Friday despite a stunning 18% rebound. The gauge still capped a 22% loss for the month, the steepest since the global financial crisis.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260702012444_kospi-south-korea.jpg",
-                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/crushed-by-kospi-rout-angry-koreans-rip-lee-and-vow-not-to-buy-13991081.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-08-02T01:42:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cranswick automates packaging with Rockwell robots at 240 pi",
-                "desc": "Cranswick and Rockwell Automation deployed autonox Delta robots for end-of-line food packaging, hitting 240 pick-and-place cycles per minute and freeing staff f",
-                "image": "https://res.cloudinary.com/marketscalecms/image/upload/f_auto,q_auto/v1/payload/media/news-cover-cranswick-deploys-rockwell-automation-pick-and-place-robots-to-hit-240-cycles-per-minute-?_a=BAMAABcg0",
-                "url": "https://www.marketscale.com/industries/industrial-iot/cranswick-deploys-rockwell-automation-pick-and-place-robots-to-hit-240-cycles-per-minute-in-end-of-line-packaging",
-                "source": "MarketScale",
-                "date": "2026-08-02T01:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan to announce Tokyo, Washington took joint action on yen",
-                "desc": "TOKYO (Aug 2): Japanese Finance Minister Satsuki Katayama will announce on Monday that Tokyo and Washington took joint action in the currency market to arrest the yen's slide to 40-year lows, two Japanese government officials told Reuters.",
-                "image": "https://assets.theedgemarkets.com/Japanese-yen-and-US-dollar-banknotes_March_19,_2025-illus-by-Dado_Ruvic_R-APP_1.jpg",
-                "url": "https://theedgemalaysia.com/node/812987",
-                "source": "The Edge Malaysia",
-                "date": "2026-08-02T01:35:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cash Flow Value Ideas In Indian Industrials Investors May Be Missing",
-                "desc": "With inflation pressures, shifting rate expectations and higher energy costs all competing for attention, cash flow has become a key anchor for many investors. The Undervalued Stocks Based On Cash Flows screener focuses on companies where projected cash generation and SWS DCF fair value suggest a potential mismatch with current market pricing. This can help you focus on resilience of cash coming into the business rather than short term sentiment. In this article, you will see three stocks...",
-                "image": "https://images.simplywall.st/asset/industry/3072000-choice2-main-header/1585186655182",
-                "url": "https://simplywall.st/stocks/in/capital-goods/nse-tega/tega-industries-shares/news/cash-flow-value-ideas-in-indian-industrials-investors-may-be",
-                "source": "simplywall.st",
-                "date": "2026-08-02T01:29:28Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Four Seasons Hotel Hong Kong Cake Shop pop-up",
-                "desc": "Back by popular demand, the Four Seasons Hotel Hong Kong Cake Shop pop-up is returning to IFC Mall (Kiosk LA15, L1) from August 4, 2026, through February 14, 20",
-                "image": "https://media.timeout.com/images/106432951/image.jpg",
-                "url": "https://www.timeout.com/hong-kong/restaurants/four-seasons-hotel-hong-kong-cake-shop-pop-up",
-                "source": "Time Out Worldwide",
-                "date": "2026-08-02T01:26:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SK Hynix Files Nasdaq Listing Prospectus, Reigniting 'Samsung",
-                "desc": "SK Hynix's filing of a registration statement for a U.S. Nasdaq listing has reignited the debate over undervaluation of South Korea's top two memory…",
-                "image": "https://img.biggo.com/bGFKTcDi0CYftiViH_xwWADXo98OVjdRQMluBmfysnA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2ZmODQwNTVlLWJhOTMtNDdlMy05NjIxLTM5NWIxOTQzMzUyYl8xNzg1NjM0MjE2X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/ff84055e-ba93-47e3-9621-395b1943352b",
-                "source": "finance.biggo.com",
-                "date": "2026-08-02T01:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WestJet flight cancellations leave passengers ‘stranded’",
-                "desc": "A steady lineup of passengers, with worrisome looks on their faces waited to ask questions to WestJet staff at the Terminal 3 departures corridor at Toronto’s Pearson airport on Saturday afternoon.",
-                "image": "https://www.cp24.com/resizer/v2/JNFE32SECFFY5INMZIFDVIALW4.jpeg?smart=true&auth=3e953f1e19a6a3ac18c104425edbc373658e26f114a317f56ec8d611a146e339&width=1200&height=630",
-                "url": "https://www.cp24.com/news/canada/2026/08/02/ive-never-felt-more-stranded-westjet-flight-cancellations-leave-passengers-searching-for-answers/",
-                "source": "CP24",
-                "date": "2026-08-02T01:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Nostradamus of AI’ Leopold Aschenbrenner didn’t have the crystal ball seeing hedge fund portfolio dip 67%",
-                "desc": "The celebrated crystal ball of the “Nostradamus of AI” hasn’t merely gone cloudy — it has rolled off the table and shattered on the parlor floor.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/LAIP_6ece1c.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/08/01/business/nostradamus-of-ai-leopold-aschenbrenner-didnt-have-the-crystal-ball-seeing-hedge-fund-portfolio-dip-67/",
-                "source": "New York Post",
-                "date": "2026-08-02T01:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "When rogue AI launches a cyberattack, who is legally responsible?",
-                "desc": "Under U.S. civil and criminal law, unauthorized access to a computer system is an offense.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/02/554941.JPG?v=3.1",
-                "url": "https://www.japantimes.co.jp/business/2026/08/02/tech/ai-cyberattack-legally-responsible/",
-                "source": "The Japan Times",
-                "date": "2026-08-02T01:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Steel tax now tied to power use",
-                "desc": "Steel tax now tied to power use",
-                "image": "https://i.tribune.com.pk/media/images/steel1785628472-0/steel1785628472-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2621605/steel-tax-now-tied-to-power-use",
-                "source": "The Express Tribune",
-                "date": "2026-08-02T01:06:21Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "I’ve reviewed phones for 10 years. Don't waste your money upgrading in 2026",
+                "desc": "Smartphone launches are getting less interesting every year, but we might have hit rock bottom in 2026.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-and-s26-plus-review-2-scaled.jpg",
+                "url": "https://www.androidauthority.com/dont-waste-money-buying-new-smartphone-2026-3691953/",
+                "source": "Android Authority",
+                "date": "2026-08-02T10:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "COLORFUL Launches Rimbook L1 Plus with Ryzen 7 Processor and 2.5K 120Hz Display",
+                "desc": "COLORFUL has introduced the Rimbook L1 Plus, a new lightweight laptop aimed at students, professionals, and creators looking for a balance of portability and",
+                "image": "https://www.gadgetpilipinas.net/wp-content/uploads/2026/08/colorful-rimbook-l1-plus-1.jpg",
+                "url": "https://www.gadgetpilipinas.net/2026/08/colorful-rimbook-l1-plus-ph/",
+                "source": "Gadget Pilipinas",
+                "date": "2026-08-02T10:24:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Super Mario Sunshine Returns as GameCube Classic Heads to Nintendo Switch 2",
+                "desc": "Super Mario Sunshine Returns on Switch 2 with the GameCube classic, expanding Nintendo’s retro lineup and exciting longtime Mario fans worldwide.",
+                "image": "https://chshyd.in/wp-content/uploads/2026/08/Super-Mario-Sunshine-Returns.jpg",
+                "url": "https://chshyd.in/gaming/super-mario-sunshine-returns/",
+                "source": "chshyd.in",
+                "date": "2026-08-02T10:14:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GOKO to Showcase Award-Winning M6 and Preview 3-in-1…",
+                "desc": "GOLD COAST, Australia, Aug. 02, 2026 (GLOBE NEWSWIRE) -- GOKO, the outdoor robotics brand under Robot++, will showcase the GOKO M6 robotic lawn mower…",
+                "image": "https://aapnews.imgdeliver.net/article/lead_image/220219/goko5-logo.png?width=800",
+                "url": "https://aapnews.aap.com.au/aapreleases/globenewswire9802140",
+                "source": "aapnews.aap.com.au",
+                "date": "2026-08-02T10:06:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Deals: Galaxy Z Fold8 series and iPhone 17 Pro models on sale",
+                "desc": "Select variants of the base iPhone 17 Pro are discounted by £150. The Samsung Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 are currently...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-deals-31/-952x498w6/gsmarena_uk.jpg",
+                "url": "https://www.gsmarena.com/deals_galaxy_z_fold8_series_and_iphone_17_pro_models_on_sale-news-73966.php",
+                "source": "GSMArena.com",
+                "date": "2026-08-02T10:01:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple's iPhone 18 Pro, foldable iPhone tipped for September debut as launch strategy may change",
+                "desc": "Apple's rumoured iPhone 18 Pro lineup is expected to bring camera, battery, chipset and AI upgrades, while reports also point to Apple's first foldable iPhone and a possible split launch schedule.",
+                "image": "https://images.storyboard18.com/storyboard18/2026/07/Visuals-Page-2026-07-19T134844.906-2026-07-7df0cbf74eb8c827b14700ae416a1739-1019x573.jpg",
+                "url": "https://www.storyboard18.com/brand-marketing/apples-iphone-18-pro-foldable-iphone-tipped-for-september-debut-as-launch-strategy-may-change-106364.htm",
+                "source": "Storyboard18",
+                "date": "2026-08-02T10:01:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Experts Say How This Disc Can Help Improve Balance",
+                "desc": "People who were having trouble walking confidently said they saw improvement in just two weeks.",
+                "image": "https://img.huffingtonpost.com/asset/6a20667b140000428f1add04.jpg?cache=CYIAZALEx1&ops=500_281%2Cscalefit_1200_630",
+                "url": "https://www.huffpost.com/entry/balancing-discs-for-older-people-ud_l_6a6a3feae4b01948ae99b33d",
+                "source": "HuffPost",
+                "date": "2026-08-02T10:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung admits its foldables need Si-C batteries, but won't commit to what matters",
+                "desc": "The Galaxy Z Fold 8's best upgrade comes with an expiry date",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/samsung-galaxy-z-fold-with-a-silicon-carbon-battery-graphic-on-the-back.png?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/samsung-si-c-battery-longevity-gap/",
+                "source": "Android Police",
+                "date": "2026-08-02T10:00:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I stopped using this Windows feature after realizing it wastes 10 GB of storage",
+                "desc": "The easiest 10GB I've ever reclaimed.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/zenbook-a16-vs-macbook-pro-3.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/disable-windows-hibernation-to-free-up-storage/",
+                "source": "MakeUseOf",
+                "date": "2026-08-02T10:00:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to use app bubbles on your Samsung phone right now",
+                "desc": "Samsung phones have had an Android 17-like App Bubbles feature for years. Here's how to improve your multitasking with it.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/samsung-galaxy-pop-up-view-multitasking-feature-20.jpg",
+                "url": "https://www.androidauthority.com/samsung-pop-up-view-better-than-app-bubbles-how-use-3692326/",
+                "source": "androidauthority.com",
+                "date": "2026-08-02T10:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "What I Learned Running With Jon Gray and 100 Blackstone Analysts",
                 "desc": "I spent my Thursday morning jogging with Jon Gray and Blackstone analysts, and felt firsthand the business value of his social media jogging videos.",
@@ -1174,99 +1264,99 @@
                 "source": "Yahoo News Canada",
                 "date": "2026-08-02T01:35:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "5 Android Phones To Try Instead Of The Motorola Razr Fold",
-                "desc": "While the Motorola Razr Fold is a fairly well-rounded foldable, you should definitely check out its alternatives from brands like Samsung, Google, and more.",
-                "image": "https://www.bgr.com/img/gallery/5-android-phones-to-try-instead-of-the-motorola-razr-fold/l-intro-1785196642.jpg",
-                "url": "https://www.bgr.com/2224758/android-phones-to-try-instead-of-motorola-razr-fold/",
-                "source": "bgr.com",
-                "date": "2026-08-02T01:30:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "JioTag 2 Launched in India: Price and Specifications",
-                "desc": "JioTag 2 has just launched in India. The JioTag 2 is now available in the country.",
-                "image": "https://telecomtalk.info/wp-content/uploads/2026/08/jiotag-2-launched-in-india-price-and-specifications.jpg",
-                "url": "https://telecomtalk.info/jiotag-2-launched-in-india-price-and-specifications/1010310/",
-                "source": "TelecomTalk",
-                "date": "2026-08-02T01:29:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NEC launches Android tablet with large 12.1-inch display",
-                "desc": "NEC has launched the Lavie Tab T12 as its latest Android tablet in Japan. It is a Wi-Fi-only tablet powered by a MediaTek chipset and a 10,200mAh battery.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nec-Lavie-T12-official.png",
-                "url": "https://www.notebookcheck.net/NEC-launches-Android-tablet-with-large-12-1-inch-display.1358056.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-08-02T01:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Is Making Games Worse, And For What?",
-                "desc": "This new future sucks.",
-                "image": "https://sm.ign.com/t/ign_ap/feature/a/ai-is-maki/ai-is-making-games-worse-and-for-what_f6xm.1200.jpg",
-                "url": "https://sea.ign.com/amd-radeon-rx-9070/246335/ai-is-making-games-worse-and-for-what",
-                "source": "IGN Southeast Asia",
-                "date": "2026-08-02T01:20:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game",
-                "desc": "Enjoy rhythmical gameplay, park development, and mini-games. Featuring 50+ members and 150+ songs, it's perfect for fans and newcomers alike. Play your way!",
-                "image": "https://sm.ign.com/t/ign_ap/interview/h/hololive-d/hololive-dreams-how-the-development-team-used-rpg-mechanics_cfrp.1200.jpg",
-                "url": "https://sea.ign.com/hololive-dreams/246334/hololive-dreams-how-the-development-team-used-rpg-mechanics-to-create-a-giant-rhythm-game",
-                "source": "IGN Southeast Asia",
-                "date": "2026-08-02T01:20:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 Useful Accessories Every Samsung Galaxy Tab Owner Needs",
-                "desc": "These Samsung Galaxy Tab accessories can make your tablet more productive, convenient, and secure without adding unnecessary extras.",
-                "image": "https://www.bgr.com/img/gallery/5-useful-accessories-every-samsung-galaxy-tab-owner-needs/l-intro-1785186583.jpg",
-                "url": "https://www.bgr.com/2224593/useful-accessories-for-samsung-galaxy-tab-owners/",
-                "source": "bgr.com",
-                "date": "2026-08-02T01:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cut Point Labs LUT Tuner for Mac",
-                "desc": "Cut Point Labs LUT Tuner for Mac allows you to edit, preview, resize, compare, and export .cube 3D LUTs with still-image, video, and generated-pattern",
-                "image": "https://www.newsshooter.com/wp-content/uploads/2026/08/LUT-Tuner-v1.1.0-demo.jpeg",
-                "url": "https://www.newsshooter.com/2026/08/01/cut-point-labs-lut-tuner-for-mac/",
-                "source": "newsshooter.com",
-                "date": "2026-08-02T01:16:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Beast of Reincarnation Has Been Leaked, Cracked & Pirated Before Its Official Release",
-                "desc": "It appears that the new highly anticipated game from the Pokemon devs, Beast of Reincarnation, has already been leaked and pirated.",
-                "image": "https://www.dsogaming.com/wp-content/uploads/2025/06/Beast-of-Reincarnation-feature-scaled.jpg",
-                "url": "https://www.dsogaming.com/news/beast-of-reincarnation-has-been-leaked-pirated-before-its-official-release/",
-                "source": "DSOGaming",
-                "date": "2026-08-01T23:25:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran",
-                "desc": "Google has abruptly rolled back the controversial Nano Banana 2 image generation feature in Google Earth less than 24 hours after launch following viral safety backlash.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a6e7f11623b616e77ff9771/0x0.png?format=png&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/paulmonckton/2026/08/01/google-earth-ai-feature-removed/",
-                "source": "Forbes",
-                "date": "2026-08-01T23:23:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "4 ways you might be slowly killing your Roku TV without knowing it",
-                "desc": "Thankfully, a few basic habits are all you need to keep it running on ten.",
-                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/02/roku-home-screen-live-tv.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.pocket-lint.com/factors-slowly-killing-your-roku-tv/",
-                "source": "Pocket-lint",
-                "date": "2026-08-01T23:00:12Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Prince Harry’s beef with the British tabloids ends in spectacular failure",
+                "desc": "When Prince Harry picks a fight, he goes for big targets. His own royal family to start with, but perhaps even more daring, the vengeful and intrusive British press.",
+                "image": "https://static.ffx.io/images/$zoom_0.552%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/1d3d2021fa198050acd9b42d3d7fec2ebcb7e0c5d4249992343e8956cb153020",
+                "url": "https://www.nine.com.au/australia-news/60-minutes/prince-harry-s-beef-with-the-british-tabloids-ends-in-spectacular-failure-20260731-p60kff.html",
+                "source": "Nine.com.au",
+                "date": "2026-08-02T10:39:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rescuers find Nirmal Purja's body; all 10 climbers confirmed dead after avalanche on Broad Peak in PoK",
+                "desc": "Pakistan News: Renowned British-Nepali mountaineer Nirmal Purja and nine other climbers swept away by an avalanche on PoK's Broad Peak have been confirmed dead, acco.",
+                "image": "https://static.toiimg.com/thumb/msid-132804950,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/pakistan/rescuers-find-nirmal-purjas-body-all-10-climbers-confirmed-dead-after-avalanche-on-broad-peak-in-pok/articleshow/132804922.cms",
+                "source": "The Times of India",
+                "date": "2026-08-02T10:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Radio Station WHMI 93.5 FM",
+                "desc": "Radio Station WHMI 93.5 FM — Livingston County Michigan News, Weather, Traffic, Sports, School Updates, and the Best Classic Hits for Howell, Brighton, Fenton",
+                "image": "https://whmi.com/img/whmilogo-og.png",
+                "url": "https://www.whmi.com/news/fox/us-companies-win-billions-african-data-center-deals-direct-competition-china",
+                "source": "WHMI",
+                "date": "2026-08-02T10:33:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Experts call for greater investment in assistive technology",
+                "desc": "Technology is constantly evolving and improving the lives of some people, but millions with special needs continue to face barriers.",
+                "image": "https://www.enca.com/sites/default/files/styles/large/public/2025-10/51965028101_4b81ed1d25_b.jpg.webp?itok=nPYXRtxI",
+                "url": "https://www.enca.com/business-news/experts-call-greater-investment-assistive-technology",
+                "source": "eNCA",
+                "date": "2026-08-02T10:33:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran Denies Asking US Not to Strike, Calls Trump's Claim a L",
+                "desc": "Iran's Mehr news agency denies Trump's claim that Tehran asked the US to refrain from strikes, calling it a 'new lie' amid escalating Iran US conflict.",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/OIP-5.webp",
+                "url": "https://punchng.com/iran-denies-asking-us-not-to-strike-says-trump-lied/",
+                "source": "Punch Newspapers",
+                "date": "2026-08-02T10:32:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Forever in the mountain’: Melbourne hiker, 28, found dead on US trail",
+                "desc": "A passionate young hiker was attempting a gruelling trail in the US when he went missing. Now, his family say his soul will be “forever in the mountains”.",
+                "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_19%2C$y_444/t_crop_custom/q_86%2Cf_auto/56eec34c1d80e4daa3f0ec55b5f2f728edc4cbf3",
+                "url": "https://www.theage.com.au/national/forever-in-the-mountain-melbourne-hiker-28-found-dead-on-us-trail-20260802-p60kpe.html",
+                "source": "The Age",
+                "date": "2026-08-02T10:31:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Forever in the mountain’: Melbourne hiker, 28, found dead on US trail",
+                "desc": "A passionate young hiker was attempting a gruelling trail in the US when he went missing. Now, his family say his soul will be “forever in the mountains”.",
+                "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_19%2C$y_444/t_crop_custom/q_86%2Cf_auto/56eec34c1d80e4daa3f0ec55b5f2f728edc4cbf3",
+                "url": "https://www.smh.com.au/national/forever-in-the-mountain-melbourne-hiker-28-found-dead-on-us-trail-20260802-p60kpe.html",
+                "source": "SMH.com.au",
+                "date": "2026-08-02T10:31:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Geoeconomics, Part I: Ranking Economic Superpowers",
+                "desc": "We’re #1! Or maybe #2. Or maybe …",
+                "image": "https://substackcdn.com/image/fetch/$s_!27xC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4c53d29-0de3-4285-9e57-2afe0c0ce712_1426x1976.jpeg",
+                "url": "https://paulkrugman.substack.com/p/geoeconomics-part-i-ranking-economic",
+                "source": "Paul Krugman | Substack",
+                "date": "2026-08-02T10:30:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "School shooter Colt Gray’s mother helped him reach his ‘fans’ from prison. Here’s why she wasn’t charged.",
+                "desc": "Georgia school shooter Colt Gray was sentenced to life in prison and his father to 15 years for providing the gun. Some victims and their families wish his mother would be charged, too.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22391434-2578051-1259999997-still.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/02/us/colt-gray-mother-not-charged",
+                "source": "CNN",
+                "date": "2026-08-02T10:30:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why linguistic profiling of migrants in SA makes no sense",
+                "desc": "When a voice is used as an informal test of belonging, it indicates a broader global challenge that is socially divisive.",
+                "image": "https://cdn.dailymaverick.co.za/i/Q1wevBDbvY2dQludpOGE1DV1XF0=/800x0/smart/filters:strip_exif()/file/attachments/orphans/ED_614179_882278.jpg",
+                "url": "https://www.dailymaverick.co.za/article/2026-08-02-why-linguistic-profiling-in-an-era-of-migration-and-tension-makes-no-sense/",
+                "source": "Daily Maverick",
+                "date": "2026-08-02T10:29:49Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "How you can apply for ECOWAS fully funded graduate programme",
                 "desc": "ECOWAS opens applications for its 2027 Young Graduates Immersion Programme, offering young Nigerians and others opportunities.",
@@ -1806,98 +1896,8 @@
                 "source": "The Star",
                 "date": "2026-08-02T02:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Teenage girl's death puts damning spotlight on 'hostage justice' system in Japan",
-                "desc": "A 16-year-old girl's family alleges she was so traumatised by her time in a police cell, it killed her. Her case is now the focus of court action alleging she was a victim of Japan's \"hostage justice\" system.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/18b4c345714a4fe1e8340d5be48b6f5b?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=3&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-08-02/japan-hostage-justice-system-under-scrutiny-after-teen-death/106967964",
-                "source": "abc.net.au",
-                "date": "2026-08-02T01:39:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "13 killed as tourist plane crashes near Peru's Nazca Lines",
-                "desc": "Rest of World News: At least 13 people were killed after a tourist plane crashed into a field near the Peruvian city of Nazca on Saturday, local authorities said.A Nation.",
-                "image": "https://static.toiimg.com/thumb/msid-132799046,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/rest-of-world/13-killed-as-tourist-plane-crashes-near-perus-nazca-lines/articleshow/132799048.cms",
-                "source": "The Times of India",
-                "date": "2026-08-02T01:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US: 3 killed in Idaho shopping area shooting; gunman among dead",
-                "desc": "US News: Three people were killed and at least two others injured after a gunman opened fire near an In-N-Out Burger restaurant in a busy shopping area in Twin.",
-                "image": "https://static.toiimg.com/thumb/msid-132799036,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/3-killed-in-us-idaho-shopping-area-shooting-gunman-among-dead/articleshow/132799007.cms",
-                "source": "The Times of India",
-                "date": "2026-08-02T01:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Moscow bombing: Three dead, 21 injured after restaurant explosion",
-                "desc": "An explosion in a Moscow restaurant has killed three people, including the woman thought to have been carrying the bomb.",
-                "image": "https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_126/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/7988aa1e7816f8a2563799197bc7b8d338582e04cdcfd1b681a6feae638cab14",
-                "url": "https://www.nine.com.au/world-news/uk-europe/three-dead-after-homemade-bomb-explodes-in-moscow-restaurant-20260802-p60kny.html",
-                "source": "Nine.com.au",
-                "date": "2026-08-02T01:28:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exercise Pitch Black 2026: Australian KC-30A Refuels Indian Rafales for the First Time",
-                "desc": "Raksha Anirveda is India’s premier defence, aerospace, and security news magazine covering strategic affairs, defence technology, military updates, policy analysis, and global security trends. Stay informed with expert insights and the latest updates in defence and aerospace industry.",
-                "image": "https://raksha-anirveda.com/wp-content/uploads/2026/08/Australian-KC-30A-Refuels-Indian-Rafales-for-the-First-Time.jpg",
-                "url": "https://raksha-anirveda.com/exercise-pitch-black-2026-australian-kc-30a-refuels-indian-rafales-for-the-first-time/",
-                "source": "Raksha Anirveda",
-                "date": "2026-08-02T01:16:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Trump's Nuclear Deal With Saudi Arabia Could Be Good News for These 2 Uranium ETFs",
-                "desc": "President Trump's nuclear deal with Saudi Arabia is a sign of rising demand for uranium and nuclear energy.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880966%2Fgettyimages-1486361409-1200x680-7e51262.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/08/01/why-trumps-nuclear-deal-with-saudi-arabia-be-good/",
-                "source": "The Motley Fool",
-                "date": "2026-08-02T01:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nauru sells 'golden passports' to fund climate adaptation",
-                "desc": "The tiny Pacific island nation of Nauru is pursuing an unconventional way to raise funds for adapting to an uncertain future: offering citizenship by investment.",
-                "image": "https://globalnation.inquirer.net/files/2026/08/Nauru-sells-golden-passports-to-fund-climate-adaptation-scaled.jpeg",
-                "url": "https://globalnation.inquirer.net/333340/nauru-sells-golden-passports-to-fund-climate-adaptation",
-                "source": "globalnation.inquirer.net",
-                "date": "2026-08-02T01:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-                "desc": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo",
-                "source": "BBC",
-                "date": "2026-08-02T00:55:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-                "desc": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
-                "url": "https://www.bbc.com/news/articles/c62vl925dqdo",
-                "source": "BBC",
-                "date": "2026-08-02T00:55:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hungary plans to shut down only nuclear power plant amid drought",
-                "desc": "Officials say they must shut down nation’s sole nuclear plant as record-low Danube water levels disrupt reactor cooling.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a6e8b8573-1785629573.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought",
-                "source": "Al Jazeera",
-                "date": "2026-08-02T00:53:26Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-02T21:38:29.196164Z"
+    "lastGlobalSync": "2026-08-02T22:40:14.046416Z"
 }
