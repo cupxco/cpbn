@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Saleswoman loses nearly RM300,000 to investment scam",
+                "desc": "KUALA TERENGGANU: A women's clothing saleswoman lost RM290,910 after falling victim to an investment scam syndicate.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/02/4039343.jpeg",
+                "url": "https://www.thestar.com.my/news/nation/2026/08/02/saleswoman-loses-nearly-rm300000-toinvestment-scam",
+                "source": "thestar.com.my",
+                "date": "2026-08-02T02:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "$809K-winning Powerball ticket sold at Sawtelle gas station; jackpot grows to $748 million",
+                "desc": "The Powerball jackpot grows to $748 million after there was no big winner Saturday, but still, someone in Los Angeles is suddenly much richer!",
+                "image": "https://cdn.abcotvs.com/dip/images/18307016_122225-cc-ap-powerball-img.jpg?w=1600",
+                "url": "https://abc7.com/post/powerball-jackpot-soars-707-million-ahead-saturdays-drawing/19612414/",
+                "source": "ABC7 Los Angeles",
+                "date": "2026-08-02T02:48:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Passenger vehicle sales hit top gear as July dispatches jump 33%; Maruti, Hyundai set records",
+                "desc": "India Business News: India's passenger vehicle industry is estimated to have posted one of its strongest monthly performances in July, with domestic dispatches rising by a.",
+                "image": "https://static.toiimg.com/thumb/msid-132799286,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/business/india-business/passenger-vehicle-sales-hit-top-gear-as-july-dispatches-jump-33-maruti-hyundai-set-records/articleshow/132799163.cms",
+                "source": "The Times of India",
+                "date": "2026-08-02T02:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RBI revises deposit interest rate rules: What fixed deposit investors should know before investing from October 1",
+                "desc": "The RBI's revised deposit interest rate framework takes effect from October 1, 2026. While banks get more flexibility in pricing bulk deposits, retail FD investors will see greater transparency and uniformity in interest rates.",
+                "image": "https://www.livemint.com/lm-img/img/2026/08/02/1600x900/logo/Gemini_Generated_Image_rn4hl1rn4hl1rn4h_1785637447939_1785637453734_e0aaa65f-0bdd-4cff-a821-ff5ea496af1b.png",
+                "url": "https://www.livemint.com/money/personal-finance/rbi-revises-deposit-interest-rate-rules-what-fixed-deposit-investors-should-know-before-investing-from-october-1-11785637108887.html",
+                "source": "livemint.com",
+                "date": "2026-08-02T02:26:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "After making inroads into healthcare, private equity players are targeting India's schools",
+                "desc": "As private equity firms turn their attention to India's school education sector, they are adopting innovative investment strategies. By focusing on non-profit school trusts and for-profit service models, they aim to replicate the success seen in healthcare. The continued financial commitment from parents towards education positions the sector as a lucrative opportunity, but the long-term ramifications for schools are still uncertain.",
+                "image": "https://img.etimg.com/thumb/msid-132799166,width-1200,height-630,imgsize-355992,overlay-economictimes/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/industry/services/education/after-making-inroads-into-healthcare-private-equity-players-are-targeting-indias-schools/articleshow/132799117.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-08-02T02:24:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump faces ethics storm for ‘pimping’ fast access to his Truth Social posts",
+                "desc": "The move raises questions about insider trading and using public office for private gain.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/02/57f924dd-e27b-43b2-8d1d-43334a9361c2_f329807c.jpg?itok=RYypz9_7&v=1785636561",
+                "url": "https://www.scmp.com/news/world/united-states-canada/article/3362674/trump-faces-ethics-storm-pimping-fast-access-his-truth-social-posts",
+                "source": "South China Morning Post",
+                "date": "2026-08-02T02:09:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HDFC Bank, Hyundai, Swiggy to Eternal: Why top brokerages are bullish on these 7 stocks with 13% to 72% upside potential",
+                "desc": "Brokerage consensus stocks include HDFC Bank, Swiggy, Eternal, Hyundai and more as analysts see upside of up to 72% after Q1 earnings.",
+                "image": "https://images.financialexpressdigital.com/2026/08/Brokerage-consensus-stocks.jpg",
+                "url": "https://www.financialexpress.com/market/hdfc-bank-hyundai-swiggy-to-eternal-why-top-brokerages-are-bullish-on-these-7-stocks-with-13-to-72-upside-potential/4308463/",
+                "source": "financialexpress.com",
+                "date": "2026-08-02T02:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chinese police AI algorithm tracks bitcoin money laundering with 90% accuracy",
+                "desc": "AI framework uses a memory module and large language model to detect pseudonymous cross-border illegal trading practices in crypto crackdown.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/31/db188744-c1ab-45ca-ab63-e8677e6db156_847a0da3.jpg?itok=5lFsi71h&v=1785477923",
+                "url": "https://www.scmp.com/news/china/science/article/3362493/chinese-police-ai-algorithm-tracks-bitcoin-money-laundering-90-accuracy",
+                "source": "South China Morning Post",
+                "date": "2026-08-02T02:00:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two Central Okanagan homes part of BC Children's Hospital Dream Lottery",
+                "desc": "A pair of Central Okanagan homes are up for grabs in the 2026 BC Children’s Hospital Dream Lottery.",
+                "image": "https://www.castanet.net/content/2026/8/large/dream-lottery-grand-prize-1-new_p4296207.jpg",
+                "url": "https://www.castanet.net/news/West-Kelowna/626761/Two-Central-Okanagan-homes-part-of-BC-Children-s-Hospital-Dream-Lottery",
+                "source": "Castanet",
+                "date": "2026-08-02T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Capital One closed Trump Organization accounts after investigation",
+                "desc": "The disclosure marks the first time a bank has formally tied money-laundering concerns to U.S. President Donald Trump's family business.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108343519-1785634895289-gettyimages-2219834706-TFSPI_16062025-8236.jpeg?v=1785634920&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/01/capital-one-closed-trump-organization-accounts-after-investigation.html",
+                "source": "CNBC",
+                "date": "2026-08-02T01:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Crushed by Kospi rout, angry Koreans rip Lee and vow not to buy",
                 "desc": "Retail investors sold a record amount of Kospi shares on Friday despite a stunning 18% rebound. The gauge still capped a 22% loss for the month, the steepest since the global financial crisis.",
                 "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260702012444_kospi-south-korea.jpg",
@@ -542,99 +632,99 @@
                 "source": "Yahoo",
                 "date": "2026-08-01T13:01:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "White House reviews CLARITY Act ethics compromise, Senate vote uncertain",
-                "desc": "White House reviews ethics compromise on the CLARITY Act, with a Senate vote still uncertain. Act signed into law in 2026 at 33% YES.",
-                "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/01072056/white-house-aerial-view-from-the-top-of-washington-monument--1-800x420.jpeg",
-                "url": "https://cryptobriefing.com/white-house-reviews-clarity-act-ethics-compromise-senate-vote-uncertain/",
-                "source": "Crypto Briefing",
-                "date": "2026-08-01T11:36:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ipsen S.A. (IPSEY) Q2 2026 Earnings Call Transcript",
-                "desc": "Ipsen S.A. (IPSEY) Q2 2026 Earnings Call July 30, 2026 8:00 AM EDTCompany ParticipantsDavid Loew - MD, CEO & DirectorAymeric Le Chatelier - Executive VP...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4928990-ipsen-s-a-ipsey-q2-2026-earnings-call-transcript",
-                "source": "Seeking Alpha",
-                "date": "2026-08-01T11:33:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TechReviewAfrica - News Details",
-                "desc": "Your Trusted Tech News Platform",
-                "image": "https://techreviewafrica.com/assets/images/news/2026/08/01/6a6dd8cc490eb1785583820.png",
-                "url": "https://techreviewafrica.com/news/6546/ghanas-nca-publishes-responses-to-5g-spectrum-licensing-queries-extends-application-deadline",
-                "source": "Tech Review Africa",
-                "date": "2026-08-01T11:32:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fuel economy adds to Suzuki XL6's bang-for-your buck appeal",
-                "desc": "Suzuki XL6 does not only offer excellent value for money in terms of space, but its frugal 1.5-litre engine can also save you at the pumps.",
-                "image": "https://media.citizen.co.za/wp-content/uploads/2026/08/suzuki-xl6-front.jpg",
-                "url": "https://www.citizen.co.za/motoring/suzuki-xl6-offers-great-fuel-economy/",
-                "source": "citizen.co.za",
-                "date": "2026-08-01T11:31:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NASA Searches Couch Cushions, Finds Another $600 Million for Moon Missions",
-                "desc": "Voyager Technologies, Firefly Aerospace, and Intuitive Machines have won NASA moon base contracts.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880836%2Frover-driving-around-the-moon-with-the-earth-in-the-background.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/08/01/nasa-searches-couch-cushions-finds-another-600-mil/",
-                "source": "The Motley Fool",
-                "date": "2026-08-01T11:29:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Investors Demand Answers from SpaceX After IPO",
-                "desc": "Retail investors in SpaceX are probing beyond financials after the IPO, asking about AI spending, Starlink revenue, Starship demos, orbital refueling, and branding ahead of the first public report.",
-                "image": "https://mezha.net/eng/kd_image_generate/ec4f23da_investors_demand_answers/3257808.jpg?ver=2.0.15",
-                "url": "https://mezha.net/eng/bukvy/ec4f23da_investors_demand_answers/",
-                "source": "Межа. Новини України.",
-                "date": "2026-08-01T11:28:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Work continues to restore services at West Malling",
-                "desc": "Kent-based CAF Bank said teams are working through the weekend after it suspended online services.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1c4a/live/13985170-1f8b-11f0-a007-45ee4cc6069d.jpg",
-                "url": "https://www.bbc.com/news/articles/crl7zx66dzyo",
-                "source": "BBC",
-                "date": "2026-08-01T11:27:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Work continues to restore services at West Malling-based CAF Bank",
-                "desc": "Kent-based CAF Bank said teams are working through the weekend after it suspended online services.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c4a/live/13985170-1f8b-11f0-a007-45ee4cc6069d.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/crl7zx66dzyo",
-                "source": "BBC",
-                "date": "2026-08-01T11:27:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nuclear Microreactor Clears Criticality: Crusoe Plans AI Factory Data Center Test",
-                "desc": "Nuclear AI data center power takes a major step forward as Crusoe and Aalo Atomics partner to run the world’s first GPU workloads on a sodium-cooled microreactor at Idaho National Laboratory in 2027,",
-                "image": "https://d.techtimes.com/en/full/470915/aalo-criticality.jpg",
-                "url": "https://www.techtimes.com/articles/322585/20260801/nuclear-microreactor-clears-criticality-crusoe-plans-ai-factory-data-center-test.htm",
-                "source": "Tech Times",
-                "date": "2026-08-01T11:25:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Korean dessert brand accused of copying Japan’s Tokyo Banana",
-                "desc": "Tokyo Banana is a banana-shaped sponge-cake product made by Grapestone, a Japanese confectionery company. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/154a6db29ea8efc66177b8b6934b00e2a070863eb5dafbdbf2d120a26ade6227",
-                "url": "https://www.straitstimes.com/asia/east-asia/korean-dessert-brand-accused-of-copying-japans-tokyo-banana",
-                "source": "The Straits Times",
-                "date": "2026-08-01T11:20:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "4 Cheaper Alternatives To Expensive Smart Home Sensors",
+                "desc": "Smart home sensors can be expensive, but you don't have to break the bank to start automating. Cheaper alternatives include sensors from IKEA and Sonoff.",
+                "image": "https://www.bgr.com/img/gallery/4-cheaper-alternatives-to-expensive-smart-home-sensors/l-intro-1785071685.jpg",
+                "url": "https://www.bgr.com/2224773/cheaper-alternative-smart-home-sensors/",
+                "source": "bgr.com",
+                "date": "2026-08-02T02:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SUPER GT Announces Bridgestone & Dunlop As Tyre Suppliers From 2027",
+                "desc": "SUPER GT Announces Bridgestone & Dunlop As Tyre Suppliers From 2027",
+                "image": "https://www.dailysportscar.com/wp-content/uploads/2026/05/Bridgestone-Tyres-2024-SGT.jpg",
+                "url": "https://www.dailysportscar.com/2026/08/02/super-gt-announces-bridgestone-dunlop-as-tyre-suppliers-from-2027.html",
+                "source": "dailysportscar.com",
+                "date": "2026-08-02T02:18:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thornley Kelham Unveils Hand-Crafted Porsche 356 European SL After 2,000 Hours of Metalwork",
+                "desc": "British restoration firm Thornley Kelham debuts an aluminum-bodied Porsche 356 restomod requiring more than 2,000 labor-hours to craft.",
+                "image": "https://mjengohub.co.ke/static/images/articles/6e5594588a6246abb1cf5859eccea735_IE-Photo-18-1.webp",
+                "url": "https://mjengohub.co.ke/articles/news/thornley-kelham-unveils-hand-crafted-porsche-356-european-sl-after-2000-hours-of-metalwork",
+                "source": "Mjengo Hub",
+                "date": "2026-08-02T02:13:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft is increasing the price of all Xbox Series console models.",
+                "desc": "Microsoft has raised retail prices for Xbox Series game consoles in the US, Europe, the UK, and Japan due to rising component costs.",
+                "image": "https://gamegpu.com/images/1_2026/NEWS/Q2/Avg/lb9q73lb9q73lb9_gpu.webp#joomlaImage://local-images/1_2026/NEWS/Q2/Avg/lb9q73lb9q73lb9_gpu.webp?width=1920&height=1080",
+                "url": "https://en.gamegpu.com/news/zhelezo/microsoft-uvelichivaet-stoimost-vsekh-modelej-konsolej-xbox-series",
+                "source": "GameGPU",
+                "date": "2026-08-02T02:09:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mozilla Firefox 153.0.1 Web Browser Brings Fixes for Multiple Issues and Crashes",
+                "desc": "Firefox 153.0.1 open-source web browser is now available for download to fix multiple issues and crashes discovered in Firefox 153.",
+                "image": "https://9to5linux.com/wp-content/uploads/2026/08/ff1531.webp",
+                "url": "https://9to5linux.com/mozilla-firefox-153-0-1-web-browser-brings-fixes-for-multiple-issues-and-crashes",
+                "source": "9to5Linux",
+                "date": "2026-08-02T02:07:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Search time filters appear broken worldwide",
+                "desc": "Google Search's time filters appear to be broken worldwide, yielding random results that don't match the selected filters.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-Search-on-smartphone-stock-photo-3.jpg",
+                "url": "https://www.androidauthority.com/google-search-time-filters-broken-3693606/",
+                "source": "Android Authority",
+                "date": "2026-08-02T02:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Weekly poll results: Galaxy Z Fold8 excites, but its price tag is a deterrent",
+                "desc": "The Fold8 is the foldable most of you would get if price is out of the question. Last week’s poll asked which one of Samsung’s new foldables has caught...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-poll-results-z-fold8/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/weekly_poll_results_galaxy_z_fold8_excites_but_its_price_tag_is_a_deterrent__-news-73962.php",
+                "source": "GSMArena.com",
+                "date": "2026-08-02T02:01:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Far Cry 3 gets cut content restored in brand new free download",
+                "desc": "Far Cry 3 fans, this might be a reason to revisit!",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltaaf97a072285d42c/6a6a15299f3cd132aa9070b8/far_cry_3.jpg",
+                "url": "https://www.gamingbible.com/news/far-cry-3-project-medusa-mod-679035-20260729",
+                "source": "GAMINGbible",
+                "date": "2026-08-02T02:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google rolls back new satellite image AI tool after backlash",
+                "desc": "Google rolled back on July 31 a new feature allowing Google Earth users to generate AI visualisations on top of the service's satellite imagery, following a furious backlash from researchers and open-source intelligence experts about the potential for disinformation.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/01/4038745.jpg",
+                "url": "https://www.thestar.com.my/tech/tech-news/2026/08/02/google-rolls-back-new-satellite-image-ai-tool-after-backlash",
+                "source": "The Star",
+                "date": "2026-08-02T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tired of Your Apple Watch Dying Before Bedtime? These 5 Battery-Saving Tips Keep Mine Going All Day",
+                "desc": "A smartwatch should last you all day long. Change these settings if your Apple Watch is always running low on juice.",
+                "image": "https://i.pcmag.com/imagery/articles/03wiEtA7PBB6SoTWJA6E8tp-1.fit_lim.size_1200x630.v1785635081.jpg",
+                "url": "https://www.pcmag.com/explainers/tired-of-apple-watch-dying-before-bedtime-try-my-5-battery-saving-tips",
+                "source": "PCMag",
+                "date": "2026-08-02T01:46:11Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "MS Word opens twice as slow on Windows 11 PCs as on MacBooks, and Microsoft has no excuse",
                 "desc": "Microsoft Word opens slower on Surface Laptop and Dell XPS 13 than on MacBooks, but Windows PCs win on battery life in productivity tests.",
@@ -1174,99 +1264,99 @@
                 "source": "Indiablooms",
                 "date": "2026-08-01T11:38:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei and DJI may again team up to elevate mobile imaging",
-                "desc": "Huawei and DJI are in the news headlines for once again teaming up to boost the mobile imaging segment. It's a thrilling piece of information",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/pura-camera.jpg",
-                "url": "https://www.huaweicentral.com/huawei-and-dji-may-again-team-up-to-elevate-mobile-imaging/",
-                "source": "Huawei Central",
-                "date": "2026-08-01T11:37:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Volcano Princess with a 97% rating on Steam released on smartphones, PlayStation 5, and Nintendo Switch",
-                "desc": "Players will raise a daughter and determine her character, profession, and future destiny.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1283357/media-bvnknxcwwtujkr2eg6ewml86.jpg",
-                "url": "https://ixbt.games/en/news/2026/08/01/426093-volcano-princess-s-reitingom-97-v-steam-vysla-na-smartfonax-playstation-5-i-nintendo-switch.html",
-                "source": "ixbt.games",
-                "date": "2026-08-01T11:36:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "26 Gaming Memes To Scroll While You Watch The Clock At Work",
-                "desc": "Then it's time for some gaming memes to kill some time. There are so many ways to play, from mobile games to stationary systems. From adventure games to farming simulators, there is something for ev...",
-                "image": "https://s.yimg.com/lo/mysterio/api/6762155d8a997f9b28bb9356c10b1d7fe8bbf14739bee86f22ebd973e463be0d/lightyear_networkapi/resizefill_w800_h450;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fknow_your_meme_909%2Fd79c7ca0592187f9a870b34c38b7cf54",
-                "url": "https://malaysia.news.yahoo.com/26-gaming-memes-scroll-while-113000593.html",
-                "source": "Yahoo",
-                "date": "2026-08-01T11:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mouse Controls And Other New Indie Games Worth Checking Out",
-                "desc": "Here's our roundup of new indie games you can try now, as well as ones to look forward to in the weeks to come.",
-                "image": "https://www.engadget.com/img/gallery/truck-chaos-climbing-with-dual-mouse-controls-and-other-new-indie-games-worth-checking-out/l-intro-1785532009.jpg",
-                "url": "https://www.engadget.com/2228299/truck-chaos-climbinb-with-dual-mouse-controls-and-other-new-indie-games-worth-checking-out/",
-                "source": "Engadget",
-                "date": "2026-08-01T11:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google’s long-awaited AirTag rival just leaked ahead of launch under a familiar name",
-                "desc": "The Pixel Tag has leaked ahead of Google's big event, hinting that lost keys and wallets may soon be easier to find.",
-                "image": "https://www.digitaltrends.com/tachyon/2026/08/Bluetooth-trackers.jpg?resize=1200%2C630",
-                "url": "https://www.digitaltrends.com/phones/googles-long-awaited-airtag-rival-just-leaked-ahead-of-launch-under-a-familiar-name/",
-                "source": "digitaltrends.com",
-                "date": "2026-08-01T11:26:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EA Sports FC 27 details Career Mode revamp: Dynamic OVR, smarter transfers",
-                "desc": "EA Sports has laid out a big Career Mode overhaul for EA Sports FC 27, and it’s slated to be there at launch. The main addition is a new Dynamic OVR s",
-                "image": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2026/08/ea-sports-fc-27-details-career-mode-revamp-dynamic-ovr-smart-20260801.jpg",
-                "url": "https://en.softonic.com/articles/ea-sports-fc-27-details-career-mode-revamp-dynamic-ovr-smarter-transfers?ex=RAMP-4479.1&rex=true",
-                "source": "en.softonic.com",
-                "date": "2026-08-01T11:26:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation faces its biggest threat since XBox 360 and Steam-community notes on X",
-                "desc": "Sony CFO Lin Tao attempted to address industry concerns in the latest earnings call on the proposed 2028 physical game media phase-out for PlayStation, but his words did little to appease gamers",
-                "image": "https://img.theweek.in/content/dam/week/en/archive/news/sci-tech/images/2026/8/1/sony-vs-community.jpg",
-                "url": "https://www.theweek.in/news/sci-tech/2026/08/01/playstation-digital-only-gaming-sony.html",
-                "source": "theweek.in",
-                "date": "2026-08-01T11:24:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AMD is raising Radeon GPU prices by at least 10 percent, days after Nvidia did the same",
-                "desc": "TL;DRAMD told board partners that GPU and memory kit prices will rise at least 10 percent in August as memory costs keep climbing\nAMD has informed its add-in board partners that the price of GPU and memory kits will rise by at least 10 perc",
-                "image": "https://media.thenextweb.com/2026/08/amd-radeon-gpu-price-hike-10-percent-august-memory-shortage.avif",
-                "url": "https://thenextweb.com/news/amd-radeon-gpu-price-hike-10-percent-august-memory-shortage",
-                "source": "The Next Web",
-                "date": "2026-08-01T11:21:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why leaving Bluetooth on in public is a silent security risk",
-                "desc": "Engineers designed Bluetooth decades ago for short-range, low-stakes connections. Since the first recorded issue in 2004, researchers have logged hundreds of Bluetooth vulnerabilities in the Common Vulnerabilities and Exposures (CVE) database. An active Bluetooth radio continuously widens a device’s attack surface, particularly in high-density public spaces. Three primary methods of...",
-                "image": "https://www.futura-sciences.com/en/wp-content/uploads/2026/07/you-re-making-a-massive-security-mistake-by-leaving-bluetooth-on-in-public.webp",
-                "url": "https://www.futura-sciences.com/en/youre-making-a-massive-security-mistake-by-leaving-bluetooth-on-in-public_36819/",
-                "source": "futura-sciences.com",
-                "date": "2026-08-01T11:21:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Time to Hunt Some Creatures! Meeting 'Backrooms Cleaners' at ChinaJoy'",
-                "desc": "'Backrooms Cleaners,' developed by Hypercent, made an appearance at ChinaJoy 2026.",
-                "image": "https://static.invenglobal.com/upload/image/2026/08/01/r1785580343878632.jpeg",
-                "url": "https://www.invenglobal.com/articles/24367/time-to-hunt-some-creatures-meeting-backrooms-cleaners-at-chinajoy",
-                "source": "Inven Global",
-                "date": "2026-08-01T10:30:36Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Tourism Australia Hosts Australia Marketplace South East Asia 2026 in Kuala Lumpur to Boost Regional Growth",
+                "desc": "Tourism Australia concluded its 2026 South East Asia Marketplace in Kuala Lumpur, targeting growth in Malaysia, Singapore, Indonesia, Vietnam, Thailand, and the Philippines.",
+                "image": "https://images.nomadlawyer.org/images/blog/travel-event-news/2026/08/australia-marketplace-south-east-asia-2026-kuala-lumpur-regional-tourism.jpg",
+                "url": "https://www.nomadlawyer.org/australia-marketplace-south-east-asia-2026-kuala-lumpur-regional-tourism",
+                "source": "Nomad Lawyer",
+                "date": "2026-08-02T02:49:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "KeNHA and Delivery Unit Conduct Field Inspection of Eastern Infrastructure",
+                "desc": "High-level delegation conducts field reviews across Eastern Kenya to ensure accountability and evaluate ongoing transport infrastructure developments.",
+                "image": "https://mjengohub.co.ke/static/images/articles/d7360f8b1ff145e29b1adb30ec48d3c8_HOYrBCfWkAA1plU.jpg",
+                "url": "https://mjengohub.co.ke/articles/infrastructure/kenha-and-delivery-unit-conduct-field-inspection-of-eastern-infrastructure",
+                "source": "Mjengo Hub",
+                "date": "2026-08-02T02:33:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OSEN: Kenyan tribalists have big global company that ruin lives",
+                "desc": "We’re far from alone - there’s Hindu nationalist Modi in India, Maga Trump in the US, anti-immigrant Farage in the UK.",
+                "image": "https://cdn.radioafrica.digital/image/2026/01/ee08d223-5b97-40ba-9804-dba3d67fd094.jpeg?1785644822537",
+                "url": "https://www.the-star.co.ke/siasa/2026-08-02-osen-kenyan-tribalists-have-big-global-company-that-ruin-lives",
+                "source": "the-star.co.ke",
+                "date": "2026-08-02T02:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Multiple people killed in shooting at In-N-Out Burger in US",
+                "desc": "Multiple people are dead after a shooting at an In-N-Out Burger in Twin Falls, Idaho.",
+                "image": "https://static.ffx.io/images/$zoom_1.324%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/963ff358dfae3726f06eec30711e7e43e8a2bb18716fa641f17833125daaeed8",
+                "url": "https://www.nine.com.au/world-news/usa/idaho-in-n-out-shooting-multiple-dead-including-shooter-us-20260802-p60koo.html",
+                "source": "Nine.com.au",
+                "date": "2026-08-02T02:22:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Donald Trump cancels planned attack on Iran, calls for immediate deal",
+                "desc": "\"The USA is locked and loaded and ready to go against the Islamic Republic of Iran, at levels of Military Terror, Strength, and Power not seen since World War II,\" Trump claimed.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732003",
+                "url": "https://www.jpost.com/middle-east/iran-news/article-904286",
+                "source": "The Jerusalem Post",
+                "date": "2026-08-02T02:21:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+                "desc": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o",
+                "source": "BBC",
+                "date": "2026-08-02T02:19:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+                "desc": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg",
+                "url": "https://www.bbc.com/news/articles/cjwx74qgld2o",
+                "source": "BBC",
+                "date": "2026-08-02T02:19:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Homemade bomb goes off outside upscale Moscow restaurant",
+                "desc": "Russian authorities said the blast occurred outside a restaurant on Kudrinskaya Square when a woman allegedly carrying explosives was stopped by a security guard.",
+                "image": "https://static.dw.com/image/78205163_6.jpg",
+                "url": "https://www.dw.com/en/homemade-bomb-goes-off-outside-upscale-moscow-restaurant-state-officials-say/a-78205022",
+                "source": "dw.com",
+                "date": "2026-08-02T02:12:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Plane carrying European tourists crashes in Peru, killing 13",
+                "desc": "Tourists were going to view the famed Nazca Lines, a group of extensive geoglyphs scraped into the desert hundreds of years ago by Peru’s Indigenous inhabitants",
+                "image": "https://www.theglobeandmail.com/resizer/v2/PG2SI7MN75D47A6RPELLERRU6Q.jpg?auth=e85f83a3ea83ea5db225b5b1172045ade85fdd2c8e935d46aa3f4ae39109dfab&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/world/article-plane-carrying-european-tourists-crashes-peru-13-killed/",
+                "source": "The Globe and Mail",
+                "date": "2026-08-02T02:03:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Avoid this dangerous ‘shortcut’ to losing weight",
+                "desc": "Due to their promising results, some overweight individuals might resort to taking popular weight-loss drugs without any clinical oversight.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/07/31/4036535.png",
+                "url": "https://www.thestar.com.my/lifestyle/health/2026/08/02/avoid-this-dangerous-shortcut-to-losing-weight",
+                "source": "The Star",
+                "date": "2026-08-02T02:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Teenage girl's death puts damning spotlight on 'hostage justice' system in Japan",
                 "desc": "A 16-year-old girl's family alleges she was so traumatised by her time in a police cell, it killed her. Her case is now the focus of court action alleging she was a victim of Japan's \"hostage justice\" system.",
@@ -1806,98 +1896,8 @@
                 "source": "Межа. Новини України.",
                 "date": "2026-08-01T13:08:23Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Firefighters tackle wildfires in several areas in Greece",
-                "desc": "Wildfires fanned by heavy winds is burning across multiple areas of Greece, including near Athens, with large-scale firefighting operations and emergency evacuations under way.",
-                "image": "https://www.rte.ie/images/0024c9a0-1600.jpg",
-                "url": "https://www.rte.ie/news/europe/2026/0801/1586113-wildfires-europe/",
-                "source": "RTE.ie",
-                "date": "2026-08-01T11:40:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya Elected to International Seabed Authority Council for 2027-2030 Term",
-                "desc": "Foreign Affairs Principal Secretary Korir Sing’oei announced the development following the conclusion of the 31st Session of the ISA Assembly in Kingston, Jamaica.",
-                "image": "https://capitalfm.africa/wp-content/uploads/2026/06/HLlT7K5WAAAKiGX.jpg",
-                "url": "https://capitalfm.africa/kenya-elected-to-international-seabed-authority-council-for-2027-2030-term/",
-                "source": "Capitalfm.co.ke",
-                "date": "2026-08-01T11:37:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran threatens ‘Stone Age’ retaliation as US strike pl",
-                "desc": "CNN reports intensified planning against nuclear facilities, including the fortified Pickaxe Mountain site, as Iran launches drones at Kuwait, tankers come under attack near Hormuz and Tehran threatens Israeli gas fields and regional energy infrastructure",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/29/r1cb4cyQfg/r1cb4cyQfg_0_0_1672_941_0_large.jpg",
-                "url": "https://www.ynetnews.com/article/bk2zu8jrfg",
-                "source": "Ynetnews",
-                "date": "2026-08-01T11:36:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Four people killed, more than 250 injured in 3 Free State bus crashes",
-                "desc": "Four people have been killed and more than 250 injured in three separate bus crashes in the Free State.",
-                "image": "https://news24cobalt.24.co.za/resources/02a8-213e47abfc27-84e65230d768-1000/format/inline/whatsapp_image_2026-08-01_at_11.06.03.jpeg",
-                "url": "https://www.news24.com/southafrica/news/four-people-killed-more-than-250-injured-in-3-free-state-bus-crashes-20260801-0695",
-                "source": "News24",
-                "date": "2026-08-01T11:35:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "25 Home Design Trends That Are Dying Out In 2027",
-                "desc": "Discover 27 design trends that might look cringeworthy in a decade. See which popular interior design choices could become tomorrow's household regrets.",
-                "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/19/thumb/kYLVfLye1c.jpg?crop=5616:2940;0,0%26downsize=1250:*",
-                "url": "https://www.buzzfeed.com/nicolebeckett/home-design-trends-bad",
-                "source": "BuzzFeed",
-                "date": "2026-08-01T11:31:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TechReviewAfrica - News Details",
-                "desc": "Your Trusted Tech News Platform",
-                "image": "https://techreviewafrica.com/assets/images/news/2026/08/01/6a6dd7990778b1785583513.jpg",
-                "url": "https://techreviewafrica.com/news/6543/unicef-kenya-seeks-partner-to-enhance-digital-learning-and-ai-literacy-programme",
-                "source": "Tech Review Africa",
-                "date": "2026-08-01T11:27:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The untold business story behind East Africa’s creative boom",
-                "desc": "DAR ES SALAAM: WHEN Tanzanian musicians fill arenas in Europe, Kenyan agencies create campaigns for multinational brands, and Ugandan promoters stage concerts that attract audiences from across the region, the spotlight naturally falls on the performers. They are the voices on stage, the faces on screens, and the names audiences remember. But behind those moments …",
-                "image": "https://dailynews.co.tz/wp-content/uploads/2026/08/IMG-20260801-WA0043.jpg",
-                "url": "https://dailynews.co.tz/the-untold-business-story-behind-east-africas-creative-boom/",
-                "source": "dailynews.co.tz",
-                "date": "2026-08-01T11:24:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Teenage boy killed in tragic Tyrone scrambler accident",
-                "desc": "A teenage boy has died in a tragic scrambler accident in Tyrone.The collision between a scrambler and a Scania lorry took place in the Derryloughan Road area of...",
-                "image": "https://img.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAxNlxcXC8wNlxcXC9wb2xpY2VfY29yZG9uLWUxNjcxMzUzODk4OTE2LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC9zdG9yYWdlLmRvbmVnYWxkYWlseS5jb21cXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjZhYzM3M2IwMmI4NmYwNzU4OGNkMGI4NzAxZDVjNGEzM2ZjNzFlNWQifQ==/teenage-boy-killed-in-tragic-tyrone-scrambler-accident.jpg",
-                "url": "https://www.donegaldaily.com/news/teenage-boy-killed-in-tragic-tyrone-scrambler-accident-643991",
-                "source": "Donegal Daily",
-                "date": "2026-08-01T11:24:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "People in traditional dress gather on Rütli on Swiss National Day",
-                "desc": "Several hundred people arrived at the Rütli meadow in canton Uri, central Switzerland, on Saturday morning for the Swiss National Day celebrations.",
-                "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/08/4cb8f1ca6edbe52487263a778cfde19f13951e43-91831468.jpg?ver=295ec519&fit=1200,900",
-                "url": "https://www.swissinfo.ch/eng/various/people-in-traditional-dress-will-gather-at-the-r%C3%BCtli-on-1-august/91831555?linkType=guid&utm_source=multiple&utm_campaign=swi-rss&utm_medium=rss&utm_content=o",
-                "source": "SWI swissinfo.ch",
-                "date": "2026-08-01T11:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump message to King reaffirms US recognition of Sahara",
-                "desc": "On the occasion of the 27th anniversary of the Throne Day, King Mohammed VI received a Message from US President Donald Trump.",
-                "image": "https://e2.hespress.com/wp-content/overlay/2024/11/mohamed-6-trump-1.webp?v2",
-                "url": "https://en.hespress.com/143023-trump-reaffirms-u-s-recognition-of-moroccos-sovereignty-over-sahara-in-message-to-king-mohammed-vi.html",
-                "source": "HESPRESS English - Morocco News",
-                "date": "2026-08-01T11:21:16Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-02T13:43:52.502035Z"
+    "lastGlobalSync": "2026-08-02T14:51:08.379678Z"
 }
