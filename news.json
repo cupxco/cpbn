@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Laser-plasma amplification of an ultrabroadband laser pulse to 0.3 TW",
+                "desc": "Producing on-target laser intensities much greater than 1023 W cm−2 with current laser technologies is a roadblock to accessing new regimes of physics such as strong-field quantum electrodynamics. Laser–plasma amplifiers show promise to realize these intensities by augmenting the final amplifier and compressor in traditional chirped-pulse-amplification architectures with a plasma-based amplification and compression stage that operates at a much higher damage threshold. Here we demonstrate amplification of an ultrabroadband (>60 nm) pulse in a laser–plasma Raman amplifier. We directly amplified seed intensities up to 3.7 × 1015 W cm−2 and measured efficiencies up to 8.7%. Single-shot SPIDER measurements show a factor-of-2 reduction in the amplified pulse duration with final powers up to 0.3 TW, a 10× improvement over previous results. Final pulse durations of 64 fs are measured. Energy transfers greater than 220 mJ from the picosecond pump into the seed result in a 30× energy amplification of a 7.6 mJ seed. These results set the stage for a compact plasma afterburner based on Raman amplification that could extend the scientific capability of existing petawatt-class laser facilities to enable experiments at the intensity frontier. The researchers demonstrate amplification of an ultrabroadband pulse in a laser–plasma Raman amplifier, achieving efficiencies of up to 8.7%, final powers of up to 0.3 TW, and final pulse durations of 64 fs.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41566-026-01977-1/MediaObjects/41566_2026_1977_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41566-026-01977-1?error=cookies_not_supported&code=c2ace09b-1046-4434-835a-de71973436b6",
+                "source": "Nature",
+                "date": "2026-08-03T11:47:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brokerage Benjamin hit with PSE suspension",
+                "desc": "The PSE has placed Benjamin Co Ca & Co. Inc. under involuntary suspension effective July 31 on an order from its CMIC.",
+                "image": "https://business.inquirer.net/files/2022/09/PSEI-STOCK-09162022-02.png",
+                "url": "https://business.inquirer.net/603860/brokerage-benjamin-hit-with-pse-suspension",
+                "source": "Inquirer.net",
+                "date": "2026-08-03T11:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "57m full-custom Heesen superyacht Project Setteesettanta prepares for sea trials",
+                "desc": "Dutch yard Heesen has announced that its 57-metre full-custom superyacht known as Project Setteesettanta has departed its facilities in Oss and arrived via transport in the northern Netherlands, where she will begin sea trials imminently. The update comes following her launch at the end of July.",
+                "image": "https://cdn.boatinternational.com/convert/files/2026/08/aa4d9bc0-8f29-11f1-80a8-b928b1f90ba7-Heesen-Project-Setteesettanta.jpg/r%5Bwidth%5D=1920/aa4d9bc0-8f29-11f1-80a8-b928b1f90ba7-Heesen-Project-Setteesettanta.jpg",
+                "url": "https://www.boatinternational.com/yachts/news/project-setteesettanta-yacht-heesen-prepares-sea-trials",
+                "source": "BOAT International",
+                "date": "2026-08-03T11:46:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"Building resilience through better forecasting, diversified supplier networks, and stronger risk management\": Accenture Maps a Resilient Supply Chain",
+                "desc": "Accenture’s latest Pulse of Change research reveals supply chain disruption remains the defining operational challenge, driving organisations to prioritise diversification, forecasting, and AI-enabled resilience over reshoring.",
+                "image": "https://www.emeoutlookmag.com/media/Accenture-Pulse-of-Change-October2025_1100.webp",
+                "url": "https://www.emeoutlookmag.com/supply-chain/accenture-maps-a-resilient-supply-chain",
+                "source": "EME Outlook Magazine",
+                "date": "2026-08-03T11:45:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Home affairs launches online tool to help find smart ID bank branches",
+                "desc": "The home affairs department has launched an online service to help South Africans locate bank branches that offer smart ID card applications, aiming to make it easier for citizens to replace their green bar-coded ID books",
+                "image": "https://www.sowetan.co.za/resizer/v2/YKNTWMSV7JEZFJCIOJSLLK4ZIY.jpg?smart=true&auth=2d5c0e6ed6a12fc0a5419c412eafeed076616a7d2a09dd8f85924851b6482cd1&width=1200&height=630",
+                "url": "https://www.sowetan.co.za/news/2026-08-03-home-affairs-launches-online-tool-to-help-find-smart-id-bank-branches/",
+                "source": "Sowetan",
+                "date": "2026-08-03T11:43:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sam Altman says a 'cool use case' for ChatGPT is an AI podcast about your kids. Replies were brutal",
+                "desc": "OpenAI may have an AI agent that promises to produce “share-ready work,” but the company’s CEO went public with an arguably unshare-ready take on what to do with it.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2287521404-e1785757226751.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/08/03/sam-altman-use-case-for-chatgpt-daily-ai-podcast-about-your-kids-backlash/",
+                "source": "Fortune",
+                "date": "2026-08-03T11:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Airtel Money unveils tool to separate business, personal funds",
+                "desc": "NAIROBI, Kenya Aug 3 – Airtel Money Kenya has unveiled Bizna Wallet, a digital wallet designed to help small and medium-sized enterprises (SMEs) separate their business and personal finances. Speaking…",
+                "image": "https://capitalfm.africa/wp-content/uploads/2026/08/IMG-20260803-WA00211.jpg",
+                "url": "https://capitalfm.africa/airtel-money-unveils-tool-to-separate-business-personal-funds/",
+                "source": "Capitalfm.co.ke",
+                "date": "2026-08-03T11:42:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Humain invests in Saudi AI firm MOZN to develop enterprise AI solutions",
+                "desc": "RIYADH: Saudi artificial intelligence company Humain has invested in Saudi AI firm MOZN and entered into a partnership to develop enterprise AI solutions for financial institutions and public sector organizations locally and globally. It is the first investment by Humain - which is backed by the PIF - in a Saudi company. The partnership aims to accelerate the adoption of",
+                "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/08/03/4737240-1783310176.jpg?itok=7EHLWF9Y",
+                "url": "https://www.arabnews.pk/node/2653224/saudi-arabia",
+                "source": "Arab News PK",
+                "date": "2026-08-03T11:41:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CXMT Eyes Second Beijing Memory Fab After Record IPO, Circling the Gap Samsung and Micron Left Behind",
+                "desc": "The Chinese chipmaker is in early talks with Beijing's development zone as US sanctions push China toward memory self-sufficiency.",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/CXMT-DDR5-Memory-_F.jpg",
+                "url": "https://wccftech.com/cxmt-eyes-second-beijing-memory-fab-after-record-ipo-circling-the-gap-samsung-and-micron-left-behind/",
+                "source": "Wccftech",
+                "date": "2026-08-03T11:40:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SOLOWIN HOLDINGS’ (NASDAQ: AXG) Subsidiary AX Coin Bahrain Receives Sharia Certification for AXBHD Stablecoin",
+                "desc": "MANAMA, Bahrain, Aug. 03, 2026 (GLOBE NEWSWIRE) -- AX Coin Bahrain B.S.C. Closed ('AX Coin Bahrain”), the regulated stablecoin issuer of Solowin Holdings (Nasdaq: AXG), today announced a historic milestone as its stablecoin framework, the AXBHD stablecoin, and supporting documentation have completed a formal Sharia review. This achievement distinguishes AXBHD as the first central bank regulated stablecoin to receive this certification, which was conducted by Shariyah Review Bureau W.L.L. ('SRB”), a Sharia advisory and audit firm licensed by the Central Bank of Bahrain.",
+                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+                "url": "https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/solowin-holdings-nasdaq-axg-subsidiary-ax-coin-bahrain-receives-sharia-certification-for-axbhd-stablecoin/2396964",
+                "source": "The Manila Times",
+                "date": "2026-08-03T11:40:19Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Turkish annual inflation eases in July, but underlying pressures pick up",
                 "desc": "July inflation came in lower than expected, keeping annual inflation on a downward path",
                 "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_2298668459.jpg",
@@ -542,99 +632,99 @@
                 "source": "The Economic Times",
                 "date": "2026-08-03T00:16:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Waterloo family left with no choice, buys new tickets as WestJet strike grounds flights",
-                "desc": "Even though WestJet rescheduled her family's Sunday afternoon flight out of Calgary to the Region of Waterloo International Airport, Waterloo's Victoria Richardson ended up having to spend $2,500 just so she and her family can be home before the next work week starts. Richardson's family is one of many affected by the WestJet flight cancellations following a strike action from its flight attendants.",
-                "image": "https://i.cbc.ca/ais/27f2d3e8-eebc-4c57-b1d2-8cac986bffef,1785691008454/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C908%2C3024%2C1701%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/westjet-strike-flight-cancellations-waterloo-family-pays-out-of-pocket-victoria-richardson-9.7294515",
-                "source": "CBC",
-                "date": "2026-08-02T20:44:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria's crude export earnings fall 14% despite higher oil output",
-                "desc": "Nigeria's crude oil export earnings declined by 14.4 percent to $31.54 billion in 2025, despite recording higher crude oil production...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/03/crude-oil.webp",
-                "url": "https://businessday.ng/energy/article/nigerias-crude-export-earnings-fall-14-despite-higher-oil-output/",
-                "source": "Business News Nigeria",
-                "date": "2026-08-02T20:43:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RAS Korea explores downtown Seoul's Hoehyeon, Myeong",
-                "desc": "In the search for things to do indoors amid the summer heat, Royal Asiatic Society (RAS) Korea is taking its excursions program indoors. Wandering...",
-                "image": "https://newsimg.koreatimes.co.kr/2026/07/28/00c8bb85-2abb-4926-8f46-0edd7636ec78.jpg",
-                "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260803/ras-korea-explores-downtown-seouls-hoehyeon-myeong-dong-namdaemun",
-                "source": "koreatimes.co.kr",
-                "date": "2026-08-02T20:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Price Forecast: XAU/USD Squeezed Despite Soft US Dollar - A Breakdown After NFP?",
-                "desc": "Gold enters the new week near the critical $4,000 level, with a weaker U.S. dollar offering some support while elevated Treasury yields, resilient employment data and shifting geopolitical risks continue to limit the metal's upside.",
-                "image": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/07/24051237/Gold-Price-Forecast-1-scaled.webp",
-                "url": "https://www.fxleaders.com/news/2026/08/02/gold-price-forecast-xau-usd-squeezed-despite-soft-us-dollar-a-breakdown-after-nfp/",
-                "source": "FXLeaders",
-                "date": "2026-08-02T20:39:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Diplomatic window reopens as shadow of Iran war lingers",
-                "desc": "Diplomatic efforts to reopen the Strait of Hormuz accelerated on Sunday after US President Donald Trump called off a planned attack on Iran, with Tehran saying negotiations with Oman were nearing completion and mediators outlining a proposal to revive US-Iran talks.",
-                "image": "https://i.iranintl.com/images/rdk9umy0/production/1aa9ad9df28645591a21e9dd0f8c37160f80b55b-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
-                "url": "https://www.iranintl.com/en/202608024077",
-                "source": "Iran International",
-                "date": "2026-08-02T20:37:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "H World Group (HTHT) Appoints Yanjun Sun To Board With Dealmaking And Capital Markets Experience",
-                "desc": "H World Group (NasdaqGS:HTHT) has appointed Mr. Yanjun Sun as an independent director to its Board.\nMr. Sun brings experience from major global investment firms and leadership roles across mergers and acquisitions, capital markets, and business operations.\nH World Group, known for its hotel and accommodation businesses, now adds a board member with a background that spans global investing and corporate transactions. For you as an investor, this appointment relates to how the company...",
-                "image": "https://images.simplywall.st/asset/industry/4212000-choice2-main-header/1585186722257",
-                "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-htht/h-world-group/news/h-world-group-htht-appoints-yanjun-sun-to-board-with-dealmak",
-                "source": "simplywall.st",
-                "date": "2026-08-02T20:28:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Intel (INTC) Expands Lens Packaging Tie Up As TSMC Targets EMIB",
-                "desc": "TSMC is reportedly developing an advanced chip packaging technology that targets the same segment as Intel’s EMIB for high performance computing and AI chips.\nIntel has signed a new memorandum of understanding with Lens Technology to collaborate on glass substrate based advanced packaging and related manufacturing methods.\nThese moves highlight rising competition in advanced packaging and a new set of partnerships that could reshape Intel’s role in AI and data center supply chains.\nIntel,...",
-                "image": "https://images.simplywall.st/asset/company-cover/21127-main-header/1756203058484",
-                "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-intc/intel/news/intel-intc-expands-lens-packaging-tie-up-as-tsmc-targets-emi",
-                "source": "simplywall.st",
-                "date": "2026-08-02T20:28:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Kinder Morgan’s New Long‑Dated Debt And Stronger Earnings At Kinder Morgan (KMI) Has Changed Its Investment Story",
-                "desc": "Kinder Morgan, Inc. recently completed two fixed‑income offerings totaling about US$1.75 billion, issuing 5.550% senior unsecured notes due August 1, 2036 and 6.150% senior unsecured notes due August 1, 2056, alongside reporting higher second‑quarter 2026 sales and net income than a year earlier.\nThe combination of stronger earnings and sizable new long‑dated debt raises fresh questions about Kinder Morgan’s balance sheet flexibility and long‑term funding costs.\nNext, we’ll examine how...",
-                "image": "https://images.simplywall.st/asset/company-cover/34952431-main-header/1756256220034",
-                "url": "https://simplywall.st/stocks/us/energy/nyse-kmi/kinder-morgan/news/how-kinder-morgans-new-longdated-debt-and-stronger-earnings",
-                "source": "simplywall.st",
-                "date": "2026-08-02T20:28:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mettler-Toledo (MTD) Is Up 6.7% After Raising 2026 Outlook And Announcing $875 Million Buyback",
-                "desc": "Mettler-Toledo International recently reported past second-quarter 2026 results with sales of US$1,027.31 million and net income of US$232.90 million, delivering higher basic and diluted earnings per share from continuing operations than the prior year and lifting performance for the first half as well.\nBeyond the headline earnings, the company raised its 2026 outlook, improved margins, and announced an US$875.00 million share repurchase plan, underscoring the importance of recurring service...",
-                "image": "https://images.simplywall.st/asset/industry/9551728-choice1-main-header/1585186657000",
-                "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-mtd/mettler-toledo-international/news/mettler-toledo-mtd-is-up-67-after-raising-2026-outlook-and-a",
-                "source": "simplywall.st",
-                "date": "2026-08-02T20:28:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Unusual Machines (UMAC) Draws Investor Focus As Drone Narrative Puts Valuation In View",
-                "desc": "Unusual Machines (UMAC) is drawing fresh investor attention after announcing plans to appear at several investor conferences in August 2026, where executives will hold one-on-one meetings with institutional investors.\nSee our latest analysis for Unusual Machines.\nUnusual Machines has seen strong momentum build over 2026, with a 1-year total shareholder return of 139.37% and a year to date share price return of 55.93%, even after a 30 day share price return that declined 8.87%.\nIf this...",
-                "image": "https://images.simplywall.st/asset/industry/8131000-choice2-main-header/1585186798979",
-                "url": "https://simplywall.st/stocks/us/tech/nysemkt-umac/unusual-machines/news/unusual-machines-umac-draws-investor-focus-as-drone-narrativ",
-                "source": "simplywall.st",
-                "date": "2026-08-02T20:28:22Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "MTG Sorceries can be your Commander now, thanks to Mystery Booster",
+                "desc": "Mystery Booster: Commander edition spoilers are arriving, starting with a sorcery that can lead your whole EDH deck.",
+                "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/08/magic-the-gathering-ashayas-enduring-bond.jpg",
+                "url": "https://www.wargamer.com/magic-the-gathering/ashayas-enduring-bond",
+                "source": "wargamer.com",
+                "date": "2026-08-03T11:48:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple buys plasma technology firm for developing thinner metal chassis",
+                "desc": "Czech company PlasmaSolve has been acquired by Apple, likely for its software that helps optimize manufacturing of scratch-resistant metallic coatings.",
+                "image": "https://media.appleinsider.com/gallery/68436-144213-000-lead-MatSight-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/08/03/plasmasolve-bought-by-apple-to-help-make-thin-durable-device-enclosures",
+                "source": "AppleInsider",
+                "date": "2026-08-03T11:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Earl of Devon blasts laws of succession for hereditary peerages as outdated and ‘inappropriate’, saying it’s time for women to be treated equally",
+                "desc": "Charles Peregrine Courtenay, who inherited the family seat of Powderham over his three older sisters, has fought to equalise the laws of succession",
+                "image": "https://media.tatler.com/photos/69b946e845dcd69904a62946/16:9/w_1280,c_limit/SnapInsta.to_654004015_18430564765184528_6511479438411072624_n.jpg",
+                "url": "https://www.tatler.com/article/the-earl-of-devon-blasts-laws-of-succession-for-hereditary-peerages-as-outdated-and-inappropriate",
+                "source": "Tatler",
+                "date": "2026-08-03T11:44:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Project will Transform Vehicle Weight with Innovative Ultralight, Recyclable Panels",
+                "desc": "Reducing weight, improving energy efficiency, changing composite- production processes and advancing towards more sustainable materials have become some of the transport sector’s main challenges.",
+                "image": "https://www.azom.com/images/news/ImageForNews_65669_17857578829824597.jpg",
+                "url": "https://www.azom.com/news.aspx?newsID=65669",
+                "source": "AZoM",
+                "date": "2026-08-03T11:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Methods, trade-offs and opportunities in high-speed optical microscopy for neural voltage imaging",
+                "desc": "Electrical signals in neurons underlie perception, movement, memory and behaviour, yet many unfold too rapidly to be captured by conventional optical imaging. Calcium imaging has transformed neuroscience but provides an indirect and relatively slow readout of electrical activity. By directly measuring membrane potential changes, voltage imaging enables millisecond-scale recording of action potentials, subthreshold dynamics and signal propagation across neural circuits. Recent advances in voltage-sensitive dyes and genetically encoded voltage indicators have made voltage imaging increasingly practical, motivating the development of fluorescence microscopy methods optimized for high-speed acquisition. However, voltage imaging remains constrained by trade-offs among imaging speed, spatial resolution, signal-to-noise ratios and photodamage. In this Review we discuss high-speed optical microscopy strategies that address these challenges and highlight the need for co-design among voltage indicators, imaging systems and computational analysis. The Review discusses recent advances in neural voltage imaging, with an emphasis on relevant microscopy techniques and outstanding challenges in the field.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41566-026-01965-5/MediaObjects/41566_2026_1965_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41566-026-01965-5?error=cookies_not_supported&code=0416526e-51bd-4ec1-9e80-f6394c7037de",
+                "source": "Nature",
+                "date": "2026-08-03T11:42:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oppo A7 Pro Max to launch on August 4: Check features and expected price",
+                "desc": "Oppo A7 Pro Max launches August 4 in China. Features 10,000mAh battery, 50MP cameras, IP69K rating. Pre-reservations open now.",
+                "image": "https://images.cnbctv18.com/uploads/2026/08/oppo-a7-pro-max-2026-08-ffcc9307ea8b54be311941615485bc2a.jpg?im=FitAndFill,width=1200,height=675",
+                "url": "https://www.cnbctv18.com/technology/oppo-a7-pro-max-to-launch-on-august-4-check-features-and-expected-price-19960541.htm",
+                "source": "cnbctv18.com",
+                "date": "2026-08-03T11:42:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google is working on a new UI for customizing Gemini Daily Brief",
+                "desc": "Google is actively working on a new feature to customize Gemini Daily Brief and is now tweaking the UI to make it easier to use.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Daily-Brief-Pixel-10-Pro-Fold-scaled.jpg",
+                "url": "https://www.androidauthority.com/customize-gemini-daily-brief-ui-tweak-apk-teardown-3693789/",
+                "source": "Android Authority",
+                "date": "2026-08-03T11:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "INSIDER INFO | Major banks set to unveil Apple Pay support",
+                "desc": "For years, mobile wallets have dominated the conversation around digital payments. Lately, however, the banks have been stealing the spotlight.",
+                "image": "https://insiderph.com/uploads/articles/thumb_1785756408361_pdyzj78cao5einrtq4ux-800x600.webp?v=1",
+                "url": "https://insiderph.com/insider-info-major-banks-set-to-unveil-apple-pay-support",
+                "source": "InsiderPH",
+                "date": "2026-08-03T11:41:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung Galaxy F70 Pro is official with a 6,000mAh battery, triple camera setup",
+                "desc": "It’s equipped with a Snapdragon 6 Gen 3 chipset. The Samsung Galaxy F70 Pro has made its debut in India with a triple-rear camera setup, a 6,000mAh...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-f70-pro-ofic/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/samsung_galaxy_f70_pro_is_official_with_a_6000mah_battery_triple_camera_setup-news-73980.php",
+                "source": "GSMArena.com",
+                "date": "2026-08-03T11:41:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Business Profiles On How To Protect From Fraudulent Calls and Texts",
+                "desc": "The Google Business Profile help page on Help protect against fraudulent calls and texts has been updated. It now includes how to identify legitimate texts over WhatsApp and RCS messages, it also updated a lot of the examples of the types of calls and messages you get, plus more.",
+                "image": "https://images.seroundtable.com/google-phone-scam-i3wCsNw8.jpg",
+                "url": "https://www.seroundtable.com/google-business-profiles-fraud-calls-texts-41806.html",
+                "source": "Search Engine Roundtable",
+                "date": "2026-08-03T11:41:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Google Earth Removes AI Tool After It Was Used to Create Fake Satellite Images",
                 "desc": "Google Earth removes an AI tool after it was reportedly used to create fake satellite images, raising concerns about misinformation and image authenticity",
@@ -1174,99 +1264,99 @@
                 "source": "South China Morning Post",
                 "date": "2026-08-03T00:00:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "5 Secure Password Managers You Should Try Instead Of Google Password Manager",
-                "desc": "While Google Password Manager does the job, alternatives like Bitwarden, Proton Pass, 1Password, RoboForm, and NordPass offer way better features.",
-                "image": "https://www.bgr.com/img/gallery/5-secure-password-managers-you-should-try-instead-of-google-password-manager/l-intro-1785282151.jpg",
-                "url": "https://www.bgr.com/2225686/google-password-manager-alternatives-try-instead/",
-                "source": "bgr.com",
-                "date": "2026-08-02T20:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What The RS Badge Stands For On Audi Cars",
-                "desc": "Audi has a little bit of something for every buyer, including some epic performance cars that wear the RS badge. What does the badge actually stand for?",
-                "image": "https://s.yimg.com/lo/mysterio/api/646d0abda2297ad6eede5fdf7bd890a42f43de6f0da979850c5409a57ee51a71/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fslash_gear_112%2F9b1d3c85fb9024b71a8a6df49d125dc8",
-                "url": "https://autos.yahoo.com/classic-and-collector/articles/rs-badge-stands-audi-cars-204500507.html",
-                "source": "autos.yahoo.com",
-                "date": "2026-08-02T20:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As hype builds for Final Fantasy 7 Revelation, Remake and Rebirth continue to sell well",
-                "desc": "Final Fantasy 7 Remake and Rebirth have been selling \"several times better\" than expected in the wake of Revelation's Summer Game Fest 2026 reveal.",
-                "image": "https://assetsio.gnwcdn.com/final-fantasy-7-revelation-gameplay-screen-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/final-fantasy-7-revelation-remake-rebirth-sales",
-                "source": "eurogamer.net",
-                "date": "2026-08-02T20:43:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toowoomba Carnival of Flowers: The ultimate dog",
-                "desc": "Queensland’s Toowoomba Carnival of Flowers takes place in September, and it’s every gardener’s - and dog lover’s - dream day out, writes Shelly Carson The...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/MHA54S7LNZA6HE76DX5SZFDU3U.jpg?auth=fa477a2f35208cc6ad96b18b4adadbf6cd01430f9121fb64a518c4cc519c1c45&width=1200&height=675&quality=70&focal=767%2C814&smart=false",
-                "url": "https://www.nzherald.co.nz/travel/toowoomba-carnival-of-flowers-the-ultimate-dog-friendly-getaway/RGXBIW4ZIRACFIPC7UVKNS5ABA/",
-                "source": "NZ Herald",
-                "date": "2026-08-02T20:32:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Blood Strike × Attack on Titan Launches August 1 with All-New Human vs Titan Battle Royale Mode",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-US/Blood-Strike-Attack-on-Titan-Launches-August-1-with-All-New-Human-vs-T",
-                "source": "Games Press",
-                "date": "2026-08-02T20:30:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lost Phone? Stop Staring at the Ground: The Ultimate Guide to Apple, Google, and Samsung's Tracking Apps",
-                "desc": "Losing a smartphone no longer requires frantic searching. Apple, Google, and Samsung all provide built-in tracking apps that let users locate, lock,…",
-                "image": "https://img.biggo.com/GxhexY11OctdvUfEmAr9H26JjvmEPMv-jFOkEEDrwb4/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2Y3ZDk5YTQ4LTE4MzktNGQ0OC04YTlkLTc4NjQzOWJiZjAzN18xNzg1NzAyNDkwX2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/f7d99a48-1839-4d48-8a9d-786439bbf037",
-                "source": "finance.biggo.com",
-                "date": "2026-08-02T20:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Arch Linux halts package adoptions after malware hijacking wave",
-                "desc": "As supply chain attack on code repository continues.",
-                "image": "https://i.nextmedia.com.au/News/programming-code-on-computer-screen-1.jpg",
-                "url": "https://www.itnews.com.au/news/arch-linux-halts-package-adoptions-after-malware-hijacking-wave-627870",
-                "source": "iTnews",
-                "date": "2026-08-02T20:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former Microsoft dev brings Windows Task Manager to Mac",
-                "desc": "Original Windows Task Manager developer Dave W. Plummer has revealed a new macOS port of the classic system utility. Currently in beta, the Mac version, named Task Manager OG (TMOG), aims to offer an alternative to Apple's native Activity Monitor. Plummer (via Tom's Hardware) shared details and screenshots of the project on social media, asserting",
-                "image": "https://www.kitguru.net/wp-content/uploads/2026/08/summary-732x330.jpg",
-                "url": "https://www.kitguru.net/gaming/joao-silva/former-microsoft-dev-brings-windows-task-manager-to-mac/",
-                "source": "KitGuru",
-                "date": "2026-08-02T20:19:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cougar unveils single-tower FRZ 412 ARGB CPU cooler series",
-                "desc": "Cougar has expanded its CPU cooling lineup with the introduction of the FRZ 412 ARGB and FRZ 412 Elite ARGB single-tower coolers. Both models offer a 240W TDP rating alongside broad Intel and AMD socket support. The standard FRZ 412 ARGB (via ITHome) incorporates a top-mounted dot-pixel display for real-time CPU or GPU temperature tracking,",
-                "image": "https://www.kitguru.net/wp-content/uploads/2026/08/FRZ4121-768x768-1-732x330.jpg",
-                "url": "https://www.kitguru.net/components/cooling/joao-silva/cougar-unveils-single-tower-frz-412-argb-cpu-cooler-series/",
-                "source": "KitGuru",
-                "date": "2026-08-02T20:19:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mystery Booster Commander Edition Spoilers Debut New Rulebreakers and Alchemy Cards",
-                "desc": "Thanks to an early Draft at Gen Con 2026, a ton of cards from Mystery Booster Commander Edition have just been revealed!",
-                "image": "https://mtgrocks.com/wp-content/uploads/2026/08/MTG-Tsagan-Raider-Warlord-Alchemy-Aetherdrift.webp",
-                "url": "https://mtgrocks.com/mystery-booster-commander-edition-spoilers/",
-                "source": "MTG Rocks",
-                "date": "2026-08-02T20:14:13Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Why is Ukraine targeting Wildberries, Russia's e-commerce giant?",
+                "desc": "Ukraine has struck dozens of Wildberries logistics sites across Russia since mid-July, stating that the e‑commerce giant is being used to help supply Moscow’s military. Wildberries is a critical piece of Russia’s wartime economy, giving Kyiv a new pressure point on Moscow.",
+                "image": "https://images.euronews.com/articles/stories/09/86/03/41/1200x675_cmsv2_d3e67d7c-1dd3-5276-b5b2-969ea6b32f6f-9860341.jpg",
+                "url": "https://www.euronews.com/my-europe/2026/08/03/why-is-ukraine-targeting-wildberries-russias-e-commerce-giant",
+                "source": "Euronews.com",
+                "date": "2026-08-03T11:47:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UAE Lists Tough Medical Conditions Kenyans Must Meet to Secure Work Visas",
+                "desc": "Thousands of Kenyans continue to seek jobs in the United Arab Emirates every year, but securing a work visa depends on meeting strict medical requirements that go beyond the usual documentation.",
+                "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/dubai-airport.jpg.webp?itok=wU8fFsKa",
+                "url": "https://www.kenyans.co.ke/news/125837-uae-lists-tough-medical-conditions-kenyans-must-meet-secure-work-visas",
+                "source": "Kenyans.co.ke",
+                "date": "2026-08-03T11:45:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia unveils ground-based anti-Starlink electronic warfare system",
+                "desc": "The trailer-mounted Volna Kupol Garant uses narrow, high-frequency beams to disrupt satellite links as Elon Musk’s Starlink plays a growing role in modern warfare",
+                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/10/27/HkdHb1dNs/HkdHb1dNs_0_0_850_479_0_large.jpg",
+                "url": "https://www.ynetnews.com/tech-and-digital/article/h1ivtg0szx",
+                "source": "Ynetnews",
+                "date": "2026-08-03T11:45:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Are you still being charged for a subscription you haven't used in a long time? Latvians don't even know how much they're losing",
+                "desc": "According to a survey conducted by the research company Norstat Latvia, 70% of residents in Latvia cannot accurately say how much they spend monthly on subscriptions and automatic payments. The study was commissioned by SEB banka.",
+                "image": "https://news.inbox.eu/w/img/45/6f/456f789974dbf2ca9f.webp",
+                "url": "https://news.inbox.lv/150kxfa-are-you-still-being-charged-for-a-subscription-you-haven-t-used-in-a-long-time-latvians-don-t-even-know-how-much-they-re-losing?language=en&source=portal",
+                "source": "Inbox.lv",
+                "date": "2026-08-03T11:45:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Are you still being charged for a subscription you haven't used in a long time? Latvians don't even know how much they're losing",
+                "desc": "According to a survey conducted by the research company Norstat Latvia, 70% of residents in Latvia cannot accurately say how much they spend monthly on subscriptions and automatic payments. The study was commissioned by SEB banka.",
+                "image": "https://news.inbox.eu/w/img/45/6f/456f789974dbf2ca9f.webp",
+                "url": "https://news.inbox.eu/150kxfa-are-you-still-being-charged-for-a-subscription-you-haven-t-used-in-a-long-time-latvians-don-t-even-know-how-much-they-re-losing?language=en",
+                "source": "Inbox.eu",
+                "date": "2026-08-03T11:45:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ASEAN countries should share data to propel regional economic growth: Chan Chun Sing",
+                "desc": "SINGAPORE – If countries in ASEAN work together on data sharing, energy and finance, it will provide a basis to propel the rest of the region’s economic activities, said Defence Minister Chan Chun Sin...",
+                "image": "https://s.yimg.com/lo/mysterio/api/38643f723626cc6bde1f6f0ca32f4c850f1e8070af868ea95af7ff2ded022a93/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstraits_times_442%2Fed5e98c209e8d1adf971ef4de507f9c0",
+                "url": "https://sg.news.yahoo.com/asean-countries-share-data-propel-114500374.html",
+                "source": "Yahoo News Singapore",
+                "date": "2026-08-03T11:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spain’s Leader Is Seen as Soft on Migrants, but He Acted Fast on Ceuta",
+                "desc": "After thousands poured into the Spanish territory in North Africa, the pro-immigration policies of Prime Minister Pedro Sánchez were blamed. The reality is more complex.",
+                "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-Spain-Sanchez-01-wjgk/03int-Spain-Sanchez-01-wjgk-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/08/03/world/europe/spain-ceuta-migrants-sanchez.html",
+                "source": "The New York Times",
+                "date": "2026-08-03T11:43:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Africa's Table Mountain erupts in flames",
+                "desc": "The South African National Parks rangers and traffic police officials were deployed to assist with the safe evacuation of visitors as well as the management of traffic in the area; crews are still on scene.",
+                "image": "https://i0.wp.com/tanzaniatimes.net/wp-content/uploads/2026/08/fire-on-table-mountain.jpg?fit=1170%2C602&ssl=1",
+                "url": "https://tanzaniatimes.net/fire-erupts-on-south-africas-table-mountain-in-cape-town/",
+                "source": "The Tanzania Times",
+                "date": "2026-08-03T11:42:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Best Online Casino In Uganda Where You Can Also Play Aviator",
+                "desc": "Uganda’s online casino market has matured fast. Mobile penetration is up, mobile money has made depositing and withdrawing genuinely practical, and the game formats available to Ugandan players have expanded well beyond basic slots. At the center of that expansion is Aviator — the crash game by Spribe that has become the most discussed online...",
+                "image": "https://independent.ng/wp-content/uploads/2026/08/game.jpg",
+                "url": "https://independent.ng/the-best-online-casino-in-uganda-where-you-can-also-play-aviator/",
+                "source": "Independent Newspaper Nigeria",
+                "date": "2026-08-03T11:41:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Malta Ranks Among Europe's Fastest Growing Countries Since 1990",
+                "desc": "Malta has recorded one of the biggest population increases in Europe over the last three decades, with its population growing by more than 40% between 1990 and 2023, according to new data compiled by Our World in Data using UN population estimates. The figures also build on recent National Statistics Office (NSO) data, which showed … Continued",
+                "image": "https://lovinmalta.com/wp-content/uploads/2026/08/Dylan-Covers-2026-08-03T115639.933-1024x536.jpg",
+                "url": "https://lovinmalta.com/malta/malta-ranks-among-europes-fastest-growing-countries-since-1990/",
+                "source": "Lovin Malta",
+                "date": "2026-08-03T11:41:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "‘Cursed August’ returns to haunt Russia as Putin’s regime comes under pressure",
                 "desc": "The Putin regime is rigid but brittle, and under increasing stress; don’t switch your phones off.",
@@ -1806,98 +1896,8 @@
                 "source": "Pearls and Irritations",
                 "date": "2026-08-03T00:15:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Israel ‘left in dark’ on joint Iran attack, knew Trump’s decision to call off strike from social media",
-                "desc": "US President Donald Trump has left Israel in the dark on a planned attack on Iran, as he suddenly called off the joint strike, with Israeli officials knowing…",
-                "image": "https://ednews.net/en/wp-content/uploads/sites/2/legacy/uploads/news/151585/images-%286%29.jpg",
-                "url": "https://ednews.net/en/israel-left-in-dark-on-joint-iran-attack-knew-trumps-decision-to-call-off-strike-from-social-media/",
-                "source": "ednews.net",
-                "date": "2026-08-02T20:46:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
-                "desc": "Five more bodies have been found along Ceuta’s coastline as enclave recovers from unprecedented border influx.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a6f5b97-1785682839.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco",
-                "source": "Al Jazeera",
-                "date": "2026-08-02T20:43:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man dead, woman seriously injured after Donegal crash",
-                "desc": "A man has died and a woman has been seriously injured after a collision in Pettigo, Co Donegal this afternoon.",
-                "image": "https://www.rte.ie/images/001eafb9-1600.jpg",
-                "url": "https://www.rte.ie/news/regional/2026/0802/1586219-donegal-fatal-collision/",
-                "source": "RTE.ie",
-                "date": "2026-08-02T20:42:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US must honour MoU it signed - Iran President",
-                "desc": "Iranian President Masoud Pezeshkian wants the United States to be compelled to remain committed to the Memorandum of Understanding it signed. Pezeshkian",
-                "image": "https://dailypost.ng/wp-content/uploads/2026/05/Pezeshkian.jpg",
-                "url": "https://dailypost.ng/2026/08/02/us-must-honour-mou-it-signed-iran-president/",
-                "source": "Daily Post Nigeria",
-                "date": "2026-08-02T20:41:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Diplomatic window reopens as shadow of Iran war lingers",
-                "desc": "Diplomatic efforts to reopen the Strait of Hormuz accelerated on Sunday after US President Donald Trump called off a planned attack on Iran, with Tehran saying negotiations with Oman were nearing completion and mediators outlining a proposal to revive US-Iran talks.",
-                "image": "https://i.iranintl.com/images/rdk9umy0/production/1aa9ad9df28645591a21e9dd0f8c37160f80b55b-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
-                "url": "https://www.iranintl.com/en/202608024077",
-                "source": "Iran International",
-                "date": "2026-08-02T20:37:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Venezuela and the Dominican Republic say they will work to restore ties",
-                "desc": "Both countries have agreed on a plan to restore diplomatic relations cut off after a contested vote in 2024.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a6f9e12f0-1785699859.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties",
-                "source": "Al Jazeera",
-                "date": "2026-08-02T20:37:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What we know so far about the plane crash that killed 11 European tourists near one of Peru’s most popular sites",
-                "desc": "Peru has temporarily suspended the operations of sightseeing airline Aerodiana after one of its planes crashed in the country’s Ica region on Saturday, killing 11 European tourists and two crew members.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-02t032300z-488906651-rc2vpma3lis6-rtrmadp-3-peru-crash.JPG?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/02/americas/nazca-plane-crash-dead-intl-latam",
-                "source": "CNN",
-                "date": "2026-08-02T20:34:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chad Williams identified as suspect in deadly In-N-Out shooting in Twin Falls",
-                "desc": "Twin Falls, Idaho, In-N-Out Burger shooting suspect Chad Williams has been identified after police said he killed an employee and a customer before taking his own life.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/twin-falls-police_001.jpg",
-                "url": "https://www.foxnews.com/us/police-identify-suspect-deadly-idaho-in-n-out-shooting-say-he-died-self-inflicted-gunshot-wound",
-                "source": "Fox News",
-                "date": "2026-08-02T20:34:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Two decades of justice: African Court shaping the law, defending people's rights",
-                "desc": "Based in Arusha, Tanzania, the protocol establishing the African Court on Human and People’s Rights (AfCHPR) was adopted in 1998 and ratified in 2004 by more",
-                "image": "https://blueprint.ng/wp-content/uploads/2024/07/African-court.jpg",
-                "url": "https://blueprint.ng/two-decades-of-justice-african-court-shaping-the-law-defending-peoples-rights/",
-                "source": "Blueprint Newspapers",
-                "date": "2026-08-02T20:34:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Strait of Hormuz disruption raises market volatility, weakens efforts to support crude oil market stability: OPEC",
-                "desc": "The committee reaffirmed its commitment to monitor adherence to the production adjustments decided upon at the 38th OPEC and non-OPEC Ministerial Meeting (ONOMM) held on December 5, 2024.",
-                "image": "https://gazettengr.com/wp-content/uploads/WhatsApp-Image-2026-08-02-at-21.22.57.jpeg",
-                "url": "https://gazettengr.com/strait-of-hormuz-disruption-raises-market-volatility-weakens-efforts-to-support-crude-oil-market-stability-opec/?tztc=1",
-                "source": "Peoples Gazette Nigeria",
-                "date": "2026-08-02T20:27:29Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-03T22:13:01.860298Z"
+    "lastGlobalSync": "2026-08-03T23:49:36.147010Z"
 }
