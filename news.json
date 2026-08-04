@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Dogs sniff out runaway boy’s secret hideout",
+                "desc": "A MASSIVE manhunt for an 11-year-old boy in China's Yunnan province ended days later when sniffer dogs located him hiding in a nearby empty house, Sin Chew Daily reported.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/04/4042377.jpg",
+                "url": "https://www.thestar.com.my/news/nation/2026/08/04/dogs-sniff-out-runaway-boys-secret-hideout",
+                "source": "The Star",
+                "date": "2026-08-03T23:48:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigerians may pay less for petrol as oil prices tumble",
+                "desc": "A sharp drop in global crude oil prices has raised fresh hopes that Nigerians could soon see lower petrol prices if the decline is sustained.",
+                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/06/Petrol-Subsidy.jpg",
+                "url": "https://thesun.ng/nigerians-may-pay-less-for-petrol-as-oil-prices-tumble/",
+                "source": "The Sun Nigeria",
+                "date": "2026-08-03T23:45:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Costco launches shock new Aus franchise",
+                "desc": "Costco has already successfully taken on the supermarket and petrol industries in Australia and now the US giant is ramping up a new arm.",
+                "image": "https://www.realcommercial.com.au/news/wp-content/uploads/2026/08/capi_c061bdbcecf3e517d1c06e4f0044bf51_540ecd1beb4d5a0330865722b376196e-768x577.jpeg",
+                "url": "https://www.realcommercial.com.au/news/costco-launches-shock-new-aus-franchise",
+                "source": "realcommercial.com.au",
+                "date": "2026-08-03T23:45:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FalconX layoffs amid crypto slump",
+                "desc": "Digital assets brokerage FalconX implements global layoffs, cutting 10% of staff due to a prolonged crypto market downturn. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c1d11859845fb32b9d7f9fac161192c68886e28e70153ef319b639d982f116e3",
+                "url": "https://www.straitstimes.com/business/companies-markets/falconx-cuts-10-of-jobs-amid-crypto-slump-including-half-of-singapore-staff-sources",
+                "source": "The Straits Times",
+                "date": "2026-08-03T23:43:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Asian stock futures little changed, yen also steadies",
+                "desc": "US stock index futures climbed in early Asian trading as cooling tensions in the Middle East and strong technology earnings buoyed equities. The yen steadied after its intervention-led gains.",
+                "image": "https://assets.theedgemarkets.com/jpx bloomberg 462416819.jpg",
+                "url": "https://theedgemalaysia.com/node/813202",
+                "source": "The Edge Malaysia",
+                "date": "2026-08-03T23:43:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Qantas mulls offshoring up to 1000 jobs to India in AI deal",
+                "desc": "The airline is considering shifting jobs in marketing, finance, human resources and other back-office positions as part of a deal with consulting giant Accenture.",
+                "image": "https://static.ffx.io/images/$zoom_0.3177%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/433bb5d80f3ec99127099f3e223ff9bbec7b4330",
+                "url": "https://www.theage.com.au/business/companies/qantas-mulls-offshoring-up-to-1000-jobs-to-india-report-20260804-p60l5e.html",
+                "source": "The Age",
+                "date": "2026-08-03T23:42:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Creator of Walmart's AI-Coding Tool Code Puppy Is Leaving",
+                "desc": "The creator of Walmart's internal vibe-coding tool is leaving for AI start-up Pydantic. Code Puppy lets workers code their own software tools.",
+                "image": "https://i.insider.com/6a71226aa62e6e00bc53a077?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/walmarts-ai-coding-tool-code-puppy-creator-leaving-pydantic-2026-8",
+                "source": "Business Insider",
+                "date": "2026-08-03T23:39:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NZ’s biggest bank increases mortgage rates amid ‘global uncertainty’",
+                "desc": "By Susan Edmunds of RNZ ANZ says it will increase a number of its fixed home loan and term deposit interest rates. Managing director for personal banking...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/B47HAFNHH5E6VKLXASJWWMCHRY.jpg?auth=a1794a538cf5a1856a04bed4282defc91bd070c14bf4b797b307160a1192eba5&width=1200&height=675&quality=70&focal=662%2C311&smart=false",
+                "url": "https://www.nzherald.co.nz/business/nzs-biggest-bank-increases-mortgage-rates-amid-global-uncertainty/GQU3ZWBBANH7XPOCKTZ6ZKCE4I/",
+                "source": "NZ Herald",
+                "date": "2026-08-03T23:37:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Government to sell up to 6.5% stake in LIC, may mop up Rs 31k cr",
+                "desc": "India Business News: MUMBAI/NEW DELHI: The govt is selling up to 6.5% in LIC, currently worth nearly Rs 35,000 crore ($3.7 billion) through the offer for sale (OFS) route .",
+                "image": "https://static.toiimg.com/thumb/msid-132843189,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/business/india-business/government-to-sell-up-to-6-5-stake-in-lic-may-mop-up-rs-31k-cr/articleshow/132843178.cms",
+                "source": "The Times of India",
+                "date": "2026-08-03T23:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Half price rail travel extended to 18-year-olds",
+                "desc": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6b7/live/f96ea650-8f50-11f1-99e6-95543b07d23d.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o",
+                "source": "BBC",
+                "date": "2026-08-03T23:34:13Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Palantir's Karp renews attacks on frontier AI labs",
                 "desc": "Karp said Chinese models can't be blamed for distilling U.S. models when the frontier labs \"distilled all the value of IP, everywhere.\"",
                 "image": "https://image.cnbcfm.com/api/v1/image/108300708-1777652142534-gettyimages-2256667258-AFP_93DD3YH.jpeg?v=1777652192&w=1920&h=1080",
@@ -542,99 +632,99 @@
                 "source": "MotorOctane",
                 "date": "2026-08-03T08:40:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Bitcoin dips below $63K amid $89M Coldcard wall...",
-                "desc": "Bitcoin and other major cryptocurrencies fell despite positive macroeconomic signals from easing US-Iran tensions, which lowered oil prices and Treasury yields. Bitcoin dropped about 1% to $62,800, and ether also declined, as a significant security breach involving Coldcard hardware wallets drained nearly $89 million worth of bitcoin from over 4,500 addresses. This exploit, spreading in waves, is causing market-specific fears that outweigh broader economic optimism. Investors are watching if bitcoin can hold $62,000 amid ongoing Iran talks, as a deal could lower oil further and potentially boost crypto prices, but the security issues remain a major drag.",
-                "image": "https://image-cdn.pluang.com/web/compressed/market_news.webp",
-                "url": "https://pluang.com/en/news-feed/bitcoin-turun-di-bawah-63000-meski-harapan-deal-iran-kehilangan-coldcard-guncang",
-                "source": "Pluang",
-                "date": "2026-08-03T07:08:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ITC shares account for over 5% of these 5 mutual fund schemes' portfolios. Here's how they have fared",
-                "desc": "Among the five mutual fund schemes with more than 5% exposure to ITC as of June 30, 2026, ICICI Pru FMCG Fund had the highest allocation at 18.34%, while Parag Parikh Flexi Cap Fund delivered the highest since-inception CAGR of 18.32%.",
-                "image": "https://assets.upstox.com/content/assets/images/news/itc-share-fund-news.webp",
-                "url": "https://upstox.com/news/personal-finance/mutual-funds/itc-shares-account-for-over-5-of-these-5-mutual-fund-schemes-portfolios-here-s-how-they-have-fared/article-197992/",
-                "source": "upstox.com",
-                "date": "2026-08-03T07:08:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Flacks Group updates ADI offer after court ruling",
-                "desc": "US investment firm Flacks Group has updated its bid to acquire Italian steelmaker Acciaierie d'Italia (ADI), formerly known as Ilva, after the Milan Court of Appeal ordered the shutdown of the hot production area, Flacks Group told McCloskey. On 27 July, the Milan Court of Appeal ordered that ADI shut down operations in the hot section of",
-                "image": "https://eurometal.net/wp-content/uploads/Acciaierie-dItalia-Taranto.jpg",
-                "url": "https://eurometal.net/flacks-group-updates-adi-offer-after-court-ruling/",
-                "source": "eurometal.net",
-                "date": "2026-08-03T07:06:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Four former CHANEL staff jailed for 4 to 7 years for stealing over 700 luxury items set for destruction",
-                "desc": "Four former warehouse employees of CHANEL’s Hong Kong branch have been sentenced to four to seven years in prison for conspiring to steal more than 700 items scheduled for destruction, worth about HK$19 million.",
-                "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/5b4e261726c65933bb1dff9e0674572f/2026-08/cha.jpg",
-                "url": "https://www.thestandard.com.hk/news/article/338892/Four-former-CHANEL-staff-jailed-for-4-to-7-years-for-stealing-over-700-luxury-items-set-for-destruction",
-                "source": "The Standard (HK)",
-                "date": "2026-08-03T07:06:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AstraZeneca holds talks with Bristol Myers Squibb on $400bn merger",
-                "desc": "Tie-up would be one of the biggest pharmaceutical deals ever and create the world’s fourth-largest drugmaker",
-                "image": "https://i.guim.co.uk/img/media/6a3954e9381e3e4e24f977791697aa7b44113dc6/577_0_3445_2757/master/3445.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0face22b8e0f3f9e266087811db072e5",
-                "url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals",
-                "source": "The Guardian",
-                "date": "2026-08-03T07:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MTN Nigeria adds 4.9m Subscribers in H1 2026",
-                "desc": "MTN Nigeria Communications Plc added 4.9 million new subscribers in the first half of 2026, lifting its total base to 92.2 million and pushing service revenue up 25.9% year-on-year to N2.97 trillion",
-                "image": "https://v2.techeconomy.ng/media-proxy/uploads/2026/03/MTN-Group-Reports-R218bn-Revenue.jpg",
-                "url": "https://techeconomy.ng/mtn-nigeria-adds-49m-subscribers-in-h1-2026",
-                "source": "Techeconomy",
-                "date": "2026-08-03T07:04:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Can China’s investments deliver a just energy transition?",
-                "desc": "Michael Clements is executive director of the Business and Human Rights Centre Weak human rights practice is a material risk to supply chains",
-                "image": "https://d2iztrg3kgqpue.cloudfront.net/production/3b702bef-c8eb-4280-accf-05fb4279c0b0.jpg",
-                "url": "https://www.sustainableviews.com/can-chinas-investments-deliver-a-just-energy-transition-44f993a4/",
-                "source": "Sustainable Views",
-                "date": "2026-08-03T07:03:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A super El Niño is being priced. Is it being prepared for?",
-                "desc": "Daniel Gallagher is senior climate lead at the Principles for Responsible Investment The 2026-27 El Niño is being priced as a system-level financial risk. But the real test is whether market intelligence leads to economic preparedness",
-                "image": "https://d2iztrg3kgqpue.cloudfront.net/production/a16d4582-5598-409b-9e8d-b040b0218cdb.jpg",
-                "url": "https://www.sustainableviews.com/a-super-el-nino-is-being-priced-is-it-being-prepared-for-9ac410d1/",
-                "source": "Sustainable Views",
-                "date": "2026-08-03T07:03:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Inflation, weak state spending seen dragging Q2 growth to post-pandemic low",
-                "desc": "Elevated inflation, sluggish state spending, and rising import costs may have dragged Philippine gross domestic product (GDP) growth down to 2.5 percent in the...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/03/120647.webp",
-                "url": "https://mb.com.ph/2026/08/03/inflation-weak-state-spending-seen-dragging-q2-growth-to-post-pandemic-low",
-                "source": "Manila Bulletin",
-                "date": "2026-08-03T07:02:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RCBC extends ‘Piso Fare’ at LRT-2 for MySSS Cardholders",
-                "desc": "RIZAL Commercial Banking Corp. (RCBC) has extended its “Piso Fare,” allowing MySSS Cardholders to continue enjoying a P1.00 fare at Light Rail Transit (LRT)-2 until Auag. 31, 2026.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/03/1161095.jpg",
-                "url": "https://www.manilatimes.net/2026/08/03/tmt-newswire/rcbc-extends-piso-fare-at-lrt-2-for-mysss-cardholders/2396740",
-                "source": "The Manila Times",
-                "date": "2026-08-03T07:02:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Lamborghini Unveils Revuelto Miura 60° Special Edition to Mark Miura’s 60th Anniversary, Limited to 99 Units Worldwide",
+                "desc": "Lamborghini has unveiled the Revuelto Miura 60° Homage special edition to commemorate the 60th anniversary of the Miura. The car will make its global debut during Monterey Car Week and will be limited...-Internet Info Agency",
+                "image": "https://img1.news18a.com/bseries/6595/64e8b0e6a7a0b_12.jpg",
+                "url": "https://english.news18a.com/news/english_282666.html",
+                "source": "english.news18a.com",
+                "date": "2026-08-03T23:48:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WarmySender AI Outreach Lets Marketers Run Cold-Email, LinkedIn, and Instagram Outreach on Autopilot With AI Agents Such as ChatGPT and Claude",
+                "desc": "New York, Aug. 03, 2026 (GLOBE NEWSWIRE) -- WarmySender, the all-in-one outreach platform, today detailed how marketers can run their outreach o...",
+                "image": "https://ml.globenewswire.com/media/9d65ea15-de04-409b-b3ed-cf63ac4fa723/small/warmysender-logo.jpg",
+                "url": "https://markets.businessinsider.com/news/stocks/warmysender-ai-outreach-lets-marketers-run-cold-email-linkedin-and-instagram-outreach-on-autopilot-with-ai-agents-such-as-chatgpt-and-claude-1036401273",
+                "source": "markets.businessinsider.com",
+                "date": "2026-08-03T23:43:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Agent Harnesses Can Change Red Teaming Results",
+                "desc": "Lasso research finds AI agent harnesses can influence red teaming performance as much as the underlying LLM.",
+                "image": "https://assets.esecurityplanet.com/uploads/2026/04/AI-benchmarks.png?f=jpeg",
+                "url": "https://www.esecurityplanet.com/artificial-intelligence/ai-agent-harnesses-can-change-red-teaming-results/",
+                "source": "eSecurity Planet",
+                "date": "2026-08-03T23:39:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Creator of Walmart's AI-Coding Tool Code Puppy Is Leaving",
+                "desc": "The creator of Walmart's internal vibe-coding tool is leaving for AI start-up Pydantic. Code Puppy lets workers code their own software tools.",
+                "image": "https://i.insider.com/6a71226aa62e6e00bc53a077?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/walmarts-ai-coding-tool-code-puppy-creator-leaving-pydantic-2026-8",
+                "source": "Business Insider",
+                "date": "2026-08-03T23:39:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request",
+                "desc": "Apple is working on a new feature that will support cross-device copy and paste between iOS devices and Windows PCs. Microsoft asked for the feature using Apple's EU interoperability request system for developers, which Apple implemented to comply with the Digital Markets Act. Apple began evaluating the request in March, and on June 26, proposed a project plan.",
+                "image": "https://images.macrumors.com/t/nbIhavfmOMyZ6I7EfEnaTUZ148s=/1669x/article-new/2026/08/apple-universal-clipboard-copy-paste.jpg",
+                "url": "https://www.macrumors.com/2026/08/03/apple-iphone-windows-copy-paste/",
+                "source": "MacRumors",
+                "date": "2026-08-03T23:19:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "If the Pixel 11 is on your radar, register ahead of the event to stay one step ahead",
+                "desc": "You might get a special discount",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/google-pixel-11-pro-fold-_-open-0-10-screenshot.png?w=1200&h=675&fit=crop",
+                "url": "https://www.androidpolice.com/pixel-11-preorders-registration-closes-early/",
+                "source": "Android Police",
+                "date": "2026-08-03T23:17:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft links CaptiveCrunch attacks to hospitality Wi-Fi",
+                "desc": "Microsoft says the AI-augmented CaptiveCrunch campaign is using hospitality Wi-Fi networks to target travelers with phishing and malware. This ETIH edtech news story examines Storm-2945’s methods, Microsoft 365 risks and recommended security controls.",
+                "image": "http://static1.squarespace.com/static/65a69e0c110a6977ead9741c/t/6a6f1ccd98f72327f797eb37/1785666765707/captivecrunch-hospitality-wifi-cyberattack.png.png?format=1500w",
+                "url": "https://www.edtechinnovationhub.com/news/microsoft-links-ai-augmented-captivecrunch-campaign-to-compromised-hospitality-wi-fi",
+                "source": "EdTech Innovation Hub",
+                "date": "2026-08-03T23:15:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Attack on Titan 3 Gets Release Date and New Gameplay Trailer",
+                "desc": "The game will be released on PlayStation 5, Xbox Series, Nintendo Switch 2, and PC.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1284120/3b13ac90-c80a-40c5-acfa-54d9b00c13ce.jpg",
+                "url": "https://ixbt.games/en/news/2026/08/04/426387-attack-on-titan-3-obzavelas-datoi-reliza-i-novym-geimpleinym-treilerom.html",
+                "source": "ixbt.games",
+                "date": "2026-08-03T23:13:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony adds an interesting new color to its WH-1000XM6 range",
+                "desc": "The headphone specs remain the same, but you can now get them in six different hues. Sony's successful flagship noise-cancelling headphones, the...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/08/sony-wh-1000xm6-new-color/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/sony_adds_an_interesting_new_color_to_its_wh1000xm6_range-news-73989.php",
+                "source": "GSMArena.com",
+                "date": "2026-08-03T23:11:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Players go wild for free Game Pass extraction fantasy title that combines Elden Ring and Arc Raiders",
+                "desc": "FINALLY, someone has made the extraction game genre fun!",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt64592e13615dab65/6a70b1e37b787a44d8b75398/Mistfall_Hunters.jpg",
+                "url": "https://www.gamingbible.com/news/platform/xbox/free-game-pass-elden-ring-arc-raiders-mistfall-hunter-660201-20260803",
+                "source": "GAMINGbible",
+                "date": "2026-08-03T23:00:23Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The OnePlus US exit feels very real as remaining stock evaporates",
                 "desc": "The OnePlus 15 is almost sold out in the US, with its own store empty and Amazon offering only a small selection from a third party.",
@@ -1174,99 +1264,99 @@
                 "source": "TechPowerUp",
                 "date": "2026-08-03T08:29:26Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Beyond Borders: How MENA talent is shaping Esports World Cup 2026",
-                "desc": "DUBAI: As the Esports World Cup 2026 unfolds in Paris, the Middle East and North Africa’s influence on the tournament is increasingly more visible. Beyond the success of individual clubs, the tournament has revealed a regional talent pool that now stretches across international organizations, multiple game titles and every corner of the competitive ecosystem. The EWC’s move to",
-                "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/08/03/4737188-390653701.jpg?itok=BdAcDskg",
-                "url": "https://www.arabnews.pk/node/2653198/e-sport",
-                "source": "arabnews.pk",
-                "date": "2026-08-03T07:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dublin Horse Show Has More",
-                "desc": "The Dublin Horse Show has top international showjumping and plenty more for visitors to the RDS.",
-                "image": "https://www.rte.ie/images/0024b252-1500.jpg",
-                "url": "https://www.rte.ie/archives/2026/0803/1583348-dublin-horse-show-has-more/",
-                "source": "RTE.ie",
-                "date": "2026-08-03T07:09:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "JioTag 2 launched in India with Google Find Hub and Apple Find My support: Check price, features",
-                "desc": "Disclaimer: Reliance Industries Ltd, which owns Jio, is the sole beneficiary of Independent Media Trust that controls Network18, the parent company of CNBCTV18.com.",
-                "image": "https://images.cnbctv18.com/uploads/2026/08/jiotag-2026-08-7b49b6d29706c5404027f5b58d2dfe3b.jpg?im=FitAndFill,width=1200,height=675",
-                "url": "https://www.cnbctv18.com/technology/jiotag-2-launched-in-india-with-google-find-hub-and-apple-find-my-support-price-features-19960251.htm",
-                "source": "CNBC TV18",
-                "date": "2026-08-03T07:07:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung's AI Glasses Get 'Recording Alert' Feature… LED Indicator Added After South Korea's PIPC Preemptive Regulation",
-                "desc": "South Korea's Personal Information Protection Commission (PIPC) has required Samsung Electronics to install a mechanism that alerts bystanders when…",
-                "image": "https://img.biggo.com/uiQGwT8owp8O9IFU2EQxahGc88QuZb4p1larq9R5n8M/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzU2YjUyM2ZjLWU4OGItNGY0Ni1iODIxLWQ3MzUyZTNiN2VlMF8xNzg1NzQxMDM5X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/56b523fc-e88b-4f46-b821-d7352e3b7ee0",
-                "source": "finance.biggo.com",
-                "date": "2026-08-03T07:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei to launch 'affordable' MacBook Neo PC rival in Q1 2027",
-                "desc": "Huawei seems to have one more \"affordable PC\" in the pipeline that could launch by Q1 2027, challenging Apple MacBook Neo. A new leak shares d",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/HuaweiMateBook.jpg",
-                "url": "https://www.huaweicentral.com/huawei-to-launch-affordable-macbook-neo-pc-rival-in-q1-2027/",
-                "source": "Huawei Central",
-                "date": "2026-08-03T07:02:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 easy exercises with big impacts you can do at home",
-                "desc": "Looking for simple exercises that you can slot in to your routine this summer? CAMILLA FOSTER has details on five exercises you can start from home ...",
-                "image": "https://www.echolive.ie/cms_media/module_img/10345/5172679_2_org_PA-_20woman_20press_20up.jpg",
-                "url": "https://www.echolive.ie/wow/arid-41887150.html",
-                "source": "echo live",
-                "date": "2026-08-03T07:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The MSI Prestige 14 Flip AI+ reaffirms both my likes and dislikes for 2-in-1s",
-                "desc": "This hybrid laptop has a good screen and excellent stylus, but its integrated graphics present one weakness for creatives.",
-                "image": "https://cdn.mos.cms.futurecdn.net/MYQz3PshLgjeXCTZFNfFeQ-2560-80.jpg",
-                "url": "https://www.creativebloq.com/tech/laptops/the-msi-prestige-14-flip-ai-reaffirms-both-my-likes-and-dislikes-for-2-in-1s",
-                "source": "Creative Bloq",
-                "date": "2026-08-03T07:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marantz’s new CD player and amp reviewed, KEF unveils LS Luxe, new Dolby Atmos soundbars and more",
-                "desc": "All the top hi-fi and home cinema developments, explained by our experts",
-                "image": "https://cdn.mos.cms.futurecdn.net/TA9ifZ2JUkD2rEkXkvMYwC-1920-80.jpg",
-                "url": "https://www.whathifi.com/av/marantzs-new-cd-player-and-amp-reviewed-kef-unveils-ls-luxe-new-dolby-atmos-soundbars-and-more",
-                "source": "What Hi-Fi?",
-                "date": "2026-08-03T07:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Garena Confirms Palworld Online Mobile Game With Fresh Multiplayer Features and New Content",
-                "desc": "Garena Confirms Palworld Online Mobile Game with fresh multiplayer features, new content, creature collection, and a larger survival experience on mobile.",
-                "image": "https://chshyd.in/wp-content/uploads/2026/08/Garena-Confirms-Palworld-Online-Mobile-Game.jpg",
-                "url": "https://chshyd.in/gaming/garena-confirms-palworld-online-mobile-game/",
-                "source": "chshyd.in",
-                "date": "2026-08-03T06:58:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OPPO Singapore celebrates National Day with Merlion Ollie collectible and massive discounts",
-                "desc": "Here’s how you can get your very own Mer Ollie.",
-                "image": "https://cassette.sphdigital.com.sg/image/hardwarezone/0f260dc60671a89468178728ab9fd651aa03267272a0f3ca2318dd612034030d",
-                "url": "https://www.hardwarezone.com.sg/mobile/oppo-mer-ollie-merlion-singapore-national-day-collectible",
-                "source": "HardwareZone",
-                "date": "2026-08-03T06:53:21Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Migration Kept the EU Population Growing in 2025",
+                "desc": "The EU population increased by 705,756 in 2025 even though 4.81 million deaths exceeded 3.46 million births, producing a natural decrease of 1.35 million. Eur…",
+                "image": "https://api.voronoiapp.com/generate_sharing_image?is_og_image=true&url=https://cdn.voronoiapp.com/public/images/e410dd12-05c7-47df-9059-2ef9b2652807.png",
+                "url": "https://www.voronoiapp.com/migration/Migration-Kept-the-EU-Population-Growing-in-2025-8732",
+                "source": "voronoiapp.com",
+                "date": "2026-08-03T23:44:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rape threats part of misogyny Tyneside schoolgirls face",
+                "desc": "A group of teenagers make a film describing their experiences, ahead of changes to the curriculum.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6bc0/live/119324c0-8cd3-11f1-97f5-93fc85ee9dc4.jpg",
+                "url": "https://www.bbc.com/news/articles/c2lqjjwvw2xo",
+                "source": "bbc.com",
+                "date": "2026-08-03T23:39:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Andrew Tate update: Lawyer issues stark warning to Trump over Tate brothers' extradition case",
+                "desc": "Andrew Tate's attorney has warned Trump that failing to help his jailed client could cost him young voters.",
+                "image": "https://www.hindustantimes.com/ht-img/img/2026/08/03/1600x900/logo/tate_1785798305254_1785798313945_90871834-4802-4a82-ab8e-103e5ea5b29b.png",
+                "url": "https://www.hindustantimes.com/trending/us/andrew-tate-update-lawyer-issues-stark-warning-to-trump-over-tate-brothers-extradition-case-101785796013720.html",
+                "source": "Hindustan Times",
+                "date": "2026-08-03T23:38:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Penang’s old icons shine again",
+                "desc": "GEORGE TOWN: While locals return for a trip down memory lane, foreign tourists are praising the conservation work and exhibitions at two newly restored landmarks – Fort Cornwallis and Penang State Museum.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/04/4042083.jpg",
+                "url": "https://www.thestar.com.my/news/nation/2026/08/04/penangs-old-icons-shine-again",
+                "source": "The Star",
+                "date": "2026-08-03T23:34:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump slams Iran leadership as 'unbelievably duplicitous!'",
+                "desc": "US President Donald Trump said that newly planned talks with Tehran are the \"last chance\" for Iran to forge a deal and avoid an escalation of US strikes on the country.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/djt-22GWR7ZLC5CU3PUENWNIAQLDQE.jpg?auth=e6f06e7dc3c6d146f189273a9ab6f6b93482e858ee59b6e95b09f9b4a7e3bd57&quality=70&width=600&height=315&focal=4502%2C1637",
+                "url": "https://www.1news.co.nz/2026/08/04/trump-slams-iran-leadership-as-unbelievably-duplicitous/",
+                "source": "1News",
+                "date": "2026-08-03T23:28:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Government Lists 5 Things That Can Cause a Person to Lose American Citizenship",
+                "desc": "Discover the five specific circumstances under which American citizenship can be lost, including serving foreign militaries and renouncing nationality.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/de7756aecf5799bd.jpeg?v=1",
+                "url": "https://yen.com.gh/world/us/309201-5-actions-a-person-lose-citizenship/",
+                "source": "Yen News",
+                "date": "2026-08-03T23:27:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘They are murder victims’: Senator suggests US strikes have killed people who weren’t involved in drug trafficking",
+                "desc": "The US military’s strikes on alleged drug boats have likely illegally killed “individuals who are not involved in narcotrafficking,” Sen. Tim Kaine told the White House on Monday, following “a careful review” of classified information he has seen so far.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276226456.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/03/politics/tim-kaine-boat-strikes-illegal",
+                "source": "CNN",
+                "date": "2026-08-03T23:26:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Death toll from Venezuela earthquakes passes 6,000",
+                "desc": "National Assembly President Jorge Rodriguez says 6,125 people confirmed dead as government response faces scrutiny.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a71120d3b75b-1785795085.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000",
+                "source": "Al Jazeera",
+                "date": "2026-08-03T23:22:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US State Department to close consulates in Canada, Japan and Indonesia, sources say",
+                "desc": "The State Department did not confirm the closures but said it was focused on ensuring that America’s diplomatic footprint was efficient.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/04/bae5b8b8-dbaf-4e81-b72e-b06050ae3316_d62c4fde.jpg?itok=rZDwn3lq&v=1785799128",
+                "url": "https://www.scmp.com/news/world/united-states-canada/article/3362853/us-state-department-close-consulates-canada-japan-and-indonesia-sources-say",
+                "source": "South China Morning Post",
+                "date": "2026-08-03T23:21:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Namibia: Unite against xenophobia",
+                "desc": "Rafael Hangula\nMIDRAND – Namibian representative to the Pan-African Parliament (PAP), Olivia Hanghuwo, has called for a united continental response to",
+                "image": "https://neweralive.na/wp-content/uploads/2026/08/Namibia-calls-for-united-african.jpg",
+                "url": "https://neweralive.na/namibia-unite-against-xenophobia/",
+                "source": "neweralive.na",
+                "date": "2026-08-03T23:18:53Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Iran Claims It Canceled Planned Strikes on Ukraine After Kyiv “Apology”",
                 "desc": "Iran claims it prepared to strike three Ukrainian sites but canceled after Kyiv apologized.",
@@ -1806,98 +1896,8 @@
                 "source": "Daily Mirror - Sri Lanka",
                 "date": "2026-08-03T08:42:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "CNBC Daily Open: Back to the negotiating table",
-                "desc": "Trump said negotiations with Iran will begin Monday after he held off on new strikes, raising hopes for a diplomatic end to the conflict.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108332964-1783621917945-260627-D-D0477-1154.jpeg?v=1783622008&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/03/trump-iran-war-strikes-peace-proposal-oil-.html",
-                "source": "cnbc.com",
-                "date": "2026-08-03T07:09:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Did Pak just block Qatar's Al Jazeera over POK protest reporting?",
-                "desc": "Pakistan appears to have restricted access to Qatari broadcaster Al Jazeera days after it reported extensively on protests and election-related violence in Pakistan-Occupied Kashmir. Activists and critics say the outlet's reporting gave visibility to allegations of vote-rigging, heavy restrictions and mounting resentment against Asim Munir-led hybrid regime in Pakistan.",
-                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/supporters-of-the-banned-joint-awami-action-committee-jaac--an-alliance-of-civil-society-groups--s-034133682-16x9_0.jpg?VersionId=IryfjSpEy7T9k7ZrbVnr34ig0GILl7ye",
-                "url": "https://www.indiatoday.in/world/story/al-jazeera-pakistan-block-claims-pakistan-occupied-kashmir-protest-coverage-2962170-2026-08-03",
-                "source": "India Today",
-                "date": "2026-08-03T07:08:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brazil ex-first lady launches Senate bid, stepson goes for presidency",
-                "desc": "The right-wing Liberal Party in Brazil nominated former first lady Michelle Bolsonaro as a senate candidate on Sunday, despite her recent feud with her stepson Flavio Bolsonaro, the party's presidential nominee.",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/AFP__20260802__C3TP7T3__v2__MidRes__FilesBrazilElectionSenateCandidacy.jpg",
-                "url": "https://www.vanguardngr.com/2026/08/brazil-ex-first-lady-launches-senate-bid-stepson-goes-for-presidency/",
-                "source": "Vanguard News",
-                "date": "2026-08-03T07:08:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mastercard Strengthens Asia Pacific Leadership Team with Senior Appointments",
-                "desc": "Mastercard today announced that Joyce Bo has joined the company as Executive Vice President, Core Payments, Asia Pacific. Her appointment rounds out a series of recent, senior appointments that strengthen Mastercard’s regional leadership team as the company continues to expand across AI-enabled commerce, commercial and B2B payments, and data-driven services. The appointments",
-                "image": "https://financialit.net/sites/default/files/mastercard_294.png",
-                "url": "https://financialit.net/news/people-moves/mastercard-strengthens-asia-pacific-leadership-team-senior-appointments",
-                "source": "financialit.net",
-                "date": "2026-08-03T07:07:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Boyfriend of Nova festival massacre victim found dead",
-                "desc": "Liron Barda worked as the bar manager at the Nova music festival in Re'im. During the October 7 massacre, she administered first aid to the wounded until she was killed.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732427",
-                "url": "https://www.jpost.com/israel-news/article-904382",
-                "source": "The Jerusalem Post",
-                "date": "2026-08-03T07:07:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Peru's President Considers Airport Suspension After Tourist Plane Crash Kills 13",
-                "desc": "The aircraft, operated by Peruvian tour company Aerodiana, crashed into a field near the city of Nazca shortly after takeoff, killing all 13 people on board.",
-                "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
-                "url": "https://saharareporters.com/2026/08/02/perus-president-considers-airport-suspension-after-tourist-plane-crash-kills-13",
-                "source": "Sahara Reporters",
-                "date": "2026-08-03T07:05:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mark Kelly says Trump’s Iran negotiators are…",
-                "desc": "IN FULL",
-                "image": "https://images.inkl.com/s3/article/lead_image/23657010/Senate-Intelligence-ogh083h6.jpeg",
-                "url": "https://www.inkl.com/news/mark-kelly-says-trumps-iran-negotiators-are-dangerously-out-of-their-depth",
-                "source": "inkl",
-                "date": "2026-08-03T07:05:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Death toll from migrant rush into Ceuta rises to 72",
-                "desc": "The death toll from a mass rush of migrants from Morocco into the Spanish enclave of Ceuta last week reached at least 72, as five more bodies were found along the North African coast, officials have said.",
-                "image": "https://www.rte.ie/images/0024ca9f-1600.jpg",
-                "url": "https://www.rte.ie/news/2026/0803/1586249-ceuta-spain-morocco/",
-                "source": "RTE.ie",
-                "date": "2026-08-03T07:02:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eucharistic miracles and Pope Leo",
-                "desc": "One of the adages of the Camino is to make it “your Camino,” meaning that everyone arrives at and accomplishes it with different motivations, expectations, style, and experiences.",
-                "image": "https://angelusnews.com/wp-content/uploads/2026/07/1000009057-scaled-e1785195544154-1024x579.jpg",
-                "url": "https://angelusnews.com/faith/cerny-camino-de-santiago-pope/",
-                "source": "Angelus News",
-                "date": "2026-08-03T07:01:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Too hot to study: Will heatwaves impact school summer holidays in Europe?",
-                "desc": "School summer holidays can last up to 14 weeks in the EU. However, the recurrence of heatwaves has pressed member states to consider ways for schools to adapt their calendars in the face of extreme heat.",
-                "image": "https://images.euronews.com/articles/stories/09/85/47/16/1200x675_cmsv2_497a2c19-d19d-5055-8d9c-dc9cb9d72b34-9854716.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/08/03/too-hot-to-study-will-heatwaves-impact-school-summer-holidays-in-europe",
-                "source": "Euronews",
-                "date": "2026-08-03T07:00:23Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-04T09:30:20.258550Z"
+    "lastGlobalSync": "2026-08-04T11:49:37.800277Z"
 }
