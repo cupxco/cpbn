@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "OpenAI's AI models teamed up to hack their way online. Then Meta admitted a breach of its own",
+                "desc": "For cyber and PI underwriters, three separate incidents in days is hard to write off as a one-off",
+                "image": "https://cdn-res.keymedia.com/cms/images/us/023/0343_639216198260602778.png",
+                "url": "https://www.insurancebusinessmag.com/nz/news/technology/openais-ai-models-teamed-up-to-hack-their-way-online--then-meta-admitted-a-breach-of-its-own-585213.aspx",
+                "source": "Insurance Business",
+                "date": "2026-08-06T13:37:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SEC stays controversial Nasdaq $5 million listing rule pending review",
+                "desc": "The SEC has stayed its approval of a controversial Nasdaq rule requiring listed companies to maintain at least $5 million in market value, pending commission review after receiving multiple petitions.",
+                "image": "https://tax.thomsonreuters.com/news/wp-content/themes/tac/assets/media/favicon.png",
+                "url": "https://tax.thomsonreuters.com/news/sec-stays-controversial-nasdaq-5-million-listing-rule-pending-review/",
+                "source": "tax.thomsonreuters.com",
+                "date": "2026-08-06T13:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI's AI models teamed up to hack their way online. Then Meta admitted a breach of its own",
+                "desc": "For cyber and PI underwriters, three separate incidents in days is hard to write off as a one-off",
+                "image": "https://cdn-res.keymedia.com/cms/images/us/023/0343_639216198260602778.png",
+                "url": "https://www.insurancebusinessmag.com/us/news/technology/openais-ai-models-teamed-up-to-hack-their-way-online--then-meta-admitted-a-breach-of-its-own-585210.aspx",
+                "source": "Insurance Business",
+                "date": "2026-08-06T13:36:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How SHGs and the Krushi Samrudhi Helpline help Indian farmers",
+                "desc": "See how Indian farmers are helping themselves and each other with self-help groups and government resources through the story of one farmer in Odisha.",
+                "image": "https://www.gatesfoundation.org/-/media/gfo/5ideas_articles/articles/20260806-india-shareholder-farmer-pradhan-pests/mb770067_1600x1000.jpg?rev=6629bdfa35a94a67af57600f1d09f218",
+                "url": "https://www.gatesfoundation.org/ideas/articles/india-shareholder-farmer-pradhan-pests",
+                "source": "gatesfoundation.org",
+                "date": "2026-08-06T13:33:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Coded for glamour and glory, AI make-up arm steals the show in Hong Kong hackathon",
+                "desc": "Personalised make-up assistant handed top honours after lipstick demonstration, beating more than 160 global competitors in finals.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/06/709ad109-a554-43d7-b0c5-e44a26f03c6b_7e59a1b2.jpg?itok=a975IPDu&v=1786015796",
+                "url": "https://www.scmp.com/tech/tech-trends/article/3363197/coded-glamour-and-glory-ai-make-arm-steals-show-hong-kong-hackathon",
+                "source": "South China Morning Post",
+                "date": "2026-08-06T13:30:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ford 'Fathom' electric pickup truck will start at $28,000",
+                "desc": "It's the first vehicle to be built using the \"Universal Electric Vehicle\" platform that Ford has said is key to making money with EVs.",
+                "image": "https://image.cnbcfm.com/api/v1/image/107369891-1707254776382-gettyimages-1981168981-AFP_34HR3WV.jpeg?v=1734364871&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html",
+                "source": "CNBC",
+                "date": "2026-08-06T13:29:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX lockup expiry to test retail’s iron stomach",
+                "desc": "Retail investors pack an increasingly large punch on Wall Street",
+                "image": "https://www.theglobeandmail.com/resizer/v2/TB47HYM7IZEX5PPRFHFEZPV5BY.jpg?auth=3d8480c53a25f4a4bb0a990f434e3b88530ec9eb3c4dcb0328f0ff38404eee9e&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/article-spacex-lockup-expiry-to-test-retails-iron-stomach/",
+                "source": "The Globe and Mail",
+                "date": "2026-08-06T13:27:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somantra an Enterprise-Grade Answer Engine Optimization and AI Search Visibility Platform Launches \"Brand Consideration Score\" - New ChatGPT and Google AI Search Ranking Factor for Brands",
+                "desc": "The proprietary AEO metric measures whether ChatGPT, Google AI Overviews, Claude and Perplexity, recommend a brand or only mentions them. Somantra's AI Search Platform simulates a minimum of 15,000 conversational journeys per brand across LLM's scoring the probability a user (human or agentic) chooses the brand over every competitor named in the same AI response",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/06/1167042.png",
+                "url": "https://www.manilatimes.net/2026/08/06/tmt-newswire/globenewswire/somantra-an-enterprise-grade-answer-engine-optimization-and-ai-search-visibility-platform-launches-brand-consideration-score-new-chatgpt-and-google-ai-search-ranking-factor-for-brands/2400210",
+                "source": "The Manila Times",
+                "date": "2026-08-06T13:26:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The messy politics behind Google’s big AI shakeup",
+                "desc": "Google’s AI leadership changes — such as Demis Hassabis’ role change and Jeff Dean’s departure — may have come down to pressure to speed up products and internal ethical conflicts.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2276578156.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+                "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+                "source": "The Verge",
+                "date": "2026-08-06T13:26:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Citing strong market fundamentals, Signorelli chooses rapid Texas expansion for award-winning homebuilding division",
+                "desc": "First America Homes to deliver more than 1,300 new homes in latest phase of growth",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/06/1167009.jpg",
+                "url": "https://www.manilatimes.net/2026/08/06/tmt-newswire/globenewswire/citing-strong-market-fundamentals-signorelli-chooses-rapid-texas-expansion-for-award-winning-homebuilding-division/2400196",
+                "source": "The Manila Times",
+                "date": "2026-08-06T13:26:06Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "BD Reports Third Quarter Fiscal 2026 Financial Results",
                 "desc": "Revenue of $5.0 billion increased 5.4% as reported, 4.4% FXN GAAP and adjusted diluted EPS from continuing operations of $1.64 and $3.23, respectively Year-to-date cash from continuing operations...",
                 "image": "https://news.bd.com/:/images/favicon_16.png",
@@ -542,99 +632,99 @@
                 "source": "The Verge",
                 "date": "2026-08-05T16:35:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How to Recognize When Your Customers Want You to Act",
-                "desc": "Customer-listening systems have become adept at identifying what customers want and how they feel, but they often miss a third critical signal: when customers expect action. By combining AI with human judgment to detect subtle cues about timing, organizations can make better innovation decisions, prioritize product changes more effectively, and avoid overreacting to every complaint. To do so, they should incorporate urgency into customer-feedback systems, interpret signals in their linguistic and cultural context, and link them to clear decision rules that match the timing of their response to customers’ expectations.",
-                "image": "https://hbr.org/resources/images/article_assets/2026/08/Aug26_05_1759354.jpg",
-                "url": "https://hbr.org/2026/08/how-to-recognize-when-your-customers-want-you-to-act",
-                "source": "Harvard Business Review",
-                "date": "2026-08-05T13:06:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Firm Inspires Youth to Explore Diverse Aviation Careers",
-                "desc": "EAN Aviation is inspiring young Nigerians to explore diverse aviation careers beyond pilots and cabin crew, addressing talent gaps and financial barriers.",
-                "image": "https://punchng.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-05-at-1.53.10-PM_1785935042-1080x630.webp",
-                "url": "https://punchng.com/firm-inspires-youth-to-explore-diverse-aviation-careers/",
-                "source": "Punch Newspapers",
-                "date": "2026-08-05T13:06:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bottler Coca-Cola HBC lifts profit forecast as demand outshines macro concerns",
-                "desc": "By Simone Lobo Aug 5 (Reuters) - Bottler Coca-Cola HBC narrowed its annual profit growth forecast towards the higher end of its forecast range on Wednesday, as sales related to the soccer World Cup accelerated demand that it says has stayed resilient despite uncertainties.",
-                "image": "https://live.euronext.com/favicon.ico",
-                "url": "https://live.euronext.com/en/financial-news/bottler-coca-cola-hbc-lifts-profit-forecast-demand-outshines-macro-concerns",
-                "source": "Euronext Markets: Real-time Stock Market Data | live",
-                "date": "2026-08-05T13:05:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A 25-Year-Old AI Investor’s Hedge Fund Implodes",
-                "desc": "Former OpenAI researcher Leopold Aschenbrenner’s fund, Situational Awareness reached $45 billion in assets at its peak. But in a matter of weeks, the market wiped out 77% of it.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a733402a7fd4d03646a1112/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/the-prompt/2026/08/05/a-25-year-old-ai-investors-hedge-fund-implodes/",
-                "source": "Forbes",
-                "date": "2026-08-05T13:03:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SolarEdge swings back to operating profit in Q2 as margins hit 27.5%",
-                "desc": "Backed by $346.2 million in top-line revenue and positive free cash flow, the solar inverter maker delivered its sixth consecutive quarter of YoY margin growth.",
-                "image": "https://pv-magazine-usa.com/wp-content/uploads/2026/08/SolarEdge-Nexis-3ph-in-Garage-e1785761953830.jpg",
-                "url": "https://pv-magazine-usa.com/2026/08/05/solaredge-swings-back-to-operating-profit-in-q2-as-margins-hit-27-5/",
-                "source": "pv magazine USA",
-                "date": "2026-08-05T13:03:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ADP report July 2026: Private sector adds 44,000 jobs",
-                "desc": "Payroll processing firm ADP on Wednesday released its private sector jobs data for July. Employment in the private sector grew by 44,000 jobs in the month.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/job-fair-hiring-table.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/economy/private-sector-added-44000-jobs-july-below-expectations-adp-says",
-                "source": "foxbusiness.com",
-                "date": "2026-08-05T13:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Disney Profits Soar After Layoffs And Millions In Tax Credits",
-                "desc": "Company shares have also jumped nearly 5% as it added another $1 billion to its stock-buyback plans, surely a major source of comfort to its laid-off workers.",
-                "image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Toy-Story-5.jpg",
-                "url": "https://www.cartoonbrew.com/business/disney-earnings-report-tariff-refund-265218.html",
-                "source": "Cartoon Brew",
-                "date": "2026-08-05T13:01:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada's 10 Worst-Selling Vehicles in 2026's First-Half",
-                "desc": "Check out the biggest losers, ranked by both volume and year-over-year change",
-                "image": "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2026/01/2601-Honda-Prelude-eAlder-7252-e1785876548735.jpg",
-                "url": "https://driving.ca/column/driving-by-numbers/canadas-10-worst-selling-vehicles-in-2026s-first-half",
-                "source": "driving.ca",
-                "date": "2026-08-05T13:01:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MGE Energy Reports Q2 2026 Net Income of $33.4 Million",
-                "desc": "MGE Energy (MGEE) reported second-quarter 2026 GAAP earnings of $33.4 million, or $0.89 per share, c",
-                "image": "https://www.quiverquant.com/images/mgee_rect_new.png",
-                "url": "https://www.quiverquant.com/news/MGE+Energy+Reports+Q2+2026+Net+Income+of+%2433.4+Million",
-                "source": "Quiver Quantitative",
-                "date": "2026-08-05T13:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Global race for critical minerals drives new investment into Malawi as Australian miner snaps up rare earth project",
-                "desc": "AuKing Mining has agreed to acquire the Machinga Heavy Rare Earths Project, reinforcing Malawi’s growing role in the global race to secure critical minerals used in clean energy and advanced technologies. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/0_sktkpTURBXy82YTE2ZjJjNzY2YTY2NjlhNzcwYWFiMDk2Y2I5MjdkMi5qcGeSlQMALs0FAM0C0JMFzQSwzQJ2",
-                "url": "https://africa.businessinsider.com/local/markets/global-race-for-critical-minerals-drives-new-investment-into-malawi-as-australian/hec5jld",
-                "source": "Business Insider Africa",
-                "date": "2026-08-05T13:00:39Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Cost of Hope, featuring new locations from the expansion • Межа",
+                "desc": "GSC Game World has released a new eight-minute trailer showcasing new locations from the upcoming expansion, S.T.A.L.K.E.R. 2: Cost of Hope.",
+                "image": "https://img.mezha.ua/mezha/images/doc/a/9/320793/a9f12c715735ce632e6eadaa1b0fa56a.jpeg?w=1200&q=85&stamp=1786022469",
+                "url": "https://mezha.ua/en/news/s-t-a-l-k-e-r-2-cost-of-hope-locations-overview-313947/",
+                "source": "Mezha",
+                "date": "2026-08-06T13:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft quietly stops recommending 32GB of RAM, as even Apple reportedly struggles to secure memory for iPhones and MacBooks",
+                "desc": "It's bleak out there with the RAM crisis",
+                "image": "https://cdn.mos.cms.futurecdn.net/6yum7WNr4CeWzqyEs4abR3-2000-80.jpg",
+                "url": "https://www.techradar.com/computing/memory/microsoft-quietly-stops-recommending-32gb-of-ram-as-even-apple-reportedly-struggles-to-secure-memory-for-iphones-and-macbooks",
+                "source": "TechRadar",
+                "date": "2026-08-06T13:32:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is Big Walk on Xbox? Platforms explained",
+                "desc": "Fans have been eagerly waiting to play the game with their friends, but depending on what console you have access to, this might not be a walk in the park.",
+                "image": "https://images.immediate.co.uk/production/volatile/sites/3/2026/08/Untitled-design-8-5a4e68f.png?resize=1200%2C630",
+                "url": "https://www.radiotimes.com/technology/gaming/is-big-walk-on-xbox-explained/",
+                "source": "Radio Times",
+                "date": "2026-08-06T13:31:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Monsters Are Coming! Launches on XBOX Series X|S on August 6 - With a New Update Built for Challenge Seekers",
+                "desc": "Monsters Are Coming! launches on XBOX Series X|S on August 6. Read about all the exciting updates coming to the game along with it:",
+                "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/07/Monsters_are_Coming_Asset_01-2eea90797416f586aa72.jpg",
+                "url": "https://news.xbox.com/en-us/2026/08/06/monsters-are-coming-console-launch-update/",
+                "source": "XBOX Wire",
+                "date": "2026-08-06T13:30:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Car Wash Simulator Arrives on PC on August 10. Wash Cars to a Shine!",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/08/052159-b0666dce/gamepress_header.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=4666a9e81f21c8b50221da0cdb1f9ee02c448854baa483bff064e40b9a5dd163",
+                "url": "https://www.gamespress.com/en-US/Car-Wash-Simulator-Arrives-on-PC-on-August-10-Wash-Cars-to-a-Shine",
+                "source": "Games Press",
+                "date": "2026-08-06T13:30:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bigfoot Life Launches Today on The Epic Games Store!",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Bigfoot-Life-Launches-Today-on-The-Epic-Games-Store",
+                "source": "Games Press",
+                "date": "2026-08-06T13:30:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Soft Rains’ Ambrosia Sky: Act Two is Out today on Steam and Epic Games Store",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-US/Soft-Rains-Ambrosia-Sky-Act-Two-is-Out-today-on-Steam-and-Epic-Games-S",
+                "source": "Games Press",
+                "date": "2026-08-06T13:30:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "See the City in Style!",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/See-the-City-in-Style-Bus-Bound-s-Hidden-Gems-Tour-DLC-Free-Update-Are",
+                "source": "Games Press",
+                "date": "2026-08-06T13:30:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Download Guide for Android and iOS in SA",
+                "desc": "You can download the Betfred app as a progressive web app on Android & iOS in South Africa. Enjoy low storage and data-saving mobile betting.",
+                "image": "https://www.afrik-foot.com/en-za/thumbor/glUdQOmFx92qZ14tJDwAe7zEVM8=/1336x738/smart/filters:format(webp)/https%3A%2F%2Fmedia.afrik-foot.com%2Fen-za%2F2026%2F08%2FBetfred-App-South-Africa-Review.webp",
+                "url": "https://www.afrik-foot.com/en-za/betfred-app",
+                "source": "afrik-foot.com",
+                "date": "2026-08-06T13:30:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple’s Private Relay is supposed to hide your IP. Researchers found three ways it doesn’t",
+                "desc": "Researchers found three WebKit flaws that leak your real IP address through Apple's iCloud Private Relay, exposed by any site that supports passkeys.",
+                "image": "https://media.thenextweb.com/2026/08/iphone-apple.jpg",
+                "url": "https://thenextweb.com/news/apple-private-relay-ip-leak-webkit-passkeys",
+                "source": "The Next Web",
+                "date": "2026-08-06T13:29:02Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Six New Purple Seiko Watches For Its 145th Anniversary",
                 "desc": "✓ Six new Seiko watches with purple dials for its 145th anniversary. Seikos from the 5, Prospex, Astron, Presage, and Rotocall collections ✓",
@@ -1174,99 +1264,99 @@
                 "source": "Engadget",
                 "date": "2026-08-05T16:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei nova 16 SE debuts with an 8,500mAh battery and 6.84-inch display",
-                "desc": "The phone is equipped with a Kirin 8020 chipset. As promised, Huawei has officially unveiled the latest addition to its nova 16 series in China. The nova...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/08/huawei-nova-16-se-ofic/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/huawei_nova_16_se_debuts_with_an_8500mah_battery_and_684inch_display-news-74023.php",
-                "source": "GSMArena.com",
-                "date": "2026-08-05T13:06:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "If you launch Call of Duty: Black Ops 2 on PS4 or PS5 to be immediately told you're banned - don't panic, there's an easy fix",
-                "desc": "The Black Ops 2 port is being plagued by hackers who are messing with players, but the developer is attempting to fix the situation.",
-                "image": "https://static.tweaktown.com/news/1/1/113007_01_if-you-launch-call-of-duty-black-ops-2-on-ps4-or-ps5-to-be-immediately-told-youre-banned-dont-panic-theres-an-easy-fix_full.jpg",
-                "url": "https://www.tweaktown.com/news/113007/if-you-launch-call-of-duty-black-ops-2-on-ps4-or-ps5-to-be-immediately-told-youre-banned-dont-panic-theres-an-easy-fix/index.html",
-                "source": "TweakTown",
-                "date": "2026-08-05T13:05:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stellantis Reimagines Storytelling With Drone Campaign",
-                "desc": "Stellantis Reimagines Storytelling With Drone Campaign - 08/05/2026",
-                "image": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/08/05/stellantis_CWMkBK4.png",
-                "url": "https://www.mediapost.com/publications/article/417026/stellantis-reimagines-storytelling-with-drones-thr.html?edition=143429",
-                "source": "MediaPost",
-                "date": "2026-08-05T13:04:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Drawn Metroidvania Fallen Tear: The Ascension Leaves Early Access on September 16th\"",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/03/261526-ccec2c42/keyart.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=e2b8014cfe151be7b4e6fee15c9d07dfcdff0115a5fec0cd3f144392bd389010",
-                "url": "https://www.gamespress.com/it/Hand-Drawn-Metroidvania-Fallen-Tear-The-Ascension-Leaves-Early-Access-",
-                "source": "Games Press",
-                "date": "2026-08-05T13:04:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Drawn Metroidvania Fallen Tear: The Ascension Leaves Early Access on September 16th\"",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/03/261526-ccec2c42/keyart.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=e2b8014cfe151be7b4e6fee15c9d07dfcdff0115a5fec0cd3f144392bd389010",
-                "url": "https://www.gamespress.com/en-US/Hand-Drawn-Metroidvania-Fallen-Tear-The-Ascension-Leaves-Early-Access-",
-                "source": "Games Press",
-                "date": "2026-08-05T13:04:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Limbot Stumbles Onto Nintendo Switch, Xbox and Steam",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/08/031056-3aeccbc1/MasterImage16x9.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=1cc99bd4749353b4d05e0878c6d398f65ae2d2710c5977d6c5f0579fa4252105",
-                "url": "https://www.gamespress.com/en-GB/Limbot-Stumbles-Onto-Nintendo-Switch-Xbox-and-Steam",
-                "source": "Games Press",
-                "date": "2026-08-05T13:04:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LEVEL INFINITE REVEALS ITS GAMESCOM 2026 LINEUP",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-GB/LEVEL-INFINITE-REVEALS-ITS-GAMESCOM-2026-LINEUP",
-                "source": "Games Press",
-                "date": "2026-08-05T13:04:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "edited beagles may offer a future option for people with dog allergies",
-                "desc": "Matt Walker couldn’t pet a dog without sneezing — until he and other scientists used a gene editing technique to produce a hypoallergenic beagle named Bailey.",
-                "image": "https://insidepolitic.co.za/wp-content/uploads/2026/08/Screenshot-2026-08-05-150305.png",
-                "url": "https://insidepolitic.co.za/gene-edited-beagles-may-offer-a-future-option-for-people-with-dog-allergies/",
-                "source": "Inside Politic",
-                "date": "2026-08-05T13:03:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RPCS3 reveals PS3 emulator runs much faster on Linux but Windows still dominates in total user base",
-                "desc": "The official RPCS3 account on X has revealed some interesting information regarding the distribution of the PlayStation 3 emulator's user base on Windows, Linux, and macOS. Unsurprisingly, Windows is by far the most dominant platform.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/RPCS3-user-base-on-Windows-is-much-larger-than-Linux.jpg",
-                "url": "https://www.notebookcheck.net/RPCS3-reveals-PS3-emulator-runs-much-faster-on-Linux-but-Windows-still-dominates-in-total-user-base.1360580.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-08-05T13:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Casio's New Rugged £100 G-Shock Watch Has Rare Old-School Features",
-                "desc": "The Japanese watchmaker's newest watch revives a feature we don't see all too often these days",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/fce8cb08-d665-4b08-83ee-9a3537921367.jpg?crop=1.00xw:0.997xh;0,0&resize=1200:*",
-                "url": "https://www.esquire.com/uk/watches/a73353511/casio-new-rugged-100-g-shock-watch-old-school-features-rare/",
-                "source": "Esquire",
-                "date": "2026-08-05T13:01:13Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Houthi rebel attacks kill at least 30 Yemeni government forces, officials say",
+                "desc": "Houthi rebel attacks Thursday in central and eastern Yemen killed at least 30 government troops and wounded at least 50 others, Yemeni government officials said.",
+                "image": "https://www.castanet.net/content/2026/8/4503c59efcd7bbbef1aeac99277fc73eb77b02cfdd0a9e998c9007b75a32ddeb.jpg",
+                "url": "https://www.castanet.net/news/World/627184/Houthi-rebel-attacks-kill-at-least-30-Yemeni-government-forces-officials-say",
+                "source": "Castanet",
+                "date": "2026-08-06T13:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Visa Bond Program Creates New Hurdle for Foreign Business Travelers",
+                "desc": "A new U.S. visa bond program could raise costs and create new hurdles for employers interacting with business visitors from 50 countries.",
+                "image": "https://www.shrm.org/content/dam/en/shrm/topics-tools/talent-acquisition/airportmobility.jpg",
+                "url": "https://www.shrm.org/topics-tools/news/b-visa-bond-program-foreign-business-travelers",
+                "source": "SHRM",
+                "date": "2026-08-06T13:36:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+                "desc": "The committee will now refer him for possible prosecution for refusing to answer questions about his handling of the Covid-19 pandemic.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e7a/live/d958d7c0-919c-11f1-9c53-0382b914b78c.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o",
+                "source": "BBC",
+                "date": "2026-08-06T13:36:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Senator Collins Presses Administration to Review Impact of Canada Tariffs, Meets with Canadian Ambassador",
+                "desc": "Press release",
+                "image": "https://substackcdn.com/image/fetch/$s_!GUqQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11ce6a70-c7cb-4a8a-9ff3-de7c8e229fdc_7952x5304.jpeg",
+                "url": "https://barharborstory.substack.com/p/senator-collins-presses-administration",
+                "source": "Bar Harbor Story | Carrie Jones | Substack",
+                "date": "2026-08-06T13:35:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine hits Russian oil facilities, Zelenskyy says",
+                "desc": "Ukrainian President Volodymyr Zelenskyy says Ukraine has hit more oil facilities deep inside Russia.",
+                "image": "https://dims.apnews.com/dims4/default/bfa2d4a/2147483647/strip/true/crop/2000x1333+0+84/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2Fbc%2Fefecfe62a1ad887d380f0161e525%2F30f496a137754a63baa38b7206df9b3b",
+                "url": "https://apnews.com/article/russia-ukraine-war-ballistic-missiles-patriots-drones-30447169b0145caa2e48ebf22b235c7a",
+                "source": "AP News",
+                "date": "2026-08-06T13:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nearly 50 asylum seekers deported under ‘one in one out’ scheme have returned to the UK",
+                "desc": "Figure raises questions about deal with France despite UK ministers insisting repeat arrivals will be removed",
+                "image": "https://i.guim.co.uk/img/media/5c651fe8dbb074643c0ecf429d3c9314d0ce8e6a/86_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfbfa67baa47063e8776453cc63cb196",
+                "url": "https://www.theguardian.com/uk-news/2026/aug/06/asylum-seekers-deported-one-in-one-out-returned-to-uk",
+                "source": "theguardian.com",
+                "date": "2026-08-06T13:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Will the US-Iran war and Hormuz deadlock last for months?",
+                "desc": "Will the war on Iran and Hormuz deadlock last for months? Experts analyse the obstacles blocking a lasting deal.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260727__C39X7AF__v1__HighRes__IranUsIsraelWar-1785375678.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months",
+                "source": "Al Jazeera",
+                "date": "2026-08-06T13:31:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UEFA vice president seeks ‘custodian of ⁠sport’ after FIFA-Infantino furore",
+                "desc": "UEFA continues to lead criticism of FIFA President Gianni Infantino despite global body’s defiant stance.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2024-02-08T102818Z_626368037_UP1EK280T335I_RTRMADP_3_SOCCER-UEFA-1786017991.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/sports/2026/8/6/uefa-vice-president-makes-custodian-of-%E2%81%A0the-sport-slant-against-infantino",
+                "source": "Al Jazeera",
+                "date": "2026-08-06T13:31:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dutch rights group COC wins Pride Award for 80 years of work",
+                "desc": "Dutch rights group COC wins Pride Award for 80 years of work",
+                "image": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2026/08/Pride-flag.jpg",
+                "url": "https://www.dutchnews.nl/2026/08/dutch-rights-group-coc-wins-pride-award-for-80-years-of-work/",
+                "source": "DutchNews.nl",
+                "date": "2026-08-06T13:30:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration’s new Head Start rule sparks controversy",
+                "desc": "The Trump administration unveiled Thursday sweeping and controversial proposed changes to the Head Start program.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25030086316794.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/06/politics/head-start-program-proposal-trump-critics",
+                "source": "CNN",
+                "date": "2026-08-06T13:30:29Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Will Hamas actually disarm?",
                 "desc": "Trump hailed the Board of Peace deal as a, \"major milestone\". Why has progress stalled?",
@@ -1806,98 +1896,8 @@
                 "source": "The New York Times",
                 "date": "2026-08-05T16:35:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Putin’s Fiery Humiliation Spreads to New Region in Raging Crisis",
-                "desc": "Ukraine has been increasingly targeting facilities belonging to a company dubbed “Russia’s Amazon.”",
-                "image": "https://www.thedailybeast.com/resizer/v2/MKTIVPYAMZBLNBSZI4PJTKE4ME.JPG?smart=true&auth=2b0a4c5e4062d4a17f1edde5f2fc17bf199c7c86181729f9f03fee5e32a55109&width=1200&height=630",
-                "url": "https://www.thedailybeast.com/putins-fiery-drone-humiliation-spreads-to-new-region-in-raging-crisis/",
-                "source": "The Daily Beast",
-                "date": "2026-08-05T13:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pakistan’s Khan in jail for 3 years: PTI rallies over ‘arbitrary detention’",
-                "desc": "Thousands of supporters of former PM Imran Khan’s party demonstrate across country to call for his immediate release.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260805__C3ZJ9NQ__v1__MidRes__PakistanPoliticsProtestKhan-1785931765.jpg?resize=1200%2C630",
-                "url": "https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement",
-                "source": "Al Jazeera",
-                "date": "2026-08-05T13:04:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pope encourages Catholics to deepen prayer through Liturgy of the Hours",
-                "desc": "Returning to his weekly general audiences after a monthlong summer break, Pope Leo XIV urged Catholics to embrace the Liturgy of the Hours more fully in their daily lives, saying the church's public prayer is an antidote to a world shaped by technology, consumerism and an efficiency-driven mindset.",
-                "image": "https://catholicreview.org/wp-content/uploads/2026/08/20260805T0830-1824354.jpg",
-                "url": "https://catholicreview.org/pope-encourages-catholics-to-deepen-prayer-through-liturgy-of-the-hours/",
-                "source": "Catholic Review",
-                "date": "2026-08-05T13:03:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan tests long-range Type 12 missile as counterstrike capability against China grows",
-                "desc": "First public flight test of upgraded Type 12 variant marks milestone in efforts to counter Chinese naval power.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/05/3efdffde-0a22-4b5c-bcef-9d51e8e1af44_9e9da929.jpg?itok=EdEVM0ei&v=1785922928",
-                "url": "https://www.scmp.com/news/china/military/article/3363052/japan-tests-long-range-type-12-missile-counterstrike-capability-against-china-grows",
-                "source": "South China Morning Post",
-                "date": "2026-08-05T13:00:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nine wines to enjoy in August, whether you’re looking for refreshment or flavours to savour",
-                "desc": "This week’s recommendations focus on some of my favourite fresh expressions",
-                "image": "https://www.theglobeandmail.com/resizer/v2/CPCDZE4I4FCSNJSOGRK424LR7M.jpg?auth=e909abe049f267121d75d9864dfd42b4e424a1e4f74da994c6cb8e2c2951479b&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/life/article-nine-wines-to-try-in-august/",
-                "source": "The Globe and Mail",
-                "date": "2026-08-05T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Winter storm forecast to hit South Africa from 9 to 11 August",
-                "desc": "South Africans have been warned to brace for a significant winter cold front expected to bring widespread rain, snow, strong winds and a sharp drop in temperatures across large parts of the country from 9 to 11 August.",
-                "image": "https://insidemetros.co.za/wp-content/uploads/2024/12/SAWEATHER.jpg",
-                "url": "https://insidemetros.co.za/2026/08/05/winter-storm-forecast-to-hit-south-africa-from-9-to-11-august/",
-                "source": "Inside Metros",
-                "date": "2026-08-05T12:59:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SoDMA and Plan International Pledge Stronger Emergency Preparednesd Amid El Nino Warnings",
-                "desc": "The two sides agreed to strengthen cooperation as Somalia faces increased humanitarian pressures",
-                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgClPM1qF2I6qMAbvVFftBSWlwzcNGZkDUg5PX",
-                "url": "https://www.dawan.africa/news/sodma-and-plan-international-pledge-stronger-emergency-preparednesd-amid-el-nino-warnings",
-                "source": "Dawan Africa",
-                "date": "2026-08-05T12:58:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China lands painful retaliation over EU sanctions on Russia",
-                "desc": "On July 23, the EU approved its 21st package of sanctions against Russia, introducing the biggest expansion of personal and corporate restrictions for four years.",
-                "image": "https://en.thebell.io/content/images/2026/08/China-lands-painful-retaliation-over-EU-sanctions-on-Russia.png",
-                "url": "https://en.thebell.io/china-lands-painful-retaliation-over-eu-sanctions-on-russia/",
-                "source": "The Bell",
-                "date": "2026-08-05T12:57:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine’s 40-Day Strike Campaign Hit Russia’s Largest Oil Refineries in 100 Strategic Targets",
-                "desc": "Ukraine’s 40-day strike campaign targeted more than 100 strategic Russian sites, including every major oil refinery, air bases, and military facilities.",
-                "image": "https://storage.united24media.com/og/3/2e/4e6d28fb294c9ec4276e6bb5785112e3.jpg",
-                "url": "https://united24media.com/war-in-ukraine/ukraine-just-completed-its-biggest-deep-strike-campaign-against-russia-yet-heres-what-it-achieved-21384",
-                "source": "UNITED24 Media",
-                "date": "2026-08-05T12:57:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five Betting Operators Form New Association to Push iGaming Regulation in Chile",
-                "desc": "Betano, Betsala, Estelarbet, Juegalo, and Novibet launch the Responsible iGaming Association to push Chile toward regulating online betting.",
-                "image": "https://bettorsinsider.com/wp-content/uploads/2026/08/responsible_igaming_association.png",
-                "url": "https://bettorsinsider.com/news/2026/08/05/five-betting-operators-form-new-association-to-push-igaming-regulation-in-chile/",
-                "source": "Bettors Insider",
-                "date": "2026-08-05T12:56:41Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-06T22:35:14.384764Z"
+    "lastGlobalSync": "2026-08-07T01:38:17.986196Z"
 }
