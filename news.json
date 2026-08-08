@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Gold bugs spend $180 million betting all's clear for metal as bond yields stall",
+                "desc": "Despite a 25% decline in gold from its high in January, proponents of the precious metal are storming into bullish call positions.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108326574-1782367920343-gettyimages-2254206522-SWITZERLAND_VALCAMBI.jpeg?v=1782367944&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/07/gold-bugs-spend-180-million-betting-alls-clear-for-metal-as-bond-yields-stall.html",
+                "source": "CNBC",
+                "date": "2026-08-07T18:22:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. stocks jump as employers cut 23,000 jobs",
+                "desc": "Stocks rose on Wall Street Friday and Treasury yields fell after the government reported that employers unexpectedly cut 23,000 jobs last month.",
+                "image": "https://www.bnnbloomberg.ca/resizer/v2/4YXQXYPSCDX3VNPA7RROTYW5VQ.jpg?smart=true&auth=32f3b27b1e982f578c7d93e54da537c8db0a44251ad2cfa206edb119625a236b&width=1200&height=630",
+                "url": "https://www.bnnbloomberg.ca/markets/2026/08/07/us-stock-futures-jump-as-employers-unexpectedly-cut-23000-jobs/",
+                "source": "BNN Bloomberg",
+                "date": "2026-08-07T18:22:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Burger King tops Wendy's as nation's second-largest burger chain",
+                "desc": "Burger King is once again the second-largest burger chain in the U.S. by system-wide sales.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108346815-1786125832327-Untitled-3.jpg?v=1786125849&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
+                "source": "CNBC",
+                "date": "2026-08-07T18:19:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘What is it?’: Wellsford’s shoebox house for sale with $399k price tag",
+                "desc": "First-home buyers are setting their sights on Warkworth’s much cheaper cousin., All things property, under OneRoof",
+                "image": "https://s.oneroof.co.nz/image/e3/c7/e3c79acbf7be448568d9d72c5486983f.jpg?x-oss-process=image/quality,q_80",
+                "url": "https://www.oneroof.co.nz/news/what-is-it-wellsfords-shoebox-house-for-sale-with-399k-price-tag-49980",
+                "source": "OneRoof",
+                "date": "2026-08-07T18:15:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sudan restores national electronic banking network after more than three years of war",
+                "desc": "The system, the national lender says, has already processed its first successful cash withdrawal through an ATM, marking the start of its actual operation.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2025/09/Screenshot-2025-09-16-115648.png",
+                "url": "https://eastleighvoice.co.ke/sudan/387991/sudan-restores-national-electronic-banking-network-after-more-than-three-years-of-war",
+                "source": "The Eastleigh Voice",
+                "date": "2026-08-07T18:13:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s largest refinery beats US again to retain Europe’s top jet fuel supplier spot despite July setback",
+                "desc": "Nigeria’s Dangote refinery remained Europe’s largest external jet fuel supplier for a second month, delivering more than 400,000 tonnes in July despite an operational setback. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/4tYktkpTURBXy85NjBlZWQ4NGU5NDVmZDEzY2IzNWEzZGNmOWU1MWIzYS5qcGeSlQPMfwDNBAHNAkGTBc0EsM0Cdg",
+                "url": "https://africa.businessinsider.com/local/markets/africas-largest-refinery-beats-us-again-to-retain-europes-top-jet-fuel-supplier-spot/pmsql9m",
+                "source": "Business Insider Africa",
+                "date": "2026-08-07T18:12:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alphabet (GOOGL) Lines Up $25 Billion Bond Offering For AI Expansion",
+                "desc": "Alphabet (NasdaqGS: GOOGL) announces a US$25b bond offering to fund AI expansion following its first recorded period of negative free cash flow. The debt deal marks a shift in Alphabet's capital structure as it leans on bond markets to support large scale AI infrastructure investment. The move comes while Google DeepMind faces executive turnover, leadership reshuffles and delays in certain AI model releases. Investors are weighing the larger balance sheet commitment to AI against execution...",
+                "image": "https://s.yimg.com/lo/mysterio/api/3629F38653F88BEE92D5E665DC80994C419663A15173D3D5B121C97DB9EAFCD8/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F1fc7d8c4b041b0aaed5c1d373b17b5b4",
+                "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-lines-25-billion-181151026.html",
+                "source": "Yahoo Finance",
+                "date": "2026-08-07T18:11:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alkane Resources (ASX:ALK) Is Up 15.4% After Expanding High-Grade Swedish Gold Resources - What's Changed",
+                "desc": "Alkane Resources Limited recently reported new exploration results and an updated Mineral Resource for the Storheden Deposit at its Björkdal Operation in northern Sweden, adding Indicated Resources of 1.07 Mt at 2.51 g/t Au (87 koz) and Inferred Resources of 1.85 Mt at 2.11 g/t Au (125 koz). The discovery of high-grade gold intercepts over a 2.7 km strike, with mineralisation remaining open in all directions, enhances the geological upside and follow-up drilling potential at Storheden. We...",
+                "image": "https://s.yimg.com/lo/mysterio/api/E7BD91136ABE15C8EF236C3B6A5C621099A6063877FB45945F67AC9C4D697532/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F590bd73c4f469217441156accbe686a8",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/alkane-resources-asx-alk-15-181145951.html",
+                "source": "Yahoo Finance",
+                "date": "2026-08-07T18:11:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iShares iBonds Dec 2036 Term $ Corp UCITS ETF",
+                "desc": "The Fund seeks to generate a return on your investment that reflects the return of the Bloomberg MSCI December 2036 Maturity USD Corporate ESG Screened Index (the Fund's benchmark index) through a combination of capital growth and returns on the Fund's assets.",
+                "image": "https://www.blackrock.com/_astro_static/blackrock_logo.png",
+                "url": "https://www.blackrock.com/se/professionals/products/349766/ishares-ibonds-dec-2036-term-corp-ucits-etf",
+                "source": "blackrock.com",
+                "date": "2026-08-07T18:07:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BGF Systematic Global Equity High Income Fund",
+                "desc": "The primary objective of the fund is to generate a high level of income with lower volatility than the wider equity market. The target annual yield is 7% (USD), which may either be distributed quarterly or re-invested in the fund. This target yield is comprised of two sources: equity dividends and income from selling calls on equity indices. Further, since the total portfolio hedge ratio is less than one, the fund can experience market appreciation.",
+                "image": "https://www.blackrock.com/_astro_static/blackrock_logo.png",
+                "url": "https://www.blackrock.com/se/individual/products/352748/blackrock-systematic-global-equity-high-income-fund",
+                "source": "blackrock.com",
+                "date": "2026-08-07T18:07:14Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Company director faces 17 fraud charges, said to owe money from Covid subsidy, tax and Callaghan Innovation",
                 "desc": "An Auckland businessman wanted on Covid-19 wage subsidy fraud charges has evaded an active arrest warrant for more than three years, while a company he...",
                 "image": "https://www.nzherald.co.nz/resizer/v2/PQO3TGKLC5CZOCANFHCTZO7CGE.png?auth=af8e73fcec2ea68776d52a57b6eda4b1bb4a6d46b95b196228eca03545d7a0ce&width=1200&height=675&quality=70&smart=true",
@@ -542,99 +632,99 @@
                 "source": "Euronext Markets: Real-time Stock Market Data | live",
                 "date": "2026-08-07T10:11:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Current price of oil as of Aug. 7, 2026",
-                "desc": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Oil-August-7.jpg?resize=1200,600",
-                "url": "https://fortune.com/article/price-of-oil-08-07-2026/",
-                "source": "Fortune",
-                "date": "2026-08-07T09:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ready, AIM, grow: the new AIM Rules have arrived",
-                "desc": "The revised AIM Rules for Companies (the AIM Rules) came into force on 5 August 2026 . The amendments constitute the biggest changes to the AIM Rules in two decades and are designed to reinforce the market’s focus on growth for companies, founders and investors.",
-                "image": "https://www.dentons.com/-/media/images/website/background-images/gpof/aerial/istock-1266572591.ashx",
-                "url": "https://www.dentons.com/en/insights/articles/2026/august/6/ready-aim-grow-the-new-aim-rules-have-arrived",
-                "source": "Dentons",
-                "date": "2026-08-07T09:20:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China, Dubai, UK Top Nigerians' Favourite Summer Destinations",
-                "desc": "China, Dubai and the United Kingdom emerged as the top summer destinations for Nigerian travellers, according to new passenger data released by Emirates,",
-                "image": "https://leadership.ng/wp-content/uploads/2026/08/IMG-20260805-WA0040.jpg",
-                "url": "https://leadership.ng/china-dubai-uk-top-nigerians-favourite-summer-destinations-report/",
-                "source": "LEADERSHIP Newspapers",
-                "date": "2026-08-07T09:20:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "McDonald's Customers Demand Better Value and Pricing",
-                "desc": "McDonald's faces criticism as customers call for a reassessment of pricing and value menu strategies amid slowed sales growth.",
-                "image": "https://i.insider.com/6a74901d0c0bf4e8be5221e5?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/mcdonalds-customers-demand-better-value-and-pricing-2026-8",
-                "source": "Business Insider",
-                "date": "2026-08-07T09:19:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yen rally fades after intervention as focus shifts to policy",
-                "desc": "The coordinated involvement from the Treasury and BoJ had initially lifted the yen as low as 155 to the dollar, down from just above 163 beforehand.",
-                "image": "https://image.cnbcfm.com/api/v1/image/103530324-GettyImages-imsis020-034.jpg?v=1532564145&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/07/us-japan-intervention-yen-unwinds-gains.html",
-                "source": "CNBC",
-                "date": "2026-08-07T09:18:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda & Kenya Developers Embrace Chinese Open",
-                "desc": "Chinese AI dominance Africa developers shift from costly US models. Follow Bhaskar English Latest Updates. Chinese AI is rapidly advancing in developing countries that seek excellent systems at low cost. Models from American companies like OpenAI and Anthropic are closed and fee-based.",
-                "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/08/07/orig_new-project-74_1786093309.jpg",
-                "url": "https://www.bhaskarenglish.in/tech-science/news/uganda-kenya-developers-embrace-chinese-opensource-ai-models-138657646.html",
-                "source": "Bhaskar English",
-                "date": "2026-08-07T09:18:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "North American stock markets rise as weak U.S. jobs data cools Fed rate-hike bets",
-                "desc": "Mining, real estate equities lead TSX gainers",
-                "image": "https://www.theglobeandmail.com/resizer/v2/UHVME5X4R5BN5BYJJW7VAV6TA4.jpg?auth=be528872188b923073e36c66a5df5de3798a425fcc81806e6020278a173abe60&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-stocks-dollar-stall-ahead-of-us-jobs-data-oil-gains-as-gulf/",
-                "source": "The Globe and Mail",
-                "date": "2026-08-07T09:18:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Coinbase Just Built the Bridge Between Crypto and Wall Street. USDC Is the Concrete.",
-                "desc": "On August 6, 2026, Coinbase launched 24/5 US stock trading for UK users. While the headline features — zero commission and a £1 minimum for fractional shares — are familiar to retail investors, the structural innovation lies in the plumbing. For the first time, a major platform is treating USDC not merely as a payment […]",
-                "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-                "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-just-built-bridge-between-091747768.html",
-                "source": "Yahoo Finance",
-                "date": "2026-08-07T09:17:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tether’s Saudi Arabia Play: From Stablecoin Issuer to Asset-Platform Operator",
-                "desc": "The market remains fixated on the $183.4 billion circulating in USDT, yet Tether is quietly reorienting its core business model from a pure stablecoin issuer toward a diversified asset-tokenization platform. The geographic proof point for this transition is not a Western financial hub, but Saudi Arabia. On August 6, 2026, Tether announced a strategic collaboration […]",
-                "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-                "url": "https://finance.yahoo.com/markets/crypto/articles/tether-saudi-arabia-play-stablecoin-091746134.html",
-                "source": "Yahoo Finance",
-                "date": "2026-08-07T09:17:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Bitcoin Doesn't Need CLARITY:' Michael Saylor Responds to Bill's Delay",
-                "desc": "The co-founder of Strategy previously expressed support for the bill.",
-                "image": "https://cryptopotato.com/wp-content/uploads/2026/08/Michael_Saylor.jpg",
-                "url": "https://cryptopotato.com/bitcoin-doesnt-need-clarity-michael-saylor-responds-to-bills-delay/",
-                "source": "CryptoPotato",
-                "date": "2026-08-07T09:16:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Apple Plans Fall 2026 HomePod Mini 2 Launch Alongside $350 Smart Home Hub",
+                "desc": "Apple is gearing up for a major smart home push, led by the HomePod Mini 2 expected to launch in September 2026 alongside new iPhones. The upgraded…",
+                "image": "https://img.biggo.com/SSBLGcIZe4ga79IQjnywRBbF38wRscIr_nEOof-4GZ0/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2U5ZGJjNTIzLTQ4OWItNDM1YS1iMTk3LTUxMDRmZDNhZjFiNl8xNzg2MTI3MjY3X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/e9dbc523-489b-435a-b197-5104fd3af1b6",
+                "source": "finance.biggo.com",
+                "date": "2026-08-07T18:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony Might Be Rebooting Its 2020 Flagship Headphones",
+                "desc": "Sony might turn back the clock and revive an older model to save potential buyers some cash.",
+                "image": "https://www.engadget.com/img/gallery/sony-might-be-rebooting-its-2020-flagship-headphones/l-intro-1786126971.jpg",
+                "url": "https://www.engadget.com/2232687/sony-might-be-rebooting-its-2020-flagship-headphones/",
+                "source": "Engadget",
+                "date": "2026-08-07T18:24:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung's August Update Patches 56 Security Vulnerabilities Across Galaxy Devices",
+                "desc": "Samsung’s August 2026 Galaxy update fixes 56 Android and One UI security flaws, including critical vulnerabilities and clipboard access risks.",
+                "image": "https://assets.techrepublic.com/uploads/2026/08/amanz-mzNVfDZMUPA-unsplash-1.jpg?f=jpeg",
+                "url": "https://www.techrepublic.com/article/news-samsung-august-2026-security-update/",
+                "source": "techrepublic.com",
+                "date": "2026-08-07T18:23:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NatJack Attacks Exploit NAT Table Weaknesses Across Windows, Linux, and macOS",
+                "desc": "Security researcher Malcolm Stagg presented NatJack at Black Hat USA 2026, a new attack class that exploits weaknesses in NAT implementations across…",
+                "image": "https://img.biggo.com/Qbgvtw2DV_G2X3RaDQ2WqgzecXBFEXckLuvj7H_Ssjs/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2Y4MTY2ZTNlLTg2MDItNDI0OS04YjA4LWZlZTg5NjlkY2FkYV8xNzg2MTI4MTA0X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/f8166e3e-8602-4249-8b08-fee8969dcada",
+                "source": "finance.biggo.com",
+                "date": "2026-08-07T18:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5.6 Moon to free ChatGPT users with expanded usage limits",
+                "desc": "OpenAI has released an enhanced version of GPT 5.6 Sun and has made its younger sister, Moon, available to all users.",
+                "image": "https://marketing4ecommerce.net/en/wp-content/uploads/sites/8/2026/08/you-are-now-able-to-use-luna-in-chatgpt-free-of-charge-and-without-limitations.jpg",
+                "url": "https://marketing4ecommerce.net/en/chatgpt-moon-free-for-users-and-with-expanded-usage/",
+                "source": "Marketing4eCommerce",
+                "date": "2026-08-07T18:19:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "39 Popular Parental Control Apps Are Secretly Feeding Data to One Overseas Server",
+                "desc": "At Black Hat, researchers revealed that several parental control apps and kid trackers rely on the same insecure server infrastructure in China, posing security risks for children and parents alike.",
+                "image": "https://i.pcmag.com/imagery/articles/057SYQ218CANROIZQs08N83-4.fit_lim.size_1200x630.v1786060525.jpg",
+                "url": "https://www.pcmag.com/news/39-popular-parental-control-apps-secretly-feeding-data-black-hat-2026",
+                "source": "PCMag",
+                "date": "2026-08-07T18:15:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "39 Popular Parental Control Apps Are Secretly Feeding Data to One Overseas Server",
+                "desc": "At Black Hat, researchers revealed that several parental control apps and kid trackers rely on the same insecure server infrastructure in China, posing security risks for children and parents alike.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/3/39-popular/39-popular-parental-control-apps-are-secretly-feeding-data-t_m4tp.1200.jpg",
+                "url": "https://au.pcmag.com/parental-control/119223/39-popular-parental-control-apps-are-secretly-feeding-data-to-one-overseas-server",
+                "source": "PCMag Australia",
+                "date": "2026-08-07T18:15:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Snag Some Ink-Redible Back-to-School Deals on Printers From Canon, Epson, and HP",
+                "desc": "It's BTS season, and we've gathered some of the best deals on printers to make sure you don't ever miss out on an assignment. Score large discounts on the biggest names out there!",
+                "image": "https://i.pcmag.com/imagery/articles/05i3qcVeQggcYYNVycAlZwM-1.fit_lim.size_1200x630.v1785869938.png",
+                "url": "https://www.pcmag.com/deals/best-back-to-school-printer-deals-2026-canon-epson-hp-august-7",
+                "source": "PCMag",
+                "date": "2026-08-07T18:13:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Enhancing the solubility of puerarin via melt sonocrystallization",
+                "desc": "In this work, in order to improve the low solubility and poor oral bioavailability of puerarin, we first applied melt sonocrystallization (MSC) technology to systematically investigate the effects on its solubility and crystallographic properties. We applied MSC to treat puerarin, evaluated its solubilization effect using UV spectroscopy, and characterized it by dissolution rate, optical microscope, powder X-ray diffraction (PXRD), differential scanning calorimetry (DSC), Thermogravimetric analysis (TGA) and Fourier transform infrared spectroscopy (FTIR). Following MSC treatment, puerarin exhibited higher solubility and faster dissolution, the product displayed reduced particle size and a tendency to agglomerate. The results of PXRD, DSC, FTIR and TGA showed that the crystal form of MSC treated puerarin transformed into puerarin monohydrate, with a decrease in crystallinity and partial amorphization. The reduction in particle size and amorphization may be the driving forces of the increase in solubility and dissolution. In summary, MSC can significantly improve the solubility and dissolution of puerarin, providing new ideas for enhancing its bioavailability and improving its oral formulations.",
+                "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0355646.g009&size=inline",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355646",
+                "source": "PLOS",
+                "date": "2026-08-07T18:06:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google throws shade at ugly smartwatches in Pixel Watch 5 teaser",
+                "desc": "Google has released a fresh teaser, putting the Pixel Watch 5 in the spotlight. It also takes a dig at other smartwatches.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-Watch-5-teaser.jpg",
+                "url": "https://www.androidauthority.com/google-pixel-watch-5-teaser-3696073/",
+                "source": "Android Authority",
+                "date": "2026-08-07T18:06:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "PacketViper Introduces Dark Space Monitor, Bringing Automated Moving Target Defense to Every Port an Adversary Probes",
                 "desc": "PacketViper today introduced Dark Space Monitor, the capability that delivers dark space monitoring, detection, and prevention within its Automated Moving",
@@ -1174,99 +1264,99 @@
                 "source": "carmag.co.za",
                 "date": "2026-08-07T10:07:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "This $49 Microsoft app is like having a project manager in your pocket",
-                "desc": "Get a lifetime license to Microsoft Project Professional 2024 for Windows to help you tackle projects on your PC.",
-                "image": "https://helios-i.mashable.com/imagery/articles/02RpHQ3h5TJsP1Omcj2AaTQ/hero-image.fill.size_1200x675.v1785817088.jpg",
-                "url": "https://mashable.com/tech/aug-7-microsoft-project-professional-2024-lifetime-license-for-windows",
-                "source": "Mashable",
-                "date": "2026-08-07T09:22:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lava Announces Exciting Deals on Smartphones During Amazon Great Freedom Festival Sale",
-                "desc": "Lava announces special deals on Agni 4, Bold N2 Lite, Bold N2 and Bold N2 5G during the Amazon Great Freedom Festival Sale from August 7–12.",
-                "image": "https://www.itvoice.in/wp-content/uploads/2026/08/Copy-of-Redington-2026-08-07T144857.744.jpg",
-                "url": "https://www.itvoice.in/lava-announces-exciting-deals-on-smartphones-during-amazon-great-freedom-festival-sale",
-                "source": "IT Voice Media Pvt. Ltd.",
-                "date": "2026-08-07T09:19:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rockstar Games partners with Netflix for exclusive premier window of GTA 6 extended showcase",
-                "desc": "Rockstar Games partners with Netflix for exclusive premier window of GTA 6 extended showcase Rockstar Games is redefin",
-                "image": "https://erp.adgully.com/artical_image/df5d05d58dcdb9ddbf0c844b67efcff5.jpeg",
-                "url": "https://www.adgully.com/post/19020/rockstar-games-partners-with-netflix-for-exclusive-premier-window-of-gta-6-extended-showcase",
-                "source": "Adgully.com",
-                "date": "2026-08-07T09:19:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple boosts trade-in values for iPhone ahead of iPhone 18 Pro launch",
-                "desc": "Apple has increased trade-in values across its device lineup giving customers more credit for older iPhones, Macs, iPads and Apple Watches.",
-                "image": "https://www.trustedreviews.com/wp-content/uploads/sites/7/2026/06/new-photos-give-us-our-clearest-look-yet-at-iphone-18-pro-colours.jpg",
-                "url": "https://www.trustedreviews.com/news/apple-boosts-trade-in-values-for-iphone-ahead-of-iphone-18-pro-launch",
-                "source": "Trusted Reviews",
-                "date": "2026-08-07T09:17:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI Introduces Unlimited Text Chats for Free Users, Improved GPT-5.6 Sol",
-                "desc": "The company said the updated GPT-5.6 Sol delivers more focused answers, adjusts its level of detail based on the question and avoids unnecessary formatting",
-                "image": "https://www.deccanchronicle.com/h-upload/2026/08/07/2073500-43953938811zon.jpg",
-                "url": "https://www.deccanchronicle.com/technology/openai-introduces-unlimited-text-chats-for-free-users-improved-gpt-56-sol-1977346",
-                "source": "deccanchronicle.com",
-                "date": "2026-08-07T09:17:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "order begins on XBOX, PS5 & PS4! Tie the knot of fate in a skybound fantasy RPG!\"",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-US/Asdivine-Knot-for-PC-Consoles-Pre-order-begins-on-XBOX-PS5-PS4-Tie-the",
-                "source": "Games Press",
-                "date": "2026-08-07T09:17:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What is social commerce? Why ZiNRAi says every entrepreneur should understand it",
-                "desc": "ZiNRAi explains why understanding social commerce is becoming increasingly important for entrepreneurs in today’s digital marketplace.",
-                "image": "https://iol-prod.appspot.com/image/bc1b23a26fd48573319b03b611528b7df3a0a34c/1000/jpeg",
-                "url": "https://fastcompany.co.za/business/what-is-social-commerce-why-zinrai-says-every-entrepreneur-should-understand-it/",
-                "source": "Fast Company South Africa",
-                "date": "2026-08-07T09:13:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Time-domain identification of distinct mechanisms for competing charge density waves in a rare-earth tritelluride",
-                "desc": "Understanding the origin of phase transitions and the interactions between distinct phases remains a central task in condensed-matter physics. Charge-density-wave (CDW) systems provide a useful setting to investigate these questions. Although the dominant CDW phases in many materials can be explained through electron–phonon interactions, certain CDW phase transitions remain poorly understood, challenging conventional paradigms. One example is the rare-earth tritelluride ErTe3, which hosts two competing CDW orders. Although electron–phonon coupling accounts for the dominant order, the mechanism behind the subdominant order remains unclear. In this study, we combine time- and angle-resolved photoemission spectroscopy and time-dependent Ginzburg–Landau theory to establish a time-domain approach for probing phase transitions in solid-state systems. By analysing the distinct recovery dynamics of the two CDW orders in ErTe3 following light excitation, we reveal a novel nucleation and growth mechanism that probably drives the secondary CDW phase transition. More broadly, this work provides a time-domain framework for studying phase transitions and phase competition in quantum materials. ErTe3 hosts two charge-density-wave orders and the origin of the weaker one remains unclear. Tracking its recovery after light excitation now points to nucleation and growth as the underlying mechanism.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41567-026-03382-5/MediaObjects/41567_2026_3382_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41567-026-03382-5?error=cookies_not_supported&code=ba7ee4e0-c95c-4448-8ac5-edec6683be5f",
-                "source": "Nature",
-                "date": "2026-08-07T09:12:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft, Apple Release Fresh Security Updates",
-                "desc": "Microsoft and Apple released patches for multiple vulnerabilities across their products, including critical-severity issues.",
-                "image": "https://www.securityweek.com/wp-content/uploads/2024/09/update-patch-exploited.jpeg",
-                "url": "https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/",
-                "source": "securityweek.com",
-                "date": "2026-08-07T09:09:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Netflix to stream extended look at Grand Theft Auto VI",
-                "desc": "Netflix subscribers will get an extended look at Grand Theft Auto VI on 27 August, ahead of its November release.",
-                "image": "https://inboundsa.com/wp-content/uploads/2026/06/poster_full.0az_iud2g3y4j-1024x576.jpg",
-                "url": "https://inboundsa.com/gta-vi-extended-look-netflix/",
-                "source": "inboundsa.com",
-                "date": "2026-08-07T09:08:25Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "US Senate approves sweeping Russia sanctions bill targeting energy income",
+                "desc": "The package would impose sanctions on Russian officials, oligarchs, financial institutions and the so-called shadow fleet used to evade restrictions on Moscow's oil exports. It would also allow President Donald Trump to set tariffs of up to 500% on Russian imports, including gas and oil.",
+                "image": "https://images.euronews.com/articles/stories/09/86/68/80/1200x675_cmsv2_e0d822bf-992e-51d3-bea1-1b430be5d049-9866880.jpg",
+                "url": "https://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
+                "source": "Euronews.com",
+                "date": "2026-08-07T18:20:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paris: nearly 100,000 signatures against new National Assembly pavilion",
+                "desc": "Plans for a new reception pavilion at the National Assembly face strong opposition, with a petition nearing 100,000 signatures after Paris Council backed relaxed planning rules around the Palais-Bourb...",
+                "image": "https://s.yimg.com/lo/mysterio/api/4a79f6f84d2f031ac2b0b09c72b472d800edbcd42a0f128b6251a1f86cfd6074/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_uk_articles_973%2F39b43eb9d9d5491ab5039c279a82d2c8",
+                "url": "https://uk.news.yahoo.com/paris-nearly-100-000-sign-164059938.html",
+                "source": "Yahoo News UK",
+                "date": "2026-08-07T18:13:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AfCFTA Signs $3.1 Billion Deal With Bergmans for Pan-African Customs System",
+                "desc": "AfCFTA awarded Nigerian company Bergmans Security Consultants and Supplies a 20-year, $3.1 billion concession to deploy a common customs system",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/b7e236974a36c28de93fdf45dff53b85_S.jpg",
+                "url": "https://www.ecofinagency.com/news-infrastructures/0708-58043-afcfta-signs-3-1-billion-deal-with-bergmans-for-pan-african-customs-system",
+                "source": "Ecofin Agency",
+                "date": "2026-08-07T18:07:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India’s young people find their voice",
+                "desc": "When India’s Chief Justice branded unemployed young people as ‘cockroaches’, Gen Z turned the insult into a rallying call. The corrupt leaking of a national medical college entrance exam gave the resulting Cockroach Janta Party its cause. It called for the education minister’s resignation. Weeks of protest, met with state violence, won that demand, posing what may be the biggest challenge yet to Prime Minister Narendra Modi’s strong-arm rule. Rather than its usual practices of criminalisation, vilification and violence, the government should respect the right to express dissent and engage constructively.",
+                "image": "https://lens.civicus.org/wp-content/uploads/2026/08/075-chatterjee-notitle260724-npy4e-scaled.jpg",
+                "url": "https://lens.civicus.org/indias-young-people-find-their-voice/",
+                "source": "civicus lens",
+                "date": "2026-08-07T18:05:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A roundup of the latest developments in the Middle East",
+                "desc": "Pakistan, Turkey and Saudi Arabia have signed a mutual defense agreement. The deal means an armed attack on one is considered an attack on all.",
+                "image": "https://dims.apnews.com/dims4/default/33d3752/2147483647/strip/true/crop/3860x2572+0+34/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2Fca%2F5a2aec3bdb418b5c93a0b397b5cf%2F94ea88df19ce49a6a56445aaa9efd2d5",
+                "url": "https://apnews.com/article/mideast-news-roundup-iran-saudi-pakistan-turkey-aug-7-2026-d2ddfe7ce02c7814420b9029158ed57c",
+                "source": "AP News",
+                "date": "2026-08-07T18:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Intelligence Warns Putin May Test NATO With a Limited Attack",
+                "desc": "US intelligence assessments suggest Vladimir Putin could test NATO’s resolve with cyberattacks or a limited military action against the Baltic states or Poland in coming years.",
+                "image": "https://mezha.net/eng/kd_image_generate/095bb659_us_intelligence_warns/3350264.jpg?ver=2.0.15",
+                "url": "https://mezha.net/eng/bukvy/095bb659_us_intelligence_warns/",
+                "source": "Межа. Новини України.",
+                "date": "2026-08-07T18:03:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Sanctions Iranian Crypto Exchanges As Talks Continue (1)",
+                "desc": "The US ramped up economic pressure on Iran with more sanctions targeting digital asset exchanges and networks connected to the country’s shadow-banking system, as Washington seeks leverage amid ongoing negotiations over the war.",
+                "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+                "url": "https://news.bloomberglaw.com/business-and-practice/us-sanctions-iranian-digital-exchanges-as-trump-promises-deal",
+                "source": "Bloomberg Law News",
+                "date": "2026-08-07T18:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN warns Sudan war is robbing millions of children of education",
+                "desc": "UN Deputy Secretary-General Amina J. Mohammed urged an immediate end to Sudan’s devastating war on Friday, warning that the ongoing violence has driven the world’s largest displacement crisis while stripping millions of children of their access to education.",
+                "image": "https://ia.tmgrup.com.tr/a6c7d4/806/378/0/0/1200/562?u=https://i.tmgrup.com.tr/anews/v1/2026/08/07/un-warns-sudan-war-is-robbing-millions-of-children-of-education-1786125713770.jpeg",
+                "url": "https://www.anews.com.tr/world/2026/08/07/un-warns-sudan-war-is-robbing-millions-of-children-of-education",
+                "source": "A News",
+                "date": "2026-08-07T18:02:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call for public-private partnerships to unlock Africa's potential. - Fullview",
+                "desc": "By Lehlohonolo Lehana. Photo Credit: Dirco/Chrispin Phiri. Minister of International Relations and Cooperation Ronald Lamola delivered a keynote address at […]",
+                "image": "https://fullview.co.za/wp-content/uploads/2026/08/Ronald-Lamola-Dirco.jpg",
+                "url": "https://fullview.co.za/call-for-public-private-partnerships-to-unlock-africas-economic-potential/",
+                "source": "fullview.co.za",
+                "date": "2026-08-07T18:01:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Glasgow university to review its hiring of plagiarism row professor",
+                "desc": "Jason Arday worked at the University of Glasgow from January 2022 to March 2023 before he became Cambridge's youngest black professor.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4965/live/9d5d45b0-9284-11f1-9985-cdf6a137096d.jpg",
+                "url": "https://www.bbc.com/news/articles/ckg9vz7vn29o",
+                "source": "bbc.com",
+                "date": "2026-08-07T18:01:03Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Notre Dame de Namur University Receives Insight Into Academia Magazine’s 2026 Excellence in Mental Health and Well-Being Award",
                 "desc": "National recognition of institutions that commit to campus-wide integration of mental health initiatives, including accessible services, peer support, emotional resilience, and proactive policy.",
@@ -1806,98 +1896,8 @@
                 "source": "apnews.com",
                 "date": "2026-08-07T10:05:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nurul Izzah takes leave from PKR deputy president post - why and what next for Anwar’s daughter?",
-                "desc": "A source close to Nurul Izzah tells CNA that she had disagreed with the party’s direction and faced pressure from within Parti Keadilan Rakyat to step down.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--uXfWfFKv--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/05/23/Nurul Izzah win.jpeg?itok=yqaPJP93",
-                "url": "https://www.channelnewsasia.com/asia/nurul-izzah-anwar-pkr-deputy-president-leave-absence-6305791",
-                "source": "CNA",
-                "date": "2026-08-07T09:20:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK Publishes Temporary Work Visa Fees for Foreign Applicants",
-                "desc": "The UK government has confirmed the $476 fee for the Temporary Work – Creative Worker visa, covering both main applicants and dependants in the creative sector.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/31d6180c5ea283df.jpeg?v=1",
-                "url": "https://yen.com.gh/people/309476-uk-publishes-temporary-work-visa-fees-foreign-applicants/",
-                "source": "Yen News",
-                "date": "2026-08-07T09:19:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia Expands African Agri-Footprint with $2.9 Billion First-Half Sales Surge",
-                "desc": "Russian agricultural exports to Africa rose 35% in value to $2.9 billion in the first half of 2026, while volumes increased 40% to more than 11",
-                "image": "https://www.ecofinagency.com/media/k2/items/cache/73b5d627e8c6966ca720b1ded965216e_S.jpg",
-                "url": "https://www.ecofinagency.com/news-agriculture/0708-58018-russia-expands-african-agri-footprint-with-2-9-billion-first-half-sales-surge",
-                "source": "Ecofin Agency",
-                "date": "2026-08-07T09:18:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda Airlines aims to break even in 2031 ahead of Boeing deliveries",
-                "desc": "New safeguardsBut as it expands its fleet and route network, it will introduce operational and commercial safeguards to ensure sustainable",
-                "image": "https://assets.zawya.com/prod/assets/favicon-96x96.fe585125.png",
-                "url": "https://www.zawya.com/en/economy/africa/uganda-airlines-aims-to-break-even-in-2031-ahead-of-boeing-deliveries-424417",
-                "source": "Zawya",
-                "date": "2026-08-07T09:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Morocco-Ceuta Border Rush Leaves 100 Dead",
-                "desc": "Authorities in Spain's North African enclave of Ceuta say the migrant situation remains critical after the mass border crossing. Between 3,000 and 5,000 migrants are still in the territory, including hundreds of unaccompanied children.\nCeuta leader Juan Jesus Vivas told the European Parliament the city lacks sufficient security and immigration resources. Vivas described the situation as \"unsustainable\". He said that around 100 people died during the border surge.\nAid groups have raised concerns over migrant children living without adequate food, shelter and protection. They urged authorities to provide safe accommodation as Spain prepares to redistribute unaccompanied minors across the country under its immigration laws.",
-                "image": "https://cdn.allafrica.com/download/pic/main/main/csiid/00690100:e4e01c432ce2a49266dd82a5eace7c09:arc614x376:w1200.jpg",
-                "url": "https://allafrica.com/view/group/main/main/id/00097692.html",
-                "source": "allAfrica.com",
-                "date": "2026-08-07T09:17:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya: High Court Declares 2027 Election Date Unconstitutional, Says Poll Was Due in 2026",
-                "desc": "The High Court has declared that Kenya's next presidential election ought to be held on Tuesday, August 11, 2026, ruling that the Constitution requires the poll to be conducted on the second Tuesday of August in the fifth year following the previous General Election, and not after the fifth year as currently planned by the Independent Electoral and Boundaries Commission (IEBC).",
-                "image": "https://cdn.allafrica.com/download/pic/main/main/csiid/00410765:b780ebae0dc754e4a49bdc157a2b9d84:arc614x376:w1200.jpg",
-                "url": "https://allafrica.com/stories/202608070164.html",
-                "source": "allAfrica.com",
-                "date": "2026-08-07T09:17:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ShafDB’s sustainability finance framework meets S&",
-                "desc": "The bond issuance will support the financing and refinancing of eligible projects in sectors including affordable housing for low- and middle-income households.",
-                "image": "https://newvision-media.s3.amazonaws.com/cms/643f725d-f145-4b4d-a9fc-4874992c010c.jpg",
-                "url": "https://www.newvision.co.ug/category/business/shafdbs-sustainability-finance-framework-meet-NV_238402_082026",
-                "source": "NewVision.co.ug",
-                "date": "2026-08-07T09:16:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rwanda, Sri Lanka Deepen Defence Cooperation as Senior Officers Conclude Study Visit",
-                "desc": "Rwanda Defence Force (RDF) Chief of Defence Staff Gen. MK Mubarakh has received a delegation of senior officers and faculty members from Sri Lanka’s Defence Services Command and Staff College at RDF Headquarters in Kimihurura, as the two countries seek to strengthen military and professional ties. The Sri Lankan delegation was concluding a two-week study […]",
-                "image": "https://taarifa.rw/wp-content/uploads/2026/08/IMG_1385.jpeg",
-                "url": "https://taarifa.rw/2026/08/07/rwanda-sri-lanka-deepen-defence-cooperation-as-senior-officers-conclude-study-visit/",
-                "source": "Taarifa Rwanda",
-                "date": "2026-08-07T09:15:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hopes of Iran deal to reopen Strait of Hormuz and allow oil flow may depend on Trump making rare compromise",
-                "desc": "Iran says a deal to reopen the Strait of Hormuz is near but to reach such a deal that reopens the economically...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/03/2025-10-08T210455Z_311140519_RC2X7HAWIN18_RTRMADP_3_USA-TRUMP-1024x698-1.jpg",
-                "url": "https://businessday.ng/world/article/hopes-of-iran-deal-to-reopen-strait-of-hormuz-and-allow-oil-flow-may-depend-on-trump-making-rare-compromise/",
-                "source": "Business News Nigeria",
-                "date": "2026-08-07T09:15:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Danube: Wehrmacht soldiers and WWII motorbike recovered after 80 years",
-                "desc": "The Danube is at such a low level that Second World War relics are resurfacing in Budapest: alongside a motorbike, the bodies of two soldiers have been recovered.",
-                "image": "https://images.euronews.com/articles/stories/09/86/57/72/1200x675_cmsv2_029b59f8-2faa-56c4-93e4-2fbdc037414e-9865772.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/08/07/danube-wehrmacht-soldiers-and-wwii-motorbike-recovered-after-80-years",
-                "source": "Euronews.com",
-                "date": "2026-08-07T09:14:54Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-08T05:07:04.006224Z"
+    "lastGlobalSync": "2026-08-08T06:25:06.716537Z"
 }
