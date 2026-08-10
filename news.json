@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Why company assets are not personal property",
+                "desc": "Whether an asset belongs to an individual or a company can determine what passes to heirs.",
+                "image": "https://www.businessdailyafrica.com/resource/image/5550318/landscape_ratio3x2/1200/800/3fcb7459882f4b7ce825faaf67846f93/RT/sign.jpg",
+                "url": "https://www.businessdailyafrica.com/bd/lifestyle/personal-finance/why-company-assets-are-not-personal-property-5552794",
+                "source": "Business Daily",
+                "date": "2026-08-10T10:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "XP-IDS: an explainable hybrid CNN-XGBoost framework for IoT intrusion detection",
+                "desc": "The rapid growth of IoT-enabled technologies and interconnected smart devices has significantly increased security risks associated with poorly protected and resource-constrained IoT environments. Efficient anomaly detection mechanisms can help mitigate these threats by analyzing network traffic and identifying abnormal activities. However, such mechanisms must also preserve user privacy and maintain scalability for deployment on low-power edge devices. This paper presents XP-IDS: a hybrid deep gradient boosting framework for intrusion detection in IoT networks. Using the CIC IoT-DIAD 2024 dataset, XP-IDS learns from three categories of handcrafted features: (i) strategic-based features that capture high-level protocol semantics and flow behavior, (ii) time-based features that represent sequential relationships and traffic evolution over time, and (iii) IP-based features that characterize packet-flow communication among IoT endpoints. Feature representations extracted through stacked Convolutional Neural Networks are subsequently forwarded to an Extreme Gradient Boosting classifier for final prediction. In addition, SHapley Additive exPlanation (SHAP) is utilized to provide interpretability for model decisions and to identify overall feature importance, thereby enhancing transparency and privacy-aware analysis. Extensive experimental evaluation demonstrates that the proposed framework achieves strong detection accuracy across several common attack categories while outperforming multiple baseline approaches. The proposed accurate and interpretable framework shows strong potential as an edge-deployable security solution for safeguarding IoT devices and improving cyber resilience.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-63304-6?error=cookies_not_supported&code=131fc846-3b82-4532-9647-e7d09d131a9a",
+                "source": "Nature",
+                "date": "2026-08-10T10:14:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iron ore portside prices: Fangcheng...",
+                "desc": "Iron ore portside prices: Fangchenggang port(Aug 10, 2026 18:10),...",
+                "image": "https://cs.mysteelcdn.com/web/pc/english-station-static/img/og-image.9aff406.png",
+                "url": "https://www.mysteel.net/daily-prices/7126217-iron-ore-portside-prices-fangchenggang-port",
+                "source": "mysteel.net",
+                "date": "2026-08-10T10:12:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Safari Duty Free wins five-year Kenya Airways inflight retail contract",
+                "desc": "African travel retailer Safari Duty Free will take over the management and operation of Kenya Airways’ inflight duty-free programme from 1 November 2026, under a five-year agreement covering the airline’s international network.",
+                "image": "https://djx5h8pabpett.cloudfront.net/wp-content/uploads/sites/4/2026/08/kenya-airways-1024x683.webp",
+                "url": "https://www.dfnionline.com/latest-news/safari-duty-free-wins-five-year-kenya-airways-inflight-retail-contract-10-08-2026/",
+                "source": "DFNI",
+                "date": "2026-08-10T10:10:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "School dropout to founder of Rs 10,000 crore company: How IPO-bound Milky Mist's Sathish Kumar went from selling 10 kg paneer to building a dairy giant",
+                "desc": "Milky Mist IPO-bound founder Sathish Kumar’s inspiring journey from a school dropout selling 10 kg paneer to building a Rs 10,000 crore dairy giant.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260810094744_Milky-Mist.png",
+                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/sathish-kumar-milky-mist-ipo-story-from-school-dropout-to-rs-10000-crore-business-14000374.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-08-10T10:10:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK charity CRM hit by cyberattack",
+                "desc": "Beacon, a UK charity-focused CRM, was the target of a cyberattack earlier this week. The company, that counts numerous cultural institutions among its clients, told users to assume all data stored on their website, including attached files, may have been seen and downloaded.",
+                "image": "https://backend.artreview.com/wp-content/uploads/2026/08/Chiswick_House_from_SE.png",
+                "url": "https://artreview.com/uk-charity-crm-hit-by-cyberattack/",
+                "source": "ArtReview",
+                "date": "2026-08-10T10:07:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ningbo reissues shore power tender for Beilun terminal",
+                "desc": "Ningbo Beilun Third Container Terminal has reissued a RMB13.43 million shore power tender for Berths 7 and 8.",
+                "image": "https://wpassets.porttechnology.org/wp-content/uploads/2026/08/10110634/Phase_4_Dock_of_Beilun_Port_2015-04-11_02.jpg",
+                "url": "https://www.porttechnology.org/ningbo-reissues-shore-power-tender-for-beilun-terminal/",
+                "source": "Port Technology",
+                "date": "2026-08-10T10:07:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Wide target audience that still loves Israel’: Tourism industry prepares for post-war rebound",
+                "desc": "The main barrier to the recovery of Israel's tourism sector is the lack of flights, experts tell JNS.",
+                "image": "https://static.jns.org/dims4/default/7685523/2147483647/strip/true/crop/1024x576+0+54/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2Fb6%2Fd3f52fc741f0b50fed2d3560ff3e%2Fpassengers-arrive-at-ben-gurion-airport.jpg",
+                "url": "https://www.jns.org/news/israel-news/wide-target-audience-that-still-loves-israel-tourism-industry-prepares-for-post-war-rebound",
+                "source": "JNS.org",
+                "date": "2026-08-10T10:06:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rand at best level in months on gold strength and US rate rethink",
+                "desc": "The rand is trading around its best level in five months after stunningly weak US jobs data saw markets slash the odds of a September rate hike.",
+                "image": "https://news24cobalt.24.co.za/resources/02a1-1fcc217aba2e-f7d395c2af44-1000/format/inline/gettyimages-2180249066_1_.jpeg",
+                "url": "https://www.news24.com/business/markets/currencies/rand-climbs-to-best-level-in-months-on-gold-strength-and-us-rate-rethink-20260810-0570",
+                "source": "News24",
+                "date": "2026-08-10T10:06:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The stock market bull case just got stronger",
+                "desc": "Martin Pelletier: Two policy decisions may have ended the liquidity squeeze that had weighed on equities, bonds and precious metals. Read on",
+                "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/no0807bullmarket.jpg",
+                "url": "https://financialpost.com/investing/stock-market-bull-case-just-got-stronger",
+                "source": "Financial Post",
+                "date": "2026-08-10T10:05:13Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Trade credit insurer cuts cover for Vistry suppliers",
                 "desc": "Allianz Trade reportedly reduces credit limits as house builder battles to cut £800m net debt",
                 "image": "https://www.constructionenquirer.com/wp-content/uploads/Vistry-Group-Housebuilding-1200x828.jpg",
@@ -542,99 +632,99 @@
                 "source": "timesofindia.indiatimes.com",
                 "date": "2026-08-10T04:27:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Would you pay for lounge access or priority baggage? The airline perks actually worth spending money on",
-                "desc": "From priority boarding, to lounge access and extra legroom, we’ve rounded up some of the perks we don’t mind spending the extra dollars on.",
-                "image": "https://static.ffx.io/images/$zoom_0.6898%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/73bca42b8c51c934e6b046b49e3caf245ebfdaf3",
-                "url": "https://www.nine.com.au/travel/airline-perks-baggage-fees-priority-boarding-lounge-access-is-it-worth-it-20260810-p60muz.html",
-                "source": "Nine.com.au",
-                "date": "2026-08-10T03:36:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Rakesh Jhunjhunwala's old Tata bet created Rs 80,000 crore wealth after two years of flat returns",
-                "desc": "In 2026 so far, Titan has experienced a remarkable surge in market value, driven by consistent jewellery demand and the rise of organized players. The company's robust performance can be attributed to the effective strategies employed by Tanishq and CaratLane. Moreover, Titan is expanding beyond jewellery into watches and eyecare. This promising trajectory is further reinforced by strong Q1 earnings, boosting investor confidence significantly.",
-                "image": "https://img.etimg.com/thumb/msid-133079835,width-1200,height-630,imgsize-1971116,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-rakesh-jhunjhunwalas-old-tata-bet-created-rs-80000-crore-wealth-after-two-years-of-flat-returns/articleshow/133079774.cms?from=mdr",
-                "source": "economictimes.com",
-                "date": "2026-08-10T03:34:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Build $13,000 a Month in Dividend Income From Three Income Buckets",
-                "desc": "Reaching $13,000 a month in dividends sounds like a capital problem, but the real trap is choosing the wrong yield tier and watching income quietly erode while you sleep. Three buckets can get you there, each with a very different cost hiding beneath the headline number.",
-                "image": "https://247wallst.com/wp-content/uploads/2026/01/shutterstock-2475780863-huge-licensed-scaled.jpg",
-                "url": "https://247wallst.com/personal-finance/2026/08/09/how-to-build-13000-a-month-in-dividend-income-from-three-income-buckets/",
-                "source": "24/7 Wall St.",
-                "date": "2026-08-10T03:34:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kia Vision Meta Turismo wins Red Dot Award in Concept",
-                "desc": "Kia Corporation (Kia) has earned a Red Dot Award 2026: Design Concept for the Kia Vision Meta Turismo, with the futuristic sports sedan concept recognized in the ‘Cars and Motorcycles’ category.",
-                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/08/Kia-Vision-Meta-Turismo.jpg",
-                "url": "https://thesun.ng/kia-vision-meta-turismo-wins-red-dot-award-in-concept-design-category/",
-                "source": "The Sun Nigeria",
-                "date": "2026-08-10T03:33:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tinubu’s CNG, EV initiative transforming Nigeria’s auto sector,",
-                "desc": "The Corps Marshal of the Federal Road Safety Corps (FRSC), Shehu Mohammed, has commended President Bola Tinubu’s Presidential Initiative on Compressed Natural Gas (CNG) and Electric Vehicles (EVs), describing it as a transformative programme attracting massive investments, creating jobs and accelerating Nigeria’s shift to sustainable transportation.",
-                "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/08/Boss-6.jpg",
-                "url": "https://thesun.ng/tinubus-cng-ev-initiative-transforming-nigerias-auto-sector-creating-jobs-frsc-boss/",
-                "source": "The Sun Nigeria",
-                "date": "2026-08-10T03:33:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Netflix customers face price rise warning under subscription crackdown",
-                "desc": "Netflix customers, dating app users and subscribers to news publications could face higher prices from the start o.f next year",
-                "image": "https://cdn.images.express.co.uk/img/dynamic/20/1200x630/7085861.jpg",
-                "url": "https://www.express.co.uk/showbiz/tv-radio/2237562/netflix-customers-warned-prices-could-rise-as-subscription-crackdown-is-brought-forward",
-                "source": "Daily Express",
-                "date": "2026-08-10T03:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australian Market Expands Early Losses In Mid-market",
-                "desc": "The Australian stock market is expanding its early losses in mid-market trading on Monday, adding to the slight losses in the previous session, despite the broadly positive cues from Wall Street on Friday.",
-                "image": "https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png",
-                "url": "https://www.rttnews.com/3678115/australian-market-expands-early-losses-in-mid-market.aspx",
-                "source": "RTTNews",
-                "date": "2026-08-10T03:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amid global copper supply chain upheaval, security demands focus",
-                "desc": "As China gains dominance of copper smelting, it’s strengthening not just economic might, but its grip on a key metal in defence.",
-                "image": "https://cdn.sanity.io/images/5dcouzig/production/4e6aaef8598348b433db93c066d6dfbeaa84a394-4000x2666.jpg?rect=0,283,4000,2100&w=1200&h=630&fm=webp&q=85&fit=crop",
-                "url": "https://www.lowyinstitute.org/the-interpreter/amid-global-copper-supply-chain-upheaval-security-demands-focus",
-                "source": "Lowy Institute",
-                "date": "2026-08-10T03:31:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DBS vs OCBC vs UOB: Which Bank Delivered the Best Results and Dividend?",
-                "desc": "Compare the financial performance of DBS vs OCBC vs UOB: find out which bank delivered the highest dividends and results in 2026.",
-                "image": "https://thesmartinvestor.com.sg/wp-content/uploads/2024/12/DBS-UOB-OCBC.png",
-                "url": "https://thesmartinvestor.com.sg/dbs-vs-ocbc-vs-uob-which-bank-delivered-the-best-results-and-dividend/",
-                "source": "The Smart Investor",
-                "date": "2026-08-10T03:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Layered El Nino compounds global commodity market risk, says US analyst",
-                "desc": "Unusually warm subsurface Pacific waters and mounting global logistics pressures could amplify disruptions across agriculture, energy and trade, says climate and commodities expert Michael Ferrari.",
-                "image": "https://bl-i.thgim.com/public/incoming/wpk3cx/article71324249.ece/alternates/LANDSCAPE_1200/Michael%20Ferrari.jpg",
-                "url": "https://www.thehindubusinessline.com/economy/agri-business/layered-el-nino-compounds-global-commodity-market-risk-says-us-analyst/article71324263.ece",
-                "source": "BusinessLine",
-                "date": "2026-08-10T03:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "1010music updates its Blackbox sampling workstation with a better screen, onboard battery and USB audio streaming",
+                "desc": "Upgraded with better controls, new features and a “more elegant” workflow, Blackbox 2 is now shipping",
+                "image": "https://cdn.mos.cms.futurecdn.net/NZR4rfJxmZqfvKYjF3u8dM-2560-80.jpg",
+                "url": "https://www.musicradar.com/music-tech/1010music-updates-its-blackbox-sampling-workstation-with-a-better-screen-onboard-battery-and-usb-audio-streaming",
+                "source": "MusicRadar",
+                "date": "2026-08-10T10:17:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Not Android, Not iOS: The Only Phone Made In The US Uses This Unique OS",
+                "desc": "Most Android phones follow the same familiar formula, but one U.S.-made handset takes a radically different approach to software, privacy, and control.",
+                "image": "https://www.bgr.com/img/gallery/not-android-not-ios-the-only-phone-made-in-the-us-uses-this-unique-os/l-intro-1785752772.jpg",
+                "url": "https://www.bgr.com/2229033/only-phone-made-usa-doesnt-use-android-ios/",
+                "source": "bgr.com",
+                "date": "2026-08-10T10:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "22 People Who Ruined Public Spaces",
+                "desc": "These people should've stayed HOME.",
+                "image": "https://s.yimg.com/lo/mysterio/api/4dab54d461b774de0256e517ec94d569aabdef8eb1f4d0b24cd9d29e7f4d69a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F17c52c5b9f04821aa780ba8183886192",
+                "url": "https://www.yahoo.com/lifestyle/articles/22-people-ruined-public-spaces-101604615.html",
+                "source": "Yahoo",
+                "date": "2026-08-10T10:16:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Semi-solid-state electrochromic devices based on poly(3-hexylthiophene) thin films and commercial UV-curable resins for low-power applications",
+                "desc": "Electrochromic devices (ECDs) that combine low power consumption with fast, reversible optical modulation are critical for advancing smart window and display technologies. Here, we report semi-solid-state ECDs based on regioregular poly(3-hexylthiophene-2,5-diyl) (P3HT) thin films integrated with commercially available UV-curable epoxy resins as gel electrolyte matrices. Spin-coated P3HT films on indium tin oxide (ITO)-coated glass exhibited high optical transparency (> 60% transmittance at 550 nm) and Raman signatures consistent with an ordered, pristine polymer microstructure. Devices employing a lithium perchlorate-propylene carbonate (LiClO₄-PC) electrolyte embedded within a UV-cured epoxy network demonstrated fully reversible switching between a colored (purple-pink) and bleached (transparent) state under ± 2 V bias. Cyclic voltammetry (CV) confirmed stable and reproducible redox behavior across multiple scan rates; scan-rate-dependent anodic peak shifts were attributed to charge-transfer kinetics within the viscous gel matrix. Optical transmission measurements revealed a modulation depth exceeding 30% at 550 nm, and time-resolved transmission studies yielded a rapid 90 − 10% response time of approximately 60 ms. These findings demonstrate that integrating P3HT electroactive films with UV-curable gel matrices enables high-contrast, low-power, and scalable polymer-based ECDs from commercially available components.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-65698-9?error=cookies_not_supported&code=1a8fa8bc-5283-489e-9937-779cb47d4072",
+                "source": "Nature",
+                "date": "2026-08-10T10:14:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"This is why physical media matters\": anger as Google yanks access to The Lord Of The Rings films, even if you 'bought' them",
+                "desc": "One user's cautionary tale",
+                "image": "https://cdn.mos.cms.futurecdn.net/KVFQgHJNtoE4FTGMDeDMm7-1440-80.png",
+                "url": "https://www.whathifi.com/streaming-entertainment/tv-streaming-services/this-is-why-physical-media-matters-anger-as-google-yanks-access-to-lord-of-the-rings-films-even-if-you-bought-them",
+                "source": "What Hi-Fi?",
+                "date": "2026-08-10T10:14:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Use the New Siri AI: Check Eligibility & Test It",
+                "desc": "How to Use the New Siri AI: Check Eligibility & Test It\nTechCrunch's hands-on verdict on the rebuilt Siri AI is blunt: the assistant finally works the...",
+                "image": "https://assets.content.technologyadvice.com/gadgethacks_favicon_d352b3f01c.webp",
+                "url": "https://apple.gadgethacks.com/how-to/how-to-use-the-new-siri-ai-check-eligibility-test-it/",
+                "source": "Gadget Hacks",
+                "date": "2026-08-10T10:13:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bose QuietComfort Headphones Now Cost Less Than Used Pairs After a Nearly 40% Off on Amazon",
+                "desc": "For a limited time, you can save 36% on the Bose QuietComfort headphones at Amazon.",
+                "image": "https://gizmodo.com/app/uploads/2026/08/Bose-QuietComfort-1200x675.jpg",
+                "url": "https://gizmodo.com/bose-quietcomfort-headphones-now-cost-less-than-used-pairs-after-a-nearly-40-off-on-amazon-2000796135",
+                "source": "Gizmodo",
+                "date": "2026-08-10T10:10:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google is getting a rival app store with Aptoide Games",
+                "desc": "Aptoide Games is coming to Google Play in the US, giving Android users an easier way to try an alternative gaming app store.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Play-Store-logo-on-smartphone-stock-photo-4.jpg",
+                "url": "https://www.androidauthority.com/aptoide-games-google-play-store-3696276/",
+                "source": "Android Authority",
+                "date": "2026-08-10T10:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Development of sustainable cementitious materials through microbially induced calcium carbonate precipitation",
+                "desc": "The mechanical and durability performance of cementitious materials can be significantly enhanced by a promising bio-based approach called “microbial",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs41062-026-02908-3/MediaObjects/41062_2026_2908_Fig1_HTML.png",
+                "url": "https://link.springer.com/article/10.1007/s41062-026-02908-3?error=cookies_not_supported&code=75834300-6246-4009-91a6-c112106b63ea",
+                "source": "link.springer.com",
+                "date": "2026-08-10T10:09:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony’s iconic XM4 headphones tipped to return in a surprising way",
+                "desc": "Sony could be preparing to bring back one of its most iconic set of headphones with a surprisingly appealing price.",
+                "image": "https://www.trustedreviews.com/wp-content/uploads/sites/7/2025/05/save-120-sony-wh-1000xm4-headphones.jpg",
+                "url": "https://www.trustedreviews.com/news/sonys-iconic-xm4-headphones-tipped-to-return-in-a-surprising-way",
+                "source": "Trusted Reviews",
+                "date": "2026-08-10T10:09:13Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Realme 16x 5G India Price and Live Images Leaked Ahead of August 12 Launch; Key Specs Also Revealed",
                 "desc": "Realme 16x 5G India launch set for Aug 12 with leaked prices from INR 25,999. Key specs: Dimensity 6300, 6.8\" 144Hz display, 7,000mAh battery, 45W charging.",
@@ -1174,99 +1264,99 @@
                 "source": "Mirage News",
                 "date": "2026-08-10T04:16:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google Drive Photo Backup Changes Kick In Today: How to recover your photos, what to do when backup ends on August 10",
-                "desc": "Google Drive Photo Backup: Google has ended automatic photo and video backups from selected computer folders through Google Drive for desktop. From August 10, 2026, users must use Google Photos “Back up folders” feature to continue backing up desktop photos. Existing photos already stored in Google Photos will remain safe, but new files will no longer sync automatically through the old Drive integration.",
-                "image": "https://img.etimg.com/thumb/msid-133079608,width-1200,height-630,imgsize-134189,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/news/new-updates/google-drive-photo-backup-changes-kicks-in-today-how-to-recover-your-photos-what-to-do-when-backup-ends-on-august-10/articleshow/133079350.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-08-10T03:35:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI actually flying on spacecraft today is a narrow fix for one physical problem, not machine judgment: a Mars rover picks its own laser targets with 93 percent accuracy, and one satellite's entire fir",
-                "desc": "The AI revolution in space isn't about machines making decisions—it's about engineers solving the bandwidth problem one narrow fix at a time.",
-                "image": "https://spacedaily.com/wp-content/uploads/2026/08/ai-satellite-spacecraft-operations-1024x576.png",
-                "url": "https://spacedaily.com/t-ai-actually-flying-on-spacecraft-today-is-a-narrow-fix-for-one-physical-problem-not-machine-judgment-a-mars-rover-picks-its-own-laser-targets-with-93-percent-accuracy-and-one-satellites-entire-first/",
-                "source": "Space Daily",
-                "date": "2026-08-10T03:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Montabi Brings Creature Collecting and Deckbuilding Together in New Tactical Roguelike",
-                "desc": "Indonesian indie developer Mankibo have officially released Montabi, a brand-new creature-collecting roguelike deckbuilder that combines strategic deck construction,…",
-                "image": "https://themagicrain.com/wp-content/uploads/2026/08/Montabi_MainKeyArtWithTitle.jpg",
-                "url": "https://themagicrain.com/2026/08/montabi-brings-creature-collecting-and-deckbuilding-together-in-new-tactical-roguelike/",
-                "source": "THE MAGIC RAIN",
-                "date": "2026-08-10T03:12:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei Mate 90 to feature hardware-level privacy display for first time",
-                "desc": "Huawei Mate 90 series is rumored to adopt a hardware-level privacy display feature. The company has debuted this ultimate tech solution with",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Mate-80-display.jpg",
-                "url": "https://www.huaweicentral.com/huawei-mate-90-to-feature-hardware-level-privacy-display-for-first-time/",
-                "source": "Huawei Central",
-                "date": "2026-08-10T03:11:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nintendo Co., Ltd. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions",
-                "desc": "Nintendo Co., Ltd. ( TSE:7974 ) just released its first-quarter report and things are looking bullish. Nintendo...",
-                "image": "https://images.simplywall.st/asset/industry/8043000-choice2-main-header/1585186922048",
-                "url": "https://simplywall.st/stocks/jp/media/tse-7974/nintendo-shares/news/nintendo-co-ltd-just-beat-analyst-forecasts-and-analysts-hav-2",
-                "source": "simplywall.st",
-                "date": "2026-08-10T03:11:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Webzen Reveals Details for New Game 'PROJECT D1' Based on 'Tyrant of the Defense Game'",
-                "desc": "©WebzenWebzen (CEO Kim Tae-young) has unveiled the first details and in-game visuals for PROJECT D1, a new title currently in development by its subsidiary Webzen Crevix (CEO ...",
-                "image": "https://static.invenglobal.com/upload/image/2026/08/10/r1786331059543178.jpeg",
-                "url": "https://www.invenglobal.com/articles/24606/webzen-reveals-details-for-new-game-project-d1-based-on-tyrant-of-the-defense-game",
-                "source": "Inven Global",
-                "date": "2026-08-10T03:06:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Narrow Remaining Path Forward for AI Browsers",
-                "desc": "After Atlas officially exited the relevant task, the Tabbits team is still continuing to conduct in-depth research and problem-solving on this pending issue, and is committed to advancing the resolution progress of the target problem with sustained efforts.",
-                "image": "https://img.36krcdn.com/hsossms/20260810/v2_45d5b35b41a3496e926ede64a02bdfe7@5091053@ai_oswg909469oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-                "url": "https://eu.36kr.com/en/p/3933002676534663",
-                "source": "36 Kr",
-                "date": "2026-08-10T03:04:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GearUP and Escape from Tarkov Partner to Enhance Online Gaming Experience for the New Season",
-                "desc": "PR Newswire | SINGAPORE, Aug. 9, 2026 /PRNewswire/ -- GearUP, a globa",
-                "image": "https://macaubusiness.com/favicon.ico",
-                "url": "https://macaubusiness.com/gearup-and-escape-from-tarkov-partner-to-enhance-online-gaming-experience-for-the-new-season/",
-                "source": "Macau Business",
-                "date": "2026-08-10T03:01:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "York man died day after being released from hospital",
-                "desc": "“Gentle” and “kind” York man Roy Horsley died the day after he was released from hospital, an inquest has heard.",
-                "image": "https://www.yorkpress.co.uk/resources/images/21287764.jpg?type=og-image",
-                "url": "https://www.yorkpress.co.uk/news/26445583.york-man-died-day-released-hospital/",
-                "source": "The York Press",
-                "date": "2026-08-10T03:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Galaxy Watch 9 review: Minor tweaks",
-                "desc": "Can Buy -- the Samsung Galaxy Watch 9 is a minor refresh of a solid and competent smartwatch for Android users.",
-                "image": "https://www.canbuyornot.com/wp-content/uploads/2026/08/Samsung-Galaxy-Watch-9_1.jpg",
-                "url": "https://www.canbuyornot.com/reviews/smartwatches/samsung-galaxy-watch-9-review-price/",
-                "source": "canbuyornot.com",
-                "date": "2026-08-10T03:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "France Reveals 5 Things Foreigners Face During Citizenship Interview in 2026",
+                "desc": "France outlined what foreigners should expect during the naturalization interview, including essential documents and the impact of background checks",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/a8d93b8ff7f4fbae.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/people/635743-france-reveals-5-foreigners-face-citizenship-interview-2026/",
+                "source": "Tuko News",
+                "date": "2026-08-10T10:19:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
+                "desc": "Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilian lives.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2025/12/8-10-anas-and-kids-1766581704_41be70-1766901289.jpg?resize=1200%2C630",
+                "url": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death",
+                "source": "Al Jazeera",
+                "date": "2026-08-10T10:18:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Complex Realities Behind President Traoré's Leadership In Burkina Faso No One Is Talking About",
+                "desc": "Captain Ibrahim Traoré embodies the defiant young sovereign for millions of Pan-African supporters across the continent. At the same time, Burkina Faso accounts for roughly a quarter of all terrorist attacks globally, creating a stark contrast between ideological leadership and security realities.",
+                "image": "https://www.africanexponent.com/content/images/2026/08/Ibrahim-Traore-is-the-continuation-of-Burkina-Fasos-revolution-says-brother-of-pan-Africanist-leader-Thomas-Sankara.jpeg",
+                "url": "https://www.africanexponent.com/the-complex-realities-behind-president-traores-leadership-in-burkina-faso-no-one-is-talking-about/",
+                "source": "africanexponent.com",
+                "date": "2026-08-10T10:18:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indonesia seeks to expand markets to Latin America",
+                "desc": "Proposed Indonesia-Mercosur trade deal could open wider access for Indonesian products in Latin America while giving Brazilian businesses a gateway to Asia.",
+                "image": "https://cdn.indonesiabusinesspost.com/5/4/2/2/photo-indonesia-brazil-flag-source-google-gemini-ai_512x351.png",
+                "url": "https://indonesiabusinesspost.com/7111/markets-and-finance/indonesia-seeks-to-expand-markets-to-latin-america",
+                "source": "Indonesia Business Post",
+                "date": "2026-08-10T10:17:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Whistleblower's Pivotal Return: South Sudan Drama Unfolds in Kenya",
+                "desc": "A South Sudanese whistleblower, Athorbey Al-Gaddhaffy-Dit, abducted in Kenya and held in South Sudan, has been released after nearly two months. Now back in Nairobi, he receives medical care due to health issues from his detention. His ordeal originally stemmed from revealing corruption in South Sudan.",
+                "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_04_2024_03_05_54_7361852.jpg&width=920&format=jpeg",
+                "url": "https://www.devdiscourse.com/article/law-order/3961923-whistleblowers-pivotal-return-south-sudan-drama-unfolds-in-kenya",
+                "source": "Devdiscourse",
+                "date": "2026-08-10T10:17:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Report claims Vatican firmly voted against Medjugorje in 2016",
+                "desc": "A vote by the Dicastery for the Doctrine of the Faith in 2016 reportedly had a two-thirds majority opinion that Medjugorje was not supernatural in origin",
+                "image": "https://cdn.prod.website-files.com/683ed37ff077394405011c9f/6a79a2d1fb9b78c0d11c2ffe_Medjugorje.png",
+                "url": "https://thecatholicherald.com/article/report-claims-vatican-firmly-voted-against-medjugorje-in-2016",
+                "source": "The Catholic Herald",
+                "date": "2026-08-10T10:17:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Who is Mohsen Rezaei, and how significant is his appointment?",
+                "desc": "Former IRGC commander Rezaei will be taking over as secretary of Iran’s top security body amid Hormuz talks.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-03T132147Z_995685063_RC2A6MAV1254_RTRMADP_3_IRAN-CRISIS-KHAMENEI-1786347475.jpg?resize=1792%2C1080",
+                "url": "https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment",
+                "source": "Al Jazeera",
+                "date": "2026-08-10T10:15:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Denmark Records Sharp Rise in GPS Interference Around Bornholm",
+                "desc": "Denmark has recorded a sharp rise in GPS interference around the Baltic island of Bornholm, with the number of detected incidents in 2026 already almost twice",
+                "image": "https://eutoday.net/wp-content/uploads/2026/08/E113IYLL.jpg",
+                "url": "https://eutoday.net/denmark-record-gps-interference-bornholm-russia/",
+                "source": "EU Today",
+                "date": "2026-08-10T10:14:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia’s share in India’s oil imports jumps to all-time high of 48%, even as U.S. readies 100% tariffs",
+                "desc": "Russia's oil imports to India reach a record 48% share amid U.S. tariff threats targeting countries buying Russian energy.",
+                "image": "https://th-i.thgim.com/public/incoming/u26ncp/article71327836.ece/alternates/LANDSCAPE_1200/2026-02-08T045202Z_490187312_RC2G2Y90LR3W_RTRMADP_3_USA-TRUMP-TRADE-INDIA-OIL.JPG",
+                "url": "https://www.thehindu.com/business/Industry/russias-share-in-indias-oil-imports-jump-to-all-time-high-of-48-despite-100-tariffs-threat-from-us/article71327681.ece",
+                "source": "The Hindu",
+                "date": "2026-08-10T10:14:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "El Niño alert: KVA warns of livestock losses, calls for urgent preparations",
+                "desc": "KVA is calling for emergency pre-emptive livestock vaccination campaigns.",
+                "image": "https://cdn.radioafrica.digital/image/2026/08/5dd4661a-d531-43e6-a523-197eb8e81377.webp?1786359852049",
+                "url": "https://www.the-star.co.ke/news/2026-08-10-el-nino-alert-kva-warns-of-livestock-losses",
+                "source": "the-star.co.ke",
+                "date": "2026-08-10T10:14:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
                 "desc": "A strike on an industrial center in Tatarstan marked one of the deadliest attacks on Russian territory since the start of the war.",
@@ -1806,98 +1896,8 @@
                 "source": "Responsible Statecraft",
                 "date": "2026-08-10T04:22:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "A journey of dialogue among civilizations",
-                "desc": "At Mexico's ancient Maya archaeological site of Chichen Itza, the stone pyramids and temples still tell stories of a remarkable civilization that flourished centuries ago.",
-                "image": "https://p3.img.cctvpic.com/photoworkspace/2026/08/10/2026081009421817419.jpg",
-                "url": "https://english.cctv.com/2026/08/10/ARTIX20ZOt6yy2ySlBo8QyTp260810.shtml",
-                "source": "CCTV.com English",
-                "date": "2026-08-10T03:40:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Top 10 Most Difficult Countries to Relocate to in 2026",
-                "desc": "William-Russell has revealed the top 10 most difficult countries to relocate to in 2026, in which a number of Asian nations dominate.",
-                "image": "https://aviationa2z.com/wp-content/uploads/2025/08/pexels-alifiaharina-2893670-scaled.webp",
-                "url": "https://aviationa2z.com/index.php/2026/08/10/10-most-difficult-countries-to-relocate-to-in-2026/",
-                "source": "Aviation A2Z",
-                "date": "2026-08-10T03:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How EU hauliers can recover foreign debts without court",
-                "desc": "EU law allows hauliers to claim late-payment compensation and reasonable debt recovery costs from foreign business partners.",
-                "image": "https://cdn-trans.info/uploads/2025/11/03bcc1cea8c26daf339c1c59417.webp",
-                "url": "https://trans.info/en/debt-recovery-eu-hauliers-494871",
-                "source": "Trans.INFO",
-                "date": "2026-08-10T03:34:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese and Indonesian cardiologists complete Southeast Asia's first \"noise-free\" cardiac procedure in Jakarta",
-                "desc": "JAKARTA, Indonesia, Aug. 10, 2026 /PRNewswire/ -- Cardiologists from China and Indonesia have successfully completed Southeast Asia's first complex Chronic Total Occlusion (CTO) procedure guided by United Imaging's uAngio AVIVA angiography system.",
-                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-                "url": "https://www.manilatimes.net/2026/08/10/tmt-newswire/pr-newswire/chinese-and-indonesian-cardiologists-complete-southeast-asias-first-noise-free-cardiac-procedure-in-jakarta/2401688",
-                "source": "The Manila Times",
-                "date": "2026-08-10T03:31:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta (META) Faces India Safe Harbor Threat After Modi Post Restriction",
-                "desc": "Meta Platforms (NasdaqGS:META) faces the potential loss of safe harbor protection in India after restricting a post by Prime Minister Narendra Modi.\nAn Indian parliamentary panel has warned that Meta could be held directly liable for user content if this immunity is removed.\nThe move would increase Meta's legal and compliance exposure in one of its largest international markets and may influence regulatory thinking in other countries.\nRegulators globally are rethinking how large platforms...",
-                "image": "https://images.simplywall.st/asset/company-cover/20765463-main-header/1756256217095",
-                "url": "https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms/news/meta-meta-faces-india-safe-harbor-threat-after-modi-post-res",
-                "source": "simplywall.st",
-                "date": "2026-08-10T03:31:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Construction of Dangote’s Lamu oil refinery to start in October",
-                "desc": "NAIROBI, Kenya, August 10 – Construction of the proposed Dangote oil refinery in Lamu is set to begin in October, Africa’s richest man Aliko Dangote has said. Dangote told the…",
-                "image": "https://capitalfm.africa/wp-content/uploads/2026/08/gas-tanks-768x521-1-768x420-1.webp",
-                "url": "https://capitalfm.africa/construction-of-dangotes-lamu-oil-refinery-to-start-in-october/",
-                "source": "98.4 Capital FM Kenya",
-                "date": "2026-08-10T03:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bay Area trauma surgeon heads to Nigeria for fifth medical mission",
-                "desc": "A Bay Area trauma surgeon is spending his vacation doing something very different from relaxing: providing free medical care to people in underserved communities in Nigeria.",
-                "image": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-09-22h34m26s044.png?ve=1&tl=1",
-                "url": "https://www.fox13news.com/news/bay-area-trauma-surgeon-heads-nigeria-fifth-medical-mission",
-                "source": "FOX 13 Tampa Bay",
-                "date": "2026-08-10T03:27:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
-                "desc": "Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-06T132145Z_335753292_RC2YSMATHMCD_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1786325933.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz",
-                "source": "Al Jazeera",
-                "date": "2026-08-10T03:27:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Middle East News Update, Israel, Gaza, Iran and Yemen",
-                "desc": "Middle East News Update: Israel, Gaza, Iran and Yemen",
-                "image": "https://images.indianexpress.com/2026/08/US-5-2.jpg",
-                "url": "https://indianexpress.com/article/world/latest-updates-israel-trump-gaza-strait-of-hormuz-iran-india-us-10825517/",
-                "source": "The Indian Express",
-                "date": "2026-08-10T03:24:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The great Farage funding timeline",
-                "desc": "Plus Ellen E Jones on Hollywood's AI reckoning | Philippa Perry on beating holiday guilt | Troubled painter Richard Dadd at the RA | Performance artist Bryony Kimmings",
-                "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2accc3c6-5001-4e49-bf87-c7a0fe1ffe0d/image.png?t=1761315730",
-                "url": "https://www.thenerve.news/p/the-great-farage-funding-timeline-weekend-edition",
-                "source": "The Nerve",
-                "date": "2026-08-10T03:18:27Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-10T21:26:26.537321Z"
+    "lastGlobalSync": "2026-08-10T22:20:16.887760Z"
 }
