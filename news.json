@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "TSMC's July sales hit record high",
+                "desc": "Taiwan Semiconductor Manufacturing Co. (TSMC) on Monday reported record sales for July, up more than 44 percent from a year earlier, with analysts attributing the growth to strong global demand for the chipmaker's advanced chipmaking processes amid the AI boom.",
+                "image": "https://imgcdn.cna.com.tw/Eng/WebEngPhotos/WebOg/600/2026/20260810/1200x630_07632407256.jpg",
+                "url": "https://focustaiwan.tw/business/202608100013",
+                "source": "Focus Taiwan",
+                "date": "2026-08-10T07:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GrabUnlimited turns “tightening one’s belt” into literal comedy in new GIGIL campaign",
+                "desc": "GIGIL turns “tightening one’s belt” into literal comedy with content creator Ian Mark in GrabUnlimited’s latest campaign!",
+                "image": "https://marketech-apac.com/wp-content/uploads/2026/08/GrabUnlimited-x-Ian-Mark-x-GIGIL.webp",
+                "url": "https://marketech-apac.com/grabunlimited-turns-tightening-ones-belt-into-literal-comedy-in-new-gigil-campaign/",
+                "source": "marketech-apac.com",
+                "date": "2026-08-10T07:41:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India’s edible oil imports surge by 34% in July",
+                "desc": "Edible oil shipments to India increased by 34% in July – to a 10-month high of 1.49M tonnes – compared to the previous month, Knowledge and News Network…",
+                "image": "https://www.ofimagazine.com/content-images/news/_1200x630_crop_center-center_82_none/Oil-in-Bottles-on-Production-Line-Adobe-stock.jpeg?mtime=1639647126",
+                "url": "https://www.ofimagazine.com/news/indias-edible-oil-imports-surge-by-34-in-july",
+                "source": "Oils & Fats International",
+                "date": "2026-08-10T07:40:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indonesia gets Standard, Dynamic, Premium variants, column shifter, RM46k",
+                "desc": "Since the BYD Atto 1 (née Seagull) launched in Indonesia almost exactly a year ago at this very show, it’s a good a time as any to take another look at it. The entire range …",
+                "image": "https://paultan.org/image/2026/08/2026-GIIAS-BYD-Atto-1-1-1200x801.jpg",
+                "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+                "source": "Paul Tan's Automotive News",
+                "date": "2026-08-10T07:39:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BSNL proposes ₹77,000 crore capex to add 200,000 4G sites, roll out 5G",
+                "desc": "DoT informed a parliamentary panel that BSNL is on a path to a financial turnaround through network modernization, asset monetization, cost efficiency and enterprise focus.",
+                "image": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/BSNL_1771909371111_1771909386090_1786347277518_c2dc5a8f-5165-476d-8a80-49c40342b7ae.jpg",
+                "url": "https://www.livemint.com/companies/news/bsnl-rs-77000-crore-capex-plan-4g-5g-network-expansion-11786340785386.html",
+                "source": "livemint.com",
+                "date": "2026-08-10T07:39:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prediction markets launch helps drive Plus500 revenues to three-year high",
+                "desc": "Plus500 launched its sports prediction markets offering at the end of June amid the World Cup football frenzy.",
+                "image": "https://static.independent.co.uk/2023/08/14/09/14081649-2d98b5b2-5244-4464-b034-8cffef3cbe4e.jpg?width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/business/ftse-shares-canada-mexico-holly-williams-b3030214.html",
+                "source": "The Independent",
+                "date": "2026-08-10T07:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indonesia Property Credit Growth Slows to 4.24%, Lowest in 4.5 Years",
+                "desc": "Indonesia’s property lending growth slowed to a 4.5-year low in June, as rising bad loans and weak housing demand weighed on the sector.",
+                "image": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2025/06/1750070723-3000x2000.webp",
+                "url": "https://jakartaglobe.id/business/indonesia-property-credit-growth-slows-to-424-lowest-in-45-years",
+                "source": "Jakarta Globe",
+                "date": "2026-08-10T07:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "11 Years of Keeping Promises Amidst Currency Cri",
+                "desc": "Discover how GMH Luxury upheld its commitments and protected client trust for 11 years, navigating Nigeria's currency crisis without compromising quality.",
+                "image": "https://punchng.com/wp-content/uploads/2026/08/gmh_1786341604.webp",
+                "url": "https://punchng.com/eleven-years-of-keeping-its-promises/",
+                "source": "Punch Newspapers",
+                "date": "2026-08-10T07:36:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria's solar boom runs on imports it can't afford to cut",
+                "desc": "Solar power has emerged as a crucial lifeline in Nigeria, plugging electricity gaps the national grid and diesel generators cannot fix...",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/03/chinnnna.jpg",
+                "url": "https://businessday.ng/energy/article/nigerias-solar-boom-runs-on-imports-it-cant-afford-to-cut/",
+                "source": "Business News Nigeria",
+                "date": "2026-08-10T07:36:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The FCC Wants To Ban Drones With LiDAR That It Previously Approved",
+                "desc": "If you're thinking of buying a LiDAR-equipped DJI drone, the FCC is proposing to ban them.",
+                "image": "https://www.engadget.com/img/gallery/the-fcc-wants-to-ban-drones-with-lidar-that-it-previously-approved/l-intro-1786347205.jpg",
+                "url": "https://www.engadget.com/2233213/the-fcc-wants-to-ban-drones-with-lidar-that-it-previously-approved/",
+                "source": "Engadget",
+                "date": "2026-08-10T07:35:58Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "made EV with 407 PS, 516 km NEDC launching in Australia Q4 2026",
                 "desc": "Mitsubishi has revealed its first production non-kei EV called the ASX VR-e, set to be launched in Australia in the fourth quarter of the year. The SUV-cum-hatchback carries on the Active Sports Crossover name into …",
                 "image": "https://paultan.org/image/2026/08/Mitsubishi-ASX-VR-e-1-e1786338463729-1200x676.jpeg",
@@ -542,99 +632,99 @@
                 "source": "Punch Newspapers",
                 "date": "2026-08-10T00:25:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Australian Gold Stocks With Strong Profits Trading Below Estimated Value",
-                "desc": "With US inflation expectations dipping modestly for the year ahead, investors are searching beyond the usual blue chips for ways to put cash to work. That softer inflation backdrop can make financially healthier penny stocks look more attractive than highly leveraged plays. This article walks through three stocks from the Financially Fit Penny Stocks screener that aim to combine low share prices with relatively stronger balance sheets.\nThe stocks highlighted below are just a sample, and the...",
-                "image": "https://images.simplywall.st/asset/industry/2053000-choice2-main-header/1585186554136",
-                "url": "https://simplywall.st/stocks/au/materials/asx-obm/ora-banda-mining-shares/news/australian-gold-stocks-with-strong-profits-trading-below-est",
-                "source": "simplywall.st",
-                "date": "2026-08-09T23:31:05Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Is United Parcel Service (UPS) Cheap As It Raises 2026 Guidance And Rolls Out New Tools?",
-                "desc": "Why UPS raised its outlook and refreshed its digital tools\nUnited Parcel Service (UPS) recently raised its consolidated earnings guidance for 2026 and rolled out new digital shipping tools for small and medium sized businesses, putting both profitability goals and customer experience in focus for investors.\nSee our latest analysis for United Parcel Service.\nUnited Parcel Service shares trade at US$104.50 after a 4.5% 90 day share price return and a 3.4% year to date share price gain. The 1...",
-                "image": "https://images.simplywall.st/asset/company-cover/238570-main-header/1756254356401",
-                "url": "https://simplywall.st/stocks/us/transportation/nyse-ups/united-parcel-service/news/is-united-parcel-service-ups-cheap-as-it-raises-2026-guidanc",
-                "source": "simplywall.st",
-                "date": "2026-08-09T23:31:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 Consumer Protection Stocks For Clearer Pricing And Subscription Rules",
-                "desc": "Regulators are turning up the heat on false discounts, subscription traps and opaque pricing, and that puts a fresh spotlight on companies that help retailers stay on the right side of consumer protection rules. This shift creates potential winners among compliance and retail technology specialists, as demand for transparent pricing and subscription management tools grows. This article reveals 3 stocks tied to these changes and explains how the news connects to each one.\nThe three stocks in...",
-                "image": "https://images.simplywall.st/asset/industry/8041000-choice2-main-header/1585186556238",
-                "url": "https://simplywall.st/stocks/us/software/nyse-cxm/sprinklr/news/3-consumer-protection-stocks-for-clearer-pricing-and-subscri",
-                "source": "simplywall.st",
-                "date": "2026-08-09T23:30:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MINISO Group Holding (MNSO) Could Be 51% Undervalued Following Its Kraków Pop Up Launch",
-                "desc": "MINISO Group Holding (MNSO) has opened its first pop-up store in Kraków’s Galeria Krakowska, marking the company’s debut in southern Poland. This temporary store highlights MINISO’s expanding European footprint and evolving retail formats.\nSee our latest analysis for MINISO Group Holding.\nMINISO Group Holding’s latest European pop up comes at a time when momentum in the stock has softened. The share price is US$12.55 and the year to date share price return is down 35.61%, while the 1 year...",
-                "image": "https://images.simplywall.st/asset/industry/4432000-choice1-main-header/1585186862198",
-                "url": "https://simplywall.st/stocks/us/retail/nyse-mnso/miniso-group-holding/news/miniso-group-holding-mnso-could-be-51-undervalued-following",
-                "source": "simplywall.st",
-                "date": "2026-08-09T23:30:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TIC Solutions (TIC) Could Be 15% Undervalued On Reaffirmed Guidance And Q2 Results",
-                "desc": "TIC Solutions (TIC) drew fresh attention on 6 August 2026 after reaffirming full year revenue guidance of US$2,150 million to US$2,250 million and reporting second quarter results that combined higher sales with continued net losses.\nSee our latest analysis for TIC Solutions.\nThe reaffirmed guidance and second quarter update appear to have sharpened investor focus on TIC Solutions, with a 1 day share price return of 15.9% and a 7 day share price return of 37.6% lifting the share price to...",
-                "image": "https://images.simplywall.st/asset/industry/9612012-choice2-main-header/1585186803878",
-                "url": "https://simplywall.st/stocks/us/commercial-services/nyse-tic/tic-solutions/news/tic-solutions-tic-could-be-15-undervalued-on-reaffirmed-guid",
-                "source": "simplywall.st",
-                "date": "2026-08-09T23:30:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indian IT stocks volatile, but fundamentals improving underneath",
-                "desc": "Indian IT saw stable Q1 FY27 with good deal execution despite cautious spending. Nuvama expects Q2 growth to improve via deals, cloud, and AI.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260726042307_stocks5.jpg",
-                "url": "https://www.moneycontrol.com/news/business/markets/indian-it-stocks-volatile-but-fundamentals-improving-underneath-13999180.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-08-09T23:30:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indian exporters suffer twists and turns of freight amid Lanka, Singapore transhipment jam",
-                "desc": "Indian exporters face delays due to congestion at Singapore and Colombo ports. A surge in China-US trade is reducing container availability globally. Freight rates have significantly increased for major shipping routes. Shipping lines are citing container shortages and delaying bookings for exporters. This situation impacts Indian trade and causes increased transit times.",
-                "image": "https://img.etimg.com/thumb/msid-133074588,width-1200,height-630,imgsize-222670,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/indian-exporters-suffer-twists-and-turns-of-freight-amid-lanka-singapore-transhipment-jam/articleshow/133074515.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-08-09T23:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Online Advantages® Releases Six-Month AI Search Visibility Research, Revealing 12 Lessons for Brands",
-                "desc": "Online Advantages®, a full-service digital marketing agency specializing in SEO, paid search, social media, content marketing and emerging AI search strategies, has released findings from six months of research and testing into how businesses can improve their visibility across AI-powered search engines and answer platforms.",
-                "image": "https://s.yimg.com/lo/mysterio/api/D2978AC30EF08279CC8F10AC31041809F40E834F45A0E6FBA6841284D91466DB/subgraphmysterio/resizefill_w1200_h1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F76bb200f01e12cebc47bf8f1cb592f1c",
-                "url": "https://finance.yahoo.com/media-advertising/articles/online-advantages-releases-six-month-232800956.html",
-                "source": "Yahoo Finance",
-                "date": "2026-08-09T23:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Proton eMas 5 pulls clear, sells nearly 5X more than second place",
-                "desc": "The Proton eMas 5 is not just Malaysia’s best-selling EV, it is now pulling clear of the field entirely. According to the latest EV registration data from the road transport department (JPJ) for July 2026, …",
-                "image": "https://paultan.org/image/2026/08/Proton-eMas-5-Nepal-1-1200x800.jpg",
-                "url": "https://paultan.org/2026/08/09/malaysia-ev-car-sales-in-july-2026-proton-emas-5-pulls-clear-sells-nearly-5x-more-than-second-place/",
-                "source": "paultan.org",
-                "date": "2026-08-09T23:25:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Integrated design of an efficient multi spectral imaging and federated learning framework for precision crop disease diagnosis in low-resource farming communities",
-                "desc": "Crop diseases pose significant challenges to productivity in resource-constrained settings, often remaining undiagnosed when diagnostic tools and infrastructure are either non-existent or inadequate. Current crop disease diagnosis relies on manual inspection methods that are labor-intensive, prone to error, and incapable of delivering real-time or region-specific insights in the process. Such limitations call for developing advanced diagnostic systems that are scalable and efficient in resource-constrained settings. This research introduced a comprehensive multi-spectral imaging and machine learning framework that can easily revolutionize the disease diagnosis and management inside the low-resource farming communities. Built within its core is the 3D Spectral-Spatial Convolutional Neural Network (3D SSCNN) that extracts high-resolution spectral-spatial features from hyperspectral image cubes. The accuracy achieved is around ~ 95% within 0.3 s per sample. Fed-DiagNet has provided support for distributed training that enables scalability and also data privacy to enhance the accuracy of regional models at approximately 92% as well as reduces training by almost 40%. Temporal disease progression modeling is enabled by Temporal Progression LSTM that provides dynamic trends with 90% accuracy up to a horizon of 10 days. This means that in addition to integrating disparate data sources-including hyperspectral imagery, environmental data, and pest observations-MTAN achieves an almost ~ 93% stress identification accuracy. Lastly, an RL-FO system tailors its treatment recommendations to local conditions so as to optimize for yield improvement and cost-effectiveness. With the proposed system, diagnostic precision increases to ~ 94%, and it is manifested in real-time efficiency while supporting scalability with actionable insights to empower farmers to mitigate crop losses and augment food security across several scenarios.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-53339-0/MediaObjects/41598_2026_53339_Fig9_HTML.png",
-                "url": "https://www.nature.com/articles/s41598-026-53339-0?error=cookies_not_supported&code=3df6ad2e-1b8e-4088-a9e6-c7379dcebd01",
-                "source": "Nature",
-                "date": "2026-08-09T23:24:04Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Moto Edge 70 Neo Spotted In Android 17 Beta Ahead Of Launch",
+                "desc": "Motorola has revealed the Edge 70 Neo name through an Android 17 beta programme, suggesting the smartphone could launch soon.",
+                "image": "https://apacnewsnetwork.com/wp-content/uploads/2026/08/sbi-Image-.png?v=1786347513",
+                "url": "https://apacnewsnetwork.com/2026/08/moto-edge-70-neo-spotted-in-android-17-beta-ahead-of-launch/",
+                "source": "APAC Media",
+                "date": "2026-08-10T07:41:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Square Enix sees 88% profit growth, citing strong performance across all categories of its video game business",
+                "desc": "Fantasy VII Rebirth and \"The Adventures of Elliot: The Millennium Tales\" drove profits in the HD game/console sector.",
+                "image": "https://automaton-media.com/en/wp-content/uploads/2026/08/20260606-67829-header.webp",
+                "url": "https://automaton-media.com/en/news/square-enix-sees-88-profit-growth-citing-strong-performance-across-all-categories-of-its-video-game-business/",
+                "source": "automaton-media.com",
+                "date": "2026-08-10T07:40:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TCL reinvents the mobile experience with NXTPAPER smartphone",
+                "desc": "For years, TCL has built its reputation as one of the world's leading TV brands, known for making premium display technology more accessible to consumers.",
+                "image": "https://cf-images.assettype.com/sunstar%2F2026-08-10%2Fu9zbaol1%2FNXTPAPER-70-Pro.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                "url": "https://www.sunstar.com.ph/cebu/tcl-reinvents-the-mobile-experience-with-the-launch-of-its-nxtpaper-smartphone-series",
+                "source": "SunStar Publishing Inc.",
+                "date": "2026-08-10T07:39:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+                "desc": "Malicious Solidity Pro VS Code extensions steal crypto wallets, API keys, SSH keys, and developer tokens, then exfiltrate the data via Telegram.",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR5_Dx4heVYIxaujo8ybl0OFdVuLzMFe0qdEdr6-q_QTdhSVlgHdrP6MeooXamFpRNfHjoAqTquvk3CkkCKUw1TQDkQJCrZY1RTC9iYK_bsTLNvpj0BZfFKFcnlt1RAlBvfcsWeSuLAn6Gwh9lur7v9-HlH-6ZpSmw7npsn9TSZAEpwFSFE54_xcFPcuDi/s1700-e365/pro.jpg",
+                "url": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+                "source": "The Hacker News",
+                "date": "2026-08-10T07:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Intel \"Nova Lake-S\" iGPU with 12 Xe3P Cores to Feature 40 W PL2 and 20 MB of L2 Cache",
+                "desc": "According to the reliable Intel leaker Jaykihn, Intel's upcoming \"Nova Lake-S,\" featuring 12 Xe3P cores, currently has a Power Limit 2 (PL2) setting of about 40 W. This builds on the previous rumor that this integrated graphics solution will arrive with two VCCGT phases for up to 65 W of power....",
+                "image": "https://www.techpowerup.com/img/8Wqi3z3mNfXFJdgj.jpg",
+                "url": "https://www.techpowerup.com/351474/intel-nova-lake-s-igpu-with-12-xe3p-cores-to-feature-40-w-pl2-and-20-mb-of-l2-cache",
+                "source": "TechPowerUp",
+                "date": "2026-08-10T07:34:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iOS 26.6.1 Expected Release Date and Latest Updates",
+                "desc": "Apple's iOS 26.6.1 update is likely launching within days to address security flaws and fix the Shortcuts app glitch introduced in the previous 26.6 version.",
+                "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/iphone-software-update-menu.jpg",
+                "url": "https://www.geeky-gadgets.com/ios-26-6-1-expected-release/",
+                "source": "Geeky Gadgets",
+                "date": "2026-08-10T07:33:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Offline Translator Runs AI on Raspberry Pi",
+                "desc": "An open-source handheld translator performs speech recognition, translation, and text-to-speech processing locally",
+                "image": "https://www.opensourceforu.com/wp-content/uploads/2026/08/625965_1_800.avif",
+                "url": "https://www.opensourceforu.com/2026/08/offline-translator-runs-ai-on-raspberry-pi/",
+                "source": "Open Source For You",
+                "date": "2026-08-10T07:33:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Play Store tests new ‘Expand Everything’ feature",
+                "desc": "Google is quietly testing a new way to browse the Play Store, and it starts with how search results look. The company has begun rolling out Expand everything, the first experimental feature under...",
+                "image": "https://www.thenews.com.pk/assets/uploads/2026-08-10/1411793_123149_updates.jpg",
+                "url": "https://www.thenews.com.pk/latest/1411793-google-play-store-tests-new-expand-everything-feature",
+                "source": "The News International",
+                "date": "2026-08-10T07:30:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2027 Dodge Charger Super Bee Launch Edition stings with 600 HP",
+                "desc": "Dodge is turning up the heat on its Hurricane inline-six powerplant with the 2027 Charger Super Bee Launch Edition",
+                "image": "https://d1tjylbhswro2u.cloudfront.net/images/posts/2026/08/4cf83509-5eb7-48b4-9157-b98662765db8-main-1-8.jpg",
+                "url": "https://www.autoindustriya.com/auto-industry-news/2027-dodge-charger-super-bee-launch-edition-stings-with-600-hp.html",
+                "source": "autoindustriya.com",
+                "date": "2026-08-10T07:30:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BMW M3 40th Anniversary Edition Debuts at Chengdu Auto Show, Limited to 20 Units Worldwide",
+                "desc": "BMW has officially announced the launch of a limited-edition M3 40th Anniversary model to celebrate the 40th anniversary of the iconic M3. The special edition will debut at the Chengdu International A...-Internet Info Agency",
+                "image": "https://img.news18a.com/bseries/3991/6103784923ae5_12.jpg",
+                "url": "https://english.news18a.com/news/english_284690.html",
+                "source": "网通社",
+                "date": "2026-08-10T07:30:12Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "WhatsApp Tests Easier Parental Controls on iPhones",
                 "desc": "Washington, August 10 (QNA) – WhatsApp is testing a new parental control feature for iPhones that allows parents...",
@@ -1174,99 +1264,99 @@
                 "source": "MarkTechPost",
                 "date": "2026-08-09T23:58:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Key Reasons Behind the Unusual Trend",
-                "desc": "Forced into a profound existential crisis triggered by one’s own self-created works, ideas, or tangible creations, this gripping psychological scenario explores the disorienting, identity-shaking conflict that arises when the very outputs born from one’s own labor, creativity, and personal vision upend core perceptions of self, purpose, and reality. This thought-provoking theme, widely featured in philosophical narratives, sci-fi thrillers, and modern creative discourse, delves into the tense, often unforeseen rift between a creator’s intent and the unruly, independent existence of their own creations, pushing individuals to confront unsettling questions about autonomy, meaning, and their fundamental place in the world.",
-                "image": "https://img.36krcdn.com/hsossms/20260810/v2_2d63353a38604b2eb837a2b1065b69ea@5091053@ai_oswg863088oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-                "url": "https://eu.36kr.com/en/p/3932127755304071",
-                "source": "36 Kr",
-                "date": "2026-08-09T23:33:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "JBL Live Buds 4 - Like Coming Home",
-                "desc": "Lately I've been seriously reconsidering what I want from a set of earbuds.\nFor a long time I wanted them to be small, inconspicuous and snug fitting, with",
-                "image": "https://www.newstalkzb.co.nz/media/qxobxxtp/jbl-live-buds-4-1.jpg?rmode=crop&v=1dd28bad8591dd0&height=395&width=635&quality=95&scale=both",
-                "url": "https://www.newstalkzb.co.nz/lifestyle/technology/jbl-live-buds-4-like-coming-home/",
-                "source": "Newstalk ZB",
-                "date": "2026-08-09T23:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Leak claims Final Fantasy 9 remake is on hold and was a smaller game than FF7 Revelation",
-                "desc": "Hopes for a Final Fantasy 9 remake release date in the near future look grim. A veteran journalist shared that the Square Enix game has been indefinitely suspended. Unlike the Final Fantasy 7 trilogy, it would have been a more condensed modernization of the classic RPG.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/FinalFantasy925thAnniversary.jpg",
-                "url": "https://www.notebookcheck.net/Leak-claims-Final-Fantasy-9-remake-is-on-hold-and-was-a-smaller-game-than-FF7-Revelation.1364314.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-08-09T23:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dell launches 43-inch 4K huddle monitor in Australia",
-                "desc": "Small meeting rooms could get easier to kit out as Dell's 43-inch conferencing monitor combines camera, audio and display in one unit.",
-                "image": "https://channellife.com.au/uploads/story/2026/08/10/compatible_Dell_Pro_P_43_4K-story-315406.jpg",
-                "url": "https://channellife.com.au/story/dell-launches-43-inch-4k-huddle-monitor-in-australia",
-                "source": "ChannelLife Australia",
-                "date": "2026-08-09T23:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jack Nimble nabs Cleo Wyrill as strategy and creative director",
-                "desc": "Jack Nimble, a Sydney-based social-first creative and production agency, has appointed Cleo Wyrill as its strategy & creative director.",
-                "image": "http://www.mi-3.com.au/sites/default/files/2026-08/465da1db-f89e-4f3d-b46f-806f34916d13.jpeg",
-                "url": "https://www.mi-3.com.au/10-08-2026/jack-nimble-nabs-cleo-wyrill-strategy-and-creative-director",
-                "source": "Mi-3.com.au.",
-                "date": "2026-08-09T23:12:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The New Wave ~ Bounce",
-                "desc": "he New Wave is Campaign Brief’s Q&A series spotlighting the next generation of independent creative companies and exploring how the indie model is evolving. From structure and speed to culture and capability, we unpack where these businesses are finding their edge and what’s driving client decisions today. Next up is Joel Chapman, Founder and Creative",
-                "image": "https://campaignbrief.com/wp-content/uploads/2026/06/Bounce-TNW-CB-1024x731.jpg",
-                "url": "https://campaignbrief.com/the-new-wave-bounce/",
-                "source": "Campaign Brief",
-                "date": "2026-08-09T23:10:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Squishies and K-pop CDs: British retailers cash in on collectibles craze",
-                "desc": "Retailers have said they are getting a boost from younger people spending their pocket money in shops.",
-                "image": "https://www.irishnews.com/resizer/v2/A2Q55ET2DFLCVBKGOQGQ35ZBUA.jpg?smart=true&auth=9c5ceb76f7b79e8c9ad62c0d3890bec124d55fee022f2e9321e979e0897393eb&width=1200&height=630",
-                "url": "https://www.irishnews.com/news/uk/squishies-and-k-pop-cds-british-retailers-cash-in-on-collectibles-craze-C7XVRODMIBOGFCVXGB6VXJZC2I/",
-                "source": "The Irish News",
-                "date": "2026-08-09T23:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Your headphones support better audio, but your phone probably isn't using it",
-                "desc": "If you have a pair of premium hi-res headphones and a hi-res streaming music subscription, your phone still might not be leveraging it.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/iphone-audio-codec-aac.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/headphones-support-better-audio-but-phone-probably-isnt-using-it/",
-                "source": "MakeUseOf",
-                "date": "2026-08-09T23:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Quordle hints and answers for Monday, August 10 (game #1659)",
-                "desc": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
-                "image": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
-                "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-10-august-2026",
-                "source": "TechRadar",
-                "date": "2026-08-09T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung S90H deal slashes a massive $700 off the price of this new 65 inch OLED TV",
-                "desc": "This is a fantastic offer on what’s arguably the best upper mid-range OLED TV on the market in 2026 - bag it quickly!",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/08/Samsung-S90H-deal-slashes-a-massive-700-off-the-price-of-this-new-65-inch-OLED-TV.jpg",
-                "url": "https://www.pcguide.com/deals/samsung-s90h-deal-slashes-a-massive-700-off-the-price-of-this-new-65-inch-oled-tv/",
-                "source": "PC Guide",
-                "date": "2026-08-09T22:49:24Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Ukrainian drone strike kills 13 inside Russia, authorities say, in deadliest attack in two years",
+                "desc": "A Ukrainian drone strike has killed at least 13 people and injured 39 others in Nizhnekamsk, a city deep inside Russia, local authorities said Monday, marking the deadliest attack to hit the country in more than two years.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/breaking-news-1-5x.png?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/10/europe/ukraine-russia-drone-strike-nizhnekamsk-intl",
+                "source": "CNN",
+                "date": "2026-08-10T07:40:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "African Leaders To Debate New Trade Alliances At FT Africa Summit",
+                "desc": "African policymakers, business leaders and investors will gather in London in October to discuss the continent’s response to shifting global trade alliances,",
+                "image": "https://birrmetrics.com/wp-content/uploads/2026/08/Untitled-design-67.jpg",
+                "url": "https://birrmetrics.com/african-leaders-to-debate-new-trade-alliances-at-ft-africa-summit/",
+                "source": "birrmetrics.com",
+                "date": "2026-08-10T07:40:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Joint Opposition seeks full 12-judge SC bench on 22A petitions",
+                "desc": "While highlighting that they will file petitions against the 22nd Amendment to the Constitution which seeks to extend the retirement age of judges, the Joint Opposition said today it would call for a bench comprising all 12 judges in the Supreme Court to look into the petition.",
+                "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_df61570ad3.jpg",
+                "url": "https://www.dailymirror.lk/breaking-news/Joint-Opposition-seeks-full-12-judge-SC-bench-on-22A-petitions/108-347802",
+                "source": "Daily Mirror - Sri Lanka",
+                "date": "2026-08-10T07:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "12 killed, 39 injured as Ukrainian drones strike civilian sites, oil refinery in Russia",
+                "desc": "Europe News: At least 12 people were killed and 39 others injured in a Ukrainian drone attack on industrial and civilian targets in Nizhnekamsk, a city in Russia’s.",
+                "image": "https://static.toiimg.com/thumb/msid-133090371,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/europe/12-killed-39-injured-as-ukrainian-drones-strike-civilian-sites-oil-refinery-in-russia/articleshow/133090211.cms",
+                "source": "The Times of India",
+                "date": "2026-08-10T07:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Singaporean held for RM3.2mil ransom after falling for job offer, say cops",
+                "desc": "They say the 72-year-old man was lured by a syndicate through social media and abducted after arriving in Penang.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/10/1fcc1384-m-kumar-bernama-061025-1.webp",
+                "url": "https://www.freemalaysiatoday.com/category/nation/2026/08/10/singaporean-held-for-rm3-2mil-ransom-after-falling-for-job-offer-say-cops",
+                "source": "Free Malaysia Today",
+                "date": "2026-08-10T07:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MAGENTA Monitoring & Evaluation Specialist Job 2026 – Home",
+                "desc": "MAGENTA has announced an opportunity for an experienced Monitoring & Evaluation (M&E) Specialist to support a potential national tax reform project",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/08/MAge.png",
+                "url": "https://www.globalsouthopportunities.com/2026/08/10/monitoring-7/",
+                "source": "Global South Opportunities",
+                "date": "2026-08-10T07:34:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Italian Air China Employee Goes Viral For Speaking Perfect Mandarin With Beijing Accent",
+                "desc": "He says he learnt the language in Beijing and now speaks it every day at work.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--OSwz_rtn--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/8days/image/2026/08/07/img_2933_0.png?itok=zWTaZZ2a",
+                "url": "https://www.8days.sg/entertainment/asian/air-china-staff-italian-speaks-mandarin-beijing-accent-861721",
+                "source": "8days.sg",
+                "date": "2026-08-10T07:34:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "August in Tanzania: The ultimate spectacle",
+                "desc": "DAR ES SALAAM: AUGUST is the undisputed prime time to experience Tanzania at its absolute best. Aligned perfectly with Northern Hemisphere summer breaks, it offers clear blue skies, wonderfully mild temperatures, and minimal humidity across the country. Best of all, the dry winter conditions bring mosquito populations to their lowest annual levels, significantly reducing malaria …",
+                "image": "https://dailynews.co.tz/wp-content/uploads/2026/08/August.webp",
+                "url": "https://dailynews.co.tz/august-in-tanzania-the-ultimate-spectacle/",
+                "source": "dailynews.co.tz",
+                "date": "2026-08-10T07:29:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Air India’s Phuket-Delhi turbulence hit flight captain allegedly failed dope test; suspended",
+                "desc": "The captain who operated Air India’s turbulence-hit Phuket-Delhi flight on August 4 has reportedly tested positive for psychoactive substances in a post-flight dope test.",
+                "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_cc5f02ebe8.jpg",
+                "url": "https://www.dailymirror.lk/breaking-news/Air-Indias-Phuket-Delhi-turbulence-hit-flight-captain-allegedly-failed-dope-test-suspended/108-347801",
+                "source": "Daily Mirror - Sri Lanka",
+                "date": "2026-08-10T07:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prime Minister's Office Hosts Experience-Sharing Program on 5 Million Coders Initiative",
+                "desc": "Addis Ababa, August 8, 2026 (ENA) — Following Abiy Ahmed’s national call for youth to join the 5 Million Ethiopian Coders Initiative and expand its reach to 7 million by the end of the rainy season, the Office of the Prime Minister hosted a dedicated experience-sharing program in Addis Ababa.\nAccording to a social media post by the Office of the Prime Minister, the event brought together certified graduates, industry leaders, policymakers, and young professionals to share insights and advance the Digital Ethiopia 2030 agenda through practical digital skills development.\nThe program opened with a tour of an Artificial Intelligence exhibition, followed by a keynote address from Billene Seyoum, Head of the Press Secretariat at the Office of the Prime Minister.\nBillene framed youth technical capability as a vital national asset and reaffirmed the target to reach 7 million coders this summer.\nThe panel featured Abiyot Bayou, Senior Advisor to the Minister of Innovation and Technology; Bethlehem Dessie, CEO of gheero; and Initiative alumni Azimeraw Taddese and Mahlet Seyoum, a tech entrepreneur.\nThe panelists encouraged participants to continuously hone their skills, build practical solutions, and drive innovation within Ethiopia’s digital ecosystem.\nThe event concluded with an interactive networking session where young participants engaged the panelists with insightful questions, highlighting the initiative’s role as a catalyst for developing digital talent and driving national transformation.",
+                "image": "https://www.ena.et/documents/42142/0/766309118_1362148619435555_8925406574253086901_n.jpg/c6824c4d-b44a-36f7-347d-3f42e0b2b8ce?version=1.0&t=1786346585932&download=true",
+                "url": "https://www.ena.et/web/eng/w/eng_9372584",
+                "source": "ENA English",
+                "date": "2026-08-10T07:26:30Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump's statements on Iran negotiations ignite debate over While House policy",
                 "desc": "Suleiman Maswadeh, a commentator for Channel 13 News, addressed the developments with 103FM, warning that even the current statement does not necessarily indicate Trump's future direction.",
@@ -1806,98 +1896,8 @@
                 "source": "The Vibes",
                 "date": "2026-08-10T00:18:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'51 years of bad behaviour': Trump takes swipe at Iran with 'no money' claims",
-                "desc": "US News: US President Donald Trump on Sunday criticised Iran in a post on his social media platform Truth Social, sharing a graphic titled “Iran has NO MONEY” .",
-                "image": "https://static.toiimg.com/thumb/msid-133076831,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/51-years-of-bad-behaviour-trump-takes-a-swipe-at-iran-with-no-money-claims/articleshow/133076813.cms",
-                "source": "The Times of India",
-                "date": "2026-08-09T23:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Father dies after alleged assault while horse riding in Sigatoka",
-                "desc": "Father dies after alleged assault while horse riding in Sigatoka",
-                "image": "https://www.fijivillage.com/news_images/20260810111740_media_6a7908e371cfe9_61968432.jpg",
-                "url": "https://www.fijivillage.com/t/father-dies-after-alleged-assault-while-horse-riding-in-sigatoka-6fd8e7/",
-                "source": "Fijivillage",
-                "date": "2026-08-09T23:17:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Father dies after alleged assault while horse riding in Sigatoka",
-                "desc": "Father dies after alleged assault while horse riding in Sigatoka",
-                "image": "https://www.fijivillage.com/news_images/20260810111740_media_6a7908e371cfe9_61968432.jpg",
-                "url": "https://www.fijivillage.com/s/father-dies-after-alleged-assault-while-horse-riding-in-sigatoka-6fd8e7/",
-                "source": "Fijivillage",
-                "date": "2026-08-09T23:17:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Father dies after alleged assault while horse riding in Sigatoka",
-                "desc": "Father dies after alleged assault while horse riding in Sigatoka",
-                "image": "https://www.fijivillage.com/news_images/20260810111740_media_6a7908e371cfe9_61968432.jpg",
-                "url": "https://www.fijivillage.com/news/father-dies-after-alleged-assault-while-horse-riding-in-sigatoka-6fd8e7/",
-                "source": "Fijivillage",
-                "date": "2026-08-09T23:17:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Path to Development",
-                "desc": "Explore how the Tinubu administration's reintroduction of a regional economic model, inspired by Awolowo's legacy, can drive sustainable development in Nig",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/Tella.webp",
-                "url": "https://punchng.com/taking-advantage-of-regional-development-paradigm/",
-                "source": "Punch Newspapers",
-                "date": "2026-08-09T23:17:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Where is Sako now? Couple's friend debunks death claim as Dalton's video sparks concern; ‘are they OK?’",
-                "desc": "Rumors claiming influencer Sako was killed by Dalton Ain’t Worried are false. A friend confirmed both are okay amid unverified separation and arrest claims.",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/08/09/1600x900/logo/sako_dalton_update_1786315975338_1786315981205_1efe1ba4-b4b5-4c2f-82fe-26f992f420fe.png",
-                "url": "https://www.hindustantimes.com/trending/us/where-is-sako-now-friend-debunks-death-claim-as-dalton-aint-worried-video-sparks-concern-are-they-ok-101786315463757.html",
-                "source": "Hindustan Times",
-                "date": "2026-08-09T23:14:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alleged Irish crime boss returned from Dubai to face criminal organisation charges",
-                "desc": "Daniel Kinahan is back in Dublin to face allegations he ran an international drug smuggling and money laundering empire from Dubai, with tentacles that stretched to Australia, Europe and the US.",
-                "image": "https://static.ffx.io/images/$zoom_0.9281%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/c86c35fd69b1ddbb340af8850c1b3940a125eded",
-                "url": "https://www.smh.com.au/world/europe/gang-war-suspected-irish-crime-kingpin-charged-after-high-security-dubai-extradition-20260810-p60mu4.html",
-                "source": "SMH.com.au",
-                "date": "2026-08-09T23:11:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yemen's Houthis attack Saudi refinery after kingdom signs defense pact",
-                "desc": "The drone attack on Saudi Aramco's Jazan refinery coincides with Saudi Arabia's new defense pact with Turkey and Pakistan amid regional instability",
-                "image": "https://www.rappler.com/tachyon/2024/10/yemen-houthi-october-4-2024-reuters.jpg",
-                "url": "https://www.rappler.com/world/middle-east/yemen-houthis-attack-saudi-refinery-kingdom-signs-defense-pact/",
-                "source": "rappler.com",
-                "date": "2026-08-09T23:10:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fast-moving wildfire in western Canada forces more than 20,000 people to evacuate",
-                "desc": "British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee their communities.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/08/d70cb493-5264-4933-92da-d7f05a14b72a/thumbnail/1200x630/97f1e4faec7e61d2cc375d0dcc263d1a/2026-08-08t140850z-1402556194-rc26umaooozg-rtrmadp-3-canada-wildfires.jpg",
-                "url": "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/",
-                "source": "cbsnews.com",
-                "date": "2026-08-09T23:08:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump ally pressed on Obama and El-Sayed trend: ‘Trying to say, hint hint, he’s Muslim?’",
-                "desc": "South Carolina Sen. Tim Scott refers to El-Sayed’s association with Hasan Piker as he calls Michigan Democrat ‘dangerous’ but doesn’t defend GOP ads accused of Islamophobia",
-                "image": "https://static.independent.co.uk/2026/08/09/22/2026-07-16T165832Z_919155364_RC24FMADFJQI_RTRMADP_3_USA-TRUMP-CFPB.JPG?trim=0,4,0,4&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/tim-scott-senate-republicans-el-sayed-b3030072.html",
-                "source": "The Independent",
-                "date": "2026-08-09T23:08:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-10T18:35:48.219334Z"
+    "lastGlobalSync": "2026-08-10T19:43:32.461825Z"
 }
