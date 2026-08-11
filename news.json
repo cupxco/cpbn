@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "JLG invests in Nextera Robotics",
+                "desc": "JLG has acquired a stake in Nextera Robotics to develop autonomous, AI based technology for construction sites",
+                "image": "https://s3.eu-central-1.amazonaws.com/vertikal.net/0_jlg-nexter_1beefbe1.jpg",
+                "url": "https://vertikal.net/en/news/story/49076/jlg-invests-in-nextera-robotics",
+                "source": "Vertikal.net",
+                "date": "2026-08-10T22:34:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chorus outages affecting fibre internet across Auckland",
+                "desc": "A number of fibre outages are impacting internet connectivity in different parts of Auckland, with as many as 30,000 connections impacted.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s---MX5HGZZ--/t_tohu-badge-facebook/f_auto/q_auto/4JK2F6B_image_1_png",
+                "url": "https://www.rnz.co.nz/news/business/959275/chorus-outages-affecting-fibre-internet-across-auckland",
+                "source": "RNZ",
+                "date": "2026-08-10T22:33:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX’s Earnings Show Elon Wiped Out Two-Thirds Of Twitter’s Ad Business",
+                "desc": "When SpaceX filed for its IPO, we went through the S-1 to point out just how far off the mark Elon Musk's predictions about his Twitter takeover turned out to be. Indeed, the failure of Twitter as a business was so catastrophic, Musk had to hide it by merging all his Xs together: he had…",
+                "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+                "url": "https://www.techdirt.com/2026/08/10/spacexs-earnings-show-elon-wiped-out-two-thirds-of-twitters-ad-business/",
+                "source": "Techdirt.",
+                "date": "2026-08-10T22:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ghost of census past: The number haunting millions of Aussies",
+                "desc": "A single Census answer exposed an infuriating paradox under Australian roofs - one analysts hope five years of housing crisis will finally have changed.",
+                "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/08/capi_0dacc5d87aac203c2273eb21b8bbb215_d4a24bb6e7e537464e7b34552e61ffff.jpeg",
+                "url": "https://www.realestate.com.au/news/ghost-of-census-past-the-number-haunting-millions-of-aussies/",
+                "source": "realestate.com.au",
+                "date": "2026-08-10T22:32:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+                "desc": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo",
+                "source": "BBC",
+                "date": "2026-08-10T22:31:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia gets $500bn from major banks to develop AI data centres",
+                "desc": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
+                "url": "https://www.bbc.com/news/articles/c78gr0jv0mdo",
+                "source": "BBC",
+                "date": "2026-08-10T22:31:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Government policy and central bank clash, fuelling a housing inflation crisis",
+                "desc": "House prices are falling yet housing is getting more expensive, and a leading economist warns the worst is still to come.",
+                "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/08/capi_4b66b46d1ca2a15723b2699db301cd40_f81781cf9ac17f9ea68340c100376370.jpeg",
+                "url": "https://www.realestate.com.au/news/government-policy-and-central-bank-clash-fuelling-a-housing-inflation-crisis/",
+                "source": "realestate.com.au",
+                "date": "2026-08-10T22:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria’s refineries were shut down because they were bleeding, not broken - PENGASSAN",
+                "desc": "*Adds policy u-turns threaten oil industry By Victor Ahiuma-Young The Petroleum and Natural Gas Senior Staff Association of Nigeria (PENGASSAN) has given the real reasons Nigeria’s government-owned refineries were shut down, saying the facilities were losing money rather than simply being incapable of functioning. The President of PENGASSAN, Festus Osifo, in a chat with journalists […]",
+                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/11/PENGASSAN.jpg",
+                "url": "https://www.vanguardngr.com/2026/08/nigerias-refineries-were-shut-down-because-they-were-bleeding-not-broken-pengassan/",
+                "source": "Vanguard News",
+                "date": "2026-08-10T22:28:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Reportedly Testing Controversial Chinese Chips as Memory Supply Crunch Intensifies",
+                "desc": "Apple is allegedly testing chips from a chipmaker that the Trump Admin considers a Chinese military company.",
+                "image": "https://gizmodo.com/app/uploads/2026/04/tim-cook-donald-trump-1200x675.jpg",
+                "url": "https://gizmodo.com/apple-reportedly-testing-controversial-chinese-chips-as-memory-supply-crunch-intensifies-2000796483",
+                "source": "Gizmodo",
+                "date": "2026-08-10T22:27:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US-Japan move to stop yen slide helps baht appreciate",
+                "desc": "A US-Japan joint intervention to stop the yen's slide is among the reasons the baht has appreciated beyond 33 baht to the dollar, economists say, noting that the Thai currency is likely to continue gaining against the greenback in the near term.",
+                "image": "https://static.bangkokpost.com/media/content/dcx/2026/08/11/6184033_700.jpg",
+                "url": "https://www.bangkokpost.com/business/general/3299598/usjapan-move-to-stop-yen-slide-helps-baht-appreciate",
+                "source": "Bangkok Post",
+                "date": "2026-08-10T22:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Climate change is threatening Italy's cheese banks that hold Parmigiano wheels as loan collateral",
                 "desc": "Extreme heat is straining the vaults that hold Parmigiano wheels as loan collateral, and economists say the damage runs wider than the vault",
                 "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1252009317-e1786392064908.jpg?resize=1200,600",
@@ -542,99 +632,99 @@
                 "source": "Investor's Business Daily",
                 "date": "2026-08-10T14:47:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Senator seeks rights for part-time workers",
-                "desc": "Sen. Joel Villanueva's SB 2375 seeks to grant part-time workers proportionate wages, statutory benefits, and security of tenure.",
-                "image": "https://cf-images.assettype.com/sunstar%2F2026-08-10%2F830ykckh%2Fb3.jpg?rect=0%2C28%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://www.sunstar.com.ph/cebu/senator-seeks-rights-for-part-time-workers",
-                "source": "SunStar Publishing Inc.",
-                "date": "2026-08-10T12:35:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX Stock Hits Resistance at its $135 IPO Price After Earnings, Share Unlock",
-                "desc": "SpaceX stock briefly moved above its $135 IPO price after last week's big rebound. Cathie Wood, ARK Invest buy $15 mil of SPCX.",
-                "image": "https://www.investors.com/wp-content/uploads/2021/01/Stock-SpaceX-SN8-company.jpg",
-                "url": "https://www.investors.com/news/spacex-stock-rebound-reclaim-135-ipo-price/",
-                "source": "Investor's Business Daily",
-                "date": "2026-08-10T12:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GBP/USD Forecast: Where Next After the Fed and BoE Hold?",
-                "desc": "GBP/USD holds steady after the Fed and Bank of England both left rates unchanged. See the key levels and what's next for the pound.",
-                "image": "https://www.ig.com/content/dam/publicsites/igcom/uk/images/news-article-image-folder/Adobe_USD_GBP_26-06-2024.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-                "url": "https://www.ig.com/uk/trading-strategies/gbp-usd-forecast-fed-boe-hold-260810",
-                "source": "ig.com",
-                "date": "2026-08-10T12:34:03Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Intel raises $15B in common stock, points to AI compute demand",
-                "desc": "Intel just told the market it needs $15 billion in fresh equity to keep up with what the company calls \"unprecedented investment in AI compute.\" The Santa…",
-                "image": "https://aiweekly.co/themes/custom/aiweekly/images/favicon.svg",
-                "url": "https://aiweekly.co/node/9611",
-                "source": "AI Weekly",
-                "date": "2026-08-10T12:33:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former POGO Operators Shift To Sri Lanka",
-                "desc": "Former Philippine offshore gaming operators reportedly move activities to Sri Lanka as authorities review online gaming networks and risks.",
-                "image": "https://news.worldcasinodirectory.com/wp-content/uploads/2026/08/Former-POGO-linked-operators-reportedly-shift-to-Sri-LankaE28099s-Port-City.jpg",
-                "url": "https://news.worldcasinodirectory.com/sri-lanka-investigates-online-gaming-activity-linked-to-former-pogos-123903",
-                "source": "World Casino News",
-                "date": "2026-08-10T12:33:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Elon Musk lost trillionaire status but added ₹8,000 crore daily since July 2025: Check his 2026 net worth",
-                "desc": "Elon Musk momentarily became the world's first trillionaire when SpaceX went public on June 12.",
-                "image": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/FILES-US-POLITICS-MUSK-1_1786361272603_1786361296059_cea0c94b-8fa7-42b4-bbb1-33376e5982b8.jpg",
-                "url": "https://www.livemint.com/companies/people/elon-musk-lost-trillionaire-status-but-added-8-000-crore-daily-since-july-2025-check-his-2026-net-worth-11786361208907.html",
-                "source": "livemint.com",
-                "date": "2026-08-10T12:32:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Capricor Therapeutics to Report Second Quarter 2026 Financial Results and Provide Recent Corporate Update on August 13",
-                "desc": "– Company to Host Conference Call on August 13, 2026, at 4:30 p.m. ET –\nSAN DIEGO, Aug. 10, 2026 (GLOBE NEWSWIRE) -- Capricor…...",
-                "image": "https://d1io3yog0oux5.cloudfront.net/_12f8a720db19ec486e051041f5b998d3/capricor/db/2243/20273/social_image_resized.jpg",
-                "url": "https://www.capricor.com/investors/news-events/press-releases/detail/352/capricor-therapeutics-to-report-second-quarter-2026",
-                "source": "Capricor Therapeutics, Inc.",
-                "date": "2026-08-10T12:32:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kura Oncology Publishes Blood Study on Ziftomenib",
-                "desc": "Additional menin-dependent acute leukemias represent up to 50% of eligible patients, and Kura is studying ziftomenib across AML populations.",
-                "image": "https://static.stocktitan.net/company-logo/kura-lg.png?v=7554298ed7",
-                "url": "https://www.stocktitan.net/news/KURA/kura-oncology-announces-publication-in-blood-highlighting-ziftomenib-z1z8gi0ve45o.html",
-                "source": "Stock Titan",
-                "date": "2026-08-10T12:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gen Z got into repairing and handstitching clothes first - now Levi's and Uniqlo are chasing a Patagonia-style 'brand halo'",
-                "desc": "“There is nothing throw away about our products,” Vicki Swain, Primark’s product longevity & partnership lead, said.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26219616445057-e1786364791128.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/08/10/gen-z-analog-handstitching-repairing-clothes-second-hand-levis-uniqlo/",
-                "source": "Fortune",
-                "date": "2026-08-10T12:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Best Online Pokies Australia 2026: Top Real Money Pokies Sites Ranked (7400+ Pokies)",
-                "desc": "Casinos Welcome Bonuses Featured Pokies 1️⃣ Wild Tokyo 250% up to AU$5,300 + 750 Free Spins Jewel Boom 2️⃣ Crown Play 250% up to AU$4,500 + 350 Free Spins Aztec Eclipse: Hold & Win 3️⃣ Mino Casino 250% up to AU$4,140 + 400 Free Spins Bonanza Billion Xtreme 4️⃣ Rolling Slots 300% up to AU$6,400...",
-                "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/08/image-706.png",
-                "url": "https://muddyriversports.com/sponsored-content/best-online-pokies-australia-2026-top-real-money-pokies-sites-ranked-7400-pokies/20260810073000/",
-                "source": "Muddy River Sports",
-                "date": "2026-08-10T12:30:09Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
+                "desc": "Big money.",
+                "image": "https://sm.ign.com/t/ign_in/news/g/gta-6-boss/gta-6-boss-says-more-people-are-pre-ordering-the-100-version_knty.1200.jpg",
+                "url": "https://in.ign.com/grand-theft-auto-vi/268429/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
+                "source": "IGN India",
+                "date": "2026-08-10T22:32:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone Ultra Leak Confirms the $2,000 Device Might Ship Without a Zoom Lens",
+                "desc": "iPhone Ultra representational image Apple's foldable iPhone is shaping up to be the most expensive iPhone in the company's history, and possibly the first flagship in years to skip a lens. Fresh leaks point to camera covers in silver and a blue so dark it practically photographs as black, plus a module with four cutouts",
+                "image": "https://www.yankodesign.com/images/design_news/2026/08/640920/iphone_ultra_camera_bump_leak_1.jpeg",
+                "url": "https://www.yankodesign.com/2026/08/10/iphone-ultra-leak-confirms-the-2000-device-might-ship-without-a-zoom-lens/",
+                "source": "Yanko Design",
+                "date": "2026-08-10T22:30:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uniqlo Unveils New Pokémon 30th Anniversary UT Collection",
+                "desc": "Eight new shirts for adults and kids reference the monochrome visuals of the original Game Boy titles, and they built a website with music to match.",
+                "image": "https://s.yimg.com/lo/mysterio/api/a501d36c470858ea637b7542659804244f7bc99e228c46c629a56621372df33c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Faebff1339e02c1e980b3dca019dc02c6",
+                "url": "https://shopping.yahoo.com/style/clothing/articles/uniqlo-unveils-pok-mon-30th-222942159.html",
+                "source": "Yahoo",
+                "date": "2026-08-10T22:29:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+                "desc": "Our discussion takes place live on August 11 at 3 pm ET.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg",
+                "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+                "source": "Ars Technica",
+                "date": "2026-08-10T22:23:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Eccentrica V12 Roadster Reimagines Lamborghini Diablo As A Roofless Supercar, Limited To 19 Units",
+                "desc": "San Marino-based restomodder Eccentrica Cars has unveiled its Lamborghini Diablo-based V12 Roadster, its second model following the V12 Coupé, which is also based on the iconic 1990s supercar. Founded by Lamborghini collector Emanuel Colombini, Eccentrica’s V12 Roadster is based on the first-generation Lamborghini Diablo, but features more than 3,500 bespoke components and a re-engineered 5.7-liter […]",
+                "image": "https://autojosh.com/wp-content/uploads/2026/08/eccentrica_v12_roadster_autojosh_1.jpg",
+                "url": "https://autojosh.com/eccentrica-v12-roadster-reimagines-lamborghini-diablo-as-a-roofless-supercar-limited-to-19-units/",
+                "source": "AUTOJOSH",
+                "date": "2026-08-10T22:20:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 Laptops More Powerful Than The Xbox Series X",
+                "desc": "Some of the laptops that outperform an Xbox Series X include the MSI Thin 15, Acer Nitro V 16, Lenovo LOQ 15, Maingear Super 16, and Maingear Ultima 18.",
+                "image": "https://www.bgr.com/img/gallery/5-laptops-more-powerful-than-the-xbox-series-x/l-intro-1785789765.jpg",
+                "url": "https://www.bgr.com/2229940/laptops-more-powerful-than-xbox-series-x/",
+                "source": "bgr.com",
+                "date": "2026-08-10T22:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
+                "desc": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
+                "image": "https://assets-prd.ignimgs.com/2026/08/08/gta-6-main-1786226105882.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
+                "source": "IGN",
+                "date": "2026-08-10T22:14:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'over the hill’ arrives on Steam October 14",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/08/100939-bb578d5c/Key_art_-_over_the_hill_-_Steam.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=f7510e67be052388c827484813ae616e4d55ac26e1f2db249017d0fab984d06c",
+                "url": "https://www.gamespress.com/pl/over-the-hill-arrives-on-Steam-October-14",
+                "source": "Games Press",
+                "date": "2026-08-10T22:13:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DesView Introduces Its New Flagship-Grade Wireless Video Transmission System With Insane Range",
+                "desc": "A look at the new Desview Thunderbolt 1080p Wireless Transmission System, which aims to provide 5 GHz line-of-sight transmission over 1300’ away, plus some other nice specs and features.",
+                "image": "https://nofilmschool.com/media-library/image.jpg?id=67598529&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+                "url": "https://nofilmschool.com/desview-thunderbolt-1080p",
+                "source": "No Film School",
+                "date": "2026-08-10T22:11:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How COB technology can reduce LED screen moiré effects",
+                "desc": "Ultra-fine pixel pitches, reduced pixel boundaries and better light uniformity can create a smoother light-emitting surface for cleaner on-camera images, according to manufacturer Ledman.",
+                "image": "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2026/08/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260810164940_85_9USE.jpg",
+                "url": "https://www.avinteractive.com/news/displays/how-cob-technology-can-reduce-led-screen-moire-effects-10-08-2026/",
+                "source": "AV Magazine",
+                "date": "2026-08-10T22:10:10Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "These Are PS5's Most Downloaded Games of July 2026",
                 "desc": "Sony has released the list of the most downloaded games on PlayStation 5 (PS5) for July 26, with classic ports leading the way.",
@@ -1174,99 +1264,99 @@
                 "source": "Android Authority",
                 "date": "2026-08-10T14:42:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How do computers talk with voices that sound like people?",
-                "desc": "Computers break examples of human speech into small bits of sound, then put them together to sound like people do.",
-                "image": "https://images.theconversation.com/files/752401/original/file-20260805-50-k04zcw.jpg?ixlib=rb-4.1.1&rect=0%2C120%2C3840%2C1920&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/how-do-computers-talk-with-voices-that-sound-like-people-285903",
-                "source": "theconversation.com",
-                "date": "2026-08-10T12:33:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is Gemini listening to you? Android users raise new concerns",
-                "desc": "A growing number of Android and Pixel owners say Gemini has started interjecting in everyday conversations out of nowhere, even with standard hotword detection switched off. The reports point to a...",
-                "image": "https://www.thenews.com.pk/assets/uploads/2026-08-10/1411836_055441_updates.jpg",
-                "url": "https://www.thenews.com.pk/latest/1411836-is-gemini-listening-to-you-android-users-raise-new-concerns",
-                "source": "thenews.com.pk",
-                "date": "2026-08-10T12:32:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Apple Watch redesign can't come soon enough",
-                "desc": "Apple is reportedly working on a smartwatch shake-up.",
-                "image": "https://cdn.mos.cms.futurecdn.net/JM8uW9oDVkCYoTcDghcAih-1920-80.jpg",
-                "url": "https://www.creativebloq.com/design/product-design/the-apple-watch-redesign-cant-come-soon-enough",
-                "source": "Creative Bloq",
-                "date": "2026-08-10T12:32:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Feature-Packed Pixel Buds 2a Are $30 Off Right Now",
-                "desc": "Google’s Pixel Buds 2a are down to $99 from $129, their best price so far. With balanced sound, secure fit, Gemini voice features, and strong Android integration, they deliver a near-premium experience for much less.",
-                "image": "https://lifehacker.com/imagery/articles/01KR3A0MMR6EEJFWZ8NXPW73C5/hero-image.fill.size_1200x675.png",
-                "url": "https://lifehacker.com/tech/pixel-buds-2a-sale-august-2026?utm_medium=RSS",
-                "source": "Lifehacker",
-                "date": "2026-08-10T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Roundup: All The Xbox Games From The THQ Nordic Showcase 2026",
-                "desc": "Everything we saw - Back at the end of last week, THQ Nordic held the latest edition of their yearly showcase, and although this one wasn't stacked with new ...",
-                "image": "https://images.purexbox.com/ff0daaabe42fc/large.jpg",
-                "url": "https://www.purexbox.com/news/2026/08/roundup-all-the-xbox-games-from-the-thq-nordic-showcase-2026",
-                "source": "Pure Xbox",
-                "date": "2026-08-10T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A MacBook Neo Alternative That Needs More RAM",
-                "desc": "There’s a lot to like about the XPS 13, but most people should shell out for 16GB of RAM.",
-                "image": "https://www.engadget.com/img/gallery/dell-xps-13-review-2026-a-close-macbook-neo-competitor-but-not-with-8gb-of-ram/l-intro-1786026231.jpg",
-                "url": "https://www.engadget.com/2231708/dell-xps-13-2026-review/",
-                "source": "Engadget",
-                "date": "2026-08-10T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Feature-Packed Pixel Buds 2a Are $30 Off Right Now",
-                "desc": "Google’s Pixel Buds 2a are down to $99 from $129, their best price so far. With balanced sound, secure fit, Gemini voice features, and strong Android integration, they deliver a near-premium experience for much less.",
-                "image": "https://lifehacker.com/imagery/articles/01KR3A0MMR6EEJFWZ8NXPW73C5/hero-image.fill.size_1200x675.png",
-                "url": "https://lifehacker.com/tech/pixel-buds-2a-sale-august-2026",
-                "source": "Lifehacker",
-                "date": "2026-08-10T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei Mate 80 reportedly selling 200,000 units per week, 8.2 million sold!",
-                "desc": "Huawei Mate 80 flagship lineup is trying its best to complete the 10 million mark, now reaching at 8.2 million units. The company's balanced",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80ProMax2.jpg",
-                "url": "https://www.huaweicentral.com/huawei-mate-80-series-sold-8-2-million-units/",
-                "source": "Huawei Central",
-                "date": "2026-08-10T12:29:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Intel Gamer Days 2026 Launches Across Canada with Major Deals on Gaming PCs and Software Bundles",
-                "desc": "Intel Gamer Days 2026 brings a month of gaming deals with phased retailer promotions and a Game Keys bundle starting August 28.",
-                "image": "https://cogconnected.com/wp-content/uploads/2026/08/26Q3-13PVP-Intel-Gamer-Days-Bundle_Facebook_1200x627-1.jpg",
-                "url": "https://cogconnected.com/2026/08/intel-gamer-days-2026-launches-across-canada/",
-                "source": "COGconnected",
-                "date": "2026-08-10T12:29:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SIGGRAPH 2026: The Evolution of AI Technology and the Future of the Conference",
-                "desc": "Senior associate editor Akiko Ashley covers the recent SIGGRAPH 2026 conference in LA — AI, GPU tech, and new 3D tech companies in focus",
-                "image": "https://architosh.com/wp-content/uploads/2026/08/508x253_SF_SIG2026.jpg",
-                "url": "https://architosh.com/2026/08/siggraph-2026-the-evolution-of-ai-technology-and-the-future-of-the-conference/",
-                "source": "Architosh",
-                "date": "2026-08-10T12:29:24Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Trump signs executive order calling for fewer childhood vaccinations",
+                "desc": "U.S. ‌President Donald Trump signed an executive order on Monday calling for fewer childhood vaccinations by limiting the inoculation schedule to 11 immunizations. Health experts warn changing the inoculation schedule leaves more children vulnerable.",
+                "image": "https://i.cbc.ca/ais/288f1f0f-a23e-4c1b-b0d7-14c23038baf8,1786390884403/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C391%2C6000%2C3375%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/trump-order-childhood-vaccine-shots-spacing-9.7302161",
+                "source": "CBC",
+                "date": "2026-08-10T22:30:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ilhan Omar questions whether Trump administration has used ICE to ‘surveil’ critics",
+                "desc": "Congresswoman demands answers after a DHS agent was apparently stationed outside her Minnesota town hall",
+                "image": "https://i.guim.co.uk/img/media/a208570c64817de3037c6e17f2b7498e463806c9/691_0_6913_5531/master/6913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77b3a83f9349143f8f9a090063f81e6b",
+                "url": "https://www.theguardian.com/us-news/2026/aug/10/ilhan-omar-trump-ice-surveil-political-opponents",
+                "source": "The Guardian",
+                "date": "2026-08-10T22:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Navy has '100% control' of the Strait of Hormuz with an 'infallible' blockade: Trump",
+                "desc": "US blockade tightens grip on key energy chokepoint, barring Iranian-bound ships",
+                "image": "https://media.assettype.com/gulfnews%2F2026-08-10%2F3vp376ng%2Fchopper-fly.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                "url": "https://gulfnews.com/world/mena/us-navy-has-100-control-of-the-strait-of-hormuz-with-an-infallible-blockade-trump-1.500636788",
+                "source": "Gulf News",
+                "date": "2026-08-10T22:20:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Book Review: Heritage Hotels of Asia",
+                "desc": "BANGKOK, 11 August 2026: The finest heritage hotels are not simply elegant buildings or luxurious places in which to stay. They are witnesses to a changing world, shaped by the people, politics, commerce and great journeys of their time.  This fascinating connection lies at the heart of Heritage Hotels of Asia, an impressive two-volume work […]",
+                "image": "https://www.ttrweekly.com/site/wp-content/uploads/2026/08/image-6.jpeg",
+                "url": "https://www.ttrweekly.com/site/2026/08/book-review-heritage-hotels-of-asia/",
+                "source": "TTR Weekly",
+                "date": "2026-08-10T22:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stock market news for Aug. 10, 2026",
+                "desc": "The market's moves come amid growing doubts that the U.S. and Iran will come to a lasting resolution to the conflict in the near term.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108345323-1785941299902-Traders-Photo-20260804-KK-PRESS-005.jpg?v=1785941378&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
+                "source": "CNBC",
+                "date": "2026-08-10T22:13:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Record set for early ballots cast ahead of Minnesota primary in a nonpresidential election year",
+                "desc": "Minnesota election officials have accepted over 206,000 absentee and mail ballots for Tuesday's primary, the most cast before a primary in a nonpresidential election year, according to the secretary of state's office.",
+                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/10/c6302a1d-2f01-499e-9c3f-911f867d8bc5/thumbnail/1200x630/87cfbf744eb99fa018bb0502f7db7b61/gettyimages-2243088278.jpg",
+                "url": "https://www.cbsnews.com/minnesota/news/absentee-mail-ballot-voting-record-minnesota/",
+                "source": "CBS News",
+                "date": "2026-08-10T22:07:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The world economy is swerving, and the destination is unknown",
+                "desc": "Mohamed El-Erian notes that the entire global economic system is undergoing a transformation with no clear endpoint",
+                "image": "https://www.interest.co.nz/sites/default/files/2026-08/container-yard-4.jpg",
+                "url": "https://www.interest.co.nz/economy/139757/mohamed-el-erian-notes-entire-global-economic-system-undergoing-transformation-no",
+                "source": "Interest.co.nz",
+                "date": "2026-08-10T22:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Handling Section 301 Tariffs When CBP Detains Goods",
+                "desc": "Importers subject to Section 301 tariffs on goods under a U.S. Customs and Border Protection forced labor hold should consider three approaches when deciding whether to pay tariffs on goods that may ultimately be excluded, or wait and watch port demurrage compound daily, says James Ferry at Ferry Trade.",
+                "image": "https://www.law360.com/images/law360-stacked.png",
+                "url": "https://www.law360.com/whitecollar/articles/2510981/handling-section-301-tariffs-when-cbp-detains-goods",
+                "source": "Law360",
+                "date": "2026-08-10T22:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Handling Section 301 Tariffs When CBP Detains Goods",
+                "desc": "Importers subject to Section 301 tariffs on goods under a U.S. Customs and Border Protection forced labor hold should consider three approaches when deciding whether to pay tariffs on goods that may ultimately be excluded, or wait and watch port demurrage compound daily, says James Ferry at Ferry Trade.",
+                "image": "https://www.law360.co.uk/images/law360-stacked.png",
+                "url": "https://www.law360.com/tax/articles/2510981/handling-section-301-tariffs-when-cbp-detains-goods",
+                "source": "Law360",
+                "date": "2026-08-10T22:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Handling Section 301 Tariffs When CBP Detains Goods",
+                "desc": "Importers subject to Section 301 tariffs on goods under a U.S. Customs and Border Protection forced labor hold should consider three approaches when deciding whether to pay tariffs on goods that may ultimately be excluded, or wait and watch port demurrage compound daily, says James Ferry at Ferry Trade.",
+                "image": "https://www.law360.co.uk/images/law360-stacked.png",
+                "url": "https://www.law360.com/articles/2510981/handling-section-301-tariffs-when-cbp-detains-goods",
+                "source": "Law360",
+                "date": "2026-08-10T22:06:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "NZ Herald Travel Readers’ Choice Awards 2026: Top five in 11 categories revealed",
                 "desc": "NZ Herald Travel Readers’ Choice Awards 2026: The winners can now be revealed. You went, you saw, you commented. And now we’ve collected and collated...",
@@ -1806,98 +1896,8 @@
                 "source": "Yachts and Yachting Online",
                 "date": "2026-08-10T14:47:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The Ultimate Wellness Getaway in Vietnam's UNESCO World Heritage Site",
-                "desc": "HALONG, Vietnam, Aug. 10, 2026 /PRNewswire/ -- Bhaya Cruises, the leading cruise operator in Ha Long Bay, has announced its seasonal lineup, offering travelers an ideal escape into Vietnam's iconic UNESCO World Heritage site. Designed for North American travelers seeking comfort and effortless luxury, the cruise line introduces two upscale ways to experience the region this season: a restorative wellness voyage aboard Bhaya Soul, and an immersive cultural celebration aboard The Au Co.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/10/1170774.jpg",
-                "url": "https://www.manilatimes.net/2026/08/10/tmt-newswire/pr-newswire/the-ultimate-wellness-getaway-in-vietnams-unesco-world-heritage-site/2402043",
-                "source": "The Manila Times",
-                "date": "2026-08-10T12:33:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Battle for Mali base has killed dozens of militants, army says",
-                "desc": "The army says it was involved in fierce fighting but disputes that Islamists took control of the garrison.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e48c/live/bb9b7b40-94b0-11f1-afe9-fb1a837ec5d9.jpg",
-                "url": "https://www.bbc.com/news/articles/cly8j7ygwvlo",
-                "source": "BBC",
-                "date": "2026-08-10T12:32:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Jason Arday controversy: Explaining the University of Cambridge scandal rocking British academia",
-                "desc": "A high-profile plagiarism row has led to one of the biggest academic scandals in the UK's history. It centers on Professor Jason Arday, the new poster boy in an ongoing culture war centered around \"wokeness\" and DEI. His controversial memoir is set to published later this month.",
-                "image": "https://images.euronews.com/articles/stories/09/86/88/02/1200x675_cmsv2_4263535f-3e43-5b5a-b4d1-eb9219c3532f-9868802.jpg",
-                "url": "https://www.euronews.com/culture/2026/08/10/the-jason-arday-controversy-explaining-the-university-of-cambridge-scandal-rocking-british",
-                "source": "Euronews",
-                "date": "2026-08-10T12:30:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GEOGLAM Global Crop Monitor | No. 46 - August 2026",
-                "desc": "Analysis in English on World about Agriculture and Drought; published on 10 Aug 2026 by GEOGLAM Crop Monitor",
-                "image": "https://reliefweb.int/sites/default/files/styles/large/public/previews/ed/2a/ed2ae421-8523-4f25-a3ac-706bf5ea777f.png",
-                "url": "https://reliefweb.int/report/world/geoglam-global-crop-monitor-no-46-august-2026",
-                "source": "ReliefWeb",
-                "date": "2026-08-10T12:28:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AfDB Says Ethiopia’s Pension Wealth Is Being Squeezed by Inflation and Fiscal Risks",
-                "desc": "Ethiopia’s pension funds are accumulating savings in an economy desperate for long-term capital, yet much of that money is flowing back into government debt",
-                "image": "https://birrmetrics.com/wp-content/uploads/2026/08/Untitled-design-54.jpg",
-                "url": "https://birrmetrics.com/afdb-says-ethiopias-pension-wealth-is-being-squeezed-by-inflation-and-fiscal-risks/",
-                "source": "Birr Metrics",
-                "date": "2026-08-10T12:26:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ex-Trump White House Lawyer's 2 Words On Todd Blanche Should Scare Everyone",
-                "desc": "Once part of the president’s legal team, the attorney issued a dire warning on the president’s confirmed choice for attorney general.",
-                "image": "https://s.yimg.com/lo/mysterio/api/d1e5ee593b4f8273a626f42a89d428a8940383591f1f9c02abddeafc0791f9d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F4d0494ac1ae7cf0772618cefeab2ea7c",
-                "url": "https://www.yahoo.com/news/politics/articles/ex-trump-white-house-lawyers-122625809.html",
-                "source": "Yahoo",
-                "date": "2026-08-10T12:26:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From Diplomat to Speaker: Abdulkadir Mohamed Nur’s Path to Leading Somalia’s House",
-                "desc": "The former defence, justice and ports minister, ex-NISA official and Ankara diplomat won 142 votes to become speaker",
-                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgit5QvOUpBEjo3cdONg9CaWK2ZSuHRrDFl8AT",
-                "url": "https://www.dawan.africa/news/from-diplomat-to-speaker-abdulkadir-mohamed-nurs-path-to-leading-somalias-house",
-                "source": "Dawan Africa",
-                "date": "2026-08-10T12:25:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia Launches Website Where Foreigners Can Practise Citizenship Test Questions, Shares Link",
-                "desc": "Australia has launched a website where foreigners can practise sample citizenship test questions before taking the real test, with time limits provided.",
-                "image": "https://cdn.legit.ng/images/1200x675/bb506fc55fb44d1c.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1724215-australia-launches-website-foreigners-practise-citizenship-test-questions-shares-link/",
-                "source": "Legit.ng",
-                "date": "2026-08-10T12:23:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tropical Cyclone Dolphin pushes HK heatwave to 39.3 degrees",
-                "desc": "Tropical Cyclone Dolphin is fanning record heat across Hong Kong with its outer bands, causing temperatures in several districts to climb above 37 degrees Celsius on Monday.",
-                "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/b89482553a97e13b15a64e75a89f603e/2026-08/WhatsApp_Image_2026-08-09_at_15_45_31_1.jpeg",
-                "url": "https://www.thestandard.com.hk/news/article/339526/Tropical-Cyclone-Dolphin-pushes-HK-heatwave-to-393-degrees",
-                "source": "The Standard (HK)",
-                "date": "2026-08-10T12:23:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-                "desc": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29af/live/fe349030-949d-11f1-9ade-bb7c8a2b6bc0.png",
-                "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo",
-                "source": "BBC",
-                "date": "2026-08-10T12:23:21Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-11T09:10:14.191969Z"
+    "lastGlobalSync": "2026-08-11T10:35:35.490476Z"
 }
