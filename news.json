@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Why firms are struggling to set prices",
+                "desc": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg",
+                "url": "https://www.bbc.com/news/articles/c872r52x7jgo",
+                "source": "BBC",
+                "date": "2026-08-11T23:03:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Electrochemical discharge etching of porous tungsten emitters for field emission electric propulsion applications",
+                "desc": "Field Emission Electric Propulsion (FEEP) systems offer high specific impulse and precise low thrust capability, making them suitable for micro propulsion applications. Porous tungsten is a promising material option for field emission emitters, offering advantages such as the formation of sharp tips and pore structures that enhance propellant transport through capillary action. However, the fabrication of well-defined porous tips remains insufficiently understood in terms of the relationship between etching process parameters and resulting structures. In this study, a spark-assisted electrochemical discharge etching was applied to fabricate porous tungsten emitter needles tailored for FEEP applications. Key process parameters, including applied voltage, power supply type, electrolyte type, molar concentration, and initial porosity, were investigated to establish an electrochemical etching domain. Distinct etching regimes associated with different morphological outcomes were identified, and the process window for forming viable porous emitter tips was found to be significantly constrained, with failure modes such as tip collapse, loss of porosity, and surface sealing observed outside this range. Under certain conditions, EDS analysis further revealed the formation of a multicomponent crust layer enriched in oxygen and potassium, which suppressed porosity preservation and influenced the resulting tip morphology. The fabricated emitter was integrated into a FEEP propulsion module, and preliminary field emission experiments conducted under vacuum conditions demonstrated emission feasibility.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-53868-8/MediaObjects/41598_2026_53868_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41598-026-53868-8?error=cookies_not_supported&code=cd474a36-4f14-4397-b228-db5af93ae433",
+                "source": "nature.com",
+                "date": "2026-08-11T23:03:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gamuda named among world’s most sustainable firms",
+                "desc": "Gamuda Bhd has been recognised for its sustainability leadership with two significant achievements – inclusion in TIME and Statista's World's Most Sustainable Companies 2026 list and advancement to the highest Bursa Malaysia FTSE4Good ESG Grading Band.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/12/4055183.jpeg",
+                "url": "https://www.thestar.com.my/business/business-news/2026/08/12/gamuda-named-among-worlds-most-sustainable-firms",
+                "source": "The Star",
+                "date": "2026-08-11T23:03:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "First wave of 'pounds for pylons' energy discount sites revealed",
+                "desc": "Households living within 1600ft of upgraded pylons will get £250 a year off their electricity bills.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cc1/live/a81a4a70-959f-11f1-870d-5d08c49babb2.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o",
+                "source": "BBC",
+                "date": "2026-08-11T23:03:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "First wave of 'pounds for pylons' energy discount sites revealed",
+                "desc": "Households living within 1600ft of upgraded pylons will get £250 a year off their electricity bills.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9cc1/live/a81a4a70-959f-11f1-870d-5d08c49babb2.jpg",
+                "url": "https://www.bbc.com/news/articles/c8rn42jp7d6o",
+                "source": "BBC",
+                "date": "2026-08-11T23:03:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil climbs as Iran keeps Hormuz shut",
+                "desc": "Oil prices edged up to a one-week high on Tuesday as doubts about a potential US-Iran peace deal fuelled concerns that Middle East supply disruptions would persist.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/12/4055208.jpeg",
+                "url": "https://www.thestar.com.my/business/2026/08/12/oil-climbs-as-iran-keeps-hormuz-shut",
+                "source": "The Star",
+                "date": "2026-08-11T23:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Households near new pylons to get £250 taken off annual energy bills",
+                "desc": "Discounts confirmed near more than 40 locations across Great Britain amid biggest upgrade to electricity grid since 1960s",
+                "image": "https://i.guim.co.uk/img/media/ace526ace5ec6e4d0cf05b702c5bc5edd3de2581/201_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbb6aad3ddacd1325bda7ca0362d1e77",
+                "url": "https://www.theguardian.com/business/2026/aug/12/households-near-new-pylons-to-get-250-taken-off-annual-energy-bills",
+                "source": "The Guardian",
+                "date": "2026-08-11T23:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+                "desc": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2e9/live/85ef6870-9583-11f1-870d-5d08c49babb2.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo",
+                "source": "BBC",
+                "date": "2026-08-11T23:00:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+                "desc": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b2e9/live/85ef6870-9583-11f1-870d-5d08c49babb2.jpg",
+                "url": "https://www.bbc.com/news/articles/c4g360z8d2lo",
+                "source": "BBC",
+                "date": "2026-08-11T23:00:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two-thirds of Sentosa Cove resales in the red, with average loss topping S$1 million since 2023",
+                "desc": "Analysts point to small niche buyer pool in soft market weakened by cooling measures targeted at foreigners Read more at The Business Times.",
+                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/f6b5c00b183d99601e28201739dcaef6527bd9e8b40e5c4ec887da07c2166d9d?w=1920&f=webp",
+                "url": "https://www.businesstimes.com.sg/property/two-thirds-sentosa-cove-resales-red-average-loss-topping-s1-million-2023",
+                "source": "businesstimes.com.sg",
+                "date": "2026-08-11T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Markets live: Commonwealth Bank reports $10.9 billion annual profit, ASX to slip as US",
                 "desc": "The nation's second-largest company Commonwealth Bank has announced a $10.9 billion full-year profit. The Australian share market will start its day lower on fading optimism about the Strait of Hormuz reopening soon. Follow live.",
                 "image": "https://live-production.wcms.abc-cdn.net.au/3e0e52e4016b0b8dfc5856ae2b315e94?impolicy=wcms_watermark_news&cropH=5346&cropW=9504&xPos=0&yPos=495&width=862&height=485&imformat=generic",
@@ -542,99 +632,99 @@
                 "source": "BBC",
                 "date": "2026-08-11T11:44:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Public servants should not take debt crisis blame - Mwashindange",
-                "desc": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% The Independent Patriots for Change (IPC) has warned the government against using the country’s growing public debt to justify cuts to public servants’ salaries, saying Namibia’s fiscal crisis is a governance problem rather than simply a wage-bill problem.",
-                "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-11-at-12.03.42-PM.jpeg",
-                "url": "https://www.namibian.com.na/public-servants-should-not-take-debt-crisis-blame-mwashindange/",
-                "source": "The Namibian -",
-                "date": "2026-08-11T10:53:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UBA, Mikano Launch Auto Financing Scheme With 30% Down Payment",
-                "desc": "UBA and Mikano Motors have launched a vehicle financing scheme allowing customers to pay 30 percent upfront and spread repayments.",
-                "image": "https://global.ariseplay.com/amg/www.arise.tv/uploads/2026/08/UBA-Mikano-Launch-Auto-Financing-Scheme-With-30-Down-Payment.jpeg",
-                "url": "https://www.arise.tv/uba-mikano-launch-auto-financing-scheme-with-30-down-payment/",
-                "source": "Arise News",
-                "date": "2026-08-11T10:51:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PBB Q2 profit surges 86% to P412.8M",
-                "desc": "Philippine Business Bank second-quarter profit jumped 86.3 percent quarter on quarter on stronger lending despite a tough environment.",
-                "image": "https://business.inquirer.net/files/2025/04/philippine-business-bank.png",
-                "url": "https://business.inquirer.net/605154/pbb-q2-profit-surges-86-to-p412-8m",
-                "source": "Inquirer.net",
-                "date": "2026-08-11T10:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Airbus A380 Flew 7 Hours Flight to Nowhere",
-                "desc": "British Airways Flight 54 departed Johannesburg over five hours behind schedule, then U-turned over DR Congo and returned to its origin.",
-                "image": "https://i.insider.com/6a7af41f0c0bf4e8be523b65?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/airbus-a380-british-airways-plane-7-hours-returned-where-started-2026-8",
-                "source": "Business Insider",
-                "date": "2026-08-11T10:50:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI will drive more gains for this circuit board builder, says UBS",
-                "desc": "The investment bank upgraded the circuit board maker to buy from neutral.",
-                "image": "https://image.cnbcfm.com/api/v1/image/107417232-1716213184584-AP19144580918675.jpg?v=1716213240&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/11/ai-will-drive-more-gains-for-this-circuit-board-builder-says-ubs.html",
-                "source": "CNBC",
-                "date": "2026-08-11T10:49:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CBO: US Treasury spends $3 billion daily on national debt interest",
-                "desc": "The CBO reported that net interest on public debt totaled $963 billion between October 2025 (when the fiscal year begins) and July 2026.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2250795081-e1786444555333.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/08/11/us-treasury-national-debt-interest-cbo-yen-unwinds/",
-                "source": "Fortune",
-                "date": "2026-08-11T10:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon, Microsoft, and Alphabet: 2 Winners and 1 Loser in the Cloud Computing Arena",
-                "desc": "Cloud computing is a major beneficiary of AI spending.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882268%2Fperson-overlooking-a-datacenter.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/08/11/amazon-microsoft-and-alphabet-2-winners-and-1-lose/",
-                "source": "The Motley Fool",
-                "date": "2026-08-11T10:48:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China detains Japanese executives in dual-use technology export probe: report",
-                "desc": "Several Japanese detained upon entering China, according to newspaper, as Beijing alleges foreign firms violated export restrictions.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/11/60922e23-7490-4493-9c88-149b99361ce3_e3628781.jpg?itok=eprkX7HR&v=1786437287",
-                "url": "https://www.scmp.com/news/china/diplomacy/article/3363648/china-detains-japanese-executives-dual-use-technology-export-probe-report",
-                "source": "South China Morning Post",
-                "date": "2026-08-11T10:46:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Watch safely says man with eye damage from eclipse",
-                "desc": "Peter Smith damaged his eyes by watching the 1999 solar eclipse without protection.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b1f4/live/109fc7c0-955d-11f1-b96f-3d43158251d5.jpg",
-                "url": "https://www.bbc.com/news/articles/cy5d19q9kngo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-                "source": "BBC",
-                "date": "2026-08-11T10:42:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Filinvest Land bucks slump with 4% profit growth",
-                "desc": "Filinvest Land grew earnings amid a challenging property market on stronger residential sales and leasing businesses.",
-                "image": "https://business.inquirer.net/files/2022/04/Filinvest.png",
-                "url": "https://business.inquirer.net/605149/filinvest-land-bucks-slump-with-4-profit-growth",
-                "source": "Inquirer.net",
-                "date": "2026-08-11T10:40:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Suri Core 1.0 electric toothbrush review: this new budget model is still sustainable - and the one I’d buy",
+                "desc": "With wireless charging, a battery that lasts up to four weeks and recyclable heads, Suri’s latest eco-friendly model doesn’t lose much in the cost-saving process",
+                "image": "https://i.guim.co.uk/img/media/3835494a1e5c3253ff995e27c4dfcacb5df5bd71/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVrLnBuZw&enable=upscale&s=0feddb75830dbe263425c96e23b07dee",
+                "url": "https://www.theguardian.com/thefilter/2026/aug/12/suri-core-1-0-electric-toothbrush-review",
+                "source": "The Guardian",
+                "date": "2026-08-11T23:01:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox Boss Reveals Brief Thoughts On Elder Scrolls 6 After Seeing A 'Live Playthrough'",
+                "desc": "And racks up millions of views in the process - Xbox boss Asha Sharma has been racking up a ton of attention on social media this evening after sharing that ...",
+                "image": "https://images.purexbox.com/5413008322209/large.jpg",
+                "url": "https://www.purexbox.com/news/2026/08/xbox-boss-reveals-brief-thoughts-on-elder-scrolls-6-after-seeing-a-live-playthrough",
+                "source": "Pure Xbox",
+                "date": "2026-08-11T23:00:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "4 can fix TV dialogue at the source – so why is it switched off?",
+                "desc": "Dolby AC-4 separates speech from the mix before it reaches your TV, and it has already shipped on Peacock – with the helpful part switched off.",
+                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/139947-tv-news-feature-what-is-dolby-vision-dolby-s-own-hdr-tv-tech-explained-image3-qgzpsvlxi7.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.pocket-lint.com/dolby-ac-4-tv-dialogue-fix/",
+                "source": "Pocket-lint",
+                "date": "2026-08-11T23:00:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "school season is the perfect time to buy one",
+                "desc": "If you're gearing up for the new school year, ePaper tablets are the oft-overlooked upgrade you really should be looking at.",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/boox-go-tablet-with-notes.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/wish-had-e-ink-tablet-college-back-to-school-season-perfect-time-buy-one/",
+                "source": "XDA",
+                "date": "2026-08-11T23:00:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon Is Offering a Great Deal on a GeForce RTX 5070 Ti Gaming PC, and It Includes Two Upcoming AAA Games",
+                "desc": "The RTX 5070 Ti graphics card is powerful enough to run the latest games smoothly at 4K.",
+                "image": "https://assets-prd.ignimgs.com/2026/08/11/acerpredatororion-1786485689059.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/acer-predator-orion-rtx-5070-ti-gaming-pc-deal-intel-gamer-days-sale",
+                "source": "IGN",
+                "date": "2026-08-11T22:54:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Intel Gamer Days Sale Stacks Walmart's Best Gaming PC Deals With Two Free Upcoming PC Games",
+                "desc": "These aren't some no-name games, they'll otherwise cost $59.99 apiece at launch.",
+                "image": "https://assets-prd.ignimgs.com/2026/08/11/intelgamerdays-1786476822304.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/intel-gamer-days-sale-2026-best-walmart-gaming-pc-deals",
+                "source": "IGN",
+                "date": "2026-08-11T22:53:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung reportedly begins One UI 9.5 development for the Galaxy S26 series while users await stable One UI 9's release",
+                "desc": "The fifth One UI 9 beta update for the Galaxy S26 series will be released this week. Samsung released the first One UI 9 beta for the Galaxy S26 series in...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-s26-good-lock-quickstar-network-speed-indicator/-952x498w6/gsmarena_001.jpg",
+                "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_5_development_reportedly_begins-news-74109.php",
+                "source": "GSMArena.com",
+                "date": "2026-08-11T22:51:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘He’s Just Really Hideous’ - Friend’s Brutal Text After Meeting New Boyfriend Sparks Debate on Reddit",
+                "desc": "Someone introduced their best friend to their new partner, only to receive an unexpectedly harsh text afterward. After a great day of hanging out as a group, they received a text message that broke th...",
+                "image": "https://s.yimg.com/lo/mysterio/api/0e2c92d85221cb13ac408df080827fb545ef9c745055346d378c8e8d8b54ffcc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_dot_articles_819%2F380922e55181c296b08da756255f6f00.png",
+                "url": "https://www.yahoo.com/lifestyle/articles/just-really-hideous-friend-brutal-224329214.html",
+                "source": "Yahoo",
+                "date": "2026-08-11T22:43:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Crimson Desert dev comments on status of Nintendo Switch 2 port, targeting first half of 2027",
+                "desc": "Pearl Abyss has commented again on the Nintendo Switch 2 port of Crimson Desert, providing the most encouraging update we’ve had thus far. In its latest earnings letter, the company said that it’s now “currently playable at a foundational level, and technical evaluations are underway to ensure performance optimization and compliance with our quality standards.” The other piece of important...",
+                "image": "https://nintendoeverything.com/wp-content/uploads/Crimson-Desert-Sw-2-launch-timing.jpg",
+                "url": "https://nintendoeverything.com/crimson-desert-dev-comments-on-status-of-nintendo-switch-2-port-targeting-first-half-of-2027/",
+                "source": "Nintendo Everything",
+                "date": "2026-08-11T22:42:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This leaked Zelda Switch 2 could be Nintendo’s next collector hit",
+                "desc": "Leaked images reveal Nintendo's first special-edition Switch 2 and matching Pro Controller, bringing a gold-and-teal Zelda 40th anniversary design to collector-hungry fans.",
+                "image": "https://cdn.mos.cms.futurecdn.net/bFpNgKCDZXdgLSf53CChce-2048-80.jpg",
+                "url": "https://www.androidcentral.com/gaming/android-games/this-leaked-zelda-switch-2-could-be-nintendos-next-collector-hit",
+                "source": "Android Central",
+                "date": "2026-08-11T22:40:44Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Signal adds an extra layer of security to make sure you're actually chatting with the right person",
                 "desc": "One big caveat, though: You need your contact's phone number",
@@ -1174,99 +1264,99 @@
                 "source": "The Register",
                 "date": "2026-08-11T11:36:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Dsquared2 puts founders Dean and Dan Caten front and centre in 'Back to the Roots'",
-                "desc": "Dsquared2's 'Back to the Roots' campaign features founders Dean and Dan Caten, tracing their personal story from childhood to the present.",
-                "image": "https://r.fashionunited.com/8b1herm7dmKoArV5kOFgKDaMtTGUc-kTs9ahQnEiDQQ/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDgvMTEvZHNxdWFyZWQyLWJhY2stdG8tdGhlLXJvb3RzLWNhbXBhaWduLTEtM2VlMHQ3aTUtMjAyNi0wOC0xMS5qcGVn.jpeg",
-                "url": "https://fashionunited.uk/press/fashion/dsquared2-puts-founders-dean-and-dan-caten-front-and-centre-in-back-to-the-roots/2026081189722",
-                "source": "fashionunited.uk",
-                "date": "2026-08-11T10:53:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Best DJI deal: Save $108 on the DJI Osmo Pocket 3 Vlog Bundle",
-                "desc": "As of Aug. 11, the DJI Osmo Pocket 3 Vlog Bundle has dropped to $424 at Amazon, a 20% discount from its list price of $532.",
-                "image": "https://helios-i.mashable.com/imagery/articles/06oviMGWrseNGP1jm4k69iM/hero-image.fill.size_1200x675.v1786442753.jpg",
-                "url": "https://mashable.com/tech/aug-11-dji-osmo-pocket-3-vlog-bundle-deal",
-                "source": "Mashable",
-                "date": "2026-08-11T10:49:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WhatsApp is finally giving iPhone users an Android",
-                "desc": "It's not often we Android owners get to lord something over the iPhone drones, but when we do... it's usually entirely inconsequential...",
-                "image": "https://stuff.co.za/wp-content/uploads/2024/10/WhatsApp-app-header.png",
-                "url": "https://stuff.co.za/2026/08/11/whatsapp-is-finally-giving-iphone-users-search-upgrade/",
-                "source": "Stuff South Africa",
-                "date": "2026-08-11T10:49:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sarvam AI introduces Indic DiarBench to evaluate speech recognition and speaker attribution across 22 Indian languages",
-                "desc": "The open dataset contains around 108 hours of natural multi-speaker conversations with human-verified transcripts and speaker-attributed timestamps",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260811104758_Indic.png",
-                "url": "https://www.moneycontrol.com/technology/sarvam-ai-introduces-indic-diarbench-to-evaluate-speech-recognition-and-speaker-attribution-across-22-indian-languages-article-14001942.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-08-11T10:48:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amsterdam's Early Access Gets Release Date",
-                "desc": "Panache Digital Games has also unveiled a new gameplay video.",
-                "image": "https://cdn.80.lv/api/upload/meta/49684/images/6a7afd5ce5d3f/contain_1200x630.jpg",
-                "url": "https://80.lv/articles/1666-amsterdam-s-early-access-launch-date-revealed",
-                "source": "80 Level",
-                "date": "2026-08-11T10:47:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carl Mullan, Max Hart and Alex Denning headline new ‘Supercar Weekend After Dark’ event at Dundrum Town",
-                "desc": "A charity has had to employ additional chaplains to help residents cope with the trauma of homelessness in Dublin",
-                "image": "https://i0.wp.com/dublingazette.com/wp-content/uploads/2026/08/Dundrum-Town-Supercar-Weekend-2026-Carl-Mullan-3-scaled.jpg?fit=2560%2C1707&ssl=1",
-                "url": "https://dublingazette.com/whats-on/entertainment/carl-mullan-max-hart-and-alex-denning-headline-new-supercar-weekend-after-dark-event-at-dundrum-town/",
-                "source": "dublingazette.com",
-                "date": "2026-08-11T10:45:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Logistics Giant Ceva Suffers Data Breach Impacting European Clients",
-                "desc": "Supply chain attack and data breach at Ceva Logistics appears to have a large blast radius",
-                "image": "https://assets.infosecurity-magazine.com/webpage/og/2cf5965d-6def-42db-88a5-7f0850c167d3.jpg",
-                "url": "https://www.infosecurity-magazine.com/news/logistics-ceva-data-breach/",
-                "source": "Infosecurity Magazine",
-                "date": "2026-08-11T10:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Linux Mint Teases A Kernel Cleanup Trick That Fedora Figured Out Years Ago",
-                "desc": "The work-in-progress feature would clear out old, unused kernels automatically every week.",
-                "image": "https://itsfoss.com/content/images/2026/08/linux-mint-kernel-removal-feature-banner.png",
-                "url": "https://itsfoss.com/news/linux-mint-kernel-removal-feature/",
-                "source": "It's FOSS",
-                "date": "2026-08-11T10:44:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Logistics firm supply chain breach hits Valve and other customers",
-                "desc": "After the hack of Ceva Logistics, customers are being warned to look out for scam emails",
-                "image": "https://cdn.mos.cms.futurecdn.net/Gmv6VGAN4vkgH2urwaX2Yf-1920-80.jpg",
-                "url": "https://www.itpro.com/security/data-breaches/logistics-firm-supply-chain-breach-hits-valve-and-other-customers",
-                "source": "IT Pro",
-                "date": "2026-08-11T10:43:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 might not cost $100, but most of the people pre-ordering it are buying it at that price, Take-Two reveals",
-                "desc": "Rockstar put a lot of effort into enticing people into pre-ordering the more expensive Ultimate edition.",
-                "image": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_SARAS_SALON_02.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/gta-6-pre-orders-ultimate-edition-100-dollars",
-                "source": "Eurogamer.net",
-                "date": "2026-08-11T10:42:09Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Back pain or kidney stones? When an everyday ache could signal something more",
+                "desc": "KUALA LUMPUR, Aug 12 — Back pain is one of the most common complaints among working adults, often blamed on long hours at the desk, poor posture or fatigue after a busy...",
+                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/11/356513.jpg",
+                "url": "https://www.malaymail.com/news/life/2026/08/12/back-pain-or-kidney-stones-when-an-everyday-ache-could-signal-something-more/230934",
+                "source": "Malay Mail",
+                "date": "2026-08-11T23:02:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Minnesota, Wisconsin, South Carolina",
+                "desc": "Progressive Democrats hope to keep their winning streak rolling in Minnesota and Wisconsin.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108334954-1784057570195-gettyimages-2285482849-graham_TW_111_071426.jpeg?v=1784057617&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+                "source": "CNBC",
+                "date": "2026-08-11T23:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "North Korea launches a ballistic missile toward the sea, South Korea says",
+                "desc": "SEOUL, South Korea: North Korea launched a ballistic missile toward the sea on Wednesday, its neighbors said, the second such weapons testing activity in less than a week. The series of launch events were likely a protest of the upcoming Korea-US military drills that North Korea views as an invasion rehearsal. South Korea’s Joint Chiefs of Staff said it detected the launch",
+                "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/08/12/4740155-866484032.jpg?itok=4I7_VdcA",
+                "url": "https://www.arabnews.pk/node/2654317/world",
+                "source": "Arab News PK",
+                "date": "2026-08-11T22:58:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sierra Leone : From Blood Diamonds to Broad",
+                "desc": "The nation once synonymous with blood diamonds is emerging as a symbol of resilience, reform and renewed opportunity.",
+                "image": "https://panafricanvisions.com/wp-content/uploads/2026/08/story-10-pic-1-president-julius-maada-bio-says-sierra-leones-future-will-be-defined-not-by-its-past-conflicts-but-by-democratic-stability-investment-and-inclusive-national-development-1024x637.jpg",
+                "url": "https://panafricanvisions.com/2026/08/sierra-leone-from-blood-diamonds-to-broad-based-growth/",
+                "source": "pan african visions",
+                "date": "2026-08-11T22:52:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "On ivory, follow the trafficking networks and not the headlines (commentary)",
+                "desc": "Environmental science and conservation news",
+                "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/02/25133056/image1-e1786130110289.jpeg",
+                "url": "https://news.mongabay.com/2026/08/on-ivory-follow-the-trafficking-networks-and-not-the-headlines-commentary/",
+                "source": "Mongabay",
+                "date": "2026-08-11T22:49:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India's GMR looks beyond Sangley project for next Philippine airport deal",
+                "desc": "Indian infrastructure giant GMR Group is exploring the prospect of adding another airport to its growing list of aviation projects in the Philippines, as it...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/11/122840.webp",
+                "url": "https://mb.com.ph/2026/08/11/indias-gmr-looks-beyond-sangley-project-for-next-philippine-airport-deal",
+                "source": "mb.com.ph",
+                "date": "2026-08-11T22:43:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Top adviser to Iran's Revolutionary Guard leader sits down for rare interview",
+                "desc": "As the war with Iran continues its uneasy stalemate, we're hearing from a top adviser to the commander of Iran's Islamic Revolutionary Guard Corps, the force largely responsible for border and internal security. The IRGC rarely gives interviews, and almost never to Western media. But Mohammad Reza Naqdi sat down in Tehran for an exclusive interview with special correspondent Reza Sayah.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/CORRECT-1024x576.jpg",
+                "url": "https://www.pbs.org/newshour/show/top-adviser-to-irans-revolutionary-guard-leader-sits-down-for-rare-interview",
+                "source": "pbs.org",
+                "date": "2026-08-11T22:40:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Open Call: Industrial PhD Scholarships Program 2026 (Denmark)",
+                "desc": "Deadline: 18-Aug-2026 The Industrial PhD Scholarships Program is inviting applications for 2/3-financed Industrial PhD Scholarships supporting research in diabetes, metabolism, and endocrinology. Each scholarship provides DKK 1,100,000 to cover salary and tuition fees for two years of a three-year PhD programme while promoting collaboration between Danish universities and life-science industry partners. Industrial PhD Scholarships Program",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/individuals/open-call-industrial-phd-scholarships-program-2026-denmark/",
+                "source": "fundsforNGOs",
+                "date": "2026-08-11T22:37:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ottawa shuts the doors of embassy in South Sudan without explanation",
+                "desc": "Shutdown of diplomatic mission sends mixed signals about government’s Africa Strategy, analysts say",
+                "image": "https://www.theglobeandmail.com/resizer/v2/CI2FLP573JGEZE4VJB7VTWKUIE.JPG?auth=7e2c8dffbf9f9acc7b2b6cdcefe76b884023c7848f24a4644c193339b6d8f568&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/world/article-ottawa-shuts-the-doors-of-embassy-in-south-sudan-without-explanation/",
+                "source": "The Globe and Mail",
+                "date": "2026-08-11T22:35:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hormuz traffic still low, Iran seeks concessions",
+                "desc": "Vessel traffic through the strait of Hormuz remained low on Monday while Iran demanded additional concessions from the US for the reopening of the narrow waterway, the date of which remains elusive.",
+                "image": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/images/14-generic-hero-banners/herobanner_1600x530_generic-c.jpg?h=530&iar=0&w=1600&rev=2cf023b4e0484c1bb091b9f72dbf7771&hash=72DBDFEBEF6EE62E751AB5DD2221C77E",
+                "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2864029-hormuz-traffic-still-low-iran-seeks-concessions",
+                "source": "Argus Media",
+                "date": "2026-08-11T22:32:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers",
                 "desc": "Journalists and others were allowed to fly on presidential jet despite security threat while Trump was spirited away",
@@ -1806,98 +1896,8 @@
                 "source": "news.inbox.eu",
                 "date": "2026-08-11T11:40:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Sudan Launches Digital Procurement Platform to Improve Public Spending",
-                "desc": "Sudan has launched Nazaha to digitize public procurement and state contracts.\nThe platform aims to improve transparency and competition for",
-                "image": "https://www.ecofinagency.com/media/k2/items/cache/e518acf9dfa21f432b971598094c20f6_S.jpg",
-                "url": "https://www.ecofinagency.com/news/1108-58082-sudan-launches-digital-procurement-platform-to-improve-public-spending",
-                "source": "Ecofin Agency",
-                "date": "2026-08-11T10:54:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US clarifies Abuja embassy not closing despite visa processing shake-up",
-                "desc": "The US Department of State has clarified that its embassy in Abuja is not closing, following the realignment of routine visa",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/03/us-visa-n.webp",
-                "url": "https://www.vanguardngr.com/2026/08/us-clarifies-abuja-embassy-not-closing-despite-visa-processing-shake-up/",
-                "source": "Vanguard News",
-                "date": "2026-08-11T10:53:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Primaries in Wisconsin and Minnesota pit progressives against moderates",
-                "desc": "NPR's Leila Fadel asks Jessica Taylor of the Cook Political Report about battles between moderate and progressive candidates in Tuesday's Democratic primaries in Wisconsin and Minnesota.",
-                "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-                "url": "https://www.npr.org/2026/08/11/nx-s1-5927242/primaries-in-wisconsin-and-minnesota-pit-progressives-against-moderates",
-                "source": "NPR",
-                "date": "2026-08-11T10:52:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live updates: Colombia earthquake; Race to find survivors with help yet to reach epicenter",
-                "desc": "The Colombian government has declared a state of national disaster after a powerful earthquake killed at least 175 people and injured hundreds more. Follow for the latest updates.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-10t212847z-1648605839-rc2vvma83p1d-rtrmadp-3-colombia-quake.JPG?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/11/world/live-news/colombia-earthquake-latest",
-                "source": "CNN",
-                "date": "2026-08-11T10:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Global Economic Forum Annual Meeting Bangkok Legacy Week 10th to 14th October 2026",
-                "desc": "Asia’s foremost economic platform extends an overarching invitation to sovereign governments, public policy architects, global CEOs, institutional investors, trade associations, civil society organizations, and academic institutions from more than 100 countries to shape regional economic strategy, advance research and innovation, and drive cross-border investment as the strategic prelude to Bangkok’s major international financial assemblies.",
-                "image": "https://static.bangkokpost.com/media/content/20260811/c1_3299885_700.png",
-                "url": "https://www.bangkokpost.com/thailand/pr/3299885/the-global-economic-forum-annual-meeting-bangkok-legacy-week-10th-to-14th-october-2026",
-                "source": "Bangkok Post",
-                "date": "2026-08-11T10:45:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Progressives and establishment-backed Democrats set to clash in Wisconsin and Minnesota primaries - live",
-                "desc": "Tuesday’s elections follow similar battles for the direction of the Democratic Party, including Michigan, where progressive Abdul El-Sayed triumphed",
-                "image": "https://i.guim.co.uk/img/media/2b8849ccc84895b577c71d3dea957bd2250b6f92/523_0_5233_4186/master/5233.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c7456a146fef56b0319e4ce3a2b175d9",
-                "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
-                "source": "The Guardian",
-                "date": "2026-08-11T10:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UAE Announces Income Requirement Foreigners Must Meet for Permanent Residence",
-                "desc": "The UAE sets monthly income thresholds for foreign nationals applying for permanent residence, varying by housing provision, with minimums of AED 3,000 or AED 4,000.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/951198bd1e547cd9.jpeg?v=1",
-                "url": "https://yen.com.gh/people/309694-uae-announces-income-requirement-foreigners-meet-permanent-residence/",
-                "source": "Yen News",
-                "date": "2026-08-11T10:42:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Police bust syndicate storing RM21m worth of ganja near KLIA, Penang airport",
-                "desc": "SHAH ALAM, Aug 11 — Federal narcotics police foiled an international drug syndicate’s tactic of storing ganj...",
-                "image": "https://s.yimg.com/lo/mysterio/api/2a8e796655213a2221951f5c4c5fd40f28941941423973705c48f70b046025e4/lightyear_networkapi/resizefill_w1000_h666%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmmail.com.my%2Fe3e5b2c4e09d57c3ec2ae5982706cb2e",
-                "url": "https://malaysia.news.yahoo.com/police-bust-syndicate-storing-rm21m-104036383.html",
-                "source": "Yahoo",
-                "date": "2026-08-11T10:40:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Syrian court sentences Bashar al-Assad to death in absentia for war crimes",
-                "desc": "Verdict relates to atrocities committed during the country’s 14-year civil war in which about 500,000 people died",
-                "image": "https://i.guim.co.uk/img/media/74fd663a49a67244a46abc599987a69d31307234/294_0_2913_2330/master/2913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e0c8a210782f6808f86f0b8a63c2c21",
-                "url": "https://www.theguardian.com/world/2026/aug/11/syria-bashar-al-assad-death-sentence-war-crimes",
-                "source": "The Guardian",
-                "date": "2026-08-11T10:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canadian colonel's medal raises questions about role in US-Iran war",
-                "desc": "Col. Turenne won it “for extraordinary leadership... as director of the Combined Air Operations Center during the Israel-Iran conflict.”",
-                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/08/Iran-conflict-1.jpg",
-                "url": "https://nationalpost.com/news/canada/canadian-colonels-medal-raises-questions-about-canadas-role-in-u-s-war-with-iran",
-                "source": "National Post",
-                "date": "2026-08-11T10:34:49Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-12T09:47:57.840760Z"
+    "lastGlobalSync": "2026-08-12T11:03:57.835784Z"
 }
