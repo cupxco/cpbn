@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Google's Gemini AI assistant reaches one billion users",
+                "desc": "Google's artificial intelligence assistant Gemini has surpassed one billion monthly users, CEO Sundar Pichai announced Tuesday, a week after a major reorganization of the tech giant's AI division.",
+                "image": "https://assets.citizen.digital/172829/conversions/e81ec6c5-0dbc-4eca-8b5f-ff2be7997da9_images-%2826%29-og_image.webp",
+                "url": "https://citizen.digital/article/googles-gemini-ai-assistant-reaches-one-billion-users-n388152",
+                "source": "Citizen Digital",
+                "date": "2026-08-12T04:36:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Demand Ignites Taipei Exchange Revenue Surge: July Hits NT$357.6 Billion, Up 43% YoY, Led by Semiconductor Sector Doubling",
+                "desc": "Taipei Exchange (TPEx) reported that combined July revenue for all 890 listed companies reached NT$357.6 billion (approximately $11.1 billion),…",
+                "image": "https://img.biggo.com/eY-9pHZL2n-334dp1jxBL9-R6e-9DdFPx3P4wUVWFMw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2FkYjdmYjc2LTA4MTUtNDIzMi04OTRmLTNjNjE4OTE4YTdkYl8xNzg2NTA5NTc5X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/adb7fb76-0815-4232-894f-3c618918a7db",
+                "source": "finance.biggo.com",
+                "date": "2026-08-12T04:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Satya Nadella Earned a Record $96.5 Million Pay Package as Microsoft's AI Bets Paid Off. Here's What That Signals About His Incentive Alignment With Shareholders.",
+                "desc": "Microsoft's AI story is bigger than just headlines. Here's how CEO Nadella's record pay package ties his financial future to the company's next decade of growth.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881873%2Fsatya-nadella_microsoft_msft_ceo_imagesource_microsoft-corporation.jpeg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/08/12/satya-nadella-earned-a-record-965-million-pay-pack/",
+                "source": "The Motley Fool",
+                "date": "2026-08-12T04:34:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "XRP bridge drained after software mistook fake deposits for real ones",
+                "desc": "An attacker created unbacked XRP on another blockchain, then exchanged it for real XRP held in reserve. The bridge has been halted and its operator has filed a complaint with the FBI.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/c0aa21182d52630cd0374bc45f523521cbad0b54-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+                "url": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
+                "source": "CoinDesk",
+                "date": "2026-08-12T04:33:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Morphology-aware supervision improves real-time wind turbine blade defect localization in unstructured natural environments",
+                "desc": "Unmanned aerial vehicle (UAV) inspection is widely used for wind turbine blade maintenance, yet detecting minor damage in operational wind farms remains difficult because background clutter, extreme defect aspect ratios, and curved or bifurcated image-space geometries all reduce accuracy. We propose SWCB-YOLO, a lightweight edge detector built on YOLOv11n. Its central contribution is a Curvature-Aware Shape IoU (CA-Shape-IoU) loss, a morphology-aware image-space localization regularizer whose supervision derives from crack morphology: Bézier-curvature, skeleton-distance, and elongation fields are precomputed offline from polygon masks and applied during training, leaving the detection head and inference cost unchanged. The loss is paired with an Asymmetric Strip Swin-TransformerV2 (AS-Swin2) module for long-range dependencies along slender cracks and a Frequency-Spatial Dual-Domain Attention (FS-DDA) module that combines DCT-informed channel recalibration with spatial attention. On a field dataset spanning a full annual cycle, SWCB-YOLO attains 89.0% mAP@50 and 52.8% mAP@50:95, improving on the YOLOv11n baseline by 13.8 and 11.7 percentage points under a common training protocol, with 3.70M parameters at 35 FPS on a Jetson Xavier NX. The improvement remains positive in every turbine-grouped cross-validation fold (+12.4 to +14.6 points) and after near-duplicate test frames are removed. Evaluation on five open benchmarks, including two blade-defect datasets, further examines transfer beyond the development site; the implementation and benchmark configurations are publicly available.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-65753-5?error=cookies_not_supported&code=307f4ccb-648f-4d3b-8a83-709c52d6fa3c",
+                "source": "nature.com",
+                "date": "2026-08-12T04:33:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Confectionery Store Bankruptcies Surge at Record Pace as Inflation and Labor Shortages Hit Hard",
+                "desc": "Bankruptcies among confectionery retailers in Japan reached 45 cases in the January-to-July period of 2026, marking the highest tally for that…",
+                "image": "https://img.biggo.com/xUlyFHZLR9-IiVjtZBaX3FeKOXQ7xbtCxlUijwwwBbY/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2RhMzdmOWVjLWRkODgtNDBjNi05MjEyLTVhNmZmZjRjMzViMV8xNzg2NTA5MDAyX2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/da37f9ec-dd88-40c6-9212-5a6fff4c35b1",
+                "source": "finance.biggo.com",
+                "date": "2026-08-12T04:31:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SIXGUN Tops 3,500 Trees Funded as Ecologi Climate Partnership Nears 700 Tonnes of CO2e",
+                "desc": "Melbourne SEO and digital marketing agency SIXGUN has now funded 3,536 trees and avoided 694.93 tonnes of CO2e through B Corp-certified climate platform Ecologi, with its contribution calculated per employee rather than set as a fixed annual budget.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/12/1173544.jpg",
+                "url": "https://www.manilatimes.net/2026/08/12/tmt-newswire/plentisoft/sixgun-tops-3500-trees-funded-as-ecologi-climate-partnership-nears-700-tonnes-of-co2e/2403604",
+                "source": "manilatimes.net",
+                "date": "2026-08-12T04:30:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India's Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+                "desc": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/08/yulu.jpg?resize=1200,800",
+                "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+                "source": "TechCrunch",
+                "date": "2026-08-12T04:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Massive bailout for Australia’s largest aluminium smelter expected to be announced by PM and NSW premier",
+                "desc": "Rio Tinto said in December it may cease operations at the Tomago aluminium smelter at the end of its current electricity supply contract",
+                "image": "https://i.guim.co.uk/img/media/4699365a574ba9f5af1c6c492c54aedb79191772/11_0_4521_3615/master/4521.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4047348e8ba73b3e388997d000cc3ddd",
+                "url": "https://www.theguardian.com/australia-news/2026/aug/12/massive-bailout-for-australias-largest-aluminium-smelter-expected-to-be-announced-by-pm-and-nsw-premier",
+                "source": "theguardian.com",
+                "date": "2026-08-12T04:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Online listings of popular Trader Joe's seasoning removed on CNB's order over prohibited poppy seeds",
+                "desc": "The popular seasoning from the United States was recently blocked from sale in South Korea. In Singapore, Carousell and Lazada have removed listings of the product and are monitoring for new ones.",
+                "image": "https://dam.mediacorp.sg/image/upload/s----yfUnVV--/c_crop,h_720,w_1280,x_0,y_185/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/07/6318780054116176777.jpg?itok=PH3K1XTy",
+                "url": "https://www.channelnewsasia.com/singapore/trader-joes-everything-bagel-poppy-seeds-cnb-prohibited-goods-6306356",
+                "source": "CNA",
+                "date": "2026-08-12T04:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Australia sets ‘world-leading’ minimum pay rules for gig delivery workers",
                 "desc": "Companies will also be required to provide 'a reasonable minimum level of cover' for personal accident insurance once the order takes effect on Aug 17.",
                 "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/08/a1ec7a63-fcfe-4270-8996-7df1d2f25a5d-EPA-Images---Australia---Delivery---Gig---12082026.webp",
@@ -542,99 +632,99 @@
                 "source": "Fortune",
                 "date": "2026-08-11T19:57:00Z",
                 "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Revealed: NZ’s favourite biscuit - according to you",
-                "desc": "You might need a cup of tea with this one, New Zealand. Your best biscuit is the Sultana Pastie. Yeah, nah. The chocolate-coated dried fruit travesty didn’t...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/3JWJ6A2O7FFX7JUBSUDCTNEIRY.jpg?auth=33ec357aeeca16fe778c57905d2aecbfd2b9bb15fd6bc961fe0cbf4f4e295c77&width=1200&height=675&quality=70&focal=933%2C605&smart=false",
-                "url": "https://www.nzherald.co.nz/lifestyle/revealed-nzs-favourite-biscuit-according-to-you/KU2FY5VQ45BSNBHBEVG2HQLOKY/",
-                "source": "nzherald.co.nz",
-                "date": "2026-08-11T18:04:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why ASML Holding Stock Rallied Tuesday Morning",
-                "desc": "A customer's robust sales are fueling the rally.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882882%2Fthe-asml-logo-superimposed-over-an-image-of-one-of-the-companys-lithography-systems.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/08/11/why-asml-holding-stock-rallied-tuesday-morning/",
-                "source": "The Motley Fool",
-                "date": "2026-08-11T18:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RCR H1 profit jumps 44% to P4.95B",
-                "desc": "RL Commercial REIT Inc. (RCR) posted a 44% rise in first-half earnings, driven by recent asset infusions and strong occupancy.",
-                "image": "https://business.inquirer.net/files/2025/05/RL-Commercial-REIT-Inc-RCR-12May2025.png",
-                "url": "https://business.inquirer.net/605234/rcr-h1-profit-jumps-44-to-p4-95b",
-                "source": "Inquirer.net",
-                "date": "2026-08-11T18:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cargojet pilots notch 46 per cent wage hike, as company stresses productivity gains",
-                "desc": "Cargojet Inc. executives say a new contract gives its pilots a 46 per cent wage boost over five years.",
-                "image": "https://www.castanet.net/content/2026/8/27b27e1cf5a67e4c5aad925a5b715c608910337031ce40247f43428e672b26f4.jpg",
-                "url": "https://www.castanet.net/news/Business/627670/Cargojet-pilots-notch-46-per-cent-wage-hike-as-company-stresses-productivity-gains",
-                "source": "Castanet",
-                "date": "2026-08-11T18:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ayala opens doors to more global brands through ACX Retail",
-                "desc": "Ayala Corp. expands its consumer business through ACX Retail, adding more international brands via long-term partnerships.",
-                "image": "https://business.inquirer.net/files/2026/03/Ayala-Corp-logo-13March2026.jpg",
-                "url": "https://business.inquirer.net/605229/ayala-opens-doors-to-more-global-brands-through-acx-retail",
-                "source": "Inquirer.net",
-                "date": "2026-08-11T18:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alberta widow calls for policy review after Air Canada temporarily loses husband's ashes",
-                "desc": "Twyla Shannahan wants accountability after Air Canada temporarily lost her late husband’s cremated remains during a flight from Alberta to Newfoundland.",
-                "image": "https://i.cbc.ca/ais/ace7e507-f608-4817-b7c2-f6e2983a75e5,1786470833688/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C58%2C1280%2C720%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/edmonton/alta-air-canada-9.7303210",
-                "source": "CBC",
-                "date": "2026-08-11T18:00:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
-                "desc": "FDA report reveals where Taylor Farms sent its lettuce—and it raises questions.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2287552371-1024x648.jpg",
-                "url": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
-                "source": "Ars Technica",
-                "date": "2026-08-11T18:00:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Liverpool workers feel 'sold out' after hundreds of jobs moved overseas",
-                "desc": "A whistle blower spoke to the Liverpool ECHO after The Very Group transferred 530 jobs to a multinational outsourcing firm",
-                "image": "https://i2-prod.liverpoolecho.co.uk/article34440125.ece/ALTERNATES/s1200d/0_Estuary-Skyways-House-site-entrance-in-Speke.jpg",
-                "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-workers-feel-sold-out-34440086",
-                "source": "Liverpool Echo",
-                "date": "2026-08-11T17:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "B.C. strata ordered to pay $16K over 'completely pointless' decision",
-                "desc": "A B.C. strata was ordered to pay over $16,000 after a \"completely pointless\" decision involving a property management company.",
-                "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/08/bc-strata.jpg?format=auto",
-                "url": "https://dailyhive.com/vancouver/bc-strata-property-management-decision-liens",
-                "source": "Daily Hive",
-                "date": "2026-08-11T17:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Solar eclipse glasses 'sold out everywhere' as people look for alternatives",
-                "desc": "Eclipse glasses can offer protection from harmful rays of sunlight but most high street stores have sold out.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6ac1/live/92b08df0-95a6-11f1-b664-bb705b1b22f9.jpg",
-                "url": "https://www.bbc.com/news/articles/c2lqwyxj024o",
-                "source": "BBC",
-                "date": "2026-08-11T17:58:11Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "CS:GO Source Code Leaked. This is Bad News for Players",
+                "desc": "The CS:GO source code from March 2019 has been leaked online - the most recent version in the history of such leaks, which players fear could give cheaters new ways to bypass VAC protection.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1287014/de951b7d-6cfb-4876-9eac-635ebc0417d5.jpg",
+                "url": "https://ixbt.games/en/news/2026/08/12/427677-isxodnyi-kod-csgo-utek-v-set-eto-ploxie-novosti-dlia-igrokov.html",
+                "source": "ixbt.games",
+                "date": "2026-08-12T04:38:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Redmi K100 Pro Series Launched in China with 185Hz Displays",
+                "desc": "Redmi K100 Pro series has been announced in China with a Bose stereo speaker system, 185Hz displays, and more.",
+                "image": "https://themobileindian.com/wp-content/uploads/2026/08/Redmi-k100-pro-series.jpeg",
+                "url": "https://themobileindian.com/news/redmi-k100-pro-series-launched-in-china-with-185hz-displays",
+                "source": "The Mobile Indian",
+                "date": "2026-08-12T04:36:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Adobe brings 70-plus creative tools to ChatGPT in unified plugin",
+                "desc": "From pixels to PDFs, the new plugin lets users create, edit and publish without leaving the conversation",
+                "image": "https://indiantelevision.com/wp-content/uploads/2026/08/Adobe-1000x600.jpg",
+                "url": "https://indiantelevision.com/mam/adobe-brings-70-plus-creative-tools-to-chatgpt-in-unified-plugin-260812/",
+                "source": "Indian Television Dot Com",
+                "date": "2026-08-12T04:34:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "vivo X500, X500 Pro, and X500 Pro Max design details, screen sizes, and SoC details leak",
+                "desc": "They might be launching next month. vivo is expected to launch the X500, X500 Pro, and X500 Pro Max next month, and today thanks to a new leak from Digital...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/08/vivo-x500-x500-pro-x500-pro-max-details/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_design_details_screen_sizes_and_soc_details_leak-news-74119.php",
+                "source": "GSMArena.com",
+                "date": "2026-08-12T04:31:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indian firm taps into energy infusion to raise bioavailability of botanicals",
+                "desc": "Bengaluru-based Greenspace Herbs has developed a novel technology that combines artificial intelligence (AI) and controlled energy load infusion to increase the bioavailability of botanicals.",
+                "image": "https://www.nutraingredients.com/resizer/v2/KMAMXTLMCZF5PHJWYC3XT3W63Q.jpg?auth=19fa533a69e625a2591959e5793cc2f579451d8fcef22851d1f1b680cec15bd9&width=1200&height=630&smart=true",
+                "url": "https://www.nutraingredients.com/Article/2026/08/12/indian-firm-uses-ai-energy-infusion-to-produce-higher-bioavailability-botanicals/",
+                "source": "NutraIngredients.com",
+                "date": "2026-08-12T04:20:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Best Women's Watches From Watches & Wonders 2026",
+                "desc": "Discover the most exceptional women's watches unveiled at Watches and Wonders 2026, showcasing diverse styles and horological excellence.",
+                "image": "https://cassette.sphdigital.com.sg/image/harpersbazaar/2e1745e582e616b3036b854e00c6bbd06d62225c3445301a916965bb5697d63c",
+                "url": "https://www.harpersbazaar.com.sg/jewels-watches/watches/watches-wonders-2026-womens-watches",
+                "source": "Harper's Bazaar Singapore",
+                "date": "2026-08-12T04:19:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amorepacific launches PDRN-collagen supplement targeting post-treatment beauty care",
+                "desc": "Amorepacific’s inner beauty brand Vital Beautie has launched Super Collagen PDRN, a new supplement targeting consumers looking to maintain their beauty routines at home, including following professional beauty treatments.Super Collagen PDRN combines polydeoxyribonucleotide (PDRN) with low-molecular-",
+                "image": "https://cdn.koreabiomed.com/news/thumbnail/202608/32760_35655_130_v150.jpg",
+                "url": "https://www.koreabiomed.com/news/articleView.html?idxno=32760",
+                "source": "koreabiomed.com",
+                "date": "2026-08-12T04:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elder Scrolls VI \"Live Playthrough\" Teased by Xbox CEO Amid Bethesda Protest, Oblivion Launch",
+                "desc": "Asha Sharma teased a live Elder Scrolls VI demo at Bethesda's HQ the same week a CWA protest and Oblivion Remastered's Switch 2 launch hit.",
+                "image": "https://www.shanethegamer.com/wp-content/uploads/2026/08/stg-the-elder-scrolls-vi-86742.jpg",
+                "url": "https://www.shanethegamer.com/xbox/elder-scrolls-vi-live-playthrough-teased-by-xbox-ceo-amid-bethesda-protest-oblivion-launch/",
+                "source": "Shane the Gamer",
+                "date": "2026-08-12T04:11:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
+                "desc": "Ordinary WiFi networks could quietly become powerful surveillance tools, allowing people to be identified without cameras, special sensors, or even carrying a connected device. Researchers showed that unencrypted signals routinely exchanged between WiFi devices and routers can be used to create radio-based images of people and recognize them within seconds. In tests involving 197 participants, the system identified individuals with nearly 100% accuracy, even from different angles and regardless of how they walked.",
+                "image": "https://www.sciencedaily.com/images/1920/wifi-imaging-secret-spying.webp",
+                "url": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm",
+                "source": "ScienceDaily",
+                "date": "2026-08-12T04:09:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HONOR Magic V6 to launch in PH on August 18",
+                "desc": "HONOR is set to launch the Magic V6 in the Philippines on August 18, with local pricing, final specifications, and...",
+                "image": "https://www.yugatech.com/wp-content/uploads/2026/08/260812-ygt-honor-magic-v6-to-launch-in-ph-on-august-18-upload-2.webp",
+                "url": "https://www.yugatech.com/news/honor-magic-v6-to-launch-in-ph-on-august-18/",
+                "source": "YugaTech",
+                "date": "2026-08-12T04:04:49Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Game Sound Developer, AZSTOKE, Set to Exhibit Booth at Tokyo Game Show 2026! Showcase Latest Technology and Create Business Matching Opportunities",
                 "desc": "AZSTOKE, a company specializing in game audio, announced its exhibition at Tokyo Game Show 2026, held from Thursday, September 17 to Monday, September 21, 2026.…",
@@ -1174,99 +1264,99 @@
                 "source": "Game Developer",
                 "date": "2026-08-11T19:48:52Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Every Galaxy phone eligible to get One UI 9 (Android 17) update",
-                "desc": "Here is a list of Samsung Galaxy smartphones and tablets that are eligible to get the One UI 9.0 (Android 17) update.",
-                "image": "https://www.sammobile.com/wp-content/uploads/2026/05/Galaxy-S26-Ultra-One-UI-9.jpg",
-                "url": "https://www.sammobile.com/news/samsung-galaxy-phone-tablet-one-ui-9-0-android-17-eligibility/",
-                "source": "SamMobile",
-                "date": "2026-08-11T18:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "VisiLocali Launches New Local SEO Platform to Help Small Businesses Compete on Google Without Expensive Agency Fees",
-                "desc": "New SaaS platform gives small business owners the data, competitor insights and AI-powered recommendations they need to improve their visibility on Google Search and Maps.",
-                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-                "url": "https://www.manilatimes.net/2026/08/12/tmt-newswire/plentisoft/visilocali-launches-new-local-seo-platform-to-help-small-businesses-compete-on-google-without-expensive-agency-fees/2403366",
-                "source": "The Manila Times",
-                "date": "2026-08-11T18:04:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Legend of Zelda 40th Anniversary Nintendo Switch 2 Console Images Reportedly Leak",
-                "desc": "Purchase Link to follow.",
-                "image": "https://sm.ign.com/t/ign_ap/news/t/the-legend/the-legend-of-zelda-40th-anniversary-nintendo-switch-2-conso_5dpj.1200.jpg",
-                "url": "https://sea.ign.com/nintendo-switch-2-unofficial-name/246665/the-legend-of-zelda-40th-anniversary-nintendo-switch-2-console-images-reportedly-leak",
-                "source": "IGN Southeast Asia",
-                "date": "2026-08-11T18:02:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Lord of the Rings: War in the North Legacy Edition Gets Shadow Drop on Modern Consoles and PC",
-                "desc": "Fly, you fools.",
-                "image": "https://sm.ign.com/t/ign_pk/news/t/the-lord-o/the-lord-of-the-rings-war-in-the-north-legacy-edition-gets-s_w7jk.1200.jpg",
-                "url": "https://pk.ign.com/the-lord-of-the-rings-war-in-the-north/259027/the-lord-of-the-rings-war-in-the-north-legacy-edition-gets-shadow-drop-on-modern-consoles-and-pc",
-                "source": "IGN Pakistan",
-                "date": "2026-08-11T18:02:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FirmGuard Introduces SecureReset: Pre-OS, Remote Endpoint Wipe and Reimage for Incident Response",
-                "desc": "FirmGuard, a leader in UEFI BIOS firmware security, management and incident response, today announced the launch of SecureReset, a groundbreaking new capability that enables IT administrators to remotely wipe and reimage an endpoint without an operating system.",
-                "image": "https://s.yimg.com/lo/mysterio/api/1439A427C648A1A72803B9858BBDAD12B5949619F65D925159715190FB5EB250/subgraphmysterio/resizefill_w1200_h337;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2Fdea1d737554a96ae066d1d1999292e70.jpg",
-                "url": "https://finance.yahoo.com/technology/articles/firmguard-introduces-securereset-pre-os-180200715.html",
-                "source": "Yahoo Finance",
-                "date": "2026-08-11T18:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro: Apple Shifts Key Release Schedule Date As Event Nears",
-                "desc": "Exactly when the next Apple special event will take place to reveal the iPhone 18 Pro has just become clearer — and there’s a change to a key date.",
-                "image": "https://s.yimg.com/lo/mysterio/api/b9eed2e1a20b009594cc0263dde5585ca37203de55cb14b30f1bf65254f37a02/lightyear_networkapi/resizefill_w959_h541%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F13ff00dc8af95fae1b461e876192db22.jpg",
-                "url": "https://ca.news.yahoo.com/iphone-18-pro-apple-shifts-180009019.html",
-                "source": "Yahoo News Canada",
-                "date": "2026-08-11T18:00:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro: Apple Shifts Key Release Schedule Date As Event Nears",
-                "desc": "Exactly when the next Apple special event will take place to reveal the iPhone 18 Pro has just become clearer — and there’s a change to a key date.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a79a1ef91135cfbc1db66fd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/davidphelan/2026/08/11/iphone-18-pro-event-tipped-as-apple-shifts-key-release-schedule-date/",
-                "source": "Forbes",
-                "date": "2026-08-11T18:00:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 phones made in China that can rival the Samsung Galaxy S26",
-                "desc": "The global phones market is becoming increasingly competitive, with manufacturers in China producing flagship devices that combine powerful processors, advanced cameras, fast charging and premium designs.",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Xiaomi_17_Ultra.webp",
-                "url": "https://www.vanguardngr.com/2026/08/5-phones-made-in-china-that-can-rival-the-samsung-galaxy-s26/",
-                "source": "Vanguard News",
-                "date": "2026-08-11T17:59:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Decagon Hit $100 Million Betting Against Forward Deployed Engineers",
-                "desc": "Embedding software engineers long term just means your software doesn’t work, Jesse Zhang argues",
-                "image": "https://substackcdn.com/image/fetch/$s_!S0Gm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38f31675-0f7d-477e-b6cc-3659e7e0b56e_1600x1067.jpeg",
-                "url": "https://www.newcomer.co/p/decagon-hit-100-million-betting-against",
-                "source": "Newcomer | Substack",
-                "date": "2026-08-11T17:58:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI's ChatGPT/Codex desktop app is now on Linux",
-                "desc": "OpenAI’s ChatGPT desktop app arrives on Linux with ChatGPT Work, Codex, native packages, an in-app browser, and one notable feature gap for developers.",
-                "image": "https://cdn.thenewstack.io/media/2026/08/9e7a394a-screenshot-2026-08-11-at-10.42.00-am-1024x695.png",
-                "url": "https://thenewstack.io/openais-chatgpt-desktop-linux/",
-                "source": "The New Stack",
-                "date": "2026-08-11T17:57:52Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Home Affairs to launch Electronic Travel Authorisation system",
+                "desc": "The Border Management Authority (BMA) said the recent repatriations and deportations are not proving to be a deterrent to those seeking to re-enter South Africa through illegal means.",
+                "image": "https://media-cache.primedia-service.com/media/jl1dul2a/leon-schreiber.jfif?width=1200&height=630",
+                "url": "https://www.ewn.co.za/2026/08/12/home-affairs-to-launch-electronic-travel-authorisation-system",
+                "source": "EWN",
+                "date": "2026-08-12T04:38:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chiba woman arrested over 89-year-old mother’s 2024 killing",
+                "desc": "The suspect has denied the allegation to police, who are investigating the possibility of a money dispute.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/12/556792.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/news/2026/08/12/japan/crime-legal/chiba-mother-murder-arrest/",
+                "source": "The Japan Times",
+                "date": "2026-08-12T04:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SafeWork SA investigates fatal workplace incident in Adelaide Hills",
+                "desc": "South Australia's safety watchdog is investigating the death of a person involved in a \"serious workplace incident\" in the Adelaide Hills.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/fb59f174c03ab55c6e1b2b7434a04a2f?impolicy=wcms_watermark_news&cropH=472&cropW=840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-08-12/workplace-fatality-charleston-adelaide-hills-council/107027636",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-08-12T04:33:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years",
+                "desc": "Trump’s latest executive order is set to lead to delayed vaccinations, falling coverage and a resurgence of diseases once brought under control.",
+                "image": "https://images.theconversation.com/files/753466/original/file-20260812-50-xyhoo5.jpg?ixlib=rb-4.1.1&rect=0%2C176%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/why-trumps-mmr-vaccine-order-is-the-latest-public-health-disaster-with-effects-set-to-last-years-289479",
+                "source": "The Conversation",
+                "date": "2026-08-12T04:32:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "More than 16,000 civilians detained by Russia in its invasion of Ukraine are still held, UN says",
+                "desc": "The UN also reported more than 95% of the Ukrainian prisoners of war and 85% of the civilian detainees are being tortured or ill-treated, often repeatedly.",
+                "image": "https://images.euronews.com/articles/stories/09/78/33/91/1200x675_cmsv2_30fd32a8-f963-5a59-b8ea-d3ad00697972-9783391.jpg",
+                "url": "https://www.euronews.com/2026/08/12/more-than-16000-civilians-detained-by-russia-in-its-invasion-of-ukraine-are-still-held-un-",
+                "source": "euronews.com",
+                "date": "2026-08-12T04:31:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "More than 16,000 civilians detained by Russia in its invasion of Ukraine are still held, UN says",
+                "desc": "The UN also reported more than 95% of the Ukrainian prisoners of war and 85% of the civilian detainees are being tortured or ill-treated, often repeatedly.View on euronews",
+                "image": "https://s.yimg.com/lo/mysterio/api/b0e467a05035847105deea1a4cf64c80f9a4bfb9309e522d00a66ed33d0a54b8/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_sg_articles_551%2F7075ba49408b08c892cf9ca59f4cd3c5.jpg",
+                "url": "https://sg.news.yahoo.com/more-16-000-civilians-detained-043123308.html",
+                "source": "Yahoo News Singapore",
+                "date": "2026-08-12T04:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan’s earthquake shows extreme heat can turn one disaster into two",
+                "desc": "Japan’s earthquake shows extreme heat can turn one disaster into two | World News",
+                "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/ht-generic_world2_1751287544593_1751287555838.jpg",
+                "url": "https://www.hindustantimes.com/world-news/japans-earthquake-shows-extreme-heat-can-turn-one-disaster-into-two-101786509027184.html",
+                "source": "Hindustan Times",
+                "date": "2026-08-12T04:30:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa making progress on SDGs but remains off track for 2030 targets, report shows",
+                "desc": "New report finds progress on 12 of 17 SDGs, but weak institutions, debt pressures and climate shocks threaten to reverse gains",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2025/04/AFrican-flags.jpg",
+                "url": "https://eastleighvoice.co.ke/business/389062/africa-making-progress-on-sdgs-but-remains-off-track-for-2030-targets-report-shows",
+                "source": "The Eastleigh Voice",
+                "date": "2026-08-12T04:30:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Massive bailout for Australia’s largest aluminium smelter expected to be announced by PM and NSW premier",
+                "desc": "Rio Tinto said in December it may cease operations at the Tomago aluminium smelter at the end of its current electricity supply contract",
+                "image": "https://i.guim.co.uk/img/media/4699365a574ba9f5af1c6c492c54aedb79191772/11_0_4521_3615/master/4521.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4047348e8ba73b3e388997d000cc3ddd",
+                "url": "https://www.theguardian.com/australia-news/2026/aug/12/massive-bailout-for-australias-largest-aluminium-smelter-expected-to-be-announced-by-pm-and-nsw-premier",
+                "source": "The Guardian",
+                "date": "2026-08-12T04:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "edition can, activations in Malaysia",
+                "desc": "Sapporo celebrates 150 years through manga-inspired design, personalised experiences and immersive activations across Malaysia.",
+                "image": "https://marketech-apac.com/wp-content/uploads/2026/08/2-1.webp",
+                "url": "https://marketech-apac.com/sapporo-marks-150-years-with-manga-inspired-limited-edition-can-activations-in-malaysia/",
+                "source": "marketech apac",
+                "date": "2026-08-12T04:28:04Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "“We bought systems, but forgot the ammunition”: loud statement by the Prime Minister of Latvia on drone protection",
                 "desc": "Prime Minister Andris Kulbergs stated that during one of the procurements of anti-drone systems, Latvia acquired equipment but did not provide it with the necessary ammunition.",
@@ -1806,98 +1896,8 @@
                 "source": "The Catholic Register",
                 "date": "2026-08-11T19:49:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Five arrested and drugs worth over £1m seized in Belfast",
-                "desc": "Five men have been arrested and drugs worth more than £1 million have also been seized by police in Northern Ireland.",
-                "image": "https://www.rte.ie/images/0024d422-1600.jpg",
-                "url": "https://www.rte.ie/news/regional/2026/0811/1587489-drugs-belfast-seized/",
-                "source": "RTE.ie",
-                "date": "2026-08-11T18:02:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chicago man charged with first-degree murder in woman's stabbing death",
-                "desc": "A Chicago man faces a first-degree murder charge after a 32-year-old woman was found fatally stabbed inside a Northwest Side home over the weekend.",
-                "image": "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2026/08/1200/630/ankur-patel-31.jpg?ve=1&tl=1",
-                "url": "https://www.fox32chicago.com/news/chicago-man-charged-murder-woman-stabbing-death",
-                "source": "FOX 32 Chicago",
-                "date": "2026-08-11T18:02:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Latvia is investing millions in closed border crossing points",
-                "desc": "The Cabinet of Ministers supported the proposal of the Ministry of Transport to include the closed border crossing points \"Silene\" and \"Vientuli\" in the project to create an electronic border crossing management system.",
-                "image": "https://news.inbox.eu/w/img/35/02/3502c96bc96e64b8c7.webp",
-                "url": "https://news.inbox.lv/150m3cc-why-latvia-is-investing-millions-in-closed-border-crossing-points?language=en",
-                "source": "Inbox.lv",
-                "date": "2026-08-11T18:01:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Latvia is investing millions in closed border crossing points",
-                "desc": "The Cabinet of Ministers supported the proposal of the Ministry of Transport to include the closed border crossing points \"Silene\" and \"Vientuli\" in the project to create an electronic border crossing management system.",
-                "image": "https://news.inbox.eu/w/img/35/02/3502c96bc96e64b8c7.webp",
-                "url": "https://news.inbox.eu/150m3cc-why-latvia-is-investing-millions-in-closed-border-crossing-points?language=en",
-                "source": "Inbox.eu",
-                "date": "2026-08-11T18:01:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Assisted dying, social media and agriculture put France’s top court in spotlight",
-                "desc": "France’s Constitutional Council is facing a politically charged end to the summer, with judges due to rule on a series of high-profile laws – including those covering assisted dying, social media use ...",
-                "image": "https://s.yimg.com/lo/mysterio/api/9c42069498667f1041745f298662eb9d9b377cbe23d3e6c37c4f89345f97e611/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frfi_english_75%2F27f1659a2ac5b67574960eb740b94b7f.jpg",
-                "url": "https://nz.news.yahoo.com/assisted-dying-social-media-agriculture-180110944.html",
-                "source": "Yahoo News New Zealand",
-                "date": "2026-08-11T18:01:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump, PM Modi will 'work it out', says Navarro amid 100% tariff threat: 'They have a very good relationship...'",
-                "desc": "The Russia Sanctions Bill cleared the US Senate last week with an 86-11 bipartisan vote. It must still pass the House of Representatives before it can become law.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260324134904_moditrump2.png",
-                "url": "https://www.moneycontrol.com/world/trump-pm-modi-will-work-it-out-says-navarro-amid-100-tariff-threat-they-have-a-very-good-relationship-article-14002287.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-08-11T18:01:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Public health interventions will only work when the public gets a say",
-                "desc": "The government’s consultation on possibly adding folic acid to flour is an opportunity to do health policy differently and not make the mistakes of the past.",
-                "image": "https://img2.thejournal.ie/article/7127285/river/?height=400&version=7127353",
-                "url": "https://www.thejournal.ie/readme/folic-acid-in-food-7127285-Aug2026/",
-                "source": "The Journal",
-                "date": "2026-08-11T18:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zoella and Alfie Deyes get approval for donkey sanctuary near Hassocks",
-                "desc": "Zoella and Alfie Deyes will have to wait until possible Roman ruins at the site are investigated.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b6a2/live/4ce731e0-74a2-11f1-b1a9-bd204fe03b95.jpg",
-                "url": "https://www.bbc.com/news/articles/ce8ljpg9z8ro",
-                "source": "BBC",
-                "date": "2026-08-11T18:00:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Trump Secretly Switched Aircraft During Turkey Trip Over Reported Iran Assassination Threat",
-                "desc": "United States President Donald Trump was reportedly moved onto a smaller military aircraft during his journey from Turkey to Britain last month as security officials sought to protect him from an alleged Iranian assassination threat. The previously undisclosed change in Trump’s travel arrangements was reported by The Washington Post and The New York Times on Tuesday, revealing that the president’s actual movements were concealed even as the White House maintained that he was travelling aboard the former Air Force One.",
-                "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
-                "url": "https://saharareporters.com/2026/08/11/how-trump-secretly-switched-aircraft-during-turkey-trip-over-reported-iran-assassination",
-                "source": "Sahara Reporters",
-                "date": "2026-08-11T18:00:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Mitochondria Is the Powerhouse of the Cell-And Maybe Your Mood, Scientists Say",
-                "desc": "Learning, memory, motivation, dread: one overlooked organelle may sit quietly behind all of it.",
-                "image": "https://s.yimg.com/lo/mysterio/api/172d0bde8ee8a0de8ff202402abe17bebdf49107972ea1eaa885bbc63c7a3efb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F35418f15e2c43111ccd737de503d2dd3.jpg",
-                "url": "https://www.yahoo.com/news/science/articles/mitochondria-powerhouse-cell-maybe-mood-180000920.html",
-                "source": "Yahoo",
-                "date": "2026-08-11T18:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-12T15:40:49.954774Z"
+    "lastGlobalSync": "2026-08-12T16:38:52.821476Z"
 }
