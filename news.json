@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Revolut cuts back WeWork access for premium customers, including in Dublin",
+                "desc": "Subscribers lose access to in-demand European office spaces, including in Paris and London",
+                "image": "https://www.irishtimes.com/resizer/v2/DUW7K3XD5SZIF4YYVBYQIBV4I4.jpg?smart=true&auth=df900b0de697e0ffa7083242636a23137f1b6cfbcd726fb66e97940681e6d543&width=1200&height=630",
+                "url": "https://www.irishtimes.com/business/2026/08/12/revolut-cuts-back-wework-access-for-premium-customers-including-in-dublin/",
+                "source": "The Irish Times",
+                "date": "2026-08-12T08:54:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why private equity works for people-led businesses",
+                "desc": "Interpath’s own journey reflects how professional services businesses can thrive under private equity ownership.",
+                "image": "https://static.independent.co.uk/2026/08/10/17/10/Interpath_Header-image_iStock-1445118259.jpeg?trim=527,0,527,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/business/business-reporter/private-equity-people-businesses-capital-investment-b3030646.html",
+                "source": "The Independent",
+                "date": "2026-08-12T08:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lokpobiri calls for more refineries in Africa, says Dangote plant not enough",
+                "desc": "Heineken Lokpobiri, minister of state for petroleum resources (oil), says Africa needs more refineries as the Dangote Petroleum Refinery is not enough to meet the continent’s needs.",
+                "image": "https://www.thecable.ng/wp-content/uploads/2025/05/Lokpobiri-minister-for-state-petroleum5-e1770113306925.png",
+                "url": "https://www.thecable.ng/lokpobiri-calls-for-more-refineries-in-africa-says-dangote-plant-not-enough/",
+                "source": "TheCable",
+                "date": "2026-08-12T08:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian delivery drivers win 'world-leading' pay rise",
+                "desc": "Hundreds of thousands of gig workers and delivery drivers in Australia have been granted a huge pay raise from next week",
+                "image": "https://cebudailynews.inquirer.net/files/2026/08/AFP__20260812__C4FL8KE__v1__HighRes__FilesAustraliaLabourRights-scaled.jpg",
+                "url": "https://cebudailynews.inquirer.net/756064/australian-delivery-drivers-win-world-leading-pay-rise",
+                "source": "Cebu Daily News",
+                "date": "2026-08-12T08:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ComfortDelGro unveils CDG Energy, expanding beyond EV charging into integrated energy management",
+                "desc": "Formerly known as ComfortDelGro ENGIE, the business has rebranded as CDG Energy, reflecting its evolution to an integrated energy management company.",
+                "image": "https://eco-business.imgix.net/clients/featured_images/CDG_Energy_charging_Zig_taxi_eUCu4yo.jpg?fit=crop&h=801&ixlib=django-1.2.0&q=85&w=1200",
+                "url": "https://www.eco-business.com/press-releases/comfortdelgro-unveils-cdg-energy-expanding-beyond-ev-charging-into-integrated-energy-management/",
+                "source": "Eco-Business",
+                "date": "2026-08-12T08:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tata Group Chairman N Chandrasekaran to step down in February",
+                "desc": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2187/live/e1245d60-9621-11f1-adec-3f90c109009f.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c1512909pgpo",
+                "source": "bbc.co.uk",
+                "date": "2026-08-12T08:50:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tata Group Chairman N Chandrasekaran to step down in February",
+                "desc": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2187/live/e1245d60-9621-11f1-adec-3f90c109009f.jpg",
+                "url": "https://www.bbc.com/news/articles/c1512909pgpo",
+                "source": "BBC",
+                "date": "2026-08-12T08:50:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICE cotton recovers as dry US weather reinforces bullish trend",
+                "desc": "ICE cotton's December 2026 contract settled at 84.39 cents, up 0.53 cent, as tight supply and dry US weather supported nearby months.\nOpen interest rose for a seventh straight...",
+                "image": "https://static.fibre2fashion.com/Newsresource/images/312/shutterstock-766799668_324148.jpg",
+                "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-recovers-as-dry-us-weather-reinforces-bullish-trend-312571-newsdetails.htm",
+                "source": "Fibre2Fashion",
+                "date": "2026-08-12T08:50:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "North American stock markets rise after in-line U.S. inflation data",
+                "desc": "Mining, financial stocks lead TSX higher",
+                "image": "https://www.theglobeandmail.com/resizer/v2/Z7S6JU5IBRFTVN3R7A7HAIX4AU.jpg?auth=d125a475eb0aafe8004c84596a680a51851e774b84397545fa955eeb9f2c7255&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-global-stocks-steady-ahead-of-us-inflation-data/",
+                "source": "The Globe and Mail",
+                "date": "2026-08-12T08:49:13Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Contractor ordered to fix faulty lifts causing Queen Mary Hospital block delay",
+                "desc": "Lawmaker says situation involving Anlev Elex Elevator ‘unacceptable’, warning it could further delay HK$13.5 billion redevelopment project.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/12/34e64b48-c708-4fdb-a9f9-f8a43e432a8e_9cffc314.jpg?itok=-2DzP1nW&v=1786523537",
+                "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363768/contractor-ordered-fix-faulty-lifts-causing-queen-mary-hospital-block-delay",
+                "source": "South China Morning Post",
+                "date": "2026-08-12T08:49:12Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Evaluating waste based retrofit strategies for thermal performance improvement in North Sinai social housing",
                 "desc": "This study investigates thermal retrofitting strategies for single-family social housing in North Sinai, Egypt, with potential relevance to national decarbonization objectives. The research evaluates the thermal performance of locally sourced by-product materials, including barley straw (BS) and date palm (DP) waste, incorporated into compressed earth masonry and prefabricated cladding systems. These waste-based alternatives are benchmarked against the Egyptian residential building energy efficiency (RBEE) code and conventional synthetic insulation. Dynamic thermal simulations were conducted for the hot-humid climate of Bir El-Abd under both natural ventilation (NV) and mixed-mode ventilation (MMV) conditions. Simulation results indicate that the proposed interventions improved thermal performance relative to the baseline model. Under NV, the 15 cm BS masonry reduced annual discomfort hours by 23.7%, achieving approximately 89% of the discomfort reduction observed in the 60 cm theoretical variant. Under MMV, this configuration reduced annual cooling electricity use by 27.9%, with operational CO2 emissions decreasing to approximately 939.3 kg. Compared with the 15 cm BS masonry, the 6 cm DPM panel achieved a 21.9% reduction in discomfort hours and a 28.8% reduction in annual total heating and cooling electricity use for the South orientation. While BS masonry demonstrated higher thermal performance, the DPM cladding may offer a lower-profile alternative with reduced spatial impact. These results suggest that localized biocomposites may offer a potential pathway for reducing energy use and operational emissions in similar residential retrofit contexts.",
                 "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
@@ -542,99 +632,99 @@
                 "source": "Sunsirs",
                 "date": "2026-08-12T01:50:54Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How Mahindra Group built an electric unicorn ahead of 2027 IPO",
-                "desc": "MLMM more than doubled revenue in two years as ₹2,200 crore of funding helped propel the electric three-wheeler business towards a planned 2027 listing.",
-                "image": "https://www.livemint.com/lm-img/img/2026/08/11/1600x900/logo/Mahinda_1786448523299_1786448529052_ea5e2f6c-9688-4286-b487-c9114d63dac7.jpeg",
-                "url": "https://www.livemint.com/companies/news/how-mahindra-group-built-an-electric-unicorn-ahead-of-2027-ipo-electric-three-wheelers-ev-ice-vehicles-11786438658022.html",
-                "source": "livemint.com",
-                "date": "2026-08-12T00:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hiroshi Okuda, who led Toyota's climb as a global automaker, dies at 93",
-                "desc": "Hiroshi Okuda, the former chief executive of Toyota who led the Japanese automaker’s stellar rise in global markets, has died at 93. The company announced his death Wednesday but did not disclose...",
-                "image": "https://s.hdnux.com/photos/01/67/03/36/31209366/3/rawImage.jpg",
-                "url": "https://www.sfgate.com/news/world/article/hiroshi-okuda-former-toyota-chief-credited-for-22384381.php",
-                "source": "SFGATE",
-                "date": "2026-08-12T00:29:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CoreWeave coasts to a solid earnings beat, sending its stock higher after",
-                "desc": "CoreWeave coasts to a solid earnings beat, sending its stock higher after-hours - SiliconANGLE",
-                "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2025-11-11-06-32-30-768x465.png",
-                "url": "https://siliconangle.com/2026/08/11/coreweave-coasts-solid-earnings-beat-sending-stock-higher-hours/",
-                "source": "SiliconANGLE",
-                "date": "2026-08-12T00:28:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OneSpan (OSPN) Q2 2026 Earnings Call Transcript",
-                "desc": "Subscription revenue surged 11% as digital agreements drove profitability gains.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/earnings/call-transcripts/2026/08/11/onespan-ospn-q2-2026-earnings-call-transcript/",
-                "source": "The Motley Fool",
-                "date": "2026-08-12T00:28:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dow Jones Futures: 3 Nvidia Partners Lead Earnings Movers; CPI Inflation Data Due",
-                "desc": "Dow Jones futures: The major market indexes fell ahead of CPI inflation data. Nvidia partners Lumentum, CoreWeave, Super Micro reported late.",
-                "image": "https://www.investors.com/wp-content/uploads/2026/05/l8Ri6gOG.jpg",
-                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-nvidia-partners-super-micro-earnings/",
-                "source": "Investor's Business Daily",
-                "date": "2026-08-12T00:28:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Attempted copper theft triggers internet outage in Calgary",
-                "desc": "An attempted copper theft in Calgary left some communities without internet on Tuesday morning, according to a note from Rogers.",
-                "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2025/08/copper-theft-052124-gya-1_286295472.jpg",
-                "url": "https://calgaryherald.com/news/local-news/attempted-copper-theft-internet-outage-rogers-customers-calgary",
-                "source": "Calgary Herald",
-                "date": "2026-08-12T00:27:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seoul shares open higher despite US losses amid Middle East pessimism",
-                "desc": "Korean shares opened higher Wednesday, led by gains in major technology stocks, despite overnight losses on Wall Street as optimism over a potentia...",
-                "image": "https://newsimg.koreatimes.co.kr/2026/08/12/ee5aa4cb-8846-499d-80da-01290c725939.jpg",
-                "url": "https://www.koreatimes.co.kr/economy/20260812/seoul-shares-open-higher-despite-us-losses-amid-middle-east-pessimism",
-                "source": "koreatimes.co.kr",
-                "date": "2026-08-12T00:20:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-                "desc": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg",
-                "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-                "source": "Ars Technica",
-                "date": "2026-08-12T00:08:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Healthpeak Properties (DOC) Q2 2026 Earnings Call Transcript",
-                "desc": "Occupancy gains in lab and outpatient medical segments drive raised full-year guidance.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/earnings/call-transcripts/2026/08/11/healthpeak-properties-doc-q2-2026-earnings-call-transcript/",
-                "source": "The Motley Fool",
-                "date": "2026-08-12T00:07:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Compass (COMP) Q2 2026 Earnings Call Transcript",
-                "desc": "Record EBITDA and synergy realization drive strong results as AI adoption accelerates.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/earnings/call-transcripts/2026/08/11/compass-comp-q2-2026-earnings-call-transcript/",
-                "source": "The Motley Fool",
-                "date": "2026-08-12T00:07:38Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Mobile app marketers now have a choice in how they measure TV",
+                "desc": "There's TV your measurement dashboard simply can't see; for most app marketers, that dashboard is AppsFlyer. The mobile measurement and attribution",
+                "image": "https://www.businessofapps.com/wp-content/uploads/2026/08/appsflyer__business_of_apps_1.png",
+                "url": "https://www.businessofapps.com/news/mobile-app-marketers-now-have-a-choice-in-how-they-measure-tv/",
+                "source": "Business of Apps",
+                "date": "2026-08-12T08:52:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RTX 4090 Owner Tries His Hand At “Rage-Baiting,” Says DLSS “Looks Blurry” While Claiming The RX 9070 XT Is The Superior Option When Enabling Path Tracing",
+                "desc": "An RTX 4090 owner claims DLSS is blurry and argues the RX 9070 XT beats NVIDIA in path tracing; is it genuine criticism or classic tech rage-baiting?",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/RTX-4090-and-RX-9070-XT.jpg",
+                "url": "https://wccftech.com/rtx-4090-owner-dlss-blurry-rx-9070-xt-path-tracing-claim/",
+                "source": "Wccftech",
+                "date": "2026-08-12T08:51:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why CX and Fan Engagement are Finally Converging",
+                "desc": "Fan engagement is undergoing a pivotal shift. In a year when billions of fans are glued to the biggest football stages on earth, too many brands are still treating them as anonymous audiences instead of active participants in the action.",
+                "image": "https://techeconomy.ng/media-proxy/uploads/filip-filkovic-infobip-why-cx-and-fan-engagement-are-finally-converging.jpg",
+                "url": "https://techeconomy.ng/one-fan-one-customer-one-relationship-why-cx-and-fan-engagement-are-finally-converging",
+                "source": "Techeconomy",
+                "date": "2026-08-12T08:50:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fleet Hunters launches September 1 on Steam",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Fleet-Hunters-launches-September-1-on-Steam",
+                "source": "gamespress.com",
+                "date": "2026-08-12T08:50:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Halo: Campaign Evolved struggles to sell in anywhere near the quantities the recent Black Ops revivals did, and the probable reason? Lack of multiplayer",
+                "desc": "Halo: Campaign Evolved has not made the splash most expected it to.",
+                "image": "https://assetsio.gnwcdn.com/halo-campaign-evolved-avery-johnson-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/halo-campaign-evolved-launch-sales-numbers",
+                "source": "Eurogamer.net",
+                "date": "2026-08-12T08:50:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Intel \"Razor Lake-AX\" Preliminary Support Lands in HWiNFO",
+                "desc": "Intel's \"Razor Lake-AX\" SoCs are getting closer to being released, as we have received further confirmation that Intel is actively working on these chips for the public. In the latest HWiNFO update, the tool's creators announced preliminary support for Intel's \"Razor Lake-AX\" chip, with full...",
+                "image": "https://www.techpowerup.com/img/MZaun34qd3ihCzHj.jpg",
+                "url": "https://www.techpowerup.com/351540/intel-razor-lake-ax-preliminary-support-lands-in-hwinfo",
+                "source": "TechPowerUp",
+                "date": "2026-08-12T08:48:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HJC unveils limited-edition RPHA 1 V2 Funky Diablo helmet",
+                "desc": "HJC has introduced a new limited-edition version of its flagship RPHA 1 V2 Carbon racing helmet. Called the RPHA 1 V2 Carbon Funky Diablo.",
+                "image": "https://www.brm.co.nz/wp-content/uploads/2026/08/gng_1257696_hires.webp",
+                "url": "https://www.brm.co.nz/hjc-unveils-limited-edition-rpha-1-v2-funky-diablo-helmet/",
+                "source": "Bike Rider Magazine",
+                "date": "2026-08-12T08:47:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HWiNFO prepares preliminary support for Razor Lake",
+                "desc": "Intel Razor Lake-AX has appeared in HWiNFO's upcoming changes list. Previous reports linked the platform to a large BGA4326 package and 16 or 32 Xe3 graphics cores.",
+                "image": "https://cdn.videocardz.com/1/2026/04/INTEL-RAZOR-LAKE-HERO.jpg",
+                "url": "https://videocardz.com/newz/hwinfo-prepares-preliminary-support-for-razor-lake-ax-intels-rumored-big-apu",
+                "source": "VideoCardz.com",
+                "date": "2026-08-12T08:45:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Infinity: HexaDome Tactics Enters Final Pre-Release Playtest",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Infinity-HexaDome-Tactics-Enters-Final-Pre-Release-Playtest",
+                "source": "Games Press",
+                "date": "2026-08-12T08:45:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is Take Two Interactive Software (TTWO) Fully Valued On GTA VI Pre Order Optimism?",
+                "desc": "Take-Two Interactive Software (TTWO) is back in focus after first quarter results topped expectations and management highlighted very strong Grand Theft Auto VI pre orders, even as guidance and an impairment charge pointed to a cautious near term outlook.\nSee our latest analysis for Take-Two Interactive Software.\nAt a latest share price of $250.50, Take-Two Interactive’s recent 6% move around the results fits into a 90 day share price return of 10.36%, while the 3 year total shareholder...",
+                "image": "https://images.simplywall.st/asset/industry/8043000-choice2-main-header/1585186922048",
+                "url": "https://simplywall.st/stocks/us/media/nasdaq-ttwo/take-two-interactive-software/news/is-take-two-interactive-software-ttwo-fully-valued-on-gta-vi",
+                "source": "simplywall.st",
+                "date": "2026-08-12T08:44:23Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Browser cookies become new target for cybercriminals",
                 "desc": "Stolen browser data could allow criminals to access services such as Netflix, YouTube and Reddit.",
@@ -1174,99 +1264,99 @@
                 "source": "SecurityBrief Asia",
                 "date": "2026-08-12T01:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Save 50% Off the Ecoflow River 3 Plus Power Station With Detachable Power Bank, Now Just $139",
-                "desc": "This is a Costco exclusive product that typically retails for $280.",
-                "image": "https://sm.ign.com/t/ign_pk/deal/s/save-50-of/save-50-off-the-ecoflow-river-3-plus-power-station-with-deta_yqkj.1200.jpg",
-                "url": "https://pk.ign.com/ecoflow-power-station-series/259051/save-50-off-the-ecoflow-river-3-plus-power-station-with-detachable-power-bank-now-just-139",
-                "source": "IGN Pakistan",
-                "date": "2026-08-12T00:27:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alleged iPhone Ultra screen protector surfaces online",
-                "desc": "The foldable iPhone is expected to launch this September. Apple's first foldable iPhone is expected to debut this September with a design similar to the...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-ultra-screen-protector-leak/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/alleged_iphone_ultra_screen_protector_surfaces_online-news-74117.php",
-                "source": "GSMArena.com",
-                "date": "2026-08-12T00:27:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Cloud launches device platform for app testing",
-                "desc": "The pay-per-minute service could cut testing costs for teams that need to check apps across many handset types and screen sizes.",
-                "image": "https://itbrief.com.au/uploads/story/2026/08/12/compatible_neutral-device-testing-cloud-office-digital-illustration-story-315583.jpg",
-                "url": "https://itbrief.com.au/story/google-cloud-launches-device-platform-for-app-testing",
-                "source": "IT Brief Australia",
-                "date": "2026-08-12T00:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's All The Aussie Prices For The Wolverine PS5 Console & Accessories And When Pre-Orders Go Live",
-                "desc": "Here's All The Aussie Prices For The Wolverine PS5 Console & Accessories And When Pre-Orders Go Live",
-                "image": "https://press-start.com.au/wp-content/uploads/2026/08/Wolverine-Australia.jpg",
-                "url": "https://press-start.com.au/news/playstation/2026/08/12/heres-all-the-aussie-prices-for-the-wolverine-ps5-console-accessories-and-when-pre-orders-go-live/",
-                "source": "Press Start Australia",
-                "date": "2026-08-12T00:24:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cambium Networks Launches MarketApps Hub for AI-Era Network Applications",
-                "desc": "Cambium Networks Launches MarketApps Hub for AI-Era Network Applications",
-                "image": "https://www.thefastmode.com/media/k2/items/src/8891e4367017d946a79560d9a7a6fded.jpg?t=20260812_000657",
-                "url": "https://www.thefastmode.com/technology-solutions/50143-cambium-networks-launches-marketapps-hub-for-ai-era-network-applications",
-                "source": "thefastmode.com",
-                "date": "2026-08-12T00:19:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vrriis Tech DJI Osmo Pocket 4P Wireless Video Transmission System",
-                "desc": "Vrriis Tech has come up with a wireless video transmission system that works with the DJI Osmo Pocket 3/4/4P, Pocket Action, and Insta360 Ace.",
-                "image": "https://www.newsshooter.com/wp-content/uploads/2026/08/DJI-TX-740x416.jpg",
-                "url": "https://www.newsshooter.com/2026/08/11/vrriis-tech-dji-osmo-pocket-4p-wireless-video-transmission-system/",
-                "source": "newsshooter.com",
-                "date": "2026-08-12T00:18:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SimBuster Launches Mobile Telecom Platform with App-Based IVR and AI Receptionist",
-                "desc": "SimBuster Launches Mobile Telecom Platform with App-Based IVR and AI Receptionist",
-                "image": "https://www.thefastmode.com/media/k2/items/src/71ec72d940e266591f5fd82f1b562d59.jpg?t=20260812_003206",
-                "url": "https://www.thefastmode.com/technology-solutions/50148-simbuster-launches-mobile-telecom-platform-with-app-based-ivr-and-ai-receptionist",
-                "source": "The Fast Mode",
-                "date": "2026-08-12T00:18:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zeekr Celebrates Two Years In Singapore With A Showcase At Jewel",
-                "desc": "It’s marking its second year here with six months of cars, test drives and interactive activities at Jewel Changi Airport.",
-                "image": "https://cdn.sanity.io/images/otg9j4oh/production-v3/158026cc605d0c6b62667c2d8e9f7e542c537ecc-1816x1208.png?w=1200&fm=jpg",
-                "url": "https://www.oneshift.com/articles/news/zeekr-celebrates-two-years-in-singapore-with-a-showcase-at-jewel/",
-                "source": "OneShift by Carousell",
-                "date": "2026-08-12T00:17:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PUMA Puts A Southeast Asian Spin On Ferrari And McLaren F1 Jerseys",
-                "desc": "Inspired by everything from Peranakan tiles to traditional batik, these new jerseys are made for the region.",
-                "image": "https://cdn.sanity.io/images/otg9j4oh/production-v3/4e35ca39b2f775756158973963520e274b5b5e12-1306x938.png?w=1200&fm=jpg",
-                "url": "https://www.oneshift.com/articles/news/puma-puts-a-southeast-asian-spin-on-ferrari-and-mclaren-f1-jerseys/",
-                "source": "OneShift by Carousell",
-                "date": "2026-08-12T00:17:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Brilliant’ Shark cleaning gadget for removing stubborn stains and marks from carpets and upholstery over $190 off",
-                "desc": "‘This Shark StainStriker has exceeded my expectations.’",
-                "image": "https://images.7news.com.au/publication/C-22710537/a04ac863875752d3fbc07f85f291da375cc8ddb0-16x9-x0y0w1280h720.png?imwidth=1200",
-                "url": "https://7news.com.au/7you/home/brilliant-shark-cleaning-gadget-for-removing-stubborn-stains-and-marks-from-carpets-and-upholstery-over-190-off-c-22710537",
-                "source": "7NEWS",
-                "date": "2026-08-12T00:17:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Lost village revealed as drought lowers Rutland Water reservoir levels",
+                "desc": "Low levels uncover the remains of the buildings, which were once part of the village of Nether Hambleton.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8e7b/live/d0d595c0-9629-11f1-adec-3f90c109009f.jpg",
+                "url": "https://www.bbc.com/news/articles/c79g41ejndqo",
+                "source": "BBC",
+                "date": "2026-08-12T08:53:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AIIB commits $500 million to South Africa’s metro services as cities target water, power and climate resilience",
+                "desc": "South Africa has secured a $500 million sovereign-backed loan from the Asian Infrastructure Investment Bank (AIIB) to strengthen water, electricity,",
+                "image": "https://africasustainabilitymatters.com/wp-content/uploads/2026/08/images-58.jpg",
+                "url": "https://africasustainabilitymatters.com/aiib-commits-500-million-to-south-africas-metro-services-as-cities-target-water-power-and-climate-resilience/",
+                "source": "Africa Sustainability Matters",
+                "date": "2026-08-12T08:53:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Africa’s latest export product: Ireland drives off with our talent",
+                "desc": "Export products get a new meaning as nearly 100 South African bus drivers head to Dublin to fill a growing skills shortage.",
+                "image": "https://www.sapeople.com/wp-content/uploads/2026/08/pexels-bus-1.jpg",
+                "url": "https://www.sapeople.com/eish-south-african-stuff/south-africas-latest-export-product-ireland-drives-off-with-our-talent/",
+                "source": "SAPeople",
+                "date": "2026-08-12T08:53:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Limpopo Boy alleged leak: Husband of lady identified in alleged video takes drastic action",
+                "desc": "Limpopo Boy’s alleged video leak has taken another turn as Matshidiso Matilda’s husband reportedly deactivates his social media accounts amid the controversy.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/953d97ca4311e946.jpeg?v=1",
+                "url": "https://yen.com.gh/entertainment/celebrities/309750-limpopo-boy-alleged-leak-husband-lady-identified-alleged-video-takes-drastic-action/",
+                "source": "Yen News",
+                "date": "2026-08-12T08:52:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Build and Thrive Grant for Community Infrastructure (Australia)",
+                "desc": "Deadline: 06-Sep-2026 The Build and Thrive Grant provides up to $85,500 over three years to eligible not-for-profit organisations in Redland City, Queensland, for large-scale or multiyear projects that improve community infrastructure. The grant supports capital works, facility upgrades, accessibility improvements, sustainability measures, renovations, and other build-ready projects that create lasting benefits for local communities. Build",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/construction/build-and-thrive-grant-for-community-infrastructure-australia/",
+                "source": "fundsforNGOs",
+                "date": "2026-08-12T08:52:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wisconsin race tight: Key takeaways from US primary election results",
+                "desc": "Trump-backed candidates both win and lose: Results from Wisconsin, Minnesota, South Carolina and Alabama.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7c1a599ac2-1786518105.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/12/wisconsin-race-tight-key-takeaways-from-us-primary-election-results",
+                "source": "Al Jazeera",
+                "date": "2026-08-12T08:52:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fifty police chiefs call for PM to prevent early release of PC Harper's killers",
+                "desc": "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg",
+                "url": "https://www.bbc.com/news/articles/cwyrkz9ryr5o",
+                "source": "BBC",
+                "date": "2026-08-12T08:52:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Busy month for South African fresh produce relations to China",
+                "desc": "First steps in setting up long-term trade agreements to consolidate the latest access agreement",
+                "image": "https://d3fwccq2bzlel7.cloudfront.net/Pictures/1024x536/6/8/4/148684_southafricafirststoneftuitshipmentstochina_625878.jpg",
+                "url": "https://www.fruitnet.com/asiafruit/busy-month-for-south-african-fresh-produce-relations-to-china/272380.article",
+                "source": "Fruitnet",
+                "date": "2026-08-12T08:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Happy Indian labourers say '$52,400 diamond' find in Panna to change life",
+                "desc": "The seven men found a 17.96-carat gem-quality diamond in central India's Panna.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/26e6/live/6f958380-9622-11f1-b2ab-0dd01740f9f6.jpg",
+                "url": "https://www.bbc.com/news/articles/cwyr2595dr0o",
+                "source": "BBC",
+                "date": "2026-08-12T08:47:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Madhya Pradesh: Happy Indian labourers say '$52,400 diamond' find in Panna to change life",
+                "desc": "The seven men found a 17.96-carat gem-quality diamond in central India's Panna.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e6/live/6f958380-9622-11f1-b2ab-0dd01740f9f6.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cwyr2595dr0o",
+                "source": "BBC",
+                "date": "2026-08-12T08:47:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "TELF AG on Namibia’s Infrastructure Potential for Critical Mineral Supply Chains",
                 "desc": "TELF AG on Namibia's potential",
@@ -1806,98 +1896,8 @@
                 "source": "Times of Eswatini",
                 "date": "2026-08-12T01:54:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "When rain becomes an economic risk: Why ASEAN must rebuild for a climate that won’t wait",
-                "desc": "The region's vulnerability stems from outdated infrastructure and urban planning designed for a climate that no longer exists, coupled with fragmented governance where dozens of agencies fail to coordinate.",
-                "image": "https://asianews.network/wp-content/uploads/2026/08/AFP__20251122__84TJ3KE__v2__MidRes__TopshotVietnamWeatherEnvironmentFlood.jpg",
-                "url": "https://asianews.network/when-rain-becomes-an-economic-risk-why-asean-must-rebuild-for-a-climate-that-wont-wait/",
-                "source": "Asia News Network",
-                "date": "2026-08-12T00:32:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Polio Can Return in 10 Years If Vaccination Stops",
-                "desc": "Rotary President Yinka Babalola warns polio could return in a decade if vaccination efforts cease. Learn about Rotary's fight against polio and global heal",
-                "image": "https://punchng.com/wp-content/uploads/2026/08/Rotary-International-President-Yinka-Babalola_1786494221.webp",
-                "url": "https://punchng.com/polio-can-return-in-10-years-if-vaccination-stops-rotary-president-babalola/",
-                "source": "Punch Newspapers",
-                "date": "2026-08-12T00:32:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
-                "desc": "The prime minister tells the Guardian that last year’s diplomatic rift with ally New Zealand could be on voters’ minds as they head to the polls",
-                "image": "https://i.guim.co.uk/img/media/5ddd1921ced4c1db389588ed807f2b882e7e02f4/512_0_5120_4096/master/5120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb62006f7638815b99d93b799fde1f7e",
-                "url": "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister",
-                "source": "The Guardian",
-                "date": "2026-08-12T00:25:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia politics live: Wilkie says Labor ‘improperly influenced’ by gambling lobby; Hanson claims major parties following her lead on migration",
-                "desc": "Follow live",
-                "image": "https://i.guim.co.uk/img/media/64dfe44b3a9f6cdaf467fa3873f18a40c2f3c50a/194_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2cc152846e94f38912f6a7dae09b1202",
-                "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
-                "source": "The Guardian",
-                "date": "2026-08-12T00:24:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Finding STEM beyond the classroom",
-                "desc": "A bus carrying Cambodian educators wound its way through the karst mountains of Guizhou.",
-                "image": "https://www.chinadaily.com.cn/image_e/2020/timg.jpg",
-                "url": "https://www.chinadaily.com.cn/a/202608/12/WS6a7bbb5da310986e2b46a390.html",
-                "source": "China Daily",
-                "date": "2026-08-12T00:16:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump's secret plane swap highlights personal stakes of Iran war",
-                "desc": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ca5a/live/b1c8cd30-95cc-11f1-a7ab-8b30adf0800a.jpg",
-                "url": "https://www.bbc.com/news/articles/cly8jexn1z9o",
-                "source": "BBC",
-                "date": "2026-08-12T00:14:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pope Leo XIV Chooses Theme on AI And War For World Day of Peace 2027",
-                "desc": "The 60th World Day of Peace will take place on Jan. 1, 2027.",
-                "image": "https://www.aciafrica.org/images/popeleowavesgenaud041026_bdjhh9.jpg?w=1200&format=jpeg",
-                "url": "https://www.aciafrica.org/news/23465/pope-leo-xiv-chooses-theme-on-ai-and-war-for-world-day-of-peace-2027",
-                "source": "ACI Africa",
-                "date": "2026-08-12T00:10:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "North Korea launches a ballistic missile toward the sea, South Korea says",
-                "desc": "The latest launch came two days after South Korea and the U.S. announced they will kick off their annual large-scale military drills next week to beef up readiness against North Korean threats.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260811-north-korea-vsb-1955-401497.jpg",
-                "url": "https://www.nbcnews.com/world/north-korea/north-korea-launches-ballistic-missile-sea-south-korea-says-rcna592037",
-                "source": "NBC News",
-                "date": "2026-08-12T00:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
-                "desc": "Trump covertly escorted off Air Force One to another plane • Iranian official says US blockade worse than war • Israeli officials say LAF not doing enough on the ground",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733329",
-                "url": "https://www.jpost.com/middle-east/iran-news/2026-08-12/live-updates-905257",
-                "source": "The Jerusalem Post",
-                "date": "2026-08-12T00:00:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
-                "desc": "Hormuz must open, German FM tells Araghchi • IAEA to remove nuclear material from Syria after deal with US, Israel reached • Kurds demonstrate in Syrian cities",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733525",
-                "url": "https://www.jpost.com/middle-east/iran-news/2026-08-11/live-updates-905132",
-                "source": "The Jerusalem Post",
-                "date": "2026-08-12T00:00:05Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-12T19:50:16.768241Z"
+    "lastGlobalSync": "2026-08-12T20:54:33.764998Z"
 }
