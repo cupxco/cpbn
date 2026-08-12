@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Evaluating waste based retrofit strategies for thermal performance improvement in North Sinai social housing",
+                "desc": "This study investigates thermal retrofitting strategies for single-family social housing in North Sinai, Egypt, with potential relevance to national decarbonization objectives. The research evaluates the thermal performance of locally sourced by-product materials, including barley straw (BS) and date palm (DP) waste, incorporated into compressed earth masonry and prefabricated cladding systems. These waste-based alternatives are benchmarked against the Egyptian residential building energy efficiency (RBEE) code and conventional synthetic insulation. Dynamic thermal simulations were conducted for the hot-humid climate of Bir El-Abd under both natural ventilation (NV) and mixed-mode ventilation (MMV) conditions. Simulation results indicate that the proposed interventions improved thermal performance relative to the baseline model. Under NV, the 15 cm BS masonry reduced annual discomfort hours by 23.7%, achieving approximately 89% of the discomfort reduction observed in the 60 cm theoretical variant. Under MMV, this configuration reduced annual cooling electricity use by 27.9%, with operational CO2 emissions decreasing to approximately 939.3 kg. Compared with the 15 cm BS masonry, the 6 cm DPM panel achieved a 21.9% reduction in discomfort hours and a 28.8% reduction in annual total heating and cooling electricity use for the South orientation. While BS masonry demonstrated higher thermal performance, the DPM cladding may offer a lower-profile alternative with reduced spatial impact. These results suggest that localized biocomposites may offer a potential pathway for reducing energy use and operational emissions in similar residential retrofit contexts.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-64729-9?error=cookies_not_supported&code=d10a7424-8369-4464-9187-8f00ea565910",
+                "source": "Nature",
+                "date": "2026-08-12T07:46:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Adaptive generalized regressive deep convolutional reinforcement learning for crop yield prediction in smart precision farming",
+                "desc": "Accurate crop yield assessment is essential for improving agricultural productivity and resource management. However, yield prediction is challenging due to multiple influencing factors such as soil properties, weather conditions, crop practices, pests, and diseases. While deep learning techniques have improved prediction capabilities, achieving high accuracy with low error and reduced computation time remains a key concern for large-scale datasets. To address this, an Adaptive Generalized Regressive Deep Convolutional Reinforcement Learning (AGR-DCRL) model is proposed to enhance prediction accuracy for smart farming. The model consists of input, convolution, pooling and dense layers. Data is first collected in data harvesting using IoT technologies that monitor weather, soil conditions, and pesticide usage. During data augmentation, Adaptive proximity sampling process is utilized in input layer to create new data samples. In the convolution layer, preprocessing is performed by using weighted local similarity-based imputation and Generalized Tietjen–Moore test. The missing values are handled and outlier’s are detected. Feature selection is applied in pooling layer using Camargo’s adaptive diversity index to select the most relevant features and remove irrelevant features for reducing the dimensionality. Crop yield prediction is performed at dense layer for analyzing both extracted features and data samples via polytomous logistic regression. The output layer employs a softmax activation function to create multi-class prediction results. Then, the error rate is measured with each prediction outcome and rewards. The Q-values are iteratively updated based on rewards until the model converges. Lastly, the accurate crop yield prediction is obtained with higher accuracy and lesser error. Experimental assessment of the proposed technique is implanted in Python using Smart Farming Sensor Data for Yield Prediction dataset with several metrics. Experimental results demonstrate that the AGR-DCRL model achieves higher accuracy by 4%, lesser error rates by 69%, and faster prediction time by 20% compared to conventional deep learning approaches.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-66501-5?error=cookies_not_supported&code=b58bd934-9321-47f9-9373-ef723bb504e3",
+                "source": "Nature",
+                "date": "2026-08-12T07:46:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Structure Tone revenue almost triples to record £449m",
+                "desc": "London fit-out boom swells order book to £1.3bn",
+                "image": "https://www.constructionenquirer.com/wp-content/uploads/Screenshot-2026-08-12-at-10.04.39-1200x828.png",
+                "url": "https://www.constructionenquirer.com/2026/08/12/structure-tone-revenue-almost-triples-to-record-449m/",
+                "source": "Construction Enquirer",
+                "date": "2026-08-12T07:45:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vietnam aims to train 10,000 AI professionals before 2030",
+                "desc": "Program aims to develop workforce in AI, strengthen national technological self-reliance | Anadolu",
+                "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_b4912f367df9b06cc385e0c244bf0a6c.jpg",
+                "url": "https://www.aa.com.tr/en/asia-pacific/vietnam-aims-to-train-10-000-ai-professionals-before-2030/4024814",
+                "source": "Anadolu Ajansı",
+                "date": "2026-08-12T07:45:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Korea Army seeks to automate field maintenance as staff shrinks",
+                "desc": "South Korea’s Army is looking to automate more of its field maintenance and logistics operations using artificial intelligence, robotics and autonomous systems.",
+                "image": "https://globalnation.inquirer.net/files/2026/08/Automated-robotic-arms-in-orange-sort-supplies-at-a-logistics-center-during-an-Army-logistics-policy-briefing-held-at-the-Army-General-Supply-Depot-in-Sejong-on-Friday.-Republic-of-Korea-Army.jpg",
+                "url": "https://globalnation.inquirer.net/334515/s-korea-army-seeks-to-automate-field-maintenance-as-staff-shrinks",
+                "source": "Inquirer.net",
+                "date": "2026-08-12T07:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Govt likely to launch OFS in Hindustan Zinc, Hindustan Copper, Mazagon Dock, IRCTC in FY27",
+                "desc": "Hindustan Zinc's likely OFS of around 1.5 per cent, is smaller in percentage terms than the others, but the company's large market capitalisation means the transaction would still be sizeable in value.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2025/09/20250925090704_Hindustan-Zinc.jpg",
+                "url": "https://www.moneycontrol.com/news/business/economy/govt-likely-to-launch-ofs-in-hindustan-zinc-hindustan-copper-mdl-irctc-in-fy27-14002963.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-08-12T07:44:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia’s show of financial force soothes credit markets",
+                "desc": "Six of the biggest names in finance are helping Nvidia Corp ease some of the investor anxiety that’s been building for weeks over its swelling commitments to backstop the artificial intelligence (AI) boom.The early signs came after Nvidia CEO Jensen Huang (黃仁勳) announced on Monday that the coalition",
+                "image": "https://img.taipeitimes.com/images/2026/08/12/nvidia (3).jpg",
+                "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/12/2003862377",
+                "source": "Taipei Times",
+                "date": "2026-08-12T07:44:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New MG Electric SUV Based On ADAPT Platform Teased - Hector Hawk EV?",
+                "desc": "JSW MG Motor has released the first official teaser of its upcoming SUV, confirming that the first vehicle based on its new ADAPT platform will be an all-electric model",
+                "image": "https://www.rushlane.com/wp-content/uploads/2026/08/MG-Hector-Hawk-Electric-SUV-ADAPT-platform-teaser-new.jpg",
+                "url": "https://www.rushlane.com/new-mg-electric-suv-based-on-adapt-platform-teased-hector-hawk-ev-12553081.html",
+                "source": "RushLane",
+                "date": "2026-08-12T07:39:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta meets its own 'tobacco' moment in court",
+                "desc": "With billions of users around the world, Meta will defend itself against allegations of harming children in a new trial in the United States this week, which experts describe as social media's Big Tobacco moment.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/with-billions-of-users.jpg",
+                "url": "https://techxplore.com/news/2026-08-meta-tobacco-moment-court.html",
+                "source": "Tech Xplore",
+                "date": "2026-08-12T07:38:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Four heirs of Indonesia’s richest family inherit US$3 bil each",
+                "desc": "The children of Michael Bambang Hartono received shares worth at least US$2.93 billion (RM11.98 billion) in the family’s holding company, marking one of Asia’s biggest wealth transfers in recent years.",
+                "image": "https://assets.theedgemarkets.com/Michael_Bambang_Hartono_20260812153514_Bloomberg.jpg",
+                "url": "https://theedgemalaysia.com/node/814227",
+                "source": "The Edge Malaysia",
+                "date": "2026-08-12T07:38:36Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Safety, tolerability, and gastrointestinal effect of a Bifidobacterium-based synergistic synbiotic in infants and toddlers",
                 "desc": "Bifidobacterium are critical components of the infant gut microbiome, yet most infants in developed countries are deficient. The ARTEMIS trial is the first clinical study in the United States to evaluate a synergistic synbiotic supplement in infants. It enrolled 114 participants in a randomized, double-blind, placebo-controlled study conducted to evaluate the safety, tolerability, and gastrointestinal colonization of the supplement in infants (n = 58) and toddlers (n = 56). The synbiotic contains four proprietary strains of Bifidobacterium, four complementary human milk oligosaccharides and vitamin D. Safety and tolerability were assessed, with no statistically significant differences in adverse events or gastrointestinal symptom burden relative to placebo. The administered Bifidobacterium strains were significantly more prevalent and abundant in the synbiotic group. After four weeks of dosing, at least one administered strain was detected in 72% of infants (2–12 months) and 67% of toddlers (12–24 months). Synbiotic supplementation was associated with a significant increase in Bifidobacterium infantis abundance at the species level and human milk oligosaccharide utilization genes. Strains persisted through the two-week washout period, supporting intestinal colonization beyond active supplementation unlike other transient probiotics like Lactobacillus. This synbiotic was safe, well tolerated, and achieved sustained Bifidobacterium colonization in infants and toddlers.",
                 "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41390-026-05318-4/MediaObjects/41390_2026_5318_Fig1_HTML.png",
@@ -542,99 +632,99 @@
                 "source": "The Motley Fool",
                 "date": "2026-08-12T00:07:38Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Why firms are struggling to set prices",
-                "desc": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg",
-                "url": "https://www.bbc.com/news/articles/c872r52x7jgo",
-                "source": "BBC",
-                "date": "2026-08-11T23:03:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Electrochemical discharge etching of porous tungsten emitters for field emission electric propulsion applications",
-                "desc": "Field Emission Electric Propulsion (FEEP) systems offer high specific impulse and precise low thrust capability, making them suitable for micro propulsion applications. Porous tungsten is a promising material option for field emission emitters, offering advantages such as the formation of sharp tips and pore structures that enhance propellant transport through capillary action. However, the fabrication of well-defined porous tips remains insufficiently understood in terms of the relationship between etching process parameters and resulting structures. In this study, a spark-assisted electrochemical discharge etching was applied to fabricate porous tungsten emitter needles tailored for FEEP applications. Key process parameters, including applied voltage, power supply type, electrolyte type, molar concentration, and initial porosity, were investigated to establish an electrochemical etching domain. Distinct etching regimes associated with different morphological outcomes were identified, and the process window for forming viable porous emitter tips was found to be significantly constrained, with failure modes such as tip collapse, loss of porosity, and surface sealing observed outside this range. Under certain conditions, EDS analysis further revealed the formation of a multicomponent crust layer enriched in oxygen and potassium, which suppressed porosity preservation and influenced the resulting tip morphology. The fabricated emitter was integrated into a FEEP propulsion module, and preliminary field emission experiments conducted under vacuum conditions demonstrated emission feasibility.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-53868-8/MediaObjects/41598_2026_53868_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41598-026-53868-8?error=cookies_not_supported&code=cd474a36-4f14-4397-b228-db5af93ae433",
-                "source": "nature.com",
-                "date": "2026-08-11T23:03:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gamuda named among world’s most sustainable firms",
-                "desc": "Gamuda Bhd has been recognised for its sustainability leadership with two significant achievements – inclusion in TIME and Statista's World's Most Sustainable Companies 2026 list and advancement to the highest Bursa Malaysia FTSE4Good ESG Grading Band.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/12/4055183.jpeg",
-                "url": "https://www.thestar.com.my/business/business-news/2026/08/12/gamuda-named-among-worlds-most-sustainable-firms",
-                "source": "The Star",
-                "date": "2026-08-11T23:03:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First wave of 'pounds for pylons' energy discount sites revealed",
-                "desc": "Households living within 1600ft of upgraded pylons will get £250 a year off their electricity bills.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cc1/live/a81a4a70-959f-11f1-870d-5d08c49babb2.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o",
-                "source": "BBC",
-                "date": "2026-08-11T23:03:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First wave of 'pounds for pylons' energy discount sites revealed",
-                "desc": "Households living within 1600ft of upgraded pylons will get £250 a year off their electricity bills.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9cc1/live/a81a4a70-959f-11f1-870d-5d08c49babb2.jpg",
-                "url": "https://www.bbc.com/news/articles/c8rn42jp7d6o",
-                "source": "BBC",
-                "date": "2026-08-11T23:03:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil climbs as Iran keeps Hormuz shut",
-                "desc": "Oil prices edged up to a one-week high on Tuesday as doubts about a potential US-Iran peace deal fuelled concerns that Middle East supply disruptions would persist.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/12/4055208.jpeg",
-                "url": "https://www.thestar.com.my/business/2026/08/12/oil-climbs-as-iran-keeps-hormuz-shut",
-                "source": "The Star",
-                "date": "2026-08-11T23:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Households near new pylons to get £250 taken off annual energy bills",
-                "desc": "Discounts confirmed near more than 40 locations across Great Britain amid biggest upgrade to electricity grid since 1960s",
-                "image": "https://i.guim.co.uk/img/media/ace526ace5ec6e4d0cf05b702c5bc5edd3de2581/201_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbb6aad3ddacd1325bda7ca0362d1e77",
-                "url": "https://www.theguardian.com/business/2026/aug/12/households-near-new-pylons-to-get-250-taken-off-annual-energy-bills",
-                "source": "The Guardian",
-                "date": "2026-08-11T23:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-                "desc": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2e9/live/85ef6870-9583-11f1-870d-5d08c49babb2.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo",
-                "source": "BBC",
-                "date": "2026-08-11T23:00:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-                "desc": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b2e9/live/85ef6870-9583-11f1-870d-5d08c49babb2.jpg",
-                "url": "https://www.bbc.com/news/articles/c4g360z8d2lo",
-                "source": "BBC",
-                "date": "2026-08-11T23:00:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Two-thirds of Sentosa Cove resales in the red, with average loss topping S$1 million since 2023",
-                "desc": "Analysts point to small niche buyer pool in soft market weakened by cooling measures targeted at foreigners Read more at The Business Times.",
-                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/f6b5c00b183d99601e28201739dcaef6527bd9e8b40e5c4ec887da07c2166d9d?w=1920&f=webp",
-                "url": "https://www.businesstimes.com.sg/property/two-thirds-sentosa-cove-resales-red-average-loss-topping-s1-million-2023",
-                "source": "businesstimes.com.sg",
-                "date": "2026-08-11T23:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Browser cookies become new target for cybercriminals",
+                "desc": "Stolen browser data could allow criminals to access services such as Netflix, YouTube and Reddit.",
+                "image": "https://media-cache.primedia-service.com/media/ytypfkco/data-breach-cyber-crime.jpg?width=1200&height=630",
+                "url": "https://www.ewn.co.za/browser-cookies-become-new-target-for-cybercriminals/",
+                "source": "ewn.co.za",
+                "date": "2026-08-12T07:45:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Breaking: Galaxy S26 series gets fifth One UI 9 beta with August security patches",
+                "desc": "Samsung has released One UI 9 beta 5 for the Galaxy S26 series in Korea, India, and the UK, with August security patches.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra.jpg",
+                "url": "https://www.androidauthority.com/samsung-one-ui-9-beta-5-galaxy-s26-3697541/",
+                "source": "androidauthority.com",
+                "date": "2026-08-12T07:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Polaris Orders Bulkers Capable of Running on Ethanol and Methanol",
+                "desc": "Polaris plans to use ethanol as the primary marine fuel to power the bulkers.",
+                "image": "https://shipandbunker.cdn.speedyrails.net/a/img/_mt_61440f6f5d6119d0091731bf77ff7722.jpg",
+                "url": "https://shipandbunker.com/news/world/786917-polaris-orders-bulkers-capable-of-running-on-ethanol-and-methanol",
+                "source": "Ship & Bunker",
+                "date": "2026-08-12T07:38:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two Says GTA 6 Preorders Are Skewing Toward the $100 Premium Edition",
+                "desc": "Take-Two CEO Strauss Zelnick says GTA 6 preorders are skewing toward the $100 edition, and the company is unlikely to lower the price.",
+                "image": "https://www.ghacks.net/wp-content/uploads/2026/08/Andrew-Thumbnail-11-scaled.png",
+                "url": "https://www.ghacks.net/2026/08/12/take-two-says-gta-6-preorders-are-skewing-toward-the-100-premium-edition/",
+                "source": "gHacks",
+                "date": "2026-08-12T07:36:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Intel's Razor Lake-AX Surfaces In HWiNFO Support, Confirming Halo-Class SoC To Challenge AMD's Halo Around 2028",
+                "desc": "Intel's very own \"Halo\" SoCs are being prepped as next-generation Razor Lake-AX chips have received first support on HWiNFO.",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Intel-Razor-Lake-AX-SoC-1920x1075.jpg",
+                "url": "https://wccftech.com/intel-razor-lake-ax-socs-surfaces-in-hwinfo-support/",
+                "source": "Wccftech",
+                "date": "2026-08-12T07:35:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+                "desc": "SAP fixes CVE-2026-58231, a CVSS 10.0 Commerce Cloud flaw that could let unauthenticated attackers execute arbitrary code.",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s1700-e365/sap.jpg",
+                "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+                "source": "The Hacker News",
+                "date": "2026-08-12T07:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone 15 Price Drops to ₹51,299 on Flipkart: Massive Discount With Bank Offer Up for Grabs",
+                "desc": "Apple iPhone 15 is once again attracting buyers in India after its price reportedly dropped to around ₹51,299 on Flipkart with an eligible bank offer. The",
+                "image": "https://chshyd.in/wp-content/uploads/2026/08/iPhone-15-Price-Drops.jpg",
+                "url": "https://chshyd.in/tech/iphone-15-price-drops/",
+                "source": "chshyd.in",
+                "date": "2026-08-12T07:30:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fifth One UI 9 beta update is here for the Galaxy S26",
+                "desc": "Samsung has released the One UI 9.0 Beta 5 update for the Galaxy S26, Galaxy S26+, and the Galaxy S26 Ultra where the beta program is open.",
+                "image": "https://www.sammobile.com/wp-content/uploads/2026/05/007-product-galaxy-s26ultra-cobaltviolet-s26plus-cobaltviolet-s26-cobaltviolet-scaled.jpg",
+                "url": "https://www.sammobile.com/news/galaxy-s26-one-ui-9-beta-5-update-released/",
+                "source": "SamMobile",
+                "date": "2026-08-12T07:28:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Huawei HarmonyOS 6 installations about to hit 79 million mark",
+                "desc": "HarmonyOS 6 has continued its journey towards 100 million installations, and in the current scenario, the software version is about to hit 79",
+                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/HarmonyOS6.jpg",
+                "url": "https://www.huaweicentral.com/huawei-harmonyos-6-installations-about-to-hit-79-million-mark/",
+                "source": "Huawei Central",
+                "date": "2026-08-12T07:26:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "13 writers came under fire for Google's 2022 AI experiment • Межа",
+                "desc": "In 2022, Google invited 13 well-known writers to test an experimental AI tool for writing text. Four years later, their involvement caused a scandal in the literary community.",
+                "image": "https://img.mezha.ua/mezha/images/doc/d/f/321298/df1f6136e51eed5d7c7abe6c3dee7cf7.jpeg?w=1200&q=85&stamp=1786514779",
+                "url": "https://mezha.ua/en/news/13-pismennikiv-stali-mishennyu-kritiki-cherez-eksperiment-iz-shi-314099/",
+                "source": "Mezha",
+                "date": "2026-08-12T07:26:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Samsung and Reliance Digital take Galaxy AI to the streets with illuminated OOH campaign",
                 "desc": "The campaign is executed by Vibrant Advertising, with Sakshi Advertising serving as the production partner.",
@@ -1174,99 +1264,99 @@
                 "source": "7NEWS",
                 "date": "2026-08-12T00:17:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Suri Core 1.0 electric toothbrush review: this new budget model is still sustainable - and the one I’d buy",
-                "desc": "With wireless charging, a battery that lasts up to four weeks and recyclable heads, Suri’s latest eco-friendly model doesn’t lose much in the cost-saving process",
-                "image": "https://i.guim.co.uk/img/media/3835494a1e5c3253ff995e27c4dfcacb5df5bd71/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVrLnBuZw&enable=upscale&s=0feddb75830dbe263425c96e23b07dee",
-                "url": "https://www.theguardian.com/thefilter/2026/aug/12/suri-core-1-0-electric-toothbrush-review",
-                "source": "The Guardian",
-                "date": "2026-08-11T23:01:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Boss Reveals Brief Thoughts On Elder Scrolls 6 After Seeing A 'Live Playthrough'",
-                "desc": "And racks up millions of views in the process - Xbox boss Asha Sharma has been racking up a ton of attention on social media this evening after sharing that ...",
-                "image": "https://images.purexbox.com/5413008322209/large.jpg",
-                "url": "https://www.purexbox.com/news/2026/08/xbox-boss-reveals-brief-thoughts-on-elder-scrolls-6-after-seeing-a-live-playthrough",
-                "source": "Pure Xbox",
-                "date": "2026-08-11T23:00:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "4 can fix TV dialogue at the source – so why is it switched off?",
-                "desc": "Dolby AC-4 separates speech from the mix before it reaches your TV, and it has already shipped on Peacock – with the helpful part switched off.",
-                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/139947-tv-news-feature-what-is-dolby-vision-dolby-s-own-hdr-tv-tech-explained-image3-qgzpsvlxi7.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.pocket-lint.com/dolby-ac-4-tv-dialogue-fix/",
-                "source": "Pocket-lint",
-                "date": "2026-08-11T23:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "school season is the perfect time to buy one",
-                "desc": "If you're gearing up for the new school year, ePaper tablets are the oft-overlooked upgrade you really should be looking at.",
-                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/boox-go-tablet-with-notes.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.xda-developers.com/wish-had-e-ink-tablet-college-back-to-school-season-perfect-time-buy-one/",
-                "source": "XDA",
-                "date": "2026-08-11T23:00:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon Is Offering a Great Deal on a GeForce RTX 5070 Ti Gaming PC, and It Includes Two Upcoming AAA Games",
-                "desc": "The RTX 5070 Ti graphics card is powerful enough to run the latest games smoothly at 4K.",
-                "image": "https://assets-prd.ignimgs.com/2026/08/11/acerpredatororion-1786485689059.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/acer-predator-orion-rtx-5070-ti-gaming-pc-deal-intel-gamer-days-sale",
-                "source": "IGN",
-                "date": "2026-08-11T22:54:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Intel Gamer Days Sale Stacks Walmart's Best Gaming PC Deals With Two Free Upcoming PC Games",
-                "desc": "These aren't some no-name games, they'll otherwise cost $59.99 apiece at launch.",
-                "image": "https://assets-prd.ignimgs.com/2026/08/11/intelgamerdays-1786476822304.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/intel-gamer-days-sale-2026-best-walmart-gaming-pc-deals",
-                "source": "IGN",
-                "date": "2026-08-11T22:53:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung reportedly begins One UI 9.5 development for the Galaxy S26 series while users await stable One UI 9's release",
-                "desc": "The fifth One UI 9 beta update for the Galaxy S26 series will be released this week. Samsung released the first One UI 9 beta for the Galaxy S26 series in...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-s26-good-lock-quickstar-network-speed-indicator/-952x498w6/gsmarena_001.jpg",
-                "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_5_development_reportedly_begins-news-74109.php",
-                "source": "GSMArena.com",
-                "date": "2026-08-11T22:51:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘He’s Just Really Hideous’ - Friend’s Brutal Text After Meeting New Boyfriend Sparks Debate on Reddit",
-                "desc": "Someone introduced their best friend to their new partner, only to receive an unexpectedly harsh text afterward. After a great day of hanging out as a group, they received a text message that broke th...",
-                "image": "https://s.yimg.com/lo/mysterio/api/0e2c92d85221cb13ac408df080827fb545ef9c745055346d378c8e8d8b54ffcc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_dot_articles_819%2F380922e55181c296b08da756255f6f00.png",
-                "url": "https://www.yahoo.com/lifestyle/articles/just-really-hideous-friend-brutal-224329214.html",
-                "source": "Yahoo",
-                "date": "2026-08-11T22:43:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Crimson Desert dev comments on status of Nintendo Switch 2 port, targeting first half of 2027",
-                "desc": "Pearl Abyss has commented again on the Nintendo Switch 2 port of Crimson Desert, providing the most encouraging update we’ve had thus far. In its latest earnings letter, the company said that it’s now “currently playable at a foundational level, and technical evaluations are underway to ensure performance optimization and compliance with our quality standards.” The other piece of important...",
-                "image": "https://nintendoeverything.com/wp-content/uploads/Crimson-Desert-Sw-2-launch-timing.jpg",
-                "url": "https://nintendoeverything.com/crimson-desert-dev-comments-on-status-of-nintendo-switch-2-port-targeting-first-half-of-2027/",
-                "source": "Nintendo Everything",
-                "date": "2026-08-11T22:42:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This leaked Zelda Switch 2 could be Nintendo’s next collector hit",
-                "desc": "Leaked images reveal Nintendo's first special-edition Switch 2 and matching Pro Controller, bringing a gold-and-teal Zelda 40th anniversary design to collector-hungry fans.",
-                "image": "https://cdn.mos.cms.futurecdn.net/bFpNgKCDZXdgLSf53CChce-2048-80.jpg",
-                "url": "https://www.androidcentral.com/gaming/android-games/this-leaked-zelda-switch-2-could-be-nintendos-next-collector-hit",
-                "source": "Android Central",
-                "date": "2026-08-11T22:40:44Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "TELF AG on Namibia’s Infrastructure Potential for Critical Mineral Supply Chains",
+                "desc": "TELF AG on Namibia's potential",
+                "image": "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/tO4ygJvHc3RBLu38644HMR-FIn4.png",
+                "url": "https://vocal.media/trader/telf-ag-on-namibias-infrastructure-potential-for-critical-mineral-supply-chains",
+                "source": "Vocal",
+                "date": "2026-08-12T07:49:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South African Reserve Bank External Bursary Scheme",
+                "desc": "Deadline: 30-Sep-2026 The South African Reserve Bank (SARB) External Bursary Scheme provides full financial support to disadvantaged South African students pursuing undergraduate degrees relevant to the functions of the Reserve Bank. The bursary is designed to reduce financial barriers to university education while developing future professionals in fields such as economics, finance, and related disciplines.",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/accounts-and-finance/south-african-reserve-bank-external-bursary-scheme/",
+                "source": "fundsforNGOs",
+                "date": "2026-08-12T07:48:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s next economic era will heavily rely on its youth population",
+                "desc": "By Bonface ORUCHO",
+                "image": "https://www.financialfortunemedia.com/wp-content/uploads/2025/01/Is_music_the_new_language_of_activism_for_African_youth_copy-1024x688.jpg",
+                "url": "https://www.financialfortunemedia.com/africas-next-economic-era-will-heavily-rely-on-its-youth-population/",
+                "source": "Financial Fortune Media",
+                "date": "2026-08-12T07:48:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead of Winter",
+                "desc": "Super El Niño keeps strengthening as new forecasts push toward record levels, shaping Winter 2026/2027 patterns across the U.S. and Canada",
+                "image": "http://www.severe-weather.eu/wp-content/uploads/2026/08/weather-fall-winter-2026-2027-forecast-united-states-canada-jet-stream-pressure-system-anomaly-temperature-snowfall-record-super-el-nino-event-unfolding-growing-faster-august-update.png",
+                "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+                "source": "Severe Weather Europe",
+                "date": "2026-08-12T07:48:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Solar Eclipse 2026: What North America will see tonight, when to watch",
+                "desc": "Solar eclipse 2026: When is it, how to see it in North America",
+                "image": "https://helios-i.mashable.com/imagery/articles/07MEmxNkxkoRHEY6PLHKWFk/hero-image.fill.size_1200x675.v1786520495.jpg",
+                "url": "https://mashable.com/science/solar-eclipse-2026-tonight-what-time-how-to-watch",
+                "source": "Mashable",
+                "date": "2026-08-12T07:47:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somalia, Qatar Discuss Economic and Investment Ties",
+                "desc": "Talks in Mogadishu focus on economic cooperation, bilateral investment and development financing",
+                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZg4FPHTKWhFTdf1beOnELDumAyi5W0oBqzCGwZ",
+                "url": "https://www.dawan.africa/news/somalia-qatar-discuss-economic-and-investment-ties",
+                "source": "Dawan Africa",
+                "date": "2026-08-12T07:45:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elisabeth and Amelie Scholarship Fund for Sustainable Water Management (Belgium)",
+                "desc": "Deadline: 20-Oct-2026 The Elisabeth & Amélie Fund provides scholarships of up to €5,000 to students from the Global South enrolled in master's-level programmes at Belgian higher education institutions. The funding supports one- to two-month internships in Global South countries that contribute to sustainable water management and form part of a master's thesis or academic project.",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/individuals/elisabeth-and-amelie-scholarship-fund-for-sustainable-water-management-belgium/",
+                "source": "fundsforNGOs",
+                "date": "2026-08-12T07:45:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Korea Army seeks to automate field maintenance as staff shrinks",
+                "desc": "South Korea’s Army is looking to automate more of its field maintenance and logistics operations using artificial intelligence, robotics and autonomous systems.",
+                "image": "https://globalnation.inquirer.net/files/2026/08/Automated-robotic-arms-in-orange-sort-supplies-at-a-logistics-center-during-an-Army-logistics-policy-briefing-held-at-the-Army-General-Supply-Depot-in-Sejong-on-Friday.-Republic-of-Korea-Army.jpg",
+                "url": "https://globalnation.inquirer.net/334515/s-korea-army-seeks-to-automate-field-maintenance-as-staff-shrinks",
+                "source": "Inquirer.net",
+                "date": "2026-08-12T07:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Restoring Europe’s wetlands to combat climate change and boost economies",
+                "desc": "EU-funded researchers are exploring how restoring wetlands could benefit both carbon capture efforts, the climate and local economies",
+                "image": "https://www.innovationnewsnetwork.com/wp-content/uploads/2026/08/shutterstock_2497509035.jpg",
+                "url": "https://www.innovationnewsnetwork.com/restoring-europes-wetlands-to-combat-climate-change-and-boost-economies/72574/",
+                "source": "Innovation News Network",
+                "date": "2026-08-12T07:41:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Four heirs of Indonesia’s richest family inherit US$3 bil each",
+                "desc": "The children of Michael Bambang Hartono received shares worth at least US$2.93 billion (RM11.98 billion) in the family’s holding company, marking one of Asia’s biggest wealth transfers in recent years.",
+                "image": "https://assets.theedgemarkets.com/Michael_Bambang_Hartono_20260812153514_Bloomberg.jpg",
+                "url": "https://theedgemalaysia.com/node/814227",
+                "source": "The Edge Malaysia",
+                "date": "2026-08-12T07:38:36Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "2027 Local Area Community Capital Infrastructure Grants (Australia)",
                 "desc": "Deadline: 04-Jun-2027 The Local Area Community Capital Infrastructure Grants provide up to $50,000 for eligible organisations delivering projects that improve community infrastructure, facilities, and natural environments within the Mornington Peninsula Shire. Priority is given to infrastructure renewal, natural environment improvements, and capital works aligned with Council Masterplans, with applicants encouraged to contribute financially to their",
@@ -1806,98 +1896,8 @@
                 "source": "The Jerusalem Post",
                 "date": "2026-08-12T00:00:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Back pain or kidney stones? When an everyday ache could signal something more",
-                "desc": "KUALA LUMPUR, Aug 12 — Back pain is one of the most common complaints among working adults, often blamed on long hours at the desk, poor posture or fatigue after a busy...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/11/356513.jpg",
-                "url": "https://www.malaymail.com/news/life/2026/08/12/back-pain-or-kidney-stones-when-an-everyday-ache-could-signal-something-more/230934",
-                "source": "Malay Mail",
-                "date": "2026-08-11T23:02:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Minnesota, Wisconsin, South Carolina",
-                "desc": "Progressive Democrats hope to keep their winning streak rolling in Minnesota and Wisconsin.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108334954-1784057570195-gettyimages-2285482849-graham_TW_111_071426.jpeg?v=1784057617&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
-                "source": "CNBC",
-                "date": "2026-08-11T23:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "North Korea launches a ballistic missile toward the sea, South Korea says",
-                "desc": "SEOUL, South Korea: North Korea launched a ballistic missile toward the sea on Wednesday, its neighbors said, the second such weapons testing activity in less than a week. The series of launch events were likely a protest of the upcoming Korea-US military drills that North Korea views as an invasion rehearsal. South Korea’s Joint Chiefs of Staff said it detected the launch",
-                "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/08/12/4740155-866484032.jpg?itok=4I7_VdcA",
-                "url": "https://www.arabnews.pk/node/2654317/world",
-                "source": "Arab News PK",
-                "date": "2026-08-11T22:58:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sierra Leone : From Blood Diamonds to Broad",
-                "desc": "The nation once synonymous with blood diamonds is emerging as a symbol of resilience, reform and renewed opportunity.",
-                "image": "https://panafricanvisions.com/wp-content/uploads/2026/08/story-10-pic-1-president-julius-maada-bio-says-sierra-leones-future-will-be-defined-not-by-its-past-conflicts-but-by-democratic-stability-investment-and-inclusive-national-development-1024x637.jpg",
-                "url": "https://panafricanvisions.com/2026/08/sierra-leone-from-blood-diamonds-to-broad-based-growth/",
-                "source": "pan african visions",
-                "date": "2026-08-11T22:52:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "On ivory, follow the trafficking networks and not the headlines (commentary)",
-                "desc": "Environmental science and conservation news",
-                "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/02/25133056/image1-e1786130110289.jpeg",
-                "url": "https://news.mongabay.com/2026/08/on-ivory-follow-the-trafficking-networks-and-not-the-headlines-commentary/",
-                "source": "Mongabay",
-                "date": "2026-08-11T22:49:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India's GMR looks beyond Sangley project for next Philippine airport deal",
-                "desc": "Indian infrastructure giant GMR Group is exploring the prospect of adding another airport to its growing list of aviation projects in the Philippines, as it...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/11/122840.webp",
-                "url": "https://mb.com.ph/2026/08/11/indias-gmr-looks-beyond-sangley-project-for-next-philippine-airport-deal",
-                "source": "mb.com.ph",
-                "date": "2026-08-11T22:43:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Top adviser to Iran's Revolutionary Guard leader sits down for rare interview",
-                "desc": "As the war with Iran continues its uneasy stalemate, we're hearing from a top adviser to the commander of Iran's Islamic Revolutionary Guard Corps, the force largely responsible for border and internal security. The IRGC rarely gives interviews, and almost never to Western media. But Mohammad Reza Naqdi sat down in Tehran for an exclusive interview with special correspondent Reza Sayah.",
-                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/CORRECT-1024x576.jpg",
-                "url": "https://www.pbs.org/newshour/show/top-adviser-to-irans-revolutionary-guard-leader-sits-down-for-rare-interview",
-                "source": "pbs.org",
-                "date": "2026-08-11T22:40:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Open Call: Industrial PhD Scholarships Program 2026 (Denmark)",
-                "desc": "Deadline: 18-Aug-2026 The Industrial PhD Scholarships Program is inviting applications for 2/3-financed Industrial PhD Scholarships supporting research in diabetes, metabolism, and endocrinology. Each scholarship provides DKK 1,100,000 to cover salary and tuition fees for two years of a three-year PhD programme while promoting collaboration between Danish universities and life-science industry partners. Industrial PhD Scholarships Program",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/individuals/open-call-industrial-phd-scholarships-program-2026-denmark/",
-                "source": "fundsforNGOs",
-                "date": "2026-08-11T22:37:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ottawa shuts the doors of embassy in South Sudan without explanation",
-                "desc": "Shutdown of diplomatic mission sends mixed signals about government’s Africa Strategy, analysts say",
-                "image": "https://www.theglobeandmail.com/resizer/v2/CI2FLP573JGEZE4VJB7VTWKUIE.JPG?auth=7e2c8dffbf9f9acc7b2b6cdcefe76b884023c7848f24a4644c193339b6d8f568&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/article-ottawa-shuts-the-doors-of-embassy-in-south-sudan-without-explanation/",
-                "source": "The Globe and Mail",
-                "date": "2026-08-11T22:35:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hormuz traffic still low, Iran seeks concessions",
-                "desc": "Vessel traffic through the strait of Hormuz remained low on Monday while Iran demanded additional concessions from the US for the reopening of the narrow waterway, the date of which remains elusive.",
-                "image": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/images/14-generic-hero-banners/herobanner_1600x530_generic-c.jpg?h=530&iar=0&w=1600&rev=2cf023b4e0484c1bb091b9f72dbf7771&hash=72DBDFEBEF6EE62E751AB5DD2221C77E",
-                "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2864029-hormuz-traffic-still-low-iran-seeks-concessions",
-                "source": "Argus Media",
-                "date": "2026-08-11T22:32:16Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-12T18:40:30.115469Z"
+    "lastGlobalSync": "2026-08-12T19:50:16.768241Z"
 }
