@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Live updates: Attacks at sea threaten region as hopes fade for Strait of Hormuz deal",
+                "desc": "A Saudi vessel was reportedly struck by missile in a deadly attack in the Red Sea, as a UK maritime monitor reported an incident involving a container ship and military forces in the Gulf of Oman. Follow for the latest news updates.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2289259890.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/11/world/live-news/iran-war-trump",
+                "source": "CNN",
+                "date": "2026-08-11T20:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "airBaltic situation is 'very serious' warns Latvian government",
+                "desc": "The Latvian government provided a partial update on the situation with regard to the financial prospects of national airline airBaltic on August 11th, describing the situation as \"very serio...",
+                "image": "https://static.lsm.lv/media/2025/01/large/4/phyi.jpg",
+                "url": "https://eng.lsm.lv/article/economy/transport/11.08.2026-airbaltic-situation-is-very-serious-warns-latvian-government.a658421/",
+                "source": "eng.lsm.lv",
+                "date": "2026-08-11T20:03:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "City of Yarra halts plan for affordable worker housing at Collingwood Town Hall",
+                "desc": "The City of Yarra has halted plans to build at least 50 affordable rental apartments for workers in Abbotsford.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/0f22c4b21e165c96d9755d51074c6e42?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-08-12/yarra-council-affordable-housing-halted/107024402",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-08-11T20:01:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alloy Robotics Raises $8 Million To Help Stop Robots Failing",
+                "desc": "The start-up is keen to capitalize on the rapid growth of the robotics market with a data platform that enables engineers to identify faults more quickly",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a7b502aa0411ae074928f58/0x0.jpg?format=jpg&crop=1799,843,x0,y177,safe&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/davidprosser/2026/08/11/alloy-robotics-raises-8-million-to-help-stop-robots-failing/",
+                "source": "forbes.com",
+                "date": "2026-08-11T20:00:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The cost of being: A healthcare worker paying off their mortgage as fast as possible",
+                "desc": "'I give money away to... My parents. They're the whole reason I can call myself successful.'",
+                "image": "https://images.thespinoff.co.nz/1/2026/08/COB-jun18-8.png?w=1600&h=900&fit=crop&q=80&auto=compress%2Cformat",
+                "url": "https://thespinoff.co.nz/society/12-08-2026/the-cost-of-being-a-healthcare-worker-paying-off-their-mortgage-as-fast-as-possible",
+                "source": "The Spinoff",
+                "date": "2026-08-11T20:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Social Security Expands Its Fast-Track Disability List",
+                "desc": "Americans with one of 14 rare diseases could see their first disability check arrive much sooner. The Social Security Administration on Tuesday said it has expanded its Compassionate...",
+                "image": "https://cdn.newser.com/image/1704601-12-20260811152617.jpeg",
+                "url": "https://www.newser.com/story/394475/social-security-expands-its-fast-track-disability-list.html",
+                "source": "Newser",
+                "date": "2026-08-11T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tributes paid after John Pye co-founder dies",
+                "desc": "A statement issued by the firm said \"John lived a fantastic life full of laughter and hard work\".",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18d0/live/ea163430-95bc-11f1-a556-013790f38050.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo",
+                "source": "BBC",
+                "date": "2026-08-11T19:59:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Beth Hammack says multiple rate hikes needed to fight US inflation",
+                "desc": "Cleveland Federal Reserve President Beth Hammack says more than one interest rate hike is needed to prevent inflation from becoming entrenched, citing CPI and PCE readings above 3.5%.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/beth-hammack-cleveland-fed-01.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/economy/feds-hammack-says-multiple-rate-hikes-may-needed-tame-inflation",
+                "source": "Fox Business",
+                "date": "2026-08-11T19:58:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Solar eclipse: Faced with criticism, public authorities defend prevention measures",
+                "desc": "A 'frequently asked questions' page for the general public has been uploaded on French government ministry websites, with special posts shared on social media, ahead of the solar eclipse on Wednesday, August 12.",
+                "image": "https://img.lemde.fr/2026/08/09/0/0/5500/3666/1440/960/60/0/3defabe_ftp-1-vadzxhh7ftrq-2026-08-09t130632z-1862917171-rc2zumab2acd-rtrmadp-3-solar-eclipse-spain.JPG",
+                "url": "https://www.lemonde.fr/en/france/article/2026/08/11/solar-eclipse-faced-with-criticism-public-authorities-defend-prevention-measures_6756396_7.html",
+                "source": "Le Monde.fr",
+                "date": "2026-08-11T19:57:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. stocks fall after Iran says Strait of Hormuz will remain shut",
+                "desc": "Analysts remain split on the short-term outlook for inflation and rates.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2289259852-e1786477866447.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/08/11/u-s-stocks-fall-after-iran-says-strait-of-hormuz-will-remain-shut/",
+                "source": "Fortune",
+                "date": "2026-08-11T19:57:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
                 "title": "Revealed: NZ’s favourite biscuit - according to you",
                 "desc": "You might need a cup of tea with this one, New Zealand. Your best biscuit is the Sultana Pastie. Yeah, nah. The chocolate-coated dried fruit travesty didn’t...",
                 "image": "https://www.nzherald.co.nz/resizer/v2/3JWJ6A2O7FFX7JUBSUDCTNEIRY.jpg?auth=33ec357aeeca16fe778c57905d2aecbfd2b9bb15fd6bc961fe0cbf4f4e295c77&width=1200&height=675&quality=70&focal=933%2C605&smart=false",
@@ -542,99 +632,99 @@
                 "source": "The Guardian",
                 "date": "2026-08-11T09:47:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "France bans unsolicited telemarketing calls, with hefty fines for violators",
-                "desc": "France has banned unsolicited telemarketing calls under a new law aimed at protecting consumers from intrusive sales pitches and shielding vulnerable people from fraudulent commercial practices.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260811-paris-rs-bf6110.jpg",
-                "url": "https://www.nbcnews.com/world/europe/france-bans-unsolicited-telemarketing-calls-hefty-fines-violators-rcna591873",
-                "source": "NBC News",
-                "date": "2026-08-11T08:54:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ballentynes stores to become Caroline Eve shops across regions",
-                "desc": "One of the country’s largest fashion retailers has expanded after taking over nearly a dozen Ballentynes Fashion Central stores. Caroline Eve Fashion is set...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/F4J7QNV4QFEX7MLGH77W4E5UYU.jpg?auth=3fb5f3a12cfdf2278cf3d0a7905b50f7c9e57b61a3cf8024344105ea506f0f00&width=1200&height=675&quality=70&focal=490%2C644&smart=false",
-                "url": "https://www.nzherald.co.nz/nz/auckland/ballentynes-stores-to-become-caroline-eve-shops-across-regions/G7DH7ECQERG6JFTRTKBAQ5X3XU/",
-                "source": "NZ Herald",
-                "date": "2026-08-11T08:53:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Who gets Trump's Truth Social posts first? The new service raising legal questions",
-                "desc": "US President Donald Trump knows the world hangs on his every word.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--St7KF9EI--/t_tohu-badge-facebook/f_auto/q_auto/4KSV0RB_TrumpTruthSocial_jpg",
-                "url": "https://www.rnz.co.nz/news/world/966806/who-gets-trump-s-truth-social-posts-first-the-new-service-raising-legal-questions",
-                "source": "RNZ",
-                "date": "2026-08-11T08:50:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Power, AC outages hit estate, office building and funeral home amid heatwave",
-                "desc": "Outages in Yuen Long, Wan Chai and Hung Hom affect estate residents, office workers and funeral home as city grapples with extreme heat.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/11/6b2d0a69-043a-4461-8da4-2c57d967f34b_b83a55a8.jpg?itok=yk95nsBA&v=1786438234",
-                "url": "https://www.scmp.com/news/hong-kong/society/article/3363653/power-ac-outages-hit-estate-office-building-and-funeral-home-amid-heatwave",
-                "source": "South China Morning Post",
-                "date": "2026-08-11T08:50:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil Sector Reforms: Good Governance Group Backs Eyesan, Ojulari, Hails Transparency in Sector",
-                "desc": "The Good Governance Index Group has expressed confidence in the leadership of the Nigerian Upstream Petroleum Regulatory Commission (NUPRC) and the Nigerian National Petroleum Company Limited (NNPC Ltd), commending both institutions for what it described as improved transparency, professionalism and financial discipline in Nigeria’s oil and gas sector. Speaking at a press conference in Abuja,...",
-                "image": "https://independent.ng/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-11-at-08.03.25.jpeg",
-                "url": "https://independent.ng/oil-sector-reforms-good-governance-group-backs-eyesan-ojulari-hails-transparency-in-sector/",
-                "source": "Independent Newspaper Nigeria",
-                "date": "2026-08-11T08:47:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asia's intense typhoon season forecast",
-                "desc": "Asia's typhoon season is predicted to be exceptionally active due to a strengthening El Nino system, with heightened storm activity expected. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b473167112c6a467460403d682f8e522c244b01b8ef2d14ea81e5ad39a28aa33",
-                "url": "https://www.straitstimes.com/world/europe/typhoon-season-forecast-to-be-among-most-intense-for-asia",
-                "source": "The Straits Times",
-                "date": "2026-08-11T08:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Saudi EXIM boosts credit facilities by 17% to $7.3bn in H1",
-                "desc": "RIYADH: Saudi Arabia’s Export-Import Bank grew its credit facilities to non-oil exporters by 17.2 percent in the first half of 2026, reaching SR27.67 billion ($7.3 billion), as it deepens support for the Kingdom’s export diversification drive. According to the Saudi Press Agency, the facilities were split between export financing and export credit insurance for non-oil Saudi",
-                "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/08/11/4739826-1652980983.png?itok=fYPJdNaG",
-                "url": "https://www.arabnews.pk/node/2654201/business-economy",
-                "source": "Arab News PK",
-                "date": "2026-08-11T08:45:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesia Finalizes Online Motorcycle Taxi Rules, What Will Change?",
-                "desc": "The regulation was previously targeted for completion before Indonesia's 81st Independence Day on August 17.",
-                "image": "https://statik.tempo.co/data/2026/07/03/id_1480565/1480565_720.jpg",
-                "url": "https://en.tempo.co/read/2117240/indonesia-finalizes-online-motorcycle-taxi-rules-what-will-change",
-                "source": "Tempo.co English",
-                "date": "2026-08-11T08:45:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
-                "desc": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw.",
-                "image": "https://www.bleepstatic.com/content/hl-images/2026/05/20/SonicWall.jpg",
-                "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
-                "source": "BleepingComputer",
-                "date": "2026-08-11T08:43:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Unitree Shanghai listing tells tale of China's humanoid robots drive",
-                "desc": "Unitree, a leading Chinese robotics company, has priced its Shanghai initial public offering (IPO) at 150.80 yuan per share, ⁠aiming to raise 6.1 billion...",
-                "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/08/11/thumbs/1200x675/455166.jpg",
-                "url": "https://www.dailysabah.com/business/tech/unitree-shanghai-listing-tells-tale-of-chinas-humanoid-robots-drive",
-                "source": "Daily Sabah",
-                "date": "2026-08-11T08:43:08Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Ex-Pink Floyd drummer’s McLaren F1 could set a record",
+                "desc": "Rumours of this McLaren F1 GTR reaching new records have been circulating well before it goes under the hammer.",
+                "image": "https://storage.ghost.io/c/a9/b3/a9b3e204-3117-4792-9a32-46184029df44/content/images/size/w1200/2026/08/748216000_18608535325054245_1116131328293816906_n-1.jpg",
+                "url": "https://torquecafe.com/ex-pink-floyd-drummers-mclaren-f1-could-set-a-record/",
+                "source": "Torquecafe",
+                "date": "2026-08-11T20:04:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model",
+                "desc": "NVIDIA-accelerated LTX-2.5 generates 10-second video in 6.8 seconds, running open weights locally on RTX and DGX Spark.",
+                "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/blog61912-11.png",
+                "url": "https://www.marktechpost.com/2026/08/11/the-video-production-stack-now-fits-on-one-desk-ltx-2-5-launches-as-nvidia-accelerated-open-weights-world-model/",
+                "source": "MarkTechPost",
+                "date": "2026-08-11T20:02:03Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Rare Super Mario cartridges to go up for sale in auction",
+                "desc": "A set of unique, extremely rare Super Mario cartridges was found in a gaming store in Waukesha, Wisconsin, and will be auctioned off starting Friday.",
+                "image": "https://dims.apnews.com/dims4/default/517f034/2147483647/strip/true/crop/1000x666+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F3a%2F26e1fd440e90871ec53bb7407bfa%2Fd0e1fa3bbd504cca9472a9d128b7f6c3",
+                "url": "https://apnews.com/article/nintendo-wisconsin-mario-cartridges-video-de88a9fd5643913454328830e73f74c2",
+                "source": "AP News",
+                "date": "2026-08-11T20:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung's next foldable frontier is rollable: What we know so far",
+                "desc": "Samsung still dominates the foldable market, but price-cutting Chinese manufacturers and Apple, with its famously loyal user base, are working tirelessly to catch up in the race.",
+                "image": "https://image.koreajoongangdaily.com/12818731.jpg?imageId=12818731&x=19.54&y=22.61&cropw=68.6&croph=51.6&panox=19.54&panoy=22.61&panow=68.6&panoh=51.6&width=1200&height=683",
+                "url": "https://www.koreajoongangdaily.com/business/samsungs-next-foldable-frontier-is-rollable-what-we-know-so-far/12816254",
+                "source": "Korea JoongAng Daily",
+                "date": "2026-08-11T20:01:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best Buy's Top Back-to-School Deals From Apple, HP, Lenovo, TP-Link, and More",
+                "desc": "While it's still summer, back-to-school season is coming up faster than you think. Here are the A+ deals from Best Buy to make sure you (or your kids) ace the school year.",
+                "image": "https://i.pcmag.com/imagery/articles/05bb72WPF96P8Yy8ucLUZ6s-52.fit_lim.size_1200x630.v1786386538.png",
+                "url": "https://www.pcmag.com/deals/best-best-buy-back-to-school-deals-2026-august-11",
+                "source": "PCMag",
+                "date": "2026-08-11T19:59:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Crimson Desert developer Pearl Abyss reveals future plans for the game.",
+                "desc": "Pearl Abyss has detailed its plans for smash hit action role-playing game Crimson Desert, confirming it is exploring multiplayer modes. Meanwhile, we have a target launch window for the Nintendo Switch 2 version, and talk of potential sequels.",
+                "image": "https://assets-prd.ignimgs.com/2026/03/18/cd-blogroll-1773860824069.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/crimson-desert-dev-conducting-extensive-research-on-multiplayer-modes-plots-potential-sequels",
+                "source": "IGN",
+                "date": "2026-08-11T19:57:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation 5 Is Getting a Wolverine Yellow Makeover, and It’ll Cost You $650",
+                "desc": "Fans can choose between Wolverine's signature yellow and adamantium finishes, with preorders starting Aug. 19.",
+                "image": "https://www.cnet.com/wp-content/uploads/sites/2/PS5-wolverine-lineup.jpeg",
+                "url": "https://www.cnet.com/tech/gaming/playstation-5-is-getting-a-wolverine-yellow-makeover-and-itll-cost-you-650/",
+                "source": "CNET",
+                "date": "2026-08-11T19:56:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blue Lock Comes to Real Life With Official Japan Football Association Training Camp Inspired by the Anime",
+                "desc": "The JFA is on a hunt for the ultimate egoist.",
+                "image": "https://sm.ign.com/t/ign_pk/news/b/blue-lock-/blue-lock-comes-to-real-life-with-official-japan-football-as_tz23.1200.jpg",
+                "url": "https://pk.ign.com/blue-lock/259039/blue-lock-comes-to-real-life-with-official-japan-football-association-training-camp-inspired-by-the",
+                "source": "IGN Pakistan",
+                "date": "2026-08-11T19:52:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oof - 7-litre Lagonda Series One for sale",
+                "desc": "Aston Martin has too often fumbled the Lagonda ball - but not with the car that Dr Ulrich Bez bought",
+                "image": "https://images.pistonheads.com/nimg/51539/blobid0.jpg",
+                "url": "https://www.pistonheads.com/news/ph-spottedykywt/oof--7-litre-lagonda-series-one-for-sale/51539",
+                "source": "PistonHeads",
+                "date": "2026-08-11T19:50:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Remedy touts pricing Control Resonant 'attractively' for AAA game",
+                "desc": "Remedy Entertainment places bets on Control Resonant being priced at $60 and garnering positive preview coverage over concerns of self-publishing risks.",
+                "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blte8822b53a512803d/6a7b32ab81a262d8b634babf/New_Project(18).png?disable=upscale&width=1200&height=630&fit=crop",
+                "url": "https://www.gamedeveloper.com/business/remedy-entertainment-touts-pricing-control-resonant-attractively-for-an-aaa-title-",
+                "source": "Game Developer",
+                "date": "2026-08-11T19:48:52Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Every Galaxy phone eligible to get One UI 9 (Android 17) update",
                 "desc": "Here is a list of Samsung Galaxy smartphones and tablets that are eligible to get the One UI 9.0 (Android 17) update.",
@@ -1174,99 +1264,99 @@
                 "source": "bgr.com",
                 "date": "2026-08-11T09:47:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "WEBZEN Updates MU Online with Sanctuary of Aquilas, Ancestral Imperial Gear, and New Server Idavoll",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/WEBZEN-Updates-MU-Online-with-Sanctuary-of-Aquilas-Ancestral-Imperial-",
-                "source": "gamespress.com",
-                "date": "2026-08-11T08:53:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OnePlus Nord 6 price drops, now available with Rs 11,000 discount",
-                "desc": "OnePlus is hosting its Independence Day Sale 2026, and as part of the sale, it has slashed the price of its powerful mid-ranger, the Nord 6. But is it finally a deal worth considering? Read more to find out.",
-                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/oneplus-nord-6-202347910-16x9.png?VersionId=OxL6rb7BgMjHFHQVYVJKl.kFWM6PPOZn",
-                "url": "https://www.indiatoday.in/amp/technology/news/story/oneplus-nord-6-price-drops-now-available-with-rs-11000-discount-2968518-2026-08-11",
-                "source": "India Today",
-                "date": "2026-08-11T08:53:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Minimal Phone 2 doesn't sound very minimal at all",
-                "desc": "Last year's Minimal Phone included an E Ink display and a QWERTY keyboard to go along with its take on not consuming every waking moment...",
-                "image": "https://stuff.co.za/wp-content/uploads/2026/08/Minimal-Phone-2.png",
-                "url": "https://stuff.co.za/2026/08/11/the-minimal-phone-2-doesnt-sound-very-minimal/",
-                "source": "Stuff South Africa",
-                "date": "2026-08-11T08:51:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xiaomi 18 Pro and Xiaomi 18 Pro Max's colors and back material leak",
-                "desc": "They're expected to become official next month. According to a new rumor from Digital Chat Station on Weibo, Xiaomi's next flagship smartphones are...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/08/xiaomi-18-pro-xiaomi-18-pro-max-colors-back-material/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_maxs_colors_and_back_material_leak-news-74102.php",
-                "source": "GSMArena.com",
-                "date": "2026-08-11T08:51:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro costs Apple 38% more to make according to analysts",
-                "desc": "Soaring memory prices are pushing the iPhone 18 Pro's bill of materials up by around 38%, according to analysts.",
-                "image": "https://www.trustedreviews.com/wp-content/uploads/sites/7/2026/06/new-photos-give-us-our-clearest-look-yet-at-iphone-18-pro-colours.jpg",
-                "url": "https://www.trustedreviews.com/news/iphone-18-pro-costs-apple-38-more-to-make-according-to-analysts",
-                "source": "Trusted Reviews",
-                "date": "2026-08-11T08:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fall into Hong Kong: A Season of Festivals, Flavours and Citywide Celebrations Begins",
-                "desc": "HONG KONG, Aug. 11, 2026 (GLOBE NEWSWIRE) -- This Autumn, Hong Kong welcomes one of its most exciting times of year with a packed calendar of f...",
-                "image": "https://ml.globenewswire.com/Resource/Download/7ad16481-ab90-4da8-99cc-477aa0b3905a/lh-autumn-release.jpg",
-                "url": "https://markets.businessinsider.com/news/stocks/fall-into-hong-kong-a-season-of-festivals-flavours-and-citywide-celebrations-begins-1036439880",
-                "source": "markets.businessinsider.com",
-                "date": "2026-08-11T08:46:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lighting fires in minds: Lippes Mathias partner on inspiring the next gen",
-                "desc": "Matthew Asbell discusses why empathy is important in law, being inspired by diverse workplaces and working on the latest, greatest large language model",
-                "image": "https://static.legal2.production.k4.m1.brightspot.cloud/dims4/default/87064d0/2147483647/strip/true/crop/4000x2100+0+660/resize/1200x630!/quality/90/?url=https%3A%2F%2Fk4-prod-legal.s3.eu-west-1.amazonaws.com%2Fbrightspot%2Fcc%2F7e%2F4d74ee0844bba22f511fab6ffb7f%2Fmatthew-asbell2.jpg",
-                "url": "https://www.managingip.com/article/2gpuvau665ny0hz29lxxc/trademarks/lighting-fires-in-minds-lippes-mathias-partner-on-inspiring-the-next-gen",
-                "source": "Managing Intellectual Property",
-                "date": "2026-08-11T08:45:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rare 'Super Mario Bros.'/'Duck Hunt' variant discovered, to auction this week",
-                "desc": "Rare 'Super Mario Bros.'/'Duck Hunt' NES cartridges from a previously unknown run of the games will go for auction this week.",
-                "image": "https://helios-i.mashable.com/imagery/articles/00rrKTTOQeONAZGOauh6AuE/hero-image.fill.size_1200x675.v1786417136.jpg",
-                "url": "https://mashable.com/entertainment/nintendo-super-mario-bros-duck-hunt-rare-auction",
-                "source": "Mashable",
-                "date": "2026-08-11T08:43:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Finnish game studio MiTale brings dark fantasy and quantum-powered games to Gamescom 2026",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Finnish-game-studio-MiTale-brings-dark-fantasy-and-quantum-powered-gam",
-                "source": "gamespress.com",
-                "date": "2026-08-11T08:38:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gentle Monster presents its second design from the upcoming Intelligent Eyewear Collection",
-                "desc": "In their first exploration into intelligent eyewear, which integrates audio, camera, microphones and Google Gemini into a familiar optical form, Gentle Monster’s upcoming next-generation intelligent eyewear collection is designed for natural, hands-free interaction that introduces a new way of experiencing information while remaining present in the moment. Developed in partnership with Google and Samsung Electronics […]",
-                "image": "https://nylon.com.sg/wp-content/uploads/2026/08/gm-new-smart-header.jpg",
-                "url": "https://nylon.com.sg/gentle-monster-presents-its-second-design-from-the-upcoming-intelligent-eyewear-collection/",
-                "source": "nylon.com.sg",
-                "date": "2026-08-11T08:33:44Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "US says it fired missiles to disable ship breaking Iran blockade",
+                "desc": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2554/live/747b0460-95be-11f1-a556-013790f38050.png",
+                "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo",
+                "source": "BBC",
+                "date": "2026-08-11T20:04:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "White House pushes DoJ to revive reflecting pool case against Olympian",
+                "desc": "Justice department is asked to weigh new charges against David Hearn after US attorney dropped vandalism charges",
+                "image": "https://i.guim.co.uk/img/media/c00a27d9e1844cdf7cd3690aab0729299ae58337/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee6f4271fb2550f22defdb6af76151d4",
+                "url": "https://www.theguardian.com/us-news/2026/aug/11/reflecting-pool-david-hearn-doj",
+                "source": "The Guardian",
+                "date": "2026-08-11T20:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia should join the defence bank that named it as a priority partner",
+                "desc": "Australia should open talks on joining the Defence, Security and Resilience Bank (DSRB) now, before the institution’s lending rules are written without an Indo-Pacific member at the table. The DSRB is a proposed multilateral lender ...",
+                "image": "https://www.aspistrategist.org.au/wp-content/uploads/2026/08/20170726adf000000_002.jpg.iCfowK-EMp2Z1_lhYBMA.TozTZPsy4b-e1786420609565.jpg",
+                "url": "https://www.aspistrategist.org.au/australia-should-join-the-defence-bank-that-named-it-as-a-priority-partner/",
+                "source": "The Strategist | ASPI's analysis and commentary site",
+                "date": "2026-08-11T20:01:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US military fires on cargo vessel it said sought to break Iran blockade",
+                "desc": "CENTCOM says helicopter fired at engine room of Panama-flagged Vela Nova as US-Iran diplomacy remains stalled.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7b7c8d-1786477709.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade",
+                "source": "Al Jazeera",
+                "date": "2026-08-11T20:01:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Strait of Hormuz Traffic Sank To Just Six Vessels Monday",
+                "desc": "Vessel traffic at the Strait of Hormuz continues to decline as last week’s hopes of negotiations of a U.S.-Iran deal began to fade, yet again.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-11_3urfac4g7n.jpg",
+                "url": "https://oilprice.com/Energy/Energy-General/Strait-of-Hormuz-Traffic-Sank-To-Just-Six-Vessels-Monday.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-08-11T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China warns US of consequences over new Russia sanctions",
+                "desc": "New US restrictions on Russia, if adopted, will ultimately backfire on Washington itself, while the pressure campaign will prove ineffective.",
+                "image": "https://newsukraine.rbc.ua/static/img/_/p/_prapor_gettyimages_1673567214_2f8a7e68406e9e4baacbddaf29561707_1300x820_3eae1cd096dfc5aae33d8bb36311d286_650x410.jpg",
+                "url": "https://newsukraine.rbc.ua/news/china-warns-us-of-consequences-over-new-russia-1786477268.html",
+                "source": "RBC-Ukraine",
+                "date": "2026-08-11T19:55:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vatican announces ‘disarming technology’ will be theme of next World Day of Peace",
+                "desc": "(OSV News) -- The Vatican announced Aug. 11 that Pope Leo XIV's message for the 2027 World Day of Peace will focus on \"disarming technology\" and political leaders' moral responsibility. The theme will be \"Disarming Technology, Serving Peace. Politics as Preventive Responsibility,\" according to the Vatican Dicastery for Promoting Integral Human Development. \"His Holiness wishes to",
+                "image": "https://www.osvnews.com/wp-content/uploads/2026/08/20260811T1303-POPE-DISARMING-TECH-1824582.jpg",
+                "url": "https://www.osvnews.com/vatican-announces-disarming-technology-will-be-theme-of-next-world-day-of-peace/",
+                "source": "OSV News",
+                "date": "2026-08-11T19:53:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shocking Photos Of Europe's Historic Drought Crisis",
+                "desc": "Shocking images reveal Europe's severe drought crisis, with dried-up rivers and parched landscapes affecting millions across the continent.",
+                "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/11/18/thumb/HqNNhiAY-.jpg?crop=2999:1570;0,2%26downsize=1250:*",
+                "url": "https://www.buzzfeed.com/kelley_greene/europe-drought-photos",
+                "source": "BuzzFeed",
+                "date": "2026-08-11T19:52:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Under Trump, socialism is no longer a political boogeyman",
+                "desc": "More than half of young Americans now view socialism favorably, driven by housing costs, student debt and health care anger, as figures like Zohran Mamdani, Alexandria Ocasio-Cortez and Abdul El-Sayed channel that frustration into politics with a sharper anti-Israel edge",
+                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/HkKLxdwUGx/HkKLxdwUGx_290_70_1472_829_0_large.jpg",
+                "url": "https://www.ynetnews.com/business/article/hk3wgjf8mx",
+                "source": "Ynetnews",
+                "date": "2026-08-11T19:49:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vatican announces 'disarming technology' will be theme of next World Day of Peace",
+                "desc": "The Vatican announced Aug. 11 that Pope Leo XIV's message for the 2027 World Day of Peace will focus on \"disarming technology\" and political leaders' moral responsibility.",
+                "image": "https://ems.catholicregister.ca/assets/c1884091-6e24-41e0-b7bd-5ca1ee888b51/?fit=cover&width=1200&height=630&quality=75&format=jpg",
+                "url": "https://www.catholicregister.org/item/4250-vatican-announces-disarming-technology-will-be-theme-of-next-world-day-of-peace",
+                "source": "The Catholic Register",
+                "date": "2026-08-11T19:49:10Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Five arrested and drugs worth over £1m seized in Belfast",
                 "desc": "Five men have been arrested and drugs worth more than £1 million have also been seized by police in Northern Ireland.",
@@ -1806,98 +1896,8 @@
                 "source": "mfa.go.th",
                 "date": "2026-08-11T09:48:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesia Seeks Stronger Defense Ties with US",
-                "desc": "Defense Minister Sjafrie Sjamsoeddin met with US Ambassador to ASEAN Kevin Kim in Jakarta to discuss strengthening defense ties.",
-                "image": "https://statik.tempo.co/data/2026/08/04/id_1485203/1485203_720.jpg",
-                "url": "https://en.tempo.co/read/2117233/indonesia-seeks-stronger-defense-ties-with-us",
-                "source": "Tempo.co English",
-                "date": "2026-08-11T08:55:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesia park wildfire largely contained as haze forces school closures",
-                "desc": "Indonesian firefighters have mostly contained a wildfire that has burned nearly 900 hectares in Bromo Tengger Semeru National Park.",
-                "image": "https://dims.apnews.com/dims4/default/fa18a7a/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F25%2Fe5%2F9476c14c45fd9b1be11d7a617112%2F243b37eff2ed46c6bace05b031ca6528",
-                "url": "https://apnews.com/article/indonesia-bromo-park-peatland-wildfires-sumatra-borneo-62225cc55f9cc8e35d05097fd5f024cf",
-                "source": "AP News",
-                "date": "2026-08-11T08:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Turkey’s parliament approves a pardon-like bill for thousands of PKK militants",
-                "desc": "Turkey’s parliament on Monday approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government’s peace initiative with their insurgent group.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260811-turkey-rs-d13738.jpg",
-                "url": "https://www.nbcnews.com/world/asia/turkeys-parliament-approves-pardon-bill-thousands-pkk-militants-rcna591866",
-                "source": "NBC News",
-                "date": "2026-08-11T08:53:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'We're not serving Harare or Lagos': Mashaba says ActionSA mayors must serve South Africans first",
-                "desc": "Mashaba says the rule of law should be applied, especially in cases of illegal migration.",
-                "image": "https://media.citizen.co.za/wp-content/uploads/2026/08/HERMAN-MAYORS.jpg",
-                "url": "https://www.citizen.co.za/news/south-africa/politics/we-are-not-serving-harare-or-lagos-mashaba-says-actionsa-mayors-must-serve-south-africans-first/",
-                "source": "The Citizen",
-                "date": "2026-08-11T08:50:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PAS deputy president Tuan Ibrahim says lawyers handling Anwar’s defamation suit",
-                "desc": "KOTA BARU, Aug 11 — PAS deputy president Datuk Seri Tuan Ibrahim Tuan Man said he would leave it to his lawyers to respond to the defamation suit filed against him by Prime...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/11/356549.jpg",
-                "url": "https://www.malaymail.com/news/malaysia/2026/08/11/pas-deputy-president-tuan-ibrahim-says-lawyers-handling-anwars-defamation-suit/230964",
-                "source": "Malay Mail",
-                "date": "2026-08-11T08:49:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nominations open for Frederick Soddy Schools Award (UK and Ireland)",
-                "desc": "Deadline: 30-Nov-2026 The Frederick Soddy Schools Award provides funding of up to £700 per project to support school and student fieldwork and expeditions in the United Kingdom and Ireland. The award particularly encourages human geography field studies, helping teachers provide students with practical, experiential learning opportunities outside the classroom. About the Frederick Soddy Schools Award",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/cat/nominations-open-for-frederick-soddy-schools-award-uk-and-ireland/",
-                "source": "fundsforNGOs",
-                "date": "2026-08-11T08:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Saudi-Pakistan-Turkey pact casts a terror shadow over Delhi",
-                "desc": "Red Fort bomber Umar Un Nabi and other India-linked terrorists had travelled to Turkey, where they met handlers or were radicalised, trained for terror attacks. | India News",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/08/11/1600x900/logo/Red_fort_blast_1786426050323_1786426050563_b220ebd8-8712-401b-8284-5cd5704fa48c.jpg",
-                "url": "https://www.hindustantimes.com/india-news/how-saudi-pakistan-turkey-pact-casts-a-terror-shadow-over-delhi-101786425650053.html",
-                "source": "Hindustan Times",
-                "date": "2026-08-11T08:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asia's intense typhoon season forecast",
-                "desc": "Asia's typhoon season is predicted to be exceptionally active due to a strengthening El Nino system, with heightened storm activity expected. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b473167112c6a467460403d682f8e522c244b01b8ef2d14ea81e5ad39a28aa33",
-                "url": "https://www.straitstimes.com/world/europe/typhoon-season-forecast-to-be-among-most-intense-for-asia",
-                "source": "The Straits Times",
-                "date": "2026-08-11T08:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Behind AI Investment, U.S. Trade Deficit Grows 4th Consecutive Month",
-                "desc": "One factor is the continuing multibillion-dollar AI investments by Google parent Alphabet, Facebook parent Meta, Microsoft, Amazon, Oracle and others.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a7a4c40c7e46bf932eaae67/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/kenroberts/2026/08/11/behind-ai-investment-us-trade-deficit-grows-4th-consecutive-month/",
-                "source": "Forbes",
-                "date": "2026-08-11T08:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda: Double Tragedy as Mother Drowns While Trying to Rescue Daughter",
-                "desc": "A mother and her seven-year-old daughter drowned in a spring well in Lwanda area, Uganda after the woman entered the water trying to save her child.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/a6f8f0c9ff17e37c.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/world/africa/635867-uganda-double-tragedy-mother-drowns-rescue-daughter/",
-                "source": "tuko.co.ke",
-                "date": "2026-08-11T08:44:34Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-12T06:05:18.718647Z"
+    "lastGlobalSync": "2026-08-12T08:04:31.891211Z"
 }
