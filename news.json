@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Former Google Exec Has Been in Talks for a $10 Billion Valuation for AI Startup",
+                "desc": "The legendary Google engineer has been in discussions for a $1 billion funding round in his new AI startup, Discovery Loop.",
+                "image": "https://i.insider.com/6a7bb4e7bd87410e364d1552?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/former-google-exec-jeff-dean-valuation-for-new-ai-startup-2026-8",
+                "source": "Business Insider",
+                "date": "2026-08-13T00:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Raja Venkatraman recommends three stocks for 13 August",
+                "desc": "Market expert Raja Venkatraman shares his top stock picks for 13 August. Here’s his technical outlook and trade strategy.",
+                "image": "https://www.livemint.com/lm-img/img/2026/08/11/1600x900/logo/RAJA_IMG1_1733139557630_1773677587730_17784588914_1786466500053_1786466500227_c2a78d6d-091b-4137-b3a0-d78e1d476f12.jpg",
+                "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-13-august-11786553932696.html",
+                "source": "livemint.com",
+                "date": "2026-08-13T00:30:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South China Morning Post",
+                "desc": "Hong Kong needs more yuan products, commodity trading infrastructure and fintech innovation, market participants say.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/13/5a9167cf-e3df-435b-bec3-538f9e3cd963_9dea7a8e.jpg?itok=tgLheDKu&v=1786555320",
+                "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363826/what-comes-next-hong-kong-global-financial-hub",
+                "source": "South China Morning Post",
+                "date": "2026-08-13T00:30:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fubon Bank’s Hong Kong subsidiary opens first mainland China branch in Shenzhen",
+                "desc": "The branch is set to focus on specialised cross-border financing for tech corporations targeting overseas expansion.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/12/8871f095-0222-40ff-8ce4-5ba78f44fd71_8747f6d6.jpg?itok=WHsjhXTP&v=1786527577",
+                "url": "https://www.scmp.com/business/banking-finance/article/3363788/fubon-banks-hong-kong-subsidiary-opens-first-mainland-china-branch-shenzhen",
+                "source": "South China Morning Post",
+                "date": "2026-08-13T00:30:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside India newsletter: Why global funds are flocking to GIFT City in Modi’s home state",
+                "desc": "Favorable regulations, a growing local investor base, and tax holidays are giving momentum to India's GIFT City.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108347763-1786445960631-gettyimages-2218877915-INDIA_GIFT_CITY.jpeg?v=1786445988&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/13/global-funds-blackrock-modi-gift-city.html",
+                "source": "CNBC",
+                "date": "2026-08-13T00:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lockheed Martin, Verizon Demonstrate AI Airspace Protection Using 5G Technology",
+                "desc": "Lockheed Martin and Verizon Demonstrate AI Airspace Protection Using 5G Technology",
+                "image": "https://www.thefastmode.com/media/k2/items/src/5a36f08e33ba427b030c2d276edeeff6.jpg?t=20260813_001627",
+                "url": "https://www.thefastmode.com/technology-solutions/50165-lockheed-martin-verizon-demonstrate-ai-airspace-protection-using-5g-technology",
+                "source": "The Fast Mode",
+                "date": "2026-08-13T00:13:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pipeline contracts awarded as Ksi Lisims LNG moves closer to final investment decision",
+                "desc": "B.C., Swiss companies selected to build start and end points of 900-kilometre Prince Rupert Gas Transmission pipeline across northern B.C.",
+                "image": "https://i.cbc.ca/ais/1.7571657,1774398651518/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1600%2C900%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/british-columbia/pipeline-contracts-awarded-ksi-lisims-lng-9.7305261",
+                "source": "CBC",
+                "date": "2026-08-13T00:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ford boosts US Lincoln production as it phases out imports from China",
+                "desc": "Ford is planning a major manufacturing shift for its Lincoln brand beginning in 2030, expanding its American footprint and adding thousands of jobs.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/ford-vehicles-being-assembled.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/industrials/ford-boosts-us-lincoln-production-phases-out-imports-china",
+                "source": "Fox Business",
+                "date": "2026-08-13T00:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why great earnings haven't been good enough for AI hardware stocks",
+                "desc": "Stocks that had been posting triple-digit returns are sliding on earnings results.",
+                "image": "https://cloudfront-us-east-1.images.arcpublishing.com/morningstar/TYYKCGYZ2NACPJ23FC2HIYRUTU.png",
+                "url": "https://www.morningstar.com.au/stocks/why-great-earnings-havent-been-good-enough-ai-hardware-stocks",
+                "source": "Morningstar Australia",
+                "date": "2026-08-13T00:09:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Royal Caribbean’s Navigator of the Seas Singapore season",
+                "desc": "Royal Caribbean’s Navigator of the Seas will be based in Singapore year-round from October 2026, offering cruises across South-east Asia until 2027. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a342a013e50fd09c4d23d2c746664be0739a6fa2acf2d500beab6249bea1660a",
+                "url": "https://www.straitstimes.com/singapore/royal-caribbeans-navigator-of-the-seas-singapore-season-will-be-year-round-from-october",
+                "source": "The Straits Times",
+                "date": "2026-08-13T00:09:27Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Two-thirds of Sentosa Cove properties resell at a loss",
                 "desc": "Nearly two-thirds of Sentosa Cove properties have changed hands at a loss in the last three years, while resale gains on profitable transactions shrank by some 60%, research by analysts shows.",
                 "image": "https://apicms.thestar.com.my/uploads/images/2026/08/13/4057006.jpeg",
@@ -542,99 +632,99 @@
                 "source": "RTE.ie",
                 "date": "2026-08-12T14:18:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "T1 EV to compete with Atto 3, eMas 7; up to 374 PS, global sales possible",
-                "desc": "Jetour TX concept Jetour is on a roll – fresh from launching the T2 and T1 globally, it will follow those up with several new models set to be revealed next week at the Chengdu …",
-                "image": "https://paultan.org/image/2026/08/2026-AutoChinaBeijing-Jetour-TX-1-1200x801.jpg",
-                "url": "https://paultan.org/2026/08/12/jetour-tourer-tx-leaked-sub-t1-ev-to-compete-with-atto-3-emas-7-up-to-374-ps-global-sales-possible/",
-                "source": "Paul Tan's Automotive News",
-                "date": "2026-08-12T11:49:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rare chance to see historic Audi on the road this weekend",
-                "desc": "During the celebrations of Riga's 825th birthday, on August 15, the Riga Motor Museum, in cooperation with the Riga Municipality, will give the city's residents and guests a unique opportunity to see...",
-                "image": "https://eng.lsm.lv//assets/design/no_pic_large.jpg",
-                "url": "https://eng.lsm.lv/article/economy/transport/12.08.2026-rare-chance-to-see-historic-audi-on-the-road-this-weekend.a658533/",
-                "source": "LSM",
-                "date": "2026-08-12T11:46:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "High-accuracy measurement of Ku-band microwave antenna gain with Rydberg atom quantum sensing",
-                "desc": "Antenna gain reflects the ability to concentrate input power and radiate electromagnetic waves in a specific direction, and is a key indicator for evaluating antenna performance. In this paper, a high-accuracy Rydberg-atom-assisted gain-transfer measurement method is proposed for Ku-band microwave antenna gain calibration. The microwave electric field (E-field) intensity is precisely measured via electromagnetically induced transparency (EIT) and Autler-Townes (AT) splitting effects. Under the same experimental conditions, the microwave intensity distributions of a standard gain antenna (SGA) and the antenna under test (AUT) are systematically compared, enabling gain calibration of the AUT at 12.007 GHz through the proposed method. Furthermore, a Rydberg atom microwave sensor with multi-level transitions ($$nD_{5/2}$$ - $$(n+1)P_{3/2}$$, n=50 $$\\sim$$ 55), is employed to extend the calibration over a wide frequency range within 12.694 $$\\sim$$ 17.041 GHz, achieving a measurement uncertainty below 0.38 dB. This work establishes a systematic framework for microwave device calibration, providing both theoretical support and experimental validation for precision metrology of high-performance microwave components.",
-                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-                "url": "https://www.nature.com/articles/s41598-026-66480-7?error=cookies_not_supported&code=ec47e237-832f-4bb2-93d7-7499e60b0f92",
-                "source": "Nature",
-                "date": "2026-08-12T11:44:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Will Trump’s proposed drug tariffs end India’s reign as ‘pharmacy of the world’?",
-                "desc": "Analysts warn that steep tariffs on generic medicines will disrupt supply chains, squeeze investment capital from India and raise freight costs.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/12/5ced1fb4-135e-4894-8e27-ca9de6d4a268_69806b87.jpg?itok=hgLEQajV&v=1786534827",
-                "url": "https://www.scmp.com/week-asia/economics/article/3363805/will-trumps-proposed-drug-tariffs-end-indias-reign-pharmacy-world",
-                "source": "South China Morning Post",
-                "date": "2026-08-12T11:40:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pay transparency in job ads improves applications, survey finds",
-                "desc": "Businesses who fail to disclose salary details upfront in job advertisements could be missing out on top talent, according to a new report. A Robert Half...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/QULSXKCE6NCX5O73DCWBAYEUHI.jpg?auth=137c7318f064f9cf88a9b49ef22229dcf90a49d29159dee5096eeecc098a432b&width=1200&height=675&quality=70&focal=2874%2C1125&smart=false",
-                "url": "https://www.nzherald.co.nz/business/pay-transparency-in-job-ads-improves-applications-survey-finds/VR4IFGH4GBG4LFYWISIEOGBYKM/",
-                "source": "NZ Herald",
-                "date": "2026-08-12T11:39:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This card-skimming scam has stolen millions. Here's how the Secret Service is cracking down.",
-                "desc": "A Secret Service analyst told CBS News a single skimming device can net a scammer up to $1 million.",
-                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/11/1011c9c2-9972-43dc-8399-3cb6fdca83c5/thumbnail/1200x630g2/d5bbe7e3bd28117f1621571f27d7205f/card-skimming-scam.jpg",
-                "url": "https://www.cbsnews.com/news/card-skimming-scam-crime-secret-service/",
-                "source": "CBS News",
-                "date": "2026-08-12T11:38:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CRWV, SMIC, COHR",
-                "desc": "These are the stocks posting the largest moves premarket.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108172056-1752584137888-gettyimages-2213626542-COREWEAVE_DEBT_DEAL.jpeg?v=1776976781&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/12/stocks-making-the-biggest-moves-premarket-crwv-smic-cohr.html",
-                "source": "CNBC",
-                "date": "2026-08-12T11:36:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Could more food terminals make groceries more affordable? Ontario growers hope so",
-                "desc": "Ontario farmers and growers say they are hopeful the country’s new food security strategy, which includes an Ontario Food Terminal expansion, could lower grocery prices.",
-                "image": "https://i.cbc.ca/ais/2bc4c534-c2a8-47c1-b08f-2d46bd1a1e3f,1786377757253/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C570%2C5472%2C3078%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/toronto/ontario-food-terminal-expansion-hopes-9.7301935",
-                "source": "CBC",
-                "date": "2026-08-12T11:35:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 Say-on-Pay Results: Strong Overall, With Large Special Awards Common Among Low-Vote Outcomes",
-                "desc": "The 2026 say-on-pay season produced stronger results for most S&P 500 companies. Nearly 75% received at least 90% shareholder support, up from 70% in 2025, while the share below 70% declined from about 6% to 5%. The low-support group became smaller in 2026, but the remaining weakness was more concentrated. Large special awards appeared in […]",
-                "image": "https://corpgov.law.harvard.edu/wp-content/uploads/2021/03/new-shield-facebook.png",
-                "url": "https://corpgov.law.harvard.edu/2026/08/12/2026-say-on-pay-results-strong-overall-with-large-special-awards-common-among-low-vote-outcomes/",
-                "source": "The Harvard Law School Forum on Corporate Governance",
-                "date": "2026-08-12T11:34:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "10 things to know about the CBN’s 2025 annual report and Tinubu’s economic reforms",
-                "desc": "Stay connected via Google News When the Tinubu administration embarked on a sweeping programme of economic reforms in…",
-                "image": "https://www.thecable.ng/wp-content/uploads/2023/11/Collage-Maker-02-Nov-2023-07-33-PM-7226.jpg",
-                "url": "https://www.thecable.ng/10-things-to-know-about-the-cbns-2025-annual-report-and-tinubus-economic-reforms/",
-                "source": "TheCable",
-                "date": "2026-08-12T11:32:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "REDMAGIC Astra 2 gaming tablet released globally",
+                "desc": "REDMAGIC Astra 2 gaming tablet launches globally with Snapdragon 8 Elite Gen 5, 185Hz OLED, 8,300mAh battery, liquid cooling, and up to 16GB RAM.",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz3ooEouWSaM8nvJGMw27iLmcChV-T60lSA-CsVMB7brJuTrgM7eRpOxIVV3TYV-P1qpt1lKTyRl8tAH5kTHgCcn5xGLctDyCRfozCGv9HiPodc3am52SN7cNiSpIAmPGOtPv4wnb2a9c37BPljiHKmHuVm_-ect9O-ElF39oXZcukTp5NoJTUcy8uyJFx/w1600/Screenshot%202026-08-13%20at%208.16.53%E2%80%AFAM.png",
+                "url": "https://www.pinoymetrogeek.com/2026/08/redmagic-astra-2-gaming-tablet-released.html",
+                "source": "Pinoy Metro Geek",
+                "date": "2026-08-13T00:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hogwarts Legacy 2 officially announced by Warner Bros. but there’s a catch",
+                "desc": "A 'second instalment' of Hogwarts Legacy has been confirmed by Warner Bros., as the company talks up the rest of its games business.",
+                "image": "https://metro.co.uk/wp-content/uploads/2026/08/SEI_308135840-cdc4_1786580410.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+                "url": "https://metro.co.uk/2026/08/13/hogwarts-legacy-2-officially-announced-warner-bros-a-catch-29364813/",
+                "source": "Metro.co.uk",
+                "date": "2026-08-13T00:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hogwarts Legacy 2 Is Officially On The Way",
+                "desc": "Hogwarts Legacy 2 Is Officially On The Way",
+                "image": "https://press-start.com.au/wp-content/uploads/2026/08/Hogwarts-Legacy-2.jpg",
+                "url": "https://press-start.com.au/news/playstation/2026/08/13/hogwarts-legacy-2-is-officially-on-the-way/",
+                "source": "Press Start Australia",
+                "date": "2026-08-13T00:15:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UTG maker UTI raises full $2.2M in Korea's first major small-scale public offering since limit expansion",
+                "desc": "South Korean ultra-thin glass manufacturer UTI raised KRW 3 billion (approximately $2.1 million) through a small-scale public offering, fully meeting its fundraising target. The offering, conducted on 10-11 January, attracted a subscription rate of 1.96 to 1.\nThe company issued 1.78 million shares at KRW 1,684 per share. This marked the first case of raising nearly the maximum amount since South Korea expanded the small-scale public offering limit from KRW 1 billion to KRW 3 billion on 28 December.\nUTI will use the funds for mass production of ultra-thin glass for foldable smartphones. The company recently secured final production approval from a global client after completing quality verification and process stabilisation. New shares are scheduled to list on 4 February.",
+                "image": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Ffeed%2Futg-maker-uti-raises-full-2-2m-in-korea-s-first-major-small-scale-public-offering-since-limit-expansion%3Fscreenshot%3Dtrue",
+                "url": "https://app.dealroom.co/news/feed/utg-maker-uti-raises-full-2-2m-in-korea-s-first-major-small-scale-public-offering-since-limit-expansion",
+                "source": "Dealroom",
+                "date": "2026-08-13T00:15:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Subscribe to BRM’s Newsletter and you could Win an Oxford Mondial 2.0 Jacket",
+                "desc": "Join BRM’s free weekly motorcycle newsletter and automatically go in the draw to win an Oxford Mondial 2.0 Laminated Jacket worth $599.",
+                "image": "https://www.brm.co.nz/wp-content/uploads/2026/08/BRM-win_web.jpg",
+                "url": "https://www.brm.co.nz/subscribe-to-brms-newsletter-win-oxford-mondial/",
+                "source": "Bike Rider Magazine",
+                "date": "2026-08-13T00:14:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "miHoYo Is Pulling AI Companion BSide: Olivia Lin From Steam After Just One Month",
+                "desc": "miHoYo is shutting down BSide: Olivia Lin just one month after launch, disabling online features before removing it from Steam.",
+                "image": "https://savepointgaming.co/wp-content/uploads/2026/08/olivia-lin2-save.jpg",
+                "url": "https://savepointgaming.co/tech/mihoyo-ai-bside-olivia-lin-steam/",
+                "source": "SavePoint Gaming",
+                "date": "2026-08-13T00:12:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Pixel Watch 5 pushes smartwatches further into health monitoring",
+                "desc": "Google’s latest smartwatch is pushing wearable technology further into territory once reserved for the doctor’s surgery, promising to detect changes...",
+                "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA4XC8yMDI2LTA4LTEzLTEwLTIxLTAyLTkwODQ3NTA5ZDg1NGY4YmRiOTFiNzMxZjJjOWIyMjVkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+                "url": "https://www.proactiveinvestors.com.au/companies/news/1096968/google-pixel-watch-5-pushes-smartwatches-further-into-health-monitoring-1096968.html",
+                "source": "Proactive financial news",
+                "date": "2026-08-13T00:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pokémon x Toniebox collection coming, preorders open now",
+                "desc": "Pikachu, Bulbasaur, Charmander and Squirtle Tonies on the way.",
+                "image": "https://cdn.vooks.net/vooks/img/2026/08/pkmn-tonies.jpg",
+                "url": "https://www.vooks.net/pokemon-x-toniebox-collection-coming-preorders-open-now/",
+                "source": "vooks.net",
+                "date": "2026-08-13T00:09:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Pokémon GO Trainers can get a free special maxed-out Mewtwo",
+                "desc": "As part of the 10th anniversary celebration, Trainers around the world can enjoy an encounter with a Mewtwo with maxed-out stats and a Special Background.",
+                "image": "https://scopely-website.s3.eu-west-2.amazonaws.com/CebWD8kVX9x8M64lr5UDCwRQnEFSQyuPcU7UOyJi.png",
+                "url": "https://www.scopely.com/en/news/every-pokemon-go-trainer-can-celebrate-10-years-of-pokemon-go-with-a-special-mewtwo",
+                "source": "scopely.com",
+                "date": "2026-08-13T00:05:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Celebration 911 with Giltrap touch for Porsche’s 50th",
+                "desc": "Five examples of $584k 911 GT3 Touring-based car for NZ to mark Porsche’s 50th year here.",
+                "image": "http://static1.squarespace.com/static/59dad03ee9bfdf464d47e01a/59dad155cd39c3774db5fc28/6a7d088a7c19522ae5c1bc7a/1786579622766/NLZ26_0202_fine.jpg?format=1500w",
+                "url": "https://www.motoringnz.com/news/2026/8/13/celebration-911-with-giltrap-touch-for-porsches-50th",
+                "source": "Motoringnz",
+                "date": "2026-08-13T00:04:04Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Researchers slipped a single word, 'bread', directly into an AI model's own neural activations, with nothing in the prompt to hint at it, and Claude Opus still caught the change about one time in five",
                 "desc": "Anthropic has published research testing whether its Claude models can detect when a concept has been artificially inserted into their own internal",
@@ -1174,99 +1264,99 @@
                 "source": "Yahoo Finance",
                 "date": "2026-08-12T14:26:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Meccha Chameleon has now sold 20 million copies in two months",
-                "desc": "Do you want to calculate how much revenue that would be?",
-                "image": "https://assetsio.gnwcdn.com/meccha-chameleon.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/meccha-chameleon-20-million-sales",
-                "source": "Eurogamer.net",
-                "date": "2026-08-12T11:49:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lazarus hackers pair fake job offers with Windows zero",
-                "desc": "North Korea's Lazarus group used fake job offers and a Windows zero-day to target defense and aerospace organizations.",
-                "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/11/03133051/north_korea-flag1.jpg",
-                "url": "https://www.helpnetsecurity.com/2026/08/12/north-korea-lazarus-fake-job-offers/",
-                "source": "Help Net Security",
-                "date": "2026-08-12T11:48:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google TV Freeplay adds on-demand library with 10,000-plus titles",
-                "desc": "Freeplay expands beyond live TV with movies and shows plus 300-plus channels",
-                "image": "https://indiantelevision.com/wp-content/uploads/2026/08/lady-bird-1000x600.jpg",
-                "url": "https://indiantelevision.com/iworld/google-tv-freeplay-adds-on-demand-library-with-10000-plus-titles-260812/",
-                "source": "Indian Television Dot Com",
-                "date": "2026-08-12T11:45:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why you need to be careful watching the solar eclipse on selfie mode",
-                "desc": "Can you watch the solar eclipse in selfie mode on your smartphone? Is it safe? Here's what the experts are saying.",
-                "image": "https://images.globalplayer.com/images/834606?crop=16_9&width=1200&signature=gWIDUZ0QeeMwvBs12qrt7wdi3lw=",
-                "url": "https://www.lbc.co.uk/article/watching-solar-eclipse-selfie-mode-warning-5Hjdfx7_2/",
-                "source": "lbc.co.uk",
-                "date": "2026-08-12T11:43:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RocXZoom Heading to Kickstarter - Robotic 50x Zoom Camera With AI Subject Tracking From Ex-DJI Engineers",
-                "desc": "The RocXZoom robotic 50x zoom camera with AI subject tracking is heading to Kickstarter, built by a team of ex-DJI engineers",
-                "image": "https://www.cined.com/content/uploads/2026/08/RocXZoom.jpeg",
-                "url": "https://www.cined.com/rocxzoom-heading-to-kickstarter-robotic-50x-zoom-camera-with-ai-subject-tracking-from-ex-dji-engineers/",
-                "source": "CineD",
-                "date": "2026-08-12T11:41:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Galaxy Z Fold 8 Ultra review: Big-screen versatility in a remarkably slim package",
-                "desc": "Discover the Samsung Galaxy Z Fold 8 Ultra's impressive design, performance, and display in this comprehensive review of its features.",
-                "image": "https://bl-i.thgim.com/public/incoming/pi93pv/article71336303.ece/alternates/LANDSCAPE_1200/samsung%20fold.jpg",
-                "url": "https://www.thehindubusinessline.com/specials/technophile/samsung-galaxy-z-fold-8-ultra-review-big-screen-versatility-in-a-remarkably-slim-package/article71335492.ece",
-                "source": "BusinessLine",
-                "date": "2026-08-12T11:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Driver Audio Wireless Subwoofer Launched",
-                "desc": "Xiaomi Desktop Speaker Pro Set launches with RGB lighting, a wireless subwoofer, four-driver audio, Bluetooth 5.3, USB connectivity, and EQ modes.",
-                "image": "https://techgenyz.com/wp-content/uploads/2026/08/Xiaomi-Desktop-Speaker-Pro-Set.webp",
-                "url": "https://techgenyz.com/xiaomi-desktop-speaker-pro-set-wireless-subwoofer/",
-                "source": "Techgenyz",
-                "date": "2026-08-12T11:33:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sol's crazy marketing has produced another banger song",
-                "desc": "Who knew cleaning products could be so fun?",
-                "image": "https://htxt.co.za/wp-content/uploads/2026/08/Pine-Sol-New.jpg",
-                "url": "https://htxt.co.za/2026/08/pine-sols-crazy-marketing-has-produced-another-banger-song/",
-                "source": "htxt.co.za",
-                "date": "2026-08-12T11:32:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy Z8 series drives record-high foldable pre-orders in SEA, Oceania",
-                "desc": "The Samsung Galaxy Z8 series has achieved a record-high volume of pre-order sales in Southeast Asia and Oceania.",
-                "image": "https://www.gadgetmatch.com/wp-content/uploads/2026/07/260722-GadgetMatch-Samsung-Galaxy-Z-Fold8-Z-Fold8-Ultra-Z-Flip8-5a-1000x600.jpg",
-                "url": "https://www.gadgetmatch.com/galaxy-z8-series-drives-record-high-foldable-pre-orders-in-sea-oceania/",
-                "source": "GadgetMatch",
-                "date": "2026-08-12T11:32:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I ditched T-Mobile for Mint after 10 years, and saved $120/month - without any service issues",
-                "desc": "The main reason I switched to Mint was that the service uses the same 5G and LTE networks as T-Mobile. So why pay a lot more for basically the same service?",
-                "image": "https://www.zdnet.com/a/img/resize/581359658f113700d2285dae4024933200edfeae/2024/02/26/576800e2-fa42-4eaf-b9fd-5ad69893347c/dsc01373.jpg?auto=webp&fit=crop&height=675&width=1200",
-                "url": "https://www.zdnet.com/article/switching-from-t-mobile-to-mint-saving-money-on-mobile/",
-                "source": "ZDNET",
-                "date": "2026-08-12T11:32:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "More and more older Australians are signing up for adventure travel",
+                "desc": "Intrepid Travel saw 55-plus bookings jump 52 per cent. See how older Australians fund travel, prioritising memories over financial inheritance.",
+                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/190394412/44c4f53b-cdad-4708-a4ab-7bcfbc356b8c.JPG/r0_695_5184_3417_w1200_h630_fmax.jpg",
+                "url": "https://www.canberratimes.com.au/story/9327678/more-and-more-older-australians-are-signing-up-for-adventure-travel/",
+                "source": "The Canberra Times",
+                "date": "2026-08-13T00:34:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dallas combating urban heat islands",
+                "desc": "A Dallas Climate Action urban heat island study found that parts of the city experience higher temperatures than others.",
+                "image": "https://s7d2.scene7.com/is/image/TWCNews/trees_and_heat_web_article",
+                "url": "https://spectrumlocalnews.com/tx/austin/news/2026/08/12/dallas-combating-urban-heat-islands",
+                "source": "Spectrum News",
+                "date": "2026-08-13T00:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spain darkens as solar eclipse races south from Arctic",
+                "desc": "BURGOS, Spain: Day briefly turned to night in Spain on Wednesday, as the country witnessed its first total solar eclipse in more than a century, plunging it into eerie darkness in one of nature’s greatest spectacles.The spectral glow of the Sun’s outer corona, shimmering out of the edges of the shadowy Moon, drew gasps and cheers from huge crowds, just 90 minutes after it",
+                "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/08/13/4740514-84180201.jpg?itok=9xoT94vP",
+                "url": "https://www.arabnews.pk/node/2654461/world",
+                "source": "Arab News PK",
+                "date": "2026-08-13T00:28:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Colombia earthquake death toll rises as frantic search for survivors continues",
+                "desc": "The devastation has tested Colombia's new president and his government as it scrambles to respond to the disaster and civil society as it pushes to provide aid to the most affected communities.",
+                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/13/831adfc6-de59-4250-98a5-6eb846173bc3/thumbnail/1200x630/92e01945b425a4cbb32f2e57de377ac6/gettyimages-2289692108.jpg",
+                "url": "https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors/",
+                "source": "CBS News",
+                "date": "2026-08-13T00:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Economists Fault Nigeria's Fiscal Transparency, Back US Repo",
+                "desc": "Economists back the US report faulting Nigeria's fiscal transparency, warning that poor disclosure and weak budget implementation undermine investor confid",
+                "image": "https://punchng.com/wp-content/uploads/2026/08/Tinubu-and-Oyedele_1786579443.webp",
+                "url": "https://punchng.com/economists-back-us-fault-nigerias-fiscal-transparency/",
+                "source": "Punch Newspapers",
+                "date": "2026-08-13T00:14:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Closer ties with Japan an ‘imperative of our time,’ South Korea’s envoy says",
+                "desc": "Ambassador Lee Hyuk underlines the need for Seoul and Tokyo to boost ties in view of the commonalities they face in terms of the security situation.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/13/556917.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/news/2026/08/13/japan/politics/south-korea-ambassador-japan-interview/",
+                "source": "The Japan Times",
+                "date": "2026-08-13T00:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine website claims over 60 South Africans recruited to fight for Russia",
+                "desc": "The claims have emerged against the backdrop of growing concerns over the recruitment of South Africans and other African nationals.",
+                "image": "https://witness.co.za/wp-content/uploads/sites/144/2026/03/pexels-pixabay-78783.jpg",
+                "url": "https://witness.co.za/news/2026/08/13/ukraine-website-claims-over-60-south-africans-recruited-to-fight-for-russia/",
+                "source": "The Witness | Your compass in the community",
+                "date": "2026-08-13T00:06:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran’s Hormuz authority denies Trump claims of control over strait: What to know",
+                "desc": "Trump administration officials have said oil shipments through the Strait of Hormuz are rising, but maritime traffic remains diminished.",
+                "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-08/GettyImages-2289908012.jpg?h=3d024eaf&itok=IIdjShKl",
+                "url": "https://www.al-monitor.com/originals/2026/08/irans-hormuz-authority-denies-trump-claims-control-over-strait-what-know",
+                "source": "Al-Monitor",
+                "date": "2026-08-13T00:05:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Public-private partnerships in 3 areas crucial for individuals to live longer lives with purpose",
+                "desc": "Insurance can walk the health and life journey with individuals because the insurance business has always been about the long term, with decisions grounded in projecting health risks, medical inflation, and ensuring sustainability over time, according to Ministry of Health Permanent Secretary",
+                "image": "https://www.asiainsurancereview.com/UploadedImages/ImageLibrary/Person/large/Lai_Wei_Lin_Ministry_of_Health_02.JPG",
+                "url": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/96521/Type/eDaily/Public-private-partnerships-in-3-areas-crucial-for-individuals-to-live-longer-lives-with-purpose",
+                "source": "Asia Insurance Review",
+                "date": "2026-08-13T00:01:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan Testing New Tech to Prevent Heatstroke among Elderly",
+                "desc": "Tokyo, Aug. 13 (Jiji Press)--Japan's Environment Ministry has launched a demonstration experiment to help prot…",
+                "image": "https://www.nippon.com/en/ncommon/contents/news/3055853/3055853.jpg",
+                "url": "https://www.nippon.com/en/news/yjj2026080700680/",
+                "source": "nippon.com",
+                "date": "2026-08-13T00:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "White House press secretary Karoline Leavitt to leave role at end of month, says Trump",
                 "desc": "Leavitt joined US president’s 2024 campaign and will become an outside communications adviser",
@@ -1806,98 +1896,8 @@
                 "source": "BBC Sky at Night Magazine",
                 "date": "2026-08-12T14:17:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "University Student Denied Visa Six Times Becomes Medical Doctor, Shares His Story",
-                "desc": "Dr Emmanuel Owolabi has celebrated becoming a doctor after overcoming six visa denials, retaking exams, and enduring challenges in his inspiring academic journey.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/b4e3f51b4480ed91.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/people/636059-university-student-denied-visa-times-medical-doctor-shares-story/",
-                "source": "Tuko News",
-                "date": "2026-08-12T11:49:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Migrant Deaths Double On Central Mediterranean Route As Arrivals Fall In 2026- IOM",
-                "desc": "Migrant deaths more than doubled along the Central Mediterranean Route and tripled along the Eastern Mediterranean Route in the first four months of 2026",
-                "image": "https://leadership.ng/wp-content/uploads/2026/08/Screenshot_20260812-124130_1.jpg",
-                "url": "https://leadership.ng/migrant-deaths-double-on-central-mediterranean-route-as-arrivals-fall-in-2026-iom/",
-                "source": "LEADERSHIP Newspapers",
-                "date": "2026-08-12T11:47:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran refutes Trump’s claim to ‘control’ Hormuz",
-                "desc": "Iran has refuted President Donald Trump’s claim that Washington has “total control” of the Strait of Hormuz, saying the critical waterway will remain closed until the United States accepts its demands and changes its “behaviour”.",
-                "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_a981537e8c.jpg",
-                "url": "https://www.dailymirror.lk/breaking-news/Iran-refutes-Trumps-claim-to-control-Hormuz/108-347987",
-                "source": "Daily Mirror - Sri Lanka",
-                "date": "2026-08-12T11:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ethiopia Selected to Host African Mayoral Leadership Initiative Forum",
-                "desc": "Addis Ababa, August 12, 2026 (ENA) —Ethiopia has been selected to host the upcoming African Mayoral Leadership Initiative (AMALI) Leadership Forum this October in Addis Ababa and Bishoftu.\nThe announcement follows high-level discussions between Chaltu Sani, Ethiopia's Minister of Urban and Infrastructure, and Jennifer Comalie, Executive Director of AMALI.\nThe two leaders met to discuss the forum’s overall significance, long-term impact, and the ongoing sustainability of the initiative.\nMinister Chaltu noted that over the past four years, the initiative has played a pivotal role in strengthening leadership capacity and driving transformative change across Ethiopian cities.\nThe initiative has primarily contributed to strengthening mayoral leadership and creating a lasting legacy, advancing urban digitalization and data management, and helping cities enhance domestic revenue mobilization and build greater self-reliance, she noted.\nThe minister further expressed that the ministry is working with a strong focus and commitment to ensure the success of the upcoming forum.\nThe forum will bring together mayors and city leaders from across Africa.\nAddis Ababa previously hosted the AMALI City Leadership Reunion on October 5 and 6, 2023.\nAMALI seeks to accelerate the transformation of African cities by providing tailored leadership support, fostering peer learning and strengthening the capacity of city leaders to address urban challenges.",
-                "image": "https://www.ena.et/documents/42142/0/sani.jpg/632ec9ad-eb57-a0df-03dd-1b34e9433918?version=1.0&t=1786534961944&download=true",
-                "url": "https://www.ena.et/web/eng/w/eng_9386782",
-                "source": "ENA English",
-                "date": "2026-08-12T11:46:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya Meets U.S. Fiscal Transparency Standards as Tanzania Fails Test",
-                "desc": "The report found that 73 of the 140 governments and entities assessed met the minimum requirements, while 67 did not, with several others in the rejoin failing the test.",
-                "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/trump-and-suluhu-1.jpg.webp?itok=z_WhOyBK",
-                "url": "https://www.kenyans.co.ke/news/126132-kenya-meets-us-fiscal-transparency-standards-tanzania-fails-test",
-                "source": "Kenyans.co.ke",
-                "date": "2026-08-12T11:45:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Navy wants submarine launchers for weapons and underwater drones",
-                "desc": "The US Navy has begun seeking a new generation of submarine payload launchers designed to deploy uncrewed systems as well as weapons. The move raises questions about how far the Royal Navy's future SSN-AUKUS boats will share in the evolving American approach to undersea payloads. On 29 July, the USN signalled interest in launchers able",
-                "image": "https://www.navylookout.com/app/uploads/2026/08/US-Navy-wants-submarine-launchers-to-support-wider-variety-of-payloads.webp",
-                "url": "https://www.navylookout.com/us-navy-wants-submarine-launchers-for-weapons-and-underwater-drones/",
-                "source": "navylookout.com",
-                "date": "2026-08-12T11:45:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zimbabwe ferry capsizes killing 44 passengers on board",
-                "desc": "The ferry \"with 90 people and five crew members has capsized in Lake Kariba\", police said.",
-                "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/fOTK9O1KcWS86PdIvIGmIQLB8WqjV6MbQu1JLVva.jpg",
-                "url": "https://www.standardmedia.co.ke/africa/article/2001555161/zimbabwe-ferry-capsizes-with-95-people-on-board",
-                "source": "standardmedia.co.ke",
-                "date": "2026-08-12T11:44:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CFPs: Increasing Community Resilience and Preparedness to Floods and Cyclones (Mozambique)",
-                "desc": "Deadline: 14-Sep-2026 Enabel is inviting eligible non-profit organizations, NGOs, and foundations to submit projects that strengthen community preparedness and resilience to floods and cyclones in Mozambique’s Mossuril and Namacurra districts. The EUR 1.2 million initiative will support resilient school shelters, community-based early warning and response systems, gender equality, social inclusion, and sustainable disaster risk reduction",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/community-development-2/cfps-increasing-community-resilience-and-preparedness-to-floods-and-cyclones-mozambique/",
-                "source": "fundsforNGOs",
-                "date": "2026-08-12T11:44:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Croatia Announces 1 Reason a Foreigner Could Lose Croatian Citizenship",
-                "desc": "Croatia has mentioned one serious act that could make a foreigner lose Croatian citizenship if they apply to become a citizen of another country.",
-                "image": "https://cdn.legit.ng/images/1200x675/a29d80405cab73aa.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1724642-croatia-announces-1-reason-a-foreigner-lose-croatian-citizenship/",
-                "source": "Legit News",
-                "date": "2026-08-12T11:44:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tanzania Overhauls Laws in Push to Attract Tech Investment",
-                "desc": "The government said the reforms were intended to keep pace with technological advances and changing business models. More than 1,000 laws are set to be reviewed to create a regulatory framework capable of supporting artificial intelligence and technology-driven investment.\n\"As the global economy becomes increasingly digital, Tanzania must ensure that its legal framework evolves accordingly. We are reviewing our laws so they support innovation, investment, and the use of emerging technologies, including artificial intelligence,\" said the Minister for Constitutional and Legal Affairs, Juma Homera.\nHomera warned that outdated regulations could constrain innovation and discourage investment.",
-                "image": "https://cdn.allafrica.com/download/pic/main/main/csiid/00681519:e1656786ea14afb082ba8359795b7349:arc614x376:w1200.png",
-                "url": "https://allafrica.com/view/group/main/main/id/00097743.html",
-                "source": "allAfrica.com",
-                "date": "2026-08-12T11:42:44Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-13T11:04:26.847372Z"
+    "lastGlobalSync": "2026-08-13T12:34:50.454530Z"
 }
