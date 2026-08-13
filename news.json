@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Bumble scraps signature rule and now allows men to make first move on dating app",
+                "desc": "Dating app Bumble announced on Tuesday that it would be getting rid of its hallmark rule that prevents men from making the first move.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260812-bumble-rs-cf52da.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/bumble-scraps-signature-rule-now-allows-men-make-first-move-dating-app-rcna592089",
+                "source": "NBC News",
+                "date": "2026-08-12T14:31:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Via Rail, Exo, shuttle to Trudeau airport will connect via new Dorval transit hub",
+                "desc": "Construction is set to begin on the \"predictable experience for West Island commuters\" in 2027.",
+                "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/08/exo-stk.jpg",
+                "url": "https://montrealgazette.com/news/via-rail-exo-airport-shuttle-dorval-transit-hub/",
+                "source": "montrealgazette.com",
+                "date": "2026-08-12T14:31:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution",
+                "desc": "Netflix migrated most of its batch workloads onto Kueue, an open-source cloud-native batch job execution system that has outgrown its homegrown solution over the years. The company mapped the capabili",
+                "image": "https://res.infoq.com/news/2026/08/netflix-kueue-kubernetes-batch/en/headerimage/generatedHeaderImage-1786536066027.jpg",
+                "url": "https://www.infoq.com/news/2026/08/netflix-kueue-kubernetes-batch/",
+                "source": "infoq.com",
+                "date": "2026-08-12T14:30:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake",
+                "desc": "Spotify introduced external indexing architecture for Apache Parquet data lakes that enables low-latency point queries without replicating datasets into operational databases. The approach maps looku",
+                "image": "https://res.infoq.com/news/2026/08/spotify-data-lake-point-queries/en/card_header_image/generatedCard-1786314729451.jpg",
+                "url": "https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/",
+                "source": "infoq.com",
+                "date": "2026-08-12T14:26:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s largest crypto market opens central bank sandbox to stablecoins and virtual-asset firms",
+                "desc": "Nigeria’s central bank has opened its regulatory sandbox to stablecoins and virtual-asset firms as Africa’s largest crypto market moves further from restrictions towards supervised regulation. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/Ij0ktkpTURBXy9iODc0YzZkOTkyM2Y0MmFkZTdkYzQ0MDcxZTdlOThjNi5qcGeSlQMAAM0EsM0Co5MFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/africas-largest-crypto-market-opens-central-bank-sandbox-to-stablecoins-and-virtual/wrqtgx8",
+                "source": "Business Insider Africa",
+                "date": "2026-08-12T14:24:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pharmacological SOS1 inhibitor BI-3406 synergizes with BCR::ABL1 TKIs reducing leukemia stem cells and overcoming imatinib resistance in CML",
+                "desc": "Disease persistence and resistance remain major challenges in chronic myeloid leukemia (CML). We evaluated pharmacological SOS1 inhibition with BI-3406, alone or in combination with BCR::ABL1 tyrosine-kinase inhibitors (TKI), across complementary preclinical models. In p210BCR/ABL transgenic mice, BI-3406 plus imatinib was well-tolerated, markedly prolonged survival, improved hematologic indices, reduced splenomegaly, and decreased bone-marrow LSK/hematopoietic stem and progenitor cells compared to either agent alone. In human CML cell lines and primary patient-derived bone-marrow cells, combined therapeutic treatments with BI-3406 and imatinib (standard of care BCR-ABL TKI) or next-generation TKIs showed strong synergistic suppression of cellular proliferation and increased apoptosis relative to single-agent treatment. Remarkably, drug combinations containing BI-3406 also restored TKI sensitivity to primary bone-marrow cell samples derived from a variety of CML patients that had been initially identified as clinically resistant to imatinib. Mechanistically, BI-3406 attenuated RAS/RAC-ERK/AKT signaling, while SOS1 knockdown phenocopied BI-3406-mediated imatinib sensitization, supporting an on-target SOS1-dependent therapeutic effect. Upregulation of the membrane transport protein SLC22A4 following combination treatment may contribute to the rescued TKI sensitivity but is probably not the sole underlying mechanism as BI-3406+imatinib retained strong synergistic activity despite SLC22A4 knockdown. Comparison of the transcriptomic profiles revealed that the combined BI-3406+imatinib drug regimen triggered the strongest repression of oncogenic, metabolic and stemness-associated transcriptional programs in treated CML cells. Consistently, serial replating MethoCult assays functionally confirmed the impairment of clonogenic self-renewal capacity and the depletion of murine LSK and human Lin⁻CD34⁺CD38⁻ stem/progenitor-enriched compartments after dual SOS1 and BCR::ABL1 inhibition. Our data support SOS1 targeting as a rational therapeutic strategy to potentiate TKI efficacy, impair CML stem/progenitor self-renewal, and restore drug responsiveness in clinically relevant TKI-resistant settings.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41419-026-09170-6/MediaObjects/41419_2026_9170_Figa_HTML.png",
+                "url": "https://www.nature.com/articles/s41419-026-09170-6?error=cookies_not_supported&code=b59afc00-e4e4-468d-a102-68775a247a38",
+                "source": "Nature",
+                "date": "2026-08-12T14:24:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kitchener scratch ticket winner looks to buy truck for daughter",
+                "desc": "The Kitchener man is $50,000 richer after winning with OLG's Vault Scratch ticket. He plans to pay some bills and buy a truck.",
+                "image": "https://kitchener.citynews.ca/wp-content/blogs.dir/sites/3/2026/08/12/OLG-WINNER-GREG-scaled-e1786542442386.jpg",
+                "url": "https://kitchener.citynews.ca/2026/08/12/kitchener-scratch-ticket-winner-looks-to-buy-truck-for-daughter/",
+                "source": "CityNews Kitchener",
+                "date": "2026-08-12T14:24:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s largest gold producer widens lead over Mali and Burkina Faso as gold exports hit record $20 billion",
+                "desc": "Ghana widened its lead as Africa’s largest gold producer in 2025, with record output of six million ounces lifting export earnings to about $20.2 billion and gold’s share of merchandise exports to 63.1%, amid stronger small-scale production and elevated global prices. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/8O6ktkuTURBXy8xZGE3Yzc0ZS1hYjg1LTRjOWItYjc0MS1mM2NmY2E0M2I5NmIuanBlZ5KVAwDNAQLNIEDNEiSTBc0EsM0Cdg",
+                "url": "https://africa.businessinsider.com/local/markets/africas-largest-gold-producer-widens-lead-over-mali-and-burkina-faso-as-gold-exports/ec988bv",
+                "source": "Business Insider Africa",
+                "date": "2026-08-12T14:24:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Concern after Trump admin hires 2,000 gamers to fill air traffic controller jobs",
+                "desc": "Transportation Secretary Sean Duffy cheers hiring spree but others more skeptical: ‘They can’t just restart a new game’",
+                "image": "https://static.independent.co.uk/2026/05/23/19/25/GettyImages-2246042249.jpg?width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-air-traffic-controllers-gamers-b3031691.html",
+                "source": "independent.co.uk",
+                "date": "2026-08-12T14:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU curbs on 'forever chemicals' in food packaging kick in",
+                "desc": "New EU restrictions on toxic substances known as \"forever chemicals\" in food packaging have kicked in along with broader rules on cutting packaging waste in the bloc.",
+                "image": "https://www.rte.ie/images/0024be72-1600.jpg",
+                "url": "https://www.rte.ie/news/2026/0812/1587613-eu-introduces-new-restrictions-on-pfas-in-food-packaging/",
+                "source": "RTE.ie",
+                "date": "2026-08-12T14:18:29Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "T1 EV to compete with Atto 3, eMas 7; up to 374 PS, global sales possible",
                 "desc": "Jetour TX concept Jetour is on a roll – fresh from launching the T2 and T1 globally, it will follow those up with several new models set to be revealed next week at the Chengdu …",
                 "image": "https://paultan.org/image/2026/08/2026-AutoChinaBeijing-Jetour-TX-1-1200x801.jpg",
@@ -542,99 +632,99 @@
                 "source": "LEADERSHIP Newspapers",
                 "date": "2026-08-12T06:29:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Tata chair Chandrasekaran to step down after tension with controlling charity arm",
-                "desc": "NEW DELHI: The chairman of India's Tata Sons, N Chandrasekaran, said on Wednesday (Aug 12) that he will not seek reappointment at the end of his term due to a lack of backing from the board, following tensions with the charity arm that controls the salt-to-aviation Tata Group.His imminent departure could add",
-                "image": "https://dam.mediacorp.sg/image/upload/s--MWetZzoV--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-12T054450Z_2_LYNXMPEM7B02B_RTROPTP_3_TATA-SONS-CHAIRMAN.JPG?itok=VY2NHlrv",
-                "url": "https://www.channelnewsasia.com/business/tata-chair-chandrasekaran-step-down-board-backing-charity-tension-6314091",
-                "source": "CNA",
-                "date": "2026-08-12T05:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What does this mean for the economy?",
-                "desc": "Over the past 21 years, gold has transformed Ghana’s export economy. From accounting for just over a third of the country’s exports in 2004, gold now",
-                "image": "https://www.citinewsroom.com/wp-content/uploads/2025/01/Gold-.jpeg",
-                "url": "https://www.citinewsroom.com/2026/08/gold-drives-63-of-ghanas-exports-what-does-this-mean-for-the-economy/",
-                "source": "CitiNewsroom.com",
-                "date": "2026-08-12T05:43:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asiana merger enters final phase",
-                "desc": "Asiana Airlines shareholders approved its high-profile merger with Korean Air on Wednesday, clearing a key final hurdle ahead of the official launc...",
-                "image": "https://newsimg.koreatimes.co.kr/2026/08/12/35f459e0-b200-4ddc-b9b9-b9b7cf3a4522.jpg",
-                "url": "https://www.koreatimes.co.kr/business/companies/20260812/korean-air-asiana-merger-enters-final-phase",
-                "source": "The Korea Times",
-                "date": "2026-08-12T05:43:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Zealand bus drivers ‘duped’ into Sydney jobs, unable to return home",
-                "desc": "After being promised a Sydney beach lifestyle, a group of Kiwi bus drivers were left living in sub-standard housing and unable to return home unless they stumped up thousands of dollars.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--gZgABpPT--/t_tohu-badge-facebook/f_auto/q_auto/4NFXPHI_copyright_image_187239",
-                "url": "https://www.rnz.co.nz/news/business/976137/new-zealand-bus-drivers-duped-into-sydney-jobs-unable-to-return-home",
-                "source": "RNZ",
-                "date": "2026-08-12T05:42:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Natural Gas (NATGAS) Surges on Aug 12: Key Factors to Watch",
-                "desc": "Weather models and export demand drove natural gas futures higher.Speculative short-covering accelerated buying flows past technical resistance levels.High production and storage inventories limit sustained long-term rallies.",
-                "image": "https://resource.tradingkey.com/uploads/20260609/commodities-5-0ddb8dbd94ff4de296af8f488f6f2595.jpg",
-                "url": "https://www.tradingkey.com/news/market-movers/262098001-market-movers-natgas-20260812",
-                "source": "TradingKey",
-                "date": "2026-08-12T05:40:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "One-North rezoning to double space for start-ups, including new AI park",
-                "desc": "JTC said the doubling of the permissible floor space lets it rejuvenate LaunchPad as an integrated development. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3020384bdea5e720205097fc144bd421fc6b43ab0a8db7f758412ea4e0883805",
-                "url": "https://www.straitstimes.com/singapore/one-north-rezoning-to-double-space-for-start-ups-including-new-ai-park",
-                "source": "The Straits Times",
-                "date": "2026-08-12T05:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "C174 EV with 792 km range, 320 kW charging launching soon in Malaysia",
-                "desc": "Mercedes-Benz Malaysia (MBM) has teased a new model on social media. “A new star is set for a dazzling debut. Arriving soon in Malaysia,” the caption reads. The video shows a covered car under tightly-wrapped …",
-                "image": "https://paultan.org/image/2026/08/Merc-CLA-Teaser-FB-1200x729.jpg",
-                "url": "https://paultan.org/2026/08/12/new-mercedes-benz-cla-teased-c174-ev-with-792-km-range-320-kw-charging-launching-soon-in-malaysia/",
-                "source": "Paul Tan's Automotive News",
-                "date": "2026-08-12T05:39:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CBA boss Matt Comyn suggests now is a good time to buy a property?",
-                "desc": "First home buyers are approaching the sweet spot where prices are falling, rates are no longer rising, and a new batch of spring property listings is about to hit the market.",
-                "image": "https://static.ffx.io/images/$zoom_0.2606%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_261%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d62a1f1432774b7c8c97d4fe78eb4496cbd6bd85",
-                "url": "https://www.theage.com.au/business/the-economy/is-it-time-to-buy-a-house-here-is-what-the-cba-chief-would-tell-his-kids-20260812-p60nn6.html",
-                "source": "The Age",
-                "date": "2026-08-12T05:39:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CBA boss Matt Comyn suggests now is a good time to buy a property?",
-                "desc": "First home buyers are approaching the sweet spot where prices are falling, rates are no longer rising, and a new batch of spring property listings is about to hit the market.",
-                "image": "https://static.ffx.io/images/$zoom_0.2606%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_261%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d62a1f1432774b7c8c97d4fe78eb4496cbd6bd85",
-                "url": "https://www.smh.com.au/business/the-economy/is-it-time-to-buy-a-house-here-is-what-the-cba-chief-would-tell-his-kids-20260812-p60nn6.html",
-                "source": "smh.com.au",
-                "date": "2026-08-12T05:39:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Claude now watermarks text to indicate that it was generated by AI",
-                "desc": "The watermark will survive copying and pasting text, even lightly editing the text. AI-generated images get watermarked as well.",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/08/claude-will-watermark-ai-generated-text/-952x498w6/gsmarena_0000.jpg",
-                "url": "https://www.gsmarena.com/claude_now_watermarks_text_to_indicate_that_it_was_generated_by_ai-news-74116.php",
-                "source": "GSMArena.com",
-                "date": "2026-08-12T05:38:29Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "James Bond, Mission: Impossible stunt rider reveals favourite Kawasaki bike to use",
+                "desc": "Legendary stunt rider Rick English has revealed his favourite Kawasaki motorcycle to use when performing movie scenes.",
+                "image": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-12t152927.243.png?width=1600&aspect_ratio=16:9",
+                "url": "https://www.visordown.com/news/james-bond-mission-impossible-stunt-rider-reveals-favourite-kawasaki-bike-use",
+                "source": "Visordown",
+                "date": "2026-08-12T14:30:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I stopped using SUMIF after discovering one function that does everything it can and more",
+                "desc": "SUMIF works fine until the second question arrives, and it always does.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/excel-spreadsheet-with-sumifs-written-in-front-with-excel-logo.png?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/stopped-using-sumif-after-discovering-one-function-that-does-everything/",
+                "source": "MakeUseOf",
+                "date": "2026-08-12T14:30:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google aims for influencers with the Pixel 11 Creator Suite",
+                "desc": "The new phones are getting a bundle of features designed to help burgeoning influencers film and edit content.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Creator-Suite-2.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
+                "url": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+                "source": "The Verge",
+                "date": "2026-08-12T14:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ghost Of Yotei Expansion, Roguelike Survival Mode, And Complete Edition Announced",
+                "desc": "Developer Sucker Punch has made several announcements about Ghost of Yotei, including a new expansion, a new combat survival mode, and a complete edition. The new narrative expansion is called Echoes of Sekigahara, and it’s split between the present day and flashbacks. Players will meet a new character, Nagato, who is “a figure from Atsu’s...",
+                "image": "https://s.yimg.com/lo/mysterio/api/52fc534bb82c12cd5ce28b05ea7f1d5705fbbb8f25e44eb44bbe225647d96c40/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgamespot_323%2F3f1e9e558cfbcf89950722ccd80d52cb.jpg",
+                "url": "https://tech.yahoo.com/gaming/articles/ghost-yotei-expansion-roguelike-survival-142948410.html",
+                "source": "Yahoo Tech",
+                "date": "2026-08-12T14:29:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PS5 Exclusive Ghost of Yōtei Is Getting a New Narrative Expansion, New Combat Survival Mode, and More as Part of a Complete Edition",
+                "desc": "Another slice of the action.",
+                "image": "https://sm.ign.com/t/ign_in/news/p/ps5-exclus/ps5-exclusive-ghost-of-yotei-is-getting-a-new-narrative-expa_pfcd.1200.jpg",
+                "url": "https://in.ign.com/ghost-of-yotei/268607/ps5-exclusive-ghost-of-yotei-is-getting-a-new-narrative-expansion-new-combat-survival-mode-and-more",
+                "source": "IGN India",
+                "date": "2026-08-12T14:29:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is a well-lit room ruining your TV viewing? This dazzlingly bright, five-star OLED fights glare with ease",
+                "desc": "It's also rather good for gaming",
+                "image": "https://cdn.mos.cms.futurecdn.net/PDY3q3ddRUKir3Hzs3pWsa-1920-80.jpg",
+                "url": "https://www.whathifi.com/tv-home-cinema/televisions/is-a-well-lit-room-ruining-your-tv-viewing-this-dazzlingly-bright-five-star-oled-fights-glare-with-ease",
+                "source": "What Hi-Fi?",
+                "date": "2026-08-12T14:28:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shop Comedy Sim, Sets Sail On August 25!\"",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/08/120909-f1ec5274/Holey_Ship_Key_art.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=aaf1e05ef97ff16e22ac59753c12e06c78d6c625e17dca18a6de93e2638ed37c",
+                "url": "https://www.gamespress.com/Holey-Ship-The-Four-Player-Repair-Shop-Comedy-Sim-Sets-Sail-On-August-",
+                "source": "Games Press",
+                "date": "2026-08-12T14:27:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dive Into Heartopia’s Latest Collaboration with Dave the Diver Now",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Dive-Into-Heartopias-Latest-Collaboration-with-Dave-the-Diver-Now",
+                "source": "Games Press",
+                "date": "2026-08-12T14:27:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Terra-7: A Colony Sim About Building A Company, Not An Army Manage a colony. Mine an alien world. Care for your workers.",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Terra-7-A-Colony-Sim-About-Building-A-Company-Not-An-Army-Manage-a-col",
+                "source": "Games Press",
+                "date": "2026-08-12T14:26:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TCL CSOT Advances Into Professional Esports and Powers the Future of AI Computing at ChinaJoy 2026",
+                "desc": "TCL CSOT recently wrapped up a strong showing at ChinaJoy 2026 with its \"AI on Screen\" exhibition, where it was joined by partner brands from its broad ecosystem, including Lenovo, AGON, EVNIA, ASUS, LG, MSI, Acer, BenQ, TCL, Sony, and Thunderbird. Appearances from actor and singer Jiro Wang and professional CrossFire players brought extra energy to the booth, while a lineup of interactive activities drew visitors into TCL CSOT's vast world of screens, where entertainment meets cutting-edge disp",
+                "image": "https://s.yimg.com/lo/mysterio/api/B1E6860B09527CD244657E649D06E2EDDA2211CAFF8FA117C1370FDCE021F229/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F2221676c872e76127d5eb74bade5c1a0.jpg",
+                "url": "https://finance.yahoo.com/technology/articles/tcl-csot-advances-professional-esports-142600086.html",
+                "source": "Yahoo Finance",
+                "date": "2026-08-12T14:26:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Meccha Chameleon has now sold 20 million copies in two months",
                 "desc": "Do you want to calculate how much revenue that would be?",
@@ -1174,99 +1264,99 @@
                 "source": "Press Start Australia",
                 "date": "2026-08-12T06:25:59Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "BOE hopes to be Apple's second supplier for the 2027 OLED iPad Air and future MacBook laptops",
-                "desc": "For its 2026 new device lineup, Apple has decided to rely exclusively on OLED panels produced by Samsung Display and LG Display. This has been a setback for BOE , that hoped to enter the supply chain. But it seems as if Apple did not want to take this change, following BEO's consistent quality and production issues.But BOE is not giving up, and a new report from Korea suggests that BOE is developing OLED tablet panels, hoping to enter Apple's supply chain for the 2027 iPad Air, that will utilize an AMOLED display. Apple has already selected Samsung Display as its main supplier for these OLED iPad Air panels, but BOE wishes to become Apple's second supplier. BOE develops these new panels at its B12 6-Gen OLED production line in Chongqing. Apple iPad Air OLED will have 11\" and 13\" displays, both based on TFE-on-glass (hybrid OLED), LTPS backplanes, single-stack OLED architecture and a 60 Hz refresh rate.The panels are at an early stage of development, but BOE is expected to be able to ship samples for Apple soon. Apple will likely make the decision regarding BOE's panels towards the end of 2026. If BOE does not make the cut, Samsung Display will remain an exclusive supplier - this won't be a surprise - in 2026 Apple has selected SDC as its exclusive supplier for its Foldable iPhone, it's iPad Mini and the 14-inch and 16-inch Macbook Pro laptops.In addition to the tablet displays, BOE is also hoping to enter Apple's laptop supply chain, perhaps as soon as in 2028 for the MacBOok Pro OLEDs. BOE looks to develop these panels on its 8.6-Gen B16 OLED production line, but this process will take some time as the line itself hasn't stabilized and did not fully ramp-up yet.",
-                "image": "https://www.oled-info.com/img/oled-info-favicon.ico",
-                "url": "https://www.oled-info.com/boe-hopes-be-apples-second-supplier-2027-oled-ipad-air-and-future-macbook",
-                "source": "oled-info.com",
-                "date": "2026-08-12T05:42:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "84% of Australians Prioritise Smartphone Size and Portability. Samsung Responds with its New Foldable Range, Including Galaxy Z Fold8, Galaxy Z Fold8 Ultra, Galaxy Z Flip8 and two new Watches, Galaxy",
-                "desc": "Samsung Electronics Australia says demand is growing for devices that combine portability with premium performance, as Australians increasingly seek technology that fits seamlessly into their lifestyles. First announced at Unpacked in London on 22 July, 2026, Galaxy Z Fold8, Galaxy Z Fold8 Ultra, Galaxy Z Flip8 smartphones and Galaxy Watch9 and Galaxy Watch Ultra2[1] smartwatches have been designed to empower Australians to live life their way, delivering a balance of productivity, entertainment",
-                "image": "https://s.yimg.com/lo/mysterio/api/387DA3D8CCB7DB8FC4FB14138ADFE34D5DD7EE72F509B46B4BF3D96AFE6C5228/subgraphmysterio/resizefill_w1200_h1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2Ffa0b29473d90c95805d88bae840468b3.png",
-                "url": "https://finance.yahoo.com/technology/articles/84-australians-prioritise-smartphone-size-054200131.html",
-                "source": "Yahoo Finance",
-                "date": "2026-08-12T05:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New leak offers a closer look at the iPhone Ultra's front panel",
-                "desc": "Tipster Ice Universe has shared images and a hands-on video of what is claimed to be a screen protector for Apple's rumored iPhone Ultra. The images shared show square corners near the hinge and rounded corners on the opposite edge.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HPbovtyaMAA18t-1.jpg",
-                "url": "https://www.notebookcheck.net/Leaked-iPhone-Ultra-screen-protector-hints-at-its-front-design.1366408.0.html",
-                "source": "notebookcheck.net",
-                "date": "2026-08-12T05:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Joe Wicks Shares His Simple Approach to Getting Enough Protein - 'It Doesn't Have to Be That Complicated'",
-                "desc": "The Body Coach favours flexibility over hitting an exact number every day – but there's still a protein target worth knowing if you want to build muscle.",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/1b27a97b-6bb4-4846-bc90-9c8bc46bfcaf.jpg?crop=1.00xw:0.334xh;0,0.0662xh&resize=1200:*",
-                "url": "https://www.menshealth.com/uk/nutrition/food-drink/a73403406/joe-wicks-simple-protein-approach/",
-                "source": "Men's Health",
-                "date": "2026-08-12T05:32:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Review: The Samsung Galaxy A27 5G, a mid-ranger with all the Samsung pizzazz",
-                "desc": "Choosing your next phone upgrade is not an easy thing to do. Especially not in this economy, where the budget on practically everything is starting to get...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/12/122986.webp",
-                "url": "https://mb.com.ph/2026/08/12/review-the-samsung-galaxy-a27-5g-a-mid-ranger-with-all-the-samsung-pizzazz",
-                "source": "Manila Bulletin",
-                "date": "2026-08-12T05:28:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Private Repository Leak",
-                "desc": "Mozilla has revoked a cryptographic signing key used to verify Firefox and Thunderbird downloads for Linux. Learn more about it here,",
-                "image": "https://www.phoneworld.com.pk/wp-content/uploads/2026/08/Firefox-Thunderbird-Signing-Key.jpg",
-                "url": "https://www.phoneworld.com.pk/mozilla-revokes-firefox-and-thunderbird-linux-signing-key-after-private-repository-leak/",
-                "source": "PhoneWorld",
-                "date": "2026-08-12T05:28:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "V for datacentre connectivity ⋆ Electronics Weekly",
-                "desc": "Imec has proposed an approach to connectivity inside datacentres which integrates CMOS, BiCMOS and III-V chiplets. It uses cost-effective manufacturing",
-                "image": "https://static.electronicsweekly.com/wp-content/uploads/2026/06/19093350/favicon-96x96-1-75x75.webp",
-                "url": "https://www.electronicsweekly.com/news/business/imec-proposes-a-mix-of-cmos-bicmos-and-iii-v-for-datacentre-connectivity-2026-08/",
-                "source": "Electronics Weekly",
-                "date": "2026-08-12T05:27:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Houston’s DIOS Are Dropping an adidas Megaride S2",
-                "desc": "DIOS are hosting a special event to release their adidas Megaride S2.",
-                "image": "https://cdn.sanity.io/images/c1chvb1i/production/81801d0b29f7de7ebda90bfda18f3198c4a60345-1960x1320.jpg",
-                "url": "https://www.sneakerfreaker.com/releases/dios-adidas-megaride-S2-price-buy-release-date",
-                "source": "Sneaker Freaker",
-                "date": "2026-08-12T05:19:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AVA RE:BIRTH Set to Launch in Fall 2026! Teaser Website & Trailer Released",
-                "desc": "GOP Co., Ltd. announced the official title of its new FPS project as AVA RE:BIRTH. The company launched a teaser website and trailer while confirming a planned …",
-                "image": "https://i0.wp.com/uploads.saigacdn.com/2026/08/avarebirth-teaser-00.jpg?resize=1200,630",
-                "url": "https://saiganak.com/news/avarebirth-teaser/",
-                "source": "Saiga NAK",
-                "date": "2026-08-12T05:19:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xiaomi launches new smartphones that feature the company's self-developed green pTSF OLED emitters",
-                "desc": "Xiaomi launched two smartphones yesterday, the Redmi K100 Pro and the Redmi K100 Pro Max. The K100 Pro features a 6.59\" 185Hz 4,500 nits (peak) 1156x2510 full-RGB AMOLED display, while the K100 Pro Max increases the display size to 6.9\", with a 1200x2608 resolution.Xiaomi says that this is the first smartphone to utilize its new self-developed green pTSF emitter system. The company says it developed this new emitter system in collaboration with researchers at Tsinghua University. It is likely that the actual panel producer is Visionox - that also has strong ties to Tsinghua University (as it was founded as a University spinoff back in 2001), and Visionox indeed started producing commercial OLED displays with green pTSF OLED emitter systems earlier this year. Last year Xioami developed its own red OLED emitter system, probably based on phosphorescence emitters. It is not clear whether these new smartphones utilize also the company's red emitters. Interestingly, there was an online mention that Xiaomi is referring to the OLED stack as the \"M11 OLED\", which is similar to Samsung Display's naming schemes. You can learn more about Visionox's pTSF / PSF OLED emitter systems here and in our latest Visionox Spotlight article.",
-                "image": "https://www.oled-info.com/img/oled-info-favicon.ico",
-                "url": "https://www.oled-info.com/xiaomi-launches-new-smartphones-say-they-feature-companys-self-developed-red",
-                "source": "OLED-Info",
-                "date": "2026-08-12T05:17:44Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Pertamina Lubricants Exports 11,000 KL of Lubricants Per Year, from Tuhuan Korea to Tazmania",
+                "desc": "PT Pertamina Lubricants reported that, to date, the average export of lubricants carried out has reached 11,000 kiloliters (KL) per year.",
+                "image": "https://imgsrv2.voi.id/sNVQ853WtPg24YUqsWjrLjIrlIRKg5mBW00wJ9jZ6R4/rs:fill/w:800/h:450/g:sm/wm:1:nowe:0:0:1/bG9jYWw6Ly8vcHVibGlzaGVycy81ODkzNjgvMjAyNjA4MTIyMDA5LW1haW4uY3JvcHBlZF8xNzg2NTQwMjE2LmpwZWc.jpg",
+                "url": "https://voi.id/en/economy/589368",
+                "source": "VOI.ID",
+                "date": "2026-08-12T14:32:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Solar Eclipse Streams on Netflix Today: First Paid-Subscription Government Broadcast",
+                "desc": "Solar eclipse live stream 2026: NASA broadcasts today’s total solar eclipse across Netflix, Discovery+, Amazon Prime, YouTube, X, and NASA+ simultaneously -- the first government science broadcast to",
+                "image": "https://d.techtimes.com/en/full/472370/eclipse.png",
+                "url": "https://www.techtimes.com/articles/324100/20260812/solar-eclipse-streams-netflix-today-first-paid-subscription-government-broadcast.htm",
+                "source": "Tech Times",
+                "date": "2026-08-12T14:30:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
+                "desc": "The legislation will ‘exceptionally’ reduce certain prison terms, says Lebanon’s parliament speaker.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7c6545a530-1786537285.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal",
+                "source": "Al Jazeera",
+                "date": "2026-08-12T14:30:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "“I Just Want to Study”: Boy With Rare Eyes Dreams of School After Being Exploited for His Appearance",
+                "desc": "Travel filmmaker has shared the heart-wrenching story of Abushe, a street boy with striking blue eyes, who dreams of education amidst commercial exploitation.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/e15899b117139253.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/people/family/636078-i-study-boy-rare-eyes-dreams-school-exploited-appearance/",
+                "source": "Tuko News",
+                "date": "2026-08-12T14:27:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Crown 32 Years in the Making",
+                "desc": "Investment strategist Deepmala Dhakal was crowned Miss Nepal World 2026, securing the country’s top beauty pageant title while fulfilling a family dream that began more than three decades ag…",
+                "image": "https://southasianherald.com/wp-content/uploads/2026/08/miss-nepal-1200x1200.jpg",
+                "url": "https://southasianherald.com/a-crown-32-years-in-the-making/",
+                "source": "South Asian Herald",
+                "date": "2026-08-12T14:26:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside the Secret Dinosaur Black Market Selling “Franken-Fossils” for Millions",
+                "desc": "Dinosaur fossil black market networks span Mongolia to Europe, fueling looting, fraud, and multimillion-dollar sales that strip bones of their scientific value.",
+                "image": "https://s.yimg.com/lo/mysterio/api/4fac3e75e04f45308de5803b92d6439c4a12d44d275126e59d20ea800407442e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2F13f29c2893aa64a5db32ff58b71f06fa.jpg",
+                "url": "https://www.yahoo.com/news/science/articles/inside-secret-dinosaur-black-market-142603814.html",
+                "source": "yahoo.com",
+                "date": "2026-08-12T14:26:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Suspected scammer caught in Singapore with fake employee passes and stamps with Supreme Court emblem",
+                "desc": "SINGAPORE: A Malaysian man was caught at Woodlands Checkpoint on Tuesday (Aug 11) allegedly with items such as fake employee passes and official-looking stamps believed to be for the purposes of carrying out scams.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/12/4056659.png",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/12/suspected-scammer-caught-in-singapore-with-fake-employee-passes-and-stamps-with-supreme-court-emblem",
+                "source": "The Star",
+                "date": "2026-08-12T14:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "German 6x6 armored vehicle production to expand under Patria",
+                "desc": "BERLIN, Germany. Patria and KNDS Deutschland Maintenance signed a framework agreement covering assembly and final integration of Patria 6x6 armored personnel carriers for Germany under the multinational Common Armoured Vehicles (CAVS) program, the company announced in a statement.",
+                "image": "https://data.militaryembedded.com/uploads/resize/1256/756/external/data.militaryembedded.com/uploads/articles/primary_images/1786544552.jpg",
+                "url": "https://militaryembedded.com/comms/vetronics/german-6x6-armored-vehicle-production-to-expand-under-patria-knds-agreement",
+                "source": "Military Embedded Systems",
+                "date": "2026-08-12T14:23:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What is now happening at the viral Moscow refinery whose ‘roof flew off’ in a blast in June? (Ukraine Battlefield update, Day 1,630)",
+                "desc": "After the “roof-flew-off” video from Kapotnya went viral, cooler satellite images, duelling frontline maps, and haunting drone footage of doomed lorry drivers revealed a far grimmer, longer game, unfolding behind the clips.",
+                "image": "https://static.euobserver.com/2026/08/h_7112606_1280.png",
+                "url": "https://euobserver.com/232193/what-is-now-happening-at-the-viral-moscow-refinery-whose-roof-flew-off-in-a-blast-in-june-ukraine-battlefield-update-day-1630/",
+                "source": "EUobserver",
+                "date": "2026-08-12T14:21:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Can you use old eclipse glasses? Here's what the experts say",
+                "desc": "So you've got an old pair of solar eclipse glasses. Can you reuse them to see a solar eclipse? Here's what the experts say.",
+                "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/2e1c6f1f-6a45-4b59-8c0c-74a533ed0028/thumbnails/4ff1bde6-d9a9-4071-9cc0-effec20c8c17.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&w=1200",
+                "url": "https://www.skyatnightmagazine.com/news/can-you-use-old-eclipse-glasses",
+                "source": "BBC Sky at Night Magazine",
+                "date": "2026-08-12T14:17:48Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "University Student Denied Visa Six Times Becomes Medical Doctor, Shares His Story",
                 "desc": "Dr Emmanuel Owolabi has celebrated becoming a doctor after overcoming six visa denials, retaking exams, and enduring challenges in his inspiring academic journey.",
@@ -1806,98 +1896,8 @@
                 "source": "The Diplomatic Insight",
                 "date": "2026-08-12T06:22:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Why have several nations raised red flags over Indian farm exports?",
-                "desc": "As Japan turns back mangoes, China blocks rice, and European inspectors flag spices, India’s growers ask what’s wrong.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/06-1786372437.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports",
-                "source": "aljazeera.com",
-                "date": "2026-08-12T05:44:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How GDI can support ASEAN's next phase of growth",
-                "desc": "BEIJING, Aug. 12, 2026 /PRNewswire/ -- This is an op-ed from China Daily:",
-                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-                "url": "https://www.manilatimes.net/2026/08/12/tmt-newswire/pr-newswire/how-gdi-can-support-aseans-next-phase-of-growth/2403629",
-                "source": "manilatimes.net",
-                "date": "2026-08-12T05:43:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
-                "desc": "Iran’s top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7b74a67381-1786475686.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran",
-                "source": "Al Jazeera",
-                "date": "2026-08-12T05:43:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mindanao small producers seek wider markets, stronger business support",
-                "desc": "CAGAYAN DE ORO CITY (MindaNews / 12 August 2026) — Across Mindanao, small producers and emerging enterprises are making products that reflect local resources,",
-                "image": "https://mindanews.com/wp-content/uploads/2026/08/12minbizcon4.jpg",
-                "url": "https://mindanews.com/business/2026/08/mindanao-small-producers-seek-wider-markets-stronger-business-support/",
-                "source": "MindaNews",
-                "date": "2026-08-12T05:41:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donald Trump says Secret Service wanted him to switch planes for secret flight",
-                "desc": "He downplayed the risk to the people left on the plane and said the incident did not scare him.",
-                "image": "https://img2.thejournal.ie/article/7128138/river/?height=400&version=7128157",
-                "url": "https://www.thejournal.ie/donald-trump-switch-planes-air-force-one-7128138-Aug2026/",
-                "source": "The Journal",
-                "date": "2026-08-12T05:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Concern over Anglian Water burst pipe flooding during drought",
-                "desc": "Northamptonshire landowners say the company fails to fix its leaks but expects others to save water.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e53/live/094b8d70-9598-11f1-870d-5d08c49babb2.png",
-                "url": "https://www.bbc.co.uk/news/articles/c4gdx4421xgo",
-                "source": "BBC",
-                "date": "2026-08-12T05:37:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Concern over Anglian Water burst pipe flooding during drought",
-                "desc": "Northamptonshire landowners say the company fails to fix its leaks but expects others to save water.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5e53/live/094b8d70-9598-11f1-870d-5d08c49babb2.png",
-                "url": "https://www.bbc.com/news/articles/c4gdx4421xgo",
-                "source": "BBC",
-                "date": "2026-08-12T05:37:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Remains of two Wehrmacht soldiers from Danube: one served in Waffen-SS",
-                "desc": "A well-preserved Wehrmacht motorbike is recovered from the Danube, along with two German soldiers' remains and ID tags. One likely served in the Waffen-SS. Experts now examine the bones: how old were the men, did they hit a mine?",
-                "image": "https://images.euronews.com/articles/stories/09/87/02/04/1200x675_cmsv2_5a5ff3a1-7307-5090-8bc8-43ee20c15370-9870204.jpg",
-                "url": "https://www.euronews.com/culture/2026/08/12/remains-of-two-wehrmacht-soldiers-from-danube-one-served-in-waffen-ss",
-                "source": "Euronews.com",
-                "date": "2026-08-12T05:34:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
-                "desc": "Ukraine’s president also says Russia will use its election next month as a pretext to declare a new mobilisation.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26106330944934-1777788781.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia",
-                "source": "Al Jazeera",
-                "date": "2026-08-12T05:33:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EAC and Germany launch second AI challenge targeting 20,000 East Africans",
-                "desc": "The East African Community (EAC) and the Government of Germany have launched the second edition of the EAC Artificial Intelligence Challenge, expanding opportunities for young people, researchers and entrepreneurs across the region to develop artificial intelligence skills and solutions to local challenges.",
-                "image": "https://www.kbc.co.ke/wp-content/uploads/2026/08/EAC-GERMANY-AI-SKILLS.jpg",
-                "url": "https://www.kbc.co.ke/eac-and-germany-launch-second-ai-challenge-targeting-20000-east-africans/",
-                "source": "KBC Digital",
-                "date": "2026-08-12T05:32:30Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-12T23:50:19.362165Z"
+    "lastGlobalSync": "2026-08-13T02:32:46.914195Z"
 }
