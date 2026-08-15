@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Gas prices set to change when excise tax pause expires - what to know",
+                "desc": "Some temporarily relief at the gas pump for Canadian consumers is set to end next month when the fuel excise tax pause is scheduled to expire.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/08/gas-excise-tax.jpg-e1786727650516.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/12021613/gas-prices-excise-tax-pause/",
+                "source": "globalnews.ca",
+                "date": "2026-08-14T18:00:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+                "desc": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-1152x648.jpg",
+                "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+                "source": "arstechnica.com",
+                "date": "2026-08-14T18:00:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICG management buyout undervalues ferry operator by 39%, shareholder claims",
+                "desc": "Irish Ferries operator is the subject of a management-led buyout, which some stakeholders oppose",
+                "image": "https://www.irishtimes.com/resizer/v2/RBILYID2ONDQSEJGOJMEWON25A.jpg?smart=true&auth=e081841202bacfb0c3a505686c208d25ade0a3304029b4989989ee189bc54abc&width=1200&height=630",
+                "url": "https://www.irishtimes.com/business/2026/08/14/icg-management-buyout-undervalues-ferry-operator-by-39-shareholder-claims/",
+                "source": "The Irish Times",
+                "date": "2026-08-14T18:00:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Auction activity bouncing along at its winter lows",
+                "desc": "Overall sales rate of 38% at the latest residential property auctions",
+                "image": "https://www.interest.co.nz/sites/default/files/2025-05/auctionHouse.jpg",
+                "url": "https://www.interest.co.nz/property/139825/overall-sales-rate-38-latest-residential-property-auctions",
+                "source": "Interest.co.nz",
+                "date": "2026-08-14T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stirling council gives green light for five new restaurants and cafes at Central Shopping Centre",
+                "desc": "A slew of new eateries and alfresco dining areas are on the way for a shopping centre in Perth’s northern suburbs.",
+                "image": "https://images.perthnow.com.au/publication/C-22690730/b104f3c3b0a7d87ed0bdbcf06d20469dbd85d4dc-16x9-x0y33w1954h1099.jpg?imwidth=1200",
+                "url": "https://www.perthnow.com.au/food/stirling-central-shopping-centre-dining-expansion-approved-c-22690730",
+                "source": "PerthNow",
+                "date": "2026-08-14T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MPPs issue open letter on ‘horrific stories’ at Extendicare Countryside",
+                "desc": "Extendicare Countryside was forced to cease admissions on Aug. 6 after inspection reports indicated residents face ongoing risks to their health, safety and well-being",
+                "image": "https://www.vmcdn.ca/f/files/sudbury/images/LocalImages/090426_tc_extendicare_rally3.JPG;w=1200;h=800;mode=crop",
+                "url": "https://www.sudbury.com/local-news/mpps-issue-open-letter-on-horrific-stories-at-extendicare-countryside-12666153",
+                "source": "Sudbury News",
+                "date": "2026-08-14T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SLV ETF: Silver's Role As Fiat Currency Backing Asset Emerging",
+                "desc": "Silver market outlook: explore supply-demand imbalances, monetary policy, and industrial demand—plus central bank buying.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2280570928/image_2280570928.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4936872-slv-etf-silvers-role-as-fiat-currency-backing-asset-emerging",
+                "source": "Seeking Alpha",
+                "date": "2026-08-14T17:56:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ACE, ACMA Collaborate on Free Composites Course",
+                "desc": "A refreshed online intro course by ACE and ACMA is now available to help build foundational composites knowledge.",
+                "image": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/cw/2026-cw/0826-cw-news-ace-acma-course.png;maxWidth=1200",
+                "url": "https://www.compositesworld.com/news/ace-acma-collaborate-on-free-composites-course",
+                "source": "CompositesWorld",
+                "date": "2026-08-14T17:50:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Neoclouds Are A Trade, Not An Investment",
+                "desc": "Nebius Group and CoreWeave reported explosive Q2 growth, but avoid long-term ownership due to capital structure fragility. Click here to read more.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2220588451/image_2220588451.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4936867-the-neoclouds-are-a-trade-not-an-investment",
+                "source": "Seeking Alpha",
+                "date": "2026-08-14T17:49:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GitKraken Introduces GitLens 19, Bringing Human and AI Workflows Together in One Workbench",
+                "desc": "The reimagined Commit Graph gives developers one place to understand, coordinate, review, and ship work across coding",
+                "image": "https://pix.xpr.media/p/eyJzIjoiNjczM2U0NDQtZGEwMi00MGMxLWFmN2ItNzA4MDM5MGM0YjQ0IiwiYyI6ImMzNGY2NWRlLTdiZjUtNDVkYi1iYWMzLTljZmM4MDdhMTExZCIsInYiOjF9.u2ZtGl75LarDCkLcRWTgbbdITt7AvKaFx_s9xLY4U3c.gif",
+                "url": "https://www.usatoday.com/press-release/story/40184/gitkraken-introduces-gitlens-19-bringing-human-and-ai-workflows-together-in-one-workbench/",
+                "source": "USA Today",
+                "date": "2026-08-14T17:48:39Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "A sunscreen ‘gamechanger?’ What the science says about bemotrizinol",
                 "desc": "Stanford Health Care delivers the highest levels of care and compassion. SHC treats cancer, heart disease, brain disorders, primary care issues, and many more.",
                 "image": "https://med.stanford.edu/etc.clientlibs/stanford/clientlibs/themed/resources/resources/icon-192x192.png",
@@ -542,99 +632,99 @@
                 "source": "The Manila Times",
                 "date": "2026-08-14T10:55:46Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "One-third of Dutch motorists ignore vehicle recalls",
-                "desc": "One in three Dutch motorists ignored a vehicle safety recall last year, AD reports. The RDW, the Dutch vehicle registration and inspection authority, now wants every car with an outstanding recall repaired. Last year, 400,000 car owners received one or more letters warning of a potentially dangerous defect.",
-                "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2023-07/Depositphotos_130194758_XL.jpg?h=570d5480",
-                "url": "https://nltimes.nl/2026/08/14/one-third-dutch-motorists-ignore-vehicle-recalls",
-                "source": "nltimes.nl",
-                "date": "2026-08-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump Accounts tax benefits are lacking, Ramsey expert cautions",
-                "desc": "Ramsey Solutions personality George Kamel warns parents over Trump Accounts' tax benefits and says to prioritize being debt-free with an emergency fund before investing for kids.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/trump-accounts-presser-white-house.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/personal-finance/ramsey-personality-took-trumps-son-then-warned-parents-about-one-big-mistake",
-                "source": "Fox Business",
-                "date": "2026-08-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Irish man charged after being arrested by armed police on Las Vegas-bound flight",
-                "desc": "Emmet Moynihan, 31, of Mount Vernon, Cork City, has been charged with allegedly being drunk on an aircraft and disobeying the orders of the captain",
-                "image": "https://i2-prod.irishmirror.ie/article37551561.ece/ALTERNATES/s1200d/1_Screenshot-2026-08-14-at-084351.jpg",
-                "url": "https://www.irishmirror.ie/news/irish-news/irish-man-charged-after-being-37551562",
-                "source": "Irish Mirror",
-                "date": "2026-08-14T09:59:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold rebounds as retail sales miss offsets oil-driven inflation risk - Kitco AM Report",
-                "desc": "(Kitco NewsWire) - Spot gold and silver prices are higher in early U.S. trading Friday, after July retail sales unexpectedly fell and reinforced the market’s view that the Federal Reserve is closer to holding rates steady in September. At the time of writing, spot gold was trading near $4,376.40 an ounce, up 0.60%, while spot silver was trading at $64.740, up 0.66% on the session.The latest positioning shifted further toward a Fed hold after this morning’s retail sales report. July retail sales fell 0.6%, against expectations for a 0.1% increase, while sales excluding autos declined 0.3%. The miss followed Wednesday’s cooler CPI report and Thursday’s flat headline PPI print, leaving the market-implied probability of a 25-basis-point September rate hike near 32% to 33%, down from nearly 50% a week ago. The 10-year Treasury yield is trading near the 4.6% area, while the U.S. dollar index remains below 100.00. The softer consumer data are supportive for gold through the rates channel, but the move is capped by higher oil prices and the market’s focus on the University of Michigan sentiment report at 10 a.m. ET.The Strait of Hormuz remains the main geopolitical channel into oil, inflation expectations and defensive demand. Two UAE tankers were attacked while trying to cross the strait, and Washington has signaled new economic-isolation measures against Iran while saying the U.S. blockade can be sustained indefinitely. Brent crude is trading near $88.50 a barrel and U.S. crude is near $82.80, keeping energy risk in the Fed debate even as the week’s inflation and spending data weaken the case for another hike. For gold, the impact remains two-sided: shipping risk supports safe-haven demand, while higher crude keeps inflation risk alive and limits the downside in Treasury yields.Global markets were mixed ahead of the U.S. open. S&P 500 futures were little changed after the index logged its 27th record close of the year, Nasdaq futures edged higher and Dow futures slipped. In Europe, Germany’s DAX was modestly firmer, while France’s CAC 40 and the U.K.’s FTSE 100 were softer. Asian trade was mixed, with Japan higher and Hong Kong and mainland China weaker.The key outside markets see Nymex WTI crude oil prices firmer and trading around $82.80 a barrel, while Brent crude was near $88.50. The yield on the benchmark 10-year U.S. Treasury note is trading near the 4.6% area. The U.S. dollar index is softer. (Kitco Global Index shows how much of today's gold move is the dollar versus the gold market itself.)Technically, spot gold bulls' next upside price objective is to push prices back above the $4,448.00 resistance level, with a sustained move targeting $4,575.00 and then $4,666.00. Bears' next near-term downside price objective is a break below $4,322.00, with deeper downside targets at $4,263.00 and then $4,205.00. First resistance is seen at $4,448.00 and then at $4,575.00. First support is seen at $4,330.00 and then at $4,322.00.Spot silver bulls' next upside price objective is to drive prices back above $65.44, with a move above that level targeting $66.83. The next downside price objective for the bears is a break below $64.16, with deeper downside targets at $63.10 and then $62.04. First resistance is seen at $65.44 and then at $66.83. Next support is seen at $64.16 and then at $63.10.See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.",
-                "image": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0&left=0.11633719609183&width=1023.7673256078&height=576&scale_width=1920&token=964ac16f59a02f42582063ab0d02f13b6b8b505cb0b3dd73e068f89962f082b8",
-                "url": "https://www.kitco.com/news/article/2026-08-14/gold-rebounds-retail-sales-miss-offsets-oil-driven-inflation-risk-kitco-am",
-                "source": "KITCO",
-                "date": "2026-08-14T09:57:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Bitcoin Ends Week Lower After Failing to Break $65,000 Resistance; Focus Shifts to FOMC Minutes",
-                "desc": "Bitcoin closed the week in negative territory after failing to break through the $65,000 resistance level. Expectations for digital asset…",
-                "image": "https://img.biggo.com/BcgC5_rlKoa2Ext8r-1GQoK7qL4fTNkaRY4ylxnFWWU/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzQ4ODhlMzNjLTY0YTMtNGQ0My04OTBlLWQ3MGRlMWUxNmU0MF8xNzg2NzAxNjE3X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/4888e33c-64a3-4d43-890e-d70de1e16e40",
-                "source": "finance.biggo.com",
-                "date": "2026-08-14T09:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "An AI-Health infrastructure for the Nordic region: technical foundations, data assets, and a roadmap for deployment",
-                "desc": "In this Comment, we outline the Nordic AI-Health Initiative platform, built on unique large-scale longitudinal and multimodal health data sets from across the region. The platform is designed to enable secure, regulation-compliant access and to deliver generalizable models for responsible AI-driven discovery in medicine.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04575-4/MediaObjects/41591_2026_4575_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41591-026-04575-4?error=cookies_not_supported&code=7de72aa3-90e6-495b-9170-e70390f45f2e",
-                "source": "Nature",
-                "date": "2026-08-14T09:53:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Team8 grows to $2bn AUM with new $365m war chest",
-                "desc": "Team8 secures $365m to back cybersecurity and AI-era founders. Read the full story now for strategic funding insight.",
-                "image": "https://fintech.global/wp-content/uploads/2026/08/ashin-k-suresh-mkxTOAxqTTo-unsplash-scaled.jpg",
-                "url": "https://fintech.global/2026/08/14/team8-grows-to-2bn-aum-with-new-365m-war-chest/",
-                "source": "FinTech Global",
-                "date": "2026-08-14T09:50:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Godrej Industries appoints Pirojsha Godrej as Executive Chairperson",
-                "desc": "Pirojsha now leads the listed Godrej Industries Group, while the unlisted Godrej Enterprises Group operates separately.",
-                "image": "https://asset.peoplematters.in/images/5e90c9c9-4687-48ad-a9d4-0fe52c505c43.jpg",
-                "url": "https://www.peoplematters.in/news/appointments/godrej-industries-appoints-pirojsha-godrej-as-executive-chairperson-51455",
-                "source": "People Matters - HR News",
-                "date": "2026-08-14T09:49:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GDP up by 0.4% and employment up by 0.1% in the euro area",
-                "desc": "GDP growth in the euro area and EU In the second quarter of 2026, seasonally adjusted GDP increased by 0.4% in the euro area and by 0.5% in the EU, compared with the previous quarter, according to a flash estimate published by Eurostat, the statistical office of the European Union. In the first quarter of 2026, GDP had remained stable in the euro area and had increased by 0.1% in the EU. Compared with the same quarter of the previous year, seasonally adjusted GDP increased by 1.0% in the euro area and by 1.2% in the EU in the second quarter of 2026, after +0.5% in the euro area and +0.8% in the EU in the previous quarter. During the second quarter of 2026, GDP in the United States increased by 0.4% compared to the previous quarter (after +0.5% in the first quarter of 2026). Compared with the same quarter of the previous year, GDP increased by 2.1% (after +2.7% in the previous quarter). Employment growth in the euro area and EU The number of employed persons increased by 0.1% in both the euro area and the EU in the second quarter of 2026, compared with the previous quarter. In the first quarter of 2026, employment had increased by 0.1% in the euro area and had remained stable in the EU. Compared with the same quarter of the previous year, employment increased by 0.5% in both the euro area and the EU in the second quarter of 2026, after +0.5% in the euro area and +0.6% in the EU in the first quarter of 2026. These data provide a picture of labour input consistent with the output and income measures of national accounts. Tables Growth rates of employment in persons Percentage change compared with the previous quarter (based on seasonally adjusted data) Percentage change compared with the same quarter of the previous year (based on unadjusted data) 2025Q3 2025Q4 2026Q1 2026Q2 2025Q3 2025Q4 2026Q1 2026Q2 Euro area 0.2 0.2 0.1 0.1 0.7 0.7 0.5 0.5 EU 0.1 0.2 0.0 0.1 0.6 0.6 0.6 0.5 Source datasets: tec00108 (quarterly change), teina305 (annual change) and tec00109 (levels) Growth rates of GDP in volume (based on seasonally adjusted* data) Percentage change compared with the previous quarter Percentage change compared with the same quarter of the previous year 2025Q3 2025Q4 2026Q1 2026Q2 2025Q3 2025Q4 2026Q1 2026Q2 Euro area 0.3 0.2 0.0 0.4 1.2 1.1 0.5 1.0 EU 0.4 0.2 0.1 0.5 1.5 1.3 0.8 1.2 Belgium 0.2 0.1 0.2 0.0 1.0 0.9 0.8 0.5 Bulgaria 0.6 0.7 0.7 0.6 3.1 2.9 2.9 2.7 Czechia 0.7 0.7 0.2 0.4 2.8 2.8 2.2 2.0 Denmark 2.5 0.5 1.5 : 4.6 3.2 6.2 : Germany 0.0 0.3 0.4 0.2 0.3 0.3 0.6 0.9 Estonia 0.3 0.3 1.1 0.4 1.0 1.2 2.4 2.1 Ireland*** 1.3 -3.6 -7.0 3.9 5.2 -0.2 -13.2 -5.6 Greece 0.6 0.7 0.2 : 2.1 2.3 2.0 : Spain 0.6 0.8 0.6 0.7 2.7 2.7 2.7 2.7 France 0.4 0.3 -0.1 0.2 0.8 1.1 0.8 0.7 Croatia 0.5 1.2 0.0 : 2.9 3.5 2.4 : Italy 0.2 0.3 0.3 0.2 0.7 0.8 0.8 1.0 Cyprus 0.8 1.2 0.5 0.8 3.5 4.2 3.0 3.3 Latvia 0.8 0.7 0.6 : 2.3 2.6 2.5 : Lithuania 0.3 1.9 -0.1 1.7 2.2 3.3 2.8 3.8 Luxembourg 1.2 0.0 0.0 : 3.2 2.1 1.6 : Hungary 0.2 0.2 0.8 0.4 0.9 0.8 1.7 1.6 Malta 0.9 1.1 1.1 : 3.6 4.9 4.3 : Netherlands** 0.4 0.4 0.3 0.4 1.4 1.6 1.4 1.3 Austria 0.4 0.2 0.2 0.0 1.3 1.1 0.9 0.8 Poland 1.1 1.0 0.6 0.9 4.1 3.8 3.5 3.7 Portugal 0.6 0.9 0.1 0.8 2.2 1.9 2.4 2.5 Romania 0.0 -1.9 -0.1 0.0 1.4 -1.4 -1.1 -2.0 Slovenia 1.2 0.7 1.1 1.8 1.7 1.7 3.5 4.8 Slovakia 0.3 0.2 0.2 0.2 0.9 0.8 0.9 0.8 Finland** -0.1 0.5 0.9 0.9 0.4 0.6 1.3 2.5 Sweden** 0.5 0.9 0.0 1.4 2.3 2.0 2.0 2.8 Iceland 1.2 -0.8 3.7 : 1.1 2.5 3.1 : Norway 1.3 -0.6 0.4 : 2.3 2.0 2.0 : Switzerland -0.4 0.2 0.7 1.9 0.7 0.7 0.6 2.3 United States 1.1 0.1 0.5 0.4 2.3 2.0 2.7 2.1 : Data not available * Growth rates to the previous quarter and to the same quarter of the previous year presented in this table are both based on seasonally and calendar adjusted figures, except where indicated. Unadjusted data are not available for all Member States which are included in GDP flash estimates. ** Percentage change compared with the same quarter of the previous year calculated from calendar adjusted data. *** Irish GDP flash estimate is categorised as a CSO Frontier Series Output. Particular care must be taken when interpreting the statistics as it may use new methods which are under development and/or data sources which may be incomplete, for example new administrative data sources. Source datasets: namq_10_gdp Notes for users Revisions Revisions of quarterly GDP estimates are continuously monitored. Further information can be found on Eurostat website. With these flash estimates, euro area and EU employment and GDP figures for earlier quarters are not revised. The flash GDP estimates of the second quarter 2026 are based on Member States’ data covering 99% of the euro area and the EU GDP, while flash employment estimates are based on Member States’ data covering 95% of the euro area and 92% of the EU total employment. A preliminary flash estimate of GDP growth was published in the Euro indicators release issued on 30 July 2026. This was based on GDP estimates for 19 Member States. The euro area and EU estimates for the last quarter were not revised. All figures presented in this release may be revised with Eurostat’s regular estimates of GDP and main aggregates (including employment) scheduled for 7 September 2026 and 20 October 2026. Release schedule Comprehensive estimates of European main aggregates (including GDP and employment) are based on countries regular transmissions and published around 65 and 110 days after the end of each quarter. To improve the timeliness of key indicators, Eurostat also publishes flash estimates for GDP (after around 30 and 45 days) and employment (after around 45 days). Their compilation is based on estimates provided by EU Member States on a voluntary basis. This release presents flash estimates for euro area and EU GDP and employment growth after around 45 days. Methods and definitions European quarterly national accounts are compiled in accordance with the European System of Accounts 2010 (ESA 2010). They include key policy indicators of GDP and employment. Gross domestic product (GDP) at market prices measures the production activity of resident production units. Growth rates are based on chain-linked volumes. Employment covers employees and self-employed working in resident production units (domestic concept). While employment flash estimates are limited to total employment in persons, regular estimates also cover hours worked and industry breakdowns. The method used for compilation of European GDP and employment estimates is the same as for previous releases. Geographical information Euro area (EA21): Belgium, Bulgaria, Germany, Estonia, Ireland, Greece, Spain, France, Croatia, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Austria, Portugal, Slovenia, Slovakia and Finland. European Union (EU 27): Belgium, Bulgaria, Czechia, Denmark, Germany, Estonia, Ireland, Greece, Spain, France, Croatia, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, the Netherlands, Austria, Poland, Portugal, Romania, Slovenia, Slovakia, Finland and Sweden. For more information Website section on national accounts, notably information on European GDP and employment estimates Database section on national accounts and metadata on quarterly national accounts Statistics Explained articles on measuring quarterly GDP and presentation of updated quarterly estimates Country specific metadata European System of Accounts 2010 Euro indicators dashboard Release calendar for Euro indicators European Statistics Code of Practice",
-                "image": "https://ec.europa.eu/eurostat/documents/2995521/18500184/Marian Weyo_shutterstock_512719735_RV.jpg/30c9a0b0-420b-c57a-c894-6bc9e8f38b27",
-                "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-14082026-ap",
-                "source": "ec.europa.eu",
-                "date": "2026-08-14T09:48:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Can Capital Power lure AI hyperscalers to build big in Alberta?",
-                "desc": "Chief executive Avik Dey pitches province to developers as ‘open for business’",
-                "image": "https://www.theglobeandmail.com/resizer/v2/AM7KOEQYBVBDTLMQLG6EHXR5TU.JPG?auth=5009b558af72f14c2c4b9d42be0bb959334b62ee50bb8ed8b87b979c70086233&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-capital-power-alberta-ai-hyperscalers-from-us/",
-                "source": "The Globe and Mail",
-                "date": "2026-08-14T09:45:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Apple Is Reportedly Testing a 7-Inch Display for the iPhone 20 Pro Max",
+                "desc": "iPhone 20 Pro rumors point to 6.4-inch and 6.96-inch OLED panels with quad-curved edges for Apple's 20th-anniversary lineup in 2027.",
+                "image": "https://www.gadgetreview.com/wp-content/uploads/iphone-20-featured-scaled.jpg",
+                "url": "https://www.gadgetreview.com/apple-is-reportedly-testing-a-7-inch-display-for-the-iphone-20-pro-max",
+                "source": "Gadget Review",
+                "date": "2026-08-14T18:01:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Gemini Users Can Now Hide Watermarks on Their AI-Generated Media",
+                "desc": "Google is starting to roll out a new option to hide visible watermarks on media content created with its Gemini chatbot. However, that content will still have invisible SynthID watermarks and C2PA metadata.",
+                "image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/Google-Gemini.jpg",
+                "url": "https://www.thurrott.com/a-i/340412/google-gemini-users-can-now-hide-watermarks-on-their-ai-generated-media",
+                "source": "Thurrott.com",
+                "date": "2026-08-14T18:00:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Light-emitting textile sensors could optimize prosthetic fit and comfort",
+                "desc": "Prosthetics are a fact of life today. It's estimated that more than 50 million people globally—some 2 million of them in the United States—have lost a limb, and most could benefit or already do benefit from artificial limbs ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/purdue-engineers-creat.jpg",
+                "url": "https://techxplore.com/news/2026-08-emitting-textile-sensors-optimize-prosthetic.html",
+                "source": "Tech Xplore",
+                "date": "2026-08-14T18:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Its most powerful production car ever",
+                "desc": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108349054-1786624520287-IMG_2633.jpg?v=1786642674&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+                "source": "CNBC",
+                "date": "2026-08-14T18:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Top 7 Custom Motorcycles of August 2024",
+                "desc": "From nostalgic Yamaha race replicas to desert-shredding Harleys, we count down the top 7 custom motorcycle builds featured on Bike EXIF in August 2024.",
+                "image": "https://images.bikeexif.com/2024/08/_1200x630_crop_center-center_82_none/bmw-r-ninet-rough-crafts-20.jpg?v=1786378330",
+                "url": "https://www.bikeexif.com/top-7-custom-motorcycles-august-2024",
+                "source": "Bike EXIF",
+                "date": "2026-08-14T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2027 Lamborghini Revuelto SV: Fastest, most powerful Lamborghini road car yet",
+                "desc": "The flagship SV version of the Italian brand's V12-powered Revuelto is the fastest and most powerful Lamborghini ever, and it’s coming to Australia.",
+                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2027_lamborghini_revuelto-sv_azzurro-thetys_studio_16-9__ext_01-s.jpg",
+                "url": "https://www.carexpert.com.au/car-news/2027-lamborghini-revuelto-sv-fastest-most-powerful-lamborghini-road-car-yet",
+                "source": "CarExpert",
+                "date": "2026-08-14T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
+                "desc": "Lamborghini announced the Revuelto SV, a faster, more agile version of its flagship hybrid super car, with a 0–62mph acceleration in just 2.4 seconds.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/0X7B8284.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
+                "source": "The Verge",
+                "date": "2026-08-14T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Faster Lamborghini Revuelto SVJ on the cards",
+                "desc": "A ‘Jota’ edition Revuelto would be only the third Lamborghini to wear the legendary SVJ badge, but fans will have to wait – if it happens at all.",
+                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2027_lamborghini_revuelto-sv_ambient_16-9__ext_01.jpg",
+                "url": "https://www.carexpert.com.au/car-news/faster-lamborghini-revuelto-svj-on-the-cards",
+                "source": "CarExpert",
+                "date": "2026-08-14T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Porsche creates one-off 'Flatnose' 911",
+                "desc": "Porsche has revealed a one-off creation made by its Sonderwunsch division in conjunction with Manthey Racing for a well-heeled customer. Based on his own 911 GT2 RS, the 'Flachbau RS' is a modern-day take on the famous Moby Dick racer of the 1970s, including a flattened nose with bespoke LED lights. This one is road legal, however, and the story of its development is worth a read.",
+                "image": "https://www.completecar.ie/img/news-in-brief/56/09-DSCF4522-V1.jpg",
+                "url": "https://www.completecar.ie/news-in-brief/56/porsche-creates-one-off-flatnose-911",
+                "source": "CompleteCar.ie",
+                "date": "2026-08-14T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uninvasive EEG Interface Could Be Used To Play Games",
+                "desc": "These days, most of us interface with our computing devices in the same old-fashioned ways—via keyboards, mice, and touchscreens. The idea of a more direct brain-to-machine interface remains appeali...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/08/Octopus-16.-Start-measure-EEG-2-48-screenshot-1-e1786602021743.png",
+                "url": "https://hackaday.com/2026/08/14/uninvasive-eeg-interface-could-be-used-to-play-games/",
+                "source": "hackaday.com",
+                "date": "2026-08-14T18:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Meels Releases New Single 'Lonely USA'",
                 "desc": "Meels releases 'Lonely USA' via Lost Highway Records, with Fats Kaplin on fiddle and Peter Groenwald and Justin Francis producing.",
@@ -1174,99 +1264,99 @@
                 "source": "htxt.co.za",
                 "date": "2026-08-14T10:58:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Halo Studios Reveals Five Main Highlights In Campaign Evolved's Next Update",
-                "desc": "Arriving next week! - We've got a new update coming to Halo: Campaign Evolved at some point over the next few days, and the folks over at Halo Studios have a...",
-                "image": "https://images.purexbox.com/8387e2912fbd4/large.jpg",
-                "url": "https://www.purexbox.com/news/2026/08/halo-studios-reveals-five-main-highlights-in-campaign-evolveds-next-update",
-                "source": "Pure Xbox",
-                "date": "2026-08-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sonos Ace Ultra price, specs, and release date leaked",
-                "desc": "The Sonos Ace Ultra's design was leaked a few days ago, with the headphones appearing in FCC filing shortly after. And now, a new leak has revealed more details, including its price, release date, and specs.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Sonos-Ace-Ultra-price-release-date-leaked.jpg",
-                "url": "https://www.notebookcheck.net/Sonos-Ace-Ultra-price-specs-and-release-date-leaked.1368561.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-08-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Space for the Unbound review - \"A poignant, tedious, yet satisfying celebration of the shades of grey within us all\"",
-                "desc": "A Space for the Unbound's excellent writing, stellar soundtrack, and gorgeous pixel art make up for the poorly optimised controls and the overly long runtime.",
-                "image": "https://media.pocketgamer.com/artwork/na-36794-1786693560/a-space-for-the-unbound-ios-android-review-cover.jpg",
-                "url": "https://www.pocketgamer.com/a-space-for-the-unbound/review/",
-                "source": "Pocket Gamer",
-                "date": "2026-08-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Keydous Unveils Its Ultimate Gaming Keyboard With Magnetic Switches",
-                "desc": "The Keydous NJ80-CP V3 HE uses next-generation Hall Effect switches, which deliver ultra-low latency that can be set with customized actuation points.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a7c2c084a429af31e698afa/0x0.jpg?format=jpg&crop=1200,800,x0,y198,safe&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/marksparrow/2026/08/14/keydous-unveils-its-ultimate-gaming-keyboard-with-magnetic-switches/",
-                "source": "Forbes",
-                "date": "2026-08-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Her Brain Was Broken. It Was Fixed With Sound-Not a Scalpel",
-                "desc": "One woman’s meth addiction was so bad, the only option left might have been brain surgery. Then a single session of noninvasive, focused ultrasound seemed to do what years of treatment could not.",
-                "image": "https://media.wired.com/photos/6a7df5eb2b7622461061fdc5/191:100/w_1280,c_limit/WIRED_HELLER_3.jpg",
-                "url": "https://www.wired.com/story/brain-focused-ultrasound/",
-                "source": "WIRED",
-                "date": "2026-08-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The New Google Pixel Supports Sign Language Translations",
-                "desc": "Google's Pixel 11 converts American Sign Language to text using DeepMind's SL2T model. Kenyan Sign Language is not supported.",
-                "image": "https://tech-ish.com/wp-content/uploads/2026/08/Pixel-ASL--1280x720.webp",
-                "url": "https://tech-ish.com/2026/08/14/the-new-google-pixel-supports-sign-language-translations/",
-                "source": "tech-ish.com",
-                "date": "2026-08-14T09:59:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Snezhnaya Forgeable Weapons & Emberwell Guide in Genshin Impact",
-                "desc": "Learn how to get every Snezhnaya forgeable weapon in Genshin Impact, including each weapon's effects, materials, and the best characters to use them.",
-                "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/snezhnaya-forgeable-weapons-guide-in-genshin-impact-1.jpg?w=1600&h=900&fit=crop",
-                "url": "https://gamerant.com/genshin-impact-snezhnaya-forgeable-weapon-forge-blueprint-make/",
-                "source": "GameRant",
-                "date": "2026-08-14T09:58:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lumagen to present 9.4.6 Dolby Atmos demo at CEDIA Expo 2026",
-                "desc": "Lumagen’s SR7 showcase at CEDIA 2026 will bring together Lumagen, Christie, Stewart Filmscreen, NextLevel Acoustics, StormAudio and more.",
-                "image": "https://essentialinstall.com/wp-content/uploads/2026/08/Lumagen-2026-Partners-Logo.jpg",
-                "url": "https://essentialinstall.com/news/lumagen-to-present-9-4-6-dolby-atmos-demo-at-cedia-expo-2026/",
-                "source": "Essential Install",
-                "date": "2026-08-14T09:58:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ASUS Launches ProArt PA279CDV and PA329CDV Monitors",
-                "desc": "ASUS has brought two new pro-level 4K QD-OLED monitors to the Philippines.",
-                "image": "https://www.techporn.ph/wp-content/uploads/asus-launches-proart-pa279cdv-pa329cdv-monitors-1.jpg",
-                "url": "https://www.techporn.ph/asus-launches-proart-pa279cdv-and-pa329cdv-monitors/",
-                "source": "TechPorn",
-                "date": "2026-08-14T09:58:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motorola Moto G Max comes to India with a different set of specs",
-                "desc": "It's powered by the Snapdragon 6s Gen 4 SoC. Motorola today launched the Moto G Max in India, and it's different from the one introduced in June in...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/08/motorola-moto-g-max-india-official/-952x498w6/gsmarena_001.jpg",
-                "url": "https://www.gsmarena.com/motorola_moto_g_max_india_features_price_sale_date-news-74171.php",
-                "source": "GSMArena.com",
-                "date": "2026-08-14T09:57:02Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Trump’s Tougher Russia Stance Puts Kazakhstan in a Difficult Position",
+                "desc": "Kazakhstan faces growing economic and diplomatic risks as Washington increases pressure on Russia and the Ukraine war disrupts crucial Kazakh trade and energy links.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-13_zmxseyparq.jpg",
+                "url": "https://oilprice.com/Geopolitics/Asia/Trumps-Tougher-Russia-Stance-Puts-Kazakhstan-in-a-Difficult-Position.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-08-14T18:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Different contexts, common aspirations: Why learning to cook matters for young people",
+                "desc": "By Philip Maina, Chief Commercial Officer, Kenchic PLC NAIROBI, Kenya, Aug 14 – Every young person has a different story. Some are navigating university life, others are starting their first…",
+                "image": "https://capitalfm.africa/wp-content/uploads/2026/08/IMG-20260813-WA0055.jpg",
+                "url": "https://capitalfm.africa/different-contexts-common-aspirations-why-learning-to-cook-matters-for-young-people/",
+                "source": "Capital FM Africa",
+                "date": "2026-08-14T17:58:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia Announces 5 Conditions for Foreigners Aged 60 and Above to Get Citizenship",
+                "desc": "Australia has announced 5 important conditions for foreigners aged 60 and above who want to apply for citizenship on their own. Other exceptions were also explained.",
+                "image": "https://cdn.legit.ng/images/1200x675/0976d9fa523ced98.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1725183-australia-lists-5-conditions-foreigners-aged-60-citizenship/",
+                "source": "Legit.ng",
+                "date": "2026-08-14T17:55:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NAFDAC strengthens regulatory oversight of blood products in Nigeria",
+                "desc": "NAFDAC said blood and blood products are classified as essential medicines and should be consistently available, with their quality, safety and affordability assured.",
+                "image": "https://media.premiumtimesng.com/wp-content/files/2024/09/NAFDAC.png",
+                "url": "https://www.premiumtimesng.com/news/top-news/902928-nafdac-strengthens-regulatory-oversight-of-blood-products-in-nigeria.html",
+                "source": "Premium Times Nigeria",
+                "date": "2026-08-14T17:47:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Migrant deaths crossing Mediterranean Sea surges in 2026",
+                "desc": "A United Nations report published Aug. 12 found an increase in migrant deaths along two routes in the Mediterranean Sea during the first four months of 2026.",
+                "image": "https://angelusnews.com/wp-content/uploads/2026/08/GettyImages-2288255477_ebppz8-scaled-e1786728567691-1024x576.jpg",
+                "url": "https://angelusnews.com/news/world/migrant-deaths-2026-report/",
+                "source": "Angelus News",
+                "date": "2026-08-14T17:46:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Disgraceful’: what one election photo tells us about British politics in 2026",
+                "desc": "Results from coastal town of Clacton have been interpreted positively by Nigel Farage and Count Binface, but one spoiled ballot tells its own story",
+                "image": "https://i.guim.co.uk/img/media/eeb38dfb2689f813dfb22eb29dc54fd5ca84afc0/284_0_4310_3451/master/4310.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25250065bc99492f3db4fd08736d7868",
+                "url": "https://www.theguardian.com/politics/ng-interactive/2026/aug/14/clacton-byelection-spoiled-ballot-disgraceful-farage-binface",
+                "source": "The Guardian",
+                "date": "2026-08-14T17:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Congolese Montreal students face uncertainty over Canada's Ebola travel restrictions",
+                "desc": "Hundreds of students from countries affected by Canada’s temporary Ebola travel restrictions could face changes to their academic plans as universities prepare for different scenarios.",
+                "image": "https://i.cbc.ca/ais/665563c7-e976-429c-96be-532422b5a0a4,1786728786436/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/montreal/ebola-travel-ban-congo-students-9.7306419",
+                "source": "CBC",
+                "date": "2026-08-14T17:44:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine war latest: Strike on Russia's Ust-Luga port damages 2 processing plants, Ukraine says",
+                "desc": "Key developments on Aug. 14:\n* Russia's Ust-Luga port struck, 2 processing plants damaged, Ukraine's General Staff says\n* Russia strikes Ukraine's largest private port operator as Moscow rejects grain truce\n* Russia to abolish border zones with occupied Ukrainian territories\n* Ukrainians rally again for Fedorov reinstatement as organizers 'disappointed' in Zelensky's silence\nUkraine struck the Ust-Luga port in Russia's Leningrad Oblast overnight on Aug. 14, damaging two processing plants a",
+                "image": "https://assets.kyivindependent.com/content/images/2025/01/GettyImages-1238944260.jpg",
+                "url": "https://kyivindependent.com/ukraine-war-latest-strike-on-russias-ust-luga-port-damages-2-processing-plants-ukraine-says/",
+                "source": "The Kyiv Independent",
+                "date": "2026-08-14T17:42:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Warship that sank in 1908 found off U.K. coast, revealing \"final moments\" before over half the crew died",
+                "desc": "The Royal Navy and shipwreck hunters have been searching in vain for the remains of HMS Tiger for over a century.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/14/5ddde42d-1aff-4d69-8f14-6b4c3d7be3c1/thumbnail/1200x630g8/cfcffb8b665f2fe20f7c63d261127841/hms-tiger-guy-trees-credit-ricardo-constantino-laying-wreath-on-tiller-of-hms-tiger.jpg",
+                "url": "https://www.cbsnews.com/news/warship-found-uk-hms-tiger-sank-1908/",
+                "source": "CBS News",
+                "date": "2026-08-14T17:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Honor Guard Will Disappear at the Freedom Monument and the Riga Castle. What Happened?",
+                "desc": "From August 16 to 23, in Skrunda, at the military training ground 'Mežaine', the Honor Guard Company of the National Armed Forces Headquarters Battalion will conduct its annual military exercises.",
+                "image": "https://news.inbox.eu/w/img/ee/18/ee18c6faad82e90d3b.webp",
+                "url": "https://news.inbox.eu/150mjnk-the-honor-guard-will-disappear-at-the-freedom-monument-and-the-riga-castle-what-happened?language=en",
+                "source": "Inbox.eu",
+                "date": "2026-08-14T17:40:59Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Activists deliver aid to Palestinians in homes besieged by Israeli settlers",
                 "desc": "Two families have been trapped in their homes in the occupied West Bank for several days.",
@@ -1806,98 +1896,8 @@
                 "source": "Trendsnafrica",
                 "date": "2026-08-14T10:50:44Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "El Niño may peak at the worst time for the Amazon - and it should worry us all",
-                "desc": "Delay to rainy season in forest already damaged by human-driven heating could trigger powerful ‘Godzilla’ El Niño",
-                "image": "https://i.guim.co.uk/img/media/90ad240138f259cf448caaf5606a8e02b3207d77/1128_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b184de215fe3f26399cc10c573ebf92d",
-                "url": "https://www.theguardian.com/environment/2026/aug/14/el-nino-predicted-peak-amazon-rainforest-climate",
-                "source": "The Guardian",
-                "date": "2026-08-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five years after Kabul’s fall, Afghan women’s fortunes are still falling",
-                "desc": "Under a Taliban divided over women’s rights, a nation continues down a dark path",
-                "image": "https://www.theglobeandmail.com/resizer/v2/RH3QHD2GTNAQPHWOSDD4ANGXXY.jpg?auth=42066971297e6b5520787b8b705fa755d0bb5ae1bc5b50d07321a6b6702372cc&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/article-women-in-afghanistan-five-years-later/",
-                "source": "The Globe and Mail",
-                "date": "2026-08-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada seeks to acquire long-range strike system widely used in Ukraine war",
-                "desc": "Procurement of new weapon, somewhere between an attack drone and a cruise missile, will put Canada’s new defence strategy to the test",
-                "image": "https://www.theglobeandmail.com/resizer/v2/7DFEDGUCLZGVVFNQ7UBCKDSDEQ.JPG?auth=9a8486069f02b8a0f560a93654551e7d6a30b240a88154a1bc36513ebd73a4ee&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/economy/article-canada-seeks-to-acquire-long-range-strike-system-used-in-ukraine-war/",
-                "source": "The Globe and Mail",
-                "date": "2026-08-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US lost 45 reaper drones in Iran war, representing 25% fleet worth $1.3 billion: Report",
-                "desc": "International News: The US military has reportedly lost at least 45 MQ-9 Reaper drones during its war with Iran, representing about 25 per cent of its fleetThe Reaper is .",
-                "image": "https://static.toiimg.com/thumb/msid-133236780,width-1280,height-720,imgsize-1119995,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/defence/international/us-loses-45-reaper-drones-in-iran-war-representing-25-of-fleet-worth-1-3-billion-report/articleshow/133236331.cms",
-                "source": "The Times of India",
-                "date": "2026-08-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Influencer Bobrisky Blasts Women Flooding His DMs With Romantic Messages And Dating Proposals",
-                "desc": "Nigerian socialite Bobrisky has addressed women sliding into his DMs with romantic advances in a viral video, highlighting his journey and identity.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/b2469c054715d35d.jpeg?v=1",
-                "url": "https://yen.com.gh/entertainment/celebrities/309928-nigerian-influencer-bobrisky-blasta-women-flooding-dms-dating-proposals/",
-                "source": "Yen News",
-                "date": "2026-08-14T09:59:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man died at Felbrigg Hall after being 'trampled' by cattle",
-                "desc": "A coroner says a post-mortem examination gave a provisional cause of death as \"severe chest injuries\".",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6201/live/622ba510-ccd2-11ee-b501-87e2ef5dd026.jpg",
-                "url": "https://www.bbc.com/news/articles/c0l5yndgxl8o",
-                "source": "BBC",
-                "date": "2026-08-14T09:58:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "American missionary kidnapped in Niger freed after nine months",
-                "desc": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials",
-                "image": "https://i.guim.co.uk/img/media/b0b8de4d6a510eeae2d1c3e3b4a748dd233cbb87/0_0_4384_3509/master/4384.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4d48be217275531403fbb349008bde1",
-                "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-                "source": "The Guardian",
-                "date": "2026-08-14T09:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India in U.S. crosshairs again - White House report cites countries ‘enabling’ China’s tariff evasions",
-                "desc": "The U.S. accuses India and 40 nations of aiding China in tariff evasion, unveiling an AI-driven detection strategy.",
-                "image": "https://th-i.thgim.com/public/incoming/le31ux/article71345008.ece/alternates/LANDSCAPE_1200/Trump_Dodging_Responsibility_78623.jpg",
-                "url": "https://www.thehindu.com/news/national/us-names-india-among-over-40-nations-accused-of-helping-china-evade-tariffs-via-shadow-network/article71344225.ece",
-                "source": "The Hindu",
-                "date": "2026-08-14T09:57:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asyraf threatens to sue netizens over TH claims",
-                "desc": "Umno secretary-general says letters of demand will be served to several social media account holders, seeking a total of RM5 million in compensation for alleged defamation.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/01/b6a2b098-asyraf-wajdi-dusuki-bernamapic-100125.webp",
-                "url": "https://www.freemalaysiatoday.com/category/nation/2026/08/14/asyraf-threatens-to-sue-netizens-over-th-claims",
-                "source": "Free Malaysia Today",
-                "date": "2026-08-14T09:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prichard Colon: Dies 11 years after suffering brain injury during fight",
-                "desc": "Prichard Colon, who suffered a severe brain injury during a 2015 fight, dies aged 33, his father Richard confirms on social media.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f641/live/d15f8fb0-97bd-11f1-bcec-d512ff1927d3.jpg",
-                "url": "https://www.bbc.com/sport/boxing/articles/cg7m45ze27mo",
-                "source": "BBC",
-                "date": "2026-08-14T09:53:21Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-15T05:04:01.381594Z"
+    "lastGlobalSync": "2026-08-15T06:01:22.601449Z"
 }
