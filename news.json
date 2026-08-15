@@ -4,6 +4,87 @@
     "en": {
         "business": [
             {
+                "title": "Talk of a $3tn Anthropic valuation shows how markets are changing",
+                "desc": "You don’t have to be a dyed-in-the-wool value investor to feel uneasy about a stock trading at 30 times earnings being considered cheap",
+                "image": "https://www.irishtimes.com/resizer/v2/3QQO44XIGYVBUT6JGCWMCR7NTU.jpg?smart=true&auth=b9d7142cac4fd612377e6d869d087cd50a30dc595ddb6b0258bb7d5a1fddd045&width=1200&height=630",
+                "url": "https://www.irishtimes.com/your-money/2026/08/15/talk-of-a-3tn-anthropic-valuation-shows-how-markets-are-changing/",
+                "source": "The Irish Times",
+                "date": "2026-08-15T05:01:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From pixels to physics: China's AI video models enter the real world",
+                "desc": "As AI shifts from cloud computing to the physical economy, the maturity of an ecosystem's video models will increasingly drive its industrial capacity.",
+                "image": "https://news.cgtn.com/news/2026-08-15/From-pixels-to-physics-China-s-AI-video-models-enter-the-real-world-1PCHr0PbN0A/img/af37b59753404bf59d5e0ecc0ed3700e/af37b59753404bf59d5e0ecc0ed3700e-750.png",
+                "url": "https://news.cgtn.com/news/2026-08-15/From-pixels-to-physics-China-s-AI-video-models-enter-the-real-world-1PCHr0PbN0A/p.html",
+                "source": "news.cgtn.com",
+                "date": "2026-08-15T05:00:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Belfast hotels already charging more than double for Fleadh 2027 rooms",
+                "desc": "Some Belfast hotels are already selling rooms for next year’s Fleadh at more than double their normal price, it has emerged.",
+                "image": "https://www.irishnews.com/resizer/v2/VDE2ERVGPFBKRHF6WZFGMZS5TE.jpeg?smart=true&auth=499d3ec17884f525bc1c799d3a62e590f260d9968151e8a903fffafe0091e59f&width=1200&height=630",
+                "url": "https://www.irishnews.com/news/northern-ireland/belfast-hotels-already-charging-more-than-double-for-fleadh-2027-rooms-YG7VYNKJTVG6XESEI563F3PVBU/",
+                "source": "The Irish News",
+                "date": "2026-08-15T05:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bypass for two Derbyshire villages and 700-year-old monument back on table",
+                "desc": "Swarkestone Causeway is a Grade I-listed monument and carries the A514 for nearly a mile, just south of Derby and the A50",
+                "image": "https://i2-prod.derbytelegraph.co.uk/article11106177.ece/ALTERNATES/s1200d/0_Swarkestone-Causeway-an-ancient-monument-which-carries-major-route-the-A514.jpg",
+                "url": "https://www.derbytelegraph.co.uk/news/local-news/bypass-two-derbyshire-villages-700-11105793",
+                "source": "Derbyshire Live",
+                "date": "2026-08-15T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lidl could create 40 jobs if supermarket opens in Gorleston",
+                "desc": "Lidl is hoping to build on land in Hodds Lane in Gorleston, Norfolk, which was previously targeted by Sainsbury's.",
+                "image": "https://www.edp24.co.uk/resources/images/21302656.jpg?type=og-image",
+                "url": "https://www.edp24.co.uk/news/26455143.lidl-create-40-jobs-supermarket-opens-gorleston/",
+                "source": "Eastern Daily Press",
+                "date": "2026-08-15T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tim Dowling: who is the secret admirer leaving gifts for the dog?",
+                "desc": "Soft toys and furry things keep appearing in the garden. I wouldn’t rule out the fox at this point",
+                "image": "https://i.guim.co.uk/img/media/89a3a62fc79607d316466ffcf33061cc21b2c6bf/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b9da7e409aa181b260c1bcbae364fd4c",
+                "url": "https://www.theguardian.com/lifeandstyle/2026/aug/15/tim-dowling-who-is-the-secret-admirer-leaving-gifts-for-the-dog",
+                "source": "The Guardian",
+                "date": "2026-08-15T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenyans React After EPRA Cuts Diesel Price by KSh 5, Maintains Petrol and Kerosene Costs",
+                "desc": "Kenyans have reacted to the latest fuel price review by EPRA, which reduced the price of diesel by KSh 5, while maintaining the prices of petrol and kerosene.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/a8ba82093a7f2849.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/business-economy/energy/636383-kenyans-react-epra-cuts-diesel-price-by-ksh-5-maintains-petrol-kerosene-costs/",
+                "source": "tuko.co.ke",
+                "date": "2026-08-15T04:46:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pretesting with AI-generated static and video ads",
+                "desc": "Artificial Intelligence (AI) makes it feasible to generate highly finished ads for pretesting, before final, human production. In this ‘proof of concept’ study, AI was used to make static and multi-shot video ads. When compared with the real ads they were based on, there were no significant differences observed in ad-effectiveness (recall, recognition, brand choice, brand attitude, and ad liking), under the specific conditions tested. These conditions included a low-involvement context in which several real and AI-ads were viewed, where all the AI-generated ads were carefully curated and professionally screened, and were about factual information rather than emotional experiences. Labelling ads as AI-generated may be compulsory soon, but this research showed that under these specific conditions, the presence of AI-disclosure, prior to exposure, made no difference.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-67219-0?error=cookies_not_supported&code=2a07fc48-86d2-4264-b455-2988b55c994d",
+                "source": "Nature",
+                "date": "2026-08-15T04:40:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vibe Mobile: Prepaid plans from RM17/month, powered by U Mobile's ULTRA5G Network",
+                "desc": "Vibe Mobile is Malaysia's latest Prepaid MVNO which taps on U Mobile's 5G network. It offers monthly plans from RM17/month and yearly plan from RM150.",
+                "image": "https://soyacincau.com/wp-content/uploads/2026/08/260815-vibe-mobile-mvno-scaled.jpg",
+                "url": "https://soyacincau.com/2026/08/15/vibe-mobile-prepaid-plan-mvno-u-mobile-ultra5g/",
+                "source": "SoyaCincau",
+                "date": "2026-08-15T04:38:20Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "GMA looks to AI to expand digital experiences for audiences",
                 "desc": "GMA Network is looking to emerging technologies such as artificial intelligence (AI) to expand how it connects with audiences beyond traditional television....",
                 "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/15/123864.webp",
@@ -551,90 +632,63 @@
                 "source": "Punch Newspapers",
                 "date": "2026-08-14T23:46:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-                "desc": "Those involved in a meeting of CEOs from the worlds of crypto, prediction markets and AI anticipate President Donald Trump will take part in next week's gathering.",
-                "image": "https://cdn.sanity.io/images/s3y3vcno/production/def0d98b21aeaaed3c0847566a33f7c63142d271-4032x3024.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.5544&fp-y=0.4473&w=1920&h=1080&q=75",
-                "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
-                "source": "CoinDesk",
-                "date": "2026-08-14T23:41:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NUPRC plans crude oil swap to boost refinery supply",
-                "desc": "NUPRC is consulting on a domestic crude oil swap to cut supply costs and ensure more crude is available to Nigerian refineries. Learn more about this initi",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/NUPRC.webp",
-                "url": "https://punchng.com/nuprc-plans-crude-swap-to-boost-refinery-supply/",
-                "source": "Punch Newspapers",
-                "date": "2026-08-14T23:39:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South China Morning Post",
-                "desc": "Sources say little progress has been made on deliverables for Xi Jinping’s first state visit to the US since 2015.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/15/124e6f3a-5cbc-436b-adb8-f56623ab8c26_497687d2.jpg?itok=_C0vRO4S&v=1786751434",
-                "url": "https://www.scmp.com/news/china/diplomacy/article/3364025/china-rattled-trump-white-house-chaos-weeks-ahead-xi-visit-it-has-happened",
-                "source": "South China Morning Post",
-                "date": "2026-08-14T23:30:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GLP-1 Demand Is Soaring. 2 Stocks That Could Benefit From This (Hint: Not Eli Lilly or Novo Nordisk)",
-                "desc": "They are way more than just GLP-1 stocks.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883154%2Fregeneron-and-amgen-logos.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/08/14/glp-1-demand-is-soaring-2-stocks-that-could-benefi/",
-                "source": "The Motley Fool",
-                "date": "2026-08-14T23:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Qantas Stranded A380 Passengers for 50 Hours Seeks Better Compensation",
-                "desc": "Qantas QF64 passengers endured a 50-hour Johannesburg delay after an A380 nose-wheel fault as Australia reforms passenger rights.",
-                "image": "https://aviationa2z.com/wp-content/uploads/2023/07/1080px-Qantas_Airbus_A380_VH-OQA_16697856878.jpg",
-                "url": "https://aviationa2z.com/index.php/2026/08/15/qantas-stranded-a380-passengers-for-50-hours-seeks-compensation/",
-                "source": "Aviation A2Z",
-                "date": "2026-08-14T23:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "B.C. stock promoter accused of $300K fraud in mining firm",
-                "desc": "B.C. stock promoter Jatinder Singh Bal denies allegations he directed nearly $300K in company funds to pay another firm’s debt",
-                "image": "https://www.vmcdn.ca/f/files/biv/images/bc-securities-commission.png;w=1200;h=800;mode=crop",
-                "url": "https://www.biv.com/news/economy-law-politics/bc-stock-promoter-defrauded-own-company-and-investors-of-300k-commission-alleges-12668734",
-                "source": "biv.com",
-                "date": "2026-08-14T23:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motorsport Games Inc. (MSGM) Q2 2026 Earnings Call Transcript",
-                "desc": "Motorsport Games Inc. (MSGM) Q2 2026 Earnings Call August 14, 2026 5:00 PM EDTCompany ParticipantsBen Rossiter-Turner - Vice President of CompetitionStephen...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4936956-motorsport-games-inc-msgm-q2-2026-earnings-call-transcript",
-                "source": "Seeking Alpha",
-                "date": "2026-08-14T23:27:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Leatt Corporation (LEAT) Q2 2026 Earnings Call Transcript",
-                "desc": "Leatt Corporation (LEAT) Q2 2026 Earnings Call August 14, 2026 10:00 AM EDTCompany ParticipantsMichael Mason - Investor RelationsSean MacDonald - CEO, CFO,...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4936955-leatt-corporation-leat-q2-2026-earnings-call-transcript",
-                "source": "Seeking Alpha",
-                "date": "2026-08-14T22:47:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-                "desc": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
-                "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=1200",
-                "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-                "source": "TechCrunch",
-                "date": "2026-08-14T22:43:24Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Poco starts teasing the M8x 5G, shows us a glimpse of its back",
+                "desc": "It will be the fifth member of the M8 family. Poco launched the M8 and M8 Pro in January, the M8s in April, and the M8 Power earlier this month, but now it...",
+                "image": "https://st.gsmarena.com/imgroot/news/26/08/poco-m8x-teaser/-952x498w6/gsmarena_000.jpg",
+                "url": "https://m.gsmarena.com/poco_starts_teasing_the_m8x_5g_shows_us_a_glimpse_of_its_back-news-74187.php",
+                "source": "GSMArena.com",
+                "date": "2026-08-15T05:02:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poco starts teasing the M8x 5G, shows us a glimpse of its back",
+                "desc": "It will be the fifth member of the M8 family. Poco launched the M8 and M8 Pro in January, the M8s in April, and the M8 Power earlier this month, but now it...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/08/poco-m8x-teaser/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/poco_starts_teasing_the_m8x_5g_shows_us_a_glimpse_of_its_back-news-74187.php",
+                "source": "GSMArena.com",
+                "date": "2026-08-15T05:02:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I stopped writing careful ChatGPT prompts and rambled at it for 10 minutes instead - the results changed how I use AI",
+                "desc": "Sometimes the best prompt is simply letting your thoughts wander",
+                "image": "https://cdn.mos.cms.futurecdn.net/PCPawukpdTRd7ZKUyXPJxG-1920-80.jpg",
+                "url": "https://www.techradar.com/ai-platforms-assistants/i-stopped-writing-careful-chatgpt-prompts-and-rambled-at-it-for-10-minutes-instead-the-results-changed-how-i-use-ai",
+                "source": "TechRadar",
+                "date": "2026-08-15T05:01:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "M&S is bringing back its beloved St Michael range (but not as you once knew it)",
+                "desc": "The meaning of the name St Michael, in the context of fashion, will differ depending on how old you are. Older generations will know it as synonymous with Marks & Spencer, as a rubber stamp of top qua...",
+                "image": "https://s.yimg.com/lo/mysterio/api/759ed463f292be15be845c769b3dbf501710d8478f118ae4513c22714928d591/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fea38917a19c7b21cb93e997ab48c511c.jpg",
+                "url": "https://sg.news.yahoo.com/m-bringing-back-beloved-st-050000927.html",
+                "source": "Yahoo News Singapore",
+                "date": "2026-08-15T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Twin Guitar-Playing Robots Will Work For Tab",
+                "desc": "Remember Animusic? They were these incredible animated music videos with original tunes being played by computer-generated robots. Well, the MegCell Pulse might be the coolest robots-playing-music thi...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/08/guitar-playing-robot-800.webp",
+                "url": "https://hackaday.com/2026/08/14/twin-guitar-playing-robots-will-work-for-tab/",
+                "source": "Hackaday",
+                "date": "2026-08-15T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "itel VistaTab 12 Now Available in PH",
+                "desc": "itel has introduced the VistaTab 12 in the Philippines. The tablet features a 10.1-inch IPS display and a MediaTek Helio G85 chipset. The tablet comes with 128GB of storage and an advertised 8GB RAM configuration, consisting of 3GB of physical RAM and 5GB of memory expansion. It also packs a 7,000mAh battery and supports an…",
+                "image": "https://i0.wp.com/manilashaker.com/wp-content/uploads/2026/08/itel-vistatab-12-now-available-in-ph.png?fit=889%2C559&ssl=1",
+                "url": "https://manilashaker.com/itel-vistatab-12-now-available-in-ph/",
+                "source": "ManilaShaker Philippines",
+                "date": "2026-08-15T04:43:11Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "REVIEW: Google Home Speaker. Yell across the room at their smarter AI models",
                 "desc": "Google has released its latest version of their Google Home Speaker. While the space was previously occupied by ageing options like the Nest Audio and Nest Mini, this new generation device focuses heavily on local processing power and deeply integrated Gemini powered voice control, with Google Assistant a distant memory. The purpose of this speaker…",
@@ -1210,63 +1264,99 @@
                 "source": "Lifehacker",
                 "date": "2026-08-14T21:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "MacOS screen sharing vulnerability actively exploited for crypto mining",
-                "desc": "The vulnerability, identified as CVE-2026-65400, has a severity rating of 7.1 out of 10 and stems from a flaw in macOS' screen sharing capability.",
-                "image": "https://files.cyberriskalliance.com/wp-content/uploads/2024/10/101824_macintosh_os.jpg",
-                "url": "https://www.scworld.com/brief/macos-screen-sharing-vulnerability-actively-exploited-for-crypto-mining",
-                "source": "SC Media",
-                "date": "2026-08-14T21:27:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ryzen 7 7800X3D reportedly swells and kicks the bucket after 3 months despite running an up-to-date BIOS",
-                "desc": "A three-month-old Ryzen 7 7800X3D reportedly swelled and burned out on an updated MSI X870 motherboard despite running at default CPU settings with only EXPO enabled. However, the user's delidding complicates the pending warranty claim and leaves the precise cause uncertain.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Image-of-damaged-AMD-Ryzen-7-7800X3D-with-swelling-and-burn-marks-Image-Source-rpcmasterrace.jpg.jpeg",
-                "url": "https://www.notebookcheck.net/Ryzen-7-7800X3D-reportedly-swells-and-kicks-the-bucket-after-3-months-despite-running-an-up-to-date-BIOS.1368967.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-08-14T21:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ChatGPT Can Now Add Your Mac Activity to Its Memories",
-                "desc": "OpenAI's latest feature can use your clicks, keystrokes and other interactions to supplement ChatGPT and Codex context.",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/chatgpt-computer-history.jpg",
-                "url": "https://www.cnet.com/tech/services-and-software/chatgpt-mac-activity-computer-history/",
-                "source": "CNET",
-                "date": "2026-08-14T21:01:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Building Tiny Lego Trees Makes Everything Better. A Record Low Price Doesn't Hurt, Either",
-                "desc": "Build three darling Lego bonsai trees and save over 30% to boot.",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/Lego-botanicals-mini-bonsai-set.jpg",
-                "url": "https://www.cnet.com/deals/lego-botanicals-mini-bonsai-building-set-deal-26-08-14/",
-                "source": "CNET",
-                "date": "2026-08-14T21:00:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Compact Fairphone 6+ launches on Tuesday with removable battery and new ARM chip",
-                "desc": "The upcoming launch of the Fairphone 6+ is official. Fairphone confirmed the launch date in a teaser video shortly after leaks had already revealed the design, price, and specifications of the repairable mid-range smartphone.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Fairphone.jpg",
-                "url": "https://www.notebookcheck.net/Compact-Fairphone-6-launches-on-Tuesday-with-removable-battery-and-new-ARM-chip.1368966.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-08-14T20:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Opens the Gates of AI Slop Hell",
-                "desc": "A new Gemini update will let AI slop artists skip cropping out a visible watermark.",
-                "image": "https://gizmodo.com/app/uploads/2026/08/Google-AI-Slop-Hell-1200x675.jpg",
-                "url": "https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888",
-                "source": "gizmodo.com",
-                "date": "2026-08-14T20:51:44Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Fergie Chambers: The Dublin-based communist millionaire in the Trump administration’s crosshairs",
+                "desc": "Heir turned ‘professional revolutionary’ left his home in Ireland for a holiday in Spain but was arrested after US extradition order on terror charges",
+                "image": "https://www.irishtimes.com/resizer/v2/QDPNPWKVUJBKLNOCGTHQ7U3NAU.jpg?smart=true&auth=fb25bcd729dd71ecb53cb5df11d2463be27c499e269ea705ce05df64ce2bdf6a&width=1200&height=630",
+                "url": "https://www.irishtimes.com/life-style/people/2026/08/15/fergie-chambers-the-communist-multimillionaire-in-the-trump-administrations-crosshairs/",
+                "source": "The Irish Times",
+                "date": "2026-08-15T05:01:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SEND ME (But Then Bring Me Feckin' Home Again)",
+                "desc": "Stormy times at sea, as U.S. ships endure months-long, record-setting deployments for a war nobody wanted that still has no clear objective, reason for being or end in sight and their thousands of burned-out sailors endure bad food, water, plumbing and morale so low some are leaping overboard, or tr...",
+                "image": "https://www.commondreams.org/media-library/patton-trump-macarthur-one-of-many-memes-making-the-rounds.jpg?id=67615786&width=1200&height=600&coordinates=197%2C0%2C197%2C0",
+                "url": "https://www.commondreams.org/further/send-me-but-then-bring-me-feckin-home-again",
+                "source": "Common Dreams",
+                "date": "2026-08-15T05:01:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+                "desc": "From glaciers shrinking to an exposed shipwreck,  satellites capture the impact of extreme heat and drought.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png",
+                "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o",
+                "source": "BBC",
+                "date": "2026-08-15T05:01:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+                "desc": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png",
+                "url": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
+                "source": "BBC",
+                "date": "2026-08-15T05:01:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Singapore tightens sexual offences laws, criminalises non-consensual AI-generated intimate images",
+                "desc": "Singapore authorities wield greater powers to prosecute sexual offences involving minors committed overseas",
+                "image": "https://media.thevibes.com/images/uploads/covers/_large/singapore_merlion_twitter_pic_22022021.PNG",
+                "url": "https://www.thevibes.com/articles/world/126202/singapore-tightens-sexual-offences-laws-criminalises-non-consensual-ai-generated-intimate-images",
+                "source": "The Vibes",
+                "date": "2026-08-15T05:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I've Interrailed 16,000 miles - these are the best places for a solo trip",
+                "desc": "Solo adventures in Switzerland, the Baltics and Portugal are all the better by train",
+                "image": "https://inews.co.uk/wp-content/uploads/2026/08/SEI_307986755.jpg?crop=0px%2C98px%2C1920px%2C1083px&resize=1200%2C675",
+                "url": "https://inews.co.uk/inews-lifestyle/travel/interrailed-1600-miles-best-places-solo-trip-4687496",
+                "source": "The i Paper",
+                "date": "2026-08-15T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Concerns grow over increased global ties with Taliban in Afghanistan",
+                "desc": "Campaigners fear deeper diplomatic contacts are undermining demands for improvements in human rights",
+                "image": "https://i.guim.co.uk/img/media/a00bb7fceb915e0108c0489f2a825134df963bfa/233_0_2333_1867/master/2333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0b54e54b700ca68d3562a7bf6cbf52c",
+                "url": "https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights",
+                "source": "The Guardian",
+                "date": "2026-08-15T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Latin America shifts from socialism to capitali...",
+                "desc": "Latin American countries are increasingly rejecting socialism in favor of market-based policies, leading to economic improvements. Argentina, under President Javier Milei, has cut inflation drastically from 25% to 2% and achieved fiscal surpluses, prompting a positive investment outlook from Moody's. Other nations like Ecuador and Costa Rica have also seen economic rebounds and poverty reductions after moving away from socialist governments. This shift reflects voter frustration with socialism's failures and a preference for capitalist solutions, though political changes could still occur in the future.",
+                "image": "https://image-cdn.pluang.com/web/compressed/market_news.webp",
+                "url": "https://pluang.com/en/news-feed/amerika-latin-tolak-sosialisme-dorong-pemulihan-ekonomi",
+                "source": "pluang.com",
+                "date": "2026-08-15T04:55:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kredily 3.0 Launches KAI, Agentic AI for Payroll and HR, and Expands into AI",
+                "desc": "Bengaluru (Karnataka) [India], August 15: As Indian businesses face increasing pressure to manage payroll accurately, remain compliant, and do more with leaner HR teams, Kredily today announced Kredily 3.0, a major evolution of its AI-first HRMS and payroll platform, introducing KAI, an agentic AI designed to execute payroll and HR workflows from plain-language instructions, alongside the launch of its AI-powered managed payroll services business.",
+                "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNjOTcxODUwLTk4NjUtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+                "url": "https://www.tribuneindia.com/news/business/kredily-3-0-launches-kai-agentic-ai-for-payroll-and-hr-and-expands-into-ai-powered-managed-payroll-services/",
+                "source": "The Tribune",
+                "date": "2026-08-15T04:53:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chinese boy abducted at three, who inspired child trafficking film, enters direct PhD programme",
+                "desc": "BEIJING: A young Chinese man who has just graduated with a bachelor's degree in Computer Science and Technology from the prestigious Wuhan University is set to embark on a new life as a doctoral student at the same institution.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/15/4060825.jpg",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/15/chinese-boy-abducted-at-three-who-inspired-child-trafficking-film-enters-direct-phd-programme",
+                "source": "The Star",
+                "date": "2026-08-15T04:53:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Europe's tallest Virgin Mary statue rises in Polish village",
                 "desc": "The village of Konotopie is home to tallest Virgin Mary statue in the whole of Europe.",
@@ -1806,98 +1896,8 @@
                 "source": "Punch Newspapers",
                 "date": "2026-08-14T23:57:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Banking on their future at the ‘Love Bank’",
-                "desc": "COUPLES in China can now register their marriages at a bank, following the opening of the country's first marriage registration facility inside a financial institution.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/15/4060698.jpg",
-                "url": "https://www.thestar.com.my/news/nation/2026/08/15/banking-on-their-future-at-the-love-bank",
-                "source": "thestar.com.my",
-                "date": "2026-08-14T23:56:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Strong 7.7-magnitude quake strikes off Indonesia",
-                "desc": "The USGS said the earthquake's epicentre was off the north coast of Flores Island at a relatively shallow depth of just 10km.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/08/a6bef53e-3a5f-493f-9d8a-00c19f9b1c57-EPA-Flores-Island-Indonesia-15082026.webp",
-                "url": "https://www.freemalaysiatoday.com/category/highlight/2026/08/15/strong-7-7-magnitude-quake-strikes-off-indonesia",
-                "source": "Free Malaysia Today",
-                "date": "2026-08-14T23:51:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tsunami warning issued after 7.7 magnitude quake hits off Indonesia coast",
-                "desc": "A powerful magnitude 7.7 quake has struck off the coast of Indonesia, the U.S. Geological Survey said. No immediate casualties or damage were reported.",
-                "image": "https://i.cbc.ca/ais/f7dfd46b-c26f-4918-b632-8ae4b358d030,1786750747099/full/max/0/default.jpg?im=Crop%2Crect%3D%28181%2C0%2C1500%2C843%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/indonesia-tsunami-warning-earthquake-9.7308321",
-                "source": "cbc.ca",
-                "date": "2026-08-14T23:45:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia shuts down key Black Sea export terminal in Novorossiysk after drone attack, Reuters reports",
-                "desc": "The Sheskharis oil terminal, one of Russia's main Black Sea export facilities, processes around 700,000 barrels of crude per day.",
-                "image": "https://assets.kyivindependent.com/content/images/2025/11/GettyImages-484708142.jpg",
-                "url": "https://kyivindependent.com/russia-shuts-down-key-black-sea-export-terminal-in-novorossiysk-after-drone-attack-reuters-reports/",
-                "source": "The Kyiv Independent",
-                "date": "2026-08-14T23:36:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New evidence nails Japan's war atrocities",
-                "desc": "Days before the 81st anniversary of Japan's unconditional surrender that marked the end of World War II, the Exhibition Hall of Evidences of Crime Committed by Unit 731 of the Japanese Imperial Army in Harbin, Heilongjiang province, released newly examined evidence on Wednesday documenting Japan's atrocities during the Chinese People's War of Resistance Against Japanese Aggression (1931-45).",
-                "image": "http://img2.chinadaily.com.cn/images/202608/15/6a7fa9cca31073853159083c.png",
-                "url": "https://www.chinadaily.com.cn/a/202608/15/WS6a7fa5b7a31073853ec536e7.html",
-                "source": "China Daily",
-                "date": "2026-08-14T23:33:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why we should rethink our fascination with ‘celebrity’ animals",
-                "desc": "It’s incredible to see wild animals encroach on “human” spaces, but Nuisance Bear proves it’s not all fun and games.",
-                "image": "https://static.ffx.io/images/$zoom_2.2063%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/f7cb2bd2ceb7682c34ade5fa9519b10591787d566d26e8f2a355c892c9a750bc",
-                "url": "https://www.theage.com.au/culture/movies/love-watching-neil-the-seal-this-doco-unearths-the-truth-about-nuisance-animals-20260811-p60nb6.html",
-                "source": "The Age",
-                "date": "2026-08-14T23:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Diplomacy, peacekeeping cuts weaken Carney’s middle-power vision: South African envoy",
-                "desc": "OTTAWA - South Africa's envoy to Ottawa says Canada's decision to remove most of its peacekeepers from the continent doesn't align with the Carney government's pledge to get middle powers working together.",
-                "image": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2026/08/6a7e13220264375c42758469jpeg.jpg?w=1600",
-                "url": "https://www.winnipegfreepress.com/business/2026/08/14/diplomacy-peacekeeping-cuts-weaken-carneys-middle-power-vision-south-african-envoy-2",
-                "source": "Winnipeg Free Press",
-                "date": "2026-08-14T23:29:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Magnitude-7.7 quake hits off coast of Indonesia and tsunami warning issued",
-                "desc": "A magnitude-7.7 earthquake hit off the coast of Indonesia in the eastern Flores region, the United States Geological Survey reported on Friday.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260814-indonesia-flag-vsb-1908-2bc67f.jpg",
-                "url": "https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638",
-                "source": "NBC News",
-                "date": "2026-08-14T23:25:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "United States: USCIS Announces Termination of TPS for Somalia, Effective August 14, 2026",
-                "desc": "•\tTemporary Protected Status (TPS) for Somalia is terminated, effective August 14, 2026, according to a USCIS announcement released today.\n•\tSomalia TPS employment authorization documents (EADs) are no longer valid.",
-                "image": "https://www.fragomen.com/a/web/jw8CFvqZCBTzJTGK5te2fn/3gcYmk/alert-social-open-graph.jpg",
-                "url": "https://www.fragomen.com/insights/united-states-uscis-announces-termination-of-tps-for-somalia-effective-august-14-2026.html",
-                "source": "Fragomen",
-                "date": "2026-08-14T23:25:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Central Africa’s Muslims go home years after brutal war",
-                "desc": "SIBUT, Central African Republic: The Islamic call to prayer echoes once again across Sibut’s rooftops — a sign that peaceful coexistence has returned to the town in the mostly Christian Central African Republic (CAR) after years of civil war. The conflict emptied the thriving market town around three hours’ drive north of the capital Bangui of many of its Muslim residents.",
-                "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/08/15/4741259-1787735775.jpg?itok=07Cz14N9",
-                "url": "https://www.arabnews.pk/node/2654729/world",
-                "source": "Arab News PK",
-                "date": "2026-08-14T22:57:21Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-15T16:35:26.632036Z"
+    "lastGlobalSync": "2026-08-15T17:02:06.658510Z"
 }
