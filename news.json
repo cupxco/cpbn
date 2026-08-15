@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Google will now allow users to remove visible watermark from its AI generations",
+                "desc": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+                "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+                "source": "TechCrunch",
+                "date": "2026-08-14T16:13:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Reining in the power giants",
+                "desc": "When the Philippines passed the Electric Power Industry Reform Act (EPIRA) in 2001, the promise was to privatize state power assets, unleash open competition,...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/14/123679.webp",
+                "url": "https://mb.com.ph/2026/08/15/reining-in-the-power-giants",
+                "source": "Manila Bulletin",
+                "date": "2026-08-14T16:06:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stocks Fall on Signs US Consumer Is Slowing Down: Markets Wrap",
+                "desc": "(Bloomberg) -- Stocks retreated after the economy’s main engine showed signs of cooling, overshadowing optimism around bets the Federal Reserve will stay on hold in September.",
+                "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764341318",
+                "url": "https://www.swissinfo.ch/eng/stocks-fall-on-signs-us-consumer-is-slowing-down%3A-markets-wrap/91895566",
+                "source": "SWI swissinfo.ch",
+                "date": "2026-08-14T16:00:06Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Honda Malaysia celebrates first three new prelude owners",
+                "desc": "The three owners were brought together at a customer appreciation event highlighting their individual connections to the Prelude and Honda.",
+                "image": "https://thesun.my/wp-content/uploads/2026/08/Pic-08-Honda-Malaysia-All-New-Prelude-Ownership-Journey-1024x682-1.jpeg",
+                "url": "https://thesun.my/motoring/honda-malaysia-celebrates-first-three-new-prelude-owners/",
+                "source": "The Sun Malaysia",
+                "date": "2026-08-14T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cutting people for AI?",
+                "desc": "I came across an industry article saying that the hottest new job title in corporate America isn’t “AI specialist.” It’s “Please come back; We made a terrible mistake.””",
+                "image": "https://media.philstar.com/images/filler/business-logo-filler-thumbnail.jpg",
+                "url": "https://www.philstar.com/business/2026/08/15/2549279/cutting-people-ai",
+                "source": "Philstar.com",
+                "date": "2026-08-14T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two Cork food firms served with prohibition orders by safety authority",
+                "desc": "Rebel Ice Cream was directed to destroy three batches of product, consisting, respectively, of 27 cases, eight cases, and 97 cases.",
+                "image": "https://www.echolive.ie/cms_media/module_img/10385/5192686_1_org_7-August.jpg",
+                "url": "https://www.echolive.ie/corknews/arid-41895697.html",
+                "source": "echo live",
+                "date": "2026-08-14T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cebu Pacific off to good start in second half",
+                "desc": "The country’s largest carrier grew its passenger volume to more than 2.2 million in July, putting it on pace for a better second half as it tries to bounce back from its net loss.",
+                "image": "https://media.philstar.com/photos/2026/08/14/5_2026-08-14_18-35-40.jpg",
+                "url": "https://www.philstar.com/business/2026/08/15/2549284/cebu-pacific-good-start-second-half",
+                "source": "Philstar.com",
+                "date": "2026-08-14T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GT Capital nets P16.4 billion in January-June",
+                "desc": "GT Capital Holdings Inc., the diversified conglomerate of the Ty family, delivered lower earnings in the first half, with the group’s performance mirroring a general slowdown in economic activity.",
+                "image": "https://media.philstar.com/photos/2026/08/14/7_2026-08-14_18-30-24.jpg",
+                "url": "https://www.philstar.com/business/2026/08/15/2549282/gt-capital-nets-p164-billion-january-june",
+                "source": "Philstar.com",
+                "date": "2026-08-14T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Government to restore P107 billion PDIC funds over 2 years",
+                "desc": "The government seeks to restore the entire P107.23 billion previously remitted by the Philippine Deposit Insurance Corp. (PDIC) to the national coffers over two years, starting with P57 billion under the proposed 2027 national budget.",
+                "image": "https://media.philstar.com/photos/2026/08/14/6_2026-08-14_18-32-53.jpg",
+                "url": "https://www.philstar.com/business/2026/08/15/2549283/government-restore-p107-billion-pdic-funds-over-2-years",
+                "source": "Philstar.com",
+                "date": "2026-08-14T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Over P4/liter oil price hike looms next week",
+                "desc": "Pump prices are set to rise next week as hopes fade anew that the Strait of Hormuz will reopen soon.",
+                "image": "https://media.philstar.com/photos/2026/08/14/5_2026-08-14_22-39-09.jpg",
+                "url": "https://www.philstar.com/headlines/2026/08/15/2549374/over-p4liter-oil-price-hike-looms-next-week",
+                "source": "Philstar.com",
+                "date": "2026-08-14T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "BoFiNet Completes P43m Fibre Project, Connects Three Botswana Villages",
                 "desc": "The project supports Botswana’s Economic Transformation Programme and BoFiNet’s mandate to provide telecommunications backbone infrastructure.",
                 "image": "https://techafricanews.com/wp-content/uploads/2025/12/fibre-2.png",
@@ -542,99 +632,99 @@
                 "source": "CBC",
                 "date": "2026-08-14T09:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nestlé Nigeria marks five years of empowering rural women as 50 Zaria retailers join initiative",
-                "desc": "Nestlé Nigeria has marked the fifth anniversary and 10th edition of its Empowering Rural Women Initiative by supporting 50 women retailers in Zaria, Kaduna State, with practical business training and grants in the form of Nestlé products valued at three times their existing stock. The intervention also marked the beginning of a three-month mentorship period",
-                "image": "https://realnewsmagazine.net/wp-content/uploads/2026/08/image-542.png",
-                "url": "https://realnewsmagazine.net/nestle-nigeria-marks-five-years-of-empowering-rural-women-as-50-zaria-retailers-join-initiative/",
-                "source": "Realnews Magazine",
-                "date": "2026-08-14T08:16:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China's 'new' Jetour Traveler 7 the first hint of facelift Jetour T2?",
-                "desc": "First images have emerged of the Jetoutr Traveler 7 in China which is rumoured as possibly becoming the global facelift Jetour T2.",
-                "image": "https://media.citizen.co.za/wp-content/uploads/2026/08/T21.jpg",
-                "url": "https://www.citizen.co.za/motoring/facelift-jetour-t2-possibly-revealed-by-traveler-7/",
-                "source": "The Citizen",
-                "date": "2026-08-14T08:14:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Petrol Price Review Expected as Depot Rates Rise Above Dangote's",
-                "desc": "Dangote Refinery may review petrol and diesel prices as marketers quote rates above its current gantry prices, increasing pressure on consumers nationwide.",
-                "image": "https://cdn.legit.ng/images/1200x675/159c8c30755a1365.jpeg?v=1",
-                "url": "https://www.legit.ng/business-economy/energy/1725018-another-petrol-price-review-expected-dangote-increases-selling-rate/",
-                "source": "legit.ng",
-                "date": "2026-08-14T08:12:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Laing O’Rourke and HMJV lead £1bn Grid upgrade for AI boom",
-                "desc": "North London power capacity upgrade to support five new data centres",
-                "image": "https://www.constructionenquirer.com/wp-content/uploads/Letchmore-Heath-substation-1200x828.jpg",
-                "url": "https://www.constructionenquirer.com/2026/08/14/laing-orourke-and-hmjv-spearhead-grid-upgrade-for-ai-boom/",
-                "source": "Construction Enquirer",
-                "date": "2026-08-14T08:11:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More than half of cigarette packs in Irish survey had no Irish duty paid",
-                "desc": "JTI-commissioned research finds 57% of discarded packs examined were non-Irish duty paid",
-                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjFcXFwvMDdcXFwvMDgxMDIzNDNcXFwvR2V0dHlJbWFnZXMtNDc2NTUxMzEyLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZGE4MjFhZGVhMTdlZjE0NjBlNWRkZDI4ZGExYmRhOTdkYmQxYzU0OCJ9/more-than-half-of-cigarette-packs-in-irish-survey-had-no-irish-duty-paid.jpg",
-                "url": "https://www.breakingnews.ie/ireland/more-than-half-of-cigarette-packs-in-irish-survey-had-no-irish-duty-paid-1939919.html",
-                "source": "BreakingNews.ie",
-                "date": "2026-08-14T08:11:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LG Electronics India shares jump 10% on bullish brokerage calls post-Q1 results; should you buy, sell or hold?",
-                "desc": "LG Electronics India shares rose sharply as analysts remained positive on the stock, citing broad-based growth, margin expansion and an improving product mix.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251016075105_LG-electronics-IPO-national-stock-exchange.jpg",
-                "url": "https://www.moneycontrol.com/news/business/markets/lg-electronics-india-shares-jump-10-on-bullish-brokerage-calls-post-q1-results-should-you-buy-sell-or-hold-14005601.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-08-14T08:09:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yuchengco's PetroEnergy posts ₱498-million profit as clean power boosts revenue",
-                "desc": "Yuchengco-led PetroEnergy Resources Corp. (PERC) posted a 7.3  percent increase in consolidated net income for the first half of the year, bolstered by...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/14/123663.webp",
-                "url": "https://mb.com.ph/2026/08/14/yuchengcos-petroenergy-posts-498-million-profit-as-clean-power-boosts-revenue",
-                "source": "Manila Bulletin",
-                "date": "2026-08-14T08:07:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FG presents trading platform for crude oil supply to Dangote Refinery, others",
-                "desc": "According to him, Nigeria is already on track to becoming a net exporter of petroleum products as local refining capacity continues to grow.",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2022/01/NMDPRA.jpg",
-                "url": "https://www.vanguardngr.com/2026/08/fg-presents-trading-platform-for-crude-oil-supply-to-dangote-refinery-others/",
-                "source": "Vanguard News",
-                "date": "2026-08-14T08:06:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Police ID flyers, seize equipment after kites disrupt 21 flights at Vietnam's busiest airport",
-                "desc": "Vietnamese police have identified the individuals responsible for flying several large, strobe-lit kites that paralyzed operations at Ho Chi Minh City's main airport on Thursday night, the latest in a string of aerial intrusions that have sparked calls for advanced detection technology.",
-                "image": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/8/14/fkitecapture-17866850286121521653000-107-0-495-741-crop-17866850487291053444981.jpg",
-                "url": "https://news.tuoitre.vn/police-id-flyer-seize-equipment-after-kites-disrupt-21-flights-at-vietnams-busiest-airport-103260814122858178.htm",
-                "source": "news.tuoitre.vn",
-                "date": "2026-08-14T08:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Space storms could put airline passengers at radiation risk, scientists warn",
-                "desc": "Extreme solar storms could expose airline passengers and crew to dangerous radiation levels and trigger the kind of aircraft electronics failures that grounded 6,000 Airbus jets last year, researchers say.",
-                "image": "https://images.euronews.com/articles/stories/09/87/32/77/1200x675_cmsv2_c773e980-e497-5cd6-b1c3-c21302223102-9873277.jpg",
-                "url": "https://www.euronews.com/next/2026/08/14/space-storms-could-put-airline-passengers-at-radiation-risk-scientists-warn",
-                "source": "Euronews.com",
-                "date": "2026-08-14T08:05:45Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Long live physical media! Our home cinema experts pick out the best 4K Blu-ray players and some of our favourite discs to play on them",
+                "desc": "Don't want your movies to disappear one day? You'll never have that problem with Blu-ray",
+                "image": "https://cdn.mos.cms.futurecdn.net/VuaAB5oJMGJWEo4qcAZsTi-1920-80.jpg",
+                "url": "https://www.whathifi.com/tv-home-cinema/blu-ray-players/long-live-physical-media-our-home-cinema-experts-pick-out-the-best-4k-blu-ray-players-and-some-of-our-favourite-discs-to-play-on-them",
+                "source": "What Hi-Fi?",
+                "date": "2026-08-14T16:14:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google will now allow users to remove visible watermark from its AI generations",
+                "desc": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+                "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+                "source": "TechCrunch",
+                "date": "2026-08-14T16:13:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Physics-Based Stickman Brawler Stick It To The Stickman Brings Corporate Satire & Sick Moves To PC When It Leaves Early Access On September 23",
+                "desc": "A year ago, Free Lives and Devolver Digital’s physics-based stickman brawler, Stick it to the Stickman, kicked, punched, and fireballed its way into Early",
+                "image": "https://www.mkaugaming.com/wp-content/uploads/2026/08/Game-Page-Featured_Stick-it-to-the-Stickman-Inits.jpg",
+                "url": "https://www.mkaugaming.com/physics-based-stickman-brawler-stick-it-to-the-stickman-brings-corporate-satire-sick-moves-to-pc-when-it-leaves-early-access-on-september-23/",
+                "source": "MKAU Gaming",
+                "date": "2026-08-14T16:13:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Weekly Gaming Reports Recap: August 10 - August 14 (2026)",
+                "desc": "GTA V has passed 230 million copies sold, with the whole series at nearly 475 million; PlayStation 5 crossed 95 million consoles worldwide.",
+                "image": "https://substackcdn.com/image/fetch/$s_!XZxj!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97fba61f-9fbc-4faf-b8fc-99eb1f3fec2f_1920x1080.png",
+                "url": "https://gamedevreports.substack.com/p/weekly-gaming-reports-recap-august-182",
+                "source": "Substack",
+                "date": "2026-08-14T16:13:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ars Live recap: How can we stop publishers from killing their own games?",
+                "desc": "The Stop Killing Games movement faces an uphill battle.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/3408519540_a597fef749_k-1152x648.jpg",
+                "url": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
+                "source": "Ars Technica",
+                "date": "2026-08-14T16:11:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Molecule Boosts Cleaner, Efficient Metal Recovery",
+                "desc": "Recovering valuable metals from electronic waste, mining streams and industrial waste typically requires large quantities of chemical reagents",
+                "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1512314889357-e157c22f938d%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1351%26amp%3Bq%3D80",
+                "url": "https://www.miragenews.com/new-molecule-boosts-cleaner-efficient-metal-1727572/",
+                "source": "Mirage News",
+                "date": "2026-08-14T16:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ferrari CZ26 revealed as one-off SF90 Stradale-based hybrid supercar",
+                "desc": "Ferrari CZ26 is a bespoke V8 hybrid unveiled at Monterey Car Week.",
+                "image": "https://www.completecar.ie/img/news/15079_large.jpg?v=c13a068312c2d5ce",
+                "url": "https://www.completecar.ie/car-news/article/15079/Ferrari-CZ26-revealed-as-one-off-SF90-Stradale-based-hybrid-supercar",
+                "source": "CompleteCar.ie",
+                "date": "2026-08-14T16:09:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Powered Cars That Don't Wear The Prancing Horse Badge, And How To Get One For Cheap",
+                "desc": "While Ferrari tends to keep its V8s in its own cars, it has been known to share every now and again. These are the non-Ferrari models with its V8.",
+                "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/alfa-romeo-8c-front-fender-1.jpg?w=1600&h=900&fit=crop",
+                "url": "https://carbuzz.com/ferrari-powered-cars-dont-wear-a-prancing-horse-badge/",
+                "source": "CarBuzz",
+                "date": "2026-08-14T16:09:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach",
+                "desc": "AI agents using Claude Opus 4.8 and GPT-5.6 Sol were given six days, $3,000 in API credits, and GPU access to independently write AI research papers. The original authors of unpublished NeurIPS papers rated the results as \"Reject.\" According to the study, conducted with Princeton and the UK AI Security Institute, frontier models can handle the full research engineering process but fall short on research judgment, creative problem-solving, and the ability to abandon failed approaches.",
+                "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai-assisted-science-rejected-papers-nano-banana-pro.jpg",
+                "url": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/",
+                "source": "the-decoder.com",
+                "date": "2026-08-14T16:08:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple is warning users of new spyware attacks - what to do if you're a target",
+                "desc": "New spyware attacks are aimed at journalists, activists, politicians, diplomats, and others. Here's how Apple is notifying them and what they should do - after turning on Lockdown Mode.",
+                "image": "https://www.zdnet.com/a/img/resize/89c1789ed5ac78e868c5fca77838007ca64c62bd/2026/08/14/b6abc77a-b628-439d-bcdd-149f543609ad/enable-lockdown-mode-on-an-iphone.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.zdnet.com/article/apple-warns-targetted-spyware-attacks-what-to-do/",
+                "source": "ZDNET",
+                "date": "2026-08-14T16:08:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "How The New Google Pixel 11 & Watch 5 AI Powers High Performance",
                 "desc": "Discover how Google Pixel 11, Pixel Watch 5, and Gemini AI help executives escape the over-functioning trap, protect focus, and drive high performance.",
@@ -1174,99 +1264,99 @@
                 "source": "Mashable",
                 "date": "2026-08-14T09:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Apple notified users if they were being targeted in spyware attack this week",
-                "desc": "Since 2021, Apple has notified users in over 150 countries regarding spyware attackers.",
-                "image": "https://htxt.co.za/wp-content/uploads/2026/08/ios-26-iphone-17-pro-lock-screen-threat-notification.jpg",
-                "url": "https://htxt.co.za/2026/08/apple-notified-users-if-they-were-being-targeted-in-spyware-attack-this-week/",
-                "source": "htxt.co.za",
-                "date": "2026-08-14T08:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Free Modular Vocal Channel Strip",
-                "desc": "VOCAL LABS features two independent five-module racks",
-                "image": "https://ww2.sonicftp.com/news/images/44279_147.jpg",
-                "url": "https://sonicstate.com/news/2026/08/14/free-modular-vocal-channel-strip",
-                "source": "Sonicstate",
-                "date": "2026-08-14T08:14:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jonathan Anderson rumoured to be teaming up with Zara",
-                "desc": "It's the moment all us Irish folk have been waiting for: We may soon be able to get our hands on some of Jonathan Anderson's creations at a fraction of the",
-                "image": "https://evoke.ie/wp-content/uploads/2026/08/GettyImages-1440330722.jpg",
-                "url": "https://evoke.ie/2026/08/14/style/fashion/jonathan-anderson-zara",
-                "source": "EVOKE",
-                "date": "2026-08-14T08:13:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MMDA to Roll Out New NCAP Features",
-                "desc": "The Metropolitan Manila Development Authority (MMDA) will introduce new enhancements to its No Contact Apprehension Policy (NCAP) system this August. Through the official NCAP web portal, motorists will be able to search for violations using their plate number and ticket number without needing the MV File Number. According to MMDA’s official Facebook page, each Notice…",
-                "image": "https://i0.wp.com/manilashaker.com/wp-content/uploads/2026/08/mmda-to-roll-out-new-ncap-features-.png?fit=1200%2C598&ssl=1",
-                "url": "https://manilashaker.com/mmda-to-roll-out-new-ncap-features/",
-                "source": "ManilaShaker Philippines",
-                "date": "2026-08-14T08:13:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mini Maxxing: Get More Out of Every Day with the TechLife Pad Mini",
-                "desc": "For a generation that wants to make the most out of everyday, the TechLife Pad Mini suits a…",
-                "image": "https://www.megabites.com.ph/wp-content/uploads/2026/08/PR-BANNER-TechLife-Pad-Mini.webp",
-                "url": "https://www.megabites.com.ph/mini-maxxing-get-more-out-of-every-day-with-the-techlife-pad-mini/",
-                "source": "megabites.com.ph",
-                "date": "2026-08-14T08:12:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Netflix shutters Night School Studio and Moonloot Games",
-                "desc": "Next Games is now the only internal studio at Netflix, in addition to the streaming service's gaming team",
-                "image": "https://assetsio.gnwcdn.com/unhinged.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.gamesindustry.biz/netflix-shutters-night-school-studio-and-moonloot-games",
-                "source": "gamesindustry.biz",
-                "date": "2026-08-14T08:11:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Review: HUAWEI Pura 90s Pro Max, a photography powerhouse",
-                "desc": "Whenever HUAWEI introduces a new flagship device, it is like going out in the street to watch a parade and fireworks. It’s a spectacle with a lot to see and...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/14/123670.webp",
-                "url": "https://mb.com.ph/2026/08/14/review-huawei-pura-90s-pro-max-a-photography-powerhouse",
-                "source": "Manila Bulletin",
-                "date": "2026-08-14T08:10:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Garmin's CIRQA, priced at R4,500, lands in South Africa",
-                "desc": "You’ve already seen the press leaks (and smart ring details). Now it's official, and Stuff has had a first hands-on look at the Garmin CIRQA",
-                "image": "https://stuff.co.za/wp-content/uploads/2026/08/CIRQA-2.png",
-                "url": "https://stuff.co.za/2026/08/14/garmins-cirqa-priced-at-r4500-lands-in-south-africa/",
-                "source": "Stuff South Africa",
-                "date": "2026-08-14T08:10:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Porsche 935: Why the ‘Baby’ went straight to the museum",
-                "desc": "In the history of motorsport, there have been a number of racing cars that flashed across the scene like comets and then vanished into the museum, never to be seen again. The 1977 Porsche 935 ‘Baby’ was one such car.",
-                "image": "https://files.speedweek.com/images/c_crop,x_0,y_0,w_6000,h_3000/c_fill,f_auto,q_auto,w_1200,h_630/2026/8/14/ngofzs1o2bt91nmof5vz/0000-mahla",
-                "url": "https://www.speedweek.com/en/a/sportscar/porsche-935-why-the-baby-rolled-straight-into-the-museum",
-                "source": "SPEEDWEEK.com",
-                "date": "2026-08-14T08:09:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Steam Frame launch date is “just around the corner,” developer says",
-                "desc": "Steam Frame still has no exact release date or price from Valve. Gunman Contracts developer ANB_Seth now says its launch date should be close.",
-                "image": "https://cdn.videocardz.com/1/2025/11/STEAM-FRAME-HERO-2-1.jpg",
-                "url": "https://videocardz.com/newz/steam-frame-launch-date-is-just-around-the-corner-developer-says",
-                "source": "VideoCardz.com",
-                "date": "2026-08-14T08:08:20Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "US aircraft carrier on way to relieve USS Abraham Lincoln after issues reported on board",
+                "desc": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo",
+                "source": "BBC",
+                "date": "2026-08-14T16:07:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US aircraft carrier on way to relieve USS Abraham Lincoln after issues reported on board",
+                "desc": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg",
+                "url": "https://www.bbc.com/news/articles/c171yp5zdrxo",
+                "source": "BBC",
+                "date": "2026-08-14T16:07:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fundraiser for Sittingbourne child not expected to survive birth",
+                "desc": "The money raised will go towards Jude's physiotherapy costs, the family said.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bfc4/live/51e5d000-97e0-11f1-a76b-f1c27c51f3da.png",
+                "url": "https://www.bbc.com/news/articles/cx2vj9jwz4go",
+                "source": "BBC",
+                "date": "2026-08-14T16:07:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fundraiser for Sittingbourne child not expected to survive birth",
+                "desc": "The money raised will go towards Jude's physiotherapy costs, the family said.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfc4/live/51e5d000-97e0-11f1-a76b-f1c27c51f3da.png",
+                "url": "https://www.bbc.co.uk/news/articles/cx2vj9jwz4go",
+                "source": "BBC",
+                "date": "2026-08-14T16:07:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tennessee’s Justin Pearson takes on America’s most contentious issues",
+                "desc": "The progressive candidate won a Democratic congressional primary after boldly staking positions on voting rights, datacenters and the US war machine",
+                "image": "https://i.guim.co.uk/img/media/00f4f92f25676c709674b2c70ebc592134895dc2/320_0_4561_3648/master/4561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f923c8f9b647a600e89da870a8447256",
+                "url": "https://www.theguardian.com/us-news/2026/aug/14/tennessee-justin-pearson-progressive-candidate",
+                "source": "The Guardian",
+                "date": "2026-08-14T16:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Woman arrested after high-speed pursuit that saw her 'throwing objects' out of car at police",
+                "desc": "Police said the woman was driving at “over double the speed limit” during the pursuit, which lasted for over 15 minutes.",
+                "image": "https://img2.thejournal.ie/article/7131634/river/?height=400&version=7131641",
+                "url": "https://www.thejournal.ie/woman-arrested-pursuit-armagh-drink-driving-stolen-car-7131634-Aug2026/",
+                "source": "The Journal",
+                "date": "2026-08-14T16:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PSNI and Garda chiefs pledge deeper co-operation as new officers attested",
+                "desc": "Chief Constable Jon Boutcher welcomed Commissioner Justin Kelly to his first visit to an attestation ceremony in Northern Ireland.",
+                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDhcXFwvMTQxNzAyMDFcXFwvODVhNmE2MWEtYjZmNy00YTQxLTk0MDEtYzIyODY0ZjY2OTFkLmpwZWdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImQ5YTliNmViZGU3YjlhMjEzMzEyYWRlODUwYmJhYjViMjJmOTJiYzkifQ==/psni-and-garda-chiefs-pledge-deeper-co-operation-as-new-officers-attested.jpeg",
+                "url": "https://www.breakingnews.ie/ireland/psni-and-garda-chiefs-pledge-deeper-co-operation-as-new-officers-attested-1940066.html",
+                "source": "BreakingNews.ie",
+                "date": "2026-08-14T16:05:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "North Korea warns of new 'deterrent' ahead of US-South Korea drills",
+                "desc": "SEOUL — North Korea warned on Friday that it could respond with 'a new level of deterrent' to upcoming joint United States -South Korea drills simulating battle against Pyongyang's troops who were battle-hardened from their deployment in the Russia-Ukraine war.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/14/1177178.jpg",
+                "url": "https://www.manilatimes.net/2026/08/15/world/asia-oceania/north-korea-warns-of-new-deterrent-ahead-of-us-south-korea-drills/2405704",
+                "source": "The Manila Times",
+                "date": "2026-08-14T16:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 Startup Funding Calls Open Now",
+                "desc": "Five accelerator and funding programmes are open now, spanning AI, aerospace, energy and cybersecurity. Deadlines and grant sizes inside.",
+                "image": "https://images.unsplash.com/photo-1675716921224-e087a0cca69a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHN0YXJ0dXAlMjBmb3VuZGVyc3xlbnwwfHx8fDE3ODY3MDU3MDl8MA&ixlib=rb-4.1.0&q=80&w=2000",
+                "url": "https://www.techloy.com/top-5-accelerator-programmes-and-grants-for-early-startups-you-can-apply-for-in-august/",
+                "source": "Techloy",
+                "date": "2026-08-14T16:02:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cameroon journalist held incommunicado for photo of Anglophone unrest",
+                "desc": "Dakar, August 14, 2026—The Committee to Protect Journalists calls on Cameroonian authorities to release George Atabong Lekeaka, who has been held incommunicado since Monday for publishing a photo of security officers on patrol during clashes with separatist fighters. “George Atabong Lekeaka should not have been arrested for attempting to provide the public with security information,...",
+                "image": "https://cpj.org/wp-content/uploads/2026/08/Cameroon-alert-081426.jpg?fit=4096,4096&strip=all&quality=80",
+                "url": "https://cpj.org/2026/08/cameroon-journalist-held-incommunicado-for-photo-of-anglophone-unrest/",
+                "source": "Committee to Protect Journalists",
+                "date": "2026-08-14T16:02:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "UAE Outlines 9 Categories of Foreigners Who Can Live There Without a Job in 2026",
                 "desc": "UAE has announced nine foreigner categories eligible for a Non-Working Residence Permit, enhancing opportunities for remote workers, retirees, and students.",
@@ -1806,98 +1896,8 @@
                 "source": "ACLED",
                 "date": "2026-08-14T08:57:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Curious Cook: The myth of infinite water, part 2",
-                "desc": "In the second of a three-part series, the columnist examines how chemical pollution, ageing infrastructure and climate change are widening the gap between clean water supply and demand.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/14/4059407.jpg",
-                "url": "https://www.thestar.com.my/food/food-for-thought/curious-cook/2026/08/14/curious-cook-the-myth-of-infinite-water-part-2",
-                "source": "The Star",
-                "date": "2026-08-14T08:14:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Climate Change Shrinks Caspian Sea to Historical Low",
-                "desc": "The Director General of Environmental Protection in Mazandaran Province warned of an unprecedented drop in the Caspian Sea’s water level ...",
-                "image": "https://static.prod.iranwire.com/_versions_jpeg/articleslide/y7hgxdquafgl_GMdO__v1024x512__box_0%2C46%2C640%2C382.jpeg",
-                "url": "https://iranwire.com/en/news/156288-climate-change-shrinks-caspian-sea-to-historical-low/",
-                "source": "IranWire",
-                "date": "2026-08-14T08:14:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rwanda’s Agricultural Exports Cross $1 Billion Mark",
-                "desc": "Rwanda’s agricultural exports generated $1.1 billion between July 2025 and June 2026, marking a 24.3 per cent increase from the $893 million recorded in the",
-                "image": "https://kilimonews.co.ke/wp-content/uploads/2026/08/Rwanda-agricultural-exports-1024x682.jpg",
-                "url": "https://kilimonews.co.ke/agriculture-investment/rwandas-agricultural-exports-cross-1-billion-mark/",
-                "source": "Kilimo News",
-                "date": "2026-08-14T08:14:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The President of Finland stated that he loves Russians but is not satisfied with the leadership of the Russian Federation",
-                "desc": "“I would assess that if not in the next few weeks, then within the next two months, it is worth establishing some contact. At some point, these contacts need to be opened, both at the pan-European level and at the bilateral level,” said the",
-                "image": "https://news.inbox.eu/w/img/f9/fd/f9fd7ab89fe01ed067.webp",
-                "url": "https://news.inbox.lv/150mgpu-the-president-of-finland-stated-that-he-loves-russians-but-is-not-satisfied-with-the-leadership-of-the-russian-federation?language=en&source=portal",
-                "source": "Inbox.lv",
-                "date": "2026-08-14T08:13:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The President of Finland stated that he loves Russians but is not satisfied with the leadership of the Russian Federation",
-                "desc": "“I would assess that if not in the next few weeks, then within the next two months, it is worth establishing some contact. At some point, these contacts need to be opened, both at the pan-European level and at the bilateral level,” said the",
-                "image": "https://news.inbox.eu/w/img/f9/fd/f9fd7ab89fe01ed067.webp",
-                "url": "https://news.inbox.eu/150mgpu-the-president-of-finland-stated-that-he-loves-russians-but-is-not-satisfied-with-the-leadership-of-the-russian-federation?language=en",
-                "source": "Inbox.eu",
-                "date": "2026-08-14T08:13:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Diplomacy, peacekeeping cuts weaken Carney’s middle-power vision: South African envoy",
-                "desc": "OTTAWA — South Africa's envoy to Ottawa says Canada's decision to remove most of its peacekeepers from the continent doesn't align with the Carney government's pledge to get middle powers working together. \"I am saddened by the fact that the budget cut...",
-                "image": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fe65df436-4bd3-4b58-b56d-25748e58fcdd%2F3f05cf49be380aeb2c932e084bd83e1bd0c36afecb1c39ebd340b436672a9f7f.jpg",
-                "url": "https://lethbridgenewsnow.com/2026/08/14/diplomacy-peacekeeping-cuts-weaken-carneys-middle-power-vision-south-african-envoy/",
-                "source": "Lethbridge News Now",
-                "date": "2026-08-14T08:13:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Naoero: The world’s third-smallest country is changing its name",
-                "desc": "The Republic of Naoero is one of the most at risk from climate change",
-                "image": "https://static.independent.co.uk/2026/08/03/9/16/3456745864.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/australasia/nauru-name-change-naoero-population-country-b3032999.html",
-                "source": "The Independent",
-                "date": "2026-08-14T08:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South African envoy",
-                "desc": "OTTAWA — South Africa's envoy to Ottawa says Canada's decision to remove most of its peacekeepers from the continent doesn't align with the Carney",
-                "image": "https://lethbridgeherald.com/wp-content/uploads/2022/06/cropped-logo-square-32x32.jpg",
-                "url": "https://lethbridgeherald.com/news/national-news/2026/08/14/diplomacy-peacekeeping-cuts-weaken-carneys-middle-power-vision-south-african-envoy/",
-                "source": "The Lethbridge Herald",
-                "date": "2026-08-14T08:11:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bukit Aman say they know how Malaysia Airlines pilot cleared KLIA checks after three-day interrogation",
-                "desc": "KUALA LUMPUR, Aug 14 — Police are pursuing members of a drug syndicate in Malaysia after a Malaysia Airlines pilot was arrested in Jakarta late last month with more than 26...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/14/357090.jpg",
-                "url": "https://www.malaymail.com/news/malaysia/2026/08/14/bukit-aman-say-they-know-how-mas-pilot-cleared-klia-checks-after-three-day-interrogation/231361",
-                "source": "Malay Mail",
-                "date": "2026-08-14T08:11:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How listening can help us respond to a planet in crisis",
-                "desc": "What does it mean to listen to a planet in crisis? Scholars, scientists and artists are using sound to better understand biodiversity and the climate crisis, while challenging us to reconsider our relationship with the living world.",
-                "image": "https://www.resilience.org/wp-content/uploads/2026/08/image2.jpg",
-                "url": "https://www.resilience.org/stories/2026-08-14/can-listening-be-a-climate-justice-practice/",
-                "source": "resilience.org",
-                "date": "2026-08-14T08:08:57Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-15T03:24:41.327011Z"
+    "lastGlobalSync": "2026-08-15T04:14:11.327826Z"
 }
