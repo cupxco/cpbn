@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "American Airlines flight blows 2 tires upon landing at Chicago O'Hare: FAA",
+                "desc": "The airline said there were no injuries after American Airlines flight 386 \"experienced a tire issue after landing safely\" at the airport.",
+                "image": "https://i.abcnewsfe.com/a/92c829bc-1b4f-465c-bf92-7c3bb72c8854/plane-abc-er-260817_1787004235025_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/US/american-airlines-flight-blows-2-tires-landing-chicago/story?id=135721609",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-08-18T01:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Qantas A380 flew Sydney-US return trip with maintenance light inside wing",
+                "desc": "The Australian Transport Safety Bureau (ATSB) found the maintenance light was left behind after work was carried out on the aircraft's cooling system at Sydney Airport in January.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/qantas-a380-TWWWVP6BK5GMJN6TA73523SP4Q.jpg?auth=bdc2265b5d4be259fbaabeaa25b2012ce93f4b943df30173448a87670fa08c79&quality=70&width=600&height=315&focal=2076%2C1172",
+                "url": "https://www.1news.co.nz/2026/08/18/qantas-a380-flew-sydney-us-return-trip-with-maintenance-light-inside-wing/",
+                "source": "1News",
+                "date": "2026-08-18T01:29:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Options investors are betting on this gold-price trend: Susquehanna",
+                "desc": "Gold is seeing muted volatility, firmer upside skew and renewed inflows.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108326574-1782367920343-gettyimages-2254206522-SWITZERLAND_VALCAMBI.jpeg?v=1782367944&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/18/options-investors-betting-gold-price-trend-susquehanna.html",
+                "source": "CNBC",
+                "date": "2026-08-18T01:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What a US$50mn investment says about the future of payroll and workforce management",
+                "desc": "A single funding round rarely says much about an industry. This one does – it points to where workforce management is heading as more organisations run distributed teams across borders.",
+                "image": "https://humanresourcesonline-assets.b-cdn.net/article_images/what-a-us-50mn-investment-says-about-the-future-of-payroll-and-workforce-management/1787018735_BIPO%20Hong%20Kong.jpg",
+                "url": "https://www.humanresourcesonline.net/what-a-us-50mn-investment-says-about-the-future-of-payroll-and-workforce-management",
+                "source": "Human Resources Online",
+                "date": "2026-08-18T01:27:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "News Corporation Reports Daily Buy-Back of 62,323 Class A Shares Worth US$1.79 Million",
+                "desc": "News Corporation (ASX:NWS) has lodged a daily buy-back notification disclosing the repurchase of 62,323 Class A common stock shares on 17 August 2026, for a total consideration of US$1,794,914.86, under its 2025 Repurchase Program authorised for up to an aggregate of US$1 billion of Nasdaq-listed Class A and Class B common stock.",
+                "image": "https://kalkine.com.au/featured_image/gallery/xlarge/announcement7_06_04_2026_07_12_48_947196.webp",
+                "url": "https://kalkine.com.au/news/announcements/news-corporation-reports-daily-buy-back-of-62323-class-a-shares-worth-us179-million",
+                "source": "Kalkine",
+                "date": "2026-08-18T01:27:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NYC drivers shell out $9 congestion toll. City admits it failed to improve air quality",
+                "desc": "NYC’s pricey congestion toll, meant to clear the air, barely budged pollution levels after one year, data from the New York City Health Department reveals.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/congestion-pricing-air-pollution-study.jpg?quality=75&strip=all&1787001892&w=1200",
+                "url": "https://nypost.com/2026/08/17/us-news/nyc-drivers-shell-out-9-congestion-toll-city-admits-it-failed-to-improve-air-quality/",
+                "source": "nypost.com",
+                "date": "2026-08-18T01:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil climbs as fading US-Iran peace hopes raise supply risks",
+                "desc": "Oil rose on Tuesday as a deal to end the Mideast war stalls, with Iran posturing for a more offensive stance and the U.S. ruling out an extended ceasefire pact.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108278974-1773761711238-108278974-1773761649691-gettyimages-2266990062-l1070100_zkam1hu8.jpg?v=1787016114&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/18/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks.html",
+                "source": "CNBC",
+                "date": "2026-08-18T01:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mum’s warning after horror find in loaf of bread",
+                "desc": "A Brisbane mum has issued a warning after she claimed to find a piece of glass in a toasted sandwich she made for her daughter.",
+                "image": "https://static.ffx.io/images/$zoom_1.189%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_47%2C$y_231/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/6940f0cbe4f2171e3df93360cbe223560db157f9811233f881a8a8382a8ed074",
+                "url": "https://www.nine.com.au/australia-news/qld/glass-allegedly-found-loaf-of-bread-brisbane-20260818-p60p77.html",
+                "source": "nine.com.au",
+                "date": "2026-08-18T01:20:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'They don't simply open doors and earn five figures': How much do property agents really earn?",
+                "desc": "SINGAPORE — As a child, Mervyn Ong would follow his property agent parents to house viewings and help them distribute flyers in letterboxes. This stirred in him a passion for the profession which he later spent years trying to enter.It took the 38-year-old nine attempts over 15 years to eventually pass the Real Estate Salesperson (RES) examination to become a...",
+                "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Aug2026/property%20agents.jpg?itok=4DstOIWw",
+                "url": "https://www.asiaone.com/singapore/they-dont-simply-open-doors-and-earn-five-figures-how-much-do-property-agents-really-earn",
+                "source": "AsiaOne",
+                "date": "2026-08-18T01:19:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Deep Tech and AI Take Center Stage as Entrepreneurs Chase Global Wins at JX Live 2026",
+                "desc": "From satellites and physical AI to the IP industry, JX Live 2026 explored where Japan can compete in a rapidly changing global technology landscape.",
+                "image": "https://cdn.japan-forward.com/wp-content/uploads/2026/08/unnamed.webp",
+                "url": "https://japan-forward.com/jx-live-2026-deep-tech-ai-digital-deficit/",
+                "source": "JAPAN Forward",
+                "date": "2026-08-18T01:18:53Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Asia is rearming fast - but counting the wrong kind of military power",
                 "desc": "What decides how long wars can be fought is regenerative capacity, with Asia not yet paying for it.",
                 "image": "https://cdn.sanity.io/images/5dcouzig/production/3e27ee78ad8fc40840740d0fca22392844e8207d-5400x3600.jpg?rect=0,383,5400,2835&w=1200&h=630&fm=webp&q=85&fit=crop",
@@ -542,99 +632,99 @@
                 "source": "CancerNetwork",
                 "date": "2026-08-17T19:07:19Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "SSI 6-month net income slumped 40% as expenses surged",
-                "desc": "SSI Group’s first-half net income fell nearly 40% on higher operating and financing costs despite double-digit sales growth.",
-                "image": "https://business.inquirer.net/files/2025/04/SSI-Group-Inc.png",
-                "url": "https://business.inquirer.net/606352/ssi-6-month-net-income-slumped-40-as-expenses-surged",
-                "source": "Inquirer.net",
-                "date": "2026-08-17T18:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why most homeowners don't need to lose sleep over falling property prices",
-                "desc": "Being in negative equity may not be as much of a problem as some recent headlines might have you believe, one expert says.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/houses-in-wellington-file-image-RS2YQWRYIVBUJKNH2CKAPZHF2Y.png?auth=3883af8a94808bfc78cf056433a4e82c49197b50778056fb86df2f586ad84574&quality=70&width=600&height=315&focal=955%2C490",
-                "url": "https://www.1news.co.nz/2026/08/18/why-most-homeowners-dont-need-to-lose-sleep-over-falling-property-prices/",
-                "source": "1News",
-                "date": "2026-08-17T18:03:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PH banks’ farm lending tops P3T",
-                "desc": "Bank lending to agriculture topped P3 trillion in June, with lenders exceeding their mandated quota despite industry headwinds.",
-                "image": "https://business.inquirer.net/files/2025/03/Bangko-Sentral-ng-Pilipinas-BSP-04March2025.jpg",
-                "url": "https://business.inquirer.net/606360/ph-banks-farm-lending-tops-p3t",
-                "source": "business.inquirer.net",
-                "date": "2026-08-17T18:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Designing Your Ideal Role: A proactive approach to job crafting",
-                "desc": "Feeling stuck at work does not always mean you are in the wrong job. Sometimes, it means the role that",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/08/Chinenye-Laura-Ifezulike-Headshot-scaled.jpg",
-                "url": "https://businessday.ng/personality/article/designing-your-ideal-role-a-proactive-approach-to-job-crafting/",
-                "source": "Business News Nigeria",
-                "date": "2026-08-17T18:02:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PSE sees listing momentum holding up",
-                "desc": "PSE expects its listing pipeline to hold up as companies seek capital, despite market volatility and economic uncertainty.",
-                "image": "https://business.inquirer.net/files/2025/09/Philippine-Stock-Exchange-logo-26September2025.png",
-                "url": "https://business.inquirer.net/606353/pse-sees-listing-momentum-holding-up",
-                "source": "business.inquirer.net",
-                "date": "2026-08-17T18:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Two memory stocks are clearing key levels, says Katie Stockton",
-                "desc": "The founder of Fairlead Strategies breaks down the technicals on these memory chipmakers.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108243546-1766065451693-gettyimages-2251668325-MICRON_EARNS.jpeg?v=1774904482&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/17/two-memory-stocks-are-clearing-key-levels-says-katie-stockton.html",
-                "source": "CNBC",
-                "date": "2026-08-17T18:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Government Hired a North Korean IT Worker, FBI Investigating",
-                "desc": "A North Korean remote IT worker was hired by an unidentified U.S. federal agency.",
-                "image": "https://www.securitymagazine.com/ext/resources/2026/08/17/People-in-office-by-Arlington-Research.png?height=635&t=1786989676&width=1200",
-                "url": "https://www.securitymagazine.com/articles/102491-us-government-hired-a-north-korean-it-worker-fbi-investigating",
-                "source": "Security Magazine",
-                "date": "2026-08-17T18:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rare large vacant site in heart of Coast hits market",
-                "desc": "One of the largest blocks of vacant land in Maroochydore has attracted the attention of overseas buyers.",
-                "image": "https://www.sunshinecoastnews.com.au/wp-content/uploads/2026/08/SCN060826-mdore-land-6.jpg",
-                "url": "https://www.sunshinecoastnews.com.au/2026/08/18/rare-large-vacant-site-near-heart-of-coast-hits-market/",
-                "source": "Sunshine Coast News",
-                "date": "2026-08-17T17:59:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Endoscopic ultrasound-guided liver biopsy using a 22G fine-needle biopsy needle and slow pull technique: A tertiary center experience",
-                "desc": "Background Endoscopic ultrasound-guided fine needle biopsy of the liver (EUS-LB) has emerged as a safe technique to obtain liver tissue for diagnosis of diffuse parenchymal and focal liver diseases. This method is widely accepted as it can overcome numerous shortcomings of percutaneous and transjugular liver biopsy (LB), but the technique is not well studied yet. There is a paucity of literature demonstrating that EUS-LB provides an adequate tissue sample for histologic analysis. Data on the use of 22G fine-needle biopsy (FNB) needle for liver biopsy is scarce. Objective The aim of this study was to review the experience of a large tertiary referral center with EUS-LB and to evaluate the efficacy and safety of the method using a 22G FNB needle and slow pull technique for diffuse parenchymal diseases and focal liver lesions. Methods We conducted a retrospective observational study over a three-year period and included all consecutive patients who underwent EUS-LB for diffuse parenchymal disease or focal liver lesions using a 22G Franseen-tip needle and slow pull technique. Results A total of 72 patients were included in the study, of which 32 were males and 40 were females. The median age was 56.9 years. Adequate biopsy rates, as assessed by pathologists, were achieved in all 72 patients. Malignant disease was found in 55 (76.4%) patients and benign disease in 17 (23.6%). No adverse events were observed during the first 48 hours or within a 30-day follow-up. Conclusions Our study illustrates that EUS-guided liver biopsy using a 22G FNB needle provides an adequate specimen for histologic analysis, shorter postprocedural recovery time, and is a safe and effective alternative to conventional methods of liver biopsy. The use of real-time imaging guidance with Doppler also helps to reduce adverse events.",
-                "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0356373.g006&size=inline",
-                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356373",
-                "source": "journals.plos.org",
-                "date": "2026-08-17T17:58:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Comparison of methods for in vivo and ex vivo quantification of iron in murine brain tumors",
-                "desc": "Background Iron is a redox-active biological trace element with concentration-dependent effects on human health and disease. This study evaluated multiple methods to quantify iron oxide nanoparticles for potential theragnostic applications in brain cancer. Methods Iron quantification protocols were developed for magnetic resonance imaging (MRI), x-ray fluorescence spectroscopy (XRF), UV-visible spectroscopy (UV-Vis), and inductively coupled plasma mass spectrometry (ICP-MS). The techniques were evaluated in cell culture models and murine brain tumors treated with the iron oxide nanoparticle ferumoxytol. All methods were assessed for correlation between administered ferumoxytol dose and iron measurement as well as agreement with the ICP-MS gold standard. Results In vivo MRI T2* and XRF iron measurements correlated with administered ferumoxytol dose (T2*: ρ = −0.64, p = 0.0034; XRF: ρ = 0.97, p = 2 x 10-15) and ex vivo ICP-MS results (T2*: ρ = −0.69, p = 0.012; XRF: ρ = 0.91, p < 2.2 x 10-16) with stronger, more significant correlations emerging for XRF than MRI T2*. However, unlike MRI, XRF cannot identify the spatial distribution of iron deposits. The developed UV-Vis protocol quantified iron in cell culture samples but failed in ex vivo brain tumor tissue. Conclusion The successful in vivo and ex vivo quantification of tumor iron accumulation indicates that these methods are relevant in preclinical and clinical settings involving diagnosis and treatment of various human diseases. This work establishes a clear framework for choosing the ideal method based on iron concentration, equipment, budget, and sample identity.",
-                "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0356378.g006&size=inline",
-                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356378",
-                "source": "journals.plos.org",
-                "date": "2026-08-17T17:58:23Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Nexxen campaign lifts Anytime Fitness reach across TV",
+                "desc": "The campaign showed streaming added 962,500 households, as advertisers seek clearer proof that TV spend reaches new audiences rather than duplicating them.",
+                "image": "https://ecommercenews.com.au/uploads/story/2026/08/18/compatible_rebecca-taylor-and-saffron-carter-story-316846.jpg",
+                "url": "https://ecommercenews.com.au/story/nexxen-campaign-lifts-anytime-fitness-reach-across-tv",
+                "source": "ecommercenews.com.au",
+                "date": "2026-08-18T01:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IM Motor launches IM5 & IM6 in Australia's EV market",
+                "desc": "Australian premium EV buyers get two new options as software now shapes steering, handling and braking in IM Motor's IM5 and IM6.",
+                "image": "https://channellife.com.au/uploads/story/2026/08/18/compatible_MG-IM5-IM6-Sydney-1-story-316843.jpg",
+                "url": "https://channellife.com.au/story/im-motor-launches-im5-im6-in-australia-s-ev-market",
+                "source": "ChannelLife Australia",
+                "date": "2026-08-18T01:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IM Motor launches IM5 & IM6 in Australia's EV market",
+                "desc": "Australian premium EV buyers get two new options as software now shapes steering, handling and braking in IM Motor's IM5 and IM6.",
+                "image": "https://futurefive.com.au/uploads/story/2026/08/18/compatible_MG-IM5-IM6-Sydney-1-story-316843.jpg",
+                "url": "https://futurefive.com.au/story/im-motor-launches-im5-im6-in-australia-s-ev-market",
+                "source": "futurefive.com.au",
+                "date": "2026-08-18T01:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Melbourne Instruments backs its motors with a 10",
+                "desc": "Melbourne Instruments now covers the motor components in its instruments for 10 years, with no wear parts by design. Registration required.",
+                "image": "https://mixdownmag.com.au/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-11.16.00-am-1024x724.png",
+                "url": "https://mixdownmag.com.au/news/melbourne-instruments-backs-its-motors-with-a-10-year-warranty/",
+                "source": "Mixdown Magazine",
+                "date": "2026-08-18T01:21:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action",
+                "desc": "Apple is working on camera-equipped AirPods that appear to be nearly ready to launch, based on a video MacRumors found in the macOS Tahoe 26.7 release candidate. In a short demo, a man holds a book up so the camera in the AirPods can see the title. \"With Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later,\" says the voiceover text.",
+                "image": "https://images.macrumors.com/t/SOHgBhxUfe4Ryp5RbEH-XfLIghI=/1600x/article-new/2026/08/apple-camera-airpods.jpg",
+                "url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
+                "source": "MacRumors",
+                "date": "2026-08-18T01:21:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 Anker Gadgets Under $25 Worth Adding To Your Kit",
+                "desc": "Anker USB-C to Ethernet Adapter, USB-A to USB-C Adapter, 5-in-1 USB-C Hub, USB-C Charging Cable, and 10-in-1 Power Strip with 300J Surge Protector.",
+                "image": "https://www.bgr.com/img/gallery/5-anker-gadgets-under-25-worth-adding-to-your-kit/l-intro-1786745203.jpg",
+                "url": "https://www.bgr.com/2237515/anker-accessories-under-50-dollars-worth-buying/",
+                "source": "bgr.com",
+                "date": "2026-08-18T01:19:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ultra-compact plasma photocathode in a hybrid wakefield accelerator",
+                "desc": "Plasma-based particle accelerators, realized by driving plasma waves with either an intense laser pulse or particle beam, offer accelerating fields orders of magnitude higher than conventional accelerators. This enables sources of highly relativistic electron beams with significantly reduced spatial and economic footprints. However, optimizing beam quality and brightness remains the key challenge for demanding applications such as free-electron lasers. The plasma photocathode is a method for generating high-quality beams directly within plasma waves - but hitherto was exclusively realizable using the high-current drive beams from the kilometer-scale conventional accelerator at SLAC. Here we show implementation of a plasma photocathode in a millimeter-scale, purely plasma-based hybrid wakefield accelerator, powered by a 150 TW laser system. Its operation at high plasma densities enables exploitation of micrometer-scale source sizes and rapid acceleration through high-field gradients, which increases the potential output beam quality substantially. This high-density plasma photocathode can be implemented at state-of-the-art laser-plasma accelerators worldwide, and opens the door for high-quality beam production. The two-stage hybrid plasma accelerator combines laser- and particle-driven acceleration to realize a compact source of relativistic electron bunches. Here, the authors demonstrate the implementation of plasma photocathode injection in such a hybrid platform, establishing a route toward the generation of low-emittance electron beams.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42005-026-02814-1/MediaObjects/42005_2026_2814_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s42005-026-02814-1?error=cookies_not_supported&code=2f7cce11-a5d7-4099-8c0c-5453ba8717a1",
+                "source": "Nature",
+                "date": "2026-08-18T01:16:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Practical ASUS ZenScreen 16\" 1080p Portable USB Monitor Is on Sale From Newegg via AliExpress",
+                "desc": "Doubles as a secondary monitor for your laptop or a portable display for your Nintendo Switch or Steam Deck.",
+                "image": "https://sm.ign.com/t/ign_ap/deal/t/the-practi/the-practical-asus-zenscreen-16-1080p-portable-usb-monitor-i_cxns.1200.jpg",
+                "url": "https://sea.ign.com/nintendo-switch-2-unofficial-name/247013/the-practical-asus-zenscreen-16-1080p-portable-usb-monitor-is-on-sale-from-newegg-via-aliexpress",
+                "source": "IGN Southeast Asia",
+                "date": "2026-08-18T01:07:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Supreme’s 2026 Fall/Winter Collection Features a 24K Gold Analogue Pocket",
+                "desc": "The drippiest way to play your original Game Boy cartridges.",
+                "image": "https://sm.ign.com/t/ign_ap/news/s/supremes-2/supremes-2026-fallwinter-collection-features-a-24k-gold-anal_sax4.1200.jpg",
+                "url": "https://sea.ign.com/analogue-pocket/247014/supremes-2026-fallwinter-collection-features-a-24k-gold-analogue-pocket",
+                "source": "IGN Southeast Asia",
+                "date": "2026-08-18T01:07:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Acer Philippines to kick off 10th Acer Day with The Music Run",
+                "desc": "Get ready to run to the beat as Acer Philippines launches its 10th Acer Day celebration with The Music Run at SM MOA on Aug. 22.",
+                "image": "https://www.speed.ph/wp-content/uploads/The-Music-Run-KV.jpeg",
+                "url": "https://www.speed.ph/acer-day-music-run-2026/",
+                "source": "speed.ph",
+                "date": "2026-08-18T01:05:19Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Mini Launches Rooftop Editions Special Models Based on Cooper S",
                 "desc": "Mini has recently launched the Rooftop Editions special models—the fifth of eight limited-edition variants planned for 2023. Based on the two-door and four-door Cooper S, this special edition is offer...-Internet Info Agency",
@@ -1174,99 +1264,99 @@
                 "source": "sea.ign.com",
                 "date": "2026-08-17T19:07:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Track-Ready Nostalgia: Purpose Built Moto’s Street-Legal…",
-                "desc": "Purpose Built Moto crafts a street-legal 1983 Ducati TT1 replica featuring a worked 1000cc engine, custom Keihin FCR intakes, and a light 174 kg wet…",
-                "image": "https://images.bikeexif.com/2026/08/_1200x630_crop_center-center_82_none/Purpose-Built-Moto-Ducati-TT1-Replica-17.jpg?v=1786266171",
-                "url": "https://www.bikeexif.com/purpose-built-motos-ducati-tt1",
-                "source": "bikeexif.com",
-                "date": "2026-08-17T18:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Releases iOS 27 Beta 6 and iPadOS 27 Beta 6 to Developers [Download]",
-                "desc": "Apple has released the sixth developer betas of iOS 27 and iPadOS 27. Registered developers can download build 24A5418b over the air now.",
-                "image": "https://www.iclarified.com/images/news/101798/101798/101798-1280.jpg",
-                "url": "https://www.iclarified.com/101798/apple-releases-ios-27-beta-6-and-ipados-27-beta-6-to-developers-download",
-                "source": "iclarified.com",
-                "date": "2026-08-17T17:58:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iQoo 16: Next-gen flagship leak details triple 50MP cameras",
-                "desc": "The iQoo 16 is expected to debut later this year as a flagship smartphone powered by the Snapdragon 8 Elite Gen 6 Pro. A new leak has outlined the phone’s potential camera setup.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iqoo-16-new-leak-news.png",
-                "url": "https://www.notebookcheck.net/iQoo-16-Next-gen-flagship-leak-details-triple-50MP-cameras.1370361.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-08-17T17:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mafia The Old Country Man gets first-ever major story expansion: Here are all the details",
-                "desc": "Gaming News: Mafia: The Old Country has received its first major story expansion with the launch of the Man of Honor expansion on PlayStation 5, Xbox Series X|S an.",
-                "image": "https://static.toiimg.com/thumb/msid-133303784,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/gaming/mafia-the-old-country-man-gets-first-ever-major-story-expansion-here-are-all-the-details/articleshow/133303607.cms",
-                "source": "The Times of India",
-                "date": "2026-08-17T17:54:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Supreme Reveals 24K Gold Analogue Pocket Handhelds",
-                "desc": "Analogue Pocket is getting new Supreme editions in glossy red and 24K gold as part of the the brand's latest collection.",
-                "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/supreme-analogue-pocket-official.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.polygon.com/game-boy-analogue-pocket-supreme-release-date/",
-                "source": "Polygon.com",
-                "date": "2026-08-17T17:53:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Releases iOS 26.6.1, macOS 26.6.2, and More",
-                "desc": "Apple today released iOS 26.6.1, iPadOS 26.6.1, visionOS 26.6.1, and macOS 26.6.2, with all of the updates containing security fixes. Apple also released iOS 18.7.10 and iPadOS 18.7.10 with security fixes. All of the iOS and iPadOS updates released today deliver security fixes that were first made available in the iOS 27 and iPadOS 27 betas, according to an Apple support document, which provides more specific details.",
-                "image": "https://images.macrumors.com/t/HtVDZqtYhWFV4ws7L8GH0NdugpM=/1600x/article-new/2026/08/iOS-26-6-1-iPhone.jpg",
-                "url": "https://www.macrumors.com/2026/08/17/apple-releases-ios-26-6-1-and-more/",
-                "source": "MacRumors",
-                "date": "2026-08-17T17:52:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rose of Tralee preparations: ‘I coincided embracing my hair loss with my decision not to wear fake tan’",
-                "desc": "Monday’s show will see 16 Roses join hosts Dáithí Ó Sé and Kathryn Thomas on stage over the course of the evening",
-                "image": "https://www.irishtimes.com/resizer/v2/6VQ3RW4THNCKVOGHLHY2PHJF5Y.jpg?smart=true&auth=ee776f3bf9e84feb9345f0bf12e0d220413bbba6d5dde0428bf9dd163892b69e&width=1200&height=630",
-                "url": "https://www.irishtimes.com/culture/tv-radio/2026/08/17/rose-of-tralee-preparations-i-coincided-embracing-my-hair-loss-with-my-decision-not-to-wear-fake-tan/",
-                "source": "The Irish Times",
-                "date": "2026-08-17T17:50:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Acer releases new 16-inch lightweight laptop internationally with 120 Hz OLED, 32 GB RAM and Intel Panther Lake",
-                "desc": "Acer has finally released one of its latest 16-inch laptops. Particularly lightweight at 1.19 kg, the new Swift Edge 16 also contains a 120 Hz OLED display, a 65 Wh battery and a choice of Intel Panther Lake processors up to a 16-core variant.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/acer-swift-edge-16-panther-lake-release-kv.jpg",
-                "url": "https://www.notebookcheck.net/Acer-releases-new-16-inch-lightweight-laptop-internationally-with-120-Hz-OLED-32-GB-RAM-and-Intel-Panther-Lake.1370781.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-08-17T17:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sonic is coming to Fortnite.",
-                "desc": "And Shadow, Sora, Mega Man, Pac-Man, Spyro, Crash Bandicoot, and even Joker from Persona 5. They’re joining Fortnite as part of a new gaming-themed season, Override, that launches on August 20th. You can get a preview of what’s to come in a new trailer and a slick video featuring what’s in the battle pass.\n[Media: https://youtu.be/2UrlgLD2wSQ?si=TeIqLQIfXr4yTFEs]",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HP29xoGbMAAUep-.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-                "url": "https://www.theverge.com/games/981116/fortnite-override-chapter-7-season-4-sonic-gaming",
-                "source": "theverge.com",
-                "date": "2026-08-17T17:48:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Super Smash Bros. Melee' Tournament Ends With a Strange Moment That's Gone Viral",
-                "desc": "At this weekend's CEO tournament, the grand finals for 'Super Smash Bros. Melee' came to an unexpected stop.",
-                "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/super-smash-bros-melee.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.polygon.com/super-smash-bros-melee-viral-moment/",
-                "source": "Polygon.com",
-                "date": "2026-08-17T17:46:42Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Is India a reason behind Egypt staying out of the Mecca Pact?",
+                "desc": "Mecca Pact: Egypt has emerged as a potential addition to the Saudi-Turkey-Pakistan-led Mecca defence pact, but its entry is far from certain. Riyadh has reservations about Cairo, while Egypt itself may be wary of joining a bloc that could complicate its ties with India and other partners.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/is-india-one-of-the-reason-behind-egypt-staying-out-of-the-mecca-agreement-175920870-16x9_0.jpg?VersionId=MTihR3BRGy96CxJV.a7aH_EtOQLHrDi.",
+                "url": "https://www.indiatoday.in/world/story/mecca-pact-india-egypt-relations-saudi-pakistan-turkey-mecca-pact-iran-war-news-abdel-fattah-el-sisi-uae-2972956-2026-08-18",
+                "source": "India Today",
+                "date": "2026-08-18T01:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DCOC States Agree On Combined Anti-Piracy Task Force",
+                "desc": "Signatory States of the Djibouti Code of Conduct/Jeddah Amendment have agreed to set up a Combined DCoC Task Force to protect…",
+                "image": "https://images.marinelink.com/images/maritime/w800/chair-djibouti-173022.png",
+                "url": "https://www.marinelink.com/news/dcoc-states-agree-combined-antipiracy-542179",
+                "source": "marinelink.com",
+                "date": "2026-08-18T01:25:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia warns UK over supplying drones to Ukraine",
+                "desc": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
+                "url": "https://www.bbc.com/news/articles/cy5dz0kkn0wo",
+                "source": "BBC",
+                "date": "2026-08-18T01:16:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Colombian minister under fire over beach holiday post-earthquake",
+                "desc": "Colombia's housing minister has come under fire after he took his family on a Caribbean holiday while the country was reeling from a devastating earthquake.",
+                "image": "https://globalnation.inquirer.net/files/2026/08/Colombian-minister-under-fire-over-beach-holiday-post-earthquake-scaled.jpg",
+                "url": "https://globalnation.inquirer.net/335078/colombian-minister-under-fire-over-beach-holiday-post-earthquake",
+                "source": "Inquirer.net",
+                "date": "2026-08-18T01:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump reportedly casts mail-in ballot in Florida Republican primary",
+                "desc": "President, who has decried mail-in ballots amid false claims of election fraud, issued March order to curb voting by mail",
+                "image": "https://i.guim.co.uk/img/media/003e9202effcf1a9debbeb583f57a1dd546a3250/643_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99686c86149e31bbc3a462f193d5ac38",
+                "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-florida-republican-primary",
+                "source": "The Guardian",
+                "date": "2026-08-18T01:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What Should ASEAN Learn from the Strait of Hormuz Crisis?",
+                "desc": "The Strait of Hormuz is still shut, and the world continues to pay the price. As talk turns to tolls and defence pacts around the Strait of Malacca, ASEAN has [...]",
+                "image": "https://www.internationalaffairs.org.au/wp-content/uploads/Malacca_Malaysia_Malacca-Straits-Mosque-09-scaled.jpg",
+                "url": "https://www.internationalaffairs.org.au/australianoutlook/what-should-asean-learn-from-the-strait-of-hormuz-crisis/",
+                "source": "Australian Institute of International Affairs",
+                "date": "2026-08-18T01:09:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A job that changed me: After years of being a marriage celebrant, I became uneasy with the institution",
+                "desc": "My favourite part was sitting with couples, talking about their lives and why they wanted to marry. But I’m equally happy to have left it behind",
+                "image": "https://i.guim.co.uk/img/media/98181c0b40d19ee66307940fe0818c829298a0a4/424_47_1784_1427/master/1784.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=865cf031fdbd4b9034752633ee77a0da",
+                "url": "https://www.theguardian.com/lifeandstyle/2026/aug/18/job-that-changed-me-marriage-celebrant",
+                "source": "The Guardian",
+                "date": "2026-08-18T00:46:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK Rosebank Field Project Progresses Through Legal Requirements",
+                "desc": "Adura has welcomed the conclusion of the public consultation period on the Rosebank oil and gas field, a significant regulatory…",
+                "image": "https://images.oedigital.com/images/maritime/w800/source-adura-173019.jpg",
+                "url": "https://www.oedigital.com/news/542176-uk-rosebank-field-project-progresses-through-legal-requirements",
+                "source": "Offshore Engineer Magazine",
+                "date": "2026-08-18T00:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Geo Signature with G Adventures expands premium range",
+                "desc": "National Geographic Signature with G Adventures adds 17 new expert-led expeditions, growing to 67 trips across 48 destinations for 2027-28.",
+                "image": "https://karryon.com.au/wp-content/uploads/2026/08/GA-NatGeo-AHJPNS-Nepal-GAdventures-Nepal-Kathmandu-2026-MG_3493.jpg",
+                "url": "https://karryon.com.au/luxury/signature-with-g-adventures/",
+                "source": "Karryon",
+                "date": "2026-08-18T00:44:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK minister hits back after Russia threat over Ukraine’s ‘use of British drones’ in record attacks",
+                "desc": "According to the Sunday Times, Ukrainian forces used unmanned aircraft manufactured by two UK companies as part of a deep strike campaign",
+                "image": "https://static.independent.co.uk/2026/08/17/08/2290169462..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/europe/russia-uk-putin-warning-threat-ukraine-drones-b3034652.html",
+                "source": "The Independent",
+                "date": "2026-08-18T00:43:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
                 "desc": "Mark Carney will need to sell Canadians on any concessions made to the US as negotiators scramble to reach a deal to avoid Trump’s latest tariffs.",
@@ -1806,98 +1896,8 @@
                 "source": "AP News",
                 "date": "2026-08-17T19:13:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-                "desc": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3578/live/30fa3180-9a45-11f1-a86b-519b4d19bbee.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo",
-                "source": "BBC",
-                "date": "2026-08-17T18:03:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-                "desc": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3578/live/30fa3180-9a45-11f1-a86b-519b4d19bbee.jpg",
-                "url": "https://www.bbc.com/news/articles/cj9dx03jrgjo",
-                "source": "BBC",
-                "date": "2026-08-17T18:03:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Onn reservoir bridge reappears twice in two years",
-                "desc": "A stone bridge submerged reappears again after drought hits Wales.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0d57/live/8b5cdb00-9a22-11f1-aed2-8d6da8d75094.jpg",
-                "url": "https://www.bbc.com/news/articles/cqlxxggvdwko",
-                "source": "BBC",
-                "date": "2026-08-17T18:01:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UAE Allows Foreigners to Sponsor Children for Residency Until Age 25",
-                "desc": "The UAE has introduced rules allowing foreigners to sponsor their children for residency until they turn 25. Here are the children who qualify under the new rules.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/40682aeaf994d293.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/people/636579-uae-foreigners-sponsor-children-residency-age-25/",
-                "source": "Tuko News",
-                "date": "2026-08-17T18:01:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK Standard Visitor Visa: 11 Things Foreigners Are Allowed to Do in Britain",
-                "desc": "The UK has announced 11 things foreigners can do on a Standard Visitor visa, giving visitors a clear idea of the activities they are allowed to take part in.",
-                "image": "https://cdn.legit.ng/images/1200x675/92c9245acd6bfa6e.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1725678-uk-announces-11-foreigners-permitted-standard-visitor-visa/",
-                "source": "Legit News",
-                "date": "2026-08-17T18:00:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Europe wildfires: Lecornu heckled over French emergency response",
-                "desc": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3eda/live/2bab6b50-9a58-11f1-ba0a-a16da249d30e.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro",
-                "source": "BBC",
-                "date": "2026-08-17T18:00:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lecornu heckled over French emergency response",
-                "desc": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3eda/live/2bab6b50-9a58-11f1-ba0a-a16da249d30e.jpg",
-                "url": "https://www.bbc.com/news/articles/cx2rzx5g5yro",
-                "source": "BBC",
-                "date": "2026-08-17T18:00:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ajay A Kumar appointed India's next Ambassador to the Republic of Iraq",
-                "desc": "Ajay A Kumar, presently a Joint Secretary in the External Affairs Ministry, has been appointed as India's next Ambassador to Iraq. The two nations share deep historical ties, with India being a top destination for Iraqi medical tourists and students.",
-                "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-8aa8a366-a210-46bd-90e0-4fe463c64456.jpg",
-                "url": "https://newsable.asianetnews.com/world/ajay-a-kumar-appointed-india-s-next-ambassador-to-the-republic-of-iraq-articleshow-qbdhv0k",
-                "source": "Asianet Newsable",
-                "date": "2026-08-17T18:00:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "War and Drought Are Choking the World’s Most Vital Trade Routes",
-                "desc": "War and extreme drought are simultaneously disrupting critical shipping routes from the Middle East to Europe and the Panama Canal.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-17_sc8xjeikm5.jpg",
-                "url": "https://oilprice.com/Energy/Energy-General/War-and-Drought-Are-Choking-the-Worlds-Most-Vital-Trade-Routes.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-08-17T18:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donald Trump administration strengthens biosecurity against potential AI threats",
-                "desc": "The Trump administration is reviving biosecurity efforts years after slashing related government departments amid growing fears that AI could enable biological attacks.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734315",
-                "url": "https://www.jpost.com/health-and-wellness/article-905807",
-                "source": "The Jerusalem Post",
-                "date": "2026-08-17T17:57:22Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-18T12:02:53.089470Z"
+    "lastGlobalSync": "2026-08-18T13:30:27.309692Z"
 }
