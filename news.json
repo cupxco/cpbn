@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "OpenAI rolls out ChatGPT for Teens with more safety protections",
+                "desc": "ChatGPT for Teens includes a number of educational features and applies age-appropriate safeguards, OpenAI said.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108349720-1786712811754-gettyimages-2287521404-ALTMAN_CAPITOL.jpeg?v=1787088846&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
+                "source": "CNBC",
+                "date": "2026-08-18T21:11:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bellingham, Wash. businesses say continued decline in Canadian visitors damaging",
+                "desc": "The food and beverage sector is affected the most by fewer visitors, with 91 per cent saying the decline is damaging and 64 per cent are concerned about survival.",
+                "image": "https://globalnews.ca/wp-content/uploads/2025/11/16c6d54077be080d05b4317db5f080af87affb1655ba6e8bde080475b0e8755b.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/12026095/bellingham-businesses-continued-decline-canadian-visitors-damaging/",
+                "source": "Global News",
+                "date": "2026-08-18T21:11:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia Invests in OpenAI’s Ohio Data Center",
+                "desc": "Nvidia will invest $1.5 billion in SB Energy to support an eight-gigawatt Ohio data center that the company will build and operate for OpenAI.",
+                "image": "https://assets.techrepublic.com/uploads/2026/08/brecht-corbeel-5nElvwT2LhQ-unsplash.jpg?f=jpeg",
+                "url": "https://www.techrepublic.com/article/news-nvidia-sb-energy-openai-ohio-data-center/",
+                "source": "TechRepublic",
+                "date": "2026-08-18T21:06:46Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Meta hooked and exploited children, court told as social media trial gets underway",
+                "desc": "Meta hooked and exploited children, a US federal court has heard in the trial of the social media giant on charges that it deliberately made Instagram and...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/OP3GMVRFKFGHZGN3ECEJ6IBCUU.jpg?auth=3d58ab491823e2dcafcbe34e68eb18627b96c60d4d2569d905c2087be4afa697&width=1200&height=675&quality=70&focal=1042%2C856&smart=false",
+                "url": "https://www.nzherald.co.nz/world/meta-hooked-and-exploited-children-court-told-as-social-media-trial-gets-underway/C2KAS5O37FG7TDU425KDF2PZAU/",
+                "source": "NZ Herald",
+                "date": "2026-08-18T21:04:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nurul Muhaniza named group MD of FGV",
+                "desc": "FGV Holdings Bhd has appointed Nurul Muhaniza Hanafi as group managing director (MD) with immediate effect, making her the first woman to lead the company.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/19/4066527.png",
+                "url": "https://www.thestar.com.my/business/business-news/2026/08/19/nurul-muhaniza-named-group-md-of-fgv",
+                "source": "The Star",
+                "date": "2026-08-18T21:03:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TH International Limited Q2 2026 Earnings Call Summary",
+                "desc": "Moby summary of TH International Limited's Q2 2026 earnings call",
+                "image": "https://s.yimg.com/lo/mysterio/api/A582439B2168EF9C398AC99D45D8370D9D217F2D055B783F25BF6CF9046E58DA/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fcb4d540015d8a32b26334019c12cc8ec.png",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/th-international-limited-q2-2026-210245883.html",
+                "source": "Yahoo Finance",
+                "date": "2026-08-18T21:02:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta 'hid the truth' over child safety, court hears, as social media trial begins",
+                "desc": "States are seeking billions of dollars from the social media giant, which owns Facebook and Instagram.",
+                "image": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
+                "url": "https://www.bbc.com/news/live/cr934ex8wd3wt?page=2",
+                "source": "BBC",
+                "date": "2026-08-18T21:02:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inference chip startup Etched raises $700M more at $21B valuation",
+                "desc": "Inference chip startup Etched raises $700M more at $21B valuation - SiliconANGLE",
+                "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Etched.png",
+                "url": "https://siliconangle.com/2026/08/18/inference-chip-startup-etched-raises-another-700m-at-21b-valuation/",
+                "source": "SiliconANGLE",
+                "date": "2026-08-18T21:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Klarna Group PLC (KLAR) (Q2 2026) Earnings Call Highlights: Revenue Surges 27% to $1. ...",
+                "desc": "Klarna delivers strong Q2 with record transaction margins and 2 million subscribers, yet tempers guidance amid German consumer weakness and FX headwinds.",
+                "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/klarna-group-plc-klar-q2-210155941.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAAHb5fjl8wpkZjpyN6RWaivXc1dlFJS9yoxEvK8WpSXYCfXkMhgpJjw-Ji3GH8kAJpU2G_7_JCFVRL8xKoQ_s4Uuvum-yHJZvG92wcL9fqJE3e6wyCs7LX_STCwfLZztTJ0d0niWQWlCyWMlUVaZcHclhq59Hcz84VWbimuzgdcQd&_guc_consent_skip=1787095658",
+                "source": "Yahoo Finance",
+                "date": "2026-08-18T21:01:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alcadon Group AB (FRA:5Y4) (Q2 2026) Earnings Call Highlights: Fifth Consecutive Quarter of ...",
+                "desc": "Alcadon Group AB (FRA:5Y4) reports improved margins and strategic A-Antennas acquisition, while navigating broadband slowdown and raw material challenges.",
+                "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/alcadon-group-ab-fra-5y4-210129238.html",
+                "source": "Yahoo Finance",
+                "date": "2026-08-18T21:01:29Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Extreme heat is reshaping Italy's sparkling wine industry with early harvests and nighttime picking",
                 "desc": "Winemakers in Italy are harvesting grapes for Franciacorta sparkling wine 10 days earlier than expected due to extreme heat.",
                 "image": "https://ca-times.brightspotcdn.com/dims4/default/7453011/2147483647/strip/true/crop/3559x1868+0+252/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcb%2Fda%2F6f6a2aec4e67aaa50fd3323ccbe2%2F76c5530cb0fd493c8d44308fb4d8e33e.jpg",
@@ -542,99 +632,99 @@
                 "source": "CNBC",
                 "date": "2026-08-18T14:50:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks to Watch for August 19: ONGC, BPCL, Exide Industries, Hindustan Zinc and more",
-                "desc": "From Exide Industries investing ₹200 crore in its wholly owned subsidiary to BPCL's plan to raise up to ₹5,000 crore through Non-Convertible Debentures; these are stocks to track ahead of Wednesday's trading session.",
-                "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-09t190229552-2026-07-3ba5a95d6b6efcb8dead6ed060393b88.jpg?im=FitAndFill,width=1200,height=675",
-                "url": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-august-19-ongc-bpcl-exide-industries-balkrishna-industries-and-more-19971980.htm",
-                "source": "CNBC TV18",
-                "date": "2026-08-18T13:48:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore tightens anti-scam rules on social media, messaging platforms",
-                "desc": "International, MNA | Singapore began requiring messaging services to restrict unknown contacts and social media services to verify advertisers on Tuesday, as the city-state clamps down on online scams.",
-                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2025/12/opengraph-image.webp",
-                "url": "https://macaubusiness.com/singapore-tightens-anti-scam-rules-on-social-media-messaging-platforms/",
-                "source": "Macau Business",
-                "date": "2026-08-18T13:48:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Disney sues FCC, alleging a violation of its First Amendment rights",
-                "desc": "Disney has filed a lawsuit against the Trump administration’s Federal Communications Commission alleging a violation of its First Amendment rights.",
-                "image": "https://dims.apnews.com/dims4/default/5c908db/2147483647/strip/true/crop/5029x3351+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F42%2F2d%2Fedeb7da3faebdc114d1909dbba5e%2Fc6680d082cb341599ca2360fb15d0526",
-                "url": "https://apnews.com/article/abc-fcc-kimmel-disney-lawsuit-8c379d4d4dc90e97a8ef57371f203bfa",
-                "source": "AP News",
-                "date": "2026-08-18T13:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI CapEx Risk: Amazon And Oracle Are The Most Vulnerable Hyperscalers",
-                "desc": "Oracle and Amazon just admitted their AI buildouts are burning cash faster than their core businesses can replenish it, and one of them has a balance sheet thin enough that a single delayed contract could force a reckoning.",
-                "image": "https://247wallst.com/wp-content/uploads/2026/06/shutterstock-2745487307-huge-licensed-scaled.jpg",
-                "url": "https://247wallst.com/investing/2026/08/18/ai-capex-risk-amazon-and-oracle-are-the-most-vulnerable-hyperscalers/",
-                "source": "24/7 Wall St.",
-                "date": "2026-08-18T13:43:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FCA publishes 2026 wealth management survey report",
-                "desc": "On 18 August 2026, the Financial Conduct Authority (FCA) published its 2026 wealth management survey report. Background The FCA explains that the report",
-                "image": "https://www.regulationtomorrow.com/wp-content/uploads/sites/12/2024/02/Blog-Network-Meta-Image_1.png",
-                "url": "https://www.regulationtomorrow.com/2026/08/fca-publishes-2026-wealth-management-survey-report/",
-                "source": "Global Regulation Tomorrow",
-                "date": "2026-08-18T13:43:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nasdaq, Dow and S&P 500 open lower, marking third day of declines",
-                "desc": "US stocks open lower for a third straight session as 30-year Treasury yields hit 5.32%, oil tops $85, and tech stocks lead the selloff.",
-                "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/18093907/photo-of-the-nasdaq-marketsite-tower-in-times-square-new-yor-800x420.jpeg",
-                "url": "https://cryptobriefing.com/nasdaq-dow-sp500-third-day-declines/",
-                "source": "Crypto Briefing",
-                "date": "2026-08-18T13:39:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Craif Raises $33M to Accelerate Introduction of Its Urine-Based Cancer Test to the U.S.",
-                "desc": "Series D, Co-led by Granite-Integral and Diagnostics Maker Tauns, Funds a Prospective Pancreatic Cancer Study and Expansion of U.S. Clinical Team Under New Chief Medical Officer Nick Bevins",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/18/1181396.jpg",
-                "url": "https://www.manilatimes.net/2026/08/18/tmt-newswire/globenewswire/craif-raises-33m-to-accelerate-introduction-of-its-urine-based-cancer-test-to-the-us/2407724",
-                "source": "The Manila Times",
-                "date": "2026-08-18T13:38:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI Rolls Out New ChatGPT Safeguards for Teen Users",
-                "desc": "The changes are set to affect how young people use the popular AI tool, particularly when turning to it for schoolwork and everyday questions.",
-                "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/chatgpt3.jpg.webp?itok=SkzaD5_C",
-                "url": "https://www.kenyans.co.ke/news/126294-openai-rolls-out-new-chatgpt-safeguards-teen-users",
-                "source": "Kenyans.co.ke",
-                "date": "2026-08-18T13:37:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Organisations can’t solve a problem they can’t measure’: industry framework aims to improve chemical hazard monitoring",
-                "desc": "Colour-coded system could help companies benchmark progress as they transition to using ‘lower-risk’ chemicals",
-                "image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/6/8/7/550687_gettyimages1446492401_91342.jpg",
-                "url": "https://www.chemistryworld.com/news/organisations-cant-solve-a-problem-they-cant-measure-industry-framework-aims-to-improve-chemical-hazard-monitoring/4024049.article",
-                "source": "Chemistry World",
-                "date": "2026-08-18T13:36:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Superman' robot allegedly outruns Usain Bolt in uncanny video",
-                "desc": "Chinese robot firm Unitree has unveiled a super-humanoid that they claim could dust Usain Bolt, the world's fastest sprinter ever, in a foot race, among other incredible feats of athleticism.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137788117.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/08/18/tech/superman-robot-allegedly-outruns-usain-bolt-in-uncanny-video/",
-                "source": "New York Post",
-                "date": "2026-08-18T13:36:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "GMKtec NucBox EVO X1 PRO “AMD Ryzen AI 9 HX 470” Mini PC Review: Gorgon Dials Up The CPU Horsepower In Compact PCs",
+                "desc": "GMKtec's EVO X1 PRO Mini PC with AMD Ryzen AI 9 HX 470 offers strong CPU performance, 64GB LPDDR5X memory, and starts at $1599.",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/DSC_0657-Custom-1920x1280.jpg",
+                "url": "https://wccftech.com/review/gmktec-nucbox-evo-x1-pro-amd-ryzen-ai-9-hx-470-mini-pc-review/",
+                "source": "Wccftech",
+                "date": "2026-08-18T21:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'GTA 6' Hackers Are Targeting Rockstar's Controversial Decisions",
+                "desc": "Recent Grand Theft Auto 6 gameplay and map leaks are the work of a hacking group claiming to be 'fighting for gamer's rights'",
+                "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_vapid_ganado_retro_build_01.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.polygon.com/gta-6-hackers-cyberleek-physical-discs/",
+                "source": "Polygon.com",
+                "date": "2026-08-18T21:09:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Cairns Post",
+                "desc": "No Cookies | The Cairns Post",
+                "image": "https://www.cairnspost.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-cairnspost-169.svg",
+                "url": "https://www.cairnspost.com.au/nocookies?a=A.flavipes",
+                "source": "The Cairns Post",
+                "date": "2026-08-18T21:09:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple leaked several new products besides the AirPods with cameras",
+                "desc": "A slew of unreleased Apple products are referenced in the latest macOS beta.",
+                "image": "https://helios-i.mashable.com/imagery/articles/038LO6a3CrD2OVOhHoyD3fq/hero-image.fill.size_1200x675.v1787083853.jpg",
+                "url": "https://mashable.com/tech/new-apple-products-leaked-in-new-macos-tahoe-beta",
+                "source": "Mashable",
+                "date": "2026-08-18T21:06:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pre-registration for Lara Croft and the Temple of Osiris for iOS and Android has started",
+                "desc": "The isometric adventure with four-player co-op will be released on September 8.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1289661/1819a5e1-8c17-4dd3-ae7b-528d1e7af79e.jpg",
+                "url": "https://ixbt.games/en/news/2026/08/19/428930-startovala-predregistraciia-na-lara-croft-and-the-temple-of-osiris-dlia-ios-i-android.html",
+                "source": "ixbt.games",
+                "date": "2026-08-18T21:02:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft Confirms ShieldBreak Defender Flaw",
+                "desc": "Microsoft is working on a fix for the ShieldBreak Windows Defender vulnerability as a public proof of concept raises privilege-escalation concerns.",
+                "image": "https://assets.esecurityplanet.com/uploads/2026/08/unnamed-36.png?f=jpeg",
+                "url": "https://www.esecurityplanet.com/cybersecurity/news-microsoft-shieldbreak-windows-defender-fix/",
+                "source": "eSecurity Planet",
+                "date": "2026-08-18T21:02:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kacey Musgraves Partners with Medicine Mama on Intimate Play Product",
+                "desc": "Inspired by her hit song, \"Dry Spell,\" the brand is launching \"Drought Drops,\" a new take on its bestselling lubricant, Intimate Glide.",
+                "image": "https://wwd.com/wp-content/uploads/2026/08/MixCollage-17-Aug-2026-12-23-PM-9518.jpg?w=1000&h=563&crop=1",
+                "url": "https://wwd.com/pop-culture/new-fashion-releases/kacey-musgraves-medicine-mama-collaboration-1239126560/",
+                "source": "WWD",
+                "date": "2026-08-18T21:01:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Joe Bell is the godfather of bicycle painting",
+                "desc": "This is a story about bicycle painting, but it's also a story about what matters in life.",
+                "image": "https://escapecollective.com/content/images/size/w1200/2026/08/55131251283_65aae79c61.jpg",
+                "url": "https://escapecollective.com/joe-bell-godfather-of-bicycle-painting/",
+                "source": "Escape Collective",
+                "date": "2026-08-18T21:01:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Balance 1080v15",
+                "desc": "We break down the features of each max-cushioned shoe regarding fit, cushioning, and performance to help you better decide your next daily trainer.",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/56f3df42-d282-4283-8a8c-caec7c015759.jpg?crop=1xw:0.749625187406xh;center,top&resize=1200:*",
+                "url": "https://www.runnersworld.com/gear/a73415674/new-balance-1080-vs-hoka-clifton-11/",
+                "source": "Runner's World",
+                "date": "2026-08-18T21:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Wallet driver's license: which states are next?",
+                "desc": "Seven more states are working on Apple Wallet driver's license support, including Kentucky and North Carolina. Here's where it's coming next.",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/colorado-dl.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/08/18/apple-wallet-drivers-licenses-states-coming-soon/",
+                "source": "9to5Mac",
+                "date": "2026-08-18T20:57:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Things I Learned About The Rumored HomePod Display From macOS Beta Code",
                 "desc": "Apple's latest software references watch-like \"Faces.\"",
@@ -1174,99 +1264,99 @@
                 "source": "Time Extension",
                 "date": "2026-08-18T15:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "How to Watch and Daily Schedule of the Biggest Gaming Event",
-                "desc": "Tune into the biggest global gaming event of the year!",
-                "image": "https://sm.ign.com/t/ign_ap/news/g/gamescom-2/gamescom-2026-how-to-watch-and-daily-schedule-of-the-biggest_7qh7.1200.jpg",
-                "url": "https://sea.ign.com/news/247034/gamescom-2026-how-to-watch-and-daily-schedule-of-the-biggest-gaming-event",
-                "source": "IGN Southeast Asia",
-                "date": "2026-08-18T13:49:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Yup, that sounds like a trunk closing alright' - GTA 6 fans are getting excited over game footage in new 'It Happens on PS5' ad",
-                "desc": "Sony has released a new PlayStation 5 ad featuring Grand Theft Auto 6, and fans are getting excited over a new sound effect.",
-                "image": "https://s.yimg.com/lo/mysterio/api/6e24f69f69e2a85d0fc872a6bb068e3f1f141ad5b01c974de7a8780cb7e0a100/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2Fafaf13e20c5638615980a72920df505d.png",
-                "url": "https://tech.yahoo.com/gaming/articles/yup-sounds-trunk-closing-alright-134758946.html",
-                "source": "Yahoo Tech",
-                "date": "2026-08-18T13:47:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "227 dead cult members: Free detective game launches with 98% positive reviews on Steam",
-                "desc": "In No Results Found, players investigate the mysterious deaths of 227 cult members. Judging by the more than 500 reviews posted so far, 98% of which are positive, the game seems to be going down very well on Steam.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/No-Results-Found-Steam-Release.jpg",
-                "url": "https://www.notebookcheck.net/227-dead-cult-members-Free-detective-game-launches-with-98-positive-reviews-on-Steam.1371865.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-08-18T13:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Browsing tools and Ad blockers: A guide to cleaner web experiences",
-                "desc": "Five browser-based ad blockers compared: Open Adblocker, uBlock Origin Lite, AdGuard, Ghostery, and Adblock Plus, each suited to a different browsing preference.",
-                "image": "https://media.thenextweb.com/2026/08/browsing-tools-ad-blockers-cleaner-web.jpg",
-                "url": "https://thenextweb.com/news/browsing-tools-ad-blockers-cleaner-web",
-                "source": "The Next Web",
-                "date": "2026-08-18T13:44:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This Framework Rival With Up to 72GB of RAM Launches at a Surprising Price",
-                "desc": "However, the largest RAM configuration isn't available quite yet.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/t/this-frame/this-framework-rival-with-up-to-72gb-of-ram-launches-at-a-su_mtv6.1200.jpg",
-                "url": "https://au.pcmag.com/laptops/119378/this-framework-rival-with-up-to-72gb-of-ram-launches-at-a-surprising-price",
-                "source": "PCMag Australia",
-                "date": "2026-08-18T13:42:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IBC 2026: Mediaproxy Debuts AI Monitoring Tools and Browser",
-                "desc": "Mediaproxy will showcase updates to its LogServer monitoring platform and the debut of Monwall Web at IBC2026 (Stand 5.D74). The company has also joined the open-source MXL (Media eXchange Layer)...",
-                "image": "https://www.sportsvideo.org/wp-content/uploads/2026/08/LogPlayer-AI_2026_IBC_-960x535.jpg",
-                "url": "https://www.sportsvideo.org/2026/08/18/ibc-2026-mediaproxy-debuts-ai-monitoring-tools-and-browser-based-multiviewer/",
-                "source": "Sports Video Group",
-                "date": "2026-08-18T13:41:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Corsair Launches the 2026 RMe Series Platinum PSUs with ThermalProtect 12V-2x6 Cables",
-                "desc": "Corsair is excited to announce upgraded RMe Series power supplies are now paired with a Corsair ThermalProtect PCIe 5.1 600 W 12V-2x6 GPU power cable, combining two of Corsair's most popular products and offering PC builders a powerful and resilient hardware bundle for their next build or...",
-                "image": "https://www.techpowerup.com/img/NNMDtwPSVHnrIIus.jpg",
-                "url": "https://www.techpowerup.com/351686/corsair-launches-the-2026-rme-series-platinum-psus-with-thermalprotect-12v-2x6-cables",
-                "source": "TechPowerUp",
-                "date": "2026-08-18T13:41:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motorola Moto G Play Unlocked Drops Below $100 on Amazon, About as Close to Free as Smartphones Get",
-                "desc": "Right now, you can save $50 on the Motorola Moto G Play in sapphire blue over at Amazon.",
-                "image": "https://gizmodo.com/app/uploads/2026/08/MotorollaMotoG-1200x675.jpg",
-                "url": "https://gizmodo.com/motorola-moto-g-play-unlocked-smartphone-drops-below-100-about-as-close-to-free-as-smartphones-get-2000796159",
-                "source": "Gizmodo",
-                "date": "2026-08-18T13:40:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Game Pass August 2026 Wave 2 Lineup Announced",
-                "desc": "Resonance: A Plague Tale Legacy headlines day one releases.",
-                "image": "https://sm.ign.com/t/ign_in/news/x/xbox-game-/xbox-game-pass-august-2026-wave-2-lineup-announced_xxsb.1200.jpg",
-                "url": "https://in.ign.com/aerial-knights-dropshot/269112/xbox-game-pass-august-2026-wave-2-lineup-announced",
-                "source": "IGN India",
-                "date": "2026-08-18T13:39:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Applied Biologics Announces Acceptance of XWRAP® Translational Research for Presentation at SAWC Fall 2026",
-                "desc": "Research evaluating the influence of placental tissue processing on wound-healing biology accepted for presentation at leading wound care scientific meeting",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/18/1181443.png",
-                "url": "https://www.manilatimes.net/2026/08/18/tmt-newswire/globenewswire/applied-biologics-announces-acceptance-of-xwrap-translational-research-for-presentation-at-sawc-fall-2026/2407742",
-                "source": "The Manila Times",
-                "date": "2026-08-18T13:38:57Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Israeli strike reported to kill at least six in Gaza City",
+                "desc": "The strike comes as efforts to push an agreement aimed at ending hostilities remain stalled.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a84b6414a-1787082305.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city",
+                "source": "Al Jazeera",
+                "date": "2026-08-18T21:13:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Over 5,000 Ethiopians Face Deportation As US Court Backs TPS Termination",
+                "desc": "A U.S federal judge, Brian E. Murphy, on Tuesday ruled in favour of President Donald Trump’s administration, allowing it to end the Temporary Protected Status",
+                "image": "https://leadership.ng/wp-content/uploads/2026/08/ap_6a84928e22cbf-1787073166.jpg",
+                "url": "https://leadership.ng/over-5000-ethiopians-face-deportation-as-us-court-backs-tps-termination/",
+                "source": "LEADERSHIP Newspapers",
+                "date": "2026-08-18T21:10:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
+                "desc": "US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a84b3fb92b9-1787081723.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal",
+                "source": "Al Jazeera",
+                "date": "2026-08-18T21:08:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "In Vietnam, a former lawmaker was not charged following a fatal traffic accident",
+                "desc": "Vietnamese authorities explained their decision not to bring criminal charges against former National Assembly deputy Nguyen Si Quang following a fatal traffic accident in Hanoi by stating that the victim’s family did not insist on criminal prosecution. Channel NewsAsia reported this, citing AFP.",
+                "image": "https://cdn-cabinet.ua.news/uploads/images/vietnam_ne_prityagnuv_eksparlamentarya_p_1787085482290.webp",
+                "url": "https://ua.news/en/world/u-vietnami-ne-pritiagnuli-do-vidpovidalnosti-eksparlamentaria-pislia-smertelnoyi-dtp",
+                "source": "UA.NEWS",
+                "date": "2026-08-18T21:07:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Crypto PAC spends $2M in Florida race to back p...",
+                "desc": "Fairshake, a super PAC funded by Coinbase, Ripple, and other crypto firms, has invested about $2 million in Florida's 24th district special congressional election. This move targets opponents of crypto-friendly laws like the GENIUS Act and CLARITY Act, aiming to support candidates favorable to digital asset innovation. The retiring Florida representative who opposed these laws endorsed a Democratic candidate, prompting Fairshake to back rivals with negative ads. This effort follows Fairshake's success in influencing past elections to create a more crypto-friendly Congress.",
+                "image": "https://image-cdn.pluang.com/web/compressed/market_news.webp",
+                "url": "https://pluang.com/en/news-feed/pac-dananya-coinbase-ripple-alokasikan-2juta-dolar-pemilu-florida",
+                "source": "Pluang",
+                "date": "2026-08-18T21:03:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "based leaders among 12 consultors named to Dicastery for Promoting Integral Human Development",
+                "desc": "The dicastery supports the Church's work in areas including human dignity and human rights, economic justice, care for creation, migration and displacement.",
+                "image": "https://www.osvnews.com/wp-content/uploads/2026/08/20260818T0330-NOTRE-DAME-FEMALE-RECTOR-ABUSE-ALLEGATIONS-1823246.jpg",
+                "url": "https://www.osvnews.com/3-us-based-leaders-among-12-consultors-named-to-dicastery-for-promoting-integral-human-development/",
+                "source": "OSV News",
+                "date": "2026-08-18T20:56:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
+                "desc": "Concern over the security of Europe’s largest nuclear plant has been rife since Russia launched its full-scale war.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP23186416669551-1787086401.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant",
+                "source": "Al Jazeera",
+                "date": "2026-08-18T20:54:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold mine collapses in Central African Republic, killing at least 30 miners",
+                "desc": "An artisanal gold mining site has collapsed in the western part of Central African Republic, killing at least 30 miners.",
+                "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+                "url": "https://apnews.com/article/deadly-mine-collapse-central-african-republic-2dd23d99e8f28b4e8736da7bc0e01f71",
+                "source": "AP News",
+                "date": "2026-08-18T20:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man found dead at London football club's stadium",
+                "desc": "Police are investigating after a man was found dead at Charlton Athletic's stadium in London. The club is assisting authorities with enquiries.",
+                "image": "https://punchng.com/wp-content/uploads/2026/08/IMG-20260818-WA0059_1787085699.webp",
+                "url": "https://punchng.com/man-found-dead-at-london-football-clubs-stadium/",
+                "source": "Punch Newspapers",
+                "date": "2026-08-18T20:48:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DJI Pentagon Designation Ruling Partially Reversed",
+                "desc": "A federal appeals court partially reverses a ruling in DJI’s challenge to its Pentagon designation, sends part of the case back for review.",
+                "image": "https://dronelife.com/wp-content/uploads/2024/11/DJI-Air-3-big-scaled.jpeg",
+                "url": "https://dronelife.com/2026/08/18/dji-pentagon-designation-ruling-partially-reversed/",
+                "source": "Dronelife",
+                "date": "2026-08-18T20:45:57Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Middle East: No talks or conversations with Iran, Trump says",
                 "desc": "Trump also claimed that the Strait of Hormuz was \"open and operating,\" contrary to Iranian reports. Meanwhile, Syria, the US and Turkey condemned Israeli strikes on a Syrian airbase. DW has more.",
@@ -1806,98 +1896,8 @@
                 "source": "Ynetnews",
                 "date": "2026-08-18T14:55:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Vietnam exonerates ex-MP for fatal crash after online outrage",
-                "desc": "Vietnamese authorities have countered days of online outrage over a senior official avoiding charges for a fatal car crash -- with a showpiece broadcast showing the dead young woman's father backing the decision.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4066132.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/18/vietnam-exonerates-ex-mp-for-fatal-crash-after-online-outrage",
-                "source": "The Star",
-                "date": "2026-08-18T13:49:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "LUKA supports Tanzania’s decision to involve Africa’s legal experts in the Criminal Inquiry Commission",
-                "desc": "DAR ES SALAAM: The League of United Kingdom of Africa (LUKA) has welcomed Tanzania’s decision to involve legal experts and judges from other African countries in the Criminal Inquiry Commission investigating violence and criminal incidents reported during and after the October 29, 2025 General Election. According to a declaration released LUKA today, August 17, 2026, …",
-                "image": "https://dailynews.co.tz/wp-content/uploads/2026/08/Screenshot-2026-08-18-164622.jpg",
-                "url": "https://dailynews.co.tz/luka-supports-tanzanias-decision-to-involve-africas-legal-experts-in-the-criminal-inquiry-commission/",
-                "source": "dailynews.co.tz",
-                "date": "2026-08-18T13:47:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Designing food for a hotter world",
-                "desc": "Inside futuristic labs, plants are scanned, stressed and analysed. The aim is to use the results to produce plant strains that can better serve a growing population in a warming world.",
-                "image": "https://static.dw.com/image/78333579_6.jpg",
-                "url": "https://www.dw.com/en/designing-food-for-a-hotter-world/a-78413324",
-                "source": "DW.com",
-                "date": "2026-08-18T13:41:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bound Passengers Jump out of Bus over Bedbug Attack",
-                "desc": "Panic erupted on a Tahmeed Express bus in Kenya as passengers abandoned it mid-journey due to a severe bedbug infestation, prompting urgent hygiene measures.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/35c01b46bc81c745.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/kenya/636683-chaos-passengers-abandon-tahmeed-bus-bedbugs-infestation-video-viral/",
-                "source": "Tuko News",
-                "date": "2026-08-18T13:40:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ohio firefighters tackle blaze after industrial explosion",
-                "desc": "Firefighters battle flames after an explosion on 18 August at an industrial recycling facility in Toledo, Ohio.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/de7a/live/4a09dcc0-9b08-11f1-bb80-c1b1e1adeea5.png",
-                "url": "https://www.bbc.com/news/videos/cqlxwxy03p4o",
-                "source": "BBC",
-                "date": "2026-08-18T13:37:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Data centers, crypto, tax revisions at issue in primary elections",
-                "desc": "Incumbent Republican Sen. Dan Sullivan of Alaska is facing a serious challenge from former Democratic Rep. Mary Peltola.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108047928-1729011530971-gettyimages-2177424188-US-NEWS-ALASKSACONGRESS-DEBATE-LV.jpeg?v=1787062541&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/18/primary-elections-alaska-florida-wyoming-midterms.html",
-                "source": "CNBC",
-                "date": "2026-08-18T13:34:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Private flights with Trump, 'adoring letters' and a new political feud - who is Natalie Harp?",
-                "desc": "Natalie Harp has become a staple figure at the president’s side in his second term.",
-                "image": "https://img2.thejournal.ie/article/7134200/river/?height=400&version=7134379",
-                "url": "https://www.thejournal.ie/natalie-harp-jon-ossoff-donald-trump-white-house-us-politics-7134200-Aug2026/",
-                "source": "The Journal",
-                "date": "2026-08-18T13:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia Warns UK Of Consequences Over Drones Used In Ukraine Strikes",
-                "desc": "The Russian Embassy in the UK accused Britain of “deliberately opting for an escalation of the Ukraine crisis,” warning that “the deeper its involvement in",
-                "image": "https://leadership.ng/wp-content/uploads/2026/08/3cc6d6ca-fbfd-4fd4-a280-4cef06098c0c.jpeg",
-                "url": "https://leadership.ng/russia-warns-uk-of-consequences-over-drones-used-in-ukraine-strikes/",
-                "source": "LEADERSHIP Newspapers",
-                "date": "2026-08-18T13:33:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Helicopter seen spinning out of control before crash that killed Brit newlyweds in Greece",
-                "desc": "The British couple were travelling to the Greek Island of Sifnos for their honeymoon when the Bell 206 helicopter crashed, killing all three on board.",
-                "image": "https://i2-prod.mirror.co.uk/article37563587.ece/ALTERNATES/s1200d/4_Helicopter-spins-out-of-control.jpg",
-                "url": "https://www.mirror.co.uk/news/world-news/helicopter-seen-spinning-out-control-37563611",
-                "source": "The Mirror",
-                "date": "2026-08-18T13:32:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Syria says Israel struck military airport; US envoy pans Israel's 'unnecessary escalation'",
-                "desc": "Damascus condemns 'unjustified act of aggression,' reports material damage but no casualties at base near Turkish border; US's Barrack says Israel's actions undermining regional stability",
-                "image": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP24342655082081.jpg",
-                "url": "https://www.timesofisrael.com/damascus-blames-israel-for-overnight-airstrikes-on-military-airport-in-northwest-syria/",
-                "source": "The Times of Israel",
-                "date": "2026-08-18T13:32:15Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-19T08:16:42.844514Z"
+    "lastGlobalSync": "2026-08-19T09:16:31.932836Z"
 }
