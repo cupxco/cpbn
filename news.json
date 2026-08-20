@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "US debt crosses $50 trillion threshold after doubling under Trump and Biden",
+                "desc": "Fresh warnings are sounding that a fiscal crisis is brewing. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/07921d20aa89c62bec8e314dabbebaee7981404e0da2ddddc0c58d1dce426af8",
+                "url": "https://www.straitstimes.com/world/united-states/us-debt-crosses-50-trillion-threshold-after-doubling-under-trump-and-biden",
+                "source": "The Straits Times",
+                "date": "2026-08-19T21:15:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bitcoin Hits $69,000, Ethereum Goes on 20% Bull Rampage, XRP, SOL Pump 10% on Historic Crypto Day",
+                "desc": "Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.Notable Statistics:Notable Developments:Trader Notes:Trader Michael van de Poppe said Bitcoin’s surge to $69,000 wiped out shorts…",
+                "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+                "url": "https://www.tradingview.com/news/benzinga:343eb6086094b:0-bitcoin-hits-69-000-ethereum-goes-on-20-bull-rampage-xrp-sol-pump-10-on-historic-crypto-day/",
+                "source": "TradingView",
+                "date": "2026-08-19T21:15:12Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "SEC moves to ease crypto rules, opening new path for token sales",
+                "desc": "The U.S. Securities and Exchange Commission on Tuesday proposed a new regulatory framework for crypto assets.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/19/USAT/91375784007-20260818-t-100109-z-226183520-rc-22-pgam-5-san-rtrmadp-3-fintechcryptoregulators.JPG?crop=3499,1968,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/2026/08/19/sec-crypto-rule-changes/91375573007/",
+                "source": "USA Today",
+                "date": "2026-08-19T21:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chris Wright Tours the Permian Basin",
+                "desc": "Watch highlights from Chris Wright's Permian Basin visit and learn how technology is helping meet growing U.S. energy demand.",
+                "image": "https://corporate.exxonmobil.com/-/media/aprimo/2026/08/19/16/16/57189/on-the-ground-in-the-permian-sc-aspect-ratio-18-9.jpg",
+                "url": "https://corporate.exxonmobil.com/locations/united-states/permian-basin/newsroom/2026/on-the-ground-in-the-permian",
+                "source": "Exxon Mobil Corporation",
+                "date": "2026-08-19T21:13:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "YTL Power, JLand to develop data centre campus",
+                "desc": "YTL Power International Bhd and JLand Group have announced a strategic partnership to undertake a joint development at Sede- nak Tech Park West in Johor, which will include a new gigawatt-scale data centre campus.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/20/4068499.jpeg",
+                "url": "https://www.thestar.com.my/business/business-news/2026/08/20/ytl-power-jland-to-develop-data-centre-campus",
+                "source": "The Star",
+                "date": "2026-08-19T21:06:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Solarvest eyes RM5bil order book as Malaysia enters new Bess era",
+                "desc": "As Malaysia's solar and battery energy storage system (Bess) ecosystem continues to grow, Solarvest Holdings Bhd is aiming to convert nearly half of its existing order book into revenue in financial year 2027 (FY27).",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/20/4068511.jpeg",
+                "url": "https://www.thestar.com.my/business/business-news/2026/08/20/solarvest-eyes-rm5bil-order-book-as-malaysia-enters-new-bess-era",
+                "source": "The Star",
+                "date": "2026-08-19T21:06:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Toyota PH and local Toyota car clubs come together at Legacy Experience",
+                "desc": "Toyota recently gathered local Toyota car clubs together for the recent Toyota Legacy Experience at Santa Rosa, Laguna. The three-day event was filled with a...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/19/125044.webp",
+                "url": "https://mb.com.ph/2026/08/20/toyota-ph-and-local-toyota-car-clubs-come-together-at-legacy-experience",
+                "source": "Manila Bulletin",
+                "date": "2026-08-19T21:05:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Decision On Paramount's $1.88B Merger Bond Now Close To Ticking Fee Start Date",
+                "desc": "Paramount's hopes for a big bucks bond have been pushed back over a month, as a scathing LA County report predicts big job losses if merger closes",
+                "image": "https://deadline.com/wp-content/uploads/2025/10/lots.jpg?w=1024",
+                "url": "https://deadline.com/2026/08/paramount-merger-suit-bond-ruling-latest-1237045521/",
+                "source": "Deadline",
+                "date": "2026-08-19T21:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tiki is New Zealand's first certified regenerative vineyard and winery",
+                "desc": "Its founder says the achievement is rooted in values passed down through his whānau.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--J4T-Uej8--/t_tohu-badge-facebook/f_auto/q_auto/4MKC1YX_Tiki_Wine_Vineyards_Sue_Royce_McKean_jpg",
+                "url": "https://www.rnz.co.nz/life/food/tiki-is-new-zealand-s-first-certified-regenerative-vineyard-and-winery",
+                "source": "RNZ",
+                "date": "2026-08-19T21:04:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kiwibank profit falls as it focuses on market share growth in 'very competitive' environment & has eye on TSB",
+                "desc": "Kiwibank CEO Steve Jurkovich says ANZ NZ has been 'very competitive' in mortgage market, notes bank mergers 'quite tricky' to pull off",
+                "image": "https://www.interest.co.nz/sites/default/files/2023-02/Kiwibank-brand-13.jpg",
+                "url": "https://www.interest.co.nz/banking/139842/kiwibank-annual-profit-falls-lending-growth-continues",
+                "source": "Interest.co.nz",
+                "date": "2026-08-19T21:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Walmart Earnings: The Biggest And Most Influential Retail Report Looms",
                 "desc": "The Walmart earnings report follows a summer pricing blitz to attract inflation-hit shoppers. WMT stock popped above a key level.",
                 "image": "https://www.investors.com/wp-content/uploads/2017/10/stock-walmart-02-company.jpg",
@@ -542,99 +632,99 @@
                 "source": "Wired-Gov",
                 "date": "2026-08-19T15:17:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "RBC hires ex-Ontario minister Caroline Mulroney as vice-chair",
-                "desc": "Mulroney to be tasked with connecting clients with businesses across capital markets, commercial banking and wealth management",
-                "image": "https://www.theglobeandmail.com/resizer/v2/HBUGMTKGBZE33M3ESJMPWDXEJA.JPG?auth=2b4a19724edd273e3e60c104d8c9ba481213a1dc97b98f4dac39b347a9d243ce&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-caroline-mulroney-rbc-vice-chair-former-ontario-minister/",
-                "source": "The Globe and Mail",
-                "date": "2026-08-19T14:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The airport lounges travelers love most in 2026, ranked",
-                "desc": "A new JD Power study ranks the nation's favorite airport lounges, where free food remains a major draw despite crowding.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/27/USAT/89823604007-2220646894.jpg?crop=5994,3374,x0,y620&width=3200&height=1802&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/travel/news/2026/08/19/airport-lounge-customer-satisfaction/91351677007/",
-                "source": "USA Today",
-                "date": "2026-08-19T14:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to spend a long weekend in Istanbul",
-                "desc": "Hidden gem shops, heavenly hotels and sights that are like a double espresso for the senses: how to spend the weekend in Turkey’s largest city",
-                "image": "https://static.standard.co.uk/2026/08/18/15/44/BOP_1189.jpeg?width=1200&auto=webp&quality=75",
-                "url": "https://www.standard.co.uk/lifestyle/travel/long-weekend-istanbul-itinerary-b1293841.html",
-                "source": "London Evening Standard",
-                "date": "2026-08-19T14:02:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UAV Radar Market worth $990.2 million by 2031 - Exclusive Report by MarketsandMarkets™",
-                "desc": "/PRNewswire/ -- According to MarketsandMarkets™, the UAV radar market is projected to grow from USD 360.7 million in 2026 to USD 990.2 million by 2031 at a...",
-                "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2896557&p=facebook",
-                "url": "https://www.prnewswire.com/news-releases/uav-radar-market-worth-990-2-million-by-2031---exclusive-report-by-marketsandmarkets-302855016.html",
-                "source": "PR Newswire",
-                "date": "2026-08-19T14:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Money and ‘a lot of noise’: how the US’ critical-minerals industry is vying with China’s",
-                "desc": "State-backed funding is driving American efforts to build domestic supply, but industry trends and price gaps are still seen as hurdles to reducing reliance on China.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/19/d7f4e3b8-3bf2-4f5c-9a7f-be6318ea1a67_20cf5162.jpg?itok=oI3lh4V3&v=1787132768",
-                "url": "https://www.scmp.com/economy/global-economy/article/3364570/money-and-lot-noise-how-us-critical-minerals-industry-vying-chinas",
-                "source": "South China Morning Post",
-                "date": "2026-08-19T14:00:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China’s J-36 fighter jet designers report danger of military AI hallucinations",
-                "desc": "Content generated by artificial intelligence models can ‘defy basic physics, design principles or operational constraints’.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/19/246d2e85-0deb-4d50-b2e6-9bf82f22ddca_d6d5882e.jpg?itok=pkuyXz58&v=1787124915",
-                "url": "https://www.scmp.com/news/china/science/article/3364546/chinas-j-36-fighter-jet-designers-report-danger-military-ai-hallucinations",
-                "source": "South China Morning Post",
-                "date": "2026-08-19T14:00:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "International Student Pays $500 A Month For A Bed In Bukit Gombak Flat, Shares Room With 2 Others",
-                "desc": "The $1,500-a-month room has a single bed and a bunk bed for the three students, who also share the kitchen and bathroom.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--K1kyeU05--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/8days/image/2026/08/18/international_student_500_rent_for_bed_0.jpeg?itok=pjgElwym",
-                "url": "https://www.8days.sg/entertainment/local/international-student-pays-500-month-bed-bukit-gombak-flat-shares-room-2-others-862116",
-                "source": "8days.sg",
-                "date": "2026-08-19T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Binance Red Packet Code 20 August 2026: Free BNB",
-                "desc": "Binance Red Packet code for 20 August, 2026 is here. Enter today's code in the Binance app and claim free BNB rewards instantly. Updated within 2 hours...",
-                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/August2026/binance-red-packet-code-20-august-2026-claim-free-bnb-5730.webp",
-                "url": "https://www.coingabbar.com/en/crypto-currency-news/binance-red-packet-code-20-august-2026-claim-free-bnb",
-                "source": "coingabbar.com",
-                "date": "2026-08-19T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "B.C.'s proposed changes to food processing on ALR get mixed reviews from farmers",
-                "desc": "Some farmers say the changes could invite large corporations onto the little farmland the province has available and drive up speculation, while others say the update could help small-scale farmers cut through red tape and more easily access local markets.",
-                "image": "https://i.cbc.ca/ais/d40c851a-546f-4902-8102-67256546e7b6,1787089671853/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C101%2C640%2C360%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/british-columbia/bc-alr-food-processing-9.7311517",
-                "source": "CBC",
-                "date": "2026-08-19T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "An Elbow Injury Drew Caty McNally Into Footwear Brand Vivobarefoot",
-                "desc": "The barefoot movement is growing in tennis and Caty McNally is part of the push as she trains in Vivobarefoot after an organic connection with the brand",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a84c0811380e53c6338df1a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/timnewcomb/2026/08/19/an-elbow-injury-drew-caty-mcnally-into-footwear-brand-vivobarefoot/",
-                "source": "Forbes",
-                "date": "2026-08-19T14:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "4 Companies That Did Modular Phones Before Fairphone",
+                "desc": "Fairphone has been turning heads as a modular cell phone offering, but multiple companies have taken a stab at making modular cell phones over the years.",
+                "image": "https://www.bgr.com/img/gallery/4-companies-that-did-modular-phones-before-fairphone/l-intro-1786713769.jpg",
+                "url": "https://www.bgr.com/2236988/modular-phones-before-fairphone/",
+                "source": "bgr.com",
+                "date": "2026-08-19T21:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Did Tarte Send Ambulances to People’s Homes?",
+                "desc": "The makeup brand’s new plastic-surgery-themed campaign involves surgical treatment ‘prescriptions’ and ‘glambulances.’",
+                "image": "https://pyxis.nymag.com/v1/imgs/92d/295/eadfe1602cb0ede246318d973116b8d76f-snatchstick-tarte.1x.rsocial.w1200.jpg",
+                "url": "https://www.thecut.com/article/everything-we-know-about-tarte-cosmetics-snatch-stick-drama.html",
+                "source": "The Cut",
+                "date": "2026-08-19T21:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Valve Steam Frame Videos Show How To Wear The Headset, Perfect The Fit And Sign In",
+                "desc": "Eight leaked Steam Frame videos are informative and kinda silly.",
+                "image": "https://www.engadget.com/img/gallery/valve-steam-frame-videos-show-how-to-wear-the-headset-perfect-the-fit-and-sign-in/l-intro-1787173988.jpg",
+                "url": "https://www.engadget.com/2240427/valve-steam-frame-videos-show-how-to-wear-the-headset-perfect-the-fit-and-sign-in/",
+                "source": "Engadget",
+                "date": "2026-08-19T21:14:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon Makes Alexa+ Free to Use on Compatible Fire TV Devices",
+                "desc": "Amazon is making its next-gen Alexa+ assistant free to use on compatible Fire TV devices in the US.",
+                "image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/Alexa-Fire-TV.jpg",
+                "url": "https://www.thurrott.com/a-i/340579/amazon-makes-alexa-free-to-use-on-compatible-fire-tv-devices",
+                "source": "Thurrott.com",
+                "date": "2026-08-19T21:11:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Public Exploit Code Released for Microsoft SCCM Remote Code Execution Vulnerability",
+                "desc": "Public PoC code for critical SCCM RCE vulnerability CVE-2026-47301 could let low-privileged domain users gain SYSTEM access on Primary Site Servers.",
+                "image": "http://cybersecuritynews.com/wp-content/uploads/2026/08/Public-Exploit-Code-Released-for-Microsoft-SCCM-Remote-Code-Execution-Vulnerability.webp",
+                "url": "https://cybersecuritynews.com/microsoft-sccm-vulnerability-poc-release/",
+                "source": "CyberSecurityNews",
+                "date": "2026-08-19T21:08:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Reolink Battery Doorbell (2nd Gen) is a solid addition to your security setup",
+                "desc": "The Reolink Battery Doorbell (2nd Gen) is an incredibly solid and minimal doorbell, complete with all the premium features you could ask for.",
+                "image": "https://www.theaureview.com/wp-content/uploads/2026/08/Battery-Video-Doorbell-2nd-Gen-Black.png",
+                "url": "https://www.theaureview.com/technology/reolink-battery-doorbell-2nd-gen-review/",
+                "source": "The AU Review",
+                "date": "2026-08-19T21:04:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NASA Selects Winner For Lunar Rover Wheel Challenge",
+                "desc": "NASA has selected a winner for its “Rock and Roll” lunar wheel challenge, a competition to find lightweight and durable wheels for long-duration lunar rover surface operations.",
+                "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
+                "url": "https://aviationweek.com/space/space-exploration/nasa-selects-winner-lunar-rover-wheel-challenge",
+                "source": "Aviation Week",
+                "date": "2026-08-19T21:03:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple iPhone 18 Pro Event Date: Latest September Keynote Predictions",
+                "desc": "Before Apple releases the next iPhones, there’ll be a keynote. So, when will that be announced?",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a5b635d71e49033e46f88b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/davidphelan/2026/08/19/apple-iphone-18-pro-event-date-latest-september-keynote-predictions/",
+                "source": "Forbes",
+                "date": "2026-08-19T21:00:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DisplayPort's free adaptive sync beats HDMI's licensing mess, and here's why it matters",
+                "desc": "DisplayPort all the things.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/02/displayport-2.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/displayports-free-adaptive-sync-beats-hdmis-licensing-mess-why-it-matters/",
+                "source": "makeuseof.com",
+                "date": "2026-08-19T21:00:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon Is Making Alexa+ Free for These TVs",
+                "desc": "You don't need to pay $20 a month if you have the right TV.",
+                "image": "https://sm.lifehacker.com/t/lifehacker_au/news/a/amazon-is-/amazon-is-making-alexa-free-for-these-tvs_6juq.1200.jpg",
+                "url": "https://au.lifehacker.com/ai/119401/amazon-is-making-alexa-free-for-these-tvs",
+                "source": "Lifehacker",
+                "date": "2026-08-19T21:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'Fortnite' Chapter 7, Season 4 Start",
                 "desc": "Here's when Fortnite servers go down and when the game comes back online with Chapter 7, Season 4.",
@@ -1174,99 +1264,99 @@
                 "source": "Tech Xplore",
                 "date": "2026-08-19T15:20:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "State of War Returns to Gloria Victis With Guild Castle Sieges",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/State-of-War-Returns-to-Gloria-Victis-With-Guild-Castle-Sieges",
-                "source": "gamespress.com",
-                "date": "2026-08-19T14:07:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bulletproof Earns Microsoft 365 Copilot Advanced Specialization, Strengthening its Leadership in Secure AI Transformation",
-                "desc": "/CNW/ -- Bulletproof today announced it has attained the Copilot Advanced Specialization in the Microsoft AI Cloud Partner Program, becoming one of a select...",
-                "image": "https://mmx.prnewswire.com/media/MS1972306/Bulletproof-Bulletproof-Earns-Microsoft-365-Copilot-Advanced-Spe.jpg?id=OA2897436&p=facebook",
-                "url": "https://www.newswire.ca/news-releases/bulletproof-earns-microsoft-365-copilot-advanced-specialization-strengthening-its-leadership-in-secure-ai-transformation-818121267.html",
-                "source": "PR Newswire Canada",
-                "date": "2026-08-19T14:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Things 3.23 update now available with major repeating to",
-                "desc": "Things is making repeating to-dos significantly more flexible in version 3.23, addressing two common situations: finishing a task ahead of...",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/things-repeat.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/08/19/things-3-23-update-now-available-with-major-repeating-to-do-improvements/",
-                "source": "9to5Mac",
-                "date": "2026-08-19T14:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Skillprint Launches the Signal Benchmark, the First AI Benchmark Grounded in Real Human Performance",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/11/060045-7902c60d/Skillprint_logo.png?w=328&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=4d5fac1c7446ce78c5af0d2d245243ee8236b6a1bae72c1d58334e06d35011ab",
-                "url": "https://www.gamespress.com/en-US/Skillprint-Launches-the-Signal-Benchmark-the-First-AI-Benchmark--10998",
-                "source": "gamespress.com",
-                "date": "2026-08-19T14:02:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Skillprint Launches the Signal Benchmark, the First AI Benchmark Grounded in Real Human Performance",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/11/060045-7902c60d/Skillprint_logo.png?w=328&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=4d5fac1c7446ce78c5af0d2d245243ee8236b6a1bae72c1d58334e06d35011ab",
-                "url": "https://www.gamespress.com/Skillprint-Launches-the-Signal-Benchmark-the-First-AI-Benchmark--10998",
-                "source": "Games Press",
-                "date": "2026-08-19T14:02:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spearhead Games returns with choice-driven fantasy action game Ever After Again: A Stories Adventure",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-GB/Spearhead-Games-returns-with-choice-driven-fantasy-action-game-Ever-Af",
-                "source": "Games Press",
-                "date": "2026-08-19T14:02:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pixel Watch 5 First Look: Here's what Google's new smartwatch brings to your wrist",
-                "desc": "Google Pixel Watch 5 is all set to arrive in stores in India tomorrow. We have got our hands on the new Pixel Watch and will be sharing our experience soon in the review. But before that, here is a quick look at the Watch 5 and things you should know.",
-                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/pixel-watch-5-191721551-16x9_0.png?VersionId=3bXBT8NzDQShpbb75xrPhT9Ev3sodjxM",
-                "url": "https://www.indiatoday.in/technology/features/story/google-pixel-watch-5-first-look-heres-what-googles-new-smartwatch-brings-to-your-wrist-2975079-2026-08-19",
-                "source": "India Today",
-                "date": "2026-08-19T14:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The founder's secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it",
-                "desc": "Volunteer at TechCrunch Disrupt 2026 and get an insider's view of how world-class tech events get built and more.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/08/TC-Disrupt-2025.jpg?resize=1200,800",
-                "url": "https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/",
-                "source": "techcrunch.com",
-                "date": "2026-08-19T14:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BMW E46 M3: The German Sports Coupe That Out",
-                "desc": "The E46 BMW M3 offers hydraulic steering, a 3.2L inline-six, and a rising used market value—all for under $20,000.",
-                "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/12/resize_download-8-1.jpeg?w=1600&h=900&fit=crop",
-                "url": "https://www.topspeed.com/german-sports-coupe-out-steers-modern-m-cars-under-20000/",
-                "source": "Top Speed",
-                "date": "2026-08-19T14:01:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hogging weights, loud grunting and sweaty benches: 11 gym dos and don’ts from fitness experts",
-                "desc": "Here’s what professionals have to say about good workout etiquette, from using equipment to being on your phone",
-                "image": "https://i.guim.co.uk/img/media/d6938cceab39502ad5c407c4144964866d533c94/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2737dead9feec7697170b6e84bb7e030",
-                "url": "https://www.theguardian.com/wellness/2026/aug/19/fitness-experts-gym-workout-etiquette",
-                "source": "The Guardian",
-                "date": "2026-08-19T14:01:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "The Ethiopian Passport in 2026: A Deep Dive into Global Access, Constraints, and the Road Ahead",
+                "desc": "Addis Insight",
+                "image": "https://addisinsight.net/wp-content/uploads/2026/08/IMG_2630.jpg",
+                "url": "https://addisinsight.net/2026/08/20/the-ethiopian-passport-in-2026-a-deep-dive-into-global-access-constraints-and-the-road-ahead/",
+                "source": "Addis Insight",
+                "date": "2026-08-19T21:17:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ethiopia Nile Dispute Expands Into a Contest for the Horn",
+                "desc": "Ethiopia’s plans to build three additional hydropower dams […]",
+                "image": "https://themedialine.org/wp-content/uploads/2026/08/GettyImages-2234131022-e1787173981742.jpg",
+                "url": "https://themedialine.org/top-stories/egypt-ethiopia-nile-dispute-expands-into-a-contest-for-the-horn/",
+                "source": "The Media Line",
+                "date": "2026-08-19T21:15:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FG Approves N438bn Road Projects, Trailer Park Concessions",
+                "desc": "The Federal Government has approved about N438 billion for road construction and rehabilitation projects across…",
+                "image": "https://editor.therealmediang.com/wp-content/uploads/2026/05/V6wjwwfM-Tinubu.webp",
+                "url": "https://therealmediang.com/news/fg-approves-n438bn-road-projects-trailer-park-concessions",
+                "source": "therealmediang.com",
+                "date": "2026-08-19T21:14:38Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "US military made secret path through Hormuz, 10 million oil barrels pass daily",
+                "desc": "US President Donald Trump told reporters \"The Strait is open. A lot of boats are coming through, adding that \"We are getting a lot of oil out.\"",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734501",
+                "url": "https://www.jpost.com/middle-east/article-906042",
+                "source": "The Jerusalem Post",
+                "date": "2026-08-19T21:14:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Politics Live Updates: Israel clears troops over Australian’s death",
+                "desc": "Donald Trump says he will meet with the North Korean leader later this year as he scales back military drills with South Korea.",
+                "image": "https://static.ffx.io/images/$zoom_0.5081%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_180%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/61e5a0378d5a5f1b999377ad97185a4b019e98ae",
+                "url": "https://www.nine.com.au/world-news/us-politics-live-updates-donald-trump-latest-headlines-20260820-p60pwz.html",
+                "source": "Nine.com.au",
+                "date": "2026-08-19T21:07:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "For $90,000, You Can Get Citizenship In This Lowkey African Island Country",
+                "desc": "São Tomé and Príncipe is offering a new citizenship path for $90,000. Here's what travelers should know about the program.",
+                "image": "https://cms.travelnoire.com/wp-content/uploads/2026/08/Bom-bom-beach-Principe-island-Sao-Tome-and-Principe-1568x1045.jpg",
+                "url": "https://travelnoire.com/sao-tome-and-principe-golden-passport",
+                "source": "Travel Noire",
+                "date": "2026-08-19T21:05:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taiwan’s international enrolment up by 17% in 2025/26",
+                "desc": "Taiwan’s foreign enrolment grew to 140,420 in 2025/26 – a +17% increase from the previous year and an all-time record. The lion’s share of foreign students are in degree programmes (roughly 90,",
+                "image": "https://cdn.monitor.icef.com/wp-content/uploads/2026/08/timo-volz-9-JFZIORoRw-unsplash-1200.jpg",
+                "url": "https://monitor.icef.com/2026/08/taiwans-international-enrolment-up-by-17-in-2025-26/",
+                "source": "ICEF Monitor",
+                "date": "2026-08-19T21:05:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Backpacker visa approval pause worries rural communities that rely on international workers",
+                "desc": "Rural communities and farmers are concerned they will lose an essential workforce as the brakes are put on working holiday visa applications.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/15aee7b8a3c9cb58522ce239bd2a4fb8?impolicy=wcms_watermark_news&cropH=675&cropW=1200&xPos=0&yPos=512&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/rural/2026-08-20/backpacker-visa-approval-slowdown-concerns-rural-communities/107046042",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-08-19T21:05:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US operates clandestine shipping corridor through Strait of Hormuz",
+                "desc": "The U.S. military has established a shipping corridor through the Strait of Hormuz to keep Gulf energy exports moving despite the war with Iran, allowing...",
+                "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/08/19/thumbs/1200x675/456664.jpg",
+                "url": "https://www.dailysabah.com/world/mid-east/us-operates-clandestine-shipping-corridor-through-strait-of-hormuz",
+                "source": "Daily Sabah",
+                "date": "2026-08-19T21:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
+                "desc": "Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f6fa6eb17-1786736550.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts",
+                "source": "Al Jazeera",
+                "date": "2026-08-19T21:03:58Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Call for an ecosystem to boost biosimilar and vaccine production capacity",
                 "desc": "They called for an integrated Life Science and Biopharmaceutical Strategy by 2035, focusing on technology transfer, clinical research, regulatory accreditation, shared infrastructure and skilled workforce development.",
@@ -1806,98 +1896,8 @@
                 "source": "ANI News",
                 "date": "2026-08-19T15:27:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Canadian official condemns Israel's 'unlawful invasion' of Lebanon",
-                "desc": "A Canadian official has condemned what he called Israel’s “unlawful invasion” of Lebanon. During a visit to Beirut, Canada’s Secretary of State for International Development, Randeep Sarai, announced new humanitarian aid for Lebanon.",
-                "image": "https://dims.apnews.com/dims4/default/4c27345/2147483647/strip/true/crop/7240x4824+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F26%2F5c%2F37a0f78327402a0a7ed660e72ae9%2F8b685128e37341ccb0d2a118674915ee",
-                "url": "https://apnews.com/article/lebanon-israel-syria-canada-hezbollah-war-refugees-randeep-sarai-8787e292cb3948ad5868a142ee63c93f",
-                "source": "apnews.com",
-                "date": "2026-08-19T14:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Train track defect found before Lewes derailment, report says",
-                "desc": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b5e2/live/2f124880-9b12-11f1-9341-0383083a41e3.jpg",
-                "url": "https://www.bbc.com/news/articles/c4gx12v8z51o",
-                "source": "BBC",
-                "date": "2026-08-19T14:06:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Siege widens as the UAE takes its revenge on Iran",
-                "desc": "Abu Dhabi announced that as punishment for Iranian missile attack it is halting all its trade relations with Tehran; The move could deal another blow to an economy that is already in crisis: 'The UAE is a gateway for Iran to third countries, it depends on it'",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/07/SygOy00cRZe/SygOy00cRZe_0_0_850_479_0_large.jpg",
-                "url": "https://www.ynetnews.com/article/sjrs4vmpfx",
-                "source": "Ynetnews",
-                "date": "2026-08-19T14:05:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is your rental property flooded? Here’s what to discuss with your landlord",
-                "desc": "Here's what renters should know when the property gets flooded.",
-                "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/pat_temp/can%20you%20end%20lease%20flood%20inner%20image.jpg",
-                "url": "https://philstarlife.com/news-and-views/116403-flooded-rental-what-to-discuss-with-landlord",
-                "source": "Philstar Life",
-                "date": "2026-08-19T14:04:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Husband's double life discovered as he's arrested for wife's murder",
-                "desc": "Patrick Barnett has been accused of killing his wife, Lindsey. He told police that he had found her unresponsive in the bathroom.",
-                "image": "https://metro.co.uk/wp-content/uploads/2026/08/SEI_308699023-4dcc-e1787143485941_1787153923.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-                "url": "https://metro.co.uk/2026/08/19/husbands-double-life-discovered-arrested-wifes-murder-29413452/",
-                "source": "Metro.co.uk",
-                "date": "2026-08-19T14:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sudan Conflict: Growing use of explosive barrels and allegedly prohibited weapons",
-                "desc": "Amnesty International described the explosive barrels used by the Sudanese army as crude, unguided munitions.",
-                "image": "https://cdn.radioafrica.digital/image/2026/08/5f6f3093-cc4c-439c-87b3-7f00fb2e05a1.webp?1787164508119",
-                "url": "https://www.the-star.co.ke/news/2026-08-19-sudan-conflict-the-expanding-use-of-prohibited-weapons",
-                "source": "the-star.co.ke",
-                "date": "2026-08-19T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia’s African ally makes a surprise push for UN recognition as its breakaway Sahel alliance challenges the power structure of West Africa",
-                "desc": "Mali, a key partner for Russia in West Africa, has launched a significant diplomatic effort at the United Nations to gain formal recognition for its new regional partnership. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/5mWktkpTURBXy82MGViYmI1NmYzYTE1ZDk4OTZmMWI1NmRiOGZlYTE2OS5wbmeSlQMAMM0GAM0DYJMFzQSwzQJ2",
-                "url": "https://africa.businessinsider.com/local/markets/russias-african-ally-makes-a-surprise-push-for-un-recognition-as-its-breakaway-sahel/53zpp6c",
-                "source": "Business Insider Africa",
-                "date": "2026-08-19T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Putin urges government to boost efficiency in defence, security matters",
-                "desc": "Russian President Vladimir Putin has urged his administration that efficiency relating to defence and security matters has to improve for the country's sovereignty...",
-                "image": "https://caliber.az/media/photos/original/7cacbf4814c758f875a932424da79cf0.webp",
-                "url": "https://caliber.az/en/post/putin-urges-government-to-boost-efficiency-in-defence-security-matters",
-                "source": "Caliber.Az",
-                "date": "2026-08-19T13:58:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gateway Foundation Rebrands to Alpharus Health",
-                "desc": "Chicago, IL, Aug. 19, 2026 (GLOBE NEWSWIRE) -- After nearly 60 years of providing life-changing substance use disorder treatment and mental health services, Gateway Foundation announced today it is rebranding as Alpharus Health. This new name reflects the organization's growth and vision for the future of behavioral health care.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/19/1183117.png",
-                "url": "https://www.manilatimes.net/2026/08/19/tmt-newswire/globenewswire/gateway-foundation-rebrands-to-alpharus-health/2408576",
-                "source": "The Manila Times",
-                "date": "2026-08-19T13:58:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DP World, WFP deliver 5,000 tonnes of rice to communities in Africa",
-                "desc": "The consignments were delivered through DP World’s Shipping Solutions business",
-                "image": "https://media.zawya.com/prod/images/gm_preview/d3cef881416c-x1306f131ka18i9pn.png",
-                "url": "https://www.zawya.com/en/business/africa/dp-world-wfp-deliver-5000-tonnes-of-rice-to-communities-in-africa-461268",
-                "source": "Zawya",
-                "date": "2026-08-19T13:58:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-20T08:18:21.553122Z"
+    "lastGlobalSync": "2026-08-20T09:17:52.091617Z"
 }
