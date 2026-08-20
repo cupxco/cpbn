@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Farewell Columbia House, Music Club That Sold Pop Dreams for a Penny",
+                "desc": "For a generation, Columbia House's 12-albums-for-a-cent offers were a rite of passage and a crash course in grown-up capitalism",
+                "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/columbia-house-ad.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
+                "url": "https://www.rollingstone.com/music/music-features/columbia-house-music-club-penny-1235610725/",
+                "source": "Rolling Stone",
+                "date": "2026-08-19T17:15:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Will the Fed Minutes show broad support for an upcoming interest",
+                "desc": "The United States (US) Federal Reserve (Fed) will release the Minutes of the July Federal Open Market Committee (FOMC) meeting on Wednesday.",
+                "image": "https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_4_Medium.png",
+                "url": "https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400",
+                "source": "fxstreet.com",
+                "date": "2026-08-19T17:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria targets 3m bpd, $50bn investment, 215tcf gas",
+                "desc": "By Victor Ahiuma-Young & Johnbosco Agbakwuru ABUJA — The Federal Government has unveiled fresh plans to unlock Nigeria’s more than 215 trillion cubic feet (tcf) of proven natural gas reserves for industrial development, as the Nigerian Upstream Petroleum Regulatory Commission (NUPRC) said the country could raise crude oil production to three million barrels per day. […]",
+                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/NUPRC.jpg",
+                "url": "https://www.vanguardngr.com/2026/08/nigeria-targets-3m-bpd-50bn-investment-215tcf-gas/",
+                "source": "Vanguard News",
+                "date": "2026-08-19T17:13:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Barry Schwartz’s Top Picks for Aug. 19, 2026",
+                "desc": "Top Picks from Barry Schwartz, President & CIO, Baskin Wealth Management",
+                "image": "https://www.bnnbloomberg.ca/resizer/v2/NIJ6BJBYZNCO7JG5FBW7TNOJ3Q.PNG?smart=true&auth=4d435e16e9cfe4a0f0145758de32537b2ddb2300f3a48fc16dbeb1cdb85a8295&width=1200&height=630",
+                "url": "https://www.bnnbloomberg.ca/markets/2026/08/19/barry-schwartzs-top-picks-for-aug-19-2026/",
+                "source": "BNN Bloomberg",
+                "date": "2026-08-19T17:12:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigerian Commission FCCPC Orders Manufacturers, Importers To Withdraw Misleading, Poorly Labelled Consumer Goods",
+                "desc": "It warned that such practices violate consumers’ right to access accurate information and could expose them to health, safety and economic risks.",
+                "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+                "url": "https://saharareporters.com/2026/08/19/nigerian-commission-fccpc-orders-manufacturers-importers-withdraw-misleading-poorly",
+                "source": "Sahara Reporters",
+                "date": "2026-08-19T17:11:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brighter economic outlook despite rising unemployment and election uncertainty",
+                "desc": "New Zealand's economic outlook is looking brighter, despite the ongoing conflict in the Middle East, rising unemployment and uncertainty ahead of the general election.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--PAH2x6An--/t_tohu-badge-facebook/f_auto/q_auto/4KLD10G_rates_01c_OCR_UP_jpg",
+                "url": "https://www.rnz.co.nz/news/politics_election-2026/1062375/brighter-economic-outlook-despite-rising-unemployment-and-election-uncertainty",
+                "source": "RNZ",
+                "date": "2026-08-19T17:10:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Could shut Welsh recycling plant solve fridge recycling \"crisis\"?",
+                "desc": "Oxfordshire County Council has asked the government to reopen a specialist recycling plant in Wales.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9b9/live/1d399980-9a3e-11f1-a86b-519b4d19bbee.png",
+                "url": "https://www.bbc.co.uk/news/articles/c75gp40le36o",
+                "source": "BBC",
+                "date": "2026-08-19T17:10:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon expands Prime Air drone delivery to 500 more U.S. cities",
+                "desc": "Amazon plans to expand Prime Air drone delivery to nearly 500 U.S. cities and towns by the end of 2026.",
+                "image": "https://helios-i.mashable.com/imagery/articles/06hNh1rtFJDMNbawerZuktr/hero-image.fill.size_1200x675.v1787150351.jpg",
+                "url": "https://mashable.com/tech/amazon-prime-air-drone-delivery-500-cities",
+                "source": "Mashable",
+                "date": "2026-08-19T17:08:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft signs offtake deal for wastewater-based carbon removal",
+                "desc": "The deal with climate startup Crew Carbon will lean on its wastewater alkalinity enhancement technology to permanently remove carbon dioxide emitted by wastewater plants.",
+                "image": "https://imgproxy.divecdn.com/TdkWLzuvSB73h9Jv5F_OjkCQ5UlMG_5OYasDVUHZY_A/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp",
+                "url": "https://www.esgdive.com/news/microsoft-crew-carbon-sign-offtake-deal-for-wastewater-based-carbon-removal/828289/",
+                "source": "ESG Dive",
+                "date": "2026-08-19T17:07:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Regeneron drug for ultra-rare bone disease wins approval",
+                "desc": "Patients with FOP form bone where it shouldn't be. The drug, Pasatru, drastically cut the risk of new bone growth in a trial.",
+                "image": "https://www.statnews.com/wp-content/uploads/2026/08/fop-drug-1-1024x576.jpg",
+                "url": "https://www.statnews.com/2026/08/19/regeneron-fop-garetosmab-fda-approval-pasatru/",
+                "source": "STAT",
+                "date": "2026-08-19T17:04:49Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "CRA penalized accountant for failure to report her income",
                 "desc": "Jamie Golombek: Failing to report more than $500 of income in one year can trigger a penalty in a subsequent year. Read on to find out more.",
                 "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/no0819cra.jpg",
@@ -542,99 +632,99 @@
                 "source": "coingabbar.com",
                 "date": "2026-08-19T10:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "NIFTY50, SENSEX fall: HDFC Bank, ITC, IRFC, HUL among 112 stocks that hit 52-week low on NSE",
-                "desc": "NIFTY50 and SENSEX are trading lower for the third straight day this week amid a sell-off in NIFTY50 heavyweight stocks and rising crude oil prices. Several prominent stocks like HDFC Bank, ITC, Dabur India, HUL and others hit their 52-week low today on the NSE.",
-                "image": "https://assets.upstox.com/content/assets/images/news/hdfcbankitchit52-weeklow.webp",
-                "url": "https://upstox.com/news/market-news/stocks/nifty-50-sensex-fall-hdfc-bank-itc-irfc-hul-among-112-stocks-that-hit-52-week-low-on-nse/article-198900/",
-                "source": "Upstox",
-                "date": "2026-08-19T09:07:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Watch: Specialist Law Firm Leader of the Year Award winner Patricia Peck",
-                "desc": "Latin Lawyer is your definitive source of news, analysis, and research from the Latin American legal community. It keeps you up to speed with the issues and trends that matter and provides the data and tools you need to operate successfully.",
-                "image": "https://d2qu5xmcgmzxnb.cloudfront.net/ewogICAgICAgICAgICAgICAgICAgICAgICAiYnVja2V0IjogImZpbGVzLmxici5jbG91ZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAicHVibGljLzIwMjYtMDgvcGVjayBwaG90by5wbmciLAogICAgICAgICAgICAgICAgICAgICAgICAiZWRpdHMiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgInJlc2l6ZSI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ3aWR0aCI6IDk0NSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJoZWlnaHQiOiA1MjYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZml0IjogImNvdmVyIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwb3NpdGlvbiI6ICJjZW50ZXIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImJhY2tncm91bmQiOiB7ICJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDEgfQogICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=",
-                "url": "https://latinlawyer.com/news-and-features/latin-lawyer-awards/2026/article/watch-specialist-law-firm-leader-of-the-year-award-winner-patricia-peck",
-                "source": "Latin Lawyer",
-                "date": "2026-08-19T09:05:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wall Street is losing faith in the Magnificent Seven",
-                "desc": "The Magnificent Seven once powered Wall Street. Lately, though, analysts fear their collective story will end like the old Yul Brynner film.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/18/USAT/91357872007-nvidia-4.JPG?crop=3999,2250,x0,y208&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/personal-finance/2026/08/19/magnificent-seven-stocks-401k-wall-street/91354381007/",
-                "source": "USA Today",
-                "date": "2026-08-19T09:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "XRP Falls Below $1 For First Time Since 2024. Here's What Investors Need to Know.",
-                "desc": "Ripple faces ample challenges, but also new opportunities.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F79895cf015eceb9aa61587386c528bc53758b94e-1199x712.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/08/19/xrp-falls-below-usd1-for-first-time-since-2024-here-s-what-investors-need-to-know/",
-                "source": "The Motley Fool",
-                "date": "2026-08-19T09:03:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-                "desc": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/21dc/live/be9c8d40-9bb6-11f1-a291-b542ee92de7c.jpg",
-                "url": "https://www.bbc.com/news/articles/cdrv7jr8n74o",
-                "source": "BBC",
-                "date": "2026-08-19T09:02:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CEO Jensen Huang Is in His Social Media Era. Nvidia Has Much at Stake.",
-                "desc": "CEO Jensen Huang is embracing social media, using X to explain the AI ecosystem while weighing in on issues with major implications for Nvidia.",
-                "image": "https://i.insider.com/6a8494fc7e0482203ed172e4?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-social-media-era-2026-8",
-                "source": "Business Insider",
-                "date": "2026-08-19T09:01:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘We now live without this violence’: the Colombian farmers giving up coca for palm oil",
-                "desc": "Subsidies and a crackdown on armed groups are helping smallholders rebuild their lives, leaving behind decades of conflict and fear",
-                "image": "https://i.guim.co.uk/img/media/de727c39d366b0dcbf4b1a2a4056ab2bd2bc5d50/525_578_3058_2446/master/3058.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=681a0dd120cb78025f9da86a51049dfc",
-                "url": "https://www.theguardian.com/global-development/2026/aug/19/colombia-farmers-coca-palm",
-                "source": "The Guardian",
-                "date": "2026-08-19T09:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "People From 50- to 61-Years-Old Are Reportedly the Least Freaked Out by AI",
-                "desc": "Pew's survey doesn't say they love AI, but they do seem to hate it the least.",
-                "image": "https://gizmodo.com/app/uploads/2026/08/winery-friends-1200x675.jpg",
-                "url": "https://gizmodo.com/pew-50-to-61-ai-2000800186",
-                "source": "Gizmodo",
-                "date": "2026-08-19T09:00:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Red lights are flashing in energy markets",
-                "desc": "Oil prices are once again uncomfortably high, but the bigger problem is lurking just beneath the surface.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270992283-20260818195014350.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/19/business/oil-gas-war-iran-russia",
-                "source": "CNN",
-                "date": "2026-08-19T09:00:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Red lights are flashing in energy markets",
-                "desc": "Oil prices are once again uncomfortably high, but the bigger problem is lurking just beneath the surface.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270992283-20260818195014350.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://edition.cnn.com/2026/08/19/business/oil-gas-war-iran-russia",
-                "source": "CNN",
-                "date": "2026-08-19T09:00:30Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Xbox Special Edition Translucent Green Controller Price, Release Date Leaked",
+                "desc": "Color us surprised.",
+                "image": "https://sm.ign.com/t/ign_sea/news/x/xbox-speci/xbox-special-edition-translucent-green-controller-price-rele_88cq.1200.jpg",
+                "url": "https://sea.ign.com/xbox-series-x/247108/xbox-special-edition-translucent-green-controller-price-release-date-leaked",
+                "source": "IGN Southeast Asia",
+                "date": "2026-08-19T17:12:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Firefox Just Proved AI Browser Features Don't Have to Suck (or Spy on You)",
+                "desc": "From AI-powered tab grouping to visual history previews, Mozilla's opt-in Smart Window upgrade shows Google and Microsoft how AI features should actually be built.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/f/firefox-ju/firefox-just-proved-ai-browser-features-dont-have-to-suck-or_75na.1200.jpg",
+                "url": "https://au.pcmag.com/ai/119418/firefox-just-proved-ai-browser-features-dont-have-to-suck-or-spy-on-you",
+                "source": "PCMag Australia",
+                "date": "2026-08-19T17:11:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta AI Now Has A Dedicated Desktop App For Mac",
+                "desc": "Meta's new Mac app is part of the company's push to make more business-friendly AI tools.",
+                "image": "https://www.engadget.com/img/gallery/meta-ai-now-has-a-dedicated-desktop-app-for-mac/l-intro-1787159380.jpg",
+                "url": "https://www.engadget.com/2240154/meta-ai-now-has-a-dedicated-desktop-app-for-mac/",
+                "source": "Engadget",
+                "date": "2026-08-19T17:10:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World's largest single-site study maps brain changes under psilocybin",
+                "desc": "A landmark five-year study by Monash University has found psychedelics reorganise brain patterns, giving clinicians powerful new insights into their therapeutic potential.",
+                "image": "https://www.news-medical.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+                "url": "https://www.news-medical.net/news/20260819/Worlds-largest-single-site-study-maps-brain-changes-under-psilocybin.aspx",
+                "source": "News-Medical",
+                "date": "2026-08-19T17:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Block? \"Why Not?\" Say the Hosts of Driveway Finds",
+                "desc": "We talked with the hosts of Driveway Finds to get the story behind their air-cooled Chevy small-block, and why killing an engine isn't scary.",
+                "image": "https://hagerty-media-prod.imgix.net/2026/08/DWF-AirCooled-Chevy-Lede.jpg?auto=format%2Ccompress&ixlib=php-3.3.0",
+                "url": "https://www.hagerty.com/media/maintenance-and-tech/why-make-an-air-cooled-chevy-small-block-why-not-say-the-hosts-of-driveway-finds/",
+                "source": "Hagerty",
+                "date": "2026-08-19T17:07:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Launches Pixel 11 Series in Japan: Four Models with Enhanced Cameras and AI Capabilities",
+                "desc": "Google launched its latest Pixel 11 smartphone series in Japan on August 20. The lineup consists of four models—Pixel 11, Pixel 11 Pro, Pixel 11 Pro…",
+                "image": "https://img.biggo.com/8nKGxM2KQ5G64ZBTdxBXt27QhZgtsz2gfOESLaidU4M/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2E0OGE1MWE2LWYwNmItNGFkMC05NmZmLWE5ZjIwOWI3OTQxNV8xNzg3MTU5NDQwX2RlZmF1bHQud2VicA.jpg",
+                "url": "https://finance.biggo.com/news/a48a51a6-f06b-4ad0-96ff-a9f209b79415",
+                "source": "finance.biggo.com",
+                "date": "2026-08-19T17:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pixel Weather update brings new icon & ‘Weather Brief’ rename",
+                "desc": "The Pixel app updates continue today with Weather getting a new icon and some minor interface tweaks. This update...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-new-icons-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/08/19/pixel-weather-new-icon/",
+                "source": "9to5Google",
+                "date": "2026-08-19T17:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Pixel 11 Pro hands-on review",
+                "desc": "The Pixel 11 Pro is Google's flagship smartphone for 2026. This year has been rough for tech, and we have seen one underwhelming launch after another...",
+                "image": "https://fdn.gsmarena.com/imgroot/reviews/26/google-pixel-11-pro/hands-on/-728x314/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/google_pixel_11_pro_hands_on-review-2990.php",
+                "source": "GSMArena.com",
+                "date": "2026-08-19T17:04:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The HELLCARD II Playtest Is Live - Descend Into the Paper Dungeons Solo or in Four-Player Co-op",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/The-HELLCARD-II-Playtest-Is-Live-Descend-Into-the-Paper-Dungeons-Solo-",
+                "source": "Games Press",
+                "date": "2026-08-19T17:03:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best mopping robot vacuum deal: Save 50% on the Shark Matrix Plus 2-in-1 at Amazon",
+                "desc": "The Shark Matrix Plus 2-in-1 robot vacuum and mop combo is on sale at Amazon for only $349.99. That's 50% off its usual cost.",
+                "image": "https://helios-i.mashable.com/imagery/articles/01wdI4AJtcpDa7HHsE278lO/hero-image.fill.size_1200x675.v1787151603.jpg",
+                "url": "https://mashable.com/life/aug-19-shark-matrix-plus-robot-vacuum-deal",
+                "source": "Mashable",
+                "date": "2026-08-19T17:03:31Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "REVIEW: Oppo Find X9s is a great travel buddy",
                 "desc": "I was looking forward to bringing the Oppo Find X9s to Singapore. For one, it was officially my first time using a phone with a Hasselblad camera system. If...",
@@ -1174,99 +1264,99 @@
                 "source": "CineD",
                 "date": "2026-08-19T09:57:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Android 17 beta finally rolls out to Motorola Edge 50 Ultra",
-                "desc": "Motorola begins rolling out the Edge 50 Ultra Android 17 beta update with new features, UI tweaks, and more changes. Complete details here.",
-                "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Motorola-Edge-50-Ultra.png",
-                "url": "https://www.gizmochina.com/2026/08/19/android-17-beta-finally-rolls-out-to-motorola-edge-50-ultra/",
-                "source": "Gizmochina",
-                "date": "2026-08-19T09:08:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Windows 11 Adds Per-App Control for Microphone, Location, and Camera Access",
-                "desc": "Microsoft is preparing an update for Windows 11 that will help privacy-conscious users protect themselves from digital spyware across applications. According to a discovery by X user Jakub, the latest Experimental Insider Build v26340.9212 will allow Windows 11 users to manually turn off the...",
-                "image": "https://www.techpowerup.com/img/nF0ydFji45AGmKs5.jpg",
-                "url": "https://www.techpowerup.com/351708/windows-11-adds-per-app-control-for-microphone-location-and-camera-access",
-                "source": "techpowerup.com",
-                "date": "2026-08-19T09:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Next-Gen Devices: Securing Wireless Communication",
-                "desc": "MIT researchers have overcome a major challenge holding back the real-world deployment of microwave quantum technologies for advanced signal",
-                "image": "https://news.mit.edu/sites/default/files/images/202608/MIT-CorrelatedPairs-01-press.jpg",
-                "url": "https://www.miragenews.com/next-gen-devices-securing-wireless-communication-1729705/",
-                "source": "Mirage News",
-                "date": "2026-08-19T09:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "53% of Australian Women Consider Investing in a Smartwatch Health Coach as Samsung Launches Galaxy Watch9 and Galaxy Watch Ultra2",
-                "desc": "53% of Australian Women Consider Investing in a Smartwatch Health Coach as Samsung Launches Galaxy Watch9 and Galaxy Watch Ultra2",
-                "image": "https://www.utusan.com.my/wp-content/uploads/prnewswire/prnewswire.png",
-                "url": "https://www.utusan.com.my/pr-newswire-en/2026/08/53-of-australian-women-consider-investing-in-a-smartwatch-health-coach-as-samsung-launches-galaxy-watch9-and-galaxy-watch-ultra2/",
-                "source": "Utusan Malaysia",
-                "date": "2026-08-19T09:04:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stick it to the Stickman Escapes Early Access This September",
-                "desc": "There is nothing quite like the daily grind of office life. The emails, the endless meetings, the… physics-based corporate brawls?...",
-                "image": "https://www.star1027.com.au/wp-content/uploads/sites/15/2026/08/20260818-stickittostickman-feature.jpg",
-                "url": "https://www.star1027.com.au/trending/gaming/stick-it-to-the-stickman-escapes-early-access-this-september/",
-                "source": "Star 1027",
-                "date": "2026-08-19T09:03:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google’s AI security agents found 100+ critical software vulnerabilities in just two days",
-                "desc": "Google reveals AVDH, an agentic AI vulnerability discovery tool that found over 100 verified high-severity flaws in source code in two days.",
-                "image": "https://img.helpnetsecurity.com/wp-content/uploads/2025/10/27095223/ai_agents-1500.webp",
-                "url": "https://www.helpnetsecurity.com/2026/08/19/google-mandiant-avdh-ai-vulnerability-discovery-tool/",
-                "source": "Help Net Security",
-                "date": "2026-08-19T09:03:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "vivo Y31t launches with Snapdragon 4 Gen 2 SoC, 7,200 mAh battery",
-                "desc": "It was just leaked a few days ago, and now it's already official. The vivo Y31t leaked a few days ago, and now the company has made it official without any...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/08/vivo-y31t-official/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/vivo_y31t_launches_with_snapdragon_4_gen_2_soc_7200_mah_battery-news-74236.php",
-                "source": "gsmarena.com",
-                "date": "2026-08-19T09:03:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Claude, ChatGPT, Gemini, and more are all included in this lifetime subscription, now just $99.99",
-                "desc": "1min.AI gives you lifetime access to dozens of AI models, including GPT, Gemini, and more",
-                "image": "https://helios-i.mashable.com/imagery/articles/00fi6EB7T3OxtS4yJUuAHaj/hero-image.fill.size_1200x675.v1787016864.jpg",
-                "url": "https://mashable.com/tech/aug-19-1minai-advanced-business-plan-lifetime-subscription",
-                "source": "Mashable",
-                "date": "2026-08-19T09:02:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Build your world’s lore with a captivating side quest : NPR",
-                "desc": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x4500+0+500/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F43%2Fdb%2Fb86df50f4db8b462b69cd049c4c2%2Fgettyimages-2112446687.jpg",
-                "url": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
-                "source": "NPR",
-                "date": "2026-08-19T09:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stick it to the Stickman Escapes Early Access This September",
-                "desc": "There is nothing quite like the daily grind of office life. The emails, the endless meetings, the… physics-based corporate brawls?...",
-                "image": "https://www.magic1059.com.au/wp-content/uploads/sites/37/2026/08/20260818-stickittostickman-feature.jpg",
-                "url": "https://www.magic1059.com.au/trending/gaming/stick-it-to-the-stickman-escapes-early-access-this-september/",
-                "source": "Magic 105.9",
-                "date": "2026-08-19T09:01:46Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Commissioner calls for single review into actions of Jeffrey Donaldson",
+                "desc": "The former DUP leader was convicted at Newry Crown Court earlier this year of 18 sex offences against children.",
+                "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTAxNDI3MjhcXFwvMi44NTAzODg1MS0xLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZTBlZTI4YTIzYTE0YTU3OGQ2ZjMwYzVhYjkyZGNhYTU2NDI1Y2I4OSJ9/commissioner-calls-for-single-review-into-actions-of-jeffrey-donaldson.jpg",
+                "url": "https://www.breakingnews.ie/ireland/commissioner-calls-for-single-review-into-actions-of-jeffrey-donaldson-1941821.html",
+                "source": "breakingnews.ie",
+                "date": "2026-08-19T17:14:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Natalie Harp: The ultra-devoted Trump aide who fascinates and frustrates other people around him",
+                "desc": "Trump’s utmost gatekeeper is a one-woman conduit of information to US president, and a geyser of positivity",
+                "image": "https://www.irishtimes.com/resizer/v2/G5LYIEXNKVAWJMKOW6IPKRBAVE.jpg?smart=true&auth=8a23ec0aaf30c250c838656a62d0496b0857911772d1c664d405f5f1eb7cfd95&width=1200&height=630",
+                "url": "https://www.irishtimes.com/world/us/2026/08/19/natalie-harp-the-devoted-trump-aide-who-fascinates-and-frustrates-other-people-around-him/",
+                "source": "The Irish Times",
+                "date": "2026-08-19T17:11:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mozambique Breaks Ground on $15.3 Million Ressano Garcia Border Upgrade",
+                "desc": "Mozambique has started a $15.3 million modernization of the Ressano Garcia border post to improve freight flows and strengthen the Maputo",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/5452f7254019566f5d82e335a2da3b63_S.jpg",
+                "url": "https://www.ecofinagency.com/news-infrastructures/1908-58213-mozambique-breaks-ground-on-15-3-million-ressano-garcia-border-upgrade",
+                "source": "ecofinagency.com",
+                "date": "2026-08-19T17:08:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says he will meet North Korean leader Kim Jong-un later this year",
+                "desc": "Trump's comments come just days after he announced that he had ordered US forces to scale back joint military drills with South Korea, which he said sent an \"inappropriate and hostile\" signal to Pyongyang.",
+                "image": "https://images.euronews.com/articles/stories/09/88/10/98/1200x675_cmsv2_49abc9b3-7bb4-57ca-a26f-726d51d93c5a-9881098.jpg",
+                "url": "https://www.euronews.com/2026/08/19/trump-says-north-korea-has-57-very-powerful-nuclear-weapons",
+                "source": "Euronews.com",
+                "date": "2026-08-19T17:07:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uganda: Andrew Wilson Tells Court of Special Power Bank That Recorded Besigye Coup Plot",
+                "desc": "A covert camera hidden in a power bank was used to secretly record meetings in which opposition politician Dr Kizza Besigye allegedly discussed plans to acquire weapons and overthrow the Ugandan government, the High Court in Kampala has heard. Andrew Wilson Orlando, a private security investigator, told the Criminal Division of the High Court Wednesday that he secretly recorded meetings involving Besigye and Joel Wakayima, a Ugandan based in Switzerland, using covert recording equipment.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202608190594.html",
+                "source": "allAfrica.com",
+                "date": "2026-08-19T17:03:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Competitor killed in Manx Grand Prix crash named",
+                "desc": "The 29-year-old died after a crash in Ramsey during qualifying for the event on Tuesday evening.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c590/live/1b2eb5c0-9be8-11f1-8219-5943a9899f1a.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c3d3jpnj0vvo",
+                "source": "BBC",
+                "date": "2026-08-19T17:03:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "First Lady Rachel Ruto hails Ksh12.2B push to cut maternal, newborn deaths",
+                "desc": "First Lady Rachel Ruto has commended the concerted efforts by the national and county governments to reduce maternal and newborn deaths, saying increased investment, stronger health systems and empowered healthcare workers are beginning to deliver results across the country.",
+                "image": "https://www.kbc.co.ke/wp-content/uploads/2026/08/Rachel.jpeg",
+                "url": "https://www.kbc.co.ke/first-lady-rachel-ruto-hails-ksh12-2b-push-to-cut-maternal-newborn-deaths/",
+                "source": "KBC Digital",
+                "date": "2026-08-19T17:03:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Farage’s futile election gamble: inside the 21 August Guardian Weekly",
+                "desc": "Political stunt brings Reform UK leader full circle. Plus: Russia’s scramble for soldiers",
+                "image": "https://i.guim.co.uk/img/media/82b672f6060a4c57d9944bfd8753da3b6f4b4c54/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db12845802060300d90f8ce51081529d",
+                "url": "https://www.theguardian.com/news/2026/aug/19/farages-futile-election-gamble-inside-the-21-august-guardian-weekly",
+                "source": "The Guardian",
+                "date": "2026-08-19T17:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump posts Hormuz map as new US territory",
+                "desc": "Trump posted a map showing the Strait of Hormuz as US territory and denied talks with Iran as Tehran kept the waterway shut.",
+                "image": "https://i.tribune.com.pk/media/images/dqbdjt62wfnm3efhn6l6wq2oe41787057608-0/dqbdjt62wfnm3efhn6l6wq2oe41787057608-0.jpg",
+                "url": "https://www.pakistantoday.com.pk/2026/08/19/trump-posts-map-showing-strait-of-hormuz-as-new-us-territory",
+                "source": "Pakistan Today",
+                "date": "2026-08-19T17:00:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Otherwise, they won't have enough for bread - Ministers' salaries will increase by 437 euros, deputies' by 246 euros",
+                "desc": "It is planned that next year ministers will receive 8,107 euros per month before taxes, while the salary of Saeima deputies will be 4,576 euros gross.",
+                "image": "https://news.inbox.eu/w/img/97/0f/970f5aa17024f47489.webp",
+                "url": "https://news.inbox.eu/150n6rm-otherwise-they-won-t-have-enough-for-bread-ministers-salaries-will-increase-by-437-euros-deputies-by-246-euros?language=en",
+                "source": "Inbox.eu",
+                "date": "2026-08-19T17:00:46Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pomona College to Provide Free Course Materials to All Students Through New Initiative",
                 "desc": "ACE initiative strengthens access and academic engagement for all Pomona students",
@@ -1806,98 +1896,8 @@
                 "source": "Tax Justice Network",
                 "date": "2026-08-19T09:49:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "CFAs: Science and Technology Accelerator - Systems Programme (South Africa)",
-                "desc": "Deadline: 26-Aug-2026 The Foreign, Commonwealth and Development Office (FCDO) is inviting expressions of interest from eligible not-for-profit organisations to lead a consortium delivering the Science and Technology Accelerator – Systems (STA-S) Southern Africa programme. The three-year programme has a total budget of £2.5 million, with up to £400,000 available during the first year, and aims",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/innovation/cfas-science-and-technology-accelerator-systems-programme-south-africa/",
-                "source": "fundsforngos.org",
-                "date": "2026-08-19T09:07:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France Sets Out Visa Waiting Period for Foreigners, Including Ghanaians",
-                "desc": "France enforces strict short-stay visa submission timelines, requiring applications two weeks before travel, with processing variances by nationality and purpose.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/8945ec9a17e4298d.jpeg?v=1",
-                "url": "https://yen.com.gh/world/310174-france-sets-visa-waiting-period-foreigners-including-ghanaians/",
-                "source": "Yen News",
-                "date": "2026-08-19T09:06:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grant Call for Water Technology Research by Young Researchers (Finland)",
-                "desc": "Deadline: 18-Sep-2026 The KAUTE Foundation is accepting applications from researchers in Finland for doctoral and postdoctoral research projects focused on water technology, clean drinking water, water purification, water analytics, and ultra-pure water. Grants range from €6,000 for three months to €28,000 for 12 months, with longer support of up to three years possible subject to",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/science/grant-call-for-water-technology-research-by-young-researchers-finland/",
-                "source": "fundsforNGOs",
-                "date": "2026-08-19T09:06:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UAE says two missiles detected earlier were launched from Iran",
-                "desc": "Iranian FM spokesperson rejected statements, calling them baseless",
-                "image": "https://i.tribune.com.pk/media/images/iran-missile1685024975-0/iran-missile1685024975-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2624694/uae-says-two-missiles-detected-earlier-launched-from-iran",
-                "source": "The Express Tribune",
-                "date": "2026-08-19T09:05:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Traumatic brain injury outcomes across human development index strata in 29 countries",
-                "desc": "Prior large-scale multicountry studies of traumatic brain injury (TBI) have either focused on surgically managed patients across development settings or characterized the full case-mix in predominantly high-income regions, leaving operative and nonoperative TBI across the human development spectrum incompletely defined. We present the Global Neurosurgical Study-1, integrating operative and nonoperative TBI across all Human Development Index (HDI) tiers. This prospective cohort included 2,165 patients from 100 hospitals in 29 countries between 2019 and 2022. Disparities were noted: median age ranged from 32 years (high-HDI) to 63 years (very-high-HDI); traffic injuries were the predominant cause of TBI in low-HDI (65.8%) versus falls in very-high-HDI (66%); and 69.3% of patients in the low-HDI tier arrived via private vehicles versus 13% for the very-high-HDI tier. Using mixed-effects logistic regression with inverse probability weighting, the adjusted mortality odds were highest in high-HDI tier (odds ratio 3.13, 95% confidence intervals 1.12–8.78) relative to the very-high-HDI, with no statistically significant elevation in low- or medium-HDI tiers. No dose–response relationship was noted between mortality and HDI. Inequities in injury mechanisms, patient demographics and prehospital access were drivers of outcome disparities. These findings suggest that HDI-stratified prevention targeting injury mechanisms and prehospital care may reduce the global TBI burden more effectively than hospital-based measures alone. The Global Neurosurgical Study-1 (GNS-I), conducted across 100 hospitals in 29 countries, found substantial variation in the causes of traumatic brain injury and in associated mortality outcomes across Human Development Index tiers.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04600-6/MediaObjects/41591_2026_4600_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41591-026-04600-6?error=cookies_not_supported&code=860fe2dd-dcd0-49cc-8e8d-b42b8ec97a72",
-                "source": "Nature",
-                "date": "2026-08-19T09:03:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The abandoned sanatorium in Baldone has been given a purpose: military exercises will take place there. Residents are asked not to panic",
-                "desc": "On August 22 and 23, military exercises of the National Guard will take place at the site of the former sanatorium in Baldone. According to the Kekava municipality, the activities will occur both during the day and at night.",
-                "image": "https://news.inbox.eu/w/img/07/dc/07dcbb6115c47215c7.webp",
-                "url": "https://news.inbox.eu/150n3z6-the-abandoned-sanatorium-in-baldone-has-been-given-a-purpose-military-exercises-will-take-place-there-residents-are-asked-not-to-panic?language=en",
-                "source": "Inbox.eu",
-                "date": "2026-08-19T09:02:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mobile gold miners in eastern Congo complicate health workers' efforts to contain Ebola",
-                "desc": "IGA-BARRIÈRE, Congo (AP) — Isaac Batisa is only a child but he spends his days digging for gold at a mining site in eastern Congo, hoping to earn enough money to support his family.",
-                "image": "https://s.yimg.com/lo/mysterio/api/cc0faddf76619dd0668a8fd31247c6818ba939aef54d9af979fa7328154d2145/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcp_lifestyle_556%2F6686974e807c177bd1b6e76914cb74e5.jpg",
-                "url": "https://ca.style.yahoo.com/mobile-gold-miners-eastern-congo-054137840.html",
-                "source": "Yahoo Lifestyle Canada",
-                "date": "2026-08-19T09:02:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CJID opens 2026 awards to reporters, editors, introduces human rights category",
-                "desc": "The third edition of the award is open to entries from journalists, fact-checkers, and editors from Nigeria, Ghana, Guinea, Liberia, Sierra Leone, The Gambia, Senegal, and Ivory Coast...",
-                "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/08/Winners-of-the-2025-CJID-Excellence-in-Journalism-Awards-pictured-with-Dapo-Olorunyomi-Chief-Executive-Officer-of-CJID.jpg?fit=894%2C595&ssl=1",
-                "url": "https://www.premiumtimesng.com/news/top-news/903775-cjid-opens-2026-awards-to-reporters-editors-introduces-human-rights-category.html",
-                "source": "premiumtimesng.com",
-                "date": "2026-08-19T09:01:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Burnham’s lead crucial to ending Ukraine conflict and protecting Britain",
-                "desc": "Grenville Cross says UK’s new prime minister has the opportunity to demonstrate the statesmanship that eluded his predecessors",
-                "image": "https://campus-cdhk.oss-cn-hongkong.aliyuncs.com/store_manager/photo_pre/13/32/230/90f6ef4d-b4dc-4e28-bd98-d00b1c28b919/high_wm.jpg",
-                "url": "https://www.chinadailyasia.com/hk/article/638171",
-                "source": "chinadailyasia.com",
-                "date": "2026-08-19T09:01:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
-                "desc": "Beto Coral held up banners in Florida warning fellow Colombians to not vote for Abelardo de la Espriella",
-                "image": "https://i.guim.co.uk/img/media/8f035dc467e7763a29217ce5c9732e32b7b934ba/0_149_1198_958/master/1198.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08eaaa2618cbedbe8f2d9b22bb4da138",
-                "url": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
-                "source": "The Guardian",
-                "date": "2026-08-19T09:01:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-20T04:21:56.950553Z"
+    "lastGlobalSync": "2026-08-20T05:16:06.220962Z"
 }
