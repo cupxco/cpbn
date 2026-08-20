@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Bride loses $3,200 to closed Korean bridal studio",
+                "desc": "A bride-to-be lost $3,200 to a Korean bridal studio after it abruptly ceased operations, leaving customers with prepayment losses.",
+                "image": "https://cassette.sphdigital.com.sg/image/stomp/d8821ac8f495dcac77c348392636498717710129a4617044eaaab2ceb1376165",
+                "url": "https://www.stomp.sg/trending-now/ive-considered-money-gone-bride-be-loses-3200-korean-bridal-studio-after-shop-ceases-operations",
+                "source": "Stomp",
+                "date": "2026-08-20T11:01:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From Humanities To AI: How Ali Hussain Built Fintech Tabs Into A $400M Startup",
+                "desc": "Our third in a series of articles about non-tech founders getting venture funding features Tabs founder Ali Hussain, who started the AI fintech after realizing pursuing a Ph.D. in humanities was a terrible idea and spent some time in the tech workforce where he learned a few things about building venture-backed companies.",
+                "image": "https://news.crunchbase.com/wp-content/uploads/non-tech-startups.jpg",
+                "url": "https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain/",
+                "source": "Crunchbase News",
+                "date": "2026-08-20T11:00:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Micron's $50 billion Boise buildout is reshaping its hometown",
+                "desc": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108349367-1786649251374-drone_1024.png?v=1786649334&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
+                "source": "CNBC",
+                "date": "2026-08-20T11:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Workers can't agree if junior employees should use AI at work: CNBC survey",
+                "desc": "Workers are divided on what AI usage should ideally look like for their junior colleagues, according to the CNBC and SurveyMonkey Quarterly AI and Jobs Survey.",
+                "image": "https://image.cnbcfm.com/api/v1/image/107381244-1709318857332-gettyimages-1307840993-pi-2141251.jpeg?v=1720196499&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/20/workers-cant-agree-if-junior-employees-should-use-ai-at-work-cnbc-survey.html",
+                "source": "CNBC",
+                "date": "2026-08-20T11:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UBC researchers create wood substitute for plastic foam",
+                "desc": "Researchers from UBC have created a wood-based alternative to plastic foam using forestry waste. They produce the material at a plant in East Vancouver, with plans to upscale and eventually produce and sell wood foam at the same price as plastic foam.",
+                "image": "https://i.cbc.ca/ais/eb138370-fcb2-4cb4-942c-7c3688f57db2,1787165568715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C486%2C5184%2C2916%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/british-columbia/ubc-wood-foam-9.7312821",
+                "source": "CBC",
+                "date": "2026-08-20T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How much has the national debt grown under President Trump?",
+                "desc": "U.S. national debt hit $40 trillion, with about one-fourth incurred during Donald Trump's time in office. Social Security, Medicare and debt interest are key drivers.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/donald-trump-oval-office-1.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/politics/how-much-has-national-debt-grown-under-president-trump",
+                "source": "Fox Business",
+                "date": "2026-08-20T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold Price Forecast: XAU/USD corrects below $4,500 as Yields recover some losses",
+                "desc": "Gold price (XAU/USD) is down 0.7% to near $4,490 in the European trading session on Thursday. The precious metal retreats from its 11-week high of $4,527 posted earlier in the day. The yellow metal comes under pressure as United States (US) Treasury Yields claw back some of Wednesday’s losses.",
+                "image": "https://editorial.fxsstatic.com/images/i/discover-51_Medium.png",
+                "url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-corrects-below-4-500-as-yields-recover-some-losses-202608201056",
+                "source": "FXStreet",
+                "date": "2026-08-20T10:56:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Two well-known restaurant properties up for sale in Cork",
+                "desc": "An award-winning venue has been closed for two years",
+                "image": "https://i2-prod.corkbeo.ie/article34489258.ece/ALTERNATES/s1200d/0_Screenshot-2026-08-20-at-114012.png",
+                "url": "https://www.corkbeo.ie/news/property/two-well-known-restaurant-properties-34488945",
+                "source": "Cork Beo",
+                "date": "2026-08-20T10:55:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta CEO Mark Zuckerberg buys Co Waterford castle",
+                "desc": "Meta Chief Executive Mark Zuckerberg is the new owner of Strancally Castle in Co Waterford.",
+                "image": "https://www.rte.ie/images/0024de75-1600.jpg",
+                "url": "https://www.rte.ie/news/2026/0820/1588634-mark-zuckerberg-strancally-castle/",
+                "source": "RTE.ie",
+                "date": "2026-08-20T10:55:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Numbers at work up by 0.8% to 2.8 million in Q2",
+                "desc": "Employment in Ireland has increased by 0.8% to more than 2.8 million, driven by an increase in older age groups and citizens from across the world coming to work here, according to the CSO.",
+                "image": "https://www.rte.ie/images/0024d9f8-1600.jpg",
+                "url": "https://www.rte.ie/news/business/2026/0820/1588629-cso-labour-survey-q2/",
+                "source": "RTE.ie",
+                "date": "2026-08-20T10:52:20Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "1911 Gold Reports Positive Metallurgical Results of 93.7% for True North and 96.3% for Ogama-Rockland",
                 "desc": "/PRNewswire/ -- 1911 Gold Corporation (\"1911 Gold\" or the \"Company\") (TSXV: AUMB) (OTCQX: AUMBF) (FRA: 2KY) is pleased to report the results of metallurgical...",
                 "image": "https://mmx.prnewswire.com/media/MS1753184/1911-Gold-Corporation-1911-Gold-Reports-Positive-Metallurgical-R.jpg?id=OA2899004&p=facebook",
@@ -542,99 +632,99 @@
                 "source": "BBC",
                 "date": "2026-08-20T05:04:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Noumi Limited (NOUMF) Q4 2026 Earnings Call Transcript",
-                "desc": "Noumi Limited (NOUMF) Q4 2026 Earnings Call August 19, 2026 8:01 PM EDTCompany ParticipantsMichael Perich - CEO & MDIain Short - Chief Financial...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4938538-noumi-limited-noumf-q4-2026-earnings-call-transcript",
-                "source": "Seeking Alpha",
-                "date": "2026-08-20T04:11:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US tech company whose CEO fired 900 people in 79-second call tells court: Don't allow him to go to shareholders for 30 days",
-                "desc": "Tech News News: US-based Better Home & Finance has asked a US court to stop former CEO Vishal Garg from seeking shareholder support for at least 30 days, escalati.",
-                "image": "https://static.toiimg.com/thumb/msid-133339242,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-tech-company-whose-ceo-fired-900-people-in-79-second-call-tells-court-dont-allow-him-to-go-to-shareholders-for-30-days/articleshow/133339187.cms",
-                "source": "The Times of India",
-                "date": "2026-08-20T04:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I tried out new foods at work. They helped my focus and creativity, and I felt better too",
-                "desc": "New book examines how the right diet can improve workplace performance, including focus, clarity, energy and creativity",
-                "image": "https://www.irishtimes.com/resizer/v2/XKRVWX44CFAQXE47CZ4QQRLY6Q.JPG?smart=true&auth=79a492e463e40988d7fcc722bc8cc77f7fd4031b961058daa0a0f544d74d9d74&width=1200&height=630",
-                "url": "https://www.irishtimes.com/business/work/2026/08/20/i-tried-out-new-foods-at-work-they-helped-my-focus-and-creativity-and-i-felt-better-too/",
-                "source": "The Irish Times",
-                "date": "2026-08-20T04:07:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iCaur V27 previewed in Thailand - REEV, up to 455 PS, 150 km NEDC EV, 1,000 km total; in Malaysia this year?",
-                "desc": "Image from Autolifethailand Previewed in Indonesia earlier this month, the iCaur V27 has now made its way to Thailand, where it was shown to the media ahead of its launch in September. Autolifethailand reports that …",
-                "image": "https://paultan.org/image/2026/08/iCaur-V27-Thailand-preview-Autolifethailand-1-630x420.jpg",
-                "url": "https://paultan.org/2026/08/20/icaur-v27-previewed-in-thailand-reev-up-to-455-ps-150-km-nedc-ev-1000-km-total-in-malaysia-this-year/",
-                "source": "Paul Tan's Automotive News",
-                "date": "2026-08-20T04:06:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cole Haan Introduces Women's Golf Apparel, Blending Style and Performance",
-                "desc": "The golf designs are expected to transition from the course to everyday life.",
-                "image": "https://wwd.com/wp-content/uploads/2026/08/CHM1951_U_26C_SHOT-006_Aug_PSP_VGon_Multiplier_265-1.jpg?crop=0px%2C440px%2C6720px%2C3760px&resize=1000%2C563",
-                "url": "https://wwd.com/business-news/markets/cole-haan-womens-golf-apparel-category-style-and-performance-1239124712/",
-                "source": "WWD",
-                "date": "2026-08-20T04:04:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Level of interest in new savings scheme high, says banking group",
-                "desc": "Tax incentives and simplicity are main attractions in promised investment accounts - BPFI survey",
-                "image": "https://www.irishtimes.com/resizer/v2/LAVGZN6VSJEVPE3LUYSH462BXI.jpg?smart=true&auth=5b108954cfc89078e171a4e90560da08c1e35b8d96d9eba45223830c01250050&width=1200&height=630",
-                "url": "https://www.irishtimes.com/your-money/2026/08/20/level-of-interest-in-new-savings-scheme-high-says-banking-group/",
-                "source": "The Irish Times",
-                "date": "2026-08-20T04:04:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aditya Birla Capital forays into gold loan business; shares rise 3%",
-                "desc": "Aditya Birla Capital Limited is entering the gold loan business segment. The company plans to establish approximately 1,000 branches over three years. This strategic expansion complements its existing retail and MSME lending franchise. Diversified lenders are showing increased interest in India's fast-growing gold loan market. Gold loans are witnessing strong structural growth amid rising commodity prices.",
-                "image": "https://img.etimg.com/thumb/msid-133363791,width-1200,height-630,imgsize-328352,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/industry/banking/finance/aditya-birla-capital-enters-gold-loan-business-plans-to-open-1000-branches-in-3-years/articleshow/133363554.cms",
-                "source": "The Economic Times",
-                "date": "2026-08-20T04:03:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aditya Birla Capital forays into gold loan business; shares rise 3%",
-                "desc": "Aditya Birla Capital Limited is entering the gold loan business segment. The company plans to establish approximately 1,000 branches over three years. This strategic expansion complements its existing retail and MSME lending franchise. Diversified lenders are showing increased interest in India's fast-growing gold loan market. Gold loans are witnessing strong structural growth amid rising commodity prices.",
-                "image": "https://img.etimg.com/thumb/msid-133363791,width-1200,height-630,imgsize-328352,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/industry/banking/finance/aditya-birla-capital-enters-gold-loan-business-plans-to-open-1000-branches-in-3-years/articleshow/133363554.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-08-20T04:03:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Genesis GV90 Packs Luxury Features Reminiscent of Chinese SUVs",
-                "desc": "The Genesis GV90 puts the brand in the same company as the Cadillac Escalade IQ, the Mercedes-Maybach EQS SUV, and the Lucid Gravity.",
-                "image": "https://i.insider.com/6a8650d40b0f848e0c307666?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/genesis-gv90-luxury-electric-suv-china-features-coach-doors-fridge-2026-8",
-                "source": "Business Insider",
-                "date": "2026-08-20T04:03:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Coast canefarmers 'devastated' after sugar mill terminates contract",
-                "desc": "The owner of the Rocky Point sugar mill sent a notice to growers in June advising them that the mill would cease crushing their cane after the 2027 season.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/e4787ed9169b5052368e401af3260839?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-08-20/rocky-point-sugar-mill-terminates-cane-growers-contract/107051562",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-08-20T04:02:55Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Microsoft probes reports of games taking exception to Windows 11's August update",
+                "desc": "Affected titles crash, freeze, or restart PCs while Redmond works out whether it is to blame",
+                "image": "https://image.theregister.com/255533.jpg?imageId=255533&x=0&y=0&cropw=100&croph=71.67&panox=0&panoy=0&panow=100&panoh=71.67&width=1200&height=683",
+                "url": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-probes-reports-of-games-taking-exception-to-windows-11s-august-update/5290214",
+                "source": "The Register",
+                "date": "2026-08-20T11:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sennheiser Unveils the Momentum True Wireless 5 Earbuds with User Replaceable Batteries",
+                "desc": "The Sennheiser brand today announces Momentum True Wireless 5, its most advanced true wireless earbuds yet, engineered for an uncompromising listening experience wherever life takes you. Reimagined from the inside-out, they combine intelligent innovation with the inspired engineering of their...",
+                "image": "https://www.techpowerup.com/img/R4MqR1QlAV68s086.jpg",
+                "url": "https://www.techpowerup.com/351753/sennheiser-unveils-the-momentum-true-wireless-5-earbuds-with-user-replaceable-batteries",
+                "source": "TechPowerUp",
+                "date": "2026-08-20T11:02:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why a publisher you've probably not heard of is spending millions of dollars on its Gamescom presence",
+                "desc": "4Divinity's Philip Doust explains how distributing Black Myth: Wukong catalysed a major change of strategy for the China-focused publisher",
+                "image": "https://assetsio.gnwcdn.com/scf5pu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence",
+                "source": "GamesIndustry.biz",
+                "date": "2026-08-20T11:02:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poolease X1 Pool Robot Review: How Bad Can It Be?",
+                "desc": "This $110 pool robot can collect leaves from the pool floor, but dirt, silt, walls, and steps are all beyond its pay grade.",
+                "image": "https://media.wired.com/photos/6a86289d942118095017e61e/191:100/w_1280,c_limit/Review--Poolease-X1-Pool-Robot-.jpg",
+                "url": "https://www.wired.com/review/poolease-x1-pool-robot/",
+                "source": "WIRED",
+                "date": "2026-08-20T11:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Carrier pigeon messaging apps have the internet flocking",
+                "desc": "Roost and Carrier Pidge allow users to send messages to friends in the time it would take a real bird to fly from a sender to a recipient.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/19/USAT/91375417007-artboard-12-x-100.jpg?crop=3603,2026,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/tech/2026/08/20/carrier-pigeon-message-app/91339040007/",
+                "source": "USA Today",
+                "date": "2026-08-20T11:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AirPods With Cameras Held Until 2027 Despite Apple’s Video Leak",
+                "desc": "After a quick moment of excitement that new AirPods were imminent, a new report means we need to practice patience a little longer.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/5e58549fd378190007f47cf0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/davidphelan/2026/08/20/airpods-with-cameras-held-until-2027-despite-apples-video-leak/",
+                "source": "Forbes",
+                "date": "2026-08-20T11:00:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fortnite Chapter 7 Season 4 Update Release Times Revealed for All Regions, Full Schedule",
+                "desc": "Fortnite Chapter 7 Season 4 is generating major interest as players prepare for another seasonal update, but claims about exact worldwide release times need",
+                "image": "https://chshyd.in/wp-content/uploads/2026/08/POWERS-GAMING-GROWTH-1.jpg",
+                "url": "https://chshyd.in/gaming/fortnite-chapter-7-season-4-release-times/",
+                "source": "chshyd.in",
+                "date": "2026-08-20T11:00:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MSI Claw 8 EX AI+ Review: The Speediest Handheld Costs Some Serious Scratch",
+                "desc": "MSI's Claw 8 EX AI+ is the fastest, most efficient Windows gaming handheld to date, but its wallet-crushing price makes this hardware triumph an extravagant splurge.",
+                "image": "https://i.pcmag.com/imagery/reviews/04P5PufQN9YhrizzPp8pUJv-11-hero-image-gallery.fit_lim.size_1200x630.v1784657787.jpg",
+                "url": "https://www.pcmag.com/reviews/msi-claw-8-ex-ai-plus",
+                "source": "PCMag",
+                "date": "2026-08-20T11:00:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mercenary Spyware Is Attacking Apple Users In Hundreds Of Countries - Here’s How To Know If You’re A Target",
+                "desc": "Don’t ignore this kind of warning.",
+                "image": "https://s.yimg.com/lo/mysterio/api/ee3692aaa3a83104626d3e821fbf4f34e70fddb218231ce8f7c5d347d71385f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2Fd314c4fd3f861f34e1a502b957167ca7.jpg",
+                "url": "https://sg.news.yahoo.com/mercenary-spyware-attacking-apple-users-110018142.html",
+                "source": "Yahoo News Singapore",
+                "date": "2026-08-20T11:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Teardown Shows Low-Fi Microphone Is Surprisingly Sophisticated",
+                "desc": "The Ting FX EP-2350 by Teenage Engineering is a standalone microphone with a few extras, including samples and built-in effect presets that can be modified by the user. It also has a distinctive desig...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/08/Teenage-Engineering-Ting-FX-EP-2350-Teardown-0-21-screenshot-banner.png",
+                "url": "https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/",
+                "source": "Hackaday",
+                "date": "2026-08-20T11:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "From Always-On to Always Authentic: How Brands Leverage Partner Marketing to Scale Creator Campaigns",
                 "desc": "In an era where creator marketing is no longer a nice-to-have but a must-have for brand growth, this fireside chat explores how forward-thinking brands are leveraging affiliate and partner marketing solutions to fuel scalable, authentic creator strategies. Join Rakuten Advertising as we sit down with LTK",
@@ -1174,99 +1264,99 @@
                 "source": "THE MAGIC RAIN",
                 "date": "2026-08-20T04:30:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Qualcomm is launching two Snapdragon 8 Elite Gen 6 variants",
-                "desc": "Qualcomm has confirmed that the upcoming Snapdragon 8 Elite Gen 6 will have two variants at launch.",
-                "image": "https://unbox.ph/wp-content/uploads/2026/08/Snapdragon-8-Elite-Gen-6.jpg",
-                "url": "https://unbox.ph/gadget/snapdragon-8-elite-gen-6-launch/",
-                "source": "unbox.ph",
-                "date": "2026-08-20T04:13:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "JBL Just Made The Easiest Father's Day Gift $50 Easier",
-                "desc": "The Live 780NC from JBL already embarrassed headphones costing twice as much. Now it's $249 for a limited time.",
-                "image": "https://cdn.sanity.io/images/qnw8a1wy/production/6e264fef66b8fcdb9509cd5c378c4a0d1370878b-2000x1334.jpg?rect=0,142,2000,1050&w=1200&h=630&fit=crop&auto=format",
-                "url": "https://www.bosshunting.com.au/lifestyle/technology/jbl-live-780nc-fathers-day-sale",
-                "source": "bosshunting.com.au",
-                "date": "2026-08-20T04:11:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How 'Tomb Raider Legacy of Atlantis' Is Reimagining Lara Croft’s Combat & Agility",
-                "desc": "Another mini doc episode has been released by the developers of Tomb Raider: Legacy of Atlantis featuring 'combat and progression'",
-                "image": "https://manofmany.com/wp-content/uploads/2026/08/2.png",
-                "url": "https://manofmany.com/entertainment/gaming/tomb-raider-legacy-of-atlantis-combat-agility",
-                "source": "Man of Many",
-                "date": "2026-08-20T04:11:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ASUS TUF Gaming T700 Desktops Launched in PH",
-                "desc": "ASUS Philippines has launched its new TUF Gaming T700 desktop series, consisting of the TUF Gaming T700 (TM700TZ) and the smaller TUF Gaming T700 Mini (T700MF). The TUF Gaming T700 is powered by an AMD Ryzen 7 8700F processor and comes with up to an NVIDIA GeForce RTX 5060 Ti GPU. It also features 16GB…",
-                "image": "https://i0.wp.com/manilashaker.com/wp-content/uploads/2026/08/asus-tuf-gaming-t700-desktops-launched-in-ph.jpg?fit=1200%2C640&ssl=1",
-                "url": "https://manilashaker.com/asus-tuf-gaming-t700-desktops-launched-in-ph/",
-                "source": "ManilaShaker Philippines",
-                "date": "2026-08-20T04:11:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Watch Rocket Lab launch a private Japanese Earth-observing satellite to orbit today",
-                "desc": "Rocket Lab will launch its ninth mission for the Japanese Earth-imaging company iQPS this morning (Aug. 20), and you can watch the action live.",
-                "image": "https://cdn.mos.cms.futurecdn.net/L8gLoNGc6GGoDUBkTvDj27-2048-80.jpg",
-                "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-earth-observing-sar-satellite-lightning-god-defends",
-                "source": "Space",
-                "date": "2026-08-20T04:08:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Perth Family Home Built On Community + Connection",
-                "desc": "It’s the important things in life that matter in this Shenton Park new-build by Western Architecture Studio.",
-                "image": "https://thedesignfiles.wpenginepowered.com/wp-content/uploads/2026/08/archi-camphor-siding-tdf-013-2200x2860.jpg",
-                "url": "https://thedesignfiles.net/2026/08/architecture-camphor-siding-western-architecture-studio",
-                "source": "The Design Files",
-                "date": "2026-08-20T04:07:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MIT Engineers Enhance Digger Control System",
-                "desc": "Anyone who's ever wrestled with a claw machine at an arcade can appreciate the difficulty in pulling and pushing on joysticks, in just the right way",
-                "image": "https://news.mit.edu/sites/default/files/images/202608/MIT-DiggerTrainer-01-press.jpg",
-                "url": "https://www.miragenews.com/mit-engineers-enhance-digger-control-system-1730372/",
-                "source": "Mirage News",
-                "date": "2026-08-20T04:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lucidea Looks at How the Move to Hybrid and Remote Affects Knowledge Work",
-                "desc": "Lauren Hays writes The Changing Location of Work: Hybrid Library Services for Lucidea's Think Clearly blog.",
-                "image": "http://itipix.com/Misc/Newsbreaks/digest-og.jpg",
-                "url": "https://newsbreaks.infotoday.com/Digest/Lucidea-Looks-at-How-the-Move-to-Hybrid-and-Remote-Affects-Knowledge-Work-176220.asp",
-                "source": "newsbreaks.infotoday.com",
-                "date": "2026-08-20T04:02:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KAIST Solves 3D Memory Challenge with 'Oxygen Tunnel' - Boosting AI Chip Performance While Cutting Power",
-                "desc": "A research team led by Professor Kwon Ji-min at KAIST, in collaboration with UNIST, Yonsei University, and other South Korean institutions, has…",
-                "image": "https://img.biggo.com/SsJkCOIgbjcEIlYdpvQlHrYCvJ6GTvaA3GJBzwEn71s/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzQwOTkxYzk2LWY4MmMtNDFlOS1iODgxLTJkYTEzMGVmZTFmZF8xNzg3MTk4NTUwX2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/40991c96-f82c-41e9-b881-2da130efe1fd",
-                "source": "finance.biggo.com",
-                "date": "2026-08-20T04:01:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Trace Gas Impurity Can Ruin a Chip. KRISS Now Has a Way to Catch It",
-                "desc": "The Korea Research Institute of Standards and Science (KRISS, President Dr. Lee Ho Seong) has established purity analysis techniques and testing procedures for 15 high-purity gases used in semiconductor processes, and has developed six certified reference materials (CRMs) that verify measurement accuracy. This provides a foundation for objectively evaluating the quality of semiconductor gases domestically, moving beyond a reliance on the certificates of analysis provided by suppliers themselves.",
-                "image": "https://www.newswise.com/images/uploads/2026/08/19/6a8657e8bde87_image01.png",
-                "url": "https://www.newswise.com/articles/a-trace-gas-impurity-can-ruin-a-chip-kriss-now-has-a-way-to-catch-it",
-                "source": "Newswise",
-                "date": "2026-08-20T04:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Mallorca storm rips through yachts in Calvia",
+                "desc": "More storms forecast for this evening with sea surges in Menorca. From 18.00 onwards, the weather will be characterised by thunderstorms, which will keep the yellow warning in place until midnight across all the islands and virtually the whole of Mallorca",
+                "image": "https://md.gsstatic.es/sfAttachPlugin/social/194561.webp",
+                "url": "https://www.majorcadailybulletin.com/news/local/2026/08/20/145121/mallorca-storm-rips-through-yachts-calvia.html",
+                "source": "Majorca Daily Bulletin",
+                "date": "2026-08-20T11:04:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tartu marks Restoration of Independence Day with music, dance and bell ringing",
+                "desc": "Estonia's second city marked the 35th anniversary of Estonia's independence restoration Thursday with a variety of attractions for all ages.",
+                "image": "https://s.err.ee/photo/crop/2026/08/20/3775612h185ft24.jpg",
+                "url": "https://news.err.ee/1610115067/tartu-marks-restoration-of-independence-day-with-music-dance-and-bell-ringing",
+                "source": "news | ERR",
+                "date": "2026-08-20T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thailand News Roundup: Crisis, Recovery, and Development",
+                "desc": "Thailand grapples with overlapping crises, a deadly school shooting near Bangkok, severe flash flooding in Nan Province, and southern insurgency tensions, while pursuing modernization through AI initiatives, tourism fees, and energy reforms. From border security investments to economic slowdown and corruption concerns, the nation balances humanitarian needs with ambitious digital…- Thailand Business News",
+                "image": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/06/telco-fintech.jpg?fit=1285%2C723&ssl=1",
+                "url": "https://www.thailand-business-news.com/news/324074-thailand-news-roundup-crisis-recovery-and-development",
+                "source": "Thailand Business News",
+                "date": "2026-08-20T10:56:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NATO fighter jets scrambled from Europe as Russia launches onslaught on Kyiv",
+                "desc": "NATO fighter jets took off from Poland and Romania after drone crashed and exploded during a massive attack by Russia on Kyiv",
+                "image": "https://i2-prod.mirror.co.uk/article37571825.ece/ALTERNATES/s1200d/1_P1030549JPG.jpg",
+                "url": "https://www.mirror.co.uk/news/world-news/nato-fighter-jets-scrambled-ukraine-37571823",
+                "source": "The Mirror",
+                "date": "2026-08-20T10:54:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian hiker Lily Hooper found dead after family mistakenly told she was alive during 8-day search",
+                "desc": "An 18-year-old Australian hiker was found eight days after she vanished – but her anguished family was mistakenly told she was alive when she was in fact dead.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137958185.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/08/20/world-news/australian-hiker-lily-hooper-found-dead-after-family-mistakenly-told-she-was-alive-during-8-day-search/",
+                "source": "New York Post",
+                "date": "2026-08-20T10:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Secret Harbour by-election: Voter anger at major parties over housing crisis, cost-of-living plaguing seat",
+                "desc": "The mood at the ballot box across Secret Harbour isn’t just fiery — it’s also exasperation at the lack of progress on the big issues plaguing the southern suburbs seat.",
+                "image": "https://images.thewest.com.au/publication/C-22753687/607ff9b4598e40f917f7c56a4c03e63f0674e4a1-16x9-x1y0w2446h1376.jpg?imwidth=1200",
+                "url": "https://thewest.com.au/politics/state-politics/secret-harbour-by-election-voter-anger-at-major-parties-over-housing-crisis-cost-of-living-plaguing-seat-c-22753687",
+                "source": "The West Australian",
+                "date": "2026-08-20T10:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zambian Minister Killed During Security Raid",
+                "desc": "Former Zambian minister Mutotwe Kafwaya was killed during a security raid linked to the opposition leader. Learn more about the Zambian minister killed.",
+                "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/20114828/20a4f320-9c6f-11f1-a291-b542ee92de7c.jpg_1787222908.webp",
+                "url": "https://punchng.com/ex-zambian-minister-killed-during-security-raid-police/",
+                "source": "Punch Newspapers",
+                "date": "2026-08-20T10:52:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenya in List of Top 10 African Countries with Highest Quality of Roads, Ties with Tanzania",
+                "desc": "Kenya has been ranked among the top 10 African countries with the highest quality of roads, tying with regional rival Tanzania. Both emerged seventh.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/63e8e1b5fbbb106d.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/business-economy/economy/636963-kenya-list-top-10-african-countries-highest-quality-roads-ties-tanzania/",
+                "source": "Tuko News",
+                "date": "2026-08-20T10:51:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Panuel calls for smarter capital management to drive Africa’s next growth cycle",
+                "desc": "Panuel, an investment-management company with a focus on international finance and global trade, has advocated for smarter capital",
+                "image": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2021/08/pmnewslogo-75x50.gif",
+                "url": "https://pmnewsnigeria.com/2026/08/20/panuel-calls-for-smarter-capital-management-to-drive-africas-next-growth-cycle/",
+                "source": "PM News Nigeria",
+                "date": "2026-08-20T10:50:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xi congratulates Hichilema on re-election as Zambian president",
+                "desc": "Chinese President Xi Jinping on Thursday congratulated Hakainde Hichilema on his re-election as president of Zambia.",
+                "image": "https://news.cgtn.com/news/2026-08-20/Xi-congratulates-Hichilema-on-re-election-as-Zambian-president-1PLrclyBLLa/img/2910749c09b544789d55f50f738235fe/2910749c09b544789d55f50f738235fe-1920.png",
+                "url": "https://news.cgtn.com/news/2026-08-20/Xi-congratulates-Hichilema-on-re-election-as-Zambian-president-1PLrclyBLLa/p.html",
+                "source": "news.cgtn.com",
+                "date": "2026-08-20T10:49:36Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Prince Harry and Meghan are returning to the UK with their children, British newspaper says",
                 "desc": "Peter Hunt, a former BBC royal correspondent, said the surprise announcement would make Prince William 'apoplectic'.",
@@ -1806,98 +1896,8 @@
                 "source": "Al Jazeera",
                 "date": "2026-08-20T05:02:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Icebreaker of Knowledge: Myanmar student joins Arctic expedition to North Pole",
-                "desc": "A student from Myanmar, Phyo Thu Min Thit, was among 68 young participants from Russia and 22 countries who took part in the seventh international scientific and educational expedition “Icebreaker of Knowledge,” organized with the support of Rosatom.",
-                "image": "https://www.myanmaritv.com/sites/default/files/styles/meta_image/public/20.8.2026.%20ICEBREAKER%20KNOWLEDGE%20%281%29.jpg?itok=VcePTuCi",
-                "url": "https://www.myanmaritv.com/news/icebreaker-knowledge-myanmar-student-joins-arctic-expedition-north-pole",
-                "source": "Myanmar International TV",
-                "date": "2026-08-20T04:11:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine's military reportedly strikes Russian oil refinery, terminal in latest drone attack",
-                "desc": "Ukrainian drones reportedly struck an oil refinery in the Russian Republic of Tatarstan and an oil terminal in Krasnodar Krai overnight on Aug. 20, as Ukraine continues its campaign targeting Russian oil infrastructure.",
-                "image": "https://assets.kyivindependent.com/content/images/2026/05/GettyImages-611563980_20260505-185542.jpg",
-                "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-oil-refinery/",
-                "source": "The Kyiv Independent",
-                "date": "2026-08-20T04:09:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "He Got an H-1B Visa, but Uncertainty Makes It Hard to Plan His Future",
-                "desc": "Madhur Mehta worried about his US visa status. When he was selected in the H-1B lottery, \"it was like someone had taken a 100-pound weight off my mind,\" he told Business Insider.",
-                "image": "https://i.insider.com/6a79d3918fcc2e955f7defa7?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/h1b-lottery-visa-working-amazon-building-life-home-family-america-2026-8",
-                "source": "Business Insider",
-                "date": "2026-08-20T04:06:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Larry David says former friend Alan Dershowitz ‘made a deal with the devil’ as Trump’s lawyer",
-                "desc": "The Seinfeld and Curb Your Enthusiasm creator says Dershowitz, who has also defended Jeffrey Epstein and Harvey Weinstein, ‘only has himself to blame’ for being ostracised",
-                "image": "https://i.guim.co.uk/img/media/9bcbdb9e43ba55ae32bfff48c924e9a9ce2d0489/263_0_2625_2100/master/2625.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16c9c3df2707c0b9dca3642b4a4b6203",
-                "url": "https://www.theguardian.com/tv-and-radio/2026/aug/20/larry-david-alan-dershowitz-friendship-trump-epstein",
-                "source": "The Guardian",
-                "date": "2026-08-20T04:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Champagne growers race to preserve quality in record-early harvest",
-                "desc": "Champagne producers are racing to pick grapes as the region experiences its earliest harvest on record.",
-                "image": "https://dims.apnews.com/dims4/default/844f826/2147483647/strip/true/crop/7841x5225+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F11%2Fb8%2F59170d6f6c4c248385ea7c3b8026%2F352348aebb5345d48b367bc2c0f9868b",
-                "url": "https://apnews.com/article/champagne-record-early-harvest-heat-drought-4d639c52469a5a6e36e4940b834a8ba9",
-                "source": "AP News",
-                "date": "2026-08-20T04:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UUP's Robbie Butler announced as Stormont health minister",
-                "desc": "Ulster Unionist Party MLA Robbie Butler has been announced as Stormont's health minister, replacing Mike Nesbitt who stepped down earlier this week.",
-                "image": "https://www.rte.ie/images/0024ded6-1600.jpg",
-                "url": "https://www.rte.ie/news/ulster/2026/0820/1588593-ulster-health/",
-                "source": "RTE.ie",
-                "date": "2026-08-20T04:04:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UUP leader set to announce new Stormont Health Minister",
-                "desc": "UUP leader Jon Burrows is set to name the next Stormont Health Minister later.",
-                "image": "https://www.rte.ie/images/0023e6e7-1600.jpg",
-                "url": "https://www.rte.ie/news/ulster/2026/0820/1588593-ulster-health-regional/",
-                "source": "RTE.ie",
-                "date": "2026-08-20T04:04:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Venezuela's main airport finds ways to reopen post-earthquakes",
-                "desc": "Venezuela carried out a readiness drill to test the provisional terminals installed at the airport that serves Caracas, which was damaged in June's twin earthquakes.",
-                "image": "https://globalnation.inquirer.net/files/2026/08/Venezuelas-main-airport-finds-ways-to-reopen-post-earthquakes-scaled.jpg",
-                "url": "https://globalnation.inquirer.net/335354/venezuelas-main-airport-finds-ways-to-reopen-post-earthquakes",
-                "source": "globalnation.inquirer.net",
-                "date": "2026-08-20T04:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prince Harry and Meghan moving back to UK: British press",
-                "desc": "Six years after stepping down as working royals, Prince Harry and his wife Meghan are moving back to the United Kingdom within weeks, British press reported.",
-                "image": "https://www.enca.com/sites/default/files/styles/large/public/afp/2026-08/doc-C6347ZR-%40photo0.jpg.webp?itok=RM-iVoCu",
-                "url": "https://www.enca.com/lifestyle-top-stories/prince-harry-and-meghan-moving-back-uk-british-press",
-                "source": "enca.com",
-                "date": "2026-08-20T04:02:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "North Korea fires suspected missile as US move to cut drills with South Korea 'changes nothing'",
-                "desc": "Pyongyang says scaling back US-South Korean military drills does not make them less provocative, as Japan says North Korea fired a suspected ballistic missile towards the sea.",
-                "image": "https://images.euronews.com/articles/stories/09/88/12/98/1200x675_cmsv2_853beaec-5ccb-5471-a264-8d60a37ed188-9881298.jpg",
-                "url": "https://www.euronews.com/2026/08/20/north-korea-says-trumps-scale-back-of-joint-military-exercises-with-south-korea-changes-no",
-                "source": "Euronews.com",
-                "date": "2026-08-20T04:02:29Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-20T22:02:55.536499Z"
+    "lastGlobalSync": "2026-08-20T23:04:22.290686Z"
 }
