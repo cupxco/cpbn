@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Merck is finding more ways to boost its shares, Morgan Stanley says",
+                "desc": "Merck, which makes the popular cancer treatment Keytruda, is poised to gain ground as its pipeline drugs get close to coming to market, per Morgan Stanley.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108297768-1777307522433-108297768-1777307464513-gettyimages-2258805744-img_7440.jpg?v=1777307541&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/20/merck-is-finding-more-ways-to-boost-its-shares-morgan-stanley-says.html",
+                "source": "CNBC",
+                "date": "2026-08-20T12:01:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Education Department Walks Back $0 Income Claims in Student-Loan Case - Says Database Glitch Erased Borrowers’ Older Income Data",
+                "desc": "The U.S. Department of Education corrected a court filing after incorrectly stating that five student-loan borrowers in an ongoing lawsuit had most recently reported $0 in income. The correction was f...",
+                "image": "https://s.yimg.com/lo/mysterio/api/2ec59956bd20bc82110af9c6efc8d71dc46919f7dd5f78819ce89be204de987f/lightyear_networkapi/resizefill_w1024_h720%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fe59f9b18aa0e7ff984a4552ffe417323.jpg",
+                "url": "https://www.yahoo.com/news/politics/articles/education-department-walks-back-0-120104472.html",
+                "source": "Yahoo",
+                "date": "2026-08-20T12:01:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+                "desc": "Zombie Card rewrites Visa NFC expiry data in transit, reviving expired cards at one tested U.S. bank without breaking card cryptography.",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsJMUJluWegBU4C6RiZ4QHg6rTqhFHMt5JJt3RR2K7l06c3FOFlnq8gIVuBqVUX8qsJFiAh6KKAlDXpVAydAoC2rM0dUKUayta50sqRXoW36_V2OgSXJBKaaAFY4boBYhtHkqeyBaBZavbo7bz3S8otNwyb3NUmW9j88edph6zAfnyJikYhLBrAHuCdBA/s1700-e365/visa.jpg",
+                "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
+                "source": "The Hacker News",
+                "date": "2026-08-20T12:01:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Cork-founded construction group Sisk sees profits pass €74m",
+                "desc": "Construction group Sisk this week reported turnover of €2.624bn in its latest financial results.",
+                "image": "https://www.echolive.ie/cms_media/module_img/10398/5199427_1_org_LC_20housing_2002.jpg",
+                "url": "https://www.echolive.ie/corknews/arid-41898736.html",
+                "source": "echo live",
+                "date": "2026-08-20T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tyndall to begin building work at Distillery Fields on city's North Mall next week",
+                "desc": "UCC and the Tyndall Institute were granted planning permission in 2023 for the €100m redevelopment of the site into a new purpose-built research ...",
+                "image": "https://www.echolive.ie/cms_media/module_img/10398/5199412_1_org_Tyndall_20North.jpg",
+                "url": "https://www.echolive.ie/corknews/arid-41898724.html",
+                "source": "echo live",
+                "date": "2026-08-20T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mortgage rates ease again, but remain higher than this time last year",
+                "desc": "Mortgage rates eased for the second straight week, with the average 30-year fixed rate slipping to 6.65%, though borrowing costs remain above year-ago levels.",
+                "image": "https://www.floridarealtors.org/sites/default/files/2023-12/gettyimages-1287663767.jpg",
+                "url": "https://www.floridarealtors.org/news-media/news-articles/2026/08/mortgage-rates-ease-again-remain-higher-time-last-year",
+                "source": "| Florida Realtors",
+                "date": "2026-08-20T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spuds return to Central Saanich fields after 40-year ban",
+                "desc": "Potatoes are being harvested in Central Saanich for the first time in more than four decades after the federal government quietly lifted a ban.",
+                "image": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/08/web1_vka-potatos-22423.jpg;w=1000;h=666;mode=crop",
+                "url": "https://www.timescolonist.com/local-news/spuds-return-to-central-saanich-fields-after-40-year-parasite-ban-lifted-12684680",
+                "source": "Times Colonist",
+                "date": "2026-08-20T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "No Listing Confirmed, Fake Tokens Warned",
+                "desc": "Pepeto news: the presale remains open with no confirmed exchange listing, while the project warns buyers about fake PEPETO tokens on DEXs.",
+                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/August2026/pepeto-news-no-listing-fake-token-warning-8685.webp",
+                "url": "https://www.coingabbar.com/en/crypto-currency-news/pepeto-news-no-listing-fake-token-warning",
+                "source": "Coin Gabbar",
+                "date": "2026-08-20T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What to Expect After TikWallet Launch?",
+                "desc": "TikCoin Network News: TikWallet trading starts August 20 with KYC rules, token unlocks, scam warnings and an October 10 exchange listing plan.",
+                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/August2026/tikcoin-network-listing-date-tikwallet-trading-august-20-2026-5453.webp",
+                "url": "https://www.coingabbar.com/en/crypto-currency-news/tikcoin-network-listing-date-tikwallet-trading-august-20-2026",
+                "source": "Coin Gabbar",
+                "date": "2026-08-20T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Where did all the XXL clothes go? Fashion brands are scrapping plus sizes in the GLP-1 era",
+                "desc": "As weight-loss drugs gain popularity in the US, brands are scaling back their ranges – and frustrating customers",
+                "image": "https://i.guim.co.uk/img/media/ae74d3d3d1e86fd21ebc6fd8533d9a4bc861e93b/42_0_2319_1854/master/2319.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8d0c4dfb4890e1dc2c63afd1fb5ed48",
+                "url": "https://www.theguardian.com/fashion/ng-interactive/2026/aug/20/plus-size-clothes-glp-1",
+                "source": "The Guardian",
+                "date": "2026-08-20T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Bride loses $3,200 to closed Korean bridal studio",
                 "desc": "A bride-to-be lost $3,200 to a Korean bridal studio after it abruptly ceased operations, leaving customers with prepayment losses.",
                 "image": "https://cassette.sphdigital.com.sg/image/stomp/d8821ac8f495dcac77c348392636498717710129a4617044eaaab2ceb1376165",
@@ -542,99 +632,99 @@
                 "source": "Irish Mirror",
                 "date": "2026-08-20T06:02:12Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Medical Developments International Limited (MDDVF) Q4 2026 Earnings Call Transcript",
-                "desc": "Medical Developments International Limited (MDDVF) Q4 2026 Earnings Call August 19, 2026 9:00 PM EDTCompany ParticipantsBrent MacGregor - Chief Executive...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4938550-medical-developments-international-limited-mddvf-q4-2026-earnings-call-transcript",
-                "source": "Seeking Alpha",
-                "date": "2026-08-20T05:11:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Schoeller-Bleckmann Oilfield Equipment: New Upcycle, H1 Bookings Rise",
-                "desc": "20.08.2026 - SBO AG enters 2026 with rising bookings and a growing order backlog, hinting at a new upcycle even as profitability and sales remain under pressure.",
-                "image": "https://assets.wallstreet-online.de/_media/3129/unternehmen/branchen/oel-gas/size_645/oel1-adobe-stock.jpg",
-                "url": "https://www.wallstreet-online.de/nachricht/21263649-schoeller-bleckmann-oilfield-equipment-new-upcycle-h1-bookings-rise",
-                "source": "Wallstreet Online",
-                "date": "2026-08-20T05:08:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South West cider farms report 'lighter' apple crops due to heat",
-                "desc": "Devon and Cornwall producers say there will still be 'plenty of cider' this season.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ef12/live/cc4661e0-9bd5-11f1-bb4d-1147ef2e78e5.jpg",
-                "url": "https://www.bbc.com/news/articles/ckg9lxmn8r0o",
-                "source": "BBC",
-                "date": "2026-08-20T05:08:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GCSE students in West Midlands urged to consider degree apprenticeships",
-                "desc": "On GCSE results day, one option for pupils could be apprenticeships, a Warwick firm says.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/652e/live/cab878a0-9c06-11f1-aed2-8d6da8d75094.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c07r3vzeed4o",
-                "source": "BBC",
-                "date": "2026-08-20T05:08:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Emerging Asian shares, currencies rise on softer US Treasury yields, dollar",
-                "desc": "Most emerging Asian stocks found their footing and currencies hit a record high on Thursday as a pullback in US Treasury yields and a softer dollar boosted risk sentiment after Washington stepped in to calm bond market jitters.",
-                "image": "https://assets.theedgemarkets.com/Emerging-Markets222_theedgemalaysia_196_20250527160708_theedgemalaysia_97.jpg",
-                "url": "https://theedgemalaysia.com/node/815209",
-                "source": "The Edge Malaysia",
-                "date": "2026-08-20T05:08:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta boss Mark Zuckerberg buys castle in Co Waterford",
-                "desc": "Tech billionaire and wife acquire Strancally Castle in off-market transaction",
-                "image": "https://www.irishtimes.com/resizer/v2/SJXS7AOM75GPPLR3YI33JSS52E.jpg?smart=true&auth=c55d758be6a289957ca2e293633357a7aa150aae5e2cfbc147e748cce8e9c706&width=1200&height=630",
-                "url": "https://www.irishtimes.com/property/2026/08/20/meta-boss-mark-zuckerberg-buys-co-waterford-castle/",
-                "source": "The Irish Times",
-                "date": "2026-08-20T05:06:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aegon announces Chief Financial Officer transition",
-                "desc": "Schiphol, August 20, 2026 - Aegon today announced that, in connection with the planned move of its head office and legal seat to the United States, it has agreed with Duncan Russell that he will step down as Chief Financial Officer and leave the company in April 2027. Aegon has initiated a search for his successor.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/20/1183737.jpg",
-                "url": "https://www.manilatimes.net/2026/08/20/tmt-newswire/globenewswire/aegon-announces-chief-financial-officer-transition/2408940",
-                "source": "The Manila Times",
-                "date": "2026-08-20T05:06:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Treasury Approves Trump Family's Crypto Business to Operate as Banks, Sets Limitations",
-                "desc": "The US Treasury has granted World Liberty Trust Company, linked to the Trump family, preliminary approval to operate as a bank, but with some limitations.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/50215e33eeb1a409.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/business-economy/636899-us-treasury-approves-trump-familys-crypto-business-start-bank-operations/",
-                "source": "Tuko News",
-                "date": "2026-08-20T05:06:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Northumberland A1 dualling PM comments spark new optimism",
-                "desc": "Andy Burnham says the government will look into an \"alternative way\" of funding the scheme.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ec5/live/1505a710-9bf9-11f1-bbc9-198f60b94eaf.png",
-                "url": "https://www.bbc.co.uk/news/articles/cpvwg1lgv97o",
-                "source": "BBC",
-                "date": "2026-08-20T05:04:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Northumberland A1 dualling PM comments spark new optimism",
-                "desc": "Andy Burnham says the government will look into an \"alternative way\" of funding the scheme.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8ec5/live/1505a710-9bf9-11f1-bbc9-198f60b94eaf.png",
-                "url": "https://www.bbc.com/news/articles/cpvwg1lgv97o",
-                "source": "BBC",
-                "date": "2026-08-20T05:04:32Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "How to keep your car and home safe during hot weather",
+                "desc": "Long, hot summer days means we're out and about more frequently and often drop our guard.",
+                "image": "https://www.rte.ie/images/0024dd64-1600.jpg",
+                "url": "https://www.rte.ie/lifestyle/living/2026/0820/1588334-how-to-keep-your-car-and-home-safe-during-hot-weather/",
+                "source": "RTE.ie",
+                "date": "2026-08-20T12:00:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Robert Rodriguez Wants To Make New York Fashion New Again",
+                "desc": "The designer who cut his teeth at Christian Dior is leading the 2000s it-brand, Derek Lam, back into defining what New York fashion could be.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a859ea554f690f5d38883db/0x0.jpg?format=jpg&crop=814,457,x0,y428,safe&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/rebeccasuhrawardi/2026/08/20/robert-rodriguez-wants-to-make-new-york-fashion-new-again/",
+                "source": "Forbes",
+                "date": "2026-08-20T12:00:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold Gold Adventure Gold 1.2 Patch is now Live!",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/05/152110-a1f58592/Capsule03.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=2d491f6b43bef90113846143631143754bbe5b4d4543e9e73971de31706b4f20",
+                "url": "https://www.gamespress.com/Gold-Gold-Adventure-Gold-12-Patch-Update",
+                "source": "Games Press",
+                "date": "2026-08-20T12:00:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI helps turn citizen photos into water-level data",
+                "desc": "For the past 15 years, Christopher Lowry, Ph.D., has led CrowdHydrology, a University at Buffalo citizen-science project that relies on thousands of volunteers to collect water-level observations from streams and other waterways ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/ai-helps-turn-citizen.jpg",
+                "url": "https://techxplore.com/news/2026-08-ai-citizen-photos.html",
+                "source": "Tech Xplore",
+                "date": "2026-08-20T12:00:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mafix raises $5.4m to activate silicate rock into fertilizer",
+                "desc": "Mafix raises $5.4m to scale enhanced rock weathering tech designed to remove carbon, boost crop yields and reduce fertilizer use.",
+                "image": "https://agfundernews.com/wp-content/uploads/2026/08/Jade-Marcus-PhD-cofounder-Mafix-Image-credit-Mafix.jpg",
+                "url": "https://agfundernews.com/mafix-raises-5-4m-to-activate-silicate-rock-into-climate-smart-fertilizer",
+                "source": "AgFunderNews",
+                "date": "2026-08-20T12:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "“Love Machines”: James Muldoon on How AI Is Changing Relationships & the Global Workers Fueling AI",
+                "desc": "James Muldoon is a sociologist who writes about the changing nature of human-technology relationships. Love Machines: How Artificial Intelligence Is Transforming Our Relationships investigates how people form emotional attachments with large language models, including OpenAI’s ChatGPT and Anthropic’s Claude. Feeding the Machine: The Hidden Human Labor Powering A.I., co-written by fellow researchers Mark Graham and Callum Cant and based on more than a decade of fieldwork, follows Global South",
+                "image": "https://www.democracynow.org/images/story/46/83246/full_hd/SEG2-Muldoon-India-Labor-Training.jpg",
+                "url": "https://www.democracynow.org/2026/8/20/james_muldoon_ai_love_machines",
+                "source": "Democracy Now!",
+                "date": "2026-08-20T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta glasses are a workplace menace",
+                "desc": "Meta glasses are quickly becoming a problem in workplaces. Public-facing workers are being filmed, harassed, and creeped out by AI-powered smart glasses.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268688_Smart_glasses_at_work__CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
+                "source": "The Verge",
+                "date": "2026-08-20T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 Gameplay Leaker Has an Actual Build of the Game, Still Posting Leaks",
+                "desc": "Update #3: Leaker proves they have the game in some form - Multiple videos of what appear to be legitimate GTA 6 gameplay are currently being posted to the I...",
+                "image": "https://images.pushsquare.com/bc1574be15136/large.jpg",
+                "url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaker-has-an-actual-build-of-the-game-still-posting-leaks",
+                "source": "Push Square",
+                "date": "2026-08-20T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Record-low deal: Get $200 off Amazon's 50-inch Omni QLED 4K TV",
+                "desc": "As of Aug. 20, the Amazon Fire TV 50-inch Omni QLED 4K TV has been discounted from $469.99 to $269.99 at Amazon, making for 43% in savings.",
+                "image": "https://helios-i.mashable.com/imagery/articles/02iVrLVQsojspfkfOXAAspS/hero-image.fill.size_1200x675.v1787218842.jpg",
+                "url": "https://mashable.com/tech/aug-20-amazon-fire-tv-omni-qled-4k-tv-deal",
+                "source": "Mashable",
+                "date": "2026-08-20T11:58:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The best back to school deals to shop at Amazon before term starts, from laptops to stationery",
+                "desc": "For uni students, school kids and people who just love new stationery, we've rounded up the best deals on laptops, stationery, lunchboxes and more. Shop now.",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/a00cd830-8c90-4cf3-9dce-97cf0889dbc7.jpg?crop=1.00xw:0.752xh;0,0.135xh&resize=1200:*",
+                "url": "https://www.goodhousekeeping.com/uk/product-reviews/parenting/g73481700/amazon-back-to-school-deals/",
+                "source": "Good Housekeeping",
+                "date": "2026-08-20T11:56:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Microsoft probes reports of games taking exception to Windows 11's August update",
                 "desc": "Affected titles crash, freeze, or restart PCs while Redmond works out whether it is to blame",
@@ -1174,99 +1264,99 @@
                 "source": "Telecompaper",
                 "date": "2026-08-20T05:41:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "LG launches campaign to tackle domestic mental load",
-                "desc": "Survey findings suggest domestic chores are fuelling stress for many adults, with LG pitching smart appliances as a way to ease the burden.",
-                "image": "https://channellife.co.nz/uploads/story/2026/08/20/compatible_image003-story-317146.jpg",
-                "url": "https://channellife.co.nz/story/lg-launches-campaign-to-tackle-domestic-mental-load",
-                "source": "channellife.co.nz",
-                "date": "2026-08-20T05:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "“HALLOWEEN: THE GAME” BANNED IN AUSTRALIA AND NEW ZEALAND",
-                "desc": "We’re less than a month away from the release of Halloween: The Game. There’s a great deal of hype surrounding the franchise’s leap into multiplayer horror gaming, with the Halloween brand promoting the venture non-stop. Everything seems set to be quite the success, but now, we’ve hit a bump in the road. According to the ...Read More",
-                "image": "https://www.screamhorrormag.com/wp-content/uploads/2026/08/Halloween-The-Game-banner-scaled-e1786711455397.jpg",
-                "url": "https://www.screamhorrormag.com/halloween-the-game-banned-in-australia-and-new-zealand/",
-                "source": "screamhorrormag.com",
-                "date": "2026-08-20T05:09:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Moozi and Dentsu Redder launch gamified Minecraft world to engage Gen Alpha in Vietnam",
-                "desc": "Moozi and Dentsu Redder launch Mooziland, a branded Minecraft world in Vietnam, to engage Gen Alpha through interactive brand experiences.",
-                "image": "https://marketech-apac.com/wp-content/uploads/2026/08/Moozi-and-Dentsu-Redder-launch-gamified-Minecraft-world-to-engage-Gen-Alpha-in-Vietnam.webp",
-                "url": "https://marketech-apac.com/moozi-and-dentsu-redder-launch-gamified-minecraft-world-to-engage-gen-alpha-in-vietnam/",
-                "source": "marketech apac",
-                "date": "2026-08-20T05:03:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LG Looks to ‘Free Up Your Mind’ in Global Campaign Highlighting LG AI",
-                "desc": "LG’s new global campaign looks at the mental load of modern life and how LG AI can help manage it.",
-                "image": "https://www.brandinginasia.com/wp-content/uploads/2026/08/LG-Campaign-1-1.webp",
-                "url": "https://www.brandinginasia.com/lg-looks-to-free-up-your-mind-in-global-campaign-highlighting-lg-ai/",
-                "source": "Branding in Asia",
-                "date": "2026-08-20T05:03:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Czapek goes transparent with the new Promenade Transparencies Aqua Blue",
-                "desc": "Czapek expands the Promenade collection with the Transparencies Aqua Blue with a smoked sapphire dial to subtly showcase the movement.",
-                "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2026/08/Czapek-Promenade-Transparence-AMB01-1.jpg?fit=1200%2C1599&ssl=1",
-                "url": "https://deployant.com/czapek-goes-transparent-with-the-new-promenade-transparencies-aqua-blue/",
-                "source": "Deployant :",
-                "date": "2026-08-20T05:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple’s camera-equipped AI AirPods remain on track for 2027 despite video leak",
-                "desc": "An Apple Inc effort to sell camera-equipped AirPods remains on track for 2027, despite a leak from the company indicating that the product might arrive sooner.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/20/4068866.jpg",
-                "url": "https://www.thestar.com.my/tech/tech-news/2026/08/20/apples-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak",
-                "source": "The Star",
-                "date": "2026-08-20T05:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "JB Hi-Fi Stuffed Up Wolverine DualSense Controller Pre-Orders But They're Copping It",
-                "desc": "JB Hi-Fi Stuffed Up Wolverine DualSense Controller Pre-Orders But They're Copping It",
-                "image": "https://press-start.com.au/wp-content/uploads/2026/08/JB-Orderrr.jpg",
-                "url": "https://press-start.com.au/news/playstation/2026/08/20/jb-hi-fi-stuffed-up-wolverine-dualsense-controller-pre-orders-but-theyre-copping-it/",
-                "source": "Press Start Australia",
-                "date": "2026-08-20T04:59:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pixel 11's hidden upgrade finally solves Android's biggest search problem",
-                "desc": "A unified search tool",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-11-pro-screen-log.JPG?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/google-pixel-11-hidden-upgrade-solves-androids-biggest-search-problem/",
-                "source": "androidpolice.com",
-                "date": "2026-08-20T04:32:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Linux 7.3 will boost minimum framerates by 7x on older CPUs, which is perfect in this hardware crisis",
-                "desc": "It won't release for a little while, though.",
-                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/linux-laptop-tools.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.xda-developers.com/linux-73-will-boost-minimum-framerates-by-7x-on-older-cpus-which-is-perfect-in-this-hardware-crisis/",
-                "source": "XDA",
-                "date": "2026-08-20T04:32:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Alighieri Circle: Dante's Bloodline Launches this September 10 on PC, PS5 and XBOX",
-                "desc": "Spanish independent publisher Entalto Publishing and Italian independent developer ONE O ONE GAMES announced that The Alighieri Circle:…",
-                "image": "https://themagicrain.com/wp-content/uploads/2026/08/maxresdefault.jpg",
-                "url": "https://themagicrain.com/2026/08/the-alighieri-circle-dantes-bloodline-launches-this-september-10-on-pc-ps5-and-xbox/",
-                "source": "THE MAGIC RAIN",
-                "date": "2026-08-20T04:30:20Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Lost city in area tied to biblical Exodus may have finally been discovered in Egypt",
+                "desc": "Egypt archaeologists uncovered a sandstone lintel bearing Ramesses II titles at Tell Abu Seifi, strengthening a hypothesis linking the site to the lost ancient city of Mesen.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/EGYPT-ANCIENT-FIND-BIBLICAL-EXODUS-HISTORY-DISCOVERY-ARCHAEOLOGY-2.jpg",
+                "url": "https://www.foxnews.com/travel/lost-city-area-tied-biblical-exodus-may-have-finally-been-discovered-egypt",
+                "source": "Fox News",
+                "date": "2026-08-20T12:00:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Grain SA sees tighter margins for 2026/2027 summer grain season",
+                "desc": "Lower grain prices and high input costs are set to keep pressure on farm returns as producers plan for the 2026/2027 season.",
+                "image": "https://millingmea.com/wp-content/uploads/2026/08/Grain-SA-Financials.jpg",
+                "url": "https://millingmea.com/grain-sa-sees-tighter-margins-for-2026-2027-summer-grain-season/",
+                "source": "Milling Middle East & Africa",
+                "date": "2026-08-20T12:00:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Five Alabama Companies Join $920 Million Air Force Project",
+                "desc": "Discover the five Alabama companies selected for a $920 million Air Force contract to modernize aerospace equipment.",
+                "image": "https://256today.com/wp-content/uploads/2026/08/613630731_1315016973990066_1313528313021678094_n.jpg",
+                "url": "https://256today.com/five-alabama-companies-selected-for-920-million-air-force-contract/",
+                "source": "256 Today",
+                "date": "2026-08-20T12:00:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "North Korea fires up to 10 ballistic missiles toward sea, hours after Trump speaks of re-engagement",
+                "desc": "South Korea's presidential office condemned North Korea's launch of more than 10 short-range ballistic missiles on Thursday and ordered its military to maintain full readiness during ongoing joint ​exercises with the United States.",
+                "image": "https://i.cbc.ca/ais/af3cc36b-f98a-4fc7-be00-06f1a303097d,1787224971910/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5575%2C3135%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/north-korea-missile-launch-ulchi-freedom-trump-9.7313643",
+                "source": "CBC",
+                "date": "2026-08-20T11:58:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Finland Announces Conditions Foreign Children Must Meet to Become Citizens",
+                "desc": "Finland has mentioned the requirements that foreign children must meet to become citizens. The application process was also explained in this article.",
+                "image": "https://cdn.legit.ng/images/1200x675/a2e0b97abb30b27f.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1726260-finland-lists-requirements-foreign-children-citizens/",
+                "source": "Legit.ng",
+                "date": "2026-08-20T11:52:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Woman Who Worked as Cashier While Studying Law Becomes Attorney",
+                "desc": "Fortune, a newly admitted attorney, built personal independence through a cashier job and now aims to open her own law firm focusing on human rights.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/d834ec01d09d91eb.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/people/relationships/636976-woman-worked-cashier-studying-law-attorney/",
+                "source": "Tuko News",
+                "date": "2026-08-20T11:51:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bodies of 2 Belgian hikers missing since 1992 uncovered in melting Swiss glacier",
+                "desc": "A melting glacier in the Swiss Alps revealed the remains of two Belgian mountaineers who vanished in 1992. DNA testing confirmed their identities, police in Valais said.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/trift-glacier-suspension-bridge.jpg",
+                "url": "https://www.foxnews.com/world/melting-swiss-glacier-reveals-remains-two-belgian-mountaineers-missing-1992",
+                "source": "Fox News",
+                "date": "2026-08-20T11:49:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lily Hooper: Missing hiker found dead in Australia, police apologize for ‘miscommunication’ that she was still alive",
+                "desc": "Police in Australia have apologized after the family of an 18-year-old hiker missing in dense bushland for eight days was mistakenly informed that she had been found alive.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/img-1715.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/20/australia/lily-hooper-hiker-death-scli-intl",
+                "source": "CNN",
+                "date": "2026-08-20T11:49:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "North Korea fires ballistic missiles into sea as South Korea, US hold scaled",
+                "desc": "The ballistic missile launch comes a day after US President Donald Trump said he would visit North Korean leader Kim Jong Un this year.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/fc083f967bbaf219441bbb7f7d0d6e8f?impolicy=wcms_watermark_news&cropH=2744&cropW=4878&xPos=0&yPos=508&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-08-20/north-korea-fires-missiles-as-us-holds-military-drills/107061138",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-08-20T11:48:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Who was Hind Rajab and why is Israel investigating her killing?",
+                "desc": "After two years of denial, Israel admits firing on the 5-year-old’s car. But her family and others don’t expect justice.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2024/02/Hind-1707294845.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing",
+                "source": "Al Jazeera",
+                "date": "2026-08-20T11:48:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Mallorca storm rips through yachts in Calvia",
                 "desc": "More storms forecast for this evening with sea surges in Menorca. From 18.00 onwards, the weather will be characterised by thunderstorms, which will keep the yellow warning in place until midnight across all the islands and virtually the whole of Mallorca",
@@ -1806,98 +1896,8 @@
                 "source": "allAfrica.com",
                 "date": "2026-08-20T05:58:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Giant Whales Move Into Greenland Waters As Ice Disappears",
-                "desc": "TVC News Nigeria is a 24-hour Nigeria-centric news, current affairs and documentary channel. The channel provides real-time, reliable and accurate news to Nigerians...",
-                "image": "https://tvcnews.tv/wp-content/uploads/2026/08/IMG_3862.webp",
-                "url": "https://www.tvcnews.tv/giant-whales-move-into-greenland-waters-as-ice-disappears/",
-                "source": "TVC News",
-                "date": "2026-08-20T05:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump scaling down U.S.-South Korea drills could risk more than just joint military readiness",
-                "desc": "The move by Trump also will start to raise questions about the credibility of Washington's commitment to alliances.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108351917-1787194970294-gettyimages-2228863853-csj11343_unvnmg4c.jpeg?v=1787195424&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/20/trump-south-korea-military-drills-cuts-.html",
-                "source": "CNBC",
-                "date": "2026-08-20T05:08:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Historic boat from Serbia's turbulent past resurfaces in Sava River",
-                "desc": "The wreck of a steam tugboat from the early 1900s has emerged from shrinking waters in Serbia. The vessel, known as the Slovenian, surfaced from the Sava River near Sremska Mitrovica, northwest of Belgrade.",
-                "image": "https://dims.apnews.com/dims4/default/1eb05b5/2147483647/strip/true/crop/3365x2242+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe0%2F9b%2F28a7915fc553baa20a226d025c71%2Ff3c3729ad2c04ea4a26a628da5e1f5c6",
-                "url": "https://apnews.com/article/serbia-rivers-drought-boat-heat-a6ea3fdba13e77674c79eb4032910103",
-                "source": "AP News",
-                "date": "2026-08-20T05:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-                "desc": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg",
-                "url": "https://www.bbc.com/news/articles/cd0x9mjjmgjo",
-                "source": "BBC",
-                "date": "2026-08-20T05:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PATA Gold Awards 2026 recognises 26 travel initiatives across Asia-Pacific",
-                "desc": "PATA has revealed the winners of the 2026 PATA Gold Awards, honouring 26 initiatives across marketing, sustainability, and social responsibility.",
-                "image": "https://ttgasia.2017.ttgasia.com/wp-content/uploads/sites/2/2026/08/PATA-Awards-2026_640.jpg",
-                "url": "https://www.ttgasia.com/2026/08/20/pata-gold-awards-2026-recognises-26-travel-initiatives-across-asia-pacific/",
-                "source": "TTG Asia",
-                "date": "2026-08-20T05:06:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AirBorneo grows flight network to support Sarawak’s tourism growth",
-                "desc": "AirBorneo, the airline owned by the Sarawak state government, has mapped out an expansion plan for its Asian service network, which will bring to life the tourism ministry’s ambition to make Sarawak the tourism gateway to Borneo island.",
-                "image": "https://ttgasia.2017.ttgasia.com/wp-content/uploads/sites/2/2026/08/AirBorneo_640.jpg",
-                "url": "https://www.ttgasia.com/2026/08/20/airborneo-grows-flight-network-to-support-sarawaks-tourism-growth/",
-                "source": "TTG Asia",
-                "date": "2026-08-20T05:06:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Four workers hit by train in Japan",
-                "desc": "Four people were unconscious in Japan on Thursday after being hit by a train, authorities said, with one media report saying they were \"without vital signs\".",
-                "image": "https://assets.citizen.digital/173193/conversions/3e2f7454-0c77-4ed4-a1dd-448f0b16f7e6_AFP__20260820__AR-20260820125654_KINQ1_SSDSC_2513_125650600__v1__MidRes__FourWorkers-og_image.webp",
-                "url": "https://citizen.digital/article/four-workers-hit-by-train-in-japan-n388640",
-                "source": "Citizen Digital",
-                "date": "2026-08-20T05:06:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xu Jiayin sentenced to life in prison; China Evergrande Group fined 8.82 billion yuan.",
-                "desc": "ChainCatcher report: On the morning of August 20, 2026, the Intermediate People's Court of Shenzhen, Guangdong Province, publicly announced the first-instance v",
-                "image": "https://assets.staticimg.com/@kudos/runtime/0.6.6/assets/og-ea52b6f9440e857c.jpg",
-                "url": "https://www.kucoin.com/news/flash/xu-jiayin-sentenced-to-life-in-prison-china-evergrande-group-fined-8-82-billion-yuan",
-                "source": "KuCoin",
-                "date": "2026-08-20T05:04:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bouquet of Roses and the Horrors of Destitution-The Oddly Alternating Faces of Ethiopia",
-                "desc": "In Ethiopia, domestic demand for flowers and Bouquet of Roses is growing at an unexpected rate. Samuel Estefanous reflects on it. Read more.",
-                "image": "https://borkena.com/wp-content/uploads/2026/08/Bouquet-of-Roses-Addis-Ababa-_-Credit-Rosa-Flower-and-Gift-Shop.jpg",
-                "url": "https://borkena.com/ethiopia-bouquet-of-roses-and-the-horrors-of-destitution-the-oddly-alternating-faces-of-ethiopia/",
-                "source": "Borkena",
-                "date": "2026-08-20T05:02:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seven decades of US regime change efforts: What have they achieved?",
-                "desc": "US interventions in Iran and beyond reveal a recurring pattern of regime change, with high human and financial costs.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a858a3b87d0-1787136571.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved",
-                "source": "Al Jazeera",
-                "date": "2026-08-20T05:02:08Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-20T23:04:22.290686Z"
+    "lastGlobalSync": "2026-08-21T00:01:20.556336Z"
 }
