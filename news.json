@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Tom Lee's favorite buy ideas heading into the fall",
+                "desc": "Fundstrat Global Advisors founder Tom Lee is still bullish on the stock market as the fourth quarter approaches.",
+                "image": "https://image.cnbcfm.com/api/v1/image/107326323-1698772881165-IMG_8213.jpg?v=1712593012&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/20/tom-lees-favorite-buy-ideas-heading-into-the-fall.html",
+                "source": "CNBC",
+                "date": "2026-08-20T16:22:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Permian Resources rises as higher crude prices add to support from recent guidance increase",
+                "desc": "Permian Resources Corporation (PR) is up 3.8% today. Here is some analysis on what might have caused",
+                "image": "https://www.quiverquant.com/images/pr_rect_new.png",
+                "url": "https://www.quiverquant.com/news/Permian+Resources+rises+as+higher+crude+prices+add+to+support+from+recent+guidance+increase",
+                "source": "Quiver Quantitative",
+                "date": "2026-08-20T16:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump’s DOJ and Elon Musk Think AI Has a Right to Turn People Nude",
+                "desc": "The Justice Department is siding with Elon Musk’s xAI in a lawsuit against Minnesota.",
+                "image": "https://s.yimg.com/lo/mysterio/api/b8bc83d00c617ccc38ba09140af8134324dc283f8896c3ef0bb4bbc77df6f3db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_new_republic_521%2Fbb4a2b443fe5a12fc7048ae6437222ed.jpg",
+                "url": "https://www.yahoo.com/news/politics/articles/trump-doj-elon-musk-think-162049811.html",
+                "source": "Yahoo",
+                "date": "2026-08-20T16:20:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hui Ka Yan: Founder of Collapsed Chinese Property Giant Evergrande Sentenced to Life in Prison",
+                "desc": "Hui Ka Yan, the founder of collapsed Evergrande, has been sentenced to life imprisonment and stripped of all personal assets following his conviction on charges",
+                "image": "https://cdn.yen.com.gh/images/1200x675/7b8a52fdfbcf812a.jpeg?v=1",
+                "url": "https://yen.com.gh/world/asia/310303-hui-ka-yan-founder-collapsed-chinese-property-giant-evergrande-sentenced-life-prison/",
+                "source": "Yen News",
+                "date": "2026-08-20T16:20:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Exxaro half-year earnings down 20%, ramps up solar output",
+                "desc": "JOHANNESBURG, Aug 20 (Reuters) – South African diversified miner Exxaro Resources reported on Thursday a 20% drop in half-year earnings, as production costs rose and a stronger rand eroded revenue from commodities priced in U.S. dollars. Exxaro posted headline earnings per share of 13.77 rand ($0.855) in the six months to June 30, versus 17.24 rand in the […]",
+                "image": "https://cdn.cnbc.africa/wp-content/uploads/2025/08/OSFFVDBVEBMNVEN4IAYO3QTZW4-scaled.jpg",
+                "url": "https://www.cnbcafrica.com/2026/south-africas-exxaro-half-year-profit-down-20-cuts-dividend",
+                "source": "CNBC Africa",
+                "date": "2026-08-20T16:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FTC proposes enforcement policy on personalized pricing tools",
+                "desc": "The U.S. Federal Trade Commission drafted a policy statement outlining how it will tackle consumer concerns over the proliferation of pricing tools fueled by personal data.",
+                "image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt8e420ecfa107987b/6a8709cae3ec267dd751a08d/credit-card-transaction-marketing-retail-0007.jpg",
+                "url": "https://iapp.org/news/a/ftc-proposes-enforcement-policy-on-personalized-pricing-tools",
+                "source": "IAPP",
+                "date": "2026-08-20T16:16:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From the track to Y’ello street: MTN Champs winners relive the journey",
+                "desc": "What happens when young champions who are shaping Nigeria’s sporting future step into a space that tells the story of 25 years of connection, ambition and",
+                "image": "https://dailypost.ng/wp-content/uploads/2026/08/MTN-.jpg",
+                "url": "https://dailypost.ng/2026/08/20/from-the-track-to-yello-street-mtn-champs-winners-relive-the-journey/",
+                "source": "Daily Post Nigeria",
+                "date": "2026-08-20T16:16:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Moderna and Merck's mRNA Melanoma Vaccine Looks Like a Game Changer",
+                "desc": "People given the experimental vaccine with standard treatment lived longer without their cancer returning, the companies reported this week.",
+                "image": "https://gizmodo.com/app/uploads/2025/11/vaccinevial-1200x675.jpg",
+                "url": "https://gizmodo.com/moderna-and-mercks-mrna-melanoma-vaccine-looks-like-a-game-changer-2000800897",
+                "source": "Gizmodo",
+                "date": "2026-08-20T16:15:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aurora Could Be Visible From These Nine States Thursday",
+                "desc": "The aurora could be visible from some northern states on Thursday night.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a87274d422d7b59d13f150b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/20/northern-lights-could-be-visible-from-nine-states-tonight/",
+                "source": "Forbes",
+                "date": "2026-08-20T16:14:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ethiopia central bank allots $500 million at special forex auction",
+                "desc": "Aug 20 (Reuters) – Ethiopia’s central bank said on Thursday that it had allotted $500 million at a special foreign exchange auction. The central bank said it had received bids of about $710 million from 22 banks. The weighted average rate of successful bids was 160.2144 birr per dollar, it said in a post on its X […]",
+                "image": "https://cdn.cnbc.africa/wp-content/uploads/2026/08/37ENMDJNXZPYVEYFB6XSBKSWNI.jpg",
+                "url": "https://www.cnbcafrica.com/2026/ethiopia-central-bank-allots-500-million-at-special-forex-auction-2",
+                "source": "CNBC Africa",
+                "date": "2026-08-20T16:13:17Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Vietnam revises the DPPA and rooftop solar framework",
                 "desc": "Vietnam’s government has recently issued Decree 243 and Circular 29 to amend the scope of the DPPA mechanism and self-consumption rooftop solar systems in Vietnam.",
                 "image": "https://www.wfw.com/wp-content/uploads/2026/08/Commercial-Solar-Integration-and-Sustainable-Energy.jpg",
@@ -542,99 +632,99 @@
                 "source": "South China Morning Post",
                 "date": "2026-08-20T09:04:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "TEL commuter concerned over 85-90dB train noise",
-                "desc": "A TEL commuter says train noise can hit 85-90dB. LTA says curved tracks cause higher noise in some areas and mitigation measures are in place.",
-                "image": "https://cassette.sphdigital.com.sg/image/stomp/2ad9a53d353990cb51d8ca1894914ca79bea0a089777c0270d8fa314600132f9",
-                "url": "https://www.stomp.sg/singapore-seen/cannot-hear-news-earphones-commuter-concerned-about-noise-thomson-east-coast-line",
-                "source": "Stomp",
-                "date": "2026-08-20T08:02:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Govt still holding 35 empty houses of stalled development near Wellington",
-                "desc": "The brand-new units were bought for almost $22 million more than 18 months ago.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-government-is-still-trying-to-sell-35-empty-townhouses-i-IGZY7HGTB5D37CXLRHIDPMSETM.jpg?auth=728249d4dd237de5f793259c1911c175d95acf441b6c90e3630597a875e71bdb&quality=70&width=600&height=315&focal=874%2C799",
-                "url": "https://www.1news.co.nz/2026/08/20/govt-still-holding-35-empty-houses-of-stalled-development-near-wellington/",
-                "source": "1News",
-                "date": "2026-08-20T08:02:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese banks embrace cheaper short-term loan rates despite margin risks",
-                "desc": "As some major lenders begin pricing corporate debt against flexible short-term markets, analysts warn the shift could squeeze net interest margins even further.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/20/b890e306-6ee0-47eb-a001-fe60c99487c3_a4c668f7.jpg?itok=nCX3t3xp&v=1787212813",
-                "url": "https://www.scmp.com/business/banking-finance/article/3364673/chinese-banks-embrace-cheaper-short-term-loan-rates-despite-margin-risks",
-                "source": "South China Morning Post",
-                "date": "2026-08-20T08:00:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lithium-ion batteries keep catching fire in Toronto. Here's why they are so dangerous",
-                "desc": "Fires can be more aggressive based on how charged the battery is, which firefighters often have no way of knowing. The batteries can explode and become projectiles while crews are responding. And Toronto Fire has had to expand its decontamination process to get carcinogens off its gear, because the standard protocol isn’t good enough.",
-                "image": "https://i.cbc.ca/ais/2104911f-e6eb-4d38-95e8-ba159c721224,1787086725501/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/toronto/lithium-ion-e-bike-fires-9.7311576",
-                "source": "CBC",
-                "date": "2026-08-20T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nethermind Joins as LINK Inflows Rise",
-                "desc": "Chainlink news: Nethermind joins as a node operator, Sergey Nazarov speaks at the White House, and LINK ETFs extend a three-day inflow streak.",
-                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/August2026/chainlink-news-nethermind-white-house-link-etf-inflows-6795.webp",
-                "url": "https://www.coingabbar.com/en/crypto-currency-news/chainlink-news-nethermind-white-house-link-etf-inflows",
-                "source": "Coin Gabbar",
-                "date": "2026-08-20T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
-                "desc": "Middle Eastern oil producers are scrambling to secure their own shipping capacity as the Strait of Hormuz crisis drives tanker prices and charter rates to record highs.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-20_5wutrqeydg.jpg",
-                "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Crisis-Sends-Supertanker-Prices-to-Record-Highs.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-08-20T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PNB betting ₱1 billion on consumer finance platform Billease",
-                "desc": "Consumer finance platform Billease has secured a ₱1-billion credit facility from Philippine National Bank (PNB), adding another major local bank to its...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/20/125185.webp",
-                "url": "https://mb.com.ph/2026/08/20/pnb-betting-1-billion-on-consumer-finance-platform-billease",
-                "source": "Manila Bulletin",
-                "date": "2026-08-20T07:59:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Heartland merger heard in court; Judge’s decision to be unveiled on Tuesday",
-                "desc": "On Tuesday morning the public will find out whether a group of Taranaki residents’ fight to stall the sale of TSB to Heartland Group Holdings has been...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/KDEIKSVCTVFDXPGWFMFQDE65OI.jpg?auth=81502049073c841e497214a66271bc9c3bd11e611ed9013ec3464d38d7f25c0c&width=1200&height=675&quality=70&focal=966%2C609&smart=false",
-                "url": "https://www.nzherald.co.nz/business/companies/banking-finance/taranaki-locals-opposition-to-tsb-heartland-merger-heard-in-court-judges-decision-to-be-unveiled-on-tuesday/premium/RSCSMR3H2BDHPPFOVDKDAHTR3Q/",
-                "source": "NZ Herald",
-                "date": "2026-08-20T07:58:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dangote’s New Petrol Price Puts Pressure on Fuel Depots",
-                "desc": "Dangote Refinery sells petrol at N1,165 per litre, below estimated import parity of N1,212.45, giving marketers stronger incentive to buy locally refined fuel.",
-                "image": "https://cdn.legit.ng/images/1200x675/feecd351eec7d459.jpeg?v=1",
-                "url": "https://www.legit.ng/business-economy/energy/1726197-dangotes-petrol-price-puts-pressure-fuel-depots/",
-                "source": "Legit News",
-                "date": "2026-08-20T07:58:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese firms are wrapping their supply chains around the globe",
-                "desc": "A rewiring of global manufacturing is under way | World News",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/chinese_firms_1787212501247_1787212501381_857cf188-8789-4178-acfa-3b33d60ddead.png",
-                "url": "https://www.hindustantimes.com/world-news/chinese-firms-are-wrapping-their-supply-chains-around-the-globe-101787212223980.html",
-                "source": "Hindustan Times",
-                "date": "2026-08-20T07:57:02Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "China Put AI Into 60,000 Blackboards",
+                "desc": "China's AI Blackboard turns handwritten equations into 3D models across 60,000 schools while the U.S. still debates classroom AI policy.",
+                "image": "https://www.gadgetreview.com/wp-content/uploads/China-Put-AI-Into-60000-Blackboards-scaled.png",
+                "url": "https://www.gadgetreview.com/china-put-ai-into-60000-blackboards",
+                "source": "Gadget Review",
+                "date": "2026-08-20T16:22:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The LG C6 OLED TV is one of the most impressive TVs I've tested year - and it's on sale",
+                "desc": "The LG C6 OLED is one of my favorite TVs of 2026, with excellent color accuracy and picture quality - especially for this deal with free wall mounting and a free $200 gift card.",
+                "image": "https://www.zdnet.com/a/img/resize/02d7a7e1861606349386dfea580867ba799b82ba/2026/08/20/e8abfc1e-4b09-497e-b310-88550eacb294/lg-c6-oled.jpg?auto=webp&fit=crop&height=675&width=1200",
+                "url": "https://www.zdnet.com/home-and-office/home-entertainment/lg-c6-oled-tv-gift-card-deal/",
+                "source": "ZDNET",
+                "date": "2026-08-20T16:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Card Turns Seven With Big Change Ahead",
+                "desc": "Today marks the seventh anniversary of the Apple Card becoming widely available in the U.S., following a more limited preview period. Apple's credit card can be managed in the iPhone's Wallet app, with key benefits including color-coded spending summaries, no fees, and Daily Cash cash back paid out daily. Apple Card holders can also open a high-yield savings account. The anniversary comes ahead of a big change planned for the Apple Card.",
+                "image": "https://images.macrumors.com/t/FQB1rAk-8A5mkMsEQt261I-QL0Y=/2049x/article-new/2025/01/Apple-Card-iPhone-16-Pro-Feature.jpg",
+                "url": "https://www.macrumors.com/2026/08/20/apple-card-turns-seven-with-big-change-ahead/",
+                "source": "MacRumors",
+                "date": "2026-08-20T16:18:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FromSoftware Isn't Done With Single-Player Games, Miyazaki Reassures",
+                "desc": "Elden Ring: Nightreign and The Duskbloods just so happened to be back-to-back multiplayer projects.",
+                "image": "https://sm.ign.com/t/ign_ap/news/f/fromsoftwa/fromsoftware-isnt-done-with-single-player-games-miyazaki-rea_cbkh.1200.jpg",
+                "url": "https://sea.ign.com/elden-ring/247233/fromsoftware-isnt-done-with-single-player-games-miyazaki-reassures",
+                "source": "IGN Southeast Asia",
+                "date": "2026-08-20T16:18:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MacBook Ultra is coming: Six new features launching this fall",
+                "desc": "Apple is rumored to launch the first ‘MacBook Ultra’ this fall, growing the MacBook lineup—here are six rumored new features.",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/08/20/macbook-ultra-is-coming-six-new-features-launching-this-fall/",
+                "source": "9to5Mac",
+                "date": "2026-08-20T16:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Melanie Bianchi Goes Toe to Toe with the L’Étape",
+                "desc": "Melanie is a mountain biker and relative newcomer to road cycling – she knew that preparing for L’Étape Czech Republic would test more than her stamina.",
+                "image": "https://d2p6e6u75xmxt8.cloudfront.net/2/2026/08/Melanie-Bianchi-CVR-1.webp",
+                "url": "https://www.welovecycling.com/wide/2026/08/20/melanie-bianchi-goes-toe-to-toe-with-the-letape-and-herself/",
+                "source": "Škoda We Love Cycling",
+                "date": "2026-08-20T16:17:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Limit Zero Breakers' second closed beta promises even more story and exciting raids",
+                "desc": "Jump into the world of Limit Zero Breakers once more for the exciting new Frontier Test. Sign-ups are now open with additional story, characters and more on the way.",
+                "image": "https://media.pocketgamer.com/artwork/na-37777-1787243714/limit-zero-breakers-test-wanted.jpg",
+                "url": "https://www.pocketgamer.com/limit-zero-breakers/second-closed-beta-announced/",
+                "source": "Pocket Gamer",
+                "date": "2026-08-20T16:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox accounts for only 4% of physical game sales in 2026, far behind PS5 discs",
+                "desc": "Xbox fans are leading the charge toward an all-digital future. A new Circana U.S. sales report shows how few Series X owners choose physical games. The Series S and Game Pass day-one releases may be why PS5 discs and Switch 2 cartridges are more appealing.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/XboxDiscShowonDesktop.jpg",
+                "url": "https://www.notebookcheck.net/Xbox-accounts-for-only-4-of-physical-game-sales-in-2026-far-behind-PS5-discs.1374082.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-08-20T16:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Street Fighter™ 6 Returns to UniVersus with Two New Challenger Series Decks",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Street-Fighter-6-Returns-to-UniVersus-with-Two-New-Challenger-Series-D",
+                "source": "Games Press",
+                "date": "2026-08-20T16:14:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Akupara Games Announces the First-Ever “Akupara Direct\"",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/Akupara-Games-Announces-the-First-Ever-Akupara-Direct",
+                "source": "Games Press",
+                "date": "2026-08-20T16:14:51Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Compulsion Games pulls off management buyout and separates from Xbox | exclusive",
                 "desc": "Compulsion Games, the maker of compelling gamers like South of Midnight, has pulled off a management buyout and is now separated from Xbox.",
@@ -1174,99 +1264,99 @@
                 "source": "Mashable",
                 "date": "2026-08-20T09:04:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Eddie AI Trains Editing Model Small Enough to Run Locally - Claims 47% Win Rate Against Kimi K3",
-                "desc": "Eddie AI says its 9B editing model reached a 47% win rate against Kimi K3, pointing toward smaller on-premises AI. Let's have a look.",
-                "image": "https://www.cined.com/content/uploads/2026/08/Eddie-AI_Processing.jpg",
-                "url": "https://www.cined.com/eddie-ai-trains-editing-model-small-enough-to-run-locally-claims-47-win-rate-against-kimi-k3/",
-                "source": "CineD",
-                "date": "2026-08-20T08:03:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New LEGO Batman DLC Trailer to Debut on IGN’s gamescom Livestream",
-                "desc": "LEGO Batman: Legacy of the Dark Knight is the next game from longtime LEGO developer TT Games.",
-                "image": "https://sm.ign.com/t/ign_za/news/n/new-lego-b/new-lego-batman-dlc-trailer-to-debut-on-igns-gamescom-livest_mpck.1200.jpg",
-                "url": "https://za.ign.com/lego-batman-legacy-of-the-dark-knight/239307/new-lego-batman-dlc-trailer-to-debut-on-igns-gamescom-livestream",
-                "source": "IGN Africa",
-                "date": "2026-08-20T08:02:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Redfall Director Pleaded With Microsoft to Release Final Patch, Despite Already Being 'Fired'",
-                "desc": "\"They let six or seven of us sign forms that we could come back in the building.\"",
-                "image": "https://sm.ign.com/t/ign_za/news/r/redfall-di/redfall-director-pleaded-with-microsoft-to-release-final-pat_m4n5.1200.jpg",
-                "url": "https://za.ign.com/redfall/239306/redfall-director-pleaded-with-microsoft-to-release-final-patch-despite-already-being-fired",
-                "source": "IGN Africa",
-                "date": "2026-08-20T08:02:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cleaner and More Compact, The new Glashütte Original Senator Chronograph",
-                "desc": "A slimmer and sleeker generation of Glashütte Original’s Senator Chronograph for 2026, offered in two distinct executions.",
-                "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-Glashutte-Original-Senator-Chronograph-and-Senator-Chronograph-Navigator-41mm-review-15.jpg",
-                "url": "https://monochrome-watches.com/2026-new-glashutte-original-senator-chronograph-and-senator-chronograph-navigator-41mm-slimmer-review-price/",
-                "source": "Monochrome Watches",
-                "date": "2026-08-20T08:01:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia Adds Firefox to GeForce NOW's Supported Browsers for Cloud Gaming on Windows",
-                "desc": "Nvidia has added Firefox on Windows to GeForce NOW's supported browsers, enabling cloud game streaming at up to 1440p and 120fps.",
-                "image": "https://www.ghacks.net/wp-content/uploads/2026/08/gHacks-articles-2026-08-20T105810.596.png",
-                "url": "https://www.ghacks.net/2026/08/20/nvidia-adds-firefox-to-geforce-nows-supported-browsers-for-cloud-gaming-on-windows/",
-                "source": "gHacks",
-                "date": "2026-08-20T08:01:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei wide non-fold phone pre-order could begin next week",
-                "desc": "News about the first Huawei wide non-foldable phone continue to flow in, and in the latest edition, we have some info about pre-order process",
-                "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Pura-90-ProMax-screen.jpg",
-                "url": "https://www.huaweicentral.com/huawei-wide-non-fold-phone-pre-order-could-begin-next-week/",
-                "source": "Huawei Central",
-                "date": "2026-08-20T08:01:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paint Your Way to Paradise in the Palettopia Puzzle Playtest",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-GB/Paint-Your-Way-to-Paradise-in-the-Palettopia-Puzzle-Playtest",
-                "source": "Games Press",
-                "date": "2026-08-20T08:00:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A 16-year-old girl's iPhone theme is breaking UI designers' brains",
-                "desc": "Is Gen Z's obsession with anti-design turning every UI rule on its head?",
-                "image": "https://cdn.mos.cms.futurecdn.net/YPr8dQ4LVn8MhJEnjcm4jX-1920-80.jpg",
-                "url": "https://www.creativebloq.com/web-design/ux-ui/a-16-year-old-girls-iphone-xis-breaking-ui-designers-brains",
-                "source": "Creative Bloq",
-                "date": "2026-08-20T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Glashütte Original Unveils a Pair of New Watches Inspired by the Past",
-                "desc": "Glashütte Original has just unveiled its new Senator Chronograph Navigator or the Senator Chronograph, inspired by pilot's and observation watches.",
-                "image": "https://robbreport.com/wp-content/uploads/2026/08/glashutte-original-senator-chronograph-navigator-senator-chronograph.jpg?w=681&h=383&crop=1",
-                "url": "https://robbreport.com/style/watch-collector/glashutte-original-senator-chronograph-watches-1238568038/",
-                "source": "Robb Report",
-                "date": "2026-08-20T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Introducing The Glashütte Original Senator Chronograph And Senator Chronograph Navigator",
-                "desc": "The German brand streamlines its classic flyback chronograph by refining its dimensions and offering two very different dial executions.",
-                "image": "https://hodinkee.imgix.net/uploads/images/3b5bad96-81bd-46a0-adf7-4cb4fb9180ec/gosenatorchronosheader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-                "url": "https://www.hodinkee.com/articles/the-glashutte-original-senator-chronograph-and-senator-chronograph-navigator",
-                "source": "Hodinkee",
-                "date": "2026-08-20T08:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Prince Harry and Meghan to move back to Britain",
+                "desc": "​Couple and their two children to live somewhere outside London, six years after they ⁠stepped down from royal ‌duties",
+                "image": "https://www.irishtimes.com/resizer/v2/JUTA6DEJQGYA3WK7PHICVCFXJY.jpg?smart=true&auth=1704d93cf8086a565ed15ae10f9c16ef23a8f03b8b113f1d515879b2c77ca6e6&width=1200&height=630",
+                "url": "https://www.irishtimes.com/world/uk/2026/08/19/prince-harry-and-meghan-to-relocate-back-to-britain-say-reports/",
+                "source": "The Irish Times",
+                "date": "2026-08-20T16:21:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Finland Announces Conditions Foreign Children Must Meet To Gain Citizenship",
+                "desc": "Finland outlines citizenship conditions for foreign children, varying by age. Key rules change for teenagers' residency and language requirements.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/b7a786b078198cde.jpeg?v=1",
+                "url": "https://yen.com.gh/people/310301-finland-announces-conditions-foreign-children-meet-gain-citizenship/",
+                "source": "Yen News",
+                "date": "2026-08-20T16:14:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chinese firms dominate Ethiopia’s airport tender shortlist",
+                "desc": "NAIROBI, Aug 20 – Chinese construction companies feature prominently in a shortlist of firms bidding to build Ethiopian Airlines’ new airport, the carrier said, as it edges closer to awarding the contracts for the aviation facility.",
+                "image": "https://cdn.cnbc.africa/wp-content/uploads/2026/08/KLVMMV6WQNLFZEAMREC2ILIEFQ.jpg",
+                "url": "https://www.cnbcafrica.com/2026/chinese-firms-dominate-ethiopias-airport-tender-shortlist",
+                "source": "CNBC Africa",
+                "date": "2026-08-20T16:13:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Michael Cohen to interview Donald Trump on-air",
+                "desc": "First, Michael Cohen was Donald Trump’s personal lawyer and self-described “pit bull.”",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2018-07-25t161305z-1102697146-rc1d5319da80-rtrmadp-3-usa-trump-russia-cohen.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/20/politics/michael-cohen-donald-trump-interview",
+                "source": "CNN",
+                "date": "2026-08-20T16:10:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Invisible Disability: A Dad Wanted Me To Give Up My Seat",
+                "desc": "“Oh yeah? That’s your seat?” He reeked of beer and a jagged vein bulged from his left temple. “Why are you so special?”",
+                "image": "https://img.huffingtonpost.com/asset/68473ff017000003dfbcda8c.png?cache=Ma11AItPSE&ops=1200_630",
+                "url": "https://www.huffpost.com/entry/dad-bully-seat-child-invisible-disability-concert_n_6a872518e4b0f5925a142826",
+                "source": "HuffPost",
+                "date": "2026-08-20T16:09:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "17: Netherlands IND Lists Key Requirements",
+                "desc": "Foreign teenagers aged 16 and 17 seeking Dutch citizenship alongside a parent must meet specific residence, permit, consent and ceremony requirements set by the IND.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/8749a318d28bd9a8.jpeg?v=1",
+                "url": "https://yen.com.gh/people/310296-dutch-citizenship-teenagers-aged-16-17-netherlands-ind-lists-key-requirements/",
+                "source": "Yen News",
+                "date": "2026-08-20T16:09:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ministry of Public Security steps up cooperation with Philippine law enforcement agencies",
+                "desc": "Security and law enforcement cooperation has consistently been identified by the Vietnamese and Philippine leaders as an important strategic pillar. The two sides agreed to further elevate security and law enforcement cooperation to meet the requirements of the countries' enhanced strategic partnership.",
+                "image": "https://en-cdn.nhandan.vn/images/PGsdfWzXfw3FSVNqQeLLm0WnHh29tUBsJfHYyabQ5hzi4c3aX5TC8s3ZteslU3_Rloaeuz4hcFg6PJoJCrtdfQ/tamq-edited.jpg.webp",
+                "url": "https://en.nhandan.vn/ministry-of-public-security-steps-up-cooperation-with-philippine-law-enforcement-agencies-post165709.html",
+                "source": "Nhan Dan Online",
+                "date": "2026-08-20T16:09:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "University suspends academic behind Jason Arday plagiarism charges",
+                "desc": "Amidst a plagiarism scandal, Ghent University suspends Nathan Cofnas, the academic whose accusations against Jason Arday have sparked widespread media attention and controversy.",
+                "image": "https://iol-prod.appspot.com/image/d620dc4daa3aa7f3ea05a5c2d23610ea4527f9aa/875/jpeg",
+                "url": "https://iol.co.za/news/world/2026-08-20-university-suspends-academic-behind-jason-arday-plagiarism-charges/",
+                "source": "IOL",
+                "date": "2026-08-20T16:08:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Robbie Butler appointed Northern Ireland Minister for Health",
+                "desc": "UUP politician succeeds party colleague Mike Nesbitt, who resigned after clash with party leader over Coleraine hospital issue",
+                "image": "https://www.irishtimes.com/resizer/v2/2EFIUTVIOMFCHIJA54TFN2XBVU.jpg?smart=true&auth=0483b028b8f564fe0084d5a405a2630dcf11cfbd8432fabd7fd5d151a94b2fc3&width=1200&height=630",
+                "url": "https://www.irishtimes.com/politics/2026/08/20/robbie-butler-to-be-northern-irelands-next-health-minister/",
+                "source": "The Irish Times",
+                "date": "2026-08-20T16:06:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Iran has not folded yet",
+                "desc": "Formed by the brutal Iran-Iraq War, the men who now lead the Iranian regime will fight back before giving in. But time is not on their side.",
+                "image": "https://www.atlanticcouncil.org/wp-content/uploads/2026/08/2026-07-03T000000Z_1132529427_MT1NURPHO000SKQ8TL_RTRMADP_3_IRAN-OFFICIALS-MEETING.jpg",
+                "url": "https://www.atlanticcouncil.org/dispatches/why-iran-has-not-folded-yet/",
+                "source": "Atlantic Council",
+                "date": "2026-08-20T16:06:11Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Denmark Announces 2 Reasons Foreigners Can Be Added to the Sanction List and Banned From Entry",
                 "desc": "Denmark's government has published two exact criteria used to determine who qualifies for placement on its national sanction list. See the full reasons here.",
@@ -1806,98 +1896,8 @@
                 "source": "The Guardian",
                 "date": "2026-08-20T09:03:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Journalist recalls campaign that raised £250k for Billy Caldwell",
-                "desc": "Former Strabane Chronicle journalist Mark McKelvey recalls the community campaign that raised almost £250,000 for Billy Caldwell's treatment.",
-                "image": "https://wearetyrone.com/wp-content/uploads/2026/08/data4871683.jpg",
-                "url": "https://wearetyrone.com/news/campaign-for-billy-united-the-entire-community/",
-                "source": "We Are Tyrone",
-                "date": "2026-08-20T08:03:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China calls for diplomacy to resolve tensions over Iran",
-                "desc": "China on Thursday urged relevant parties to resolve tensions over Iran through political and diplomatic means after US President Donald Trump announced what he called \"the most crushing economic operation\" against the Islamic Republic.",
-                "image": "https://news.cgtn.com/news/2026-08-20/China-calls-for-diplomacy-to-resolve-tensions-over-Iran-1PLk3nGKHao/img/b9df4a1a05ed4d6fba576842ac3b74d4/b9df4a1a05ed4d6fba576842ac3b74d4-250.png",
-                "url": "https://news.cgtn.com/news/2026-08-20/China-calls-for-diplomacy-to-resolve-tensions-over-Iran-1PLk3nGKHao/p.html",
-                "source": "news.cgtn.com",
-                "date": "2026-08-20T08:01:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s administration has been given the right to do away with 5000 Ethiopians being protected in the US after a major legal conclusion",
-                "desc": "Per the recent approval of a US federal court, the Trump-led administration can now revoke Temporary Protected Status (TPS) for about 5,000 Ethiopians living in the United States, removing a legal hurdle that had previously kept the protections in place. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/A_AktkuTURBXy81MDI4YjRkMi1lMTY1LTQ2NDUtYTFiMi1kNzk1YzQ4NTM4NGEuanBlZ5KVAwEAzQnCzQV-kwXNBLDNAnY",
-                "url": "https://africa.businessinsider.com/local/lifestyle/trumps-administration-has-been-given-the-right-to-do-away-with-5000-ethiopians-being/smj2my4",
-                "source": "Business Insider Africa",
-                "date": "2026-08-20T08:00:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Crops Are Becoming Less Nutritious",
-                "desc": "Rising CO2 is the likely culprit for fewer nutrients like zinc, protein, and iron in our food, but experts say more research is needed.",
-                "image": "https://civileats.com/wp-content/uploads/2026/08/260820-Farming250-corn-crop-nutrients-california-hero.png",
-                "url": "https://civileats.com/2026/08/20/why-crops-are-becoming-less-nutritious/",
-                "source": "Civil Eats",
-                "date": "2026-08-20T08:00:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The legal battle between a California couple, their surrogate and the Texas AG, explained",
-                "desc": "As the baby recovers from surgery, anti-abortion activists have seized on the case to bolster arguments about fetal personhood, while feeding a small but rising movement against surrogacy in the US.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26225649547612.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/20/us/texas-baby-surrogate-abortion-dispute",
-                "source": "CNN",
-                "date": "2026-08-20T08:00:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
-                "desc": "Middle Eastern oil producers are scrambling to secure their own shipping capacity as the Strait of Hormuz crisis drives tanker prices and charter rates to record highs.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-20_5wutrqeydg.jpg",
-                "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Crisis-Sends-Supertanker-Prices-to-Record-Highs.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-08-20T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As Israel’s military advances its yellow line, Gazans fear they’re being pushed to the sea",
-                "desc": "Nearly a year into the first phase of the ceasefire, Israel’s “yellow line” — marking the the edge of Israeli military control inside Gaza — keeps marching westward, pushing Palestinians out of their homes and squeezing the population into an ever smaller area.",
-                "image": "https://i.cbc.ca/ais/c14a7c3a-a53d-470c-ab56-1d4e82fe4448,1787174877806/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C5171%2C2908%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/yellow-line-gaza-israel-9.7313205",
-                "source": "CBC",
-                "date": "2026-08-20T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Who is Mohammad Ghamira and why has his death, alleged abuse ignited outcry in Syria?",
-                "desc": "Syrians took to the streets this week to call for justice over the death of Mohammad Ghamira, a Syrian man who died in hospital after alleged abuse by security forces while in detention. His death has become a litmus test of whether the new Syrian government's promises of accountability will translate into action.",
-                "image": "https://i.cbc.ca/ais/be00b429-eee3-40b7-9f6f-914169b12b5a,1787146403083/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C44%2C860%2C483%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/syria-mohammad-ghamira-white-helmets-death-syrian-detention-9.7312254",
-                "source": "CBC",
-                "date": "2026-08-20T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-                "desc": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-                "image": "https://s.yimg.com/lo/mysterio/api/78f2021dc1a0d315ed6380923a82008790efe6d03d34101105a395dfdbaa8a9d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F608d28f7341d47ca6cb62e1c2c6609fc.jpg",
-                "url": "https://ca.news.yahoo.com/least-five-killed-russian-missile-014357648.html",
-                "source": "Yahoo News Canada",
-                "date": "2026-08-20T07:59:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zambia election: Mundubile moves against President Hichilema",
-                "desc": "Zambian opposition leader, Brian Mundubile has declared his intention to contest the re-election of President Hakainde Hichilema through the judicial",
-                "image": "https://dailypost.ng/wp-content/uploads/2026/08/Mundubile-Hichilema.jpg",
-                "url": "https://dailypost.ng/2026/08/20/zambia-election-mundubile-moves-against-president-hichilema/",
-                "source": "Daily Post Nigeria",
-                "date": "2026-08-20T07:57:58Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-21T03:36:24.912693Z"
+    "lastGlobalSync": "2026-08-21T04:23:37.929361Z"
 }
