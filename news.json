@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "‘London is rocket fuel for a career’",
+                "desc": "Wild Geese: Ryan McKiernan is managing director of a social enterprise in the UK capital that tackles homelessness through hospitality",
+                "image": "https://www.irishtimes.com/resizer/v2/7OBKUYJJ4VBHDD6I5XTT7DFMJI.jpeg?smart=true&auth=79950995ba6d5b73586341582d3adaa4a377abea33e8a9a239e89cc56d831a37&width=1200&height=630",
+                "url": "https://www.irishtimes.com/business/work/2026/08/23/london-is-rocket-fuel-for-a-career/",
+                "source": "The Irish Times",
+                "date": "2026-08-23T05:03:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"Low Usage\": Air France Denies Paris Business Class Lounge Sauna Used As 'Sex Den'",
+                "desc": "Wood-panel sauna and Clarins treatment room at CDG became the center of viral claims that tested lounge policies.",
+                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/air-france-aircraft-at-paris-cdg.jpg?w=1600&h=900&fit=crop",
+                "url": "https://simpleflying.com/air-france-denies-paris-business-lounge-sauna-sex-den/",
+                "source": "Simple Flying",
+                "date": "2026-08-23T05:02:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gift cards a poor option in tight retail market",
+                "desc": "Harvey Nichols collapse a timely warning for Irish consumers who hold millions of euro on gift cards",
+                "image": "https://www.irishtimes.com/resizer/v2/T4MLN5RPJJGNXJB7OHLURBMYSY.JPG?smart=true&auth=34d31a186c7d3e7b2eb46425f8f7737a9c552f1a6c51c0947ef281d5abebc830&width=1200&height=630",
+                "url": "https://www.irishtimes.com/business/2026/08/23/gift-cards-a-poor-option-in-tight-retail-market/",
+                "source": "The Irish Times",
+                "date": "2026-08-23T05:00:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "John Wilson tried a TikTok-inspired Spicy Sauvy B - here’s his verdict",
+                "desc": "How to Drink Better: People have been adding ingredients to wine for thousands of years, so is this any different?",
+                "image": "https://www.irishtimes.com/resizer/v2/M3GHJNTNNFGZJEQTV2LEOJIT74.jpg?smart=true&auth=35abf851efe4a85dd6cf07a2c970903b8cf1e3362fe7b7a688b2515cce598911&width=1200&height=630",
+                "url": "https://www.irishtimes.com/food/drink/2026/08/23/john-wilson-tried-a-tiktok-inspired-spicy-sauvy-b-heres-his-verdict/",
+                "source": "The Irish Times",
+                "date": "2026-08-23T05:00:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man secures protection order against adult daughters after living in fear, court hears",
+                "desc": "Father tells court he ‘should have done it years ago’",
+                "image": "https://www.irishtimes.com/resizer/v2/HGDXO7TQDRBTRAG4BQCI57MGEY.jpg?smart=true&auth=1bbafff8ac1782d1ba3eb12500952ad2a3e5c2cd341fe74298db7d50037225c0&width=1200&height=630",
+                "url": "https://www.irishtimes.com/ireland/2026/08/23/man-secures-protection-order-against-adult-daughters-after-living-in-fear-court-hears/",
+                "source": "The Irish Times",
+                "date": "2026-08-23T05:00:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The new energy war in the Eastern Mediterranean (and why Egypt and Turkey stand to gain)",
+                "desc": "Among the countries of the region, the rivalry for control of natural gas is less about managing the fields and more about the infrastructure required to facilitate energy sales",
+                "image": "https://imagenes.elpais.com/resizer/v2/3AE725VYNNDP3I4M5TK25GSMUM.jpg?auth=61395ea9e0a93ca2ffab4ed08556c41baa0ec151f24f4a871598b148cbbc9aa6&width=1200",
+                "url": "https://english.elpais.com/economy-and-business/2026-08-23/the-new-energy-war-in-the-eastern-mediterranean-and-why-egypt-and-turkey-stand-to-gain.html",
+                "source": "EL PAÍS English",
+                "date": "2026-08-23T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "American expat calls out older Aussies for 'uncomfortable' changing room act in front of son",
+                "desc": "He said it's 'disrespectful', but many Aussies responded saying he was in the wrong.",
+                "image": "https://s.yimg.com/lo/mysterio/api/5ab7a6c31871f918943e426e9e77f7194ffb5cdcdac81adca66083822ac72910/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fswimming_1213.jpg",
+                "url": "https://au.lifestyle.yahoo.com/american-expat-calls-out-older-aussies-for-uncomfortable-changing-room-act-in-front-of-son-050000144.html",
+                "source": "Yahoo Lifestyle Australia",
+                "date": "2026-08-23T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Major blow for Derby as factory closure could put whole families out of work",
+                "desc": "One former employee has called the news 'disappointing' as hundreds of people are set to lose their jobs",
+                "image": "https://i2-prod.derbytelegraph.co.uk/article11122067.ece/ALTERNATES/s1200d/0_wefwefwefwefwef.jpg",
+                "url": "https://www.derbytelegraph.co.uk/news/derby-news/major-blow-derby-factory-closure-11121382",
+                "source": "Derbyshire Live",
+                "date": "2026-08-23T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ohio rallies around Beaver's Mini Mart in logo fight with Buc-ee’s",
+                "desc": "Gas station giant Buc-ee’s has sparked a backlash in Ohio over one of its frequent trademark infringement lawsuits.",
+                "image": "https://dims.apnews.com/dims4/default/10f3fe4/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F69%2Fb1%2F3177061bca2bf124ae8319520122%2F8fc27d59aa544486975d23ca92e61f6f",
+                "url": "https://apnews.com/article/bucees-ohio-trademark-lawsuit-beaver-mini-mart-7aceb65a23ffdf0514df67fbe3cc6b91",
+                "source": "AP News",
+                "date": "2026-08-23T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China does not want its internet users to fall in love with an artificial intelligence",
+                "desc": "Beijing bans chatbots from fostering emotional dependence in a pioneering regulation to contain the social risks of a technology poised to transform personal relationships",
+                "image": "https://imagenes.elpais.com/resizer/v2/LT7KF3NJQJLUPNZA3SW6WV5G74.jpg?auth=477de03e04775d422fcf39f0598d10b9f08f193f9e7711f10924adc249ca11dc&width=1200",
+                "url": "https://english.elpais.com/technology/2026-08-23/china-does-not-want-its-internet-users-to-fall-in-love-with-an-artificial-intelligence.html",
+                "source": "EL PAÍS English",
+                "date": "2026-08-23T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Graphene-enhanced biochar membrane boosts thermal storage and moisture control for ventilation systems",
                 "desc": "Researchers at Yonsei University, National University of Singapore and Dankook University have developed a paper membrane that combines food-waste-derived biochar, graphene, and a phase-change material to simultaneously store thermal energy, improve heat transfer, and manage moisture - aimed at energy-recovery ventilation and other building thermal-management systems. Phase-change materials (PCMs) are attractive for thermal energy storage because they absorb heat as they melt and release it as they solidify, but conventional PCMs are limited by low thermal conductivity and a tendency to leak during melting. To address this, the team produced biochar from mixed food waste carbonized at 400°C, then activated it with potassium hydroxide at temperatures between 600°C and 800°C. A small amount of graphene - roughly 1% by weight - was then coated onto the biochar via ultrasonication to widen its pore structure and improve conductivity, before the resulting porous carbon was infiltrated with docosane, a paraffin-based PCM, to form the composite. The biochar activated at 700°C performed best, with a surface area of 323.1 m2/g and a mesopore proportion of 82.8%, providing ample space to hold the PCM while helping prevent leakage. Adding graphene to this engineered biochar increased latent heat storage by up to 72.0% compared with the non-graphitized composite, reaching a phase-change enthalpy of 93.1 J/g at around 48.4°C, and the composite retained roughly 90.2% of that enthalpy after 1,000 heating-cooling cycles - equivalent to the researchers' estimate of about three years of ventilation-system operation.When bonded to a commercial paper membrane, the composite raised thermal conductivity by 96.1% relative to a pristine reference membrane while retaining 80.2% of the bulk composite's latent heat. Despite the added conductivity, moisture permeability remained strong, with the membrane meeting ISO 12572 requirements and posting an equivalent air-layer thickness of 0.71 - below the 1.0 threshold considered permeable.",
                 "image": "https://www.graphene-info.com/img/graphene-info-favicon.ico",
@@ -542,99 +632,72 @@
                 "source": "BBC",
                 "date": "2026-08-22T23:00:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Energy UK says struggling households need more support with bills",
-                "desc": "Industry body Energy UK says the current support for households most in need does not go far enough.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ea9/live/7085b770-9d97-11f1-9233-8716b68cda7b.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko",
-                "source": "BBC",
-                "date": "2026-08-22T23:00:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Announced Its Largest-Ever Stock Buyback Under Tim Cook's Leadership. Here's Why the Size of the Repurchase Program Matters for Shareholders.",
-                "desc": "No company has bought back more of its shares than Apple over the last decade.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883258%2Faapl.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/08/22/apple-announced-its-largest-ever-stock-buyback-und/",
-                "source": "The Motley Fool",
-                "date": "2026-08-22T23:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "64 foreign children, one tiny flat",
-                "desc": "<p>When Aor visited the Din Daeng district office sometime in June, a registration officer questioned her about the number of Myanmar children listed on her family's household registration.</p>",
-                "image": "https://static.bangkokpost.com/media/content/20260823/c1_3306494_260823054421_700.jpg",
-                "url": "https://www.bangkokpost.com/thailand/special-reports/3306494/64-foreign-children-one-tiny-flat",
-                "source": "Bangkok Post",
-                "date": "2026-08-22T22:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dunkin' Donuts Viral Foot Washing Incident Under Investigation",
-                "desc": "America runs on Dunkin' Donuts ... but customers of one particular store may want to run somewhere else to buy coffee -- because an employee was caught washing their feet in the sink.",
-                "image": "https://imagez.tmz.com/image/d7/16by9/2026/08/22/d76662a02a9c428883391434adbc9388_xl.jpg",
-                "url": "https://www.tmz.com/2026/08/22/dunkin-donuts-investigated-over-foot-washing-employee/",
-                "source": "TMZ",
-                "date": "2026-08-22T22:41:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "home buyers need to know before diving in",
-                "desc": "The property market winds are blowing strongly in first-home buyers’ favour – and as they make the most of the conditions, many are buying with less than a...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/5AHDCBI6MNDMNBBPF7IIASNEDU.jpg?auth=10f7b5b2886bef4e27f8e0e0fe5d267dc244858d0a3c20a56d515ffb4f9439b5&width=1200&height=675&quality=70&smart=true",
-                "url": "https://www.nzherald.co.nz/business/personal-finance/investment/low-deposit-home-loans-what-first-home-buyers-need-to-know-before-diving-in-nadine-higgins/premium/2W7TSV2X4VCZ5ELF62COUELLPA/",
-                "source": "NZ Herald",
-                "date": "2026-08-22T22:32:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How bitcoin and gold went from a slump to an MVP week in just a few days",
-                "desc": "Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.",
-                "image": "https://ca-times.brightspotcdn.com/dims4/default/eb3b82a/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F48%2F03%2F725f0ce94b54b234618b4eed9fb9%2F31ff263d42c84ae8b238acb5bd661c75.jpg",
-                "url": "https://www.latimes.com/world-nation/story/2026-08-22/how-bitcoin-gold-went-from-slump-to-mvp-week-in-just-few-days",
-                "source": "Los Angeles Times",
-                "date": "2026-08-22T22:23:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Temiskaming cobalt refinery expansion beginning to 'take shape'",
-                "desc": "Northern Ontario industrial service companies awarded structural, mechanical, electrical contracts at Electra Battery Materials refinery project",
-                "image": "https://www.vmcdn.ca/f/files/nob/screenshot-2026-08-20-32457-pm.png;w=928;h=749;mode=crop",
-                "url": "https://www.sootoday.com/local-news/temiskaming-cobalt-refinery-expansion-beginning-to-take-shape-12691443",
-                "source": "SooToday.com",
-                "date": "2026-08-22T22:17:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sibanye Stillwater (JSE:SSW) Stock Fair Value Edges Higher As Analysts Back Organic Growth",
-                "desc": "The ZAR fair value estimate for Sibanye Stillwater is now ZAR49.77 compared with the prior ZAR47.27, which points to a modest uplift in the modelled price target. Analysts link this change to a mixed but constructive view that weighs the company’s focus on organic growth and deleveraging against project execution and commodity risks. Read on to see how this updated price target fits into the wider Sibanye Stillwater story and how you can track the evolving narrative from here. Analyst Price...",
-                "image": "https://s.yimg.com/lo/mysterio/api/0A08D6D4244DD54E02D46131D484CEAEDE66C4AD58E763B372F1C9D02164973B/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F15d86b06753ea10fbf3763badd0d17cd.jpg",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/sibanye-stillwater-jse-ssw-stock-220949105.html",
-                "source": "Yahoo Finance",
-                "date": "2026-08-22T22:09:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WPP (LSE:WPP) Stock Fair Value Rises After Split Analyst Targets And 2026 Guidance",
-                "desc": "The latest update lifts WPP's fair value estimate from £3.07 to £3.49, putting a fresh spotlight on where the stock might reasonably trade. That change sits alongside analyst targets that range from a cautious £2.40 to more optimistic views between £3.90 and £4.35, underscoring how split opinion is on the pace of any improvement in growth and margins. Read on to see what is driving this wide spread in expectations and how you can track the evolving story around WPP from here. Analyst Price...",
-                "image": "https://s.yimg.com/lo/mysterio/api/5B14C35CCEEC0BD081ED51EA73DDC10E1B7FDFB3C3DF0BE846E09D4B585F6418/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fae61b9d9279ae16dce370df1ad69157b.jpg",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/wpp-lse-wpp-stock-fair-220907215.html",
-                "source": "Yahoo Finance",
-                "date": "2026-08-22T22:09:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Black Coffee floors Maserati in R7m court victory",
-                "desc": "High court orders luxury carmaker to pay DJ’s company after failed car deal",
-                "image": "https://www.timeslive.co.za/resizer/v2/4Q6WM2PBFJGBVNKPXIUC6EXS4E.jpg?smart=true&auth=df4d6a8bec77a66f0abc4e88d27f1c5bd819be262999cf656cd2fbbf91f91aab&width=1200&height=630",
-                "url": "https://www.timeslive.co.za/lifestyle/2026-08-22-black-coffee-crosses-the-finish-line-with-r7m-win-against-maserati/",
-                "source": "TimesLIVE",
-                "date": "2026-08-22T22:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Turning Corroded, Bug-Loving WiiMotes Into A Working One",
+                "desc": "A time-honored tradition in the electronics repair business is to make many into one, specifically a stack of broken devices into one that works. So too with a triplet of heavily corroded and bug-infe...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/08/wiimotes_ewastelander_youtube.jpg",
+                "url": "https://hackaday.com/2026/08/22/turning-corroded-bug-loving-wiimotes-into-a-working-one/",
+                "source": "Hackaday",
+                "date": "2026-08-23T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Realme P4s Confirmed for August 26 With 8,000mAh Battery",
+                "desc": "Realme has confirmed the P4s for August 26 in India with an 8,000mAh battery, Samsung M14 OLED at 1.5K/144Hz, Dimensity 7400 Ultra, and IP69. Price TBA.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/08/Realme-P4s-Confirmed-for-August-26-With-8000mAh-Battery.jpg",
+                "url": "https://memeburn.com/realme-p4s-confirmed-for-august-26-with-8000mah-battery/",
+                "source": "Memeburn",
+                "date": "2026-08-23T04:48:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Exynos 2700 resurfaces on Geekbench with a 4.24 GHz prime core",
+                "desc": "A fresh Geekbench AI listing for Samsung's S5E9975 (Exynos 2700) shows the same 1+4+1+4 CPU cluster spotted in April, now clocked dramatically higher.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/exynos60.jpg",
+                "url": "https://www.notebookcheck.net/Exynos-2700-resurfaces-on-Geekbench-with-a-4-24-GHz-prime-core.1375686.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-08-23T04:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Life stress waking you up at 3 a.m.? A sleep doctor shares 3 steps to beat 'adjustment insomnia'",
+                "desc": "Neurologist and author Dr. Pedram Navab explains why big life changes — from work stress to back-to-school anxiety — trigger late-night wake-ups, and shares his free 3-step routine to sleep through the night.",
+                "image": "https://cdn.mos.cms.futurecdn.net/JXc2Qv5MffqwdcVntrEx6C-1920-80.jpg",
+                "url": "https://www.tomsguide.com/wellness/sleep/life-stress-waking-you-up-at-3-a-m-a-sleep-doctor-shares-3-steps-to-beat-adjustment-insomnia",
+                "source": "Tom's Guide",
+                "date": "2026-08-23T04:19:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xenoblade Genesis Drops 'Chronicles' From Its Name, Hits Switch 2 in 2027",
+                "desc": "Nintendo and Monolith Soft unveil Xenoblade Genesis, a fantasy reboot dropping \"Chronicles\" from its title, exclusive to Switch 2 in 2027.",
+                "image": "https://www.shanethegamer.com/wp-content/uploads/2026/08/stg-xenoblade-genesis-87929.jpg",
+                "url": "https://www.shanethegamer.com/nintendo/xenoblade-genesis-drops-chronicles-from-its-name-hits-switch-2-in-2027/",
+                "source": "Shane the Gamer",
+                "date": "2026-08-23T04:11:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HUAWEI Pura 90s Pro Series Now Available in PH Stores",
+                "desc": "HUAWEI has officially launched the Pura 90s Pro series in the Philippines following the end of its initial pre-order period. To recap, the lineup includes the HUAWEI Pura 90s Pro and Pura 90s Pro Max, each offering advanced camera hardware, a sleek design, and reliable 5G performance. The Pura 90s Pro is priced starting at…",
+                "image": "https://i0.wp.com/manilashaker.com/wp-content/uploads/2026/08/HUAWEI-Pura-90s-Pro-Max-1.png?fit=1200%2C675&ssl=1",
+                "url": "https://manilashaker.com/huawei-pura-90s-pro-series-now-available-in-ph-stores/",
+                "source": "ManilaShaker Philippines",
+                "date": "2026-08-23T04:07:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DRAM Controller Register Manipulation Breaks CPU Memory Isolation",
+                "desc": "Security researcher Christopher Domas developed skitter-creek-bath-salts, an open-source hardware security tool that disrupts CPU privilege boundaries by manipulating memory controller translation reg",
+                "image": "https://res.infoq.com/news/2026/08/amd-memory-exploit/en/card_header_image/headerSpaghetti-1787373938676.jpg",
+                "url": "https://www.infoq.com/news/2026/08/amd-memory-exploit/",
+                "source": "infoq.com",
+                "date": "2026-08-23T04:04:30Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Review: ‘Denshattack!’ goes off the rails and that’s a great thing",
                 "desc": "In Denshattack!, developer Undercoders takes concepts from games such as Tony Hawk Pro Skater and Skate.",
@@ -1201,72 +1264,99 @@
                 "source": "bgr.com",
                 "date": "2026-08-22T20:47:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "NHRA Legend Hemi Super Bee 4-Speed Parked in the Mid-Seventies Shows 4.9 Miles, There Is a Catch",
-                "desc": "The only Mopar raced by Wally Booth in 1969, the car was built as a 383 4-speed, but Dodge delivered the 426 Hemi for free, just to have Wally running it",
-                "image": "https://s1.cdn.autoevolution.com/images/news/nhra-legend-hemi-super-bee-4-speed-parked-in-the-mid-seventies-shows-49-miles-there-is-a-catch-274540_1.jpg",
-                "url": "https://www.autoevolution.com/news/nhra-legend-hemi-super-bee-4-speed-parked-in-the-mid-seventies-shows-49-miles-there-is-a-catch-274540.html",
-                "source": "autoevolution",
-                "date": "2026-08-22T20:43:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google's new Pixel 11 offers an incredible camera feature that Apple should copy",
-                "desc": "Earlier this month, Google unveiled its new Pixel 11 lineup. The phones themselves were rather similar compared to the previous...",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-cosmic-orange-cameras-angle.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/",
-                "source": "9to5Mac",
-                "date": "2026-08-22T20:43:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Capcom talks Onimusha: Way of the Sword for Nintendo Switch 2, says you may not feel a difference compared to PS5",
-                "desc": "Nintendo Switch 2 players don’t have anything to fear when it comes to the upcoming Onimusha: Way of the Sword, as Capcom has indicated that it’ll be pretty much like the PS5 version. Based on some of the publisher’s other recent games like Resident Evil Requiem and Pragmata, this isn’t overly surprising. The Nintendo Switch 2 version of Onimusha: Way...",
-                "image": "https://nintendoeverything.com/wp-content/uploads/Onimusha-Sw-2-interview.jpg",
-                "url": "https://nintendoeverything.com/capcom-talks-onimusha-way-of-the-sword-for-nintendo-switch-2-says-its-just-like-the-ps5-version/",
-                "source": "Nintendo Everything",
-                "date": "2026-08-22T20:33:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "In With Apple Is Older Than You'd Think",
-                "desc": "Even old Apple devices you haven’t touched in years could still get you some credit towards a new phone.",
-                "image": "https://www.engadget.com/img/gallery/the-oldest-iphone-model-you-can-trade-in-with-apple-is-older-than-youd-think/l-intro-1786647748.jpg",
-                "url": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
-                "source": "Engadget",
-                "date": "2026-08-22T20:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Godot 4.7.2 Open-Source Game Engine Released with 57 Bug Fixes",
-                "desc": "Godot 4.7.2 is now available with 57 fixes covering the editor, rendering, Wayland, multiplayer, input handling, and more.",
-                "image": "https://linuxiac.com/wp-content/uploads/2026/08/godot472.jpg",
-                "url": "https://linuxiac.com/godot-4-7-2-open-source-game-engine-released-with-57-bug-fixes/",
-                "source": "Linuxiac",
-                "date": "2026-08-22T19:59:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ARR vs ARR. Watch out for this one sly trick.",
-                "desc": "What’s in an acronym? How to read between the lines.",
-                "image": "https://substackcdn.com/image/fetch/$s_!j2-v!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa138e2aa-b515-4f94-b4e1-53ed637207db_1310x890.png",
-                "url": "https://garymarcus.substack.com/p/arr-vs-arr-watch-out-for-this-one",
-                "source": "Marcus on AI | Substack",
-                "date": "2026-08-22T19:47:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spotted: New Shimano Dura-Ace R9300 groupset breaks cover at La Vuelta a España",
-                "desc": "It's 13-speed, and it has a new shifter button, but it hasn't switched to fully wireless",
-                "image": "https://cdn.mos.cms.futurecdn.net/X8aRHUyARN8kAGstraMdmg-2560-80.png",
-                "url": "https://www.cyclingnews.com/cycling-tech-components/groupsets/new-dura-ace-spotted/",
-                "source": "Cyclingnews",
-                "date": "2026-08-22T19:30:36Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Burnham’s Japan party scandal: PM faces Commons heat over £6,600 VIP bash kept off register",
+                "desc": "UK Prime Minister Andy Burnham is facing pressure over claims he failed to declare a £6,600 VIP reception he attended during a trade trip ..",
+                "image": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2021/08/pmnewslogo-75x50.gif",
+                "url": "https://pmnewsnigeria.com/2026/08/23/burnhams-japan-party-scandal-pm-faces-commons-heat-over-6600-vip-bash-kept-off-register/",
+                "source": "PM News Nigeria",
+                "date": "2026-08-23T05:03:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Today in History: August 23, 1991 - Soviet coup collapses: Tens of thousands surge to Red Square",
+                "desc": "During the three-day coup, Yeltsin led opposition to new government and demanded Gorbachev's return to power.",
+                "image": "https://cdn.forumcomm.com/dims4/default/bce0e33/2147483647/strip/true/crop/2472x4142+0+0/resize/636x1066!/brightness/12x0/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F15%2Fac%2F0064febc49efbdf75f16716c61c6%2Fgrand-forks-herald-1991-08-23-1.jpg",
+                "url": "https://www.grandforksherald.com/community/today-in-history-august-23-1991-soviet-coup-collapses-tens-of-thousands-surge-to-red-square",
+                "source": "Grand Forks Herald",
+                "date": "2026-08-23T05:02:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sydney Swans fans turn out in record numbers for AFLW match but hundreds walk out before men’s fixture",
+                "desc": "Supporters held banners in support of women as others expressed conflicted feelings at SCG double-header",
+                "image": "https://i.guim.co.uk/img/media/86d4f9cdc503c92e0d28d5e3a14329be1a1e77b7/90_0_3781_3025/master/3781.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5331269f157cf417a1347c43ebc5a03e",
+                "url": "https://www.theguardian.com/sport/2026/aug/23/sydney-swans-fans-turn-out-to-support-aflw-team-but-hundreds-walk-out-before-mens-match",
+                "source": "The Guardian",
+                "date": "2026-08-23T05:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Romania is falling behind the renewables race. Can the EU's biggest solar farm save it?",
+                "desc": "The Dama Solar farm in Romania could produce enough power for almost one million people.",
+                "image": "https://images.euronews.com/articles/stories/09/88/24/37/1200x675_cmsv2_3ef379cc-b4a8-5727-aa1d-e0e99101696e-9882437.jpg",
+                "url": "https://www.euronews.com/2026/08/23/romania-is-falling-behind-the-renewables-race-can-the-eus-biggest-solar-farm-save-it",
+                "source": "Euronews.com",
+                "date": "2026-08-23T05:00:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran accuses Trump of creating ‘nuclear insecurity’ amid fresh US sanctions threat",
+                "desc": "Iran's Supreme National Security Council Secretary Mohsen Rezaei warned that Tehran would target the interests of countries that assist Washington's economic campaign.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260823045841_Mohsen-Rezaee.jpeg",
+                "url": "https://www.moneycontrol.com/world/iran-accuses-trump-of-creating-nuclear-insecurity-amid-fresh-us-sanctions-threat-article-14013129.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-08-23T05:00:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Ukraine plans to thwart Putin's ballistic missile blitz",
+                "desc": "Ukraine has a Russian ballistic missile problem - and a plan to solve it",
+                "image": "https://inews.co.uk/wp-content/uploads/2026/08/Sequence-03_5.gif?w=440&h=248&crop=1",
+                "url": "https://inews.co.uk/news/world/ukraine-thwart-putins-ballistic-missile-blitz-4719155",
+                "source": "The i Paper",
+                "date": "2026-08-23T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘The country of my birth has lost its heart’: Miriam Margolyes on how to fix broken Britain",
+                "desc": "At 85, the actor has lived through much political upheaval. But, she writes, today’s hostile times feel like ‘the worst yet’. She reflects on her journey from teenage Tory to full-throated leftist – and says there’s still time to save the nation from the bad guys",
+                "image": "https://i.guim.co.uk/img/media/e509de0442d1186d93b616d1af2794cc515e5641/1733_1820_8293_6634/master/8293.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cbdb4e0c42475bd4a06ecc3e9cc4b98c",
+                "url": "https://www.theguardian.com/culture/2026/aug/23/the-country-of-my-birth-has-lost-its-heart-miriam-margolyes-on-how-to-fix-broken-britain",
+                "source": "The Guardian",
+                "date": "2026-08-23T05:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI: Pope Leo warns against innovation as vehicle for ideological, economic colonialism",
+                "desc": "Pope Leo XIV has warned about the subtle forms of domination of technology following the global acceptance of artificial intelligence (AI)...",
+                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/05/Pope-Leo-XIV.png",
+                "url": "https://businessday.ng/life/article/ai-pope-leo-warns-against-innovation-as-vehicle-for-ideological-economic-colonialism/",
+                "source": "Business News Nigeria",
+                "date": "2026-08-23T04:53:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somalia Parliament Debates New Bills on Family, Child Rights and Sexual Offences.",
+                "desc": "142 MPs attend first reading as lawmakers question timing and content of family affairs and child rights proposals.",
+                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgwPjoelAfd4JLlUI2uROWoqT10KH3Qa7VFreE",
+                "url": "https://www.dawan.africa/news/somalia-parliament-debates-new-bills-on-family-child-rights-and-sexual-offences",
+                "source": "Dawan Africa",
+                "date": "2026-08-23T04:51:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Korean survivor fights for workplace harassment ‘justice’",
+                "desc": "Employers have no clear legal duty to tell victims of workplace harassment how their cases ended. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6c297a3b96f8392efe0e0cfe1677876cc967873b5630405474c94933cab14a54",
+                "url": "https://www.straitstimes.com/asia/east-asia/south-korean-survivor-fights-for-workplace-harassment-justice",
+                "source": "The Straits Times",
+                "date": "2026-08-23T04:46:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The ‘ordinary’ woman accused of assassinating a Russian commander in Crimea",
                 "desc": "Friends close to Margarita Reutt are shocked she could allegedly plant bomb that killed Ukrainian defector Robert Shageev, while others recall a stubborn grit to see any plan through",
@@ -1806,98 +1896,8 @@
                 "source": "RTE.ie",
                 "date": "2026-08-22T22:50:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump shares image calling Hormuz 'new US territory'; Iran says strait 'closed'",
-                "desc": "US News: NEW DELHI: US President Donald Trump on Sunday again shared an image on Truth Social describing the strategically vital Strait of Hormuz as “NEW US Te.",
-                "image": "https://static.toiimg.com/thumb/msid-133432966,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/trump-shares-image-calling-hormuz-new-us-territory-iran-says-strait-closed/articleshow/133432963.cms",
-                "source": "The Times of India",
-                "date": "2026-08-22T22:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Women going to China on family visas soaring",
-                "desc": "At least 4,226 Bangladeshi women travelled to China on family visas between 2020 and 2025.",
-                "image": "https://www.thedailystar.net/themes/custom/swallow/favicon.ico",
-                "url": "https://www.thedailystar.net/news/bangladesh/news/women-going-china-family-visas-soaring-4254476",
-                "source": "The Daily Star",
-                "date": "2026-08-22T22:48:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marvel actors back campaign to release Palestinian terrorist Marwan Barghouti",
-                "desc": "Barghouti is a former leader of the Al-Aqsa Martyrs' Brigades, a terrorist organization that carried out many suicide bombings and shooting attacks during the Second Intifada.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734855",
-                "url": "https://www.jpost.com/international/article-906270",
-                "source": "The Jerusalem Post",
-                "date": "2026-08-22T22:41:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Karmelo Anthony: Texas judge denies request for new trial in deadly stabbing at track meet",
-                "desc": "A Texas judge denied a new trial for Karmelo Anthony on Saturday in the stabbing death of a 17-year-old athlete at a high school track meet, a killing that drew national attention and led to harassment of the families.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2291193076.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/08/22/us/karmelo-anthony-motion-for-new-trial-denied-texas",
-                "source": "CNN",
-                "date": "2026-08-22T22:32:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
-                "desc": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8a08889aa07-1787431048.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds",
-                "source": "Al Jazeera",
-                "date": "2026-08-22T22:31:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada retaliates as trade war with US escalates",
-                "desc": "New Canadian tariffs will notably target the US steel and dairy industries following the collapse of trade negotiations between the neighboring countries.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/06/76645a4e-mark-carney-1.jpg",
-                "url": "https://www.freemalaysiatoday.com/category/business/2026/08/23/canada-retaliates-as-trade-war-with-us-escalates",
-                "source": "Free Malaysia Today",
-                "date": "2026-08-22T22:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DR Congo, M23 rebel group agree on roadmap for comprehensive peace talks",
-                "desc": "Sides reaffirm commitment to pursue negotiations toward conflict resolution, according to joint statement",
-                "image": "https://www.usmuslims.com/d/news/0.jpg",
-                "url": "https://www.usmuslims.com/dr-congo-m23-rebel-group-agree-on-roadmap-for-comprehensive-peace-talks-367413h.htm",
-                "source": "usmuslims.com",
-                "date": "2026-08-22T22:30:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South China Morning Post",
-                "desc": "As Australia expands defence pacts in the region, Beijing courts local communities with ‘small and beautiful’ aid.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/22/8e55f5b6-be0c-48c0-a730-cb883327350b_585779c2.jpg?itok=IGq-cbxA&v=1787380977",
-                "url": "https://www.scmp.com/news/china/diplomacy/article/3364908/how-pacific-nations-walk-tightrope-between-western-security-and-chinese-trade",
-                "source": "South China Morning Post",
-                "date": "2026-08-22T22:00:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘This is our home’: The women fighting a company’s land claim on Indonesia’s Pari Island",
-                "desc": "Pari Island is at the centre of a decade-long land dispute which has seen local residents attempting to defend their community land rights against PT Bumi Pari Asri which says it owns about 90 per cent of the island via freehold certificates and right-to-build permits.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--YMKgoUjw--/c_crop,h_1125,w_2000,x_0,y_238/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/21/indonesia_pari_island_story_25.jpg?itok=YIr8KX3r",
-                "url": "https://www.channelnewsasia.com/asia/indonesia-pari-island-women-jakarta-environment-advocacy-6332926",
-                "source": "CNA",
-                "date": "2026-08-22T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Commentary: Trump’s South Korea defence flip reminds Japan it has no Plan B",
-                "desc": "While alarming for Seoul, an abandonment of US guarantees could be disastrous for Tokyo, says Leo Lewis for The Financial Times.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--lKvQ1tPP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Japan_Military_Explainer_04201.jpg?itok=vZhjVZS8",
-                "url": "https://www.channelnewsasia.com/commentary/trump-south-korea-japan-military-defence-6333256",
-                "source": "CNA",
-                "date": "2026-08-22T22:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-23T16:00:14.157410Z"
+    "lastGlobalSync": "2026-08-23T17:03:28.643355Z"
 }
