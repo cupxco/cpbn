@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "People’s Daily defends China’s economic resilience, says annual targets will be met",
+                "desc": "Risks are ‘being resolved and contained’, back-to-back weekend commentaries assert after second-quarter GDP misses mark.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/23/de0b0fd5-8a03-417c-a667-3eb346add04b_19b5c236.jpg?itok=WNTVXZBw&v=1787473188",
+                "url": "https://www.scmp.com/news/article/3364968/peoples-daily-defends-chinas-economic-resilience-says-annual-targets-will-be-met",
+                "source": "South China Morning Post",
+                "date": "2026-08-23T09:00:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3 Tech Compounders Fit for Warren Buffett's Portfolio",
+                "desc": "Meta, Microsoft, and TSMC are all Buffett-style compounding stocks.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884394%2Fbuffett21-tmf.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/08/23/tech-compounders-fit-for-warren-buffett-portfolio/",
+                "source": "The Motley Fool",
+                "date": "2026-08-23T09:00:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sell U.S. dollar versus these currencies, BCA says",
+                "desc": "Investing.com -- Investors should sell the U.S. dollar against the South Korean won, Japanese yen, Taiwan dollar, Singapore dollar and euro as American real interest rates decline and foreign portfolio inflows weaken, BCA Research said.",
+                "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+                "url": "https://finance.yahoo.com/markets/currencies/articles/sell-u-dollar-versus-currencies-090007888.html",
+                "source": "Yahoo Finance",
+                "date": "2026-08-23T09:00:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Can I ever legally turn left on a red light?",
+                "desc": "The only place to turn left on a red light in most of Canada is from one one-way street to another one",
+                "image": "https://www.theglobeandmail.com/resizer/v2/PWJDZHDC5JGH3MP3LGN27UB27U.jpg?auth=72c457258d67ac6dcfd5a53b15b570f54d72068cb0010f435cb5e5cc9846d10a&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/drive/culture/article-can-i-ever-legally-turn-left-on-a-red-light/",
+                "source": "The Globe and Mail",
+                "date": "2026-08-23T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Women are feeling the pressure to look forever young, but some are pushing back",
+                "desc": "Anti-aging products and procedures are everywhere — and new research indicates women are feeling the pressure to look perpetually younger earlier. Noticing a wave of anti-aging content \"taking over\" social media, London, Ont., researcher Megan Lindloff decided to investigate.",
+                "image": "https://i.cbc.ca/ais/956b0035-9db2-459a-af0a-c5b07fad3004,1787349040396/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1170%2C658%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/london/women-anti-aging-pushback-9.7123105",
+                "source": "CBC",
+                "date": "2026-08-23T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canadian researcher prepares to spend 8 months in Arctic Ocean",
+                "desc": "Canadian Maxime Geoffroy leads Canadian researchers on expedition in the Arctic Ocean.",
+                "image": "https://www.cp24.com/resizer/v2/FGR5EBFFUZEJ5IBXLMUBRO6BCI.png?smart=true&auth=879aad8370709b7c7d61a8b28d7e047c2075b8bfdbbe7b92dfcccd692994e0f9&width=1200&height=630",
+                "url": "https://www.cp24.com/news/canada/2026/08/22/meet-the-canadian-researcher-preparing-for-8-months-stuck-in-arctic-ice/",
+                "source": "CP24",
+                "date": "2026-08-23T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OTC Markets CEO: 250 years of market history just collided with a new SEC rule",
+                "desc": "If the SEC reform is finalized, growth-stage companies relying on discounted, dilutive private placements will gain a public, transparent alternative.",
+                "image": "https://s.yimg.com/lo/mysterio/api/4C84A6D207625B61BF9EBAF3DFB8680C404620CD367424E467080F676A6A561C/subgraphmysterio/resizefill_w1200_h1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Fd0b4be8de198fdf5dc3bec28b9d192cb.jpg",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/otc-markets-ceo-250-years-090000984.html",
+                "source": "Yahoo Finance",
+                "date": "2026-08-23T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fuel Emergency As 20+ Flights Divert Or Hold After Man Breaches Manchester Airport",
+                "desc": "A late-night security incident prompted multiple diversions and long holds as one jet declared a fuel emergency.",
+                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/132-easyjet-airbus-a320neo-lukas-wunderlich-_-shutterstock-1.jpg?w=1600&h=900&fit=crop",
+                "url": "https://simpleflying.com/manchester-airport-breach-flights-diverted-fuel-emergency/",
+                "source": "Simple Flying",
+                "date": "2026-08-23T08:58:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rs 62,500 crore to Rs 39 lakh crore: The roadmap of India’s new mobile manufacturing scheme",
+                "desc": "The plan aims to double mobile-phone exports to around Rs 15 lakh crore, while increasing the share of components, design, engineering and manufacturing value retained in India.",
+                "image": "https://images.financialexpressdigital.com/2026/08/mobile_c9a9bd.jpg",
+                "url": "https://www.financialexpress.com/business/industry-rs-62500-crore-to-rs-39-lakh-crore-roadmap-of-india-new-mobile-phone-manufacturing-scheme-4323678/",
+                "source": "financialexpress.com",
+                "date": "2026-08-23T08:56:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia Delivers First 'Vera Rubin' Systems to Microsoft, Notifies Customers of 15% AI Server Price Hike",
+                "desc": "Nvidia's first production units of its next-generation AI computing platform \"Vera Rubin\" have arrived at Microsoft data centers. Microsoft CEO Satya…",
+                "image": "https://img.biggo.com/QksXHfwxRxTNkF8VlFxS6ZBnFoqXq3pcIpgRZNqkP5g/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2FjZjE3MzY4LWVkNDYtNDRhMi1iNzdhLWE2MmI2ZTkwZDhhOF8xNzg3NDc1NTk2X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/acf17368-ed46-44a2-b77a-a62b6e90d8a8",
+                "source": "finance.biggo.com",
+                "date": "2026-08-23T08:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "President Donald Trump Claims Fuel Prices Are \"Tumbling Down,\" but Trumpflation Has Become a Broad-Based Problem",
                 "desc": "Energy prices aren't the headline inflation story any longer.",
                 "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883823%2Fpresident-donald-trump-wh-bw-photo-press-conference-daniel-torok.jpg&w=1200&op=resize",
@@ -542,99 +632,63 @@
                 "source": "EL PAÍS English",
                 "date": "2026-08-23T05:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Graphene-enhanced biochar membrane boosts thermal storage and moisture control for ventilation systems",
-                "desc": "Researchers at Yonsei University, National University of Singapore and Dankook University have developed a paper membrane that combines food-waste-derived biochar, graphene, and a phase-change material to simultaneously store thermal energy, improve heat transfer, and manage moisture - aimed at energy-recovery ventilation and other building thermal-management systems. Phase-change materials (PCMs) are attractive for thermal energy storage because they absorb heat as they melt and release it as they solidify, but conventional PCMs are limited by low thermal conductivity and a tendency to leak during melting. To address this, the team produced biochar from mixed food waste carbonized at 400°C, then activated it with potassium hydroxide at temperatures between 600°C and 800°C. A small amount of graphene - roughly 1% by weight - was then coated onto the biochar via ultrasonication to widen its pore structure and improve conductivity, before the resulting porous carbon was infiltrated with docosane, a paraffin-based PCM, to form the composite. The biochar activated at 700°C performed best, with a surface area of 323.1 m2/g and a mesopore proportion of 82.8%, providing ample space to hold the PCM while helping prevent leakage. Adding graphene to this engineered biochar increased latent heat storage by up to 72.0% compared with the non-graphitized composite, reaching a phase-change enthalpy of 93.1 J/g at around 48.4°C, and the composite retained roughly 90.2% of that enthalpy after 1,000 heating-cooling cycles - equivalent to the researchers' estimate of about three years of ventilation-system operation.When bonded to a commercial paper membrane, the composite raised thermal conductivity by 96.1% relative to a pristine reference membrane while retaining 80.2% of the bulk composite's latent heat. Despite the added conductivity, moisture permeability remained strong, with the membrane meeting ISO 12572 requirements and posting an equivalent air-layer thickness of 0.71 - below the 1.0 threshold considered permeable.",
-                "image": "https://www.graphene-info.com/img/graphene-info-favicon.ico",
-                "url": "https://www.graphene-info.com/graphene-enhanced-biochar-membrane-boosts-thermal-storage-and-moisture-control",
-                "source": "Graphene-Info",
-                "date": "2026-08-23T04:00:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bailiffs sent to Morrisons supermarket in Fernhill Heath",
-                "desc": "Morrisons Local in Fernhill Heath is closed after bailiffs were called and the landlord took possession of the building on Friday (August 21).",
-                "image": "https://www.worcesternews.co.uk/resources/images/21358307.jpg?type=og-image",
-                "url": "https://www.worcesternews.co.uk/news/26487256.bailiffs-sent-morrisons-supermarket-fernhill-heath/",
-                "source": "The Worcester News",
-                "date": "2026-08-23T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'It's our way of saying thank you' - famous strongman to attend gym's 20th birthday",
-                "desc": "A famous strongman is set to appear at a gym’s 20th birthday celebration.",
-                "image": "https://s.yimg.com/lo/mysterio/api/8c7cd52f23704eea0d23eafeb7ea568e9c0b0ad638b02732f578336346a365ef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fyork_press_254%2F98c6aa26fdc3c5b8c85a75180de5ffdf.jpg",
-                "url": "https://uk.sports.yahoo.com/news/way-saying-thank-famous-strongman-040000436.html",
-                "source": "Yahoo Sports UK",
-                "date": "2026-08-23T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Death notices and funeral announcements from the Hull Daily Mail August 17-23, 2026",
-                "desc": "Our thoughts are with those who have lost a loved one",
-                "image": "https://i2-prod.hulldailymail.co.uk/article11121257.ece/ALTERNATES/s1200d/0_hullsunjpeg.jpg",
-                "url": "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/death-notices-funeral-announcements-hull-11121167",
-                "source": "Hull Live",
-                "date": "2026-08-23T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Asia's largest offshore crude oil processing platform topped out",
-                "desc": "The main structure of Asia's largest offshore crude oil processing platform, the Huizhou 19-6 platform, was topped out on Saturday in Zhuhai, southern China's Guangdong Province.Once completed, the platform will support the development and production",
-                "image": "https://news.cgtn.com/news/2026-08-23/Asia-s-largest-offshore-crude-oil-processing-platform-topped-out-1PPX0Oj62be/img/ca4cb5e5847f4a3d82a6273b9bc15359/ca4cb5e5847f4a3d82a6273b9bc15359-1280.png",
-                "url": "https://news.cgtn.com/news/2026-08-23/Asia-s-largest-offshore-crude-oil-processing-platform-topped-out-1PPX0Oj62be/p.html",
-                "source": "news.cgtn.com",
-                "date": "2026-08-23T03:59:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Quake-prone Indonesia’s first nuclear power plant plan stokes safety fears",
-                "desc": "While some people see the proposed project on an uninhabited island with ‘pride’, others warn of safety issues.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/23/41c1accb-d451-4299-baf6-35cf72c47769_e46e628f.jpg?itok=0akM_8aG&v=1787457116",
-                "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364952/quake-prone-indonesias-first-nuclear-power-plant-plan-stokes-safety-fears",
-                "source": "South China Morning Post",
-                "date": "2026-08-23T03:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How will Sensex, Nifty behave on Monday? 4 factors to drive D-Street action this week",
-                "desc": "This week's Dalal Street movements are set to be heavily influenced by the ongoing tensions between Iran and the US, alongside fluctuations in global oil prices. Rising bond yields are causing investors to adopt a cautious stance as they navigate market trends. Key economic data from the US and statements from the Federal Reserve will also play a significant role in trading decisions.",
-                "image": "https://img.etimg.com/thumb/msid-133433956,width-1200,height-630,imgsize-219432,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-will-sensex-nifty-behave-on-monday-4-factors-to-drive-d-street-action-this-week/articleshow/133433930.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-08-23T03:47:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Organised criminals targeting Scots shoppers in elaborate gift card rigging scam",
-                "desc": "Gangs are 'draining' thousands of pounds in hard-earned cash from customers in the lucrative £8bn gift card and voucher market.",
-                "image": "https://i2-prod.dailyrecord.co.uk/article35473458.ece/ALTERNATES/s1200d/0_Hacker.jpg",
-                "url": "https://www.dailyrecord.co.uk/news/crime/organised-criminals-targeting-scots-shoppers-37582076",
-                "source": "Daily Record",
-                "date": "2026-08-23T03:45:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Otedola’s 51% Target Stake In FirstHoldCo Triggers Expectations, Concerns",
-                "desc": "LAGOS - If there is one topic that has dom­inated public discourse in the Ni­gerian financial cycle in recent weeks, it is the bid by Olufemi Ot­edola, the billionaire chairman of First Holding Company, to raise his stake in the parent com­pany of 130-year old First Bank of Nigeria Limited, the country’s oldest financial institution,...",
-                "image": "https://independent.ng/wp-content/uploads/2026/08/Femi-Otedola.jpg",
-                "url": "https://independent.ng/otedolas-51-target-stake-in-firstholdco-triggers-expectations-concerns/",
-                "source": "Independent Newspaper Nigeria",
-                "date": "2026-08-23T03:45:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft to all the students wondering whether it still is worth learning how to code, the answer is: Now…",
-                "desc": "Tech News News: Microsoft Learn, the company's official training and certification arm, dropped a single line on X this week that walks straight into the most anxious.",
-                "image": "https://static.toiimg.com/thumb/msid-133433939,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-to-all-the-students-wondering-whether-it-still-is-worth-learning-how-to-code-the-answer-is-now/articleshow/133433932.cms",
-                "source": "The Times of India",
-                "date": "2026-08-23T03:45:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "The world's first webcam was switched off 25 years ago today - 128x128 grayscale feed predated the World Wide Web to monitor a Cambridge coffee pot",
+                "desc": "It has been a quarter century since the world’s first webcam was turned off for good. The Trojan Room Coffee Pot was retired on Wednesday, August 22, 2001, after 10 years of service at Cambridge University.",
+                "image": "https://s.yimg.com/lo/mysterio/api/2f9aaaba4457bf2399c06ab09ad326219c5f1bc090f2a24540dba9c45dcf5cce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_hardware_319%2F2817f9407ab3e6094a4090e93cfd47c0.jpg",
+                "url": "https://tech.yahoo.com/science/articles/worlds-first-webcam-switched-off-090000681.html",
+                "source": "Yahoo Tech",
+                "date": "2026-08-23T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "6 Android phones with microSD card slots you can still buy in 2026",
+                "desc": "Fed up with paying through the nose for more storage? Here are six Android phones to buy right now that still have a microSD card slot.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/motorola-moto-g-stylus-2026-back.jpg",
+                "url": "https://www.androidauthority.com/android-phones-with-microsd-card-slots-still-buy-2026-3695885/",
+                "source": "Android Authority",
+                "date": "2026-08-23T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "mVolt pushes GeForce RTX 50 overclocking beyond VBIOS limits, RTX 5080 user reports 680W without shunt mod",
+                "desc": "mVolt expands Blackwell tuning with core, memory, XBAR and voltage controls. The tool is already appearing in top RTX 50 benchmark runs.",
+                "image": "https://cdn.videocardz.com/1/2026/08/MVOLT-HERO-RTX50-OC-TOOL.webp",
+                "url": "https://videocardz.com/newz/mvolt-pushes-geforce-rtx-50-overclocking-beyond-vbios-limits-rtx-5080-user-reports-680w-without-shunt-mod",
+                "source": "VideoCardz.com",
+                "date": "2026-08-23T08:45:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xiaomi CEO Lei Jun Was Just Spotted With a Mystery Foldable Phone",
+                "desc": "Xiaomi CEO Lei Jun has been spotted using an unreleased red foldable phone that could be the upcoming Xiaomi MIX Fold 5.",
+                "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fimage-1787474406967-6a8ab1f3e2517.jpg",
+                "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-ceo-lei-jun-was-just-spotted-with-a-mystery-foldable-phone",
+                "source": "Gizchina.com",
+                "date": "2026-08-23T08:44:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure",
+                "desc": "OVHcloud will raise prices from September, with 2026-edition gaming servers up 87 percent and other recent servers 40 to 59 percent. Founder Octave Klaba says memory cost six times more in June than a",
+                "image": "https://res.infoq.com/news/2026/08/ovhcloud-memory-price-rise/en/headerimage/generatedHeaderImage-1787136997592.jpg",
+                "url": "https://www.infoq.com/news/2026/08/ovhcloud-memory-price-rise/",
+                "source": "infoq.com",
+                "date": "2026-08-23T08:43:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mattel Introduces a 1:1-Scale Model Featuring the Xbox Console, and More",
+                "desc": "A collectors item.",
+                "image": "https://sm.ign.com/t/ign_in/screenshot/default/xbox_447n.1200.jpg",
+                "url": "https://in.ign.com/xbox/269329/mattel-introduces-a-11-scale-model-featuring-the-xbox-console-and-more",
+                "source": "IGN India",
+                "date": "2026-08-23T08:34:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "83% of phone storage issues come down to just two culprits - here’s how to fix both",
                 "desc": "Based on recent reader poll, this step-by-step guide shows you how to tweak simple settings on iOS and Android to clear our your bloated storage.",
@@ -1210,63 +1264,99 @@
                 "source": "RS Web Solutions",
                 "date": "2026-08-23T02:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Vivo V80 Lite 5G Launch Date Confirmed for September 3: Massive 10,000mAh Battery Teased",
-                "desc": "The Vivo V80 Lite 5G is set to arrive in September 2026 with a massive 10,000mAh battery. Explore the leaked specifications, design highlights, and expected India launch details for this upcoming mid-range battery monster.",
-                "image": "https://images.gizbot.com/img/2026/08/vivo-v80-lite-launch-india-jpg-1787423469769_1787423470417-1200x675.jpg",
-                "url": "https://www.gizbot.com/mobile/news/vivo-v80-lite-5g-launch-date-confirmed-september-3-massive-10000mah-battery-teased-014-128061.html",
-                "source": "Gizbot",
-                "date": "2026-08-23T01:50:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Garmin Fenix 9 retailer listing reveals three sizes and a big inReach push",
-                "desc": "Garmin Fenix 9 retailer listings reveal 18 models across 43 mm, 47 mm and 51 mm sizes, with separate AMOLED, MIP Solar and inReach versions.",
-                "image": "https://gadgetsandwearables.com/wp-content/uploads/2026/08/Garmin-Fenix-8.jpeg",
-                "url": "https://gadgetsandwearables.com/2026/08/23/garmin-fenix-9-retailer-leak/",
-                "source": "Gadgets & Wearables",
-                "date": "2026-08-23T01:45:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This Foldable A2 Scanner Fits in a Bag and Doubles as a Live Presenter",
-                "desc": "https://youtu.be/yVzMlWvSzAA Scanners haven't changed much in how they occupy a workspace. A flatbed sits in the middle and claims that real estate whether it's in use or not. Overhead models are more flexible, but they still tend to take up a fixed spot in any setup. For anyone working from a compact home office or",
-                "image": "https://www.yankodesign.com/images/design_news/2026/08/this-foldable-a2-scanner-fits-in-a-bag-and-doubles-as-a-live-presenter/ScanMax_320_hero.jpg",
-                "url": "https://www.yankodesign.com/2026/08/22/this-foldable-a2-scanner-fits-in-a-bag-and-doubles-as-a-live-presenter/",
-                "source": "Yanko Design",
-                "date": "2026-08-23T01:45:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "YouTube versus Netflix, biodegradable milk packets, and more...",
-                "desc": "In this week's Sunny Side Up, we talk about YouTube versus Netflix, biodegradable milk packets, and more...",
-                "image": "https://cdn.finshots.app/images/2026/08/YT-vs-netflix.jpg",
-                "url": "https://finshots.in/archive/youtube-versus-netflix-biodegradable-milk-packets-and-more/",
-                "source": "Finshots",
-                "date": "2026-08-23T01:33:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "All The Aussie Times For This Week's Gamescom Streams",
-                "desc": "All The Aussie Times For This Week's Gamescom Streams",
-                "image": "https://press-start.com.au/wp-content/uploads/2026/08/GAMESCOM-ONLLLL.jpg",
-                "url": "https://press-start.com.au/news/2026/08/23/gamescom-2026-stream-times-australia/",
-                "source": "Press Start Australia",
-                "date": "2026-08-23T01:31:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New flagship iQoo tablet tipped for September launch alongside iQoo 16",
-                "desc": "A new leak has revealed additional details about iQoo’s upcoming compact tablet. The device is tipped to debut alongside the company's next flagship phone, the iQoo 16.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iqoo-new-tablet-news.png",
-                "url": "https://www.notebookcheck.net/New-flagship-iQoo-tablet-tipped-for-September-launch-alongside-iQoo-16.1375810.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-08-23T01:12:05Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Etsu Nupe orders set up of peace panels to end farmer",
+                "desc": "The Etsu Nupe, Alhaji Yahaya Abubakar, has directed all communities under the Bida Emirate to establish five to seven-member committees, comprising farmers and nomads to address and prevent conflicts between the two groups. The monarch gave the directive on Saturday during a forum with the eight Local Government Council Chairmen, District Heads, and Village Heads […]",
+                "image": "https://21stcenturychronicle.com/wp-content/uploads/2023/06/Etsu-Nupe.jpg",
+                "url": "https://21stcenturychronicle.com/etsu-nupe-orders-set-up-of-peace-panels-to-end-farmer-herder-clashes/",
+                "source": "21st CENTURY CHRONICLE",
+                "date": "2026-08-23T09:00:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tokayev on future vice president: “It will be a well",
+                "desc": "Head of State Kassym-Jomart Tokayev voted in the elections of deputies of the Kurultai of Kazakhstan. After voting, the Head of State held a briefing for media representatives, reports Tengrinews.kz with reference to the Akorda press service.",
+                "image": "https://tengrinews.kz/userdata/news_en/2026/news_273076/resize/photo_551330.png",
+                "url": "https://en.tengrinews.kz/news_overview/tokayev-on-future-vice-president-it-will-be-a-well-known-273076/",
+                "source": "TengriNews",
+                "date": "2026-08-23T08:59:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Name of Kazakhstan’s Vice President to be announced within 7-10 days - Tokayev",
+                "desc": "ASTANA, Kazakhstan, August 23. The name of the person who will take the post of Vice President of Kazakhstan will be announced within the next week or 10 days. According to the presidential press…",
+                "image": "https://www.trend.az/media/2026/07/16/tokayev_china.jpg",
+                "url": "https://www.trend.az/casia/kazakhstan/4217315.html",
+                "source": "trend.az",
+                "date": "2026-08-23T08:58:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World News Today Live Updates: Pakistan army chief Asim Munir to visit Tehran on Monday, Iran says",
+                "desc": "World News Today | US Iran War News Live Updates: Trump shared an image calling the Strait of Hormuz \"US territory\" as Iran warned against Washington's economic pressure.",
+                "image": "https://images.indianexpress.com/2026/04/Photo-2026-04-16T134623.722.jpg",
+                "url": "https://indianexpress.com/article/world/us-iran-war-news-live-updates-trump-threat-strait-of-hormuz-middle-east-conflict-tehran-10845429/",
+                "source": "The Indian Express",
+                "date": "2026-08-23T08:55:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "10 coldest countries in Africa to visit",
+                "desc": "The coldest countries in Africa may challenge the common perception of the continent as a place of constant heat, with several countries",
+                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/coldest.webp",
+                "url": "https://www.vanguardngr.com/2026/08/10-coldest-countries-in-africa-to-visit/",
+                "source": "Vanguard News",
+                "date": "2026-08-23T08:52:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump hits back at Canada over retaliatory tariffs, says neighbour has been hurting US farmers",
+                "desc": "The US president says Canada \"wants the benefits of being a state, without being one\", accusing the northern neighbours of taking advantage of American farmers \"for many years\".",
+                "image": "https://live-production.wcms.abc-cdn.net.au/5080f48ab9e38f2b849d3a287d42917c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=137&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-08-23/donald-trump-hits-back-at-canada-over-tariffs-mark-carney/107069122",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-08-23T08:52:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kites from Gaza found in Israel spark memory of 2018 arson attacks",
+                "desc": "There were no suspicious items found on the kites, say IDF",
+                "image": "https://api.thejc.atexcloud.io/image-service/view/acePublic/alias/contentid/1tazkrp7bcbinx78tcz/0/kite-jpg.webp?w=1200&q=0.6",
+                "url": "https://www.thejc.com/news/israel/kites-from-gaza-found-in-israel-spark-memory-of-2018-arson-attacks-ih5mvqdm",
+                "source": "The Jewish Chronicle",
+                "date": "2026-08-23T08:51:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prime minister in Kyiv: Russia shouldn't count on us tiring of Ukraine support",
+                "desc": "Ukraine must receive everything it needs to defend itself, Prime Minister Kristen Michal (Reform) said as he arrived in Kyiv for an NB8 summit with President Volodymyr Zelenskyy.",
+                "image": "https://s.err.ee/photo/crop/2026/08/23/3779839hffd0t24.jpg",
+                "url": "https://news.err.ee/1610117167/prime-minister-in-kyiv-russia-shouldn-t-count-on-us-tiring-of-ukraine-support",
+                "source": "news | ERR",
+                "date": "2026-08-23T08:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Safest Countries in the World - Latvia's Position Will Surprise You",
+                "desc": "The ranking is based on 23 indicators that take into account public safety, internal and international conflicts, as well as the level of militarization.",
+                "image": "https://news.inbox.eu/w/img/3a/57/3a579a6b7fef3071a5.webp",
+                "url": "https://news.inbox.eu/150nnpe-the-safest-countries-in-the-world-latvia-s-position-will-surprise-you?language=en",
+                "source": "Inbox.eu",
+                "date": "2026-08-23T08:46:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HK hosts regional robotics contest",
+                "desc": "Artificial intelligence is moving beyond digital interfaces and into the physical world of robotics. The ABU (Asia-Pacif...",
+                "image": "https://newsstatic.rthk.hk/images/mfile_1867198_1_M_20260823162031.jpg",
+                "url": "https://news.rthk.hk/rthk/en/component/k2/1867198-20260823.htm?spTabChangeable=0",
+                "source": "香港電台新聞網",
+                "date": "2026-08-23T08:46:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Lesufi admits Gauteng government failed to properly manage immigration and demand",
                 "desc": "Reflecting on his province, Lesufi admitted that those in power had underestimated the work needed.",
@@ -1806,98 +1896,8 @@
                 "source": "The Straits Times",
                 "date": "2026-08-23T04:46:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The ‘ordinary’ woman accused of assassinating a Russian commander in Crimea",
-                "desc": "Friends close to Margarita Reutt are shocked she could allegedly plant bomb that killed Ukrainian defector Robert Shageev, while others recall a stubborn grit to see any plan through",
-                "image": "https://i.guim.co.uk/img/media/061a2f31d3ba8a955314059e370bf330d7233aa3/0_129_1440_1152/master/1440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd26890456aae16d9c8afaea5923fe84",
-                "url": "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
-                "source": "The Guardian",
-                "date": "2026-08-23T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trivia of the Day for August 23, 2026: 25 Questions and Answers for Curious Minds",
-                "desc": "Consider yourself a trivia whiz? Start your day this Sunday with 25 questions.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1999,h_1124/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01m0fr8rcsexrhbeqr4a.png",
-                "url": "https://www.mentalfloss.com/quizzes/trivia-of-the-day/august-23-2026",
-                "source": "Mental Floss",
-                "date": "2026-08-23T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pakistan’s ambassador presents credentials to President of Dominican Republic",
-                "desc": "ISLAMABAD  -  Pakistan’s ambassador Rizwan Saeed Sheikh presented his credentials to Luis Abinader, President of the Dominican Republic during a ceremony",
-                "image": "https://www.nation.com.pk/print_images/large/2026-08-23/pakistan-s-ambassador-presents-credentials-president-dominican-republic-1787457402-3100.jpg",
-                "url": "https://www.nation.com.pk/23-Aug-2026/pakistan-s-ambassador-presents-credentials-president-dominican-republic",
-                "source": "The Nation (Pakistan )",
-                "date": "2026-08-23T03:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Could result in injury or death’: Thanedar urges US to halt ICE’s electric shock glove plan",
-                "desc": "US News: Indian-American Congressman Shri Thanedar and two other senior Democratic lawmakers have urged the US government to immediately halt Immigration and C.",
-                "image": "https://static.toiimg.com/thumb/msid-133434005,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/could-result-in-injury-or-death-thanedar-urges-us-to-halt-ices-electric-shock-glove-plan/articleshow/133433897.cms",
-                "source": "The Times of India",
-                "date": "2026-08-23T03:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toronto man charged after alleged break-in at synagogue",
-                "desc": "Toronto man charged after allegedly breaking into a North York synagogue and stealing religious items. Police later recovered the items.",
-                "image": "https://2.a7.org/files/pictures/000/1206673.jpg",
-                "url": "https://www.israelnationalnews.com/news/432086",
-                "source": "Israel National News",
-                "date": "2026-08-23T03:52:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UAE's Nafis salary support rules are changing from September",
-                "desc": "Nafis will automatically reduce applicable support by $136 (AED500) every six months",
-                "image": "https://www.arabianbusiness.com/cloud/2026/08/23/emirati-employee.jpg",
-                "url": "https://www.arabianbusiness.com/life/uae-nafis-salary-support-rules",
-                "source": "Arabian Business",
-                "date": "2026-08-23T03:45:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Narathiwat imposes curfew after multiple bomb and arson attacks",
-                "desc": "NARATHIWAT: Authorities in Narathiwat province imposed a curfew following an escalation in insurgency that included multiple bomb and arson attacks on Saturday evening.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/23/4073551.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/23/narathiwat-imposes-curfew-after-multiple-bomb-and-arson-attacks",
-                "source": "The Star",
-                "date": "2026-08-23T03:43:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Politics-administration dichotomy and power of institutionalisation: Building legacies that outlive leaders",
-                "desc": "...created them. This is where the politics–administration dichotomy and the principle of institutionalisation become particularly relevant.",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/08/bf51c7cd-07f2-4b89-922a-e7de5c6ad0f8-1.png",
-                "url": "https://businessday.ng/life/article/politics-administration-dichotomy-and-power-of-institutionalisation-building-legacies-that-outlive-leaders/",
-                "source": "Business News Nigeria",
-                "date": "2026-08-23T03:38:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Two people killed by explosive device detonation in Sumy region border area",
-                "desc": "A man and a woman were killed in the Sumy region near the border as a result of the detonation of explosive devices; another woman was injured. — Ukrinform.",
-                "image": "https://static.ukrinform.com/photos/2025_11/thumb_files/630_360_1762590638-279.jpeg",
-                "url": "https://www.ukrinform.net/rubric-ato/4156721-two-people-killed-by-explosive-device-detonation-in-sumy-region-border-area.html",
-                "source": "Ukrinform",
-                "date": "2026-08-23T03:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
-                "desc": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council",
-                "image": "https://i.guim.co.uk/img/media/9f4b6e8cc4cc111f0a7886d32b166aae30122886/257_4_1250_999/master/1250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc7f3b73c6cb35ba6b2d48d0da779d8d",
-                "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-                "source": "The Guardian",
-                "date": "2026-08-23T03:34:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-23T20:34:03.441661Z"
+    "lastGlobalSync": "2026-08-23T21:00:51.543546Z"
 }
