@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Loonie down as U.S. imposes 50% tariffs",
+                "desc": "The loonie fell against the U.S. dollar as the U.S. imposed 50 per cent tariffs on roughly $28 billion worth of Canadian goods and threatened even more.",
+                "image": "https://www.bnnbloomberg.ca/resizer/v2/2EOCCKXTFZDZVL6J52WNKSHOTE.jpg?smart=true&auth=ac721050dfe097136c419c430cd93ad77a7429d7c8f4135840d147fba9177ce7&width=1200&height=630",
+                "url": "https://www.bnnbloomberg.ca/markets/2026/08/24/loonie-down-in-late-morning-trading-as-us-imposes-tariffs-and-trump-threatens-more/",
+                "source": "BNN Bloomberg",
+                "date": "2026-08-24T16:23:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hexham fined £3,500 after sheep vaccine found in sampling unit fridge on raceday",
+                "desc": "Hexham has been fined £3,500 after an open container of a sheep vaccine was found in a sampling unit fridge on a raceday in June. A stewards’ inquiry... Read More",
+                "image": "https://media.racingpost.gcpp.io/prod/images/gm_preview/e0b9058d4882-sheep.webp",
+                "url": "https://www.racingpost.com/news/jump-racing/hexham-fined-3500-after-sheep-vaccine-found-in-sampling-unit-fridge-on-raceday-aAhfy7f8KnRk/",
+                "source": "Racing Post",
+                "date": "2026-08-24T16:20:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Quanta Services slides as investors weigh recent debt raise and acquisition activity",
+                "desc": "Quanta Services (PWR) is down 3.2% today. Here is some analysis on what might have caused this price",
+                "image": "https://www.quiverquant.com/images/pwr_rect_new.png",
+                "url": "https://www.quiverquant.com/news/Quanta+Services+slides+as+investors+weigh+recent+debt+raise+and+acquisition+activity",
+                "source": "Quiver Quantitative",
+                "date": "2026-08-24T16:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WildBrain acquires Personality AI to build interactive AI experiences around IP",
+                "desc": "Canadian children’s media company WildBrain has acquired US-based Personality AI, a developer of Generative Artificial Intelligence (AI) experiences for entertainment characters, for an initial consideration of about US$11m in cash and one million WildB",
+                "image": "https://cdn.c21media.net/wp-content/uploads/2026/08/john-goscha.png",
+                "url": "https://www.c21media.net/news/wildbrain-acquires-personality-ai-to-build-interactive-ai-experiences-around-ip/",
+                "source": "C21media",
+                "date": "2026-08-24T16:18:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SEC Rulemaking Is Giving Corporate Finance a New Crypto Hurdle",
+                "desc": "For finance teams, the question is whether a stablecoin, tokenized security or digital-asset rail can earn its way onto a balance sheet.",
+                "image": "https://www.pymnts.com/wp-content/uploads/2026/02/SEC-crypto.png",
+                "url": "https://www.pymnts.com/cryptocurrency/2026/sec-rulemaking-is-giving-corporate-finance-new-crypto-hurdle-rate/",
+                "source": "PYMNTS.com",
+                "date": "2026-08-24T16:15:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Euromoney names Citi PH Best Digital Bank for Large Corporates",
+                "desc": "EUROMONEY, a leading provider of competitive intelligence and certification for the global banking and finance industry, recently awarded Citi 47 global, regional and local market awards, including World’s Best Bank for Large Corporates and World’s Best Bank for Securities Services.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1187932.jpg",
+                "url": "https://www.manilatimes.net/2026/08/25/tmt-newswire/euromoney-names-citi-ph-best-digital-bank-for-large-corporates/2410888",
+                "source": "The Manila Times",
+                "date": "2026-08-24T16:13:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Loonie down in late-morning trading as U.S. imposes tariffs and Trump threatens more",
+                "desc": "The loonie fell against the U.S. dollar in late-morning trading as the U.S. imposed 50 per cent tariffs on roughly $28 billion worth of Canadian goods and President Donald Trump threatened even more.",
+                "image": "https://www.castanet.net/content/2026/8/e4c24e50486419544a37145e7e2f713f7fee688583284bce3671148ef1c9d640.jpg",
+                "url": "https://www.castanet.net/news/Business/628992/Loonie-down-in-late-morning-trading-as-U-S-imposes-tariffs-and-Trump-threatens-more",
+                "source": "Castanet",
+                "date": "2026-08-24T16:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Quebec wakes to ‘worst-case scenario’ as Trump’s tariffs hit",
+                "desc": "Quebec entered a perilous new phase of the trade war Saturday after trade talks between Canada and the U.S. collapsed.",
+                "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/08/hcp_politics_08222026_039.ph_304814817.jpg",
+                "url": "https://montrealgazette.com/news/quebec-wakes-to-worst-case-scenario-as-trump-slaps-new-50-tariffs-on-canada/",
+                "source": "Montreal Gazette",
+                "date": "2026-08-24T16:11:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft (MSFT) Stock Trades Near Fair Value Following Its 66% Run",
+                "desc": "Microsoft stock has delivered a 65.9% gain over the past 5 years, yet today the Discounted Cash Flow (DCF) intrinsic value estimate points to a price that is only about 3% away from where shares currently trade, while earnings based multiples still screen as relatively attractive. A 65.9% return over 5 years suggests Microsoft has already rewarded patient shareholders, so fresh money is stepping in after a strong multi year run rather than at an early stage. Heavy investment in AI...",
+                "image": "https://s.yimg.com/lo/mysterio/api/CA54FF4CAED43A816119761AC0BDB7D404BE8E2CF0F35EB98CD6C47AD3B4C375/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fdf4b73b911e0bdb53cb26c5cad04a925.jpg",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-trades-near-161058382.html",
+                "source": "Yahoo Finance",
+                "date": "2026-08-24T16:10:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Minimum Wage Theft Hit Record High Last Year-Here Are The Key Numbers",
+                "desc": "One in 20 non-exempt workers were underpaid last year, a figure that has nearly doubled since 2004, according to Cleveland Fed researchers.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a8c6c755084527575af1f95/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/24/58-million-workers-were-shortchanged-on-wages-last-year-as-minimum-wage-theft-hit-record-high/",
+                "source": "Forbes",
+                "date": "2026-08-24T16:10:03Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Down Arrow Button Icon",
                 "desc": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
                 "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Oil-Aug-24.jpg?resize=1200,600",
@@ -542,99 +632,99 @@
                 "source": "The Guardian",
                 "date": "2026-08-24T09:05:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "As Global Electricity Demand Rises, Power Queen Unveils \"Power What Matters.” to Power What Truly Matters",
-                "desc": "With 'Always Ready.” as its brand mission, Power Queen connects reliable products with long-term support to bring greater peace of mind to every important power need.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1187503.png",
-                "url": "https://www.manilatimes.net/2026/08/24/tmt-newswire/globenewswire/as-global-electricity-demand-rises-power-queen-unveils-power-what-matters-to-power-what-truly-matters/2410723",
-                "source": "The Manila Times",
-                "date": "2026-08-24T08:03:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Danske Bank share buy-back programme: transactions in week 34",
-                "desc": "Company announcement no. 42 2026Danske Bank",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1187496.jpg",
-                "url": "https://www.manilatimes.net/2026/08/24/tmt-newswire/globenewswire/danske-bank-share-buy-back-programme-transactions-in-week-34/2410720",
-                "source": "The Manila Times",
-                "date": "2026-08-24T08:03:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First Patient Treated in PIONEER-1 Registrational Trial of Privosegtor for Optic Neuritis",
-                "desc": "The PIONEER program marks a key step toward potential first-in-class neuroprotection for optic neuritis and other neurological diseases, supported by positive Acuity Phase 2 data, FDA Breakthrough Therapy and EMA PRIME designations, and recent positive feedback from the FDA Neurology Division.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1187495.jpg",
-                "url": "https://www.manilatimes.net/2026/08/24/tmt-newswire/globenewswire/first-patient-treated-in-pioneer-1-registrational-trial-of-privosegtor-for-optic-neuritis/2410719",
-                "source": "The Manila Times",
-                "date": "2026-08-24T08:03:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First Patient Treated in PIONEER-1 Registrational Trial of Privosegtor for Optic Neuritis",
-                "desc": "The PIONEER program marks a key step toward potential first-in-class neuroprotection for optic neuritis and other neurological diseases, supported by positive Acuity Phase 2 data, FDA Breakthrough Therapy and EMA PRIME designations, and recent positive feedback from the FDA Neurology Division. Oculis Holding AG (Nasdaq: OCS / XICE: OCS) ('Oculis”), a global biopharmaceutical company focused on breakthrough innovations to address significant unmet medical needs in neuro-ophthalmology, today announces that the first patient has been treated in the PIONEER-1 registrational trial evaluating Privosegtor for the treatment of optic neuritis (ON).",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1187494.jpg",
-                "url": "https://www.manilatimes.net/2026/08/24/tmt-newswire/globenewswire/first-patient-treated-in-pioneer-1-registrational-trial-of-privosegtor-for-optic-neuritis/2410718",
-                "source": "The Manila Times",
-                "date": "2026-08-24T08:03:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed after US-Canada talks break down",
-                "desc": "Markets are kicking off an action-packed week featuring Nvidia earnings and the Federal Reserve's Jackson Hole Symposium.",
-                "image": "https://s.yimg.com/lo/mysterio/api/FCAC0FC1603576DB8E1E6CC4C6FC5496BA306EBF466C694F72AE2EFAE52A75ED/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fbea6d0c0-d423-4018-8342-ad3948e2e850",
-                "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
-                "source": "Yahoo Finance",
-                "date": "2026-08-24T08:03:06Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "mRNA Melanoma Therapy Meets Phase 3 Goals",
-                "desc": "Personalized mRNA melanoma therapy improves key outcomes after surgery in a Phase 3 trial. Read more.",
-                "image": "https://www.emjreviews.com/wp-content/uploads/2026/08/AdobeStock_264435958.jpeg",
-                "url": "https://www.emjreviews.com/dermatology/news/landmark-phase-iii-win-for-personalized-mrna-cancer-therapy/",
-                "source": "EMJ",
-                "date": "2026-08-24T08:02:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Louis Vuitton shuts down another store amid fallout from trademark dispute in China",
-                "desc": "The latest China store exit in Guiyang highlights the luxury brand’s struggle to balance prestige with cultural empathy amid legal disputes.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/24/2fafc92b-bd4e-4174-8e46-7bc3d2b6bb03_7a478188.jpg?itok=7GbhX2qP&v=1787556048",
-                "url": "https://www.scmp.com/business/china-business/article/3365041/louis-vuitton-shuts-down-another-store-amid-fallout-trademark-dispute-china",
-                "source": "South China Morning Post",
-                "date": "2026-08-24T08:00:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada won't disclose cost of fighting First Nations in court on water, housing",
-                "desc": "The federal government refuses to disclose how much money Canada has spent fighting First Nations in court over their right to safe drinking water and housing on reserve, which analysts call undue secrecy and an overreach.",
-                "image": "https://i.cbc.ca/ais/1.6774951,1678474754000/full/max/0/default.jpg?im=Crop%2Crect%3D%28118%2C0%2C1802%2C1013%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/indigenous/canada-court-costs-disclosure-9.7313959",
-                "source": "CBC",
-                "date": "2026-08-24T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Will CFTC Regulate Crypto if Bill Fails?",
-                "desc": "CLARITY Act news today faces delays as CFTC Chair Mike Selig says the agency is ready to advance crypto market structure bill with or without Congress.",
-                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/August2026/clarity-act-news-today-cftc-crypto-regulation-without-congress-8476.webp",
-                "url": "https://www.coingabbar.com/en/crypto-currency-news/clarity-act-news-today-cftc-crypto-regulation-without-congress",
-                "source": "Coin Gabbar",
-                "date": "2026-08-24T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fair Work Commission awards ex-wife $24,000 for unfair dismissal",
-                "desc": "A bookkeeper who worked for a nightclub majority-owned by her ex-husband has won compensation for unfair dismissal after being fired over misconduct.",
-                "image": "https://static.ffx.io/images/$zoom_0.2655%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_89/t_crop_custom/q_86%2Cf_auto/60f3cd412b07c2c31e7836ce6e937109e1f9ba8a",
-                "url": "https://www.smh.com.au/business/workplace/woman-wins-24k-after-being-fired-from-ex-husband-s-nightclub-20260824-p60r1x.html",
-                "source": "SMH.com.au",
-                "date": "2026-08-24T07:59:46Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Metal Gear Solid Master Collection Vol. 2 Preorders Are on Sale for 23% Off",
+                "desc": "Metal Gear Solid Master Collection Vol. 2 is out this week, but if you preorder the Steam PC version, you can save 23% off list price.",
+                "image": "https://assets-prd.ignimgs.com/2026/08/24/mgs-collection-vol-2-blogroll-1787585391900.png?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/metal-gear-solid-master-collection-vol-2-pc-preorder-discount",
+                "source": "ign.com",
+                "date": "2026-08-24T16:19:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Witcher IV Launches In 2028, CD Projekt Red Joint-CEO Confirms",
+                "desc": "The sequel to one of the most celebrated games of all time finally has a launch window. - Game Informer",
+                "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/08/24/756ce6b8/The%20Witcher%204%20%E2%80%94%20Cinematic%20Reveal%20Trailer%20_%20The%20Game%20Awards%202024%203-32%20screenshot.jpg.webp",
+                "url": "https://gameinformer.com/2026/08/24/the-witcher-iv-launches-in-2028-cd-projekt-red-joint-ceo-confirms",
+                "source": "Game Informer",
+                "date": "2026-08-24T16:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CLUTCH to be published by Focus Entertainment",
+                "desc": "Focus Entertainment will publish Maverick Games’ open-world action driving game CLUTCH when it launches for PlayStation 5, Xbox Series, and PC via Steam and…",
+                "image": "https://www.gematsu.com/wp-content/uploads/2026/08/CLUTCH-Publisher_08-24-26.jpg",
+                "url": "https://www.gematsu.com/2026/08/clutch-to-be-published-by-focus-entertainment",
+                "source": "Gematsu",
+                "date": "2026-08-24T16:16:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ASUS Launches Ultimate Tech Carry",
+                "desc": "Meet the aptly-named ROG Suitcase 20.",
+                "image": "https://phandroid.com/wp-content/uploads/2026/08/Laptop-Front-Compartment.png",
+                "url": "https://phandroid.com/2026/08/24/asus-launches-ultimate-tech-carry-on-for-travellers/",
+                "source": "Phandroid",
+                "date": "2026-08-24T16:16:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vampire Survivors Meets Spelunky Is My Newest Obsession",
+                "desc": "Messhof's latest turns bullet heaven into a neat and chaotic platformer",
+                "image": "https://kotaku.com/app/uploads/2026/08/blood-dungeons-1200x675.jpg",
+                "url": "https://kotaku.com/i-burnt-my-kids-pancakes-playing-way-too-much-blood-dungeon-an-excellent-vampire-survivors-like-from-the-designer-of-nidhogg-and-id-do-it-again-2000727589",
+                "source": "Kotaku",
+                "date": "2026-08-24T16:15:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How To Block YouTube Shorts From Your Account",
+                "desc": "More and more people are tired of YouTube Shorts, and they would like a way to disable them. As it turns out, there are a couple of measures you can take.",
+                "image": "https://www.slashgear.com/img/gallery/how-to-block-youtube-shorts-from-your-account/l-intro-1787052309.jpg",
+                "url": "https://www.slashgear.com/2238944/how-to-block-youtube-shorts-from-account/",
+                "source": "SlashGear",
+                "date": "2026-08-24T16:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gemini on Pixel 11 Pro testing ‘Device help’ tool",
+                "desc": "On the Pixel 11 Pro, we're seeing a new \"Device help\" tool for the Gemini app that provides personalized and conversational assistance...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/08/24/pixel-11-pro-gemini-device-help/",
+                "source": "9to5Google",
+                "date": "2026-08-24T16:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FC 27 early access release date: When does early access start?",
+                "desc": "For those players that want to jump in as soon as possible, when exactly is the FC 27 early access release date?",
+                "image": "https://images.immediate.co.uk/production/volatile/sites/3/2026/08/FC-27-e0111b6.jpg?resize=1200%2C630",
+                "url": "https://www.radiotimes.com/technology/gaming/fc-27-early-access-release-date/",
+                "source": "Radio Times",
+                "date": "2026-08-24T16:12:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google pushed a mysterious app to the Play Store; here’s what it actually does",
+                "desc": "A mostly blank listing brings questions",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/android-mascot-peering-through-a-magnifying-glass-behind-a-large-colorful-3d-google-play-store-logo.png?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/google-pushed-a-mysterious-app-to-the-play-store-heres-what-it-actually-does/",
+                "source": "Android Police",
+                "date": "2026-08-24T16:11:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CD Projekt Red is \"targeting\" a 2028 release date for The Witcher 4, per a new update from the developer",
+                "desc": "Move over, Songs of the Past - there's a new Witcher news byte in town.",
+                "image": "https://assetsio.gnwcdn.com/Witcher-4_Ciri-UE5-demo.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/the-witcher-4-release-date-2028",
+                "source": "Eurogamer",
+                "date": "2026-08-24T16:06:28Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Linus Torvalds banishes Linux bug with a bot",
                 "desc": "The lad himself finds and fixes a tricky one… or does he?",
@@ -1174,99 +1264,99 @@
                 "source": "GSMArena.com",
                 "date": "2026-08-24T09:01:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "NRG Therapeutics Presents Data on Lead Clinical Asset NRG5051 Confirming Novel Disease-Modifying Approach to ALS",
-                "desc": "Poster presentation at the ALS Association’s ALS Nexus conference, August 23-26Disclosed that NRG5051 acts by inhibiting the mPTP through a novel NLRX1-mediated mechanism of actionData showed that NRG5051 displays profound anti-inflammatory and neuroprotective effects in ALS mouse models STEVENAGE, United Kingdom, Aug. 24, 2026 (GLOBE NEWSWIRE) -- NRG Therapeutics Ltd. ('NRG”), an innovative clinical stage neuroscience company targeting a novel mechanism to restore mitochondrial dysfunction in neurodegenerative diseases, today presented a poster on preclinical and mechanistic data of its lead clinical asset NRG5051 which is being developed as a treatment for amyotrophic lateral sclerosis (ALS), also known as motor neuron disease (MND), and Parkinson’s.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1187492.png",
-                "url": "https://www.manilatimes.net/2026/08/24/tmt-newswire/globenewswire/nrg-therapeutics-presents-data-on-lead-clinical-asset-nrg5051-confirming-novel-disease-modifying-approach-to-als/2410716",
-                "source": "The Manila Times",
-                "date": "2026-08-24T08:03:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gordon Murray GMSV S1: A Road-going Central-Seat V12 McLaren F1 Tribute",
-                "desc": "Last weekend, Professor Gordon Murray—best known for the championship-winning McLaren F1 race cars and the iconic McLaren F1 road car—unveiled his company’s latest naturally aspirated, V12-powered, manual supercar: the GMSV S1, at the 2026 Monterey Car Week. Positioned as the true spiritual successor to the McLaren F1, the S1 from Gordon Murray Special Vehicles (GMSV) […]",
-                "image": "https://autojosh.com/wp-content/uploads/2026/08/gordon_murray_gmsv_s1_autojosh_7.jpg",
-                "url": "https://autojosh.com/gordon-murray-gmsv-s1/",
-                "source": "AUTOJOSH",
-                "date": "2026-08-24T08:02:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gamescom wants responsible expansion after record",
-                "desc": "Gamescom 2026 is about to deliver its biggest show in history, so where does the industry expo head next?",
-                "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltfff644d95ec6a4d9/6a8c0fb53a7a42ca1687782a/Gamescom_Header.png?disable=upscale&width=1200&height=630&fit=crop",
-                "url": "https://www.gamedeveloper.com/business/-each-event-has-to-feel-local-and-relevant-to-its-market-gamescom-boss-wants-responsible-expansion-after-record-breaking-year",
-                "source": "Game Developer",
-                "date": "2026-08-24T08:02:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Camera AirPods Leak Hints at Delayed 2027 Launch",
-                "desc": "Apple camera AirPods might launch in 2027 following a leaked demo video found inside the macOS Tahoe 26.7 release candidate showing new AI features.",
-                "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/AirPods-Pro-1-1.jpg",
-                "url": "https://www.geeky-gadgets.com/apple-camera-airpods-leak/",
-                "source": "Geeky Gadgets",
-                "date": "2026-08-24T08:01:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy S26 FE will feature the same battery capacity as its predecessor",
-                "desc": "It's set to launch this Wednesday. Samsung is set to launch the Galaxy S26 FE later this week and it’s expected to share plenty of similarities with its...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/08/galaxy-s26-fe-same-battery-capacity-as-s25-fe/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/galaxy_s26_fe_will_feature_the_same_size_battery_as_its_predecessor-news-74299.php",
-                "source": "GSMArena.com",
-                "date": "2026-08-24T08:01:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Streamlined ASUS RTX 5070 gaming laptop sinks to its lowest-ever price on Amazon with limited-time deal",
-                "desc": "This excellent ASUS V16 gaming laptop is now down to its best price ever on Amazon, and it's ideal for gaming on the go.",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/08/asus-rtx-5070-gaming-laptop-deal-amazon.jpg",
-                "url": "https://www.pcguide.com/deals/streamlined-asus-rtx-5070-gaming-laptop-sinks-to-its-lowest-ever-price-on-amazon-with-limited-time-deal/",
-                "source": "PC Guide",
-                "date": "2026-08-24T08:00:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fruit fly-inspired algorithm classifies odors from only a few samples",
-                "desc": "In the animal kingdom, energy conservation is essential for survival. That's why our brains have evolved to be extremely energy- and resource-efficient at storing and processing information. Since the 1980s, computational ...",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-to-decipher-smells.jpg",
-                "url": "https://techxplore.com/news/2026-08-fruit-fly-algorithm-odors-samples.html",
-                "source": "Tech Xplore",
-                "date": "2026-08-24T08:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "My Arms Are Longer Now - comedy stealth game sends lawlessness into new territory",
-                "desc": "Developers who met through Australia’s improv scene and publishers of comedic party games have united for this slithering challenge in which you play as one extended limb",
-                "image": "https://i.guim.co.uk/img/media/dd30d5c7d09dd88e7467d20e88884b291ec67ea1/447_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ed3a91f02d5d677625b59d58ded8d22",
-                "url": "https://www.theguardian.com/games/2026/aug/24/my-arms-are-longer-now-comedy-stealth-game-preview",
-                "source": "The Guardian",
-                "date": "2026-08-24T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LAVA EXPANDS VIRAT SERIES WITH THE ALL-NEW PRO AT INR 13999",
-                "desc": "Lava launches Virat V1 Pro 5G with a 6000mAh battery, Unisoc T8200 chipset, 120Hz display, and 50MP AI camera. Available on Flipkart starting at ₹13,999.",
-                "image": "https://www.itvoice.in/wp-content/uploads/2026/08/Copy-of-Redington-2026-08-24T132158.069.jpg",
-                "url": "https://www.itvoice.in/lava-expands-virat-series-with-the-all-new-pro-at-inr-13999",
-                "source": "IT Voice Media Pvt. Ltd.",
-                "date": "2026-08-24T07:59:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From iPods to wired headphones: Why more Gen Zers are picking retro tech",
-                "desc": "As social media fatigue grows, Gen Zers are opting to take a break with retro devices like flip phones and vinyl records.",
-                "image": "https://images.euronews.com/articles/stories/09/88/40/43/1200x675_cmsv2_c67742e1-de7d-52ed-bcd0-4a09388b835c-9884043.jpg",
-                "url": "https://www.euronews.com/next/2026/08/24/from-ipods-to-wired-headphones-why-more-gen-zers-are-picking-retro-tech",
-                "source": "Euronews.com",
-                "date": "2026-08-24T07:57:12Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Miss World 2026: Meet the 24 African Contestants Representing Their Countries in Vietnam",
+                "desc": "Among the 40 main tournament spots at the 73rd Miss World in Vietnam, 24 African delegates are representing the continent through grassroots advocacy, leadership, and professional excellence ahead of the 5 September 2026 finale. - BellaNaija.com. August 24, 2026",
+                "image": "https://www.bellanaija.com/wp-content/uploads/2026/08/Bonang-Matheba-and-Her-Nigerian-Glam-Team_Miss-South-Africa-2024-Finale-5-1000x600.jpg",
+                "url": "https://www.bellanaija.com/2026/08/miss-world-2026-african-contestants-vietnam/",
+                "source": "BellaNaija",
+                "date": "2026-08-24T16:22:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Damning Poll Shows British Backlash Against Taxpayer-Funded Security for Prince Harry",
+                "desc": "The astonishing figures reveal the scale of the PR mountain Harry and Meghan have to climb upon their homecoming.",
+                "image": "https://www.thedailybeast.com/resizer/v2/KV7ANAJ5VRC4HIGEDDA7R5XQYQ.JPG?smart=true&auth=a34ac71c43fbca297ea948b55804d7c8b86a1e37a8c51188a5407d58188eb26b&width=1200&height=630",
+                "url": "https://www.thedailybeast.com/damning-poll-shows-british-backlash-against-taxpayer-funded-security-for-prince-harry/",
+                "source": "The Daily Beast",
+                "date": "2026-08-24T16:20:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Washington Post columnist Karen Attiah was wrongfully fired over Charlie Kirk posts, arbitrator rules",
+                "desc": "The Washington Post has been ordered to reinstate Karen Attiah, the opinion page columnist the media company let go last year after she criticized Charlie Kirk after his fatal shooting.",
+                "image": "https://i.cbc.ca/ais/6da6ba3d-c304-43dd-8a77-c562afd8b929,1787583153462/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C229%2C5180%2C2913%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/us-arbitrator-post-attiah-kirk-9.7318099",
+                "source": "CBC",
+                "date": "2026-08-24T16:14:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Purges, Aging Set Stage for 21st Party Congress Turnover",
+                "desc": "Willy Wo-Lap Lam",
+                "image": "https://substackcdn.com/image/fetch/$s_!zszj!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6aa0211a-8503-408f-a3b2-99269d9d789c_4498x3000.heic",
+                "url": "https://jamestown.substack.com/p/purges-aging-set-stage-for-21st-party",
+                "source": "Substack",
+                "date": "2026-08-24T16:14:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nweke Seeks Dismantling of Historical Narratives Imposed on Africa",
+                "desc": "By Modupe Gbadeyanka The need for Africa to dismantle the historical narratives imposed on the continent by the Western world has been emphasised by a Nigerian scholar, Mr Ogochukwu Chidiebere Nweke. Speaking at an annual lecture to honour the legacy of Zik of Africa in Accra, Ghana, Mr Nweke challenged African youth",
+                "image": "https://businesspost.ng/wp-content/uploads/2026/08/Ogochukwu-Chidiebere-Nweke.jpeg",
+                "url": "https://businesspost.ng/world/nweke-seeks-dismantling-of-historical-narratives-imposed-on-africa/",
+                "source": "Business Post Nigeria",
+                "date": "2026-08-24T16:13:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PH media professionals join Asean training on atrocity prevention",
+                "desc": "SEVEN Filipino media professionals participated in a regional training in Bangkok focused on strengthening journalism’s role in preventing mass atrocities and protecting migrants and other vulnerable communities.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1187918.jpg",
+                "url": "https://www.manilatimes.net/2026/08/25/tmt-newswire/ph-media-professionals-join-asean-training-on-atrocity-prevention/2410883",
+                "source": "The Manila Times",
+                "date": "2026-08-24T16:13:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump threatens 50% tariffs on all cars and trucks from Canada",
+                "desc": "Trade deal on table would have cut top-line tariff rate on Canadian cars and light-duty trucks",
+                "image": "https://www.irishtimes.com/resizer/v2/QBMUIODGX7RFBA2WTLDZBXNFHI.jpg?smart=true&auth=1708113cb8f0699d7ea12eeae87db1e24666e69254c5f5f1618a857ef022dc98&width=1200&height=630",
+                "url": "https://www.irishtimes.com/business/2026/08/24/trump-threatens-50-tariffs-on-all-cars-and-trucks-from-canada-amid-trade-fight/",
+                "source": "The Irish Times",
+                "date": "2026-08-24T16:13:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran blacklists 45 tankers over Strait of Hormuz rules amid fresh US sanctions threat",
+                "desc": "International Business News: Iran has blacklisted 45 tankers for allegedly violating its rules for crossing the Strait of Hormuz and warned that vessels conducting ship-to-ship tr.",
+                "image": "https://static.toiimg.com/thumb/msid-133473072,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/business/international-business/iran-blacklists-45-tankers-over-strait-of-hormuz-rules-amid-fresh-us-sanctions-threat/articleshow/133472985.cms",
+                "source": "The Times of India",
+                "date": "2026-08-24T16:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russian Lawmaker Says Moscow Should End Ukraine War by 2030 to Prepare for NATO Confrontation",
+                "desc": "Russian lawmaker Viktor Sobolev urges ending the Russia-Ukraine war by 2030 for readiness against a potential NATO future confrontation.",
+                "image": "https://storage.united24media.com/og/2/d7/916d79f8e9651ddd388f68da4c459d72.jpg",
+                "url": "https://united24media.com/war-in-ukraine/russian-lawmaker-says-moscow-should-end-ukraine-war-by-2030-to-prepare-for-nato-confrontation-21931",
+                "source": "UNITED24 Media",
+                "date": "2026-08-24T16:09:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran Threatens To Halt All Gulf Oil Exports, Calls Support For US Sanctions ‘Act Of War’",
+                "desc": "Tehran’s posture marks a direct response to recent escalations from Washington aimed at choking off the Islamic Republic’s primary source of revenue.",
+                "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+                "url": "https://saharareporters.com/2026/08/24/iran-threatens-halt-all-gulf-oil-exports-calls-support-us-sanctions-act-war",
+                "source": "Sahara Reporters",
+                "date": "2026-08-24T16:07:30Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ukraine’s robot and drone parade offers a glimpse of the future of war",
                 "desc": "Ukraine marked its 35th Independence Day with a military display unlike any it had staged before: robots on the streets of Kyiv, naval drones on the Dnipro river and UAVs in the skies above the capital, showcasing technologies that have transformed the battlefield since Russia’s full-scale invasion.",
@@ -1806,98 +1896,8 @@
                 "source": "the-star.co.ke",
                 "date": "2026-08-24T09:04:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Russian dream and the death of a promising young Nigerian",
-                "desc": "He had worn Nigeria's uniform once already. Ayebusiwa Olabode Victor, a 34-year-old former navy personnel from Ilutitun in Ondo State, had done his service,",
-                "image": "https://blueprint.ng/wp-content/uploads/2026/08/IMG-20260824-WA0010.jpg",
-                "url": "https://blueprint.ng/russian-dream-and-the-death-of-a-promising-young-nigerian/",
-                "source": "Blueprint Newspapers",
-                "date": "2026-08-24T08:01:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "18th BRICS Academic Forum Opens in Lucknow Under India’s Presidency",
-                "desc": "18th BRICS Academic Forum opens in Lucknow under India’s presidency to shape next-phase cooperation on resilience, innovation and sustainability.",
-                "image": "https://cf-images.assettype.com/edexlive%2F2026-08-24%2Fn09ydo73%2FANI_20260823220908.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://www.edexlive.com/news/18th-brics-academic-forum-opens-in-lucknow-under-indias-presidency-to-chart-next-phase-of-cooperation",
-                "source": "EdexLive",
-                "date": "2026-08-24T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "London is famous for its great trees. More than 70% are at risk due to climate change, research finds",
-                "desc": "Leaves are shriveling, and branches cracking from this summer's heat and drought. Researchers at Kew Gardens in London have assessed more than a million public trees in the city and determined that 73 per cent are at risk due to climate change by the end of the century.",
-                "image": "https://i.cbc.ca/ais/4e27d823-5bc9-468e-b4c6-f89f2480b569,1787325842974/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C605%2C5260%2C2958%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/london-urban-tree-canopy-9.7315236",
-                "source": "CBC",
-                "date": "2026-08-24T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "No fridge, no fans, just blocks of ice: improvising to survive in Pakistan’s searing heat",
-                "desc": "With limited electricity and poor ventilation, many families in Nasirabad have little to shield them from temperatures of up to 50C",
-                "image": "https://i.guim.co.uk/img/media/bbd5abf35cbc73c5b344d7f9323e1c91e03f7324/0_0_3935_3148/master/3935.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95784f313f4f4e8180906ece311e6ed5",
-                "url": "https://www.theguardian.com/global-development/2026/aug/24/pakistan-extreme-heat-50c-ice-blocks-nasirabad",
-                "source": "The Guardian",
-                "date": "2026-08-24T08:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grammy winner Black Coffee wins $438,000 court battle against Maserati over undelivered luxury car",
-                "desc": "South African Grammy winner Black Coffee has won a $438,000 judgment against Maserati over an undelivered customised MC20 Cielo valued at $563,000. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/TRkktkqTURBXy80ZTBjNjYzZWI3NjZkZjMyNTBmMzFiMDZiNzczMWFkOC5qcGVnkpUDAA7NAdjNAQqTBc0EsM0Cdg",
-                "url": "https://africa.businessinsider.com/local/markets/grammy-winner-black-coffee-wins-dollar438000-court-battle-against-maserati-over/cxqze8s",
-                "source": "Business Insider Africa",
-                "date": "2026-08-24T07:57:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man jailed 12 years for rape, sexual assault while on bail",
-                "desc": "A man has been sentenced to 12 years in prison for rape and sexual assault committed while on bail. Learn more about the case and its implications.",
-                "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/24082806/Untitled-design-16_1787556486.webp",
-                "url": "https://punchng.com/man-jailed-12-years-for-rape-sexual-assault-while-on-bail/",
-                "source": "Punch Newspapers",
-                "date": "2026-08-24T07:56:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man jailed 10 years for using ChatGPT to plan bank robbery",
-                "desc": "An American man has been sentenced to 10 years in federal prison for using ChatGPT to plan a bank robbery, threatening employees with death.",
-                "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/24080138/images-49_1787554898.webp",
-                "url": "https://punchng.com/american-jailed-10-years-for-using-chatgpt-to-plan-bank-robbery/",
-                "source": "Punch Newspapers",
-                "date": "2026-08-24T07:56:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Witkoff and Kushner's visit to Ukraine postponed but not canceled",
-                "desc": "Steve Witkoff and Jared Kushner's planned visit to Ukraine has been postponed but not canceled, journalist Alex Raufoglu says",
-                "image": "https://static.nv.ua/shared/system/Article/posters/003/349/893/original/475b78a969ebb2e0af164c9b01eec10f.png?q=85&stamp=20260824105558&f=webp",
-                "url": "https://english.nv.ua/nation/witkoff-and-kushner-s-long-awaited-visit-to-ukraine-postponed-but-not-canceled-50635152.html",
-                "source": "The New Voice of Ukraine",
-                "date": "2026-08-24T07:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'We are stepping up': EU approves €6.1 billion for Ukraine’s defences",
-                "desc": "As Ukraine continues to sustain brutal Russian bombardment, the European Union has approved €6.1 billion for the war-torn country’s defences as part of the bloc’s €90 billion loan programme.",
-                "image": "https://images.euronews.com/articles/stories/09/88/58/62/1200x675_cmsv2_f1fd14f7-bf1c-5701-b96a-72f3b06c3642-9885862.jpg",
-                "url": "https://www.euronews.com/my-europe/2026/08/24/we-are-stepping-up-eu-approves-61-billion-for-ukraines-defences",
-                "source": "Euronews.com",
-                "date": "2026-08-24T07:54:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Jesus Boat' unearthed in Sea of Galilee 'proves' Bible story and miracle",
-                "desc": "The famous 'Jesus Boat' — a 2,000-year-old vessel uncovered during a 1986 Sea of Galilee discovery — dates to the first century when Jesus was alive, offering rare biblical archaeology evidence tied to the Gospel story of Jesus calming the storm",
-                "image": "https://hermes.media.static.aol.com/media/2026/08/24/a3336590-8c22-3711-8b97-32123c7e5736/6c5f0904-e06a-49a9-91fe-2b41577f5bdb.jpg",
-                "url": "https://www.aol.com/articles/jesus-boat-unearthed-sea-galilee-060000000.html",
-                "source": "AOL.com",
-                "date": "2026-08-24T07:54:08Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-25T03:33:16.421572Z"
+    "lastGlobalSync": "2026-08-25T04:24:21.338055Z"
 }
