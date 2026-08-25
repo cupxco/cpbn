@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "'One install, and the phone is no longer yours' - NordVPN warns of fake Ryanair, Emirates, Qatar Airways apps used to spread malware",
+                "desc": "NordVPN urges caution online over a banking Trojan masquerading as more than 65 reputable brands. Here’s how to protect your phone.",
+                "image": "https://s.yimg.com/lo/mysterio/api/284c897d66e94ac53d9608baa15cdf768d17da61e70fafa1cc8315f98ecf5b1e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2Faede972c68a5ee28310fb0a539f428fe.jpg",
+                "url": "https://tech.yahoo.com/cybersecurity/articles/one-install-phone-no-longer-140813620.html",
+                "source": "Yahoo Tech",
+                "date": "2026-08-24T14:08:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Africa produces enough food, yet millions face hunger. Better cold storage could help change that",
+                "desc": "South Africa must focus not just on food production but on preserving what is produced through improved cold chain infrastructure.",
+                "image": "https://images.theconversation.com/files/754644/original/file-20260818-50-39nfry.jpg?ixlib=rb-4.1.1&rect=0%2C500%2C4000%2C2000&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/south-africa-produces-enough-food-yet-millions-face-hunger-better-cold-storage-could-help-change-that-288445",
+                "source": "The Conversation",
+                "date": "2026-08-24T14:07:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Treasury Yields Fall, Gold Rises On Bessent's $1 Trillion Warning",
+                "desc": "The 10-year Treasury yield fell and gold rallied as the department may use its general account to buy bonds, a form of quantitative easing.",
+                "image": "https://www.investors.com/wp-content/uploads/2018/05/Stock-TreasuryBldg-01-shutt.jpg",
+                "url": "https://www.investors.com/news/10-year-treasury-yield-gold-price-bessent-general-account-federal-reserve/",
+                "source": "Investor's Business Daily",
+                "date": "2026-08-24T14:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Scottish National Investment Bank makes 'painful' £138m net loss",
+                "desc": "The publicly-owned body, which operates independently, has invested in several firms that collapsed last year.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0cc6/live/e63e1960-9f9c-11f1-aed2-8d6da8d75094.jpg",
+                "url": "https://www.bbc.com/news/articles/clyl8kd9jn8o",
+                "source": "BBC",
+                "date": "2026-08-24T14:06:24Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "IBM Details The World's First Dual-Architecture Processor As It Builds Its Next-Gen Dual ISA Core That Natively Executes Z & Arm Software On The Same Chip",
+                "desc": "IBM's next-gen Z chip features dual ISA for Z and Arm software, 11 cores at over 5.7 GHz, and 3.5 GB cache for enterprise workloads.",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/2026-08-24_19-01-06-1920x1080.jpg",
+                "url": "https://wccftech.com/ibm-worlds-first-dual-architecture-processor-dual-isa-core-natively-executes-z-arm-software/",
+                "source": "Wccftech",
+                "date": "2026-08-24T14:06:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paramount Settlement Early Talks Cancelled",
+                "desc": "California’s Attorney General Rob Bonta has reportedly cancelled preliminary discussions planned for today over a potential settlement with David Ellison‘s Paramount. Bonta is leading the twelve-state coalition lawsuit seeking to block Paramount’s proposed $111 billion acquisition of Warner Bros. Discovery. According to The New York Times, Bonta called off the meeting late Sunday and accused […]",
+                "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/08/paramount-settlement-early-talks-cancelled.jpg",
+                "url": "https://www.darkhorizons.com/paramount-settlement-early-talks-cancelled/",
+                "source": "Dark Horizons",
+                "date": "2026-08-24T14:03:55Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Crypto extends gains after biggest 3-day rally since 2023",
+                "desc": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108292486-1776347446692-gettyimages-2226264533-img_9818.jpeg?v=1776347467&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
+                "source": "CNBC",
+                "date": "2026-08-24T14:02:54Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Global oil prices fall ahead of 'Economic D",
+                "desc": "The price of oil fell sligjhtly in anticipation of a set of Iran economic sanctions billed by U.S. Treasury Secretary Scott Bessent as the toughest ever.",
+                "image": "https://cdnph.upi.com/sv/ph/og/upi/1611787573131/2026/1/d427674e612d90cf00576d2568b44571/v1.5/Global-oil-prices-fall-ahead-of-Economic-D-Day-announcement-on-Iran.jpg",
+                "url": "https://www.upi.com/Top_News/World-News/2026/08/24/oil-prices-fall-with-expected-Iran-sanctions/1611787573131/",
+                "source": "upi.com",
+                "date": "2026-08-24T14:02:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Data: 96% of studios now run a direct-to-consumer web store or plan to",
+                "desc": "Survey published by FastSpring and Omdia finds 82% of devs say recent regulatory changes made them \"more confident in the future value of D2C\"",
+                "image": "https://assetsio.gnwcdn.com/FastSpring-Selling-Outside-the-App-Store-feature-1720x942-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/data-96-of-studios-now-run-a-direct-to-consumer-web-store-or-plan-to",
+                "source": "GamesIndustry.biz",
+                "date": "2026-08-24T14:01:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How the AI boom is straining the nation’s power supply, according to AEMO report",
+                "desc": "The number of Australian data centres in development has doubled since 2025, as the energy market operator assesses whether there is enough electricity to meet demand.",
+                "image": "https://static.ffx.io/images/$zoom_0.2628%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0ccf555e49631cc8040df866b446ed485cb59023",
+                "url": "https://www.theage.com.au/politics/victoria/data-centre-pipeline-doubles-as-national-power-use-to-rise-40-percent-over-decade-20260824-p60r27.html",
+                "source": "The Age",
+                "date": "2026-08-24T14:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Salomon to Launch More Colors of New XT-Evo Sneaker, Release Date",
                 "desc": "Salomon is set to release its XT-Evo sneaker in three colorways on September 2 after the company teased the new style with a Kith collaboration.",
                 "image": "https://wwd.com/wp-content/uploads/2026/08/Salomon.jpg?w=1000&h=563&crop=1",
@@ -542,99 +632,99 @@
                 "source": "The Star",
                 "date": "2026-08-24T07:07:00Z",
                 "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "BCDA taps battery maker StB GigaFactory to drive clean energy at Clark",
-                "desc": "State-run Bases Conversion and Development Authority (BCDA) is teaming up with StB GigaFactory Inc. to explore renewable energy (RE) solutions to support...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/24/125944.webp",
-                "url": "https://mb.com.ph/2026/08/24/bcda-taps-battery-maker-stb-gigafactory-to-drive-clean-energy-at-clark",
-                "source": "Manila Bulletin",
-                "date": "2026-08-24T06:11:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tengco blames e-wallet delinking, Middle East crisis as Pagcor earnings take hit",
-                "desc": "Philippine Amusement and Gaming Corporation (Pagcor) Chairman Alejandro Tengco has pointed to e-wallet delinking and the Middle East oil crisis as reasons for...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/24/125973.webp",
-                "url": "https://mb.com.ph/2026/08/24/tengco-blames-e-wallet-delinking-middle-east-crisis-as-pagcor-earnings-take-hit",
-                "source": "Manila Bulletin",
-                "date": "2026-08-24T06:10:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Manila Water connection network swells past 1.2 million in first half",
-                "desc": "Razon-led Manila Water Co. expanded its service network in the first half of the year, adding 14,501 new connections as the utility advances a multi-billion...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/24/125979.webp",
-                "url": "https://mb.com.ph/2026/08/24/manila-water-connection-network-swells-past-12-million-in-first-half",
-                "source": "Manila Bulletin",
-                "date": "2026-08-24T06:10:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Billionaire Investor Stanley Druckenmiller Sold Broadcom, Intel, and Micron and Bought Another Chip Stock That Expects to Double Data Center Sales in 2027",
-                "desc": "The famous investor dumped three top chip stocks and bought another one with a clear near-term catalyst.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884491%2Fstanley-druckenmiller.jpeg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/08/24/billionaire-stanley-druckenmiller-sold-micron-2027/",
-                "source": "The Motley Fool",
-                "date": "2026-08-24T06:09:31Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Fuel prices to rise by over P2 per liter on Aug. 25",
-                "desc": "Motorists will face higher fuel costs as oil companies raise pump prices by as much as P2.31 per liter starting August 25.",
-                "image": "https://cebudailynews.inquirer.net/files/2026/08/08-24-fuel-prices.jpeg",
-                "url": "https://cebudailynews.inquirer.net/760318/fuel-prices-to-rise-by-over-p2-per-liter-on-aug-25",
-                "source": "Cebu Daily News",
-                "date": "2026-08-24T06:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold Rate In Hyderabad Surge: Check Latest 22 & 24-Carat Prices",
-                "desc": "gold rates today surged in Hyderabad on 24 August, 2026. Going by the rates today, the price of one tola of 22-carat gold is Rs. 1,50,300 with a hike of Rs. 800",
-                "image": "https://indtoday.com/wp-content/uploads/2026/06/YT-Thumbnails-2026-06-02T111444.090.jpg",
-                "url": "https://indtoday.com/gold-rate-in-hyderabad-surge-check-latest-22-24-carat-prices-2/",
-                "source": "INDToday",
-                "date": "2026-08-24T06:06:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mahindra Scorpio Lifestyler Design To Influence Scorpio N, Future Models - Pratap Bose",
-                "desc": "After unveiling the new Scorpio Lifestyler SUV, Mahindra could port its design language and interior layout to the Scorpio N facelift.",
-                "image": "https://www.rushlane.com/wp-content/uploads/2026/08/new-mahindra-scorpio-lifestyler-launched-in-india-6.jpg",
-                "url": "https://www.rushlane.com/mahindra-scorpio-lifestyler-design-facelift-scorpio-n-12553618.html",
-                "source": "RushLane",
-                "date": "2026-08-24T06:06:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Billionaire Investor Stanley Druckenmiller Sold Broadcom, Intel, and Micron and Bought Another Chip Stock That Expects to Double Data Center Sales in 2027",
-                "desc": "The famous investor dumped three top chip stocks and bought another one with a clear near-term catalyst.",
-                "image": "https://s.yimg.com/lo/mysterio/api/B096E4A3DCCEB92B91A57B30AD54F416D0E236B1B379FF8AB1763BCC7E65611C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0bcb85f1a5cd8f24a99d7314423f438a.jpg",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-stanley-druckenmiller-sold-060500943.html",
-                "source": "Yahoo Finance",
-                "date": "2026-08-24T06:05:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Dubai-based Fasset raises $68M Series C at $1B valuation, only 3 months after previous round",
-                "desc": "Annualised transaction volume has passed $40 billion across 125 countries, according to Fasset, up from $32 billion when it announced its Series B in May.",
-                "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/91464819-ac7e-45a5-a22a-a68e6ac271db/Screenshot_2026-08-24_at_09.53.45.png?t=1787550832",
-                "url": "https://www.fwdstart.me/p/dubai-based-fasset-raises-68m-series-c-at-1b-valuation-only-3-months-after-previous-round",
-                "source": "FWDStart",
-                "date": "2026-08-24T06:03:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Companies are in no hurry to pay for Anthropic's most powerful AI model",
-                "desc": "Claude Fable 5 accounts for just 11 per cent of Anthropic's corporate client spending. Companies tend to opt for the cheaper Opus 5 and other AI models.",
-                "image": "https://img.mezha.ua/mezha/images/doc/7/7/322900/774dba49feb0e5a6110fc0c5bd2e3519.jpeg?w=1200&q=85&stamp=1787549287",
-                "url": "https://mezha.ua/en/news/anthropic-fable-not-popular-314440/",
-                "source": "Mezha",
-                "date": "2026-08-24T06:03:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Up M5 Pro MacBook Pro Is $500 Off at Amazon",
+                "desc": "Get more power for fewer dollars with this upgraded MacBook Pro deal.",
+                "image": "https://www.cnet.com/wp-content/uploads/sites/2/macbook-pro-m5-pro.jpg",
+                "url": "https://www.cnet.com/deals/m5-pro-macbook-pro-deal-2026-08-24/",
+                "source": "CNET",
+                "date": "2026-08-24T14:05:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SM City Baguio shares love of learning through AI, connecting generations in the digital age",
+                "desc": "RECOGNIZING the growing role of artificial intelligence (AI) in everyday life and the importance of making digital learning accessible to all generations, SM Supermalls, through SM City Baguio, partnered with the Department of Information and Communications Technology – Cordillera Administrative Region (DICT-CAR) to conduct a learning session on Artificial Intelligence for senior citizens and children at SM City Baguio.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1188271.jpg",
+                "url": "https://www.manilatimes.net/2026/08/24/supplements/sm-city-baguio-shares-love-of-learning-through-ai-connecting-generations-in-the-digital-age/2411101",
+                "source": "The Manila Times",
+                "date": "2026-08-24T14:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon hikes price of almost its entire Fire TV stick range - and even cheapest model is up by £20",
+                "desc": "AMAZON is hiking prices of its Fire TV Sticks in the UK with some set to rise by 50%. \nThe 4K Max device will hit £99.99 from next week with...",
+                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/08/newspress-collage-mbdxt87sb-1787579196745.jpg?quality=90&strip=all&1787583490&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.ie/tech/17507781/amazon-hikes-fire-tv-stick-prices/",
+                "source": "The Irish Sun",
+                "date": "2026-08-24T14:02:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon Offers Up to $150 Discounts on M5 MacBook Air",
+                "desc": "Amazon is taking up to $150 off multiple models of the M5 MacBook Air, focused mainly on 13-inch models this time around. These are solid second-best prices on the M5 MacBook Air in the wake of Apple's summertime price hikes. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. In terms of 13-inch models, Amazon has the 16GB/1TB 13-inch MacBook Air for $1,499.00, down from $1,599.00.",
+                "image": "https://images.macrumors.com/t/nM_E9wV2_cQ06JS0WWbvIV0P_TU=/2500x/article-new/2026/06/macbook-air-prime-day-2.jpeg",
+                "url": "https://www.macrumors.com/2026/08/24/amazon-150-discount-m5-macbook-air/",
+                "source": "MacRumors",
+                "date": "2026-08-24T14:01:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Which eco-friendly laundry detergents actually clean your clothes? I put 11 to the test",
+                "desc": "Our writer spent weeks putting capsules, sheets and liquid detergent through their paces to find the best for your clothes and the planet",
+                "image": "https://i.guim.co.uk/img/media/a6a23df26ff7938af4b9dd5f066cb6effbccf20e/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVrLnBuZw&enable=upscale&s=12512f1364c298f1084f575d8c4d31dd",
+                "url": "https://www.theguardian.com/thefilter/2026/aug/24/best-eco-friendly-laundry-detergent-uk",
+                "source": "The Guardian",
+                "date": "2026-08-24T14:00:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft Teams now lets admins block external bots from meetings",
+                "desc": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings.",
+                "image": "https://www.bleepstatic.com/content/hl-images/2025/11/13/Microsoft_Teams.jpg",
+                "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+                "source": "BleepingComputer",
+                "date": "2026-08-24T14:00:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The trends that defined gravel bikes in 2026, and our 2026 Gravel Bike of the Year shortlist",
+                "desc": "Our nominees reflect how racy gravel bikes have come of age and how a new wheel size looms over the category",
+                "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/216bd3a5-608f-4dea-b58d-303141a5477f/thumbnails/c6562027-2cfb-4372-abe0-a475ecfba5fe.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&w=1200",
+                "url": "https://www.bikeradar.com/features/tech/2026-gravel-bike-of-the-year-shortlist",
+                "source": "BikeRadar",
+                "date": "2026-08-24T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fast & Furious Cars at SEMA 2025",
+                "desc": "Fast & Furious cars are some of the most recognizable movie cars ever, but these SEMA displays are not as simple as they look on screen.",
+                "image": "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/08/08_SEMA_Show_2025_Group_Find_4_Thumbnail.jpg",
+                "url": "https://journal.classiccars.com/2026/08/24/fast-furious-cars-at-sema-2025/",
+                "source": "The ClassicCars.com Journal",
+                "date": "2026-08-24T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RØDE Reveals New Heavyweight Desktop Mic Stand For Content Creators",
+                "desc": "Made by the Sydney-based audio company RØDE, the new DS3 microphone stand has been designed to set new standards for compact desktop studio arms.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a8821591f608df521bd1ab1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/marksparrow/2026/08/24/rde-reveals-new-heavyweight-desktop-mic-stand-for-content-creators/",
+                "source": "Forbes",
+                "date": "2026-08-24T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"I want to keep pouring my energy into game creation going forward\" - Hideo Kojima still wants to make games even at 63",
+                "desc": "Hideo Kojima from Kojima Productions celebrated his 63rd birthday with a nice cake, and by looking forward to many years of more video game development.",
+                "image": "https://assetsio.gnwcdn.com/Hideo-Kojima-in-Prada's-space-based-short-film.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/hideo-kojima-63-years-old-still-wants-to-make-games",
+                "source": "Eurogamer",
+                "date": "2026-08-24T13:57:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "I purged gigabytes of invisible app junk from my phone to avoid paying for cloud storage",
                 "desc": "Save money on that Google One subscription",
@@ -1174,99 +1264,99 @@
                 "source": "Creative Bloq",
                 "date": "2026-08-24T07:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "If these Galaxy S27 Ultra renders are accurate, Samsung can't stop Apple copycat claims",
-                "desc": "A leaker has posted apparent Galaxy S27 Ultra renders, and Samsung's new phone might be taking obvious design cues from Apple.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-and-Apple-iPhone-16-Pro.jpg",
-                "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-render-leak-3701790/",
-                "source": "Android Authority",
-                "date": "2026-08-24T06:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "vivo Launches V80 Lite in Pakistan, Combining Easy",
-                "desc": "vivo officially introduces the vivo V80 Lite in Pakistan, a highly anticipated smartphone meticulously created for young users.",
-                "image": "https://www.phoneworld.com.pk/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-11.00.13-AM.jpeg",
-                "url": "https://www.phoneworld.com.pk/vivo-launches-v80-lite-in-pakistan-combining-easy-grip-curved-display-with-smooth-turbo-performance/",
-                "source": "PhoneWorld",
-                "date": "2026-08-24T06:09:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ponos Launches Crowdfunding for The Battle Cats 13th Anniversary Merch in Korea",
-                "desc": "©PonosPonos (CEO Yorikatsu Tsujiko) has launched an original merchandise crowdfunding project dedicated to Korean fans to celebrate the 13th anniversary of its mobile tower defense...",
-                "image": "https://static.invenglobal.com/upload/image/2026/08/24/i1787551756533780.png",
-                "url": "https://www.invenglobal.com/articles/25062/ponos-launches-crowdfunding-for-the-battle-cats-13th-anniversary-merch-in-korea",
-                "source": "Inven Global",
-                "date": "2026-08-24T06:09:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stress-Testing the Options: Low-Code Platforms for Teams Ready to Commit",
-                "desc": "Every team evaluating a low-code platform right now would save themselves a similar detour by asking, before signing anything, what the platform does when everything that could go wrong actually does.",
-                "image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGNvZGUlMjBzY3JlZW58ZW58MHx8fHwxNzg2NjkxMTgwfDA&ixlib=rb-4.1.0&q=80&w=2000",
-                "url": "https://www.techloy.com/stress-testing-the-options-low-code-platforms-for-teams-ready-to-commit/",
-                "source": "Techloy",
-                "date": "2026-08-24T06:05:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sennheiser Momentum True Wireless 5 brings replaceable batteries to earbuds",
-                "desc": "Sennheiser's new Momentum True Wireless 5 earbuds bring replaceable batteries, up to 40 hours of playback and upgraded noise cancellation, focusing to extend the life of its flagship wireless earbuds",
-                "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/24/thumb/featurecrop/1200X628/1787551263-4858.png",
-                "url": "https://www.business-standard.com/technology/gadgets/sennheiser-momentum-true-wireless-5-brings-replaceable-batteries-to-earbuds-126082400327_1.html",
-                "source": "Business Standard",
-                "date": "2026-08-24T06:04:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung’s Exynos 2700 Boasts Higher Clock Speeds in Latest Benchmark Leak",
-                "desc": "Samsung's next flagship chipset, the Exynos 2700, has surfaced in a new Geekbench AI listing, revealing higher CPU clock speeds than earlier samples.",
-                "image": "https://cdn.gadgetpilipinas.net/wp-content/uploads/2026/08/Exynos-2700-banner.jpg",
-                "url": "https://www.gadgetpilipinas.net/2026/08/samsung-exynos-2700-geekbench/",
-                "source": "Gadget Pilipinas",
-                "date": "2026-08-24T06:01:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Valve Celebrates 30 Years of Revolutionizing PC Gaming",
-                "desc": "On August 24, 1996, Gabe Newell and Mike Harrington officially founded Valve, forever changing the world of PC gaming. The company made a massive debut in 1998 with Half-Life, stepping into the realm of legendary PC game franchises. Later on, Valve started creating a variety of games like Dota,...",
-                "image": "https://www.techpowerup.com/img/53o5Tu43TtESB9Cq.jpg",
-                "url": "https://www.techpowerup.com/351860/valve-celebrates-30-years-of-revolutionizing-pc-gaming",
-                "source": "TechPowerUp",
-                "date": "2026-08-24T06:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Casio is coming for Garmin with a new G-SHOCK featuring a carbon fibre-reinforced case and Polar-powered fitness tracking",
-                "desc": "Casio’s new G-SHOCK was created in collaboration with pro surfer Kanoa Igarashi",
-                "image": "https://s.yimg.com/lo/mysterio/api/9336531b4109951cf41c8e2072a036213bef35efb08d6ef52f9a52e6e820ce7f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ft3_620%2F9f776e95b980a49dd51f2344d8243d44.jpg",
-                "url": "https://tech.yahoo.com/wearables/articles/casio-coming-garmin-g-shock-060000356.html",
-                "source": "Yahoo Tech",
-                "date": "2026-08-24T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "In Pursuit Of The Currents And Tides With Grand Seiko",
-                "desc": "We visited the Izu Peninsula, Japan, with Grand Seiko to better understand the Grand Seiko Evolution 9 Spring Drive U.F.A. Ushio 300.",
-                "image": "https://cdn.mens-folio.com/2026/08/Chapter-0_The-Ushio-Journey_1_NIA_1455-1.jpg?strip=all&quality=92&webp=92&sharp=1",
-                "url": "https://www.mens-folio.com/time/in-pursuit-of-the-currents-and-tides-with-grand-seiko/",
-                "source": "mens-folio.com",
-                "date": "2026-08-24T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fairphone 6+ review: the most repairable, ethical phone gets faster",
-                "desc": "Dutch sustainable smartphone revamped with new chip and more RAM without sacrificing modular design",
-                "image": "https://i.guim.co.uk/img/media/513eff10745ff3f15e5c5566f2e2f143224f7282/1115_401_4804_3843/master/4804.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=76f19fc477e673caf735f4630f54a7d1",
-                "url": "https://www.theguardian.com/technology/2026/aug/24/fairphone-6-review-the-most-repairable-ethical-phone-gets-faster",
-                "source": "The Guardian",
-                "date": "2026-08-24T06:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Guyana’s Carolyn Rodrigues-Birkett outlines strategy to strengthen UN peace efforts",
+                "desc": "Guyana’s candidate for UN secretary-general, Carolyn Rodrigues-Birkett, says she would prioritize preventive diplomacy.",
+                "image": "https://www.caribbeannationalweekly.com/api/media/file/Permanent%20Representative%20of%20Guyana%20to%20the%20UN%20Ambassador%20Carolyn%20Rodrigues-Birkett-1200x630.webp",
+                "url": "https://www.caribbeannationalweekly.com/posts/guyanas-carolyn-rodrigues-birkett-outlines-strategy-to-strengthen-un-peace-efforts",
+                "source": "Caribbean National Weekly",
+                "date": "2026-08-24T14:07:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sweden Relaxes Citizenship Rules to Allow Foreigners Without Permanent Residence Permits to Apply",
+                "desc": "Sweden's new citizenship rules permit temporary residence permit holders to apply for naturalisation. Valid permits and existing requirements still apply.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/88f695a0dc67ee1b.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/world/637352-sweden-removes-permanent-residence-permits-requirement-citizenship-applications/",
+                "source": "Tuko News",
+                "date": "2026-08-24T14:07:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "billion-dollar oil projects expose East Africa’s long-running regional tensions",
+                "desc": "Rivalry has not disappeared from east Africa. It has simply been repackaged as competing ‘regional’ projects.",
+                "image": "https://images.theconversation.com/files/754569/original/file-20260818-50-dcwpp.jpg?ixlib=rb-4.1.1&rect=0%2C170%2C1024%2C512&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/refinery-rivalry-billion-dollar-oil-projects-expose-east-africas-long-running-regional-tensions-289820",
+                "source": "The Conversation",
+                "date": "2026-08-24T14:07:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How is Nigeria’s anti-fraud unit doing? Case study asks detectives how they manage with few funds",
+                "desc": "There is a need for improved fraud awareness education so that ordinary Nigerians understand how fraudsters operate.",
+                "image": "https://images.theconversation.com/files/755005/original/file-20260819-50-m4hyqa.jpg?ixlib=rb-4.1.1&rect=0%2C90%2C1080%2C540&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/how-is-nigerias-anti-fraud-unit-doing-case-study-asks-detectives-how-they-manage-with-few-funds-289735",
+                "source": "The Conversation",
+                "date": "2026-08-24T14:06:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Africa cuts citrus export forecast 2026",
+                "desc": "The CGA has revised its 2026 season export estimates downward to 197.9mn cartons, citing the closure of Middle East trade routes as a major factor",
+                "image": "https://d3fwccq2bzlel7.cloudfront.net/Pictures/1024x536/8/8/6/148886_citrusgroveswesterncapesouthafricaadobestock_775959.jpg",
+                "url": "https://www.fruitnet.com/eurofruit/south-africa-cuts-citrus-export-forecast-again-amid-mounting-seasonal-pressures/272476.article",
+                "source": "Fruitnet",
+                "date": "2026-08-24T14:05:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What the three mysterious women in the Bayeux tapestry can tell us",
+                "desc": "Three women are depicted in the main body of the tapestry",
+                "image": "https://static.independent.co.uk/2026/08/17/08/01M075GSWNR4HR21780366AMH9.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/uk/home-news/bayeux-tapestry-women-the-norman-conquest-b3038262.html",
+                "source": "The Independent",
+                "date": "2026-08-24T14:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Diplomats for Equality 2026 Unveiled",
+                "desc": "Global Affairs Canada and the diplomatic community in Ottawa, including the Australian High Commission, the Embassy of Austria, the Embassy of",
+                "image": "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg",
+                "url": "https://www.miragenews.com/diplomats-for-equality-2026-unveiled-1732139/",
+                "source": "Mirage News",
+                "date": "2026-08-24T14:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Radev Vows to End Oligarchic Influence Over Bulgaria",
+                "desc": "Prime Minister Rumen Radev said Bulgaria would not allow a return to what he described as the country's “mutri” (thug) era, as he announced plans for deeper reforms in law enforcement, the security services and the judiciary. Speaking alongside Justice Minister Nikolay Naydenov while presenting the “Justice” section of the government's 2026-2030 governance program, Radev said the state was increasingly breaking what he called an established system of protection for powerful business and political figures.",
+                "image": "https://www.novinite.com/media/images/2026-08/photo_verybig_240271.jpg",
+                "url": "https://www.novinite.com/articles/240271/Radev+Vows+to+End+Oligarchic+Influence+Over+Bulgaria",
+                "source": "Novinite.com",
+                "date": "2026-08-24T14:04:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aberystwyth University pauses £43m Old College upgrade",
+                "desc": "The university says it will review rising costs on the hotel and museum plan for Old College.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d27/live/a6697340-9fbd-11f1-8648-8d7b77845e6d.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c9w4j87ezqro",
+                "source": "BBC",
+                "date": "2026-08-24T14:04:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wildfires Consume 30,000 Hectares Across Tolima, Criminal Groups Suspected",
+                "desc": "More than 30,000 hectares have been burned across Colombia's Tolima department as firefighters battle one of the region's worst wildfire emergencies in years,",
+                "image": "https://thecitypaperbogota.com/wp-content/uploads/2026/08/tolima_fires.png",
+                "url": "https://thecitypaperbogota.com/news/wildfires-consume-30000-hectares-across-tolima-criminal-groups-suspected/",
+                "source": "The City Paper Bogotá",
+                "date": "2026-08-24T14:03:57Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "A Baby's Pneumonia Cleared but His Oxygen Never Did, and That Gap Pointed Straight at His Heart",
                 "desc": "A 5-month-old in Somalia was treated for severe pneumonia. Oxygen that stayed low after the infection cleared led doctors to a heart defect.",
@@ -1806,98 +1896,8 @@
                 "source": "Kenyans.co.ke",
                 "date": "2026-08-24T07:07:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Know India Programme for Young Indian Diaspora (Ireland)",
-                "desc": "Deadline: 27-Aug-2026 Know India Programme for Indian Diaspora Youth The Know India Programme (KIP) offers young members of the Indian diaspora an immersive two-week experience to reconnect with their Indian heritage while exploring the country's cultural, economic, scientific, and technological development. The programme is designed for youth of Indian origin living abroad and provides opportunities",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/innovation/know-india-programme-for-young-indian-diaspora-ireland/",
-                "source": "fundsforNGOs",
-                "date": "2026-08-24T06:14:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japanese lawmakers travel to Beijing, seeking to mend ties after Takaichi's Taiwan remark fallout",
-                "desc": "TOKYO (AP) — A cross-party group of Japanese lawmakers, including one from Prime Minister Sanae Takaichi's governing party, headed to Beijing on Monday to meet with Chinese officials for the first tim...",
-                "image": "https://ca.news.yahoo.com/favicon.ico?b0867f93a36b360e",
-                "url": "https://ca.news.yahoo.com/japanese-lawmakers-travel-beijing-seeking-061332788.html",
-                "source": "Yahoo News Canada",
-                "date": "2026-08-24T06:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CFPs: Newborn Screening Program Assessment and Implementation in Indonesia",
-                "desc": "Deadline: 03-Sep-2026 The World Health Organization (WHO) is seeking a qualified consulting institution to assess, cost, and develop an implementation framework for scaling up Indonesia’s national newborn screening (NBS) programme. The assignment will evaluate current screening coverage and quality, assess health-system and laboratory capacity, develop a costing analysis, and produce a phased national roadmap for",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/health-2/cfps-newborn-screening-program-assessment-and-implementation-in-indonesia/",
-                "source": "fundsforNGOs",
-                "date": "2026-08-24T06:11:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan tests China’s willingness to revive people-to-people exchanges",
-                "desc": "A series of planned visits to China by Japanese business groups and politicians has raised hopes that bilateral exchanges may be resuming despite prolonged tensions. Even so, this may not pave the way for a broader normalisation of relations, says Japanese academic Shin Kawashima.",
-                "image": "https://cassette.sphdigital.com.sg/image/thinkchina/051368041a037d88f6f0b4b979d1501f71ba2c3496135786cf8a33ba2a9aa30c",
-                "url": "https://www.thinkchina.sg/economy/japan-tests-chinas-willingness-revive-people-people-exchanges?ref=top-hero",
-                "source": "ThinkChina",
-                "date": "2026-08-24T06:11:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN Security Council to address escalating Russian missile and drone attacks on Ukraine",
-                "desc": "The Security Council will meet on August 24 to discuss Russia's full-scale war on Ukraine",
-                "image": "https://static.nv.ua/shared/system/Article/posters/003/349/817/original/a1603dca1e2ed74af1696d249d7ce435.png?q=85&stamp=20260824090847&f=webp",
-                "url": "https://english.nv.ua/nation/un-security-council-meets-on-ukraine-s-independence-day-to-discuss-russia-s-escalating-strikes-50635121.html",
-                "source": "The New Voice of Ukraine",
-                "date": "2026-08-24T06:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Burundi Plans To Join The International Stabilization Force In Gaza",
-                "desc": "Several countries, including Uganda, Morocco, Kosovo, Kazakhstan, and Albania, have already committed to participating in this mission",
-                "image": "https://cdn.i24news.tv/uploads/98/cc/95/7e/ab/73/c0/c0/aa/b6/33/dd/95/ee/49/d7/98cc957eab73c0c0aab633dd95ee49d7.png",
-                "url": "https://www.i24news.tv/en/news/israel-at-war/artc-burundi-plans-to-join-the-international-stabilization-force-in-gaza",
-                "source": "i24NEWS",
-                "date": "2026-08-24T06:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU Provides €3 Million to Support Palestine Refugees from Syria in Lebanon",
-                "desc": "The European Union has provided €3 million in new funding to UNRWA to support Palestine Refugees from Syria living in Lebanon and help vulnerable families meet essential daily needs. The contribution will enable UNRWA to continue providing cash assistance to approximately 22,000 Palestine Refugees from Syria in Lebanon. The assistance will help families cover essential",
-                "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
-                "url": "https://news.fundsforngos.org/2026/08/24/eu-provides-e3-million-to-support-palestine-refugees-from-syria-in-lebanon/",
-                "source": "fundsforNGOs News",
-                "date": "2026-08-24T06:09:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "waiver agreement for ordinary citizens: report",
-                "desc": "North Korea and Belarus are close to signing a visa-waiver agreement for ordinary citizens, Belarus' state media has reported. The report by the Be...",
-                "image": "https://newsimg.koreatimes.co.kr/2026/08/24/7174930b-dae0-44fd-928b-37ddf354402c.jpg",
-                "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260824/n-korea-belarus-near-visa-waiver-agreement-for-ordinary-citizens-report",
-                "source": "The Korea Times",
-                "date": "2026-08-24T06:07:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US approves APKWS II for Italy for Eurofighter C-UAS role",
-                "desc": "The US Department of State has approved the sale to Italy of BAE Systems Inc. Advanced Precision Kill Weapon System (APKWS) II laser-guided rockets. These will equip its...",
-                "image": "https://www.janes.com/images/default-source/news-images/bsp_121292-jdw-37763.jpeg?sfvrsn=b80667b0_2",
-                "url": "https://www.janes.com/defence-intelligence-insights/defence-news/weapons/us-approves-apkws-ii-for-italy-for-eurofighter-c-uas-role",
-                "source": "Janes",
-                "date": "2026-08-24T06:06:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Three Legal Constraints on U.S. Unilateral Deep-Sea Mining: The ISA’s Objective International Personality and Obligations of Cooperation and Due Regard (Part I) – Problems with the Customary Status of",
-                "desc": "[Dr Ekaterina Antsygina is a Marie Skłodowska-Curie Postdoctoral Fellow at the Norwegian Centre for the Law of the Sea at UiT The Arctic University of Norway, working on the deep-sea mining on the …",
-                "image": "https://i1.wp.com/opiniojuris.org/wp-content/uploads/anking_painting_of_ocean_hyperrealistic_5556b56d-4f67-44d1-8ac5-3a5579afceb6.png?fit=1024%2C1024",
-                "url": "http://opiniojuris.org/2026/08/24/three-legal-constraints-on-u-s-unilateral-deep-sea-mining-the-isas-objective-international-personality-and-obligations-of-cooperation-and-due-regard-part-i/",
-                "source": "Opinio Juris",
-                "date": "2026-08-24T06:04:29Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-25T00:00:33.372535Z"
+    "lastGlobalSync": "2026-08-25T02:08:44.603167Z"
 }
