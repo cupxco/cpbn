@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "2027 Mitsubishi Pajero reveal date confirmed",
+                "desc": "Mitsubishi has announced the reveal date for the new Pajero, due in Australia by the end of 2026 as a rival to the Ford Everest and Toyota Prado.",
+                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2021_mitsubishi_pajero_final_edition.jpg",
+                "url": "https://www.carexpert.com.au/car-news/2027-mitsubishi-pajero-reveal-date-confirmed",
+                "source": "CarExpert",
+                "date": "2026-08-25T01:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sledgehammers and explosives more common in museum heists, Europol says",
+                "desc": "Europe's museum thieves once relied on deception, stealth and reconnaissance, but sledgehammers, axes, and explosives are now the weapons of choice, according to Europol.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/b005b613d86ba3fdadf564ab504678c9?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-08-25/museum-heists-becoming-more-violent-in-europe/107074598",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-08-25T01:34:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is Anthropic overvalued?",
+                "desc": "A pre-IPO explainer on Anthropic's business and valuation.",
+                "image": "https://cdn.finshots.app/images/2026/08/Anthropic-IPO-V1.jpg",
+                "url": "https://finshots.in/archive/is-anthropic-overvalued/",
+                "source": "Finshots",
+                "date": "2026-08-25T01:32:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Unfortunate accident' at Montreal's Trudeau airport sends employee to hospital",
+                "desc": "An employee at Montreal's Trudeau International Airport was sent to hospital following an incident involving a plane on Monday evening. Radio-Canada is reporting the employee suffered serious injuries.",
+                "image": "https://i.cbc.ca/ais/13aea09a-3401-45d3-ab3b-1689f9c1c5cd,1787623440430/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C569%2C320%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/montreal/airport-montreal-accident-9.7319215",
+                "source": "CBC",
+                "date": "2026-08-25T01:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Forbes Asia Releases Sixth Edition Of 100 To Watch List",
+                "desc": "Forbes Asia today released the sixth annual edition of the 100 to Watch list, which spotlights small companies and startups on the rise across the Asia-Pacific region.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/forbespr/2026/08/24/forbes-asia-releases-sixth-edition-of-100-to-watch-list/",
+                "source": "Forbes",
+                "date": "2026-08-25T01:22:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zcash Nears $900 as ZEC Hits Eight-Year High, Outperforming Bitcoin",
+                "desc": "Zcash (ZEC) surges toward the $900 mark, hitting an 8-year high and strongly outperforming BTC.",
+                "image": "https://resource.tradingkey.com/uploads/20260825/zcash-zec-1cd08e04be04446a9ec660b5dd2d78a7.jpg",
+                "url": "https://www.tradingkey.com/analysis/cryptocurrencies/more/262128907-crypto-privacy-zcash-zec-dash-xmr-bitcoin-btc-tradingkey",
+                "source": "TradingKey",
+                "date": "2026-08-25T01:21:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Karnataka suspends food licences of Amazon, Swiggy Instamart, BigBasket over sale of toxic fruit datura",
+                "desc": "BENGALURU: The Karnataka Food Safety and Drugs Administration Department has ordered the suspension of food licences of Amazon, Swiggy Instamart and B.",
+                "image": "https://static.toiimg.com/thumb/msid-133486442,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/city/bengaluru/amazon-instamart-bigbasket-in-dock-over-sale-of-toxic-fruit-datura-in-karnataka/articleshow/133486295.cms",
+                "source": "The Times of India",
+                "date": "2026-08-25T01:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The subsidy trap: A policy gamble that threatens Nigerian households (I)",
+                "desc": "The federal government’s announcement of a phased withdrawal of electricity subsidies beginning in 2027 has sent shockwaves through a nation already reeling...",
+                "image": "https://dailytrust.com/wp-content/uploads/2020/10/Oil-subsidy.jpg",
+                "url": "https://dailytrust.com/the-subsidy-trap-a-policy-gamble-that-threatens-nigerian-households-i/",
+                "source": "Daily Trust",
+                "date": "2026-08-25T01:19:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Deere & Company (DE)’s Strong Quarter Raises the Stakes for an Agricultural Recovery",
+                "desc": "Deere & Company (NYSE:DE) delivered a stronger-than-expected third quarter, with the company benefiting from a surprising source: the construction boom linked to AI data centers and infrastructure spending. Construction & Forestry sales increased 18% year over year, making it the company’s fastest-growing major segment. Deere also reported a 7% increase in quarterly net income to […]",
+                "image": "https://s.yimg.com/lo/mysterio/api/5bd4800107d348b849e90c320b4ac7e191ba46a0e09becc7e1b3dcd4f82cf269/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe6b27fb51c4894337f1ab99962ffb9c0.jpg",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/deere-company-strong-quarter-raises-011858299.html",
+                "source": "Yahoo Finance",
+                "date": "2026-08-25T01:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
+                "desc": "When the AI complex wobbles, the money has to go somewhere. Monday it went to the giant whose earnings don't depend on the build-out.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Feb9c34823cb8419ee0b408a632b4f3d51f87e695-5000x3333.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/08/24/berkshire-hathaway-rose-while-every-major-chip-stock-fell-monday/",
+                "source": "The Motley Fool",
+                "date": "2026-08-25T01:17:41Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Canada’s Proposed Food Packaging Framework Would Require Notification of FCMs",
                 "desc": "Anticipating an increase in the use of recycled plastics, Health Canada has begun a public consultation on a high-level overview of a proposed food",
                 "image": "https://www.lawbc.com/wp-content/uploads/sub_banner_Acta_Food_Contact_Chemicals-sm-e1787609594825.png",
@@ -542,99 +632,99 @@
                 "source": "Foley & Lardner LLP",
                 "date": "2026-08-24T19:18:13Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "NYPD to investigate another video of people emerging from manhole",
-                "desc": "Video posted on social media shows three people climbing out of sewer system at 4am, months after similar reports",
-                "image": "https://i.guim.co.uk/img/media/0a0e0411d615092c39562f21d28bc95e1b8ba26d/1094_1152_3562_2848/master/3562.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1800109b26ae2efaf335dd05e19844b3",
-                "url": "https://www.theguardian.com/us-news/2026/aug/24/nypd-investigation-video-people-manhole",
-                "source": "The Guardian",
-                "date": "2026-08-24T18:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bitcoin has more room to run after explosive rebound, analysts say",
-                "desc": "Bitcoin's outsized rebound last week could prove more than just a short-lived relief rally.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/24/bitcoin-has-more-room-to-run-after-explosive-rebound-analysts-say.html",
-                "source": "CNBC",
-                "date": "2026-08-24T18:14:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What YouTube Changing Its Public View Counts Means",
-                "desc": "YouTube is changing the way it publicly counts views to be more like TikTok, Instagram and other platforms, but not how it pays creators.",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/GettyImages-2276117888.jpg?crop=0px%2C103px%2C5000px%2C2797px&resize=1440%2C810",
-                "url": "https://www.hollywoodreporter.com/business/business-news/youtube-changes-public-view-counts-1236679708/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-08-24T18:12:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Passive Electromagnetic Tech Claims Up to 47% Shrink Reduction Across Fresh Supply Chains",
-                "desc": "Nature's Frequencies is targeting produce spoilage with its patented Food Freshness Card, a chemical-free, passive technology designed to extend shelf life and deliver a full return on investment in under four months without altering standard cold-chain operations.",
-                "image": "https://assets.farmjournal.com/dims4/default/cf39fab/2147483647/strip/true/crop/1200x675+0+63/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F9e%2F7b%2F06ab00864366a8135092e5c507ff%2Ffood-freshness-card-intro-august-2026-page-08.jpg",
-                "url": "https://www.thepacker.com/news/industry/passive-electromagnetic-tech-claims-47-shrink-reduction-across-fresh-supply-chains",
-                "source": "The Packer",
-                "date": "2026-08-24T18:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Emperador Returns to FTSE Global Equity Index as Sole Philippine Addition",
-                "desc": "Philippine spirits producer Emperador Inc. has rejoined the FTSE Global Equity Index Series as a Small Cap constituent, becoming the only Philippine…",
-                "image": "https://img.biggo.com/EOlpP9cIyVzrljdFLNhl7bbTndF6abnxmEsd64uY0LE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzNkNGRiYzc2LTM2NTAtNGRhMC04ZWVlLTNiOTUwNjI5MzUzMF8xNzg3NTk1MjE3X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/3d4dbc76-3650-4da0-8eee-3b9506293530",
-                "source": "finance.biggo.com",
-                "date": "2026-08-24T18:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Pacific Growers: Hawke’s Bay apple grower in receivership, unlikely to repay $13m Government loan",
-                "desc": "A Hawke’s Bay apple grower loaned $13 million by the Government to get back on its feet after Cyclone Gabrielle is now in receivership and unlikely to repay...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/ITQ4IJPP75GBTNK4A47EYHLWHQ.JPG?auth=4dd4c1d61cf522e7c510382ce8e0b0d7d807493cc8929b683efd78490339edf1&width=1200&height=675&quality=70&focal=2090%2C1648&smart=false",
-                "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/south-pacific-growers-hawkes-bay-apple-grower-in-receivership-unlikely-to-repay-13m-govt-loan/premium/V64PRHPVIFCNZMQ373JJZDUBYY/",
-                "source": "NZ Herald",
-                "date": "2026-08-24T18:06:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "White House Meeting Fosters Optimism in Crypto Leaders",
-                "desc": "Crypto executives left Washington with a greater sense of optimism about the Clarity Act after a series of meetings with officials.",
-                "image": "https://www.pymnts.com/wp-content/uploads/2026/06/White-House-Clarity-Act-crypto-regulation.jpeg",
-                "url": "https://www.pymnts.com/legal/2026/crypto-leaders-more-optimistic-on-clarity-act-after-white-house-meeting/",
-                "source": "PYMNTS.com",
-                "date": "2026-08-24T18:05:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Right Way to Deliver Bad Earnings News",
-                "desc": "Leaders often assume that delaying bad financial news until an earnings announcement will soften the market’s reaction. Early disclosure won’t eliminate the harm entirely, but how the warning is delivered can influence whether the stock keeps sliding, whether investors trust the next forecast, and how much time they allow for a fix. When disappointing results become unavoidable, organizations should communicate early, estimate the shortfall, explain the cause, outline a credible response, and avoid promotional messaging that undermines trust.",
-                "image": "https://hbr.org/resources/images/article_assets/2026/08/Aug26_22_AnaYael.jpg",
-                "url": "https://hbr.org/2026/08/the-right-way-to-deliver-bad-earnings-news",
-                "source": "Harvard Business Review",
-                "date": "2026-08-24T18:05:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Scientist Says Humans Will Reach the Singularity Within 19 Years",
-                "desc": "Ray Kurzweil predicts humans and AI will merge by 2045, boosting intelligence a millionfold with nanobots, bringing both hope and challenges for the future.",
-                "image": "https://hermes.media.static.aol.com/media/2026/08/24/c3ba9d50-39c3-3d30-a5ed-910846faf024/e2f479b6-b76e-4c59-9430-545c20e7988c.jpg",
-                "url": "https://www.aol.com/articles/scientist-says-humans-reach-singularity-144025000.html",
-                "source": "AOL.com",
-                "date": "2026-08-24T18:04:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Peptide trend raises alarm at Bay of Plenty schools amid social‑media pressure",
-                "desc": "A concerning trend of teenage boys importing unregulated injectable supplements to improve their appearance has alarmed some Bay of Plenty educators. College...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/JCJDMK7KAJBT3LSV57WZM5GZTQ.jpg?auth=8460545c76cbc70db2c503bb4875de1216677c1f91f3f293c3b3307d4565f7ab&width=1200&height=675&quality=70&focal=844%2C535&smart=false",
-                "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/peptide-trend-raises-alarm-at-bay-of-plenty-schools-amid-socialmedia-pressure/premium/U22DYMPU5JEKZL6TCLPAIF66JY/",
-                "source": "NZ Herald",
-                "date": "2026-08-24T18:02:22Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "iMac refresh with M6 chip and new colours expected",
+                "desc": "Discover details about the anticipated iMac refresh, featuring the M6 chip and potential new colour options, expected later this year.",
+                "image": "https://cassette.sphdigital.com.sg/image/hardwarezone/b2ccc44a30364663b8027751c9624e6a06546431e4c5aa59689fdf02f2e6091e",
+                "url": "https://www.hardwarezone.com.sg/pc/apple-imac-refresh-m6-new-colours",
+                "source": "HardwareZone Singapore",
+                "date": "2026-08-25T01:27:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Persona Comes to Beard Papa's With Special 30th Anniversary Collaboration",
+                "desc": "You never saw that coming!",
+                "image": "https://sm.ign.com/t/ign_ap/news/p/persona-co/persona-comes-to-beard-papas-with-special-30th-anniversary-c_7f94.1200.jpg",
+                "url": "https://sea.ign.com/persona-4-revival/247597/persona-comes-to-beard-papas-with-special-30th-anniversary-collaboration",
+                "source": "IGN Southeast Asia",
+                "date": "2026-08-25T01:27:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating",
+                "desc": "In the cards.",
+                "image": "https://sm.ign.com/t/ign_ap/news/t/the-witche/the-witcher-3-songs-of-the-past-expansion-confirmed-to-inclu_55rt.1200.jpg",
+                "url": "https://sea.ign.com/gwent/247593/the-witcher-3-songs-of-the-past-expansion-confirmed-to-include-more-gwent-and-everyone-is-already-ce",
+                "source": "IGN Southeast Asia",
+                "date": "2026-08-25T01:27:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'The Blood of Dawnwalker' Adds 60fps Mode Across All Console Platforms",
+                "desc": "On August 25, Rebel Wolves released a new gameplay trailer for the console version on the official 'The Blood of Dawnwalker' YouTube channel and officially announced the addition o...",
+                "image": "https://static.invenglobal.com/upload/image/2026/08/25/r1787621063845016.jpeg",
+                "url": "https://www.invenglobal.com/articles/25091/the-blood-of-dawnwalker-adds-60fps-mode-across-all-console-platforms",
+                "source": "Inven Global",
+                "date": "2026-08-25T01:25:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Forbes Asia Releases Sixth Edition Of 100 To Watch List",
+                "desc": "Forbes Asia today released the sixth annual edition of the 100 to Watch list, which spotlights small companies and startups on the rise across the Asia-Pacific region.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/forbespr/2026/08/24/forbes-asia-releases-sixth-edition-of-100-to-watch-list/",
+                "source": "Forbes",
+                "date": "2026-08-25T01:22:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "High alert! ACSC warns of hackers targeting Aussie organisations using TeamCity On-Premises",
+                "desc": "A month-old vulnerability in a popular software delivery platform is giving malicious actors a way into Australian networks.",
+                "image": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1787620672/TeamCity_On-Premises_emmsgn.jpg",
+                "url": "https://www.cyberdaily.au/security/14091-high-alert-acsc-warns-of-hackers-targeting-aussie-orgs-using-teamcity-on-premises",
+                "source": "Cyber Daily",
+                "date": "2026-08-25T01:20:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Generation AV Solution — CX Network",
+                "desc": "The P.A. People has delivered a comprehensive audiovisual solution for the Lord Howe Island Community Hall.",
+                "image": "https://www.cxnetwork.com.au/wp-content/uploads/2026/08/Exterior.jpg",
+                "url": "https://www.cxnetwork.com.au/the-p-a-people-delivers-next-generation-av-solution/",
+                "source": "CX Magazine",
+                "date": "2026-08-25T01:18:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Castlevania: Belmont's Curse Brings Back Netflix Dracula, Sypha Voice Actors",
+                "desc": "Konami's Oct. 15 game reunites Graham McTavish as Dracula and Alejandra Reynoso as Sypha, alongside a cast trailer revealing Trevor, Rose Belmont and more.",
+                "image": "https://www.shanethegamer.com/wp-content/uploads/2026/08/stg-castlevania-belmonts-curse-92177.jpg",
+                "url": "https://www.shanethegamer.com/news/castlevania-belmonts-curse-brings-back-netflix-dracula-sypha-voice-actors/",
+                "source": "Shane the Gamer",
+                "date": "2026-08-25T01:15:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nintendo shares behind-the-scenes looks at the recording sessions for Mario Kart World's soundtrack",
+                "desc": "Talk about a bop",
+                "image": "https://gonintendo.com/attachments/image/84897/file/medium-60021a881977bc0617cbd00f976791e4.jpg",
+                "url": "https://gonintendo.com/contents/64120-nintendo-shares-a-behind-the-scenes-look-at-the-recording-session-for-mario-kart",
+                "source": "GoNintendo",
+                "date": "2026-08-25T01:11:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What’s new in Android's August 2026 Google System Updates [U]",
+                "desc": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across...",
+                "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-2.jpg?quality=82&strip=all&resize=1200,628",
+                "url": "https://9to5google.com/2026/08/24/august-2026-google-system-updates/",
+                "source": "9to5Google",
+                "date": "2026-08-25T01:04:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Tilta to increase prices on some products from 1st September",
                 "desc": "Tilta will be increasing prices on some products effective September 1, 2026 due to ongoing increases in raw material, manufacturing, and supply chain",
@@ -1174,99 +1264,99 @@
                 "source": "Notebookcheck",
                 "date": "2026-08-24T19:19:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Apple’s 20th anniversary iPhone may borrow this Android feature",
-                "desc": "A leaked render offers an early, unofficial look at the 20th anniversary iPhone, slated to launch in 2027.",
-                "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Apple-iPhone-Air_9-scaled-e1761389770799.jpg",
-                "url": "https://www.androidauthority.com/apple-iphone-20th-anniversary-android-3702273/",
-                "source": "Android Authority",
-                "date": "2026-08-24T18:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LG And will.i.am Turn The xboom Power Series Into A Karaoke Party Machine",
-                "desc": "LG wants the speaker to become part of the party instead of sitting in the corner. Its new xboom Power Series is built around that idea, combining big sound with karaoke, lighting, DJ effects and AI tools designed to pull more people into the action. The flagship lineup includes the LG xboom Power 9000, Power […]",
-                "image": "https://www.thatericalper.com/wp-content/uploads/2026/08/download-13-2.jpg",
-                "url": "https://www.thatericalper.com/2026/08/24/lg-and-will-i-am-turn-the-xboom-power-series-into-a-karaoke-party-machine/",
-                "source": "That Eric Alper",
-                "date": "2026-08-24T18:10:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Terranigma coming to Nintendo Switch 2, Switch",
-                "desc": "Terranigma is making a surprise comeback on Nintendo Switch 2 and Switch, Clear River Games and Square Enix just announced. A release is planned for 2027. Terranigma, an action RPG made by Quintet, went on to become a beloved Japanese action RPG after its launch. It actually never received a release in North America. While it came to Europe in...",
-                "image": "https://nintendoeverything.com/wp-content/uploads/Terranigma-.jpg",
-                "url": "https://nintendoeverything.com/terranigma-coming-to-nintendo-switch-2-switch/",
-                "source": "Nintendo Everything",
-                "date": "2026-08-24T18:09:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy S27 series design gets way more interesting in new leaked renders",
-                "desc": "New Galaxy S27 renders reveal redesigned camera housings and an intriguing S27 Pro design that could resemble the Ultra.",
-                "image": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-S26-Ultra-review-design-1.jpg",
-                "url": "https://www.sammobile.com/news/galaxy-s27-series-design-gets-way-more-interesting-in-new-leaked-renders/",
-                "source": "SamMobile",
-                "date": "2026-08-24T18:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Biwin Amber UV200 Brings High-Endurance USB Storage to Cars",
-                "desc": "Amber UV200 USB drive targets dashcam and surveillance storage.",
-                "image": "https://www.techporn.ph/wp-content/uploads/biwin-amber-uv200-high-endurance-usb-storage-cars-1.jpg",
-                "url": "https://www.techporn.ph/biwin-amber-uv200-high-endurance-usb-storage-cars/",
-                "source": "TechPorn",
-                "date": "2026-08-24T18:08:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exynos tops Qualcomm? Rumors claim Exynos 2700 early tests are positive",
-                "desc": "Latest Exynos 2700 rumors boldly claim Samsung's in-house chip could beat Qualcomm's next chips where it counts.",
-                "image": "https://s.yimg.com/lo/mysterio/api/128b97399badf914cbccb75ca3384b24baedcb3d861df36ad8359e9ef5146be0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fandroid_central_347%2Fcfa0f5adf5ff21f46b75a00ed6016e6e.jpg",
-                "url": "https://tech.yahoo.com/computing/articles/exynos-tops-qualcomm-rumors-claim-180720624.html",
-                "source": "Yahoo Tech",
-                "date": "2026-08-24T18:07:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How AI helped Alex Shuford launch a new brand",
-                "desc": "This week Alex Shuford, the CEO of Rock House Designer Brands—the North Carolina–based parent company of Century, Hickory Chair and Highland House—returned ...",
-                "image": "https://businessofhome.com/system/images/14741/large169_hdpi/Alex_ShufordIII.jpg?1787578657",
-                "url": "https://businessofhome.com/articles/how-ai-helped-alex-shuford-launch-a-new-brand",
-                "source": "Business of Home",
-                "date": "2026-08-24T18:07:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Call of Duty: Modern Warfare 4",
-                "desc": "Call of Duty: Modern Warfare 4 is adding more options for how your operators appear in-game.",
-                "image": "https://assets-prd.ignimgs.com/2026/05/28/cod4image1-1779986564142.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-new-dynamic-cosmetic-options-for-certain-characters-like-ghost",
-                "source": "IGN",
-                "date": "2026-08-24T18:06:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "POCO F9 Pro Aurora Green Teased: Exciting Global Launch Set for September 1",
-                "desc": "POCO F9 Pro Aurora Green is officially teased ahead of its September 1 global launch, with powerful specs including a 200MP camera.",
-                "image": "https://techgenyz.com/wp-content/uploads/2026/08/Poco-F9-Pro-color.webp",
-                "url": "https://techgenyz.com/poco-f9-pro-aurora-green-global-launch/",
-                "source": "Techgenyz",
-                "date": "2026-08-24T18:06:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Playstation Doubles Down on Ditching PC in New PS5 Video",
-                "desc": "PlayStation just released a video suggesting it won't support new PC ports anytime soon.",
-                "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/god-of-war-laufey.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.polygon.com/ps5-sony-exclusives-pc-ports-wolverine-god-of-war-laufey/",
-                "source": "Polygon.com",
-                "date": "2026-08-24T18:05:59Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "The Future of Middle East Security: Layered Security vs. External Umbrella",
+                "desc": "Can a regional NATO secure the Middle East? This paper examines layered security, Gulf defense integration, the Mecca Agreement, and the future of regional deterrence.",
+                "image": "https://mecouncil.org/wp-content/uploads/2026/08/435345.jpg",
+                "url": "https://mecouncil.org/publication/the-future-of-middle-east-security-layered-security-vs-external-umbrella/",
+                "source": "Middle East Council on Global Affairs",
+                "date": "2026-08-25T01:35:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apology sought for deportees killed in Venezuelan quakes",
+                "desc": "Relatives of Venezuelan deportees from the US who died in the earthquakes that struck their country have demanded an apology from Venezuela's interim government.",
+                "image": "https://www.rte.ie/images/0024e471-1600.jpg",
+                "url": "https://www.rte.ie/news/world/2026/0825/1589078-venezuela-earthquake/",
+                "source": "RTE.ie",
+                "date": "2026-08-25T01:35:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apology sought for deportees killed in Venezuelan quakes",
+                "desc": "Relatives of Venezuelan deportees from the United States who died in the earthquakes that struck their country have demanded an apology from Venezuela's interim government.",
+                "image": "https://www.rte.ie/images/0024e471-1600.jpg",
+                "url": "https://www.rte.ie/news/world/2026/0825/1589078-quake-victims-apology/",
+                "source": "RTE.ie",
+                "date": "2026-08-25T01:35:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sledgehammers and explosives more common in museum heists, Europol says",
+                "desc": "Europe's museum thieves once relied on deception, stealth and reconnaissance, but sledgehammers, axes, and explosives are now the weapons of choice, according to Europol.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/b005b613d86ba3fdadf564ab504678c9?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-08-25/museum-heists-becoming-more-violent-in-europe/107074598",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-08-25T01:34:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Major Russian oil refinery reportedly struck in Ukrainian attack",
+                "desc": "Ukraine's military launched an attack on Russia's Krasnodar Krai overnight on Aug. 25, reportedly striking the Afipsky Oil Refinery, Russian Telegram media channels reported.",
+                "image": "https://assets.kyivindependent.com/content/images/2024/06/Afipskiy_oil_refinery_plant_krasnodar_krai.jpg",
+                "url": "https://kyivindependent.com/major-russian-oil-refinery-reportedly-struck-in-ukrainian-attack/",
+                "source": "The Kyiv Independent",
+                "date": "2026-08-25T01:33:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Serbia again asks for war criminal Mladic to be released",
+                "desc": "Serbia reiterated a request that Ratko Mladic, the convicted Bosnian Serb war criminal, be released on health grounds, warning that his death could come at any time.",
+                "image": "https://globalnation.inquirer.net/files/2026/08/Serbia-again-asks-for-war-criminal-Mladic-to-be-released-scaled.jpg",
+                "url": "https://globalnation.inquirer.net/335793/serbia-wants-the-hague-convict-mladic-freed-he-could-die-any-time",
+                "source": "Inquirer.net",
+                "date": "2026-08-25T01:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran Update, August 24, 2026",
+                "desc": "The US is targeting Iran's sanctions-evasion networks to deepen Iran's economic isolation and strengthen international sanctions enforcement.",
+                "image": "https://understandingwar.org/wp-content/uploads/2025/10/Website-Featured-Image-1-scaled.webp",
+                "url": "https://understandingwar.org/research/middle-east/iran-update-august-24-2026/",
+                "source": "Institute for the Study of War",
+                "date": "2026-08-25T01:31:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. removes Syria from state sponsor of terrorism list",
+                "desc": "The U.S. removes Syria from the terrorism list, promoting investment and economic stability in the country post-conflict.",
+                "image": "https://th-i.thgim.com/public/incoming/r6oaw7/article71387085.ece/alternates/LANDSCAPE_1200/2026-08-24T192153Z_649812681_RC2R9MA87UDB_RTRMADP_3_USA-TRUMP-SYRIA-RESCIND.JPG",
+                "url": "https://www.thehindu.com/news/international/us-removes-syria-from-state-sponsor-of-terrorism-list/article71387074.ece",
+                "source": "The Hindu",
+                "date": "2026-08-25T01:28:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "France tornado: dozens injured and hundreds of homes damaged",
+                "desc": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/940f/live/15a64300-a00e-11f1-9bf0-5f4ec548648d.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno",
+                "source": "BBC",
+                "date": "2026-08-25T01:27:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cheating via smart glasses pushes South Korea to revise exam rules",
+                "desc": "The Labour Ministry moves to update rules as wearable tech exposes gaps in anti-cheating measures.",
+                "image": "https://asianews.network/wp-content/uploads/2026/08/news-p.v1.20260824.jpg",
+                "url": "https://asianews.network/cheating-via-smart-glasses-pushes-south-korea-to-revise-exam-rules/",
+                "source": "Asia News Network",
+                "date": "2026-08-25T01:25:34Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Bali scooter crash: Injured Australian tourist Amy Donohue’s medical bills top $30,000",
                 "desc": "An Australian woman faces tens of thousands of dollars in medical bills and a potentially costly evacuation after being seriously injured in a scooter crash...",
@@ -1806,98 +1896,8 @@
                 "source": "eNCA",
                 "date": "2026-08-24T19:09:27Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Based Final Action Dates Advance Sharply",
-                "desc": "The September 2026 Visa Bulletin brings substantial forward movement in several family-sponsored categories, including advances of more than two years for some applicants. Most employment-based categories remain unchanged as the fiscal year approaches its September 30 conclusion. The Department of State attributes the movement to reduced immigrant visa issuance for nationals of certain countries under Administration policies affecting visa processing. To maximize use of available FY 2026 visa numbers, DOS has advanced Final Action Dates and, in some categories, Dates for Filing. Unfortunately, movement of September dates may have come much too late, since the September processing capacity at consular posts may be insufficient to fully utilize the required numbers to reach the annual limits. Also, it may be noted that the changes which have been made to the Family-sponsored Dates for Filing (chart B) will have very little impact on FY 2026 number use, and are intended to begin generating new demand for the potential use of FY 2027 Family-sponsored numbers. For applicants who have waited years—or decades—these changes may create an immediate opportunity to pursue final green card approval. Family-Based Categories: Dramatic September Advances F1: Unmarried Adult Sons and Daughters of U.S. Citizens For most countries, including China […]",
-                "image": "https://wolfsdorf.com/wp-content/uploads/2026/08/Untitled-design-31.png",
-                "url": "https://wolfsdorf.com/september-2026-visa-bulletin-family-based-final-action-dates-advance-sharply/",
-                "source": "WR Immigration",
-                "date": "2026-08-24T18:16:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Netanyahu claims Iran tried to assassinate one of his sons in Israel",
-                "desc": "Benjamin Netanyahu accuses Iran of trying to assassinate one of his sons, saying he has asked Israeli law enforcement to boost protection for prime ministerial candidates.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/netanayhu-observes-qatar-airstrike.jpg",
-                "url": "https://www.foxnews.com/world/iran-tried-assassinate-netanyahu-son-prime-minister-says",
-                "source": "Fox News",
-                "date": "2026-08-24T18:13:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Southwest Flight Attendant Mysteriously Found Dead During Layover",
-                "desc": "The woman’s family is desperate for answers.",
-                "image": "https://www.thedailybeast.com/resizer/v2/XEXGTLNRGRFOJK5INKENXET6PM.png?smart=true&auth=71f6453916298c746225a17cd674160a12c25f81458867f4ba7c4470c42b400b&width=1200&height=630",
-                "url": "https://www.thedailybeast.com/southwest-flight-attendant-mysteriously-found-dead-during-layover/",
-                "source": "The Daily Beast",
-                "date": "2026-08-24T18:11:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Economist: unpublished poll puts Zelensky first and fired defense minister Fedorov third in hypothetical Ukrainian presidential race",
-                "desc": "Former Ukrainian Defense Minister Mykhailo Fedorov placed third with 16% support in an unpublished poll on a hypothetical presidential election in Ukraine, according to The Economist, which has seen the results.",
-                "image": "https://meduza.io/imgly/share/1787595045/en/news/2026/08/24/the-economist-unpublished-poll-puts-zelensky-first-and-fired-defense-minister-fedorov-third-in-hypothetical-ukrainian-presidential-race",
-                "url": "https://meduza.io/en/news/2026/08/24/the-economist-unpublished-poll-puts-zelensky-first-and-fired-defense-minister-fedorov-third-in-hypothetical-ukrainian-presidential-race",
-                "source": "Meduza",
-                "date": "2026-08-24T18:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mexican, Zimbabwean nationals charged in Musina drug case",
-                "desc": "Five accused linked to a clandestine drug laboratory uncovered on a farm in Musina appeared in the local magistrate’s court on Monday.",
-                "image": "https://www.timeslive.co.za/resizer/v2/CHBK6KTKJNEODD3NW477ZMGVKE.jfif?smart=true&auth=4337f3e08d37b99ab2c235d06c806fe5723a3d3c79de3b7f951193568be40ca2&width=1200&height=630",
-                "url": "https://www.timeslive.co.za/news/south-africa/2026-08-24-mexican-zimbabwean-nationals-charged-in-musina-drug-case/",
-                "source": "TimesLIVE",
-                "date": "2026-08-24T18:09:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US proposes expanding UN Sudan arms embargo to entire country",
-                "desc": "UNITED NATIONS: The United States urged the UN Security Council on Monday to expand an arms embargo on the Sudanese region of Darfur to cover all of Sudan, saying the nation’s brutal conflict risks regional expansion. The Darfur arms embargo, in place for over two decades, is set to expire on September 12, 2026, if a new agreement is not reached. Expanding the restrictions to",
-                "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/08/24/4743988-436840930.jpg?itok=AOl8rgTU",
-                "url": "https://www.arabnews.pk/node/2655728/middle-east",
-                "source": "Arab News PK",
-                "date": "2026-08-24T18:08:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya and World Bank Explore Investment in Local Medical Manufacturing",
-                "desc": "Principal Secretary for Medical Services Dr Ouma Oluga held a consultative meeting with a World Bank team led by Operations Officer and...",
-                "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-08-24-110451000.jpg",
-                "url": "https://www.businessghana.com/site/news/Business/354725/Kenya-and-World-Bank-Explore-Investment-in-Local-Medical-Manufacturing",
-                "source": "BusinessGhana",
-                "date": "2026-08-24T18:08:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Polish firm MESKO signs $2B deal to arm 4 NATO nations with MANPADS",
-                "desc": "The weapons will go towards Poland, Lithuania, Latvia and Norway under an EU program known as EDIRPA.",
-                "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Screenshot-2026-08-24-134411-e1787593508356.png",
-                "url": "https://breakingdefense.com/2026/08/polish-firm-mesko-signs-2b-deal-to-arm-4-nato-nations-with-manpads/",
-                "source": "Breaking Defense",
-                "date": "2026-08-24T18:08:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
-                "desc": "Mass kidnappings highlight Nigeria’s security crisis in the north as elections approach.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-04T193540Z_1306600256_RC2I7LA8H5U7_RTRMADP_3_NIGERIA-MILITARY-1785968014.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque",
-                "source": "Al Jazeera",
-                "date": "2026-08-24T18:07:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Saudi Arabia To Invest $7 Billion In Three Theme Parks Near Paris",
-                "desc": "Saudi Arabia To Invest $7 Billion In Three Theme Parks Near Paris",
-                "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2291330328.jpg?w=1024",
-                "url": "https://deadline.com/2026/08/saudi-arabia-france-theme-parks-paris-1237049081/",
-                "source": "Deadline",
-                "date": "2026-08-24T18:06:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-25T12:15:41.072156Z"
+    "lastGlobalSync": "2026-08-25T13:36:19.471174Z"
 }
