@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Wall Street Journal Defends Publishing Billionaire Druckenmiller’s AI",
+                "desc": "Druckenmiller blasted Treasury Secretary Scott Bessent’s bond buyback expansion in an op-ed published in the Wall Street Journal.",
+                "image": "https://imageio.forbes.com/specials-images/imageserve/6a8ddd29a964795a0c01e9fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/25/wall-street-journal-defends-publishing-billionaires-ai-generated-op-ed-criticizing-bessent/",
+                "source": "Forbes",
+                "date": "2026-08-25T20:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Intuit Stock: QuickBooks Maker Posts Mixed Report",
+                "desc": "Intuit handily beat Wall Street's targets for its fiscal fourth quarter but disappointed with its guidance. Intuit stock fell.",
+                "image": "https://www.investors.com/wp-content/uploads/2026/08/stock-Intuit-software-company.jpg",
+                "url": "https://www.investors.com/news/technology/intuit-stock-fiscal-q4-2026-earnings/",
+                "source": "Investor's Business Daily",
+                "date": "2026-08-25T20:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ontario invests in possible Nuclear Plant near Sarnia",
+                "desc": "The Ontario government has taken the next step towards a potential nuclear power plant south of Sarnia, Ont., that could bring thousands of permanent and construction jobs.",
+                "image": "https://www.cp24.com/resizer/v2/K5TP4W57HJGYDJEDDLMEXXCZJM.jpeg?smart=true&auth=5ebc6ae8fdbd7de12fcbbec948fc83371975e4f75704b98734a38f659dee4747&width=1200&height=630",
+                "url": "https://www.cp24.com/politics/queens-park/2026/08/25/ontario-government-takes-next-step-towards-possible-nuclear-plant-on-americas-doorstep/",
+                "source": "CP24",
+                "date": "2026-08-25T20:10:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pipes as power plants: How cities can use their water systems to generate clean energy",
+                "desc": "Excess pressure in city water pipes can be converted into electricity if the pipes are large enough and there’s enough pressure differential and flow, among other things.",
+                "image": "https://imgproxy.divecdn.com/w3jIhcCL17zBPGcg2nnpFgxVGEhR9ATRHqxvaR4Q-FQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UdWFsYXRpbl9pbi1waXBlX2h5ZHJvXzMwXzEuanBn.webp",
+                "url": "https://www.facilitiesdive.com/news/the-clean-energy-opportunity-running-through-city-water-pipes/828751/",
+                "source": "Facilities Dive",
+                "date": "2026-08-25T20:10:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia Could Grow Revenue 97% and Still Disappoint Wall Street on Aug. 26",
+                "desc": "Nvidia reports Q2 earnings on Aug. 26, with Wall Street expecting $92.2 billion in revenue -- nearly double last year's $46.7 billion. But investors should look past the headline number.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884807%2Fcompany-nvidia-headquarters-with-nvidia-sign-neutral.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/08/25/nvidia-could-grow-revenue-97-and-still-disappoint/",
+                "source": "The Motley Fool",
+                "date": "2026-08-25T20:05:52Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Viral video shows humanoid robot cleaning San Francisco home",
+                "desc": "A California woman hired a $30 an hour humanoid robot to clean her home. Here's how it went.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/25/USAT/91457976007-cleaning-robot-gianna-capezio-via-storyful.jpg?crop=1918,1077,x0,y0&width=1918&height=1077&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/tech/2026/08/25/humanoid-robot-cleaning-san-francisco-home-video/91457398007/",
+                "source": "USA Today",
+                "date": "2026-08-25T20:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shein’s US$1.8bil HK IPO order book fully covered",
+                "desc": "Online fast-fashion retailer Shein's Hong Kong initial public offering (IPO) book to raise up to US$1.8bil has been fully covered by investor demand, two sources say, bringing it closer to its long-awaited market debut amid growing business and regulatory challenges.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/26/4078140.jpeg",
+                "url": "https://www.thestar.com.my/business/business-news/2026/08/26/sheins-us18bil-hk-ipo-order-book-fully-covered",
+                "source": "The Star",
+                "date": "2026-08-25T20:03:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "All fired up about El Nino",
+                "desc": "The plantation sector could see output and yields affected by the El Nino phenomenon from next year, although the monsoon season anticipated towards the end of this year may mitigate the severity of the impact.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/08/26/4077872.jpg",
+                "url": "https://www.thestar.com.my/business/business-news/2026/08/26/all-fired-up-about-el-nino",
+                "source": "The Star",
+                "date": "2026-08-25T20:03:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Intuit Reports Fourth Quarter and Full Year Fiscal 2026 Results; Sets Fiscal 2027 Guidance",
+                "desc": "Fourth-quarter revenue grew 14 percent, full year fiscal 2026 revenue grew 14 percent\nMOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--\nIntuit Inc.…...",
+                "image": "https://investors.intuit.com/_assets/_ebf221201360a81ed3f472a03a3a5850/intuit/db/939/7881/social_image.jpg",
+                "url": "https://investors.intuit.com/news-events/press-releases/detail/1320/intuit-reports-fourth-quarter-and-full-year-fiscal-2026-results-sets-fiscal-2027-guidance",
+                "source": "Intuit",
+                "date": "2026-08-25T20:02:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Scott Bessent, Stanley Druckenmiller and a hedge-fund legend hoist on his own petard",
+                "desc": "The protege, the mentor, and a hedge-fund global macro strategy turned against its own pioneer as the bond vigilantes ride again.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2290658325_9112c4-e1787685913269.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/08/25/scott-bessent-stanley-druckenmiller-and-a-hedge-fund-legend-hoist-on-his-own-petard/",
+                "source": "Fortune",
+                "date": "2026-08-25T20:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "2 Stocks That Could Capitalize on the GLP-1 Boom",
                 "desc": "They aren't the most prominent names in the GLP-1 space, but they are worth a second look.",
                 "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc9545f94fa4f206935a0458e067b3d13976fb102-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
@@ -542,99 +632,99 @@
                 "source": "Proactive Investors",
                 "date": "2026-08-25T14:09:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia’s dependence on hyperscalers faces big test in earnings report",
-                "desc": "Nvidia is trying to expand its customer base by creating new financing options that allow for more clients to purchase its costly systems.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108344711-1785865814969-gettyimages-2266485386-NVIDIA_GTC.jpeg?v=1785865841&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
-                "source": "CNBC",
-                "date": "2026-08-25T12:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EOG Resources: Failing To Keep Its Word Or Playing It Safe?",
-                "desc": "EOG Resources stock delivers record free cash flow, buybacks, and dividend growth. Here's what income investors need to know.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2216354952/image_2216354952.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4939769-eog-resources-failing-to-keep-its-word-or-playing-it-safe",
-                "source": "Seeking Alpha",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Barbados Gets Its First Practical DEXA Scan Alternative as The Leela Vida Introduces 3D Body Composition Tracking",
-                "desc": "The Leela Vida brings 3D body composition and posture assessment to Christ Church, filling a significant health technology gap for Barbados professionals.",
-                "image": "https://img.einnews.com/facebook/1144021/body-stats-at-the-leela-vida-ba.png",
-                "url": "https://www.einpresswire.com/article/923692885/barbados-gets-its-first-practical-dexa-scan-alternative-as-the-leela-vida-introduces-3d-body-composition-tracking",
-                "source": "EIN Presswire",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
-                "desc": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/08/luffu-link.png?resize=1200,754",
-                "url": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
-                "source": "TechCrunch",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Current price of oil as of Aug. 25, 2026",
-                "desc": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Oil-Aug-25.jpg?resize=1200,600",
-                "url": "https://fortune.com/article/price-of-oil-08-25-2026/",
-                "source": "Fortune",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Current price of Bitcoin for Aug. 25, 2026",
-                "desc": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Bitcoin-Aug-25.jpg?resize=1200,600",
-                "url": "https://fortune.com/article/price-of-bitcoin-08-25-2026/",
-                "source": "Fortune",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'The world seems to be ready': An interview with OpenAI head of product Thibault Sottiaux",
-                "desc": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/08/Thibault-headshot.jpg?resize=1200,750",
-                "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-                "source": "TechCrunch",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toronto sinkhole swallows up vehicle",
-                "desc": "New video has surfaced of a vehicle being recovered from a sinkhole in East York, after city officials say the driver drove onto a part of roadway that was compromised by a broken watermain.",
-                "image": "https://www.cp24.com/resizer/v2/H2LSZBN4ABC5XLD2UE2HHW46CE.jpg?smart=true&auth=b883a118922d1912aa516e610064785b4bb2d67a1794121871d9d2eceee5f6f7&width=1200&height=630",
-                "url": "https://www.cp24.com/local/toronto/2026/08/25/vehicle-falls-into-sinkhole-in-east-york-as-crews-were-repairing-broken-watermain/",
-                "source": "CP24",
-                "date": "2026-08-25T11:58:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nikita Bier Charges $15,000 for Business Advice on Intro",
-                "desc": "Nikita Bier, former X head of product, offers $15,000 business advice sessions on Intro, targeting venture-backed companies.",
-                "image": "https://i.insider.com/6a8d6ec9dec7dad37a36ae4b?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/nikita-bier-business-advice-intro-x-elon-musk-2026-8",
-                "source": "Business Insider",
-                "date": "2026-08-25T11:54:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Whatever It Takes’-Market Sent Shock ‘Fear Of God’ Warning As Crypto Traders Brace For Massive Bitcoin Price Boom",
-                "desc": "Treasury secretary Scott Bessent could be about to deliver a fresh, $1 trillion boost to the bitcoin price...",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/689f1042077c3a8a800a6e95/0x0.jpg?format=jpg&crop=3068,1851,x287,y0,safe&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/digital-assets/2026/08/25/youre-not-bullish-enough-bitcoin-is-suddenly-braced-for-a-1-trillion-price-game-changer/",
-                "source": "Forbes",
-                "date": "2026-08-25T11:53:50Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "The Witcher 3: Wild Hunt - Remastered Announced, Songs of the Past Gets First Look",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-US/The-Witcher-3-Wild-Hunt-Remastered-Announced-Songs-of-the-Past-Gets-Fi",
+                "source": "Games Press",
+                "date": "2026-08-25T20:24:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Witcher 3: Wild Hunt",
+                "desc": "Owners of the base game can also download Hearts of Stone and Blood and Wine for free. - Game Informer",
+                "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/08/25/c1351c62/witcher03.jpg.webp",
+                "url": "https://gameinformer.com/2026/08/25/the-witcher-3-wild-hunt-remastered-is-a-free-huge-upgrade-out-september-29",
+                "source": "Game Informer",
+                "date": "2026-08-25T20:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Clear-Com, Brazilian Integrator Conduct Successful Trial Of FreeSpeak Cell During Carnival ‘26",
+                "desc": "The field trial evaluated the cellular-based wireless intercom in a challenging environment",
+                "image": "https://cdn.mos.cms.futurecdn.net/DhDhKV3oLChF3NqWUjQMyQ-1600-75.png",
+                "url": "https://www.tvtechnology.com/production/clear-com-brazilian-integrator-conduct-successful-trial-of-freespeak-cell-during-carnival-26",
+                "source": "TVTechnology",
+                "date": "2026-08-25T20:22:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fan survey sends Google a blunt message about the Pixel 12",
+                "desc": "Our readers told us what the Pixel 12 focus should be, and the poll results suggest Google may need to rethink its priorities.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-7-scaled.jpg",
+                "url": "https://www.androidauthority.com/google-pixel-12-priorities-poll-results-3702883/",
+                "source": "Android Authority",
+                "date": "2026-08-25T20:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Erasable semiconductor is programmed with light",
+                "desc": "Researchers at Princeton Engineering have created a semiconductor with unique properties: It is just a few molecules thick and can repeatedly change its properties in response to light. This is a step toward building more ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/erasable-semiconductor.jpg",
+                "url": "https://techxplore.com/news/2026-08-erasable-semiconductor.html",
+                "source": "Tech Xplore",
+                "date": "2026-08-25T20:20:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Final Fantasy VII Revelation Continues To Stun In New Trailer",
+                "desc": "What a Revelation! - As expected, Naoki Hamaguchi popped up at the end of gamescom Opening Night Live 2026 to give us another look at Final Fantasy VII Revel...",
+                "image": "https://images.nintendolife.com/36c1ae11763c2/large.jpg",
+                "url": "https://www.nintendolife.com/news/2026/08/final-fantasy-vii-revelation-continues-to-stun-in-new-trailer",
+                "source": "Nintendo Life",
+                "date": "2026-08-25T20:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Witcher 3 Remastered confirms free Nintendo Switch 2 upgrade if you have original Switch 1 game",
+                "desc": "The Witcher 3: Wild Hunt Remastered was just announced for Nintendo Switch 2, and we’re happy to report that a free Switch 1 upgrade is confirmed. Normally, the RPG will be available for $60 on its own. However, we can confirm that it will be a free upgrade if you bought The Witcher 3 originally on Nintendo Switch. You can...",
+                "image": "https://nintendoeverything.com/wp-content/uploads/Witcher-3-Remastered-free-upgrade.jpg",
+                "url": "https://nintendoeverything.com/the-witcher-3-remastered-confirms-free-nintendo-switch-2-upgrade-if-you-have-original-switch-1-game/",
+                "source": "Nintendo Everything",
+                "date": "2026-08-25T20:18:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple defies memory shortage with new Mac minis",
+                "desc": "The cost of memory makes this an expensive ML meal",
+                "image": "https://image.theregister.com/5292415.jpg?imageId=5292415&x=0&y=0&cropw=100&croph=71.67&panox=0&panoy=0&panow=100&panoh=71.67&width=1200&height=683",
+                "url": "https://www.theregister.com/ai-and-ml/2026/08/25/apple-defies-memory-shortage-with-new-mac-minis/5292406",
+                "source": "The Register",
+                "date": "2026-08-25T20:18:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Over $10,000? Starlink's Referral Program Offers Cash and a Catch",
+                "desc": "A change to Starlink's referral program now opens the door to cash rewards. Too bad it doesn't apply retroactively for subscribers who've already referred dozens of customers.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/o/over-10000/over-10000-starlinks-referral-program-offers-cash-and-a-catc_3ade.1200.jpg",
+                "url": "https://au.pcmag.com/networking/119508/over-10000-dollars-starlink-referral-program-offers-cash-and-a-catch",
+                "source": "PCMag Australia",
+                "date": "2026-08-25T20:16:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "JetBrains local model needs a $2,700 Mac mini to run it",
+                "desc": "Apple just announced the Mac mini with M5 Pro and you'll need one with 64GB of RAM to run the Junie Local model, a free 27B parameter coding agent that compares to Sonnet 4.5 or GPT-5.",
+                "image": "https://media.appleinsider.com/gallery/68720-144746-IMG_4963-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/08/25/jetbrains-local-model-wont-cost-any-tokens-but-needs-a-2700-mac-mini-to-run-it",
+                "source": "AppleInsider",
+                "date": "2026-08-25T20:16:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Heroes of Might and Magic III Remake announced for PS5, Xbox Series, and PC",
                 "desc": "Ubisoft has announced Heroes of Might and Magic III Remake, a remake of the 1999-released turn-based strategy game. It will be available for PlayStation 5…",
@@ -1174,99 +1264,99 @@
                 "source": "The Conversation",
                 "date": "2026-08-25T14:06:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Bose Lifestyle Ultra Soundbar review",
-                "desc": "Bose’s most premium soundbar is here – but can it deliver an ultra-impressive experience?",
-                "image": "https://cdn.mos.cms.futurecdn.net/HhmLD5onywoNmC84ve6Y4X-1920-80.jpg",
-                "url": "https://www.whathifi.com/tv-home-cinema/soundbars/bose-lifestyle-ultra-soundbar-solo",
-                "source": "What Hi-Fi?",
-                "date": "2026-08-25T12:00:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise",
-                "desc": "Security researchers are warning that thousands of enterprise servers could be exposed to compromise through vulnerabilities in their Baseboard Management Controllers (BMCs) - specialized processors e",
-                "image": "https://res.infoq.com/news/2026/08/bmc-vulnerabilities/en/headerimage/generatedHeaderImage-1787152274946.jpg",
-                "url": "https://www.infoq.com/news/2026/08/bmc-vulnerabilities/",
-                "source": "infoq.com",
-                "date": "2026-08-25T12:00:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Risky Bet That Saved the Mac: A Look Back at Apple's Secretive Switch to Intel Chips",
-                "desc": "Apple's adoption of Intel processors in 2005 sent big waves through the PC industry—and made the company's move to Apple Silicon, 15 years later, an even bigger deal.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/t/the-risky-/the-risky-bet-that-saved-the-mac-a-look-back-at-apples-secre_yfxk.1200.jpg",
-                "url": "https://au.pcmag.com/processors/119497/apple-switches-to-intel-processors-macs-look-back",
-                "source": "PCMag Australia",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
-                "desc": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/08/luffu-link.png?resize=1200,754",
-                "url": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
-                "source": "TechCrunch",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The ‘Golden Hour’: Managing a newborn calf’s first hours",
-                "desc": "The first eight hours post-calving, known as the “Golden Hour”, can make or break a livestock enterprise. Discover the essential post-birth timeline every South African cattle producer needs to follow today.",
-                "image": "https://www.foodformzansi.co.za/wp-content/uploads/2026/08/FIT-Track-Featured-2.jpg",
-                "url": "https://www.foodformzansi.co.za/the-golden-hour-managing-a-newborn-calfs-first-hours/",
-                "source": "Food For Mzansi",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ELIXR playtests augmented reality at Chinatown mural",
-                "desc": "A not-for-profit whose goal is to make Canada a global powerhouse in extended reality wants you to interact with a striking mural in Edmonton's historic south Chinatown.",
-                "image": "https://taprootyeg.blob.core.windows.net/photos/2026/08/21/elixr-mural-6982.jpg",
-                "url": "https://edmonton.taproot.news/news/2026/08/25/elixr-playtests-augmented-reality-at-chinatown-mural",
-                "source": "Taproot Edmonton",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Deliver a Safe, Healthy Nursery",
-                "desc": "Bluedot's Room for Change series provides a guide to outfitting a nursery safely and sustainably, featuring expert tips from Allison Braden.",
-                "image": "https://bluedotliving.com/wp-content/uploads/2023/05/Dear_Dot_Final.jpg.webp",
-                "url": "https://bluedotliving.com/deliver-a-safe-healthy-nursery/",
-                "source": "Bluedot Living",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Risky Bet That Saved the Mac: A Look Back at Apple's Secretive Switch to Intel Chips",
-                "desc": "Apple's adoption of Intel processors in 2005 sent big waves through the PC industry—and made the company's move to Apple Silicon, 15 years later, an even bigger deal.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/t/the-risky-/the-risky-bet-that-saved-the-mac-a-look-back-at-apples-secre_wjrx.1200.jpg",
-                "url": "https://au.pcmag.com/processors/119497/the-risky-bet-that-saved-the-mac-a-look-back-at-apples-secretive-switch-to-intel-chips",
-                "source": "PCMag Australia",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CNET Finds 75% of US Adults Couldn't Care Less About a Foldable iPhone",
-                "desc": "Apple's first foldable, the iPhone Ultra (or Fold), could cost over $2,000 according to analysts. But US adults aren't willing to pay that much.",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/Hero_Foldable-Phones-Survey.png",
-                "url": "https://www.cnet.com/tech/mobile/foldable-phone-survey/",
-                "source": "CNET",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro price tease gives us a hint at how much you will pay",
-                "desc": "After Apple has increased the prices of many Macs, it looks as if the iPhone 18 Pro might also see a hefty increase.",
-                "image": "https://www.trustedreviews.com/wp-content/uploads/sites/7/2026/08/iPhone-17-Pro.jpg",
-                "url": "https://www.trustedreviews.com/news/iphone-18-pro-could-start-at-1199",
-                "source": "Trusted Reviews",
-                "date": "2026-08-25T11:58:20Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Meet the Wisconsin Maine Coon kitten with world record-breaking 29 toes",
+                "desc": "The kitten, named Erebus Anomaly, overcame a serious case of pneumonia and a nearly fatal aspiration event shortly after he was born, before gaining attention for the extra digits.",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/08/polydactyl-cat-wisconsin-world-record-for-most-toes.png?w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/12034617/world-record-most-toes-on-a-cat-maine-coon/",
+                "source": "Global News",
+                "date": "2026-08-25T20:24:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Explosion' heard as Barcelona fire burns 25 hectares and residents told 'stay indoors'",
+                "desc": "A huge fire has broken out in Barcelona, with smoke visible from a Ryanair flight amid unconfirmed reports of an explosion",
+                "image": "https://i2-prod.mirror.co.uk/article37592813.ece/ALTERNATES/s1200d/0_Wildfire-Rages-In-Collserola-Barcelona-Spain-25-Aug-2026.jpg",
+                "url": "https://www.mirror.co.uk/news/world-news/barcelona-fire-canyelles-metro-explosion-37591652",
+                "source": "The Mirror",
+                "date": "2026-08-25T20:20:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration: Kennedy Center may be demolished if repairs not made",
+                "desc": "Department of Justice lawyers told a federal judge the venue ‘cannot survive’ without the US president’s help.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8dec24e926-1787685924.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made",
+                "source": "Al Jazeera",
+                "date": "2026-08-25T20:20:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Live updates: Trump’s Darline Graham endorsement put to test in South Carolina run-off",
+                "desc": "Voters today will deliver a verdict on two key tests on the power of President Donald Trump’s endorsement within the Republican Party. The highest-profile race is in South Carolina, where Sen. Darline Graham is aiming to also replace her late brother on the November ballot. Follow live updates.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-21t235714z-886431902-rc2b3naosbo9-rtrmadp-3-usa-trump.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://edition.cnn.com/2026/08/25/politics/live-news/trump-darline-graham-south-carolina",
+                "source": "CNN",
+                "date": "2026-08-25T20:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Myth of 100 Million Dead",
+                "desc": "Did the British really kill 100 million Indians? We analyze the flawed math and baseline assumptions behind the inflated British Raj death toll statistic.",
+                "image": "https://historyreclaimed.co.uk/wp-content/uploads/2026/08/How-a-Reparations-Slogan-Was-Mistaken-for-a-Death-Toll.jpeg",
+                "url": "https://historyreclaimed.co.uk/british-raj-death-toll/",
+                "source": "History Reclaimed",
+                "date": "2026-08-25T20:17:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi Arabia logistics boom: Rents jump 6.9% as trade shifts to Red Sea ports",
+                "desc": "Saudi Arabia logistics rents rose up to 6.9 per cent as trade shifted towards Red Sea ports and industrial occupancy remained above 90 per cent, JLL says",
+                "image": "https://www.arabianbusiness.com/cloud/2026/08/25/Jeddah-Islamic-Port.jpg",
+                "url": "https://www.arabianbusiness.com/business/transport/saudi-arabia-logistics-boom-red-sea-ports",
+                "source": "Arabian Business",
+                "date": "2026-08-25T20:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israel is cementing its control over the West Bank and East Jerusalem while the world is distracted",
+                "desc": "Every action Israel takes in the occupied territories makes a future Palestinian state more unlikely.",
+                "image": "https://images.theconversation.com/files/755895/original/file-20260825-50-zbyd28.jpg?ixlib=rb-4.1.1&rect=0%2C684%2C8192%2C4096&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/israel-is-cementing-its-control-over-the-west-bank-and-east-jerusalem-while-the-world-is-distracted-288607",
+                "source": "The Conversation",
+                "date": "2026-08-25T20:15:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Montana utility commission investigates high power bills",
+                "desc": "The Montana Public Service Commission said they've gotten hundreds of complaints from NorthWestern Energy customers about unusually high bills.",
+                "image": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/c/9f/c9f9681a-1f28-50bf-a333-b8369e775065/6a8df7d06de5f.preview.jpg?crop=1764%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+                "url": "https://billingsgazette.com/news/local/business/article_c9f9681a-1f28-50bf-a333-b8369e775065.html",
+                "source": "Billings Gazette",
+                "date": "2026-08-25T20:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Father of USS Abraham Lincoln sailor released from immigration custody",
+                "desc": "The father of a U.S. Navy sailor who has been deployed in the Middle East for a record-breaking nine months was released from immigration detention, according to his family.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26235012135622-20260825200700610.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/08/25/us/uss-abraham-lincoln-immigration-custody",
+                "source": "CNN",
+                "date": "2026-08-25T20:12:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pipeline break releases natural gas liquids, prompts evacuations in Iron County",
+                "desc": "Enbridge leaders say they have isolated this section of the pipeline, and emergency response crews are on site.",
+                "image": "https://gray-kbjr-prod.gtv-cdn.com/resizer/v2/CMDTKU3BGVEFXDNDAI4WUIDVD4.png?auth=87a5e8475488ec1d60e9fe6bf30f4a18c8886a578588cc97f8b08a417ea4707f&width=1200&height=600&smart=true",
+                "url": "https://www.northernnewsnow.com/2026/08/25/multiple-homes-evacuated-after-natural-gas-liquids-leak-iron-county/",
+                "source": "Northern News Now",
+                "date": "2026-08-25T20:09:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Fresh retrial hope emerges for Irish woman who accuses Madeleine McCann suspect of rape",
                 "desc": "It is now understood a hearing has been granted and will proceed in January of next year",
@@ -1806,98 +1896,8 @@
                 "source": "journal.com.ph",
                 "date": "2026-08-25T14:02:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Iran vows to retaliate after US widens sanctions",
-                "desc": "US Treasury Secretary Scott Bessent unveiled the measures on Monday but stopped short of the most punishing sanctions",
-                "image": "https://i.tribune.com.pk/media/images/trump-r1787246222-0/trump-r1787246222-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2625737/iran-vows-to-retaliate-after-us-widens-sanctions",
-                "source": "The Express Tribune",
-                "date": "2026-08-25T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bonfire causes large outdoor fire in dry Corbiere field",
-                "desc": "Firefighters in Jersey issue a warning after tackling flames at a site near the desalination plant.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f192/live/90cc0910-a073-11f1-958e-e3912aa2af08.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c4gql3gl93lo",
-                "source": "BBC",
-                "date": "2026-08-25T11:57:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU technology chief warns of AI losing human control",
-                "desc": "Virkkunen stresses need to ensure such technologies operate within certain security constraints",
-                "image": "https://i.tribune.com.pk/media/images/untitled-design-101787650315-0/untitled-design-101787650315-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2625761/eu-technology-chief-warns-of-ai-losing-human-control",
-                "source": "The Express Tribune",
-                "date": "2026-08-25T11:56:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia mobilisation fears grow amid reports of intimidating tactics",
-                "desc": "Military recruitment efforts are reportedly more aggressive as Russia prepares for a winter offensive in Ukraine.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-08T150625Z_117081251_RC2J9MAPU8ZO_RTRMADP_3_RUSSIA-DAILYLIFE-1787649060.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics",
-                "source": "Al Jazeera",
-                "date": "2026-08-25T11:55:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia Publishes Minimum Amount Foreigners Must Have to Qualify for Working Holiday Visa",
-                "desc": "Australia has published the amount of money foreigners must have to qualify for its Working Holiday visa. Find out the financial requirement and other details.",
-                "image": "https://cdn.legit.ng/images/1200x675/c8a0170f1cdc11aa.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1727151-australia-publishes-minimum-amount-foreigners-qualify-working-holiday-visa/",
-                "source": "Legit News",
-                "date": "2026-08-25T11:55:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zimbabwe pipeline capacity to rise 67% by 2027",
-                "desc": "The capacity of the Beira-Harare fuel corridor is expected to rise by 67 percent by the end of 2027 as Mozambique and Zimbabwe exp...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/04/jHyftBRs-gas.webp",
-                "url": "https://businessday.ng/energy/article/mozambique-zimbabwe-pipeline-capacity-to-rise-67-by-2027/",
-                "source": "Business News Nigeria",
-                "date": "2026-08-25T11:51:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Drunk driver injures 12 in Albufeira - Portuguese police",
-                "desc": "A drunk driver injured 12 people, including two police and a Polish national, as he mowed down pedestrians in the resort town of Albufeira early this morning, Portuguese police have said.",
-                "image": "https://www.rte.ie/images/0024e4f8-1600.jpg",
-                "url": "https://www.rte.ie/news/europe/2026/0825/1589150-albufeira-drunk-driver/",
-                "source": "RTE.ie",
-                "date": "2026-08-25T11:50:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zelenskyy: Ukraine's NATO membership would reduce risk of Russian aggression against other Alliance countries",
-                "desc": "Ukraine’s membership in NATO would reduce the risk of Russian aggression against other Alliance countries, since NATO would then include a country with a strong army, which would be dangerous for Russia, Ukrainian President Volodymyr Zelenskyy has said.",
-                "image": "https://media.interfax.com.ua/media/thumbs/images/2024/10/S64s5Rx6eVuZ.jpg",
-                "url": "https://en.interfax.com.ua/news/general/1195895.html",
-                "source": "Interfax-Ukraine",
-                "date": "2026-08-25T11:49:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide",
-                "desc": "Rohingya refugees face deep aid cuts in Bangladesh and forced evictions in Malaysia and India.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8d5d8f69610-1787649423_806eb5-1787650697.jpg?resize=1200%2C630&quality=80",
-                "url": "https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide",
-                "source": "Al Jazeera",
-                "date": "2026-08-25T11:49:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘We are under attack’: US military aircraft lands in Russia, sparks wild theories",
-                "desc": "US News: A US Air Force Boeing C-17 Globemaster III military transport aircraft landed at Moscow’s Vnukovo Airport on Tuesday, news agency AFP reported citing .",
-                "image": "https://static.toiimg.com/thumb/msid-133509010,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/we-are-under-attack-us-military-aircraft-lands-in-russia-sparks-wild-theories/articleshow/133508879.cms",
-                "source": "The Times of India",
-                "date": "2026-08-25T11:49:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-08-26T07:33:03.669545Z"
+    "lastGlobalSync": "2026-08-26T08:24:14.653667Z"
 }
