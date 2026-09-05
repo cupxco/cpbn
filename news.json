@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "November 2026 TARGET Services releases confirmed with deployment shifted to 28 November 2026",
+                "desc": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+                "image": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4",
+                "url": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews260904.en.html",
+                "source": "ecb.europa.eu",
+                "date": "2026-09-04T16:07:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada's unemployment rate remains at 6.4% amid broad-based declines",
+                "desc": "The Canadian economy shed 42,000 jobs and the unemployment rate remained unchanged at 6.4% in August. Read more.",
+                "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/0905-bc-jobs-.jpg",
+                "url": "https://financialpost.com/news/economy/canadas-unemployment-rate-remains-6-4-economy-broad-declines",
+                "source": "Financial Post",
+                "date": "2026-09-04T16:07:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+                "desc": "Microsoft claimed in a legal filing that its Copilot chatbot hardly ever regurgitates sentences from articles and books used to ground the AI.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+                "source": "The Verge",
+                "date": "2026-09-04T16:05:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Restless and not enough",
+                "desc": "A story is told about a person who was congratulated on the big promotion he landed just the week before.",
+                "image": "https://media.philstar.com/images/filler/business-logo-filler-thumbnail.jpg",
+                "url": "https://www.philstar.com/business/2026/09/05/2554053/restless-and-not-enough",
+                "source": "Philstar.com",
+                "date": "2026-09-04T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "2GO integrates sea, land transfers in one platform",
+                "desc": "Shipping giant 2GO Group Inc. has introduced a new service called TraveLink to allow travelers to reserve their land and sea journeys in a single platform for ease of booking.",
+                "image": "https://media.philstar.com/photos/2026/09/04/8_2026-09-04_18-28-49.jpg",
+                "url": "https://www.philstar.com/business/2026/09/05/2554055/2go-integrates-sea-land-transfers-one-platform",
+                "source": "Philstar.com",
+                "date": "2026-09-04T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Business confidence collapses in July",
+                "desc": "Business sentiment in the Philippines turned sour in July amid renewed concerns over hostilities in the Middle East and persistent inflationary pressures, according to the Bangko Sentral ng Pilipinas (BSP).",
+                "image": "https://media.philstar.com/photos/2026/09/04/2_2026-09-04_18-38-02.jpg",
+                "url": "https://www.philstar.com/business/2026/09/05/2554061/business-confidence-collapses-july",
+                "source": "Philstar.com",
+                "date": "2026-09-04T16:00:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "ACEN extends over P9 billion financing to solar units",
+                "desc": "ACEN Corp. of the Zobel family has extended more than P9 billion in loan facilities to two wholly owned subsidiaries developing solar and battery storage projects in Zambales.",
+                "image": "https://media.philstar.com/photos/2026/09/04/7_2026-09-04_18-30-08.jpg",
+                "url": "https://www.philstar.com/business/2026/09/05/2554056/acen-extends-over-p9-billion-financing-solar-units",
+                "source": "Philstar.com",
+                "date": "2026-09-04T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The business of banking",
+                "desc": "The Supreme Court reminded banks of their duty to exercise the highest degree of diligence in handling their clients’ funds and in selecting and supervising employees, owing to the fiduciary nature of the banking business.",
+                "image": "https://media.philstar.com/images/filler/business-logo-filler-thumbnail.jpg",
+                "url": "https://www.philstar.com/business/2026/09/05/2554054/business-banking",
+                "source": "Philstar.com",
+                "date": "2026-09-04T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NMDPRA protecting adulterated fuel importers in Nigeria - Expert raises alarm",
+                "desc": "Energy consumers’ advocate and expert, Abdulrahman Sani Ibrahim, has accused the Nigerian Midstream and Downstream Petroleum Regulatory Authority, NMDPRA,",
+                "image": "https://dailypost.ng/wp-content/uploads/2026/03/NMDPRA.jpg",
+                "url": "https://dailypost.ng/2026/09/04/nmdpra-protecting-adulterated-fuel-importers-in-nigeria-expert-raises-alarm/",
+                "source": "Daily Post Nigeria",
+                "date": "2026-09-04T15:59:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Super prime fishmeal prices hold steady as Chinese inventories continue to rise",
+                "desc": "China’s fishmeal industry is evaluating the long-term effects of this year's El Nino, as it is expected that Peru may not increase production until next",
+                "image": "https://www.undercurrentnews.com/wp-content/uploads/2022/11/PXL_20221027_162946428-2-e1669300162180.jpg",
+                "url": "https://www.undercurrentnews.com/2026/09/04/super-prime-fishmeal-prices-hold-steady-as-chinese-inventories-continue-to-rise/",
+                "source": "Undercurrent News",
+                "date": "2026-09-04T15:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Zetrix AI exits HeiTech Padu after disposing of entire 16.9% stake for RM27.5 mil",
                 "desc": "Zetrix AI Bhd (KL:ZETRIX) has exited HeiTech Padu Bhd (KL:HTPADU) after disposing of its entire 16.9% stake in the information technology services provider.",
                 "image": "https://assets.theedgemarkets.com/04zetriz_20260904194459.jpg",
@@ -542,99 +632,99 @@
                 "source": "PLOS",
                 "date": "2026-09-03T18:21:13Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "SoFi shares could rise 40% to $25 by 2027 despi...",
-                "desc": "SoFi's stock has fallen over 31% in 2026 amid shifting interest rate expectations, but the fintech continues to post record loan originations and profits. Analysts see upside potential with a consensus 12-month price target of $20.02 and rising earnings estimates for 2027. Management projects strong revenue growth and expanding member engagement, supporting a possible rise to $25 per share by late 2027, which would be a 40% gain from current levels. Risks remain, but SoFi's fundamentals and growth initiatives provide a credible path for this rebound.",
-                "image": "https://image-cdn.pluang.com/web/compressed/fundamentals.webp",
-                "url": "https://pluang.com/en/news-feed/prediksi-harga-sofi-target-2027-bisa-mengejutkan-investor",
-                "source": "Pluang",
-                "date": "2026-09-03T13:23:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
-                "desc": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips",
-                "image": "https://i.guim.co.uk/img/media/435487580779be5596c03bb62e0d164456bff6da/472_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=702f0b52f19844e8a4740e7d0bcd6b13",
-                "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-                "source": "theguardian.com",
-                "date": "2026-09-03T13:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SRA missed numerous chances to halt PM Law losses, report finds",
-                "desc": "Two investigations were made into potential misconduct but not acted upon, investigation by City firm reveals.",
-                "image": "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/1/7/4/130174_screenshot20260203at09.54.50_910484.jpg",
-                "url": "https://www.lawgazette.co.uk/news/sra-missed-numerous-chances-to-halt-pm-law-losses-report-finds/5127801.article",
-                "source": "The Law Society Gazette",
-                "date": "2026-09-03T13:22:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MTR Corp sues Opatra operator over HK$347,000 unpaid rent and fees at Sha Tin mall",
-                "desc": "Court document shows rail operator, as landlord of Citylink Plaza in Sha Tin, suing Sayles Retail for the outstanding payments.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/03/ededc040-0549-43ac-a518-662f9c4d8cba_8e6bf208.jpg?itok=zoX5BitQ&v=1788441194",
-                "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366272/mtr-corp-sues-opatra-operator-over-hk347000-unpaid-rent-and-fees-sha-tin-mall",
-                "source": "scmp.com",
-                "date": "2026-09-03T13:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kinomatic Launches Unified Platform Built to Power the Next Generation of AI-Driven Orthopedic Surgical Care",
-                "desc": "Kinect brings surgical planning, case management, and surgeon collaboration into a unified platform, creating the data foundation for AI-native planning and recoveryKinomatic is already using Kinect to train AI segmentation models for surgical planning, with a roadmap toward more personalized, data-driven careKinomatic’s deep investment in AI is driving an evolution in orthopedic surgery, determining best practice for surgeons, and providing pre- and post-surgical support  ARROYO GRANDE, Calif., Sept. 03, 2026 (GLOBE NEWSWIRE) -- Kinomatic, a pioneer in AI- and VR-driven orthopedic surgery planning and concierge recovery, today announced the launch of Kinect, a unified platform that connects surgical planning, case management, and surgeon collaboration for knee and hip joint replacement. The launch advances Kinomatic's broader personalized care strategy, building on the company's preoperative-planning and concierge recovery services, and marking a foundational step in the company's investment in AI-native surgical planning.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/03/1202048.png",
-                "url": "https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/kinomatic-launches-unified-platform-built-to-power-the-next-generation-of-ai-driven-orthopedic-surgical-care/2418078",
-                "source": "The Manila Times",
-                "date": "2026-09-03T13:18:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Makito ONE Adds Bonded 5G Connectivity with Haivision’s New CellLink 5G, Enhancing Resilient Live Video Contribution",
-                "desc": "Industry’s most trusted encoder brand now features video transport over bonded 5G, enabling pristine live contribution from virtually any location",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/03/1202009.png",
-                "url": "https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/makito-one-adds-bonded-5g-connectivity-with-haivisionsnewcelllink5g-enhancing-resilient-live-video-contribution/2418067",
-                "source": "The Manila Times",
-                "date": "2026-09-03T13:18:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PSNI chief Jon Boutcher admits humiliating ‘initiation’ ritual for female police officers ‘habitual’",
-                "desc": "Station stampers used to ‘brand’ newly qualified female officers labelled ‘indecent assault’ by Chief Constable",
-                "image": "https://www.irishnews.com/resizer/v2/CGWDWCFLTBGD7E6TYN7OCJVK4I.jpg?smart=true&auth=7b80e31624adec20d2e0ea2004e4a4dedb5bb67e816086db757bbc3ddf3e859a&width=1200&height=630",
-                "url": "https://www.irishnews.com/news/northern-ireland/psni-chief-jon-boutcher-admits-humiliating-initiation-ritual-for-female-police-officers-habitual-F4FVC5BGTFAUNPKFYZVATBPRQU/",
-                "source": "The Irish News",
-                "date": "2026-09-03T13:17:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Are Israelis tuning out the risks? Antisemitism searches plunge as flight demand soar",
-                "desc": "Google data show flight searches up 30%, while searches about antisemitism and travel warnings fall sharply; the figures reflect interest, not bookings",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/BkQPYjI00Gl/BkQPYjI00Gl_0_59_1000_563_0_large.jpg",
-                "url": "https://www.ynetnews.com/travel/article/rjkjonu00zg",
-                "source": "ynetnews.com",
-                "date": "2026-09-03T13:12:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Immune therapy engineered inside the body eases multiple sclerosis",
-                "desc": "Results from a small trial suggest a modified virus can instruct the immune system to wipe out disease-causing cells.",
-                "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02765-1/d41586-026-02765-1_53204406.jpg",
-                "url": "https://www.nature.com/articles/d41586-026-02765-1?error=cookies_not_supported&code=99704faa-5f62-4443-9227-bef1ca27dd4d",
-                "source": "Nature",
-                "date": "2026-09-03T13:12:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "European Uber drivers start class action against 'dynamic pricing'",
-                "desc": "Under dynamic pricing, businesses alter the price of a product or service according to demand.",
-                "image": "https://img.lemde.fr/2026/08/05/0/0/3500/2333/1440/960/60/0/17bb698_ftp-1-giuxqhzeq4ia-2026-08-05t110624z-1635777147-rc26fmaojvzn-rtrmadp-3-uber-results.JPG",
-                "url": "https://www.lemonde.fr/en/economy/article/2026/09/03/european-uber-drivers-start-class-action-against-dynamic-pricing_6757120_19.html",
-                "source": "lemonde.fr",
-                "date": "2026-09-03T13:10:53Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "AI pioneer joins startup that wants you to snort nanoparticles",
+                "desc": "Silicon Valley’s Subsense gets backing from Ray Kurzweil in bid to connect your brain to computers through your nose",
+                "image": "https://s.yimg.com/lo/mysterio/api/a0b4ca26142026d244fe6207152209f5d354131d261a4d33e74bfa9714c14abc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fa2e53467e25ce104f497c9a9f21ecb84.png",
+                "url": "https://ca.news.yahoo.com/ai-pioneer-joins-startup-wants-160708855.html",
+                "source": "Yahoo News Canada",
+                "date": "2026-09-04T16:07:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Our Samsung Galaxy S26 FE battery life and charging tests are ready",
+                "desc": "While it has the same battery capacity as the S25 FE (4,900mAh), the new Exynos 2500 chipset gives the S26 FE an edge. The Samsung Galaxy S26 FE went on...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-s26-fe-battery-and-charge-tests/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481.php",
+                "source": "GSMArena.com",
+                "date": "2026-09-04T16:02:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Astonishia Story coming west on February 11, 2027 for PS5, Switch 2, Switch, and PC",
+                "desc": "NIS America will release RPG remake Astonishia Story for PlayStation 5, Switch 2, Switch, and PC via Steam on February 11, 2027 in the west…",
+                "image": "https://www.gematsu.com/wp-content/uploads/2026/09/Astonishia-Story-West-Ann_09-04-26.jpg",
+                "url": "https://www.gematsu.com/2026/09/astonishia-story-coming-west-on-february-11-2027-for-ps5-switch-2-switch-and-pc",
+                "source": "gematsu.com",
+                "date": "2026-09-04T16:00:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Grimm Reapress and the Drearytale Monster coming west in 2027 for PS5, Switch 2, Switch, and PC",
+                "desc": "NIS America will release storybook adventure game The Grimm Reapress and the Drearytale Monster for PlayStation 5, Switch 2, Switch, and PC via Steam in 2027 in…",
+                "image": "https://www.gematsu.com/wp-content/uploads/2026/09/Grim-Reapress-Ann_09-04-26.jpg",
+                "url": "https://www.gematsu.com/2026/09/the-grimm-reapress-and-the-drearytale-monster-coming-west-in-2027-for-ps5-switch-2-switch-and-pc",
+                "source": "Gematsu",
+                "date": "2026-09-04T16:00:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vote for Your PS5 Game of the Month (August 2026)",
+                "desc": "Decide Push Square's GOTM - Hmmm, it feels like August could give us one of the tightest Game of the Month votes that we've had in quite some time. That's m...",
+                "image": "https://images.pushsquare.com/0b3fbbc8c0712/large.jpg",
+                "url": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-august-2026",
+                "source": "Push Square",
+                "date": "2026-09-04T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HUANUO Unveils Its Complete Smart Ergonomic Workspace Portfolio at IFA 2026",
+                "desc": "BERLIN, Sept. 04, 2026 (GLOBE NEWSWIRE) -- HUANUO, the ergonomic technology brand trusted by more than 10 million users worldwide, today unveile...",
+                "image": "https://ml.globenewswire.com/Resource/Download/bea3bfdc-eb26-4378-9f2c-2e00e5032edd/huanuopressrelease.jpeg",
+                "url": "https://markets.businessinsider.com/news/stocks/huanuo-unveils-its-complete-smart-ergonomic-workspace-portfolio-at-ifa-2026-1036523325",
+                "source": "markets.businessinsider.com",
+                "date": "2026-09-04T15:59:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lexar Shows Off Muse Portable SSD, Claims World's Thinnest at IFA 2026",
+                "desc": "We are on the ground at IFA 2026 in Berlin, and Lexar used the floor to show off the Muse, a portable SSD the company is calling the world's thinnest. It measures just 3.8mm at its thickest point, tapering to about 1mm at the edges. That's closer to a credit card than the SSD bricks most people...",
+                "image": "https://www.techpowerup.com/img/75AFdJBhToT3W85q.jpg",
+                "url": "https://www.techpowerup.com/352351/lexar-shows-off-muse-portable-ssd-claims-worlds-thinnest-at-ifa-2026",
+                "source": "TechPowerUp",
+                "date": "2026-09-04T15:58:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside Tencent's long-term strategy: live service, AI tools, and evergreen titles",
+                "desc": "\"I think people should just not be afraid of AI\"",
+                "image": "https://assetsio.gnwcdn.com/Tencent-Games-booth-Gamescom-2026.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-service-ai-tools-and-evergreen-titles",
+                "source": "GamesIndustry.biz",
+                "date": "2026-09-04T15:57:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+                "desc": "A phishing campaign sent up to 2.37 million weekday emails using invisible Unicode tags to split financial lure words and bypass filters.",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1700-nu-rw-lo-l85-e365/emails.jpg",
+                "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+                "source": "The Hacker News",
+                "date": "2026-09-04T15:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Turramurra Music marks 50 years in Sydney",
+                "desc": "All the latest audio, video and lighting technology news that affects the industry in the vibrant and vital APAC markets. Always up to date on new global product launches, impart expert business analysis, and in-depth reports on the most topical projects and events in Asia-Pacific.",
+                "image": "https://www.proavl-asia.com/img/zcy6kwf91z6cv0fbnyrpvrmj.jpg",
+                "url": "https://www.proavl-asia.com/details/80945-turramurra-music-marks-50-years-in-sydney",
+                "source": "proavl-asia.com",
+                "date": "2026-09-04T15:56:23Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
                 "desc": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
@@ -1174,99 +1264,99 @@
                 "source": "finance.biggo.com",
                 "date": "2026-09-03T18:16:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "MSI Claw handhelds now come with a free copy of newly-released Captain Tsubasa 2 for a limited time",
-                "desc": "The promotion started on August 28 and runs until September 30, though MSI says the offer is only available while supplies last.",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/09/Captain-Tsubasa-2-World-Fighters.jpg",
-                "url": "https://www.pcguide.com/news/msi-claw-handhelds-now-come-with-a-free-copy-of-newly-released-captain-tsubasa-2-for-a-limited-time/",
-                "source": "PC Guide",
-                "date": "2026-09-03T13:22:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "XGIMI AURA 3 Series Debuts at IFA as World's First 4K 120Hz UST Projector Lineup",
-                "desc": "BERLIN, Sept. 3, 2026 /PRNewswire/ -- XGIMI, a global leader in premium home entertainment, today announced the debut of the AURA 3 Series(AURA 3 Max and AURA 3 Pro) at IFA 2026, showcasing XGIMI's vision for a new generation of living room cinema. From September 4-8 at Hall 21, Booth H21-111, visitors can experience the AURA 3 Series in immersive, home-inspired settings that demonstrate how a premium big-screen cinema experience can seamlessly fit into everyday living.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/03/1202081.jpg",
-                "url": "https://www.manilatimes.net/2026/09/03/tmt-newswire/pr-newswire/xgimi-aura-3-series-debuts-at-ifa-as-worlds-first-4k-120hz-ust-projector-lineup/2418095",
-                "source": "The Manila Times",
-                "date": "2026-09-03T13:21:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Everything announced at Sony's State of Play September 2026",
-                "desc": "Here's a full rundown of everything featured during Sony's latest State of Play PS5 showcase, including Wolverine and more.",
-                "image": "https://assetsio.gnwcdn.com/Logan-with-his-claws-out-in-Marvel's-Wolverine.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/everything-announced-at-sonys-state-of-play-september-2026",
-                "source": "Eurogamer.net",
-                "date": "2026-09-03T13:19:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fans Flood PlayStation State Of Play Chat With Calls For",
-                "desc": "Sony's marketing blitz brings out the hecklers",
-                "image": "https://kotaku.com/app/uploads/2026/09/sonys-1200x675.jpg",
-                "url": "https://kotaku.com/fans-flood-playstation-state-of-play-chat-with-calls-for-destiny-3-and-no-disc-no-buy-2000730851",
-                "source": "Kotaku",
-                "date": "2026-09-03T13:19:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ByteBrew Brings Live Operations into App Developers' AI Workflows, Closing the Agentic Loop From Insight to Action",
-                "desc": "Find the friction, tune it in chat, and ship personalized updates worldwide, all within ByteBrew's Shift AI",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/03/1202010.png",
-                "url": "https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/bytebrew-brings-live-operations-into-app-developers-ai-workflows-closing-the-agentic-loop-from-insight-to-action/2418068",
-                "source": "The Manila Times",
-                "date": "2026-09-03T13:18:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kildare stars on the move as transfer window closes",
-                "desc": "Andrew Omobamidele and Alex Noonan were on the move during a busy week of transfer activity",
-                "image": "https://www.kildare-nationalist.ie/cms_media/module_img/7734/3867080_1_articledetail_91819_2718051_281_29.jpg",
-                "url": "https://www.kildare-nationalist.ie/kildare-stars-on-the-move-as-transfer-window-closes_arid-110266.html",
-                "source": "kildare-nationalist.ie",
-                "date": "2026-09-03T13:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TikTok announces new ways to comment, including voice messages and polls",
-                "desc": "The social media platform is giving users more ways to interact and connect in the comments.",
-                "image": "https://i.abcnewsfe.com/a/4e04e36d-9133-4d5b-97dd-fa6645d8c099/TikTok-logo-gty-sn-260902_1788382752825_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/GMA/Living/tiktok-announces-new-ways-comment-including-voice-messages/story?id=136153358",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-09-03T13:17:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Maneater 2 announced for PS5, Xbox Series, Switch 2, and PC",
-                "desc": "Publisher Tripwire Interactive and developer Demiruge Studios have announced “ShaRkPG” sequel Maneater 2 for PlayStation 5, Xbox Series, Switch 2, and PC (Steam…",
-                "image": "https://www.gematsu.com/wp-content/uploads/2026/09/Maneater-2-Ann_09-03-26.jpg",
-                "url": "https://www.gematsu.com/2026/09/maneater-2-announced-for-ps5-xbox-series-switch-2-and-pc",
-                "source": "Gematsu",
-                "date": "2026-09-03T13:16:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Video: Digital Foundry Delivers Its Tech Review For Onimusha: Way Of The Sword",
-                "desc": "\"it holds up pretty darn well\" - Digital Foundry has provided its tech review for Onimusha: Way of the Sword, including some crucial commentary on the Switch...",
-                "image": "https://images.nintendolife.com/34aa4da9209ff/large.jpg",
-                "url": "https://www.nintendolife.com/news/2026/09/video-digital-foundry-delivers-its-tech-review-for-onimusha-way-of-the-sword",
-                "source": "Nintendo Life",
-                "date": "2026-09-03T13:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ghost Of Yotei's October Update Brings Back Jin From The Original Game",
-                "desc": "You'll be able to play as the fan-favorite warrior in the roguelike mode, Most Wanted",
-                "image": "https://kotaku.com/app/uploads/2026/09/wario64-1200x675.jpg",
-                "url": "https://kotaku.com/ghost-of-yoteis-october-update-brings-back-jin-from-the-original-game-2000730853",
-                "source": "Kotaku",
-                "date": "2026-09-03T13:13:09Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Germany Lists 3 Documents a Foreigner Needs Before Getting Hired for a Job",
+                "desc": "Germany's government details essential job application documents for foreign nationals, highlighting language requirements and cultural norms for African applicants.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/34ff3a1e9166567a.jpeg?v=1",
+                "url": "https://yen.com.gh/world/311350-germany-lists-3-documents-a-foreigner-hired-a-job/",
+                "source": "Yen News",
+                "date": "2026-09-04T16:07:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canadian cattle sector wants herd rebuilding strategy",
+                "desc": "The U.S. Department of Agriculture now has a national plan to rebuild the American cattle herd. Is something similar happening in Canada?",
+                "image": "https://static.producer.com/wp-content/uploads/2026/09/04095209/375772_web1_AJS-beef-cattle-on-pasture-N-of-Morden-MB-August-2026.jpeg",
+                "url": "https://www.producer.com/news/cattle-producers-want-herd-rebuilding-strategy/",
+                "source": "The Western Producer",
+                "date": "2026-09-04T16:03:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TechReviewAfrica - News Details",
+                "desc": "Your Trusted Tech News Platform",
+                "image": "https://techreviewafrica.com/assets/images/news/2026/09/04/6a9aeac760dce1788537543.jpg",
+                "url": "https://techreviewafrica.com/news/7087/kenya-promotes-green-hydrogen-initiative-to-boost-local-fertiliser-production-and-green-jobs",
+                "source": "techreviewafrica.com",
+                "date": "2026-09-04T16:01:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israeli Military says detained 5 militants allegedly planning terror attack in West Bank",
+                "desc": "Tel Aviv, Sept 4 (RIA Novosti/GNA) – The Israel Defense Forces (IDF) said on Friday that it had detained five militants in the West Bank who were allegedly…",
+                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
+                "url": "https://gna.org.gh/2026/09/israeli-military-says-detained-5-militants-allegedly-planning-terror-attack-in-west-bank/",
+                "source": "Ghana News Agency",
+                "date": "2026-09-04T16:01:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran destroys air defenses at US bases, allowing to strike Israel - Army Spokesman",
+                "desc": "Tehran, Sept 4 (RIA Novosti/GNA) – Iran has destroyed air defense systems at US bases in the Middle East, making it easier to launch attacks against Israel, Iranian…",
+                "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
+                "url": "https://gna.org.gh/2026/09/iran-destroys-air-defenses-at-us-bases-allowing-to-strike-israel-army-spokesman/",
+                "source": "Ghana News Agency",
+                "date": "2026-09-04T16:01:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China meeting likely to focus on each country’s domestic needs: expert",
+                "desc": "Domestic political considerations in the US and China are likely to drive the agenda of the next meeting between US President Donald Trump and Chinese President Xi Jinping (習近平), a Taiwanese academic said yesterday.National Chengchi University Institute of International Relations Director Wang Hsin-",
+                "image": "https://img.taipeitimes.com/images/2026/09/05/P02-260905-604.jpg",
+                "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/05/2003863728",
+                "source": "Taipei Times",
+                "date": "2026-09-04T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gibo off to Seoul for defense dialogue",
+                "desc": "Defense Secretary Gilbert Teodoro Jr. will fly to South Korea next week to participate in the 2026 Seoul Defense Dialogue – an activity that is expected to further boost defense relations.",
+                "image": "https://media.philstar.com/photos/2026/09/04/2_2026-09-04_19-55-16.jpg",
+                "url": "https://www.philstar.com/nation/2026/09/05/2554072/gibo-seoul-defense-dialogue",
+                "source": "Philstar.com",
+                "date": "2026-09-04T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NADF blames low investor confidence for Africa’s agriculture challenges",
+                "desc": "Mohammed Ibrahim, NADF's executive secretary, said attracting capital into agriculture requires stronger leadership, reliable data, and predictable markets.",
+                "image": "https://gazettengr.com/wp-content/uploads/OIP-2026-06-20T210317.063.webp",
+                "url": "https://gazettengr.com/nadf-blames-low-investor-confidence-for-africas-agriculture-challenges/",
+                "source": "Peoples Gazette Nigeria",
+                "date": "2026-09-04T15:59:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Romanian prosecutors indict Andrew Tate on trafficking minors and money laundering",
+                "desc": "BUCHAREST, Romania — Romanian prosecutors on Friday indicted social media influencer Andrew Tate on charges of trafficking minors, sex with a minor, and money laundering.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240312-andrew-tate-mb-0757-038759.jpg",
+                "url": "https://www.nbcnews.com/news/us-news/romanian-prosecutors-indict-andrew-tate-trafficking-minors-money-laund-rcna596122",
+                "source": "NBC News",
+                "date": "2026-09-04T15:55:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russian drone hits Ukranian security headquarters, Zelensky says",
+                "desc": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21d4/live/99481b50-a86c-11f1-bbad-43eaf67b94b6.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o",
+                "source": "BBC",
+                "date": "2026-09-04T15:55:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "South Africa, Nigeria and Kenya Account for 55.4% of Occupational Fraud (ACFE)",
                 "desc": "South Africa, Nigeria and Kenya together account for 220 of the 397 occupational fraud cases the ACFE analyzed in sub-Saharan Africa, or 55.4% of the",
@@ -1806,98 +1896,8 @@
                 "source": "UNITED24 Media",
                 "date": "2026-09-03T18:14:25Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Europe relies on Morocco to keep migrants out - Ceuta shows the political cost",
-                "desc": "International attention needs to be paid to Europe’s outsourcing of border controls, and to the relationship between Spain and Morocco.",
-                "image": "https://images.theconversation.com/files/756803/original/file-20260828-50-qfmfa3.jpeg?ixlib=rb-4.1.1&rect=0%2C38%2C1536%2C768&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/europe-relies-on-morocco-to-keep-migrants-out-ceuta-shows-the-political-cost-290780",
-                "source": "The Conversation",
-                "date": "2026-09-03T13:23:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Are South African teaching posts up for sale? School staff say an old problem hasn’t gone away",
-                "desc": "South Africa has clear rules for hiring teachers – but many educators believe other influences are stronger.",
-                "image": "https://images.theconversation.com/files/755983/original/file-20260825-50-2pwe1m.jpg?ixlib=rb-4.1.1&rect=0%2C200%2C1280%2C640&q=45&auto=format&w=1356&h=668&fit=crop",
-                "url": "https://theconversation.com/are-south-african-teaching-posts-up-for-sale-school-staff-say-an-old-problem-hasnt-gone-away-290372",
-                "source": "The Conversation",
-                "date": "2026-09-03T13:22:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fundraiser for infant daughter of Erin Piacenti, stabbed to death in Times Square, triggers row as organizer is an Indian",
-                "desc": "US News: The fundraiser for Erin Piacenti triggered a massive row on social media, as one Shray Gupta organized it on behalf of the family for Erin's five-mont.",
-                "image": "https://static.toiimg.com/thumb/msid-133737761,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/fundraiser-for-infant-daughter-of-erin-piacenti-stabbed-to-death-in-times-square-triggers-row-as-organizer-is-an-indian/articleshow/133737666.cms",
-                "source": "The Times of India",
-                "date": "2026-09-03T13:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI agents can now remember and hackers can 'poison' their memories-a new cybersecurity threat",
-                "desc": "Artificial intelligence systems are starting to do more than answer questions. New AI \"agents\" can remember information from previous interactions, plan a series of steps and use digital tools to complete tasks.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-agents-can-now-reme.jpg",
-                "url": "https://techxplore.com/news/2026-09-ai-agents-hackers-poison-memories.html",
-                "source": "Tech Xplore",
-                "date": "2026-09-03T13:20:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Botswana secures release of woman on Bangladesh death row",
-                "desc": "The 33-year-old was arrested in Dhaka in 2022",
-                "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/Lesedi%20Molapisi.png",
-                "url": "https://www.thedailystar.net/news/world/news/botswana-secures-release-woman-bangladesh-death-row-4263126",
-                "source": "The Daily Star",
-                "date": "2026-09-03T13:18:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From seizure to sentence: Weak prosecution leaves tigers vulnerable to trafficking in Southeast Asia: Report",
-                "desc": "Environmental science and conservation news",
-                "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28035444/1.-Sumatran-tiger-2.jpg",
-                "url": "https://news.mongabay.com/2026/09/from-seizure-to-sentence-weak-prosecution-leaves-tigers-vulnerable-to-trafficking-in-southeast-asia-report/",
-                "source": "news - Mongabay",
-                "date": "2026-09-03T13:17:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada Lists 6 Reasons It Can Reject Your Work Permit Application in 2026",
-                "desc": "Discover the six conditions that could lead to a work permit refusal in Canada, from medical issues to employer eligibility. Essential insights for applicants.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/ce9f8aa3f33e088a.jpeg?v=1",
-                "url": "https://yen.com.gh/world/311249-canada-lists-6-reasons-reject-work-permit-application-2026/",
-                "source": "Yen News",
-                "date": "2026-09-03T13:17:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mayor of London's emails to be searched in Palantir legal battle",
-                "desc": "Sir Sadiq Khan's texts and emails will be searched as part of a legal battle over Met procurement.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/87b8/live/b2aca760-54fb-11f1-b682-cf91850925ea.jpg",
-                "url": "https://www.bbc.com/news/articles/crerqz15zepo",
-                "source": "BBC",
-                "date": "2026-09-03T13:17:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya’s Food4Education pitches school feeding as Africa’s infrastructure",
-                "desc": "F4E is expected to present its model as an example of how governments can work with private and development partners to scale school feeding programmes while creating jobs and opening...",
-                "image": "https://capitalfm.africa/wp-content/uploads/2026/09/Giga-Kitchen-Cooks-at-Work.jpg-1.jpeg",
-                "url": "https://capitalfm.africa/kenyas-food4education-pitches-school-feeding-as-africas-infrastructure/",
-                "source": "Capital FM Africa",
-                "date": "2026-09-03T13:16:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Experts predict El Nino’s dramatic impact on UK weather this winter",
-                "desc": "Forecasters warn the El Nino will peak towards the end of this year and last until spring 2027",
-                "image": "https://static.independent.co.uk/2026/09/03/9/19/Screenshot-2026-09-03-at-10-13-50.png?trim=0,63,0,63&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/uk/home-news/el-nino-weather-uk-2026-effect-b3044156.html",
-                "source": "The Independent",
-                "date": "2026-09-03T13:16:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-04T23:53:57.102688Z"
+    "lastGlobalSync": "2026-09-05T04:07:47.999437Z"
 }
