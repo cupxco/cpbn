@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Interactive Brokers Stock: Buy On Weakness, Not At The Highs (NASDAQ:IBKR)",
+                "desc": "Interactive Brokers is a global automated electronic broker serving individual investors, financial advisors, and hedge funds. Learn why IBKR stock is a buy.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1401291133/image_1401291133.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4943352-interactive-brokers-buy-on-weakness-not-at-the-highs",
+                "source": "Seeking Alpha",
+                "date": "2026-09-05T13:17:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "My Top Nuclear Stock to Buy Right Now (and It's Not Even Close)",
+                "desc": "Nuclear stocks are benefiting from increased AI spending.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882359%2Fgettyimages-2207946631-1201x716-caa0466.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/09/05/my-top-nuclear-stock-to-buy-right-now-and-its-not/",
+                "source": "The Motley Fool",
+                "date": "2026-09-05T13:16:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gamma irradiation effects on optical, luminescent, and electrical properties of CeO2, Ho2O3, and Sm2O3 doped borophosphate glasses",
+                "desc": "A series of undoped and rare-earth oxide-doped borophosphate glasses (CeO2, Ho2O3, Sm2O3) was successfully synthesized via melt-quenching and annealing techniques, with x-ray diffraction confirming their amorphous nature through characteristic broad halos devoid of sharp crystalline peaks. Ultraviolet–visible (UV–Vis) absorption spectra of the undoped base glass revealed prominent UV bands at 265 nm and 330 nm before gamma irradiation, which persisted post-75 kGy exposure with only modest intensity reductions, indicating subtle radiation-induced modifications in defect states without profile disruption. CeO2—doped glasses exhibited three strong UV peaks at 220, 260, and 327 nm. At the same time, Ho3+-doped variants displayed a UV band at 295 nm alongside visible-NIR transitions at 418, 451, 482, 539, 644, 894, 1146, and 1944 nm from 5I8 ground state excitations; Sm2O3-doped glasses showed distinct f-f transitions at 354, 403, 470, 920, 1064, 1221, 1365, 1474, and 1520 nm. Photoluminescence analysis highlighted intrinsic features such as a 330 nm excitation and 408 nm emission in CeO2—doped glasses, three excitation peaks (350, 364, 387 nm) and emissions at 487 and 573 nm in Ho2O3-doped glasses, and seven excitation peaks (345–475 nm at λex = 598 nm) in Sm2O3-doped glasses, all exhibiting characteristic intensity decreases post-irradiation. CIE 1931 chromaticity coordinates positioned CeO2—doped emissions in bluish-purple, Ho2O3-doped in green (0.275, 0.405 pre-irradiation), and Sm2O3 -doped in reddish-orange regions. Electrically, AC conductivity showed a slight decrease followed by an increase with rising temperature across compositions, DC conductivity displayed non-monotonic behavior with a minimum at 384 K, and real dielectric permittivity (ε′) was elevated at low frequencies due to space charge polarization. Overall, gamma irradiation induced only minor effects on optical and electrical properties, attributable to dopant-driven structural modifications like non-bridging oxygen formation and enhanced charge carrier pathways via modifier ions, underscoring the radiation resilience and potential of these glasses for luminescent, photonic, and radiation-resistant applications.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-63236-1/MediaObjects/41598_2026_63236_Fig1_HTML.jpg",
+                "url": "https://www.nature.com/articles/s41598-026-63236-1?error=cookies_not_supported&code=6adf3ed9-612e-4c7c-b8e6-6c44cfe35d78",
+                "source": "Nature",
+                "date": "2026-09-05T13:16:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Recycled aggregate concrete based on an improved SVM method a study on the prediction of compressive strength",
+                "desc": "The mix design of recycled aggregate concrete (RAC) has long relied on extensive trial-and-error testing, which is costly and time-consuming; moreover, existing empirical models struggle to accurately capture the complex nonlinear relationship between material components and compressive strength. To address these challenges, this study aims to develop a method for predicting RAC compressive strength that combines high accuracy with interpretability, thereby providing data-driven support for the engineering application of recycled materials. To this end, this study proposes a hybrid kernel support vector regression (SVR) model, whose core innovation lies in the weighted combination of linear and radial basis function (RBF) kernels. This enables the model to simultaneously capture both the global linear trends (dominated by the linear kernel) and the local nonlinear fluctuations (dominated by the RBF kernel) between RAC mix design parameters and compressive strength, thereby overcoming the limitations of a single kernel function in characterizing complex material systems. Based on 178 sets of experimental data, the study constructed a comprehensive database. Nine input variables were systematically selected across three levels—cementitious system, aggregate content, and aggregate characteristics—and the model hyperparameters (C, σ, λ) were systematically optimized using grid search combined with five-fold cross-validation. The results show that the optimal hybrid kernel SVR model achieved a coefficient of determination (R2p) of 0.99506 and a root mean square error (RMSEP) of 0.52589 MPa on the test set, with prediction accuracy significantly superior to that of the linear kernel SVR model (R2p = 0.88116, RMSEP = 2.9519 MPa). Ten rounds of five-fold cross-validation showed that the mean R2 of the hybrid kernel SVR was 0.993, and its 95% confidence interval [0.989, 0.997] did not overlap with that of the linear kernel model [0.786, 0.852] (p < 0.01), confirming the statistical significance and robustness of the model’s accuracy. This study marks the first systematic introduction of the hybrid kernel strategy into the field of RAC strength prediction, filling a research gap regarding this method in highly variable recycled concrete material systems; through a permutation importance analysis, cement content, water content, and recycled coarse aggregate content were identified as the dominant factors influencing strength, thereby enhancing the model’s physical interpretability; The established model achieves high-accuracy predictions under limited sample conditions, providing a viable tool for reducing the number of mix design trials and lowering material R&D costs. This method can be further extended to the prediction of properties in other construction solid waste materials, holding positive significance for promoting the resource utilization of solid waste and low-carbon construction.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-68942-4?error=cookies_not_supported&code=bd98eea1-f392-445e-99c1-e81598262ed3",
+                "source": "Nature",
+                "date": "2026-09-05T13:16:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Buy 2 Enhanced Yield Hedges And Sleep Like A Baby",
+                "desc": "The current bull rally in equities, driven by massive AI CapEx, feels increasingly like a late-cycle correction. Read why equity risk remains pervasive.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2198655244/image_2198655244.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4943327-buy-2-enhanced-yield-hedges-and-sleep-like-a-baby",
+                "source": "Seeking Alpha",
+                "date": "2026-09-05T13:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fitch upgrades Portugal's rating to A+ and says outlook is \"stable\"",
+                "desc": "On Friday, the financial agency raised Portugal's debt rating from \"A\" to \"A+\", with a \"stable\" outlook, the agency said in a published note.",
+                "image": "https://images.euronews.com/articles/stories/09/90/26/06/1200x675_cmsv2_98e0b04b-e23e-5fe9-b0bd-2c3f7a869ebd-9902606.jpg",
+                "url": "https://www.euronews.com/business/2026/09/05/fitch-upgrades-portugals-rating-to-a-and-says-outlook-is-stable",
+                "source": "Euronews.com",
+                "date": "2026-09-05T13:07:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rare Swedish Vallhund Puppy Gives the Cutest Little Wave With Her Tongue Sticking Out",
+                "desc": "Swindle would like to say hello!",
+                "image": "https://s.yimg.com/lo/mysterio/api/0ff17206b705b289db436ac33a4808a46081ba977d37ca5bc86d854b29f558d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_pets_articles_328%2F026286f85c54b445a804aaa0d0e274e2.jpg",
+                "url": "https://www.yahoo.com/lifestyle/articles/rare-swedish-vallhund-puppy-gives-130500227.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAAEBzn0xhNfwXsRg-JU-7GxeiMHtTmzS4MSRXT6cdJAOZER07piR2u3NNnu-xb0N68v_T-q46krVcyVILmW10RofXQgUJvkqkVFw6lOGyFoX6LUg04AuOrqkHVKKXPgmvaeF39yASCp4b_BJEbWSt6SVfrqZWOFn3aAudHxzZhTJj&_guc_consent_skip=1788653841",
+                "source": "Yahoo",
+                "date": "2026-09-05T13:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lloyds Bank reverses decision with new rule now in place for customers",
+                "desc": "The change comes after a major campaign",
+                "image": "https://i2-prod.mirror.co.uk/article37630710.ece/ALTERNATES/s1200d/1_GettyImages-2285277172.jpg",
+                "url": "https://www.mirror.co.uk/money/lloyds-bank-reverses-decision-new-37630707",
+                "source": "mirror.co.uk",
+                "date": "2026-09-05T13:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New 2027 Mitsubishi Pajero’s Australian Pricing Hints at What a U.S. Model Might Cost",
+                "desc": "How much would a new Pajero cost if it were to come to the United States? Down Under has the clues.",
+                "image": "https://s.yimg.com/lo/mysterio/api/7580df3a17f304e5a044950359d1e219c72a6727df5d4c8ee79200ffd49ec7c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcar_and_driver_581%2F510ab50dc88d574433fce483d5b56198.jpg",
+                "url": "https://autos.yahoo.com/new-vehicles-and-reviews/articles/2027-mitsubishi-pajero-australian-pricing-130000245.html",
+                "source": "Yahoo Autos",
+                "date": "2026-09-05T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Critic calls on B.C. to salvage more wildfire-burned timber, province says that's 'unrealistic.' Here's why",
+                "desc": "Kamloops-North Thompson MLA Ward Stamer is calling for the province’s salvage rate to rise to 25 per cent and for more efficient access to wildfire-damaged timber.",
+                "image": "https://i.cbc.ca/ais/619d67b7-e2cf-437a-8913-fa2634d20810,1788384984527/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C365%2C7008%2C3942%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/british-columbia/wild-fire-salvage-what-to-know-9.7330107",
+                "source": "CBC",
+                "date": "2026-09-05T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Dyson Went Bonkers During IFA 2026: Here Are all 10 of Its New Products",
                 "desc": "Dyson popped off at a launch event in Berlin, introducing a whopping 10 new products.",
                 "image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-05-at-12.58.39-PM.png",
@@ -542,99 +632,99 @@
                 "source": "Macau Business",
                 "date": "2026-09-04T23:47:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Asana’s AI pricing shift brings near-term revenue pressure",
-                "desc": "The company expects consumption-based pricing to contribute to a $1.2 million revenue headwind as it works to accelerate AI adoption.",
-                "image": "https://imgproxy.divecdn.com/oyfpqB0esiBUx5qwNFuhXJrEhK4Z-vhcXHrXiCF5rqc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY0NTA0OTc0LmpwZw==.webp",
-                "url": "https://www.cfodive.com/news/asanas-ai-pricing-shift-brings-near-term-revenue-pressure/829730/",
-                "source": "CFO Dive",
-                "date": "2026-09-04T20:34:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Are mortgage rates heading back above 7%? Here's what experts think.",
-                "desc": "Mortgage rates have climbed sharply this year amid mounting concerns about inflation and U.S. debt.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/16/279e0fdb-1b16-4f31-a288-e280b539f926/thumbnail/1200x630/fcaf2b61cf909292707f662423e98720/cbsn-fusion-prospective-homeowners-delaying-purchases-amid-high-prices-high-mortgage-rates-thumbnail.jpg",
-                "url": "https://www.cbsnews.com/news/mortgage-rates-expected-cross-7-percent/",
-                "source": "CBS News",
-                "date": "2026-09-04T20:34:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Micron: AI Fatigue Into A Big Day",
-                "desc": "Micron Technology, Inc. rides the AI memory boom with HBM3E sold out to 2027. Click to see key Q4 expectations, growth drivers, and risks.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1150565928/image_1150565928.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4943230-micron-ai-fatigue-into-a-big-day",
-                "source": "seekingalpha.com",
-                "date": "2026-09-04T20:32:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
-                "desc": "The prediction market platform's new Perps product scaled from 10 markets to 67 on its first day—though the 20x leverage ceiling only applies to some of them, and none of it reaches U.S. traders.",
-                "image": "https://s.yimg.com/lo/mysterio/api/02536834519d73641c04582ae7e8cb5b7efa047537589d52e2f46be00f0f54bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fc1281c5948f3ff40c88380fdd0499b9d.jpg",
-                "url": "https://finance.yahoo.com/markets/crypto/articles/polymarket-launches-crypto-perpetual-futures-203103778.html",
-                "source": "Yahoo Finance",
-                "date": "2026-09-04T20:31:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Hot' August CPI To Trigger More Aggressive Fed Tightening",
-                "desc": "August CPI report is expected to show a rise in headline CPI to 3.6% due to energy costs but not expected to affect the core CPI. Read full analysis here.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288203975/image_2288203975.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4943226-hot-august-cpi-to-trigger-more-aggressive-fed-tightening",
-                "source": "Seeking Alpha",
-                "date": "2026-09-04T20:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bitcoin is trading more like an ‘amplified version of gold’ again, but the four-year cycle theory threatens further declines",
-                "desc": "Some analysts warn the four-year cycle set to complete later this year could bring another slide.",
-                "image": "https://s.yimg.com/lo/mysterio/api/ff5b76d24bb714b414eb04c54d9e2786d3fc5ade9432daab4f751ea76e6a0814/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F3f8745773c0426c65603a24b03f4b23d.jpg",
-                "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-trading-more-amplified-version-202925804.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAADhsCXgnYgonPHeY9vA81NOawBZr300tHSq1Z2DOig_8GBt-ynOUEHHjfx1j8glYhUz5DhxNmosBzyB3XbpFZ6POGJ_hcTcjyIzrIBvauVWMxfNSRc2W0mIf0l-wgfWkrETepZtb3wGFPRdJ_89NJztbArBv-lqQr8ggSguVc2c9",
-                "source": "Yahoo Finance",
-                "date": "2026-09-04T20:29:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mexican Billionaire Says Bitcoin Will Hit $1.86 Million. What’s His Logic?",
-                "desc": "Billionaire Ricardo Salinas Pliego says Bitcoin would need to reach $1.86 million to match gold's total market value.",
-                "image": "https://s.yimg.com/lo/mysterio/api/bb2c38a1ee7d6eccb7068f647f9bd4199935a2dd66208e986fad6bedd79058dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F632ff681510541ec894052cfb24316d5.png",
-                "url": "https://finance.yahoo.com/markets/crypto/articles/mexican-billionaire-says-bitcoin-hit-202750037.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAAAym5nOLN_HT6Lo2Igv03Gig-7PBEzVhO5qyDvhunh8wFahbqUNTtAtO6MLYqowkUaolYvdIrMOrrNaSWLpeG8-nfDZ0MUA7mtRfOrEUbr9_dkDar04_vjc05LmMW4ryB7EbgbshalLXlMno8u0N6XPb-IPtqIYU5z2pjUjuMsnX&guccounter=2",
-                "source": "Yahoo Finance",
-                "date": "2026-09-04T20:27:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MarketWatch: Micron may increase AI memory production",
-                "desc": "MarketWatch reports that Micron may expand capacity to produce a more profitable type of AI-related memory amid limited market supply.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/micron_ai_memory_capacity_marketwatch_1788553262486.webp",
-                "url": "https://ua.news/en/technologies/marketwatch-povidomiv-pro-mozhlive-naroshchuvannia-micron-vipusku-pamiati-dlia-shi",
-                "source": "ua.news",
-                "date": "2026-09-04T20:25:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Anthropic May Let Early Investors Sell Shares, Unlike SpaceX and Cerebras",
-                "desc": "Anthropic's unusual IPO plans could make one overlooked detail more important than the reported size of the offering.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885975%2Fanalyst_studying_charts_on_two_desktop_screens.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/09/04/why-anthropic-may-let-early-investors-sell-shares/",
-                "source": "The Motley Fool",
-                "date": "2026-09-04T20:25:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wall Street Has Cooled on Moderna After Its Stock Jumped Over 5X. But Does the mRNA Leader Have More Room to Run?",
-                "desc": "The vaccine maker is making an increasingly robust case that it isn't just a pandemic stock.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886004%2Felderly-patient-getting-vaccinated.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/09/04/wall-street-has-cooled-on-moderna-after-its-stock/",
-                "source": "The Motley Fool",
-                "date": "2026-09-04T20:25:29Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Acer unveils compact RTX Spark PC with 128GB unified memory",
+                "desc": "Acer is developing a compact PC around NVIDIA's RTX Spark superchip. The IFA 2026 design supports up to 128GB of unified memory for local AI workloads.",
+                "image": "https://cdn.videocardz.com/1/2026/09/ACER-RTX-SPARK-PC.webp",
+                "url": "https://videocardz.com/newz/acer-unveils-compact-rtx-spark-pc-with-128gb-unified-memory",
+                "source": "VideoCardz.com",
+                "date": "2026-09-05T13:15:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I tried KDE's Office suite and found out why even KDE users skip it",
+                "desc": "KDE makes some fantastic software for Linux users, and it even has a Microsoft Office rival... but it's easy to see why it never gets talked about.",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/calligra-on-laptop.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/tried-kde-office-suite-found-out-why-even-kde-users-skip-it/",
+                "source": "XDA",
+                "date": "2026-09-05T13:15:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Check Your Phone Now: These 10 Data-Hungry Apps Are Secretly Tracking You",
+                "desc": "Think your phone is private? A look at over 5,000 app disclosures reveals the surprisingly sneaky ways big tech collects and profits off your data.",
+                "image": "https://i.pcmag.com/imagery/articles/010zawf4sGHKU5XLKfUggyA-1.fit_lim.size_1200x630.v1788613164.jpg",
+                "url": "https://www.pcmag.com/explainers/check-your-phone-now-these-10-data-hungry-apps-are-secretly-tracking-you",
+                "source": "PCMag",
+                "date": "2026-09-05T13:01:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Motorola Watch Ultra makes its global debut, designed for sports and fitness enthusiasts",
+                "desc": "Motorola just unveiled the Watch Ultra, a sports and fitness smartwatch, globally at IFA 2026. It features advanced Polar-powered tracking, cellular connectivity, a durable design, and much more.",
+                "image": "https://staticg.sportskeeda.com/editor/2026/09/b1660-17885483511584-1920.jpg",
+                "url": "https://tech.sportskeeda.com/wearables/news-motorola-watch-ultra-makes-global-debut-designed-sports-fitness-enthusiasts",
+                "source": "Sportskeeda Tech",
+                "date": "2026-09-05T13:01:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "XDA's top tech from IFA 2026: Colorful laptops, fanless cooling, and more",
+                "desc": "IFA 2026 is here with tons of new tech products and concepts, and we've picked out our favorites for you to peruse.",
+                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/featured-2.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.xda-developers.com/xda-best-in-show-ifa-2026/",
+                "source": "XDA",
+                "date": "2026-09-05T13:00:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The weird and wonderful headphones of CanJam 2026",
+                "desc": "Mainstream headphones are good but boring now. I went to an audiophile show to be reminded why I love headphones.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/canjam-socal-2026-show-floor.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
+                "source": "The Verge",
+                "date": "2026-09-05T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Digital Trends Best of Gamescom 2026 Awards: The 12 showcases that wowed us",
+                "desc": "Gamescom 2026 kept us running between games, hardware, and ambitious new technology. After five exhausting days in Cologne, these 12 experiences stood above the noise.",
+                "image": "https://www.digitaltrends.com/tachyon/2026/09/Spine-trailer.jpg?resize=1200%2C630",
+                "url": "https://www.digitaltrends.com/gaming/the-best-of-gamescom-2026/",
+                "source": "Digital Trends",
+                "date": "2026-09-05T12:56:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers: Reason, starting date and other details",
+                "desc": "Tech News News: Microsoft’s Xbox gaming division has ended years of unrestricted access by announcing that it will implement monthly playtime caps for its cloud gamin.",
+                "image": "https://static.toiimg.com/thumb/msid-133800769,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-to-impose-time-limits-on-xbox-cloud-gaming-subscribers-reason-starting-date-and-other-details/articleshow/133800728.cms",
+                "source": "timesofindia.indiatimes.com",
+                "date": "2026-09-05T12:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gamescom apologises for how it initially responded to indie developer hardware thefts",
+                "desc": "Gamescom has apologised for its initial response to hardware thefts affecting indie developers, admitting it didn't show the empathy people deserved.",
+                "image": "https://assetsio.gnwcdn.com/gamescom_ZbUsDnK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/gamescom-apologises-indie-developer-hardware-theft-response",
+                "source": "Eurogamer.net",
+                "date": "2026-09-05T12:44:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New chipset brings on‑device AI to Galaxy S26 alternative",
+                "desc": "The OPPO Reno16 Pro 5G sets new standards for vlogging and gaming. It stands out with a 200 MP main camera, a 50 MP 100° ultra-wide-angle selfie camera, and the innovative 3D Pop Planet design. The MediaTek Dimensity 8550 Super Platform, paired with 12 GB of RAM and a 144 Hz OLED display, ensures maximum performance. A massive 6700 mAh battery with 80 W SUPERVOOC charging and IP69K protection round out this flagship device.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Oppo/Reno16_Pro/Test_Oppo_Reno_16_Pro_1.jpg",
+                "url": "https://www.notebookcheck.net/New-chipset-brings-on-device-AI-to-Galaxy-S26-alternative.1382370.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-09-05T12:42:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Dyson Went Bonkers During IFA 2026: Here Are all 10 of Its New Products",
                 "desc": "Dyson popped off at a launch event in Berlin, introducing a whopping 10 new products.",
@@ -1174,99 +1264,99 @@
                 "source": "sammobile.com",
                 "date": "2026-09-04T23:12:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "A $999 Android phone with a detachable GoPro inside just won an IFA innovation award",
-                "desc": "Beige body and orange accents hide rugged specs and a detachable camera that records independently for 40 minutes.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/rugone-xsnap-7-pro-back.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/rugone-xsnap-7-pro-detachable-camera-ifa-innovation-award/",
-                "source": "MakeUseOf",
-                "date": "2026-09-04T20:37:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "HP Announces New OmniBook PCs to Help Build the Next Generation of AI Experiences",
-                "desc": "Today, HP Inc. announced its new HP OmniBook Ultra 16 and HP OmniBook X 14 along with new details around the upcoming HP OmniDesk, all powered by NVIDIA RTX Spark and Windows. Together, the devices expand HP's portfolio of next-generation AI PCs designed for creators, developers, entrepreneurs,...",
-                "image": "https://www.techpowerup.com/img/UEzoQDSwHVXwm6zs.jpg",
-                "url": "https://www.techpowerup.com/352364/hp-announces-new-omnibook-pcs-to-help-build-the-next-generation-of-ai-experiences",
-                "source": "TechPowerUp",
-                "date": "2026-09-04T20:32:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Racing 92 vs. Bordeaux Match Top 14 Rugby Lineups & Kickoff Time",
-                "desc": "Bordeaux-Bègles hosts Racing 92 in Top 14 Round 1. See both starting XVs, complete lineups, 3:15 p.m. ET kickoff time and how to watch live.",
-                "image": "https://d2779tscntxxsw.cloudfront.net/696cf2849c612.png",
-                "url": "https://www.florugby.com/articles/16159473-racing-92-vs-bordeaux-match-top-14-rugby-lineups-kickoff-time",
-                "source": "FloRugby",
-                "date": "2026-09-04T20:25:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia Wants to Turn Your Idle PCs Into a Personal Home Data Center With 'PAIR'",
-                "desc": "Nvidia's PAIR links your unused laptops, desktops, and Macs together to run agentic AI locally without subscription fees or cloud privacy risks.",
-                "image": "https://i.pcmag.com/imagery/articles/00TBs5p0FyAlrCvXKZ7yL1U-1.fit_lim.size_1200x630.v1788544838.jpg",
-                "url": "https://www.pcmag.com/news/nvidia-pair-turn-idle-pcs-into-ersonal-home-data-center-ifa-2026",
-                "source": "PCMag",
-                "date": "2026-09-04T20:25:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia Wants to Turn Your Idle PCs Into a Personal Home Data Center With 'PAIR'",
-                "desc": "Nvidia's PAIR links your unused laptops, desktops, and Macs together to run agentic AI locally without subscription fees or cloud privacy risks.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-wan/nvidia-wants-to-turn-your-idle-pcs-into-a-personal-home-data_zxg9.1200.jpg",
-                "url": "https://au.pcmag.com/ai/119713/nvidia-wants-to-turn-your-idle-pcs-into-a-personal-home-data-center-with-pair",
-                "source": "PCMag Australia",
-                "date": "2026-09-04T20:24:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 1001 Threads Of Mizan Director Avoids Answering A Simple Question At Gamescom",
-                "desc": "'This is a really decentralized company. We completely decentralized'",
-                "image": "https://kotaku.com/app/uploads/2026/09/1001_Wallpapers_Group_4K-e1788548752670-1200x675.jpg",
-                "url": "https://kotaku.com/the-1001-threads-of-mizan-director-avoids-answering-a-simple-question-at-gamescom-2000731406",
-                "source": "Kotaku",
-                "date": "2026-09-04T20:20:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "macOS 26.7 Code Hints at Two Unreleased Apple Game Controllers",
-                "desc": "References to two unreleased controllers that identify as Apple hardware in code were spotted in the macOS 26.7 release candidate by MacRumors reader Pdfu. Apple's first macOS 26.7 release candidate came out in mid-August, and it was full of references to unreleased Apple devices, from iPhones and Macs to new home accessories. Pdfu has continued to dig into the RC, finding new details that were previously overlooked.",
-                "image": "https://images.macrumors.com/t/BHT0qZOYiggzs6lx5IltImRTQgA=/1600x/article-new/2024/10/apple-game-controller-graphic.jpg.png",
-                "url": "https://www.macrumors.com/2026/09/04/macos-26-7-code-game-controllers/",
-                "source": "MacRumors",
-                "date": "2026-09-04T20:15:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Packard Bell Revived Under Acer Group Ownership With New \"Tech It Easy\" Identity",
-                "desc": "Acer Group has relaunched Packard Bell at IFA 2026, marking the brand's 100th anniversary with a new visual identity, a \"Tech it easy\" tagline, and a first wave of lifestyle products led by the DotBook laptop.",
-                "image": "https://cdn.pokde.net/wp-content/uploads/2026/09/05040429/packardbellcover.jpg",
-                "url": "https://pokde.net/gadget/laptop/packard-bell-revived-under-acer-group",
-                "source": "Pokde.Net",
-                "date": "2026-09-04T20:07:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grab the Newest Versions of Word, Excel, and PowerPoint With This $50 Deal",
-                "desc": "Instead of paying $100 per year for Microsoft 365 (every year, forever), you can get the same apps for a one-time fee with this lifetime license. And right now, it's 80% off!",
-                "image": "https://i.pcmag.com/imagery/articles/01oMmSQZ7WVkBlYriF8fLvJ-1.fit_lim.size_1200x630.v1788466540.png",
-                "url": "https://www.pcmag.com/deals/grab-the-newest-versions-of-word-excel-and-powerpoint-with-this-50-deal",
-                "source": "PCMag",
-                "date": "2026-09-04T20:03:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Blizzard's StarCraft Site Breaks Itself Days Before BlizzCon, and Fans Already Decoded a Hidden 2575 Horror ARG",
-                "desc": "Amid various StarCraft rumors, the official website starts glitching suspiciously just one week ahead of BlizzCon 2026, and fans discover ARG.",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/starcraft-II-art-HD-1920x1081.jpeg",
-                "url": "https://wccftech.com/starcraft-site-glitch-blizzcon-hidden-2575-horror-arg-decoded/",
-                "source": "Wccftech",
-                "date": "2026-09-04T20:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Kagame Expected in Oman for State Visit",
+                "desc": "KIGALI — President Paul Kagame is expected in Oman on Monday for a two-day official visit as Rwanda and the Gulf state seek to turn a growing diplomatic relationship into…",
+                "image": "https://www.ktpress.rw/wp-content/uploads/2026/09/FB_IMG_1788614097027.jpg",
+                "url": "https://www.ktpress.rw/2026/09/kagame-expected-in-oman-for-state-visit/",
+                "source": "ktpress.rw",
+                "date": "2026-09-05T13:17:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+                "desc": "Amid rising public discontent, Iranian authorities say adversaries are focused on encouraging domestic unrest.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9c13e2-1788613602.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure",
+                "source": "Al Jazeera",
+                "date": "2026-09-05T13:10:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Global uncertainty is reshaping the world. Is Bangladesh ready?",
+                "desc": "Geopolitical conflict, trade fragmentation, inflation and climate shocks are exposing vulnerabilities across the global economy. For Bangladesh, building resilience will require stronger macroeconomic management, diversified exports, productive investment and better protection for vulnerable citizens",
+                "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/05/inflation.png",
+                "url": "https://www.tbsnews.net/thoughts/global-uncertainty-reshaping-world-bangladesh-ready-1534116",
+                "source": "The Business Standard",
+                "date": "2026-09-05T13:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Turkey Confirms Support to Somalia in Freeing Hijacked Ship",
+                "desc": "Turkish Defence Ministry says it provided support to Somali authorities during efforts to secure the release of MV LUTUF",
+                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgNusdQs5YJTR570e6PswnXBDkIaCV21z3bfHy",
+                "url": "https://www.dawan.africa/news/turkey-confirms-support-to-somalia-in-freeing-hijacked-ship",
+                "source": "Dawan Africa",
+                "date": "2026-09-05T13:07:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ranked: Countries With the Most Lakes",
+                "desc": "Canada has nearly 880,000 lakes, more than the rest of the world combined. See which countries dominate the global ranking.",
+                "image": "https://www.visualcapitalist.com/wp-content/uploads/2026/09/MostLakes-share-2.webp",
+                "url": "https://www.visualcapitalist.com/ranked-the-countries-with-the-most-lakes/",
+                "source": "Visual Capitalist",
+                "date": "2026-09-05T13:07:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Phoenix Reisen extends rebooking deadline for river cruises amid low water levels",
+                "desc": "Phoenix Reisen extended its rebooking offer for river cruises affected by low water levels in Central Europe through September 9, 2026. Passengers sailing on the Rhine, Moselle and Danube rivers can rebook free of charge if their itineraries are impacted by persistent low water levels, though the offer excludes itineraries on the Rhein Prinzessin to the Netherlands and Belgium. The company attributed the situation to ongoing drought in the region.",
+                "image": "https://dataportuaria.com/en/internacional/cruises/phoenix-reisen-extends-rebooking-deadline-for-river-cruises/opengraph-image?8af5559266cb8e60",
+                "url": "https://dataportuaria.com/en/internacional/cruises/phoenix-reisen-extends-rebooking-deadline-for-river-cruises",
+                "source": "dataportuaria.com",
+                "date": "2026-09-05T13:05:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kurdish forces lose ground as US backs centralized governments in Syria and Iraq",
+                "desc": "BEHIND THE LINES: If and when the current strategy fails, the Kurds may need to be reached again. Hopefully, by the time this occurs, they will be able to take advantage of the moment in full.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736407",
+                "url": "https://www.jpost.com/middle-east/article-907527",
+                "source": "The Jerusalem Post",
+                "date": "2026-09-05T13:04:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Military strikes Hezbollah in Lebanon after drone launched towards IDF soldiers",
+                "desc": "The strikes follow an announcement by Defense Minister Israel Katz earlier on Friday that the IDF had cleared Lebanon's Ali al-Taher ridge tunnels of Hezbollah terrorists.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/722672",
+                "url": "https://www.jpost.com/israel-news/defense-news/article-907612",
+                "source": "The Jerusalem Post",
+                "date": "2026-09-05T13:03:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US ambassador to Israel says there is no plan to force Palestinians out of Gaza",
+                "desc": "US Ambassador to Israel Mike Huckabee's remarks come after Israeli ministers laid out ideas this week on how to expel the territory's two million people.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/c3c581d47de83fe82bdcd8a5fc47269f?impolicy=wcms_watermark_news&cropH=1935&cropW=3440&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-09-05/israel-not-planning-gaza-forced-displacement-us-ambassador-says/107120558",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-09-05T13:02:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
+                "desc": "The attack on a crowded road comes amid fierce clashes across Taiz and Hodeidah and rapid civilian displacement.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260905__C7EW4UG__v1__HighRes__YemenIranUsIsraelWarHouthis-1788609687.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz",
+                "source": "Al Jazeera",
+                "date": "2026-09-05T13:00:43Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Uganda receives King Oyo’s remains",
                 "desc": "The body of Uganda's King Oyo Nyimba Kabamba Iguru Rukidi the Fourth has returned to the country after his death in the United States at the age of 34.",
@@ -1806,98 +1896,8 @@
                 "source": "The Ideas Letter",
                 "date": "2026-09-04T23:50:23Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "UN Adopts New World Map Showing Africa's True Size",
-                "desc": "The UN General Assembly has adopted a new world map, the Equal Earth projection, which accurately represents Africa's true size, correcting Mercator's dist",
-                "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/04211659/e7c4b610-a873-11f1-b109-879e35c24276.png_1788553019.webp",
-                "url": "https://punchng.com/un-adopts-proposal-for-new-world-map-showing-africas-true-size/",
-                "source": "Punch Newspapers",
-                "date": "2026-09-04T20:37:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zelenskyy proposes ceasefire with Russia ahead of US envoys’ Kyiv visit",
-                "desc": "Europe News: Ukrainian President Volodymyr Zelenskyy has proposed a ceasefire with Russia as US envoys visit Moscow and Kyiv, saying he hopes to host the American .",
-                "image": "https://static.toiimg.com/thumb/msid-133777993,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/europe/zelenskyy-proposes-ceasefire-with-russia-ahead-of-us-envoys-kyiv-visit/articleshow/133777958.cms",
-                "source": "The Times of India",
-                "date": "2026-09-04T20:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Watchdog report alleges misconduct by Trump’s former labour secretary",
-                "desc": "Lori Chavez-DeRemer reportedly used staff for personal tasks, drank at work and violated ethics regulations.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26247509341750-1788543875.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/9/4/watchdog-report-alleges-misconduct-by-trumps-former-labour-secretary",
-                "source": "Al Jazeera",
-                "date": "2026-09-04T20:33:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigel Farage defiant over foreign donations sting as two Reform UK aides stand down",
-                "desc": "Dan Jukes, the leader's senior aide, and James Orr, the party’s head of policy, have stepped down from their roles while the party conducts an internal investigation.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/2b86892f82d04eb5a4995307642c0a0b?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-09-05/nigel-farage-reform-uk-foreign-donations-sting/107119272",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-09-04T20:31:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lindsay Clancy's case ends in a mistrial",
-                "desc": "The US mother accused of murder is likely to remain in a mental health facility as lawyers weigh their next steps.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7f14/live/e9476f60-a87c-11f1-a291-b542ee92de7c.jpg",
-                "url": "https://www.bbc.com/news/articles/cj9x248npw1o",
-                "source": "BBC",
-                "date": "2026-09-04T20:31:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KENYA: Prelate Challenges Franciscans to be “Examples, Not Burdens to Others”",
-                "desc": "Sr. Jecinter Antoinette Okoth, FSSA\nAt the opening of a three-day Franciscan Jubilee symposium on Wednesday, August 26, at the Catholic University of Eastern Africa (CUEA), Franciscans from various congregations across Kenya were encouraged to be living examples of Christ to the people they serve, rather than “a spiritual, pastoral, liturgical, or economic burden” to them.\nAddressing the congregation in his homily during the Eucharistic celebration, Archbishop Maurice Muhatia Makumba urged the Franciscans to examine how faithfully they are living out the charism of St. Francis of Assisi in their various ministries: education, health, social work, catechesis and pastoral care.\nLet us pray to God that none of us may become a burden to the people to whom we have been sent, the Archbishop said, adding that Franciscans everywhere are called instead to be among them examples to emulate.\nThe symposium organized by the Franciscan Family Association- Kenya was themed, Lord Make Me an Instrument of Your Peace, in response to the pressing lack of peace in the world today, including “conflicts in the Middle East, Gaza, Ukraine and Congo, tribalism within African countries including Kenya, xenophobia, environmental destruction, and instability within families, religious institutions and governments.”\nArchbishop Muhatia of Kisumu Archdiocese referring to his own journey with the Franciscan family, tracing it from his home diocese of Kakamega in Kenya, where Franciscan presence was minimal, to the Diocese of Nakuru, where he served for over 12 years, and found himself immersed among numerous Franciscan congregations, both male and female, recalled that being surrounded wherever he turned,  by the  Franciscan communities has deepened his Franciscan spirituality  adding that even in the Archdiocese he currently he serves.\nReflecting on 16 years as a bishop shaped by this intense encounter with Franciscan missionaries, he said his life story would be completely impoverished without the Franciscan witness woven through it and thanked the gathered religious for their impact on his ministry.\nArchbishop Muhatia, who is also the chairman of the Kenya Conference of Catholic Bishops (KCCB), urged the assembled religious to examine themselves as to whether they had promoted the charism of their institutes, remained faithful to their superiors, served those they were sent to serve, or allowed themselves to grow lukewarm.\nThe Archbishop found encouragement in St. Paul's boldness in inviting the Thessalonians to imitate him and his companions, not because of their perfection, but because of their fidelity to the responsibility entrusted to them.\nSt Paul's insistence that he and his companions worked night and day so as not to burden anyone, the Archbishop said, offers a model for Franciscan life today: ministry offered generously, without becoming a weight on the people served.\nThe three-day event at CUEA brought together members of the First, Second and Third Orders, both Regular and Secular Franciscans, together with institutes of consecrated life, societies of apostolic life, and public and private associations of the faithful who live by the Rule of St. Francis or draw inspiration from his spirituality.\nThe Franciscan symposium forms part of wider celebrations marking the Jubilee Year of St. Francis of Assisi, proclaimed by Pope Leo XIV on the occasion of the 8th centenary of St. Francis’ death. The Jubilee runs from January 10, 2026, to January 10, 2027.",
-                "image": "https://communications.amecea.org/wp-content/uploads/2016/05/cropped-AMECEA-LOGO-32x32.jpg",
-                "url": "https://communications.amecea.org/index.php/2026/09/04/kenya-prelate-challenges-franciscans-to-be-examples-not-burdens-to-others/",
-                "source": "communications.amecea.org",
-                "date": "2026-09-04T20:26:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CUEA: Welcomes New Rector and Vice-Chancellor, Rev. Prof. Elias Opongo, SJ",
-                "desc": "Stephen Mbobu\nA new chapter has begun at the Catholic University of Eastern Africa (CUEA) with the assumption of office by Rev. Prof. Elias Omondi Opongo, SJ, as the University’s new Rector and Vice-Chancellor, effective Tuesday, 1st September 2026.\nHis appointment follows the conclusion of the tenure of the immediate former Vice-Chancellor, Very Rev. Prof. Stephen Mbugua Ngari, whose term ended on 31st August 2026 following an elaborate and orderly handover process.\nThe transition ceremony, preceded by Holy Mass, brought together members of the University community and key stakeholders to mark the leadership transition.\nIn his remarks, the Chair of the University Council, Rt. Rev. Mark Kadima, Bishop of the Catholic Diocese of Bungoma, challenged the incoming Vice-Chancellor to embrace the call of the day’s Scripture readings by remaining available, reliable, and persevering, particularly during challenging moments.\nDrawing from Luke 4:18–19, which echoes the prophetic words of Isaiah (Is. 61:1-2), Bishop Kadima reminded the new Vice-Chancellor of Christ’s mission:\n“The Spirit of the Lord is upon me, because he has anointed me to bring glad tidings to the poor. He has sent me to proclaim liberty to captives and recovery of sight to the blind, to let the oppressed go free, and to proclaim a year acceptable to the Lord.”\nHe also called upon CUEA staff and the wider University community to give maximum support and cooperation to the incoming Vice-Chancellor as he takes up the responsibility of leading the institution.\nMost Rev. Philip Anyolo, Archbishop of Nairobi and Pro-Chancellor of CUEA, witnessed the occasion and commended all parties for ensuring a very orderly transition. He expressed appreciation to the outgoing Vice-Chancellor for his leadership, particularly in steering the University through a period of successful recovery.\nAlso present were Rev. Fr. Andrew Kaufa, the new AMECEA Secretary General and member of the CUEA Council; Deputy Vice-Chancellors; University Executive Directors; the Legal Officer; and other members of the University leadership.\nAs CUEA welcomes its new Rector and Vice-Chancellor, the University community looks forward to a new season of faith-filled leadership, academic excellence, innovation, service, and renewed institutional growth.",
-                "image": "https://communications.amecea.org/wp-content/uploads/2016/05/cropped-AMECEA-LOGO-32x32.jpg",
-                "url": "https://communications.amecea.org/index.php/2026/09/04/cuea-welcomes-new-rector-and-vice-chancellor-rev-prof-elias-omondi-opongo-sj/",
-                "source": "AMECEA",
-                "date": "2026-09-04T20:26:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ghana launches app to verify marriage, divorce records",
-                "desc": "Ghana has launched a digital platform that enables members of the public to verify marriage and divorce records, as well as check registered marriage",
-                "image": "https://blueprint.ng/wp-content/uploads/2026/09/Price-of-wedding-rings-in-Ghana-and-where-to-buy-1200x675-1.jpg",
-                "url": "https://blueprint.ng/ghana-launches-app-to-verify-marriage-divorce-records/",
-                "source": "Blueprint Newspapers",
-                "date": "2026-09-04T20:24:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia hits Ukraine's security service headquarters in Kyiv, Zelenskyy says",
-                "desc": "A Russian drone hits the SBU headquarters in central Kyiv, wounding at least 12 in a rare strike on a heavily fortified government building.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--djBvOW7j--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-04T142058Z_1_LYNXMPEM8317L_RTROPTP_3_UKRAINE-CRISIS-ATACK-SBU.JPG?itok=E5O6Hnkw",
-                "url": "https://www.channelnewsasia.com/world/russia-hits-ukraines-security-service-kyiv-6363281",
-                "source": "CNA",
-                "date": "2026-09-04T20:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei - and revenge on the UK",
-                "desc": "US president suggests he might support his Argentinian acolyte’s drive to reclaim sovereignty of disputed islands",
-                "image": "https://i.guim.co.uk/img/media/7d2459a3317f9883ce74703ba281d9cbe990e2cd/0_0_4021_3216/master/4021.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae09b1e1751505987c2c99c2bb1b1d82",
-                "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-                "source": "theguardian.com",
-                "date": "2026-09-04T20:21:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-05T23:23:45.585683Z"
+    "lastGlobalSync": "2026-09-06T01:21:05.702204Z"
 }
