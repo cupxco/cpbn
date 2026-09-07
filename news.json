@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Rugby hero Alun Wyn Jones flies out to join army after King Charles appointment",
+                "desc": "The rugby legend was made an Honorary Colonel of the regiment and attended exercise Northern Strike",
+                "image": "https://i2-prod.walesonline.co.uk/article34578203.ece/ALTERNATES/s1200d/798537742_18617418973033578_8368368228420859804_n.jpg",
+                "url": "https://www.walesonline.co.uk/sport/rugby/rugby-news/rugby-hero-alun-wyn-jones-34577505",
+                "source": "Wales Online",
+                "date": "2026-09-07T09:46:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ecosystem Growth Alone Not Enough For $PI?",
+                "desc": "Pi Network news today: ecosystem tools expand and Protocol 27 nears, yet price holds near $0.094. Full breakdown of what's built and what's next.",
+                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/September2026/pi-network-news-ecosystem-growth-alone-not-enough-for-pi-7874.webp",
+                "url": "https://www.coingabbar.com/en/crypto-currency-news/pi-network-news-ecosystem-growth-alone-not-enough-for-pi",
+                "source": "Coin Gabbar",
+                "date": "2026-09-07T09:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Coop win appeal against paying £600k to former boss",
+                "desc": "Appeal judges ruled it was not reasonably foreseeable Colin MacLeod may be psychiatrically injured.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7aa5/live/75919010-aa9c-11f1-ab09-7f2415c9a652.jpg",
+                "url": "https://www.bbc.com/news/articles/cy7znny0yedo",
+                "source": "BBC",
+                "date": "2026-09-07T09:42:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rapid robust high-fidelity 3D neuronal extraction from multiview calcium imaging datasets",
+                "desc": "Recent developments in imaging facilitate large-scale three-dimensional (3D) neuronal recording. While the resulting large datasets shed light on population-level neural coding, extracting neuronal calcium dynamics from 3D volumes remains more challenging than from two-dimensional images due to noise and scattering. Here we present DeepWonder3D, a general end-to-end pipeline for rapid and robust 3D neuronal extraction with high fidelity. Instead of processing voxel by voxel, DeepWonder3D works on the multiview projections of 3D imaging data obtained either digitally or optically through specific point spread functions and is therefore applicable to diverse techniques, including point-scanning microscopy, light-field microscopy and two-photon synthetic aperture microscopy. Integrating denoising, resolution registration, background removal, neuronal extraction and multiview fusion into a unified pipeline tailored for large-scale high-resolution datasets contaminated by noise and scattering, DeepWonder3D outperforms state-of-the-art methods in 3D localization accuracy with a tenfold reduction in computational costs, validated by numerical simulations and a hybrid two-photon/light-field imaging system. With the RUSH3D mesoscope, DeepWonder3D achieves high-fidelity 3D calcium extraction of tens of thousands of neurons across the mouse cortex within hours. DeepWonder3D is a pipeline for neuronal extraction from volumetric calcium imaging data acquired with a variety of one-photon or two-photon microscopy modalities.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-026-03215-6/MediaObjects/41592_2026_3215_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41592-026-03215-6?error=cookies_not_supported&code=e6b901fa-14f2-40b0-9d7d-6a68fa962e31",
+                "source": "nature.com",
+                "date": "2026-09-07T09:41:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Yen hits seven-month high; dollar soft ahead of US inflation",
+                "desc": "By Alun John and Rae Wee SINGAPORE/LONDON, Sept 7 (Reuters) - The yen surged to a seven-month high on Monday, as traders appeared to reassess their outlook on the long-embattled currency, driven by bets on faster Bank of Japan tightening and expectations that Japanese investors may shift funds home.",
+                "image": "https://live.euronext.com/favicon.ico",
+                "url": "https://live.euronext.com/en/financial-news/yen-hits-seven-month-high-dollar-soft-ahead-us-inflation",
+                "source": "Euronext Markets: Real-time Stock Market Data | live",
+                "date": "2026-09-07T09:40:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Goldman Sachs sees oil prices rising to $120 per barrel",
+                "desc": "Goldman Sachs says oil could reach $120 per barrel if attacks on Middle East shipping intensify, while Brent traded above $97 and WTI above $92.",
+                "image": "https://cdn-cabinet.ua.news/uploads/images/goldman_sachs_oil_could_reach_120_amid_s_1788773624122.webp",
+                "url": "https://ua.news/en/energetika/goldman-sachs-dopuskaie-zrostannia-tsin-na-naftu-do-120-za-barel",
+                "source": "UA.NEWS",
+                "date": "2026-09-07T09:39:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gateway Mining Limited (GWMLF) Discusses Recent Cowza Discovery and Exploration Strategy Transcript",
+                "desc": "Gateway Mining Limited (GWMLF) Discusses Recent Cowza Discovery and Exploration Strategy September 6, 2026 9:30 PM EDTCompany ParticipantsRichard Pugh -...",
+                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+                "url": "https://seekingalpha.com/article/4943469-gateway-mining-limited-gwmlf-discusses-recent-cowza-discovery-and-exploration-strategy",
+                "source": "Seeking Alpha",
+                "date": "2026-09-07T09:39:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jaguar Land Rover confirms plan to cut 4,000 jobs over two years",
+                "desc": "Carmaker, which is battling Trump tariffs and fallout from cyber-attack, wants to reduce 34,000-strong UK workforce",
+                "image": "https://i.guim.co.uk/img/media/4f876e3664001c63f64854ba45a1ea7e118136d5/922_112_2553_2043/master/2553.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f5359e3a7dca1f3553b52dce2a47fa8",
+                "url": "https://www.theguardian.com/business/2026/sep/07/jaguar-land-rover-job-trump-tariffs",
+                "source": "The Guardian",
+                "date": "2026-09-07T09:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alphabet Balances Strengths And Weaknesses",
+                "desc": "Alphabet demonstrates prodigious Google Cloud growth, with quarterly revenue surging from $20B to $25B in just one quarter. Read more on GOOG stock here.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2228661068/image_2228661068.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4943514-google-balances-strengths-and-weaknesses",
+                "source": "Seeking Alpha",
+                "date": "2026-09-07T09:38:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nike’s shoe doesn't fit: How did the swoosh lose its winning edge?",
+                "desc": "Nikes decline is raising questions about how the sportswear giant lost its competitive edge. Falling revenue, a collapsing market value, weaker China sales, inventory pressure and growing competition from Hoka, On, Adidas, Anta and Li Ning have challenged its dominance. CEO Elliott Hill is rebuilding wholesale, product innovation and regional strategies as Nike fights to restore growth and brand appeal.",
+                "image": "https://img.etimg.com/thumb/msid-133874411,width-1200,height-630,imgsize-323878,overlay-economictimes/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/news/international/global-trends/nikes-shoe-doesnt-fit-how-did-the-swoosh-lose-its-winning-edge-nike-sale-tock-sp-sports-shoes-market-china-adidas/articleshow/133873218.cms",
+                "source": "The Economic Times",
+                "date": "2026-09-07T09:38:18Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "A single large data centre can use an estimated five million US gallons of water a day — roughly the daily demand of a town of 50,000 people — and the AI-driven construction boom is expanding into reg",
                 "desc": "Five million gallons is a high-end estimate, not typical use. Facility records, cooling design and summer peaks reveal how data-centre growth can strain local water supplies.",
                 "image": "https://spacedaily.com/wp-content/uploads/2026/07/ai-data-centres-water-use-representative.jpg",
@@ -542,99 +632,99 @@
                 "source": "The Sun",
                 "date": "2026-09-06T09:32:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Top 10 Selling Cars in India in August 2026: Tata Punch Beats Wagon R and Swift to Claim No. 1 Spot",
-                "desc": "Tata Punch tops August 2026 car sales with 21,320 units, ahead of Wagon R and Swift. Explore India’s top 10 cars, sales figures and YoY growth.",
-                "image": "https://static.wixstatic.com/media/1da610_1c8ab737be4e4ccca3644850e924d2eb~mv2.png/v1/fill/w_750,h_1000,al_c,q_90,usm_0.66_1.00_0.01/1da610_1c8ab737be4e4ccca3644850e924d2eb~mv2.png",
-                "url": "https://www.autopunditz.com/post/top-10-selling-cars-india-august-2026",
-                "source": "autopunditz.com",
-                "date": "2026-09-06T07:32:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘The engine’s on fire’: Qantas flight from Queenstown to Sydney reroutes after flames seen by passengers",
-                "desc": "Passenger recalls seeing cabin lights flicker and ‘a lot of screaming’ after suspected engine issue",
-                "image": "https://i.guim.co.uk/img/media/3ca12bde3a74a85c19b5ac0c15a38e92cccb1f2e/465_0_2423_1939/master/2423.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=849c1dc786e3c86846045d0deaad2ef1",
-                "url": "https://www.theguardian.com/australia-news/2026/sep/06/qantas-flight-queenstown-to-sydney-rerouted-flames-seen-by-passengers",
-                "source": "theguardian.com",
-                "date": "2026-09-06T07:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meituan denies cross-border delivery after rider allegedly flies to Singapore for curry puffs",
-                "desc": "SINGAPORE: Chinese food delivery giant Meituan has clarified that it does not offer international delivery services after a viral video showed a man in its uniform claiming he was paid to fly to Singapore to pick up a box of curry puffs.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/09/06/4095586.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/06/meituan-denies-cross-border-delivery-after-rider-allegedly-flies-to-singapore-for-curry-puffs",
-                "source": "The Star",
-                "date": "2026-09-06T07:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "APR says no Sudan Red found in Medicube cream after Singapore recall",
-                "desc": "APR said tests found no Sudan Red in Medicube cream batches involved in a Singapore recall. HSA had previously found trace amounts of Sudan IV in batches sold by Venus Beauty.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/apr_sudan_red_medicube_singapore_recall_1788678463046.webp",
-                "url": "https://ua.news/en/krasa/apr-zaiavila-pro-vidsutnist-sudan-red-u-kremi-medicube-pislia-vidklikannia-v-singapuri",
-                "source": "ua.news",
-                "date": "2026-09-06T07:24:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ONGC chairman selection: Seven shortlisted candidates to face second round of interviews",
-                "desc": "Seven candidates have been shortlisted for the ONGC chairman and managing director post, with a second round of interviews expected this week. The shortlist includes Oil India CMD Ranjit Rath, ONGC Videsh MD Rajarshi Gupta and senior executives from ONGC, OVL, MRPL and Indian Oil.",
-                "image": "https://img.etimg.com/thumb/msid-133829539,width-1200,height-630,imgsize-332202,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ongc-chairman-selection-seven-shortlisted-candidates-to-face-second-round-of-interviews/articleshow/133829523.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-09-06T07:20:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SBI to hire 12,000 employees, add 250 branches in FY27, says State Bank of India's chairman CS Setty",
-                "desc": "State Bank of India (SBI) intends to hire about 12,000 employees and add around 250 new branches to its network in the ongoing financial year, said C S Setty, Chairman of the country's biggest lender.",
-                "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/CS_Setty_1788678645001_5056bb97-25e9-4fb7-a078-0d0eb2d14c21_1788678650790_f5f5f6e1-3f4a-4582-8a40-c53a18d9aff8_184b039c-6559-4bf5-be50-44546934ce53_6e9bced7-13a4-49e0-af8e-ade274a7d93b.jpg",
-                "url": "https://www.livemint.com/companies/news/sbi-to-hire-12-000-employees-add-250-branches-in-fy27-says-state-bank-of-indias-chairman-cs-setty-11788678529774.html",
-                "source": "livemint.com",
-                "date": "2026-09-06T07:17:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5-year plan to boost livelihoods, policy address to set out concrete measures: John Lee",
-                "desc": "After two months of public consultation, city leader says five-year plan will focus on long-term well-being, policy address on immediate improvements.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/06/b947b77b-8105-42f8-8b0d-0742a47831c4_08e705d3.jpg?itok=9yXtf_rA&v=1788678903",
-                "url": "https://www.scmp.com/news/hong-kong/politics/article/3366528/5-year-plan-boost-livelihoods-policy-address-set-out-concrete-measures-john-lee",
-                "source": "scmp.com",
-                "date": "2026-09-06T07:15:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prediction: SoundHound Passes $500 Million in Revenue Before It Turns a Profit",
-                "desc": "Sales grew 45% year over year last quarter, an acquisition is about to add more -- and the losses are shrinking far more slowly.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F212de6ba59a221d3c2f8611e0ea5597d29982902-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/09/06/prediction-soundhound-passes-usd500-million-in-revenue-before-it-turns-a-profit/",
-                "source": "The Motley Fool",
-                "date": "2026-09-06T07:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Asian markets, crude will impact Sensex, Nifty tomorrow: What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India",
-                "desc": "According to market experts, the week ahead is likely to remain highly influenced by global monetary policy decisions, crude oil price movements and evolving geopolitical developments.",
-                "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/prediction_1788678279185_1e162d65-4968-4928-8151-80bb680bc0e8_1788678279379_5e5fb467-a08c-40ca-9051-34d566578330_a683b924-15ff-4485-8956-ebe659157014_820d4877-f634-48cf-a2b8-544f33ed2795.png",
-                "url": "https://www.livemint.com/market/stock-market-news/how-asian-markets-crude-will-impact-sensex-nifty-tomorrow-what-gift-nifty-nikkei-kospi-taiwan-signal-for-india-11788673692892.html",
-                "source": "Livemint",
-                "date": "2026-09-06T07:05:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jawa 42 Bobber All Stars Launch Price Rs 2.09 Lakh in India",
-                "desc": "Jawa 42 Bobber All Stars is introduced in fresh colourways, distinctive chequered graphics and the All Stars insignia in the Indian market",
-                "image": "https://bikeadvice.in/wp-content/uploads/2026/09/Jawa-42-Bobber-All-Stars.jpg",
-                "url": "https://bikeadvice.in/jawa-42-bobber-all-stars-launch-price-rs-2-09-lakh-in-india/",
-                "source": "BikeAdvice",
-                "date": "2026-09-06T07:03:52Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "GTA 5 receives unofficial Nintendo Switch port ahead of GTA 6",
+                "desc": "GTA 5 has been made playable on original Nintendo Switch through unofficial native port ahead of GTA 6",
+                "image": "https://i.tribune.com.pk/media/images/gta-51736610383-0/gta-51736610383-0-640x480.webp",
+                "url": "https://tribune.com.pk/story/2627920/gta-5-receives-unofficial-nintendo-switch-port-ahead-of-gta-6",
+                "source": "The Express Tribune",
+                "date": "2026-09-07T09:45:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "246TB SSD movie server holds 4,000 4K movies, estimated price around $150,000",
+                "desc": "The Compact Terra Prime stores around 4,000 4K movies in a 1.8 kg aluminum chassis. Kaleidescape is offering the 246TB server through special order.",
+                "image": "https://cdn.videocardz.com/1/2026/09/KALEIDOSCOPE-SSD-MOVIE-200TB.webp",
+                "url": "https://videocardz.com/newz/246tb-ssd-movie-server-holds-4000-4k-movies-estimated-price-around-150000",
+                "source": "VideoCardz.com",
+                "date": "2026-09-07T09:44:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dropped Xbox Game Pass? Microsoft May Try to Tempt You Back With a Lower Price",
+                "desc": "A new personalized offer may save you over $80 per year, but it appears to be available only to select customers.",
+                "image": "https://i.pcmag.com/imagery/articles/04rwnubZewluDGWO2rDRUdG-1.fit_lim.size_1200x630.v1788771727.jpg",
+                "url": "https://www.pcmag.com/news/dropped-xbox-game-pass-microsoft-may-try-to-tempt-you-back-with-a-lower",
+                "source": "PCMag",
+                "date": "2026-09-07T09:43:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best robot lawn mower deal: Save $311 on Segway Navimow i110N",
+                "desc": "Find the best robot lawn mower deal. Save 28% on the Segway Navimow i110N at Amazon.",
+                "image": "https://helios-i.mashable.com/imagery/articles/02N4kNFUHg68gFeMTP6DESM/hero-image.fill.size_1200x675.v1788246940.png",
+                "url": "https://mashable.com/tech/sept-1-segway-navimow-robot-lawn-mower-deal",
+                "source": "Mashable",
+                "date": "2026-09-07T09:39:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alienware's new 34in QD-OLED monitor just got its first price cut",
+                "desc": "The AW3426DW's only been on the market for a few months, but you can now pick up the ultrawide monitor with a $50 discount.",
+                "image": "https://www.club386.com/wp-content/uploads/2026/09/alienware-aw3426dw-deal-september-2026.jpeg",
+                "url": "https://www.club386.com/alienware-aw3426dw-deal-september-2026/",
+                "source": "Club386",
+                "date": "2026-09-07T09:39:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony Clears Up the Confusion Over Its 2028 Disc Production Numbers",
+                "desc": "Sony DADC commented on the mix-up.",
+                "image": "https://cdn.80.lv/api/upload/meta/50073/images/6a9e8635947f0/contain_1200x630.jpg",
+                "url": "https://80.lv/articles/sony-clears-up-the-confusion-over-its-2028-disc-production-numbers",
+                "source": "80 Level",
+                "date": "2026-09-07T09:39:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Portal returns in free new remake of original game, download and play now",
+                "desc": "The perfect excuse to come and replay this gem!",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltd9ca05fe39edc3de/6a9e7da94504903af70be7b4/portal.jpg",
+                "url": "https://www.gamingbible.com/news/platform/steam/portal-alive-and-kicking-steam-release-534350-20260907",
+                "source": "GAMINGbible",
+                "date": "2026-09-07T09:39:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sid Meier's Civilization VII adds Arc of Tomorrow update and Earthrise expansion",
+                "desc": "At PAX West, in celebration of the franchise’s 35th anniversary, 2K and Firaxis Games announced new updates for Sid Meier's Civilization VII.",
+                "image": "https://gamesbeat.com/wp-content/uploads/2026/09/Civilisation.jpg",
+                "url": "https://gamesbeat.com/sid-meiers-civilization-vii-adds-arc-of-tomorrow-update-and-earthrise-expansion/",
+                "source": "GamesBeat",
+                "date": "2026-09-07T09:37:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nintendo lifts Switch 2 bans after reported system fault",
+                "desc": "Nintendo has reportedly reversed Switch 2 online bans after users encountered error code 2124-4508",
+                "image": "https://i.tribune.com.pk/media/images/nintendo-switch1743608865-0/nintendo-switch1743608865-0-640x480.webp",
+                "url": "https://tribune.com.pk/story/2627916/nintendo-lifts-switch-2-bans-after-reported-system-fault",
+                "source": "The Express Tribune",
+                "date": "2026-09-07T09:35:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Leaked Photos of G-Shock's £100 Answer to the £30k Patek Philippe Nautilus Have Landed",
+                "desc": "The upcoming G-SHOCK GAC-2500 is fully analogue and arrives in four different colours",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/2a24ac74-2f49-4cdf-93fc-71a8ef1348a9.png?crop=1.00xw:0.502xh;0,0.287xh&resize=1200:*",
+                "url": "https://www.esquire.com/uk/watches/a73629557/casio-nautilus/",
+                "source": "Esquire",
+                "date": "2026-09-07T09:35:33Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Boots on the ground: Inside Twisted X's bet on American",
                 "desc": "For decades, footwear manufacturing has followed the same trajectory as much of the wider manufacturing industry, with factories closing across the US and Europe as brands chased lower costs overseas. Twisted X President and CEO, Prasad Reddy, has watched story unfold from the inside for over 50 years, and he’s one of a shrinking number...",
@@ -1174,99 +1264,99 @@
                 "source": "GSMArena.com",
                 "date": "2026-09-06T09:02:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "KT 'UTA' Defeats T1 'Navy' with Three Consecutive 3-2 Wins to Advance to Grand Final",
-                "desc": "In the 2026 FSL Summer Final Stage Losers' Finals held on September 6 at Jamsil DN Colosseum, kt Rolster's 'UTA' Lee Ji-hwan defeated T1's 'Navy' Kim Yu-min 3-1 to reach the Grand Final, where he will face BNK FearX's 'Light' Kim Seon-jae shortly.",
-                "image": "https://static.invenglobal.com/upload/image/2026/09/06/i1788679820416555.jpeg",
-                "url": "https://www.invenglobal.com/articles/25623/kt-uta-defeats-t1-navy-with-three-consecutive-3-2-wins-to-advance-to-grand-final",
-                "source": "Inven Global",
-                "date": "2026-09-06T07:28:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony failed to gather a million viewers for the new State of Play",
-                "desc": "Sony's latest State of Play show gathered 982 thousand concurrent viewers, almost three times less than the June edition.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1298579/4332e52b-4e7d-4870-a0ec-4d1ad7c25ce7.jpg",
-                "url": "https://ixbt.games/en/news/2026/09/06/432855-sony-ne-smogla-sobrat-million-zritelei-na-novom-state-of-play.html",
-                "source": "ixbt.games",
-                "date": "2026-09-06T07:27:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is your forgotten login a hacker's backdoor? Check now",
-                "desc": "That Pandora account you haven't opened since 2015 is still sitting there, still holding your password, and still fully accessible to anyone who finds their way in. Security researchers call these...",
-                "image": "https://www.thenews.com.pk/assets/uploads/2026-09-06/1415069_124007_updates.jpg",
-                "url": "https://www.thenews.com.pk/latest/1415069-is-your-forgotten-login-a-hackers-backdoor-check-now",
-                "source": "The News International",
-                "date": "2026-09-06T07:24:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "30 years on, Tomb Raider game reboot sees Lara Croft through a modern lens",
-                "desc": "Legacy of Atlantis, a remake of the very first Tomb Raider in 1996, is scheduled for release on Feb 12. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a810e34371875704788a61778c076a73e18da9751ab0e283f6f4c4f78147b671",
-                "url": "https://www.straitstimes.com/life/entertainment/30-years-on-tomb-raider-game-reboot-sees-lara-croft-through-a-modern-lens",
-                "source": "straitstimes.com",
-                "date": "2026-09-06T07:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Critical CVE-2026-73749 Remote Code Execution Vulnerability in HPE ArubaOS-CX: Affected Versions, Risks, and Patch Guidance",
-                "desc": "Executive SummaryHewlett Packard Enterprise (HPE) has released critical security updates for its ArubaOS-CX (AOS-CX) network operating system, addressing multiple vulnerabilities, most notably the cri",
-                "image": "https://www.rescana.com/post/img/critical-cve-2026-73749-remote-code-execution-vulnerability-in-hpe-arubaos-cx-affected-versions-risks-and-patch-guidance-cover.png",
-                "url": "https://www.rescana.com/post/critical-cve-2026-73749-remote-code-execution-vulnerability-in-hpe-arubaos-cx-affected-versions-risks-and-patch-guidance",
-                "source": "Rescana",
-                "date": "2026-09-06T07:14:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy S27 Pro gets Samsung's fastest charging speed yet",
-                "desc": "Samsung is planning to launch four high-end phones, the Galaxy S27, Galaxy S27+, Galaxy S27 Pro, and Galaxy S27 Ultra, early next year. While most of their spec",
-                "image": "https://www.sammobile.com/wp-content/uploads/2026/04/Galaxy-S26-review-8.jpg",
-                "url": "https://www.sammobile.com/news/galaxy-s27-pro-fastest-charging-speed-samsung/",
-                "source": "SamMobile",
-                "date": "2026-09-06T07:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Cloud Gaming Proves Unprofitable: Critical Threshold Named",
-                "desc": "Xbox Cloud Gaming starts to incur losses for Microsoft if a user spends more than approximately 15 hours a month in the cloud.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1298572/26302292-92ed-4741-8d67-e5f1c3aad49c.jpg",
-                "url": "https://ixbt.games/en/news/2026/09/06/432851-xbox-cloud-gaming-okazalsia-ubytocnym-nazvana-kriticeskaia-otmetka.html",
-                "source": "ixbt.games",
-                "date": "2026-09-06T07:07:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "“Apple’s big reveal: iPhone 18 and a Foldable iPhone could debut september 9”",
-                "desc": "The wait is almost over! Apple is set to host its “Surprise and shine” event on September 9 at 10:30 PM IST, with the iPhone 18 Pro lineup expected to take centre stage",
-                "image": "https://www.indianweekender.co.nz/hs-fs/hubfs/Im-betting-on-September-9-for-the-iPhone-18-Pro-launch--and-this-could-be-Apples-biggest-event-in-years.jpg.webp?width=1280&height=746&upscale=true&name=Im-betting-on-September-9-for-the-iPhone-18-Pro-launch--and-this-could-be-Apples-biggest-event-in-years.jpg.webp",
-                "url": "https://www.indianweekender.co.nz/news/apples-big-reveal-iphone-18-and-a-foldable-iphone-could-debut-september-9",
-                "source": "Indianweekender",
-                "date": "2026-09-06T07:05:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'We know who we are': Small cars can make Fiat bigger than ever",
-                "desc": "Fiat is back to its roots as a maker of small cars - Europe boss Gaetano Thorel unwraps the game plan",
-                "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/gaetano_thorel_head_of_fiat_and_abarth_europe.jpg",
-                "url": "https://www.autocar.co.uk/car-news/features/we-know-who-we-are-small-cars-can-make-fiat-bigger-ever",
-                "source": "Autocar",
-                "date": "2026-09-06T07:00:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dyson unveils the beefy HushJet Hot Cool Pure+ air purifier - its most potent 3-in-1 model to date",
-                "desc": "Dyson’s new range of air purifiers also includes the compact Pure Cool+ Formaldehyde and HushJet Big+Quiet Cool Pure+ Formaldehyde models",
-                "image": "https://s.yimg.com/lo/mysterio/api/db8d19e49a6eee1ed6a3e6e55f576f2b72ddc5e76abb0bafd45b36d1f3153fc5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ft3_620%2F6d5b28bc3241f61d246deb5c417a3add.jpg",
-                "url": "https://tech.yahoo.com/home/articles/dyson-unveils-beefy-hushjet-hot-070000092.html",
-                "source": "Yahoo Tech",
-                "date": "2026-09-06T07:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Strait of Hormuz is following the Black Sea scenario: Commercial ships become targets of war",
+                "desc": "The situation in the Strait of Hormuz is increasingly resembling developments in the Black Sea, where military confrontation is directly affecting commercial shipping. The United States and Iran have carried out attacks on vessels, raising concerns about prolonged disruptions to oil supplies from the Middle East. Against this backdrop, oil prices continued to rise on",
+                "image": "https://ukragroconsult.com/wp-content/uploads/2026/04/ormuz-1.jpg",
+                "url": "https://ukragroconsult.com/en/news/strait-of-hormuz-is-following-the-black-sea-scenario-commercial-ships-become-targets-of-war/",
+                "source": "ukragroconsult.com",
+                "date": "2026-09-07T09:45:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indonesia flight disruptions send travellers on marathon journeys as fares surge, trains sell out",
+                "desc": "Flight disruptions caused by Mount Anak Krakatau’s eruption are forcing travellers in Indonesia onto lengthy overland journeys as train tickets sell out and airfares surge.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--Owr3RCTd--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/07/achmad-jason-leong-indonesia-airport-closures.png?itok=5XuLXdeq",
+                "url": "https://www.channelnewsasia.com/asia/indonesia-airport-disruption-mount-anak-krakatau-6366766",
+                "source": "CNA",
+                "date": "2026-09-07T09:45:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine Blows Up Russian Artillery Ammo Depot at Former Poultry Farm in Occupied Luhansk",
+                "desc": "Ukraine’s Special Operations Forces destroyed a Russian artillery ammunition depot in Luhansk region, and released footage of the strike.",
+                "image": "https://storage.united24media.com/og/c/d1/9786cccece0c3a8dd7e33762d610ed1c.png",
+                "url": "https://united24media.com/war-in-ukraine/ukraine-blows-up-russian-artillery-ammo-depot-at-former-poultry-farm-in-occupied-luhansk-22289",
+                "source": "UNITED24 Media",
+                "date": "2026-09-07T09:44:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Malaysia forum floats transit levy for Strait of M...",
+                "desc": "Debate is revived on a transit levy for ships passing through the Straits of Malacca and Singapore, with voluntary contributions seen insuffici... Find out more.",
+                "image": "https://imgs.newseditor.aws.kuehne-nagel.cloud/eedb64de-6f30-4275-b2d1-45dc2d777757.jpg",
+                "url": "https://mykn.kuehne-nagel.com/news/article/malaysia-forum-floats-transit-levy-for-strait",
+                "source": "mykn.kuehne-nagel.com",
+                "date": "2026-09-07T09:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cardiff man hit with 'death tax' after inheriting mother's home",
+                "desc": "Phil Bond says he fears people in the same situation may pay the charge without challenging it.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9b5a/live/29bced60-aaa1-11f1-9eba-7de947fa7cd1.jpeg",
+                "url": "https://www.bbc.com/news/articles/c7v4n0mmd0jo",
+                "source": "BBC",
+                "date": "2026-09-07T09:43:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cardiff man hit with 'death tax' after inheriting mother's home",
+                "desc": "Phil Bond says he fears people in the same situation may pay the charge without challenging it.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b5a/live/29bced60-aaa1-11f1-9eba-7de947fa7cd1.jpeg",
+                "url": "https://www.bbc.co.uk/news/articles/c7v4n0mmd0jo",
+                "source": "BBC",
+                "date": "2026-09-07T09:43:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Germany challenges Gaza genocide case at top UN court",
+                "desc": "Germany has told the United Nations’ top court that a genocide case over weapons sales to Israel was improperly filed by Nicaragua and should be thrown out.",
+                "image": "https://dims.apnews.com/dims4/default/c0bdeec/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7e%2F27%2Ff57276484a8f6c1e2bc2630830d5%2F852844274bfa483092560387b3377df6",
+                "url": "https://apnews.com/article/world-court-israel-germany-genocide-nicaragua-arms-1cac60bd1e9f7be1b32523dbb060f6dd",
+                "source": "AP News",
+                "date": "2026-09-07T09:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Finland's largest sex crimes case opens with teacher accused of luring victims on Snapchat",
+                "desc": "There are a total of 361 victims in the case, all boys aged between 9 and 15, with police saying they suspect the true number could be as high as 900.",
+                "image": "https://img.img-cdn.yle.fi/crop_extract,w_5112,h_2875,x_13,y_392/crop_fill,w_1200,h_628/f_auto/39-17031496a9e66a01660a/1788765973",
+                "url": "https://yle.fi/a/74-20244932",
+                "source": "Yle",
+                "date": "2026-09-07T09:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dr Amo Collins: Business Mogul’s Lavish Marble Mansion Interior Wows TikTok",
+                "desc": "A businessman showcases his opulent mansion with gold-trimmed staircases and baroque interiors, leaving viewers worldwide in awe of his extravagant luxury.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/6e1e98b6fdcb8490.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/people/638874-dr-amo-collins-business-moguls-lavish-marble-mansion-interior-wows-tiktok/",
+                "source": "Tuko News",
+                "date": "2026-09-07T09:38:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Applications open for GPHSF Senior Care Micro Grant Program (Canada)",
+                "desc": "Deadline: 30-Sep-2026 The Greater Peterborough Health Services Foundation (GPHSF) Senior Care Micro Grant Program provides funding to not-for-profit organizations and registered charities for projects that support senior care and healthy aging in the Peterborough area. For the 2026 funding cycle, two grants of up to $5,000 each are available, providing a total of $10,000 to",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/equipment/applications-open-for-gphsf-senior-care-micro-grant-program-canada/",
+                "source": "fundsforngos.org",
+                "date": "2026-09-07T09:37:28Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "1657 Days of russia-Ukraine War - russian Casualties in Ukraine",
                 "desc": "The russians are facing non-stop military losses on Ukrainian soil. About 1,497,980 aggressor's troops were eliminated, 508,583 air targets of invaders were shot down, thousands of tanks, armored vehicles and trucks were destroyed by the defenders of Ukraine",
@@ -1806,98 +1896,8 @@
                 "source": "Malay Mail",
                 "date": "2026-09-06T09:22:49Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Tech CEO added to FBI's Most Wanted Fraudsters list after fleeing from United States",
-                "desc": "Tech News News: The FBI has added tech CEO Bernhard Eugen Fritsch to its Most Wanted Fraudsters list after he fled the United States while awaiting sentencing for an .",
-                "image": "https://static.toiimg.com/thumb/msid-133829796,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/tech-news/tech-ceo-added-to-fbis-most-wanted-fraudsters-list-after-fleeing-from-united-states/articleshow/133829681.cms",
-                "source": "The Times of India",
-                "date": "2026-09-06T07:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DMW assists Filipino seafarers who survived Hormuz attack",
-                "desc": "MANILA, Philippines — The Department of Migrant Workers (DMW) said on Sunday that it was assisting the 14 Filipino seamen who survived an attack while their vessel, MT SIDR, was transiting the Strait of Hormuz.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/06/1204917.jpg",
-                "url": "https://www.manilatimes.net/2026/09/06/news/dmw-assists-filipino-seafarers-who-survived-hormuz-attack/2419360",
-                "source": "The Manila Times",
-                "date": "2026-09-06T07:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Africa reaffirms commitment to Nigeria, seeks stronger investment, trade, cultural ties",
-                "desc": "The South African Consulate General, Lagos has reaffirmed its commitment to strengthening bilateral relations with Nigeria, with focus...",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/09/South-African-consulate-1.jpg",
-                "url": "https://businessday.ng/life/article/south-africa-reaffirms-commitment-to-nigeria-seeks-stronger-investment-trade-cultural-ties/",
-                "source": "Business News Nigeria",
-                "date": "2026-09-06T07:31:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The African Rivers Bigger Than The Mississippi",
-                "desc": "The Congo beats the Mississippi at everything. The Nile beats it at nothing that involves water. Which African rivers are genuinely bigger, by three measures.",
-                "image": "https://www.worldatlas.com/r/w1200-q80/upload/02/19/bd/shutterstock-1154314534-s3cdn-1-s3cdn.jpg",
-                "url": "https://www.worldatlas.com/rivers/the-african-rivers-bigger-than-the-mississippi.html",
-                "source": "WorldAtlas",
-                "date": "2026-09-06T07:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Djibouti Warns Against Foreign Interference.",
-                "desc": "Guelleh says sovereignty and independent decision-making must be protected from external interference.",
-                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgHt2EV9gtMDvNOphflsW8539Egcd1mCPYe7LF",
-                "url": "https://www.dawan.africa/news/djibouti-warns-against-foreign-interference",
-                "source": "Dawan Africa",
-                "date": "2026-09-06T07:21:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Egyptian TV presenter Sarah Khalifa sentenced to death in drugs case",
-                "desc": "Cairo court sentences TV host Sarah Khalifa and 11 others to death over drug trafficking ring.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Sarah-Khalifa-1788674119.webp?resize=1200%2C675",
-                "url": "https://www.aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case",
-                "source": "Al Jazeera",
-                "date": "2026-09-06T07:21:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Government says armoured limousine proposal based on vehicle assessment",
-                "desc": "Government sources said a proposed armoured presidential limousine was based on assessed security and transport needs, pending parliamentary approval.",
-                "image": "https://www.kiprinform.com/wp-content/uploads/2026/09/limo.webp",
-                "url": "https://www.kiprinform.com/en/news/government-says-armoured-limousine-proposal-based-on-vehicle-assessment/",
-                "source": "Cyprus Inform",
-                "date": "2026-09-06T07:16:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Flights suspended at Indonesia's main airport due to volcanic eruption",
-                "desc": "Mount Anak Krakatoa is an active volcano that sits in the Sunda Strait, between the islands of Java and Sumatra.",
-                "image": "https://images.euronews.com/articles/stories/09/90/29/00/1200x675_cmsv2_782438b8-0209-5882-a2ee-c779b9e2ef02-9902900.jpg",
-                "url": "https://www.euronews.com/2026/09/06/flights-suspended-at-indonesias-main-airport-due-to-volcanic-eruption",
-                "source": "Euronews.com",
-                "date": "2026-09-06T07:12:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Video: Police Crush Sports Car after Driver Caught Recklessly Drifting on Public Road",
-                "desc": "Kuwait arrested a reckless driver for drifting on a public road, leading to his vehicle being destroyed as a warning against endangering public safety.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/4b79525998343813.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/world/asia/638793-video-police-crush-sports-car-driver-caught-recklessly-drifting-public-road/",
-                "source": "Tuko News",
-                "date": "2026-09-06T07:08:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Explosions across Russia as Ukraine drone blitz hammers cities and refinery burns",
-                "desc": "The massive overnight attack came just hours after Russian President Vladimir Putin held talks with US envoys Steve Witkoff and Jared Kushner in Moscow",
-                "image": "https://i2-prod.mirror.co.uk/article37632112.ece/ALTERNATES/s1200d/1_Screenshot-2026-09-06-at-073431.jpg",
-                "url": "https://www.mirror.co.uk/news/world-news/ryazan-refinery-ukraine-drone-attack-37632096",
-                "source": "Daily Mirror",
-                "date": "2026-09-06T07:08:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-07T18:25:10.338460Z"
+    "lastGlobalSync": "2026-09-07T21:47:22.779341Z"
 }
