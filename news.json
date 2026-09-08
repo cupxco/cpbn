@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Global logistics giant DP World caught in name war in Kenya",
+                "desc": "DP World Logistics Clearing and Forwarding Kenya was initially incorporated as International Healthcare Distributors (EA) Limited before its name was changed to the current name on December 10...",
+                "image": "https://www.businessdailyafrica.com/resource/image/5447050/landscape_ratio3x2/1200/800/595c59a9cb10840b44db34021b71c56d/es/dpworld.jpg",
+                "url": "https://www.businessdailyafrica.com/bd/corporate/companies/global-logistics-giant-dp-world-caught-in-name-war-in-kenya-5587120",
+                "source": "Business Daily",
+                "date": "2026-09-07T17:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dangote Targets World’s Largest Refinery by 2028",
+                "desc": "The President and Chief Executive Officer of Dangote Group, Aliko Dangote, has said he is…",
+                "image": "https://editor.therealmediang.com/wp-content/uploads/2026/09/Dangote-Refinery.jpg",
+                "url": "https://therealmediang.com/business/dangote-targets-worlds-largest-refinery-by-2028",
+                "source": "Real Broadcasting Network",
+                "date": "2026-09-07T17:14:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Passengers back new publicly owned bus services in St Helens",
+                "desc": "Passengers have been welcoming new publicly owned bus services to St Helens.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5daa/live/1327a830-aab3-11f1-bdcc-b5edf6495ed5.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cly5m9nnlmno",
+                "source": "BBC",
+                "date": "2026-09-07T17:09:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A multitask framework for automated multi-frame right upper quadrant ultrasound interpretation and clinical decision support",
+                "desc": "Ultrasound is a cornerstone of emergency and hepatobiliary imaging, yet its interpretation remains highly operator-dependent and time-sensitive. Here, we present a multitask vision-language agent (VLM) developed to assist with right upper quadrant (RUQ) ultrasound interpretation across the diagnostic workflow. The system was trained on data from a single tertiary academic medical center (9189 cases, 594,099 images) and evaluated on datasets from two independent institutions (1704 cases, 90,616 images; and 108 cases, 3240 images). The agent integrates frame-level visual understanding with report-grounded language reasoning to perform three tasks: (i) classification of 16 clinical findings, (ii) generation of diagnostic reports, and (iii) surgical decision support based on ultrasound findings and clinical data. For classification, the model achieved macro areas under the receiver operating characteristic curve (AUROCs) of 0.820, 0.794, and 0.775 on the internal, University of Colorado, and Stanford cohorts, respectively, and an internal micro AUROC of 0.865. It also generated post-edited reports that were difficult for radiologists to distinguish from expert-written versions in blinded evaluations. The agent further predicted cholecystectomy using generated reports and clinical data. These results support further evaluation of vision-language models for improving diagnostic consistency, reporting efficiency, and surgical triage in ultrasound practice. Authors developed an AI system for interpreting multi-frame right upper quadrant ultrasound examinations. Across three institutions, it classified findings, generated reports, and predicted the need for cholecystectomy.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41467-026-77498-w?error=cookies_not_supported&code=110a3349-d3cc-47ae-9290-8d5069e31d46",
+                "source": "Nature",
+                "date": "2026-09-07T17:09:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Record fuel price rise sparks protests in Portugal",
+                "desc": "A go-slow protest and blaring car horns marked the day petrol and diesel prices rose again, reaching record highs, a trend seen across Europe.",
+                "image": "https://images.euronews.com/articles/stories/09/90/46/73/1200x675_cmsv2_b0ec695f-156f-53f8-9c4a-d22e0b96fc9f-9904673.jpg",
+                "url": "https://www.euronews.com/business/2026/09/07/record-fuel-price-rise-sparks-protests-in-portugal",
+                "source": "Euronews.com",
+                "date": "2026-09-07T17:07:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elon Musk Owns 28% of Tesla, a Stake Worth Nearly $350 Billion. Here's Why His Ownership Level Matters for Shareholders.",
+                "desc": "Tesla investors know it's often \"all about Elon,\" and there are pros and cons to Musk's sizable stake in the electric vehicle giant.",
+                "image": "https://s.yimg.com/lo/mysterio/api/9e943b190135c94dc0473f42950eb9d7516919e3200cf1e524569ec173bc49e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F41f87d82b75a08641cce68ce30b1d788.jpg",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-owns-28-tesla-170700943.html",
+                "source": "Yahoo Finance",
+                "date": "2026-09-07T17:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Recall issued for 1,500 pounds of pork products due to possible listeria",
+                "desc": "A recall has been issued for nearly 1,513 pounds imported ready-to-eat pork products due to possible listeria.",
+                "image": "https://ewscripps.brightspotcdn.com/dims4/default/ecfcc0d/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa9%2Fbf%2Ff1307a4b44d8965bfce16d32dee2%2Ftwo-slot-8.png",
+                "url": "https://www.scrippsnews.com/life/recalls/recall-issued-for-1-500-pounds-of-pork-products-due-to-possible-listeria",
+                "source": "Scripps News",
+                "date": "2026-09-07T17:04:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cardiff man jailed for 'crime spree' after stealing two cars",
+                "desc": "Liam McDonald, 35, committed several offences in Cardiff across three weeks in July.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6bbb/live/0abcea10-aac8-11f1-b109-879e35c24276.jpg",
+                "url": "https://www.bbc.com/news/articles/cddvzmpgzmvo",
+                "source": "BBC",
+                "date": "2026-09-07T17:03:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Property Insider: $2b Samson Corp’s problems with failed builder Vivian Construction",
+                "desc": "The Friedlander family’s $2 billion-plus business Samson Corporation has run into problems with a retail upgrade in Herne Bay, forcing it to replace Vivian...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/ABAYWAS3LBDIJHVVW5BQDTSJDY.jpg?auth=7ea8013addec91175c1076332a1ae9c605b3a61e2517ab1b5c9f0a187b3700b0&width=1200&height=675&quality=70&focal=351%2C328&smart=false",
+                "url": "https://www.nzherald.co.nz/property/property-insider-2b-samson-corps-problems-with-failed-builder-vivian-construction/premium/O3N52L2P7JE7VEGASFVEYC7GNY/",
+                "source": "NZ Herald",
+                "date": "2026-09-07T17:02:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain",
+                "desc": "Copper nears record highs on its longest weekly rally since 1994, as mine setbacks, Congo's export ban and a stalled US tariff decision squeeze supply.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-07_xomvohnsj6.jpg",
+                "url": "https://oilprice.com/Metals/Commodities/Coppers-Longest-Rally-Since-1994-Collides-With-a-Shrinking-Supply-Chain.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-09-07T17:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Cancelled GWR trains 'least bad choice'",
                 "desc": "GWR has taken five weekday services out of each day in Devon and Cornwall.",
                 "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cbcd/live/c967f1e0-aaae-11f1-9eba-7de947fa7cd1.jpg",
@@ -542,99 +632,99 @@
                 "source": "The Motley Fool",
                 "date": "2026-09-06T13:04:53Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "US tourism groups attempt to win Canadian visitors back",
-                "desc": "LAS VEGAS (AP) — Appeals from American tourism organizations seemed to be everywhere Josh Loewen looked over the last year. Billboards and banners proclaimed a state or city's love for Canada. Online and social media ads offered special deals for travelers from north of the border.",
-                "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/09/a13f06eef3c123d0b856cf6945e20da6f6efc4abf87e931ae4d88a54358d5e96.jpg",
-                "url": "https://toronto.citynews.ca/2026/09/06/us-tourism-groups-want-to-win-canadian-visitors-back-a-testy-trade-war-isnt-helping/",
-                "source": "CityNews Toronto",
-                "date": "2026-09-06T11:43:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A testy trade war threatens to keep Canadian travelers from the US",
-                "desc": "An acrimonious trade war between the United States and Canada is threatening to reinforce the resolve of Canadians who stopped visiting the U.S. last year.",
-                "image": "https://dims.apnews.com/dims4/default/2bc8d82/2147483647/strip/true/crop/4032x2687+0+169/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2F0f%2Fe17e46642499c5c1a1afced266cb%2F177963d79b5342fdaef651955a4aa9b9",
-                "url": "https://apnews.com/article/us-canada-travel-tourism-decline-trump-42ea6dd35e3ee24898f6a07495576435",
-                "source": "AP News",
-                "date": "2026-09-06T11:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prediction: Nvidia Will Join the Vanguard Russell 1000 Value ETF Before the End of the Year. Here's Why the ETF Is an Excellent Buy Now.",
-                "desc": "Nvidia is now consistently profitable and sports a reasonable valuation, making it a blend of growth and value.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885894%2Fnvidias-logo-on-a-sign-in-front-of-the-companys-headquarters-2.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/09/06/prediction-nvidia-will-join-the-vanguard-russell-1/",
-                "source": "The Motley Fool",
-                "date": "2026-09-06T11:40:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rafael’s Iron Dome plant in Germany may take a new turn as Volkswagen considers exit",
-                "desc": "The carmaker could reportedly abandon its Osnabrück plant, opening a possible route for Rafael to establish production there through a new ownership structure.",
-                "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/01/19/BJmP31nr11e/BJmP31nr11e_0_28_1280_721_0_large.jpg",
-                "url": "https://www.calcalistech.com/ctechnews/article/sy5rxc5dgg",
-                "source": "calcalistech.com",
-                "date": "2026-09-06T11:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Labor Day sales 2026: The best expert-approved deals from Amazon, Apple, Hoka, Patagonia and more up to 75% off",
-                "desc": "We found the best bargains to scoop up this holiday weekend, from fall wardrobe essentials to back-to-school tech.",
-                "image": "https://s.yimg.com/lo/mysterio/api/4d3a39e12b60c3f83fc39d86df6a55a7f817e2a17efc51d4a5711a70244930f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flabor-day-sales_1156.png",
-                "url": "https://shopping.yahoo.com/deals/breaking-news/article/labor-day-sales-2026-the-best-expert-approved-deals-from-amazon-apple-hoka-patagonia-and-more-up-to-75-off-204203986.html",
-                "source": "Yahoo",
-                "date": "2026-09-06T11:36:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CrossCountry cancels trains due to driver shortage",
-                "desc": "The train company has confirmed that disruptions will continue into Sunday evening.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c3f/live/a3a92e40-a9e3-11f1-803f-7f2a9199ddc4.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c8xkgkqjdqro",
-                "source": "BBC",
-                "date": "2026-09-06T11:34:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CRH: Strong Execution, But Arcosa Raises The Risk For A Hold",
-                "desc": "CRH rated Hold near $94: Arcosa's $8.5B deal boosts US infrastructure exposure but raises leverage. Click for more on CRH stock.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2207374231/image_2207374231.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4943405-crh-stock-strong-execution-but-arcosa-raises-the-risk-for-a-hold",
-                "source": "Seeking Alpha",
-                "date": "2026-09-06T11:32:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A drift adaptive framework for detecting and tracking evolving anomalies in financial transaction streams",
-                "desc": "Financial fraud detection is increasingly challenged by concept drift, evolving transaction behaviour, and adversarial adaptation, which can degrade conventional anomaly-detection methods under distributional change. Although unsupervised anomaly detection is widely used because labelled fraud data are scarce, most approaches identify anomalous transactions without preserving structural and temporal continuity of anomaly populations. This paper proposes HADA+ (Hybrid Anomaly Detection Architecture Plus), a sequential evolution-aware framework comprising Adaptive Anomaly Prioritization (AAP), Score-Aware Clustering (SAC), Optimal Transport Lifecycle Alignment (OTLA), and Lifecycle Evolution Modeling (LEM). Together, these components extend point-wise anomaly detection through drift-responsive prioritization, score-aware structural representation, cross-window alignment, and lifecycle analysis. HADA + was evaluated using the Credit Card Fraud dataset, a proprietary Mobile Banking transaction stream, a Synthetic Financial dataset with controlled concept drift, and a Controlled Lifecycle Validation Dataset with ground-truth lifecycle events. On the Credit Card Fraud dataset, HADA+ produced stable results across five random-seed executions, attaining ROC-AUC = 0.915219 ± 0.000954, PR-AUC = 0.068736 ± 0.000436, Precision@100 = 0.041943 ± 0.000180, F1@100 = 0.068992 ± 0.000337, and Evolution Continuity Score (ECS) = 0.755973 ± 0.000886. Similar stability was observed on the Synthetic Financial dataset. On the held-out Controlled Lifecycle Validation Dataset, HADA+ achieved a five-event macro-F1 of 0.9673, compared with 0.3674 for nearest-centroid matching, demonstrating stronger reconstruction across the five lifecycle-event classes. Progressive framework integration, continuity analysis, lifecycle validation, scalability evaluation, and statistical analysis demonstrate that HADA+ provides a reproducible, continuity-preserving, lifecycle-aware framework for analysing evolving anomaly populations under changing financial transaction distributions.",
-                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-                "url": "https://www.nature.com/articles/s41598-026-70457-x?error=cookies_not_supported&code=87ede07f-070b-4b81-afc9-469a5d1ff4aa",
-                "source": "nature.com",
-                "date": "2026-09-06T11:29:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Would you try an ostrich burger? Some say it tastes just like beef",
-                "desc": "U.S. ostrich farmers say they’re finding new customers who developed a red meat allergy triggered by tick bites.",
-                "image": "https://dims.apnews.com/dims4/default/76369bc/2147483647/strip/true/crop/4500x2998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F35%2F13%2F4a63e989df94377bfa12764cfb38%2F3da1c44719de47ed846337fee891ad3d",
-                "url": "https://apnews.com/article/kentucky-farm-alphagal-tick-ostrich-steak-allergy-15cedc20aac4f0650e0d24d05a577139",
-                "source": "AP News",
-                "date": "2026-09-06T11:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AMD: I'm Calling The First Peak Of The AI Mountain Range",
-                "desc": "Advanced Micro Devices is at a medium-term sentiment and valuation peak, with equity markets likely to reset before growth resumes. Read why AMD stock is a Hold.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/500369068/image_500369068.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4943404-amd-im-calling-the-first-peak-of-the-ai-mountain-range",
-                "source": "Seeking Alpha",
-                "date": "2026-09-06T11:24:14Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "New CG software you may have missed: 7 September 2026",
+                "desc": "Discover what's new in CG tools including LiquiGen, Unity, and free apps RealityScan Mobile, 3DGS Render for Blender, and Sisir.",
+                "image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260907_CGSoftwareYouMayHaveMissed7September2026_f-960x480.jpg",
+                "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-7-september-2026/",
+                "source": "CG Channel",
+                "date": "2026-09-07T17:17:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Retroid Just Teased Its Take On A Dual",
+                "desc": "While there aren't a ton of concrete details yet, the arrival of yet another dual-screen handheld is a great sign for fans of Nintendo old-school portables.",
+                "image": "https://www.engadget.com/img/gallery/retroid-is-the-latest-handheld-maker-to-recreate-the-nintendo-ds/l-intro-1788800903.jpg",
+                "url": "https://www.engadget.com/2252220/retroid-teases-upcoming-dual-screen-gaming-handheld/",
+                "source": "Engadget",
+                "date": "2026-09-07T17:15:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pokémon GO \"Harvest Festival: Applin Picking\" event announced for Sept. 29th, 2026",
+                "desc": "Tis (almost) the season",
+                "image": "https://gonintendo.com/attachments/image/85525/file/medium-b550d167ff8dcc3f0a62fbab4f3de027.jpg",
+                "url": "https://gonintendo.com/contents/64644-pokemon-go-harvest-festival-applin-picking-event-announced-for-sept-29th-2026",
+                "source": "GoNintendo",
+                "date": "2026-09-07T17:15:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Super Smash Bros and Nintendogs games are on the way, according to prominent Nintendo leaker",
+                "desc": "A prominent Nintendo leaker has spilled more information about the Switch 2's upcoming games, which include a Nintendogs comeback and a new Super Smash Bros.",
+                "image": "https://assetsio.gnwcdn.com/notn8ahnbkglatmokc86_KPGVfzt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/super-smash-bros-new-nintendogs-games-nintendo-leaker",
+                "source": "Eurogamer.net",
+                "date": "2026-09-07T17:14:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RugOne Xsnap 7 Pro: Detachable Action Camera Phone Review",
+                "desc": "The RugOne Xsnap 7 Pro features a detachable action camera, infrared night vision, and IP69K durability. Here's what the IFA 2026 award-winner gets right — and wrong.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/09/RugOne-Xsnap-7-Pro-Has-a-Camera-You-Can-Pull-Off-and-Use-Like-a-GoPro.jpg",
+                "url": "https://memeburn.com/rugone-xsnap-7-pro-detachable-camera-phone/",
+                "source": "Memeburn",
+                "date": "2026-09-07T17:12:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zeekr to address big in-car complaint",
+                "desc": "Zeekr has heard your feedback and more of its cars will get tactile buttons and dials as it...",
+                "image": "https://www.northweststar.com.au/images/transform/v1/crop/frm/silverstone-feed-data/abb277f5-337b-430a-b4b6-f0ba8f959ec0.jpg/r0_5_1910_1008_w1200_h630_fmax.jpg",
+                "url": "https://www.northweststar.com.au/story/9345673/zeekr-to-address-big-in-car-complaint/",
+                "source": "The North West Star",
+                "date": "2026-09-07T17:12:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zeekr to address big in-car complaint",
+                "desc": "Zeekr has heard your feedback and more of its cars will get tactile buttons and dials as it...",
+                "image": "https://www.standard.net.au/images/transform/v1/crop/frm/silverstone-feed-data/abb277f5-337b-430a-b4b6-f0ba8f959ec0.jpg/r0_5_1910_1008_w1200_h630_fmax.jpg",
+                "url": "https://www.standard.net.au/story/9345673/zeekr-to-address-big-in-car-complaint/",
+                "source": "The Standard | Warrnambool, VIC",
+                "date": "2026-09-07T17:11:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WindGroove Introduces AirFi One, a Ceiling-Based Home Entertainment System Combining Hi-Fi Sound, Light, and Airflow",
+                "desc": "The new premium smart technology brand reimagines the ceiling as an active layer for immersive audio, adaptive",
+                "image": "https://pix.xpr.media/p/eyJzIjoiMWE4YmY2MzgtYWExNi00NGUyLTk0ZWUtN2FmZWI1YjVkYmY1IiwiYyI6ImMzNGY2NWRlLTdiZjUtNDVkYi1iYWMzLTljZmM4MDdhMTExZCIsInYiOjF9.90lGNl3m7QdkCM1WStOiCXuuB1IYRwSRPL7gaThfBq8.gif",
+                "url": "https://www.usatoday.com/press-release/story/42290/windgroove-introduces-airfi-one-a-ceiling-based-home-entertainment-system-combining-hi-fi-sound-light-and-airflow/",
+                "source": "USA Today",
+                "date": "2026-09-07T17:10:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Five new iOS 27 Camera features found in beta code",
+                "desc": "Apple appears to be preparing a slate of more advanced photography tools for the iPhone, including exposure scopes, focus peaking, and expanded manual focus controls.",
+                "image": "https://media.appleinsider.com/gallery/68626-144584-000-lede-cameras-xl.jpg",
+                "url": "https://appleinsider.com/articles/26/09/07/apple-is-packing-more-pro-photography-tools-into-ios-27",
+                "source": "AppleInsider",
+                "date": "2026-09-07T17:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zeekr to address big in-car complaint",
+                "desc": "Zeekr has heard your feedback and more of its cars will get tactile buttons and dials as it...",
+                "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/abb277f5-337b-430a-b4b6-f0ba8f959ec0.jpg/r0_5_1910_1008_w1200_h630_fmax.jpg",
+                "url": "https://www.canberratimes.com.au/story/9345673/zeekr-to-address-big-in-car-complaint/",
+                "source": "The Canberra Times",
+                "date": "2026-09-07T17:09:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pokémon Go is Milking Mewtwo Too Hard, Fans Say, After a Lackluster Weekend Event Marred by More Server Issues",
                 "desc": "\"Armored Mewtwo will return.\"",
@@ -1174,99 +1264,99 @@
                 "source": "Phys.org",
                 "date": "2026-09-06T13:00:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The iKairos AI Pendant Is A Wearable That Can Also Be Your Desktop Robot Companion",
-                "desc": "The iKairos is an AI pendant that can watch your surroundings and surface relevant suggestions based on your daily life.",
-                "image": "https://s.yimg.com/lo/mysterio/api/eca0b4e929249e8d17d77585e4fc58416d39a3ff641f2a4b6a6a301b7bfc5cfb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F6addfd6e7a341150f96e8eef7a65db0a.jpg",
-                "url": "https://tech.yahoo.com/wearables/articles/ikairos-ai-pendant-wearable-desktop-114158128.html",
-                "source": "tech.yahoo.com",
-                "date": "2026-09-06T11:41:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Perfect for QHD gaming, this Ryzen 7 9800X3D and GeForce RTX 5070 Ti PC deal slashes $300 off and comes with tons of RAM and storage",
-                "desc": "You get 32GB of 6000MT/s DDR5 memory, 2TB of SSD storage, and an AIO liquid cooling soulution for the CPU, plus a free game!",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/09/Perfect-for-QHD-gaming-this-Ryzen-7-9800X3D-and-GeForce-RTX-5070-Ti-PC-deal-slashes-300-off-and-comes-with-tons-of-RAM-and-storage.jpg",
-                "url": "https://www.pcguide.com/deals/perfect-for-qhd-gaming-this-ryzen-7-9800x3d-and-geforce-rtx-5070-ti-pc-deal-slashes-300-off-and-comes-with-tons-of-ram-and-storage/",
-                "source": "pcguide.com",
-                "date": "2026-09-06T11:38:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tecno's borderless phone is equally beautiful and silly",
-                "desc": "Do you really mind the 2mm of bezels around the screen?",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/tecno-bezelless-in-hand-home-screen-1-1.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/first-bezelless-phone-is-as-impressive-as-it-is-stupid/",
-                "source": "Android Police",
-                "date": "2026-09-06T11:31:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LG’s Gram Book AI 2026 Notebooks Feature Intel’s Wildcat Lake CPUs And Promise Almost Double The MacBook Neo’s Battery Life, Surpassing Apple’s “Pro” Models",
-                "desc": "LG’s new Gram Book AI 2026 notebooks feature Intel’s Wildcat Lake CPUs and offer nearly double the battery life of the MacBook Neo, outperforming Apple’s “Pro” lineup in endurance",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/LG-Gram-Book-AI-2026-4.jpg",
-                "url": "https://wccftech.com/lg-gram-book-ai-2026-intel-wildcat-lake-battery-life-macbook-neo/",
-                "source": "Wccftech",
-                "date": "2026-09-06T11:30:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Save $200 off the price of this pet-hair-handling Robot Vacuum and Mop in Dreame deal",
-                "desc": "The Dreame L40 Ultra Gen 2 comes with 25,000Pa suction and is perfect for wood, marble, tile flooring, and can also handle carpets.",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/09/Save-200-off-the-price-of-this-pet-hair-handling-Robot-Vacuum-and-Mop-in-Dreame-deal.jpg",
-                "url": "https://www.pcguide.com/deals/save-200-off-the-price-of-this-pet-hair-handling-robot-vacuum-and-mop-in-dreame-deal/",
-                "source": "pcguide.com",
-                "date": "2026-09-06T11:29:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Range Title For Four Consecutive Generations, New Model Teased",
-                "desc": "The HONOR X Series has held the top position in Malaysia's mid-range smartphone segment for 37 consecutive months, with a next-generation model, the X9e Pro, set to be announced on 7 September 2026.",
-                "image": "https://cdn.pokde.net/wp-content/uploads/2026/09/06190311/honorxseriesbestsellingcover.jpg",
-                "url": "https://pokde.net/gadget/smartphone/honor-x-series-malaysia-best-selling-mid-range",
-                "source": "Pokde.Net",
-                "date": "2026-09-06T11:25:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Celebrating the 60th birthday of British drag racing’s home",
-                "desc": "Santa Pod has drawn competitors and fans from all over the world during the past six decades and there have been plenty of memorable moments along the way",
-                "image": "https://cdn-9.motorsport.com/images/amp/2jEAEyM0/s6/harold-bull-john-whitmore-1972.jpg",
-                "url": "https://www.autosport.com/national/news/celebrating-the-60th-birthday-of-british-drag-racings-home/10851435/",
-                "source": "Autosport",
-                "date": "2026-09-06T11:22:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hackers Exploiting MikroTik RouterOS Vulnerability in the Wild to Gain Complete Network Access",
-                "desc": "Attackers are actively exploiting an unauthenticated remote access flaw in MikroTik RouterOS, and network administrators worldwide are being urged to patch their devices immediately before compromise turns into a full network takeover.",
-                "image": "http://cybersecuritynews.com/wp-content/uploads/2026/09/MikroTik-RouterOS-Vulnerability.webp",
-                "url": "https://cybersecuritynews.com/mikrotik-routeros-vulnerability/",
-                "source": "CyberSecurityNews",
-                "date": "2026-09-06T11:16:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Insta360 Wants In on the Big Labor Day Sales, Marks Down Its Waterproof X5 Action Camera to a Record Low",
-                "desc": "Head to Amazon and grab this rugged 8K action cam for 15% less before this deal ends.",
-                "image": "https://gizmodo.com/app/uploads/2026/05/insta360-x5-cam-1200x675.jpg",
-                "url": "https://gizmodo.com/insta360-wants-in-on-the-big-labor-day-sales-marks-down-its-waterproof-x5-action-camera-to-a-record-low-2000807164",
-                "source": "Gizmodo",
-                "date": "2026-09-06T11:15:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "85 inch monster Hi-QLED TV from Hisense is 44% off in Amazon deal, but for today only, so act fast and save over a grand!",
-                "desc": "This fantastically bright, high-end TV is the perfect home cinema experience, and with its 165Hz refresh rate, it’s also excellent for gaming.",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/09/85-inch-monster-Hi-QLED-TV-from-Hisense-is-44-off-in-Amazon-deal-but-for-today-only-so-act-fast-and-save-over-a-grand.jpg",
-                "url": "https://www.pcguide.com/deals/85-inch-monster-hi-qled-tv-from-hisense-is-44-off-in-amazon-deal-but-for-today-only-so-act-fast-and-save-over-a-grand/",
-                "source": "PC Guide",
-                "date": "2026-09-06T11:15:08Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "King Charles clarifies status of Prince Harry and Meghan in a letter after their return to the UK",
+                "desc": "King Charles III has reiterated that Prince Harry and his wife, Meghan, remain non-working members of the royal family following their return to the United Kingdom.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/AP26238447694407-1024x686.jpg",
+                "url": "https://www.pbs.org/newshour/world/king-charles-clarifies-status-of-prince-harry-and-meghan-in-a-letter-after-their-return-to-the-uk",
+                "source": "pbs.org",
+                "date": "2026-09-07T17:18:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Serbian government sets up snap vote with call to dissolve parliament",
+                "desc": "Upcoming election viewed as bid to tighten President Vucic’s rule after months of mass street protests.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9ede57e4-1788796503.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/9/7/serbian-government-opens-route-to-snap-vote-with-call-to-dissolve-parliament",
+                "source": "Al Jazeera",
+                "date": "2026-09-07T17:16:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ethiopia's Tigray rebels say Olusegun Obasanjo not impartial in peace talks",
+                "desc": "Although we remain firmly committed to peace and credible dialogue, we have not found in (Obasanjo) the impartial and proactive mediator required by the gravity of the present crisis.",
+                "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/1z2bN7liMWSJ5IXa5ukfLeWMKzR52MZVfkiYtRWD.jpg",
+                "url": "https://www.standardmedia.co.ke/africa/article/2001557238/ethiopias-tigray-rebels-say-olusegun-obasanjo-not-impartial-in-peace-talks",
+                "source": "standardmedia.co.ke",
+                "date": "2026-09-07T17:16:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stakeholders: Climate finance still out of reach for Africa’s farmers",
+                "desc": "Expert says climate finance needs to reach agricultural businesses in a form they can use",
+                "image": "https://cdn.radioafrica.digital/image/2026/09/72f7c7ec-2121-4823-8629-cf8553eb9f0d.webp?1788812079234",
+                "url": "https://www.the-star.co.ke/climate-change/2026-09-07-stakeholders-climate-finance-still-out-of-reach-for-africas-farmers",
+                "source": "the-star.co.ke",
+                "date": "2026-09-07T17:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN Talks on Killer Robots ends with Calls for Negotiations Growing",
+                "desc": "States at the final session of the Convention on Conventional Weapons (CCW) Group of Governmental Experts (GGE) on Lethal Autonomous Weapons Systems demonstrated a commitment to complete their mandate and advance toward negotiations of a legally binding instrument, which would govern the use of autonomous weapons. The final report does not, however, fully reflect the breadth of progress achieved at the GGE. Nevertheless, the adopted final text provides a sufficient foundation for launching negotiations. The November CCW Review Conference is now a decisive moment where states should adopt a mandate to begin negotiations on a new law.",
+                "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2025/04/202504cca_autonomousweapon_illustration_0.jpg?h=a411d77e&itok=k0Gt3KiD",
+                "url": "https://www.hrw.org/news/2026/09/07/un-talks-on-killer-robots-ends-with-calls-for-negotiations-growing",
+                "source": "Human Rights Watch",
+                "date": "2026-09-07T17:15:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prince Harry makes first official appearance after King Charles letter",
+                "desc": "Prince Harry broke cover with a surprise visit to a central London podcast studio, his first official appearance since returning to the UK.The Duke of Sussex's outing comes after King Charles issued a stern letter about the...",
+                "image": "https://www.geo.tv/assets/uploads/updates/2026-09-07/681055_101600_updates.jpg",
+                "url": "https://www.geo.tv/latest/681055-prince-harry-makes-first-official-appearance-after-king-charles-letter",
+                "source": "Geo News",
+                "date": "2026-09-07T17:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Barloworld signs distribution deal with Hermann Paus Maschinenfabrik",
+                "desc": "Today, at Electra Mining Africa 2026 in Nasrec, Johannesburg, Barloworld signed a new distribution agreement with Hermann Paus Maschinenfabrik GmbH, bringing the German manufacturer’s underground mining vehicle range into our offering across Barloworld’s operating countries which include South Africa, Swaziland, Botswana, Lesotho, Malawi, Mozambique, Zambia, Angola, Zimbabwe. PAUS builds specialised vehicles for underground mining and",
+                "image": "https://im-mining.com/site/wp-content/uploads/2026/09/1788780168628.jpg",
+                "url": "https://im-mining.com/2026/09/07/barloworld-signs-distribution-deal-with-hermann-paus-maschinenfabrik/",
+                "source": "International Mining",
+                "date": "2026-09-07T17:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Egyptian foreign minister praises ties with Somalia, warns against violating its sovereignty",
+                "desc": "Egyptian Foreign Minister Badr Abdelatty praised the significant development in ties with Somalia and warned against any unilateral measures that could compromise or diminish the country's sovereignty, during talks with his Somali counterpart on Monday. Meeting with Somali Foreign Minister Abdusalam Abdi Ali in Cairo, Abdelatty reaffirmed Egypt's full support for the unity, sovereignty,",
+                "image": "https://images.dailynewsegypt.com/2026/09/Egyptian-foreign-minister-praises-ties-with-Somalia-warns-against-violating-its-sovereignty-.jpeg",
+                "url": "https://www.dailynewsegypt.com/2026/09/07/egyptian-foreign-minister-praises-ties-with-somalia-warns-against-violating-its-sovereignty/",
+                "source": "dailynewsegypt.com",
+                "date": "2026-09-07T17:13:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Global Fault Lines Deepen as Conflict, Economic Strains and Climate Risks Converge",
+                "desc": "By Yordanos D.\nSept. 7, 2026 (ENA)\nIn the week ranging from August 28 to September 5, 2026, the world experienced overlapping security, economic, environmental, and humanitarian challenges, with developments across Africa, Europe, Asia, the Middle East, and the Americas demonstrating the increasingly interconnected nature of global affairs. Conflicts continued to affect energy markets and diplomatic relations, while economic pressures, climate risks, humanitarian emergencies, and technological competition crossed regional boundaries. At the same time, countries in the Pacific and other vulnerable regions continued to call for stronger international cooperation as global challenges increasingly transcend national borders.\nPeace and Security\nThe world witnessed a complex array of overlapping security challenges across multiple continents, illustrating how local instability rapidly reverberates through global trade, energy supply chains, and international relations. Major power rivalries, ongoing armed conflicts, and non-traditional threats continued to destabilize key strategic regions, highlighting the delicate balance between diplomatic efforts and escalating volatility on the ground.\nOne among these is the Russia Ukraine conflict which remained one of the central security concerns in Europe during the week, as diplomatic contacts involving the United States and Russia raised cautious hopes for renewed negotiations.\nHowever, disagreements over territory, security guarantees and Ukraine's future continued to complicate efforts to achieve a durable settlement, while continued military attacks underscored the gap between diplomatic engagement and an effective ceasefire. The conflict also continued to have implications beyond Europe, particularly through its effects on energy supplies, food markets and international security calculations.\nMeanwhile, tensions involving the United States and Iran remained a major threat to stability in the Middle East, with developments surrounding the Strait of Hormuz drawing particular international attention because of the waterway's importance to global energy transportation.\nAny prolonged confrontation in the region could therefore have consequences far beyond the Middle East, particularly for energy dependent economies in Asia and Europe.\nIn Africa, Sudan remained one of the continent's most serious security and humanitarian emergencies, while instability in parts of the Sahel continued to challenge governments and regional organizations. In the Horn of Africa, security concerns, political stability and access to strategic maritime routes likewise remained closely interconnected.\nElsewhere, Asia continued to face security pressures linked to territorial disputes, military competition and strategic rivalry among major powers. The region's position along some of the world's most important trade and maritime routes means that instability in the Middle East can quickly influence Asian security and economic calculations.\nIn the Americas, Haiti's prolonged security crisis remained a major concern, with gang violence, weak state institutions and humanitarian pressures creating a complex emergency that requires both security measures and political solutions. At the same time, Pacific island countries increasingly view climate change itself as a security challenge, as rising sea levels, extreme weather, food insecurity and potential displacement threaten the long-term stability of vulnerable communities.\nGlobal Economy, Trade and Energy\nEconomic developments during the week continued to demonstrate how closely national economies are linked to geopolitical events. Europe remained under pressure from the economic consequences of the Russia Ukraine war and elevated energy costs, prompting governments to strengthen energy security, diversify supplies and expand renewable energy. These efforts have also gained strategic importance as European countries seek to reduce vulnerabilities created by dependence on external energy sources.\nThe situation in the Middle East remained particularly important for Asia, where many economies depend heavily on imported energy. Any prolonged disruption around the Strait of Hormuz could raise transportation and production costs and contribute to broader inflationary pressures.\nAt the same time, Asian economies continued to occupy a central position in global manufacturing and the production of electric vehicles, batteries and renewable energy technologies.\nAcross Africa, governments continued to confront the difficult task of financing infrastructure, energy and industrial development while managing debt pressures, food insecurity and climate related economic losses. Consequently, many African countries are seeking investment partnerships that can promote manufacturing, value addition and renewable energy rather than relying primarily on exports of raw materials.\nIn North America, policies adopted by the United States on tariffs, technology, energy and strategic supply chains continued to influence global trade patterns and relations with major economic powers.\nIn Latin America, meanwhile, governments continued to balance economic growth with the need to expand clean energy investment and reduce excessive dependence on commodity exports. The region's reserves of lithium, copper and other strategic minerals, together with its agricultural production, have increased its importance to the global energy transition.\nClimate Change and the Environment\nClimate change continued to emerge as both an environmental and development challenge across continents.\nIn Africa, changing weather patterns are affecting agriculture, water availability, food security and livelihoods, encouraging governments to link climate adaptation with agricultural modernization, renewable energy and environmental restoration.\nSimilar pressures are being felt across Asia, where extreme heat, flooding, storms and other climate hazards are placing growing demands on infrastructure, agriculture and public services. The region's rapid economic growth makes it both highly exposed to environmental risks and central to global efforts to reduce greenhouse gas emissions.\nEurope continued to advance policies aimed at reducing emissions and expanding renewable energy, while increasingly linking climate policy with energy independence, industrial competitiveness and national security.\nIn North America, the United States and Canada continued to confront wildfires, extreme weather and other climate related risks while debating the pace of the transition from fossil fuels to cleaner energy sources. In Latin America, the Amazon remained at the center of international environmental discussions, with deforestation, biodiversity protection, agricultural expansion and the rights of indigenous communities continuing to influence policy debates.\nFor Pacific Island states, however, climate change represents a particularly immediate threat. Rising sea levels, coastal erosion, extreme weather and changing patterns of food and water availability are placing pressure on communities whose economies and territorial security are closely tied to the ocean. Consequently, Pacific leaders continue to call on major emitters to strengthen climate action and uphold efforts to limit global warming to 1.5°C.\nGlobal Health and Humanitarian Affairs\nHealth and humanitarian challenges continued to intersect with conflict, displacement, climate change and economic insecurity.\nAcross Africa, health systems in several countries remained under pressure from armed conflict, population displacement and disease outbreaks. The Democratic Republic of the Congo's experience with Ebola has underscored the continuing importance of rapid disease surveillance, vaccination and international cooperation, while access to affordable treatment for conditions such as sickle cell disease remains an important public health priority. In conflict affected areas, the destruction of health infrastructure and displacement of communities further complicate efforts to provide basic medical services.\nIn Asia, governments continued to strengthen disease surveillance and preparedness based on lessons from previous global outbreaks. Dense populations, rapid urbanization and extensive international travel make regional cooperation especially important in limiting the spread of infectious diseases.\nEurope, for its part, continued to strengthen public health preparedness while confronting the combined pressures of aging populations, migration and growing demands on health systems.\nAcross the Americas, unequal access to healthcare, infectious diseases, chronic illnesses and humanitarian emergencies remained important concerns, with Haiti providing a particularly clear example of how insecurity can severely disrupt healthcare delivery.\nThe humanitarian consequences of conflict remained especially severe in the Middle East, where displacement and damage to health services continued to place civilian populations at risk.\nHumanitarian organizations have therefore continued to call for civilian protection and expanded access to medical assistance.\nMeanwhile, Pacific countries face distinctive health risks associated with climate change, including heat stress, food insecurity, water shortages and the spread of climate sensitive diseases, demonstrating how environmental pressures can increasingly become public health emergencies.\nDiplomacy and International Relations\nDiplomatic activity during the week reflected the growing need for countries to address security, economic and environmental challenges collectively.\nIn Africa, governments continued to strengthen partnerships focused on trade, investment, peace and development, while regional organizations faced continued pressure to improve mechanisms for resolving conflicts and responding to unconstitutional changes of government.\nIn Europe, the Ukraine conflict remained a dominant issue in diplomatic discussions as governments sought to maintain support for Ukraine while preserving transatlantic cooperation and addressing the continent's energy and security concerns.\nAcross Asia, strategic competition involving China, the United States, India, Japan and other major powers continued to shape diplomatic relations. Economic partnerships, maritime security, technology and supply chains have increasingly become integral components of foreign policy, illustrating how diplomacy is no longer confined to traditional political and security matters.\nIn the Middle East, diplomatic efforts remained focused on containing regional conflicts and preventing further escalation, particularly as tensions involving Iran and the United States demonstrated how instability in the region can affect international security and the global economy.\nAt the same time, Pacific island states continued to use international diplomacy to elevate climate change, ocean governance and sustainable development as central foreign policy and security priorities. Their efforts reflect a broader shift in international diplomacy toward recognizing environmental and developmental challenges as matters of global security.\nTechnology, Innovation and Strategic Competition\nTechnology remained another major arena of international competition, with the United States continuing to occupy a central position in global efforts involving artificial intelligence, semiconductors, advanced computing and other strategic technologies.\nAsian economies, particularly China, Japan, South Korea and India, continued to expand investment in artificial intelligence, semiconductor manufacturing, electric vehicles and renewable technologies.\nAs a result, technological competition is becoming increasingly intertwined with national security, economic independence and control over strategic supply chains.\nEurope likewise continued efforts to strengthen technological sovereignty and reduce dependence on external suppliers for critical technologies, energy systems and digital infrastructure.\nIn Africa, governments are increasingly turning to digital transformation, artificial intelligence, fintech and digital public infrastructure to expand economic opportunities and improve public services. Latin American countries are similarly seeking to develop digital economies and technology-based industries while attracting investment in critical minerals and clean energy technologies.\nFor Pacific Island countries, the technological challenge is somewhat different but equally important. Reliable digital connectivity remains essential for improving access to education, healthcare, disaster response and international markets.\nThus, while major powers compete over advanced technologies, smaller and developing economies continue to focus on ensuring that digital transformation contributes to inclusion, resilience and sustainable development.\nFood, Water and Human Security\nFood and water security remained closely linked to conflict, climate change and economic conditions. In Africa, food insecurity continued to be driven by conflict, drought, displacement and economic pressures, making investment in irrigation, agricultural productivity and climate resilient farming increasingly important for long term stability.\nIn Asia, water shortages, food prices and agricultural resilience remained significant concerns, particularly as climate change places additional pressure on freshwater resources and food production.\nThe Middle East continued to face particularly acute water security challenges, where limited freshwater resources, population growth, climate change and political tensions are increasing competition over water.\nIn Europe, the continuing consequences of the Ukraine war remained relevant to agricultural markets, grain supplies and fertilizer prices, with effects extending well beyond the continent.\nThe Americas continued to serve as major suppliers of agricultural commodities to global markets, meaning that droughts, floods and other climate shocks in North and South America can influence food prices and supply chains worldwide.\nPacific island states, meanwhile, remain especially vulnerable to food and water insecurity because of limited arable land, dependence on imported food and the growing effects of rising sea levels and extreme weather.\nThese pressures illustrate how food, water and environmental security are increasingly inseparable and why solutions require cooperation across regions rather than isolated national responses.\nGlobal Outlook\nThe week's developments demonstrate that peace, economic security, climate change, health, food security, technology and diplomacy can no longer be treated as separate global issues.\nA conflict in one region can disrupt energy supplies and food markets thousands of kilometers away. Climate shocks can increase food insecurity, displacement and migration, while health emergencies can quickly become economic and humanitarian crises. Similarly, diplomatic tensions can influence trade, investment, technology and access to strategic resources.\nLooking ahead, global developments are likely to be shaped not only by individual conflicts or national policies but also by the ability of countries to cooperate across regions.\nThe challenge for the international community is increasingly interconnected: maintaining peace while building resilient economies, responding to climate change, protecting public health, securing food and water supplies, and ensuring that technological and economic transformation creates opportunities across all continents.\nSources: The roundup draws on reporting and analysis from major international and regional media and institutional sources including Reuters, AP, BBC, Al Jazeera, The Guardian, CNN, France 24, DW, Africanews, Euronews, The New York Times, The Washington Post, Bloomberg and Financial Times.",
+                "image": "https://www.ena.et/documents/42142/0/global+information.jpg/584c7134-782c-0992-e011-a29731ba9f28?version=1.0&t=1788800565265&download=true",
+                "url": "https://www.ena.et/web/eng/w/eng_9517479",
+                "source": "ENA English",
+                "date": "2026-09-07T17:12:27Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Ukraine: Zelenskyy says war looks set to go on into winter",
+                "desc": "Ukrainian President Volodymyr Zelenskyy says there appears to be no end in sight in Russia's war against his country. His words come after another round of US-led diplomacy. DW has the latest.",
+                "image": "https://static.dw.com/image/79136745_6.jpg",
+                "url": "https://www.dw.com/en/ukraine-zelenskyy-says-war-looks-set-to-go-on-into-winter/live-79135930",
+                "source": "dw.com",
+                "date": "2026-09-07T17:10:50Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "BRICS countries strengthen technological sovereignty through cooperation",
                 "desc": "Practical cooperation between BRICS countries in digital technologies is already delivering tangible results",
@@ -1806,98 +1896,8 @@
                 "source": "EnviroNews Nigeria",
                 "date": "2026-09-06T12:44:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Farage wraps up party conference as he says he 'wasn't listening' during foreign donor talks filmed undercover",
-                "desc": "During the conference, several men attack a woman, pulling her hair and hitting her with a walking stick.",
-                "image": "https://img2.thejournal.ie/article/7154247/river/?height=400&version=7154252",
-                "url": "https://www.thejournal.ie/reform-uk-party-conference-farage-7154247-Sep2026/",
-                "source": "The Journal",
-                "date": "2026-09-06T11:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Another volcano erupts simultaneously with Anak Krakatau, confirms the geological agency",
-                "desc": "Simultaneously with the massive eruption of Anak Krakatau in Indonesia, Semeru volcano on the island of Java erupted as well",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/09/06/4095850.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/06/another-volcano-erupts-simultaneously-with-anak-krakatau-confirms-the-geological-agency",
-                "source": "The Star",
-                "date": "2026-09-06T11:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Air quality in Singapore remains moderate",
-                "desc": "Air quality in Singapore remained moderate on September 6, with the 24-hour PSI ranging from 72 to 87 across different parts of the country.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/singapore_air_quality_remains_moderate_a_1788694453221.webp",
-                "url": "https://ua.news/en/world/u-singapuri-iakist-povitria-zalishaietsia-na-pomirnomu-rivni",
-                "source": "UA.NEWS",
-                "date": "2026-09-06T11:40:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Green Card Lottery: Full List of African Countries Selected for the 2026 Diversity Visa Programme",
-                "desc": "The US has released the full list of countries whose citizens were selected for the 2026 Diversity Visa Programme, including several African nations.",
-                "image": "https://cdn.legit.ng/images/1200x675/7868076b656306ce.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1729253-us-green-card-lottery-full-list-african-countries-selected-2026-diversity-visa-programme/",
-                "source": "Legit News",
-                "date": "2026-09-06T11:40:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukrainian Embassy in Sweden presents winter energy campaign to support Ukraine",
-                "desc": "Ukraine’s Embassy in Sweden presented the Warm Ukraine campaign, bringing communities, businesses, and partners together to support critical infrastructure before winter.",
-                "image": "https://mezha.net/eng/kd_image_generate/cdb22fdc_ukrainian_embassy_in/3714359.jpg?ver=2.0.15",
-                "url": "https://mezha.net/eng/news/cdb22fdc_ukrainian_embassy_in/",
-                "source": "Межа. Новини України.",
-                "date": "2026-09-06T11:39:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "run near his Limerick home as he played on toy tractor",
-                "desc": "Peter Mulcaire was tragically pronounced dead after he suffered catastrophic injuries when he was struck by a Jeep in Rathkeale, Co Limerick",
-                "image": "https://i2-prod.mirror.co.uk/article37632673.ece/ALTERNATES/s1200d/0_Dublin-stabbing.jpg",
-                "url": "https://www.mirror.co.uk/news/world-news/peter-mulcaire-dead-rathkeale-limerick-37632672",
-                "source": "Mirror",
-                "date": "2026-09-06T11:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Flights canceled, airports shut over Indonesia volcanic eruption",
-                "desc": "Indonesia was forced to cancel flights at Jakarta International Airport and service at other domestic airports were also disrupted Sunday when Anak...",
-                "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/06/thumbs/1200x675/459326.jpg",
-                "url": "https://www.dailysabah.com/world/asia-pacific/flights-canceled-airports-shut-over-indonesia-volcanic-eruption",
-                "source": "Daily Sabah",
-                "date": "2026-09-06T11:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia’s Lavrov Calls Accusations of Moscow’s Involvement in Leipzig Drone Incident ‘Start of Real War'",
-                "desc": "Russian Foreign Minister Sergei Lavrov said on Sunday that the accusations levelled at Moscow by the West that it was involved in the drone incident at Germany's Leipzig airport were, \"by and large, the start of a real war,\" state news agency TASS reported.",
-                "image": "https://static.themoscowtimes.com/image/og/18/93646__18c3e07351f6780e88d529ae967d0731.jpg",
-                "url": "https://www.themoscowtimes.com/2026/09/06/russias-lavrov-calls-accusations-of-moscows-involvement-in-leipzig-drone-incident-start-of-real-war-a93646",
-                "source": "The Moscow Times",
-                "date": "2026-09-06T11:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US envoys arrive in Kyiv after talks with Putin in Moscow",
-                "desc": "US envoys Jared Kushner and Steve Witkoff have met with Ukrainian President Volodymyr Zelensky in Kyiv as the Trump administration renewed its push to end Russia's four-and-a-half-year war in Ukraine.",
-                "image": "https://www.rte.ie/images/0024f638-1600.jpg",
-                "url": "https://www.rte.ie/news/2026/0906/1590482-ukraine-kushner-witkoff/",
-                "source": "RTE.ie",
-                "date": "2026-09-06T11:27:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump envoys arrive in Kyiv after meeting Putin in Moscow",
-                "desc": "Steve Witkoff and Jared Kushner to hold talks with Ukrainian president Volodymyr Zelenskiy amid widespread scepticism over proposals to end war",
-                "image": "https://www.irishtimes.com/resizer/v2/WW62TTIT5A7WM2LBI7DINZ2EJQ.jpg?smart=true&auth=a3af58ccd75c8f36227e19953392bfa488886da556efdb58c61dcc74287a2319&width=1200&height=630",
-                "url": "https://www.irishtimes.com/world/europe/2026/09/06/trump-envoys-arrive-in-kyiv-after-meeting-putin-in-moscow/",
-                "source": "The Irish Times",
-                "date": "2026-09-06T11:22:36Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-08T00:08:18.978237Z"
+    "lastGlobalSync": "2026-09-08T05:19:15.409917Z"
 }
