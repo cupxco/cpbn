@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
+                "desc": "Wistron shares fall Tuesday after announcement of $1.5 billion global share sale",
+                "image": "https://image.cnbcfm.com/api/v1/image/108359544-1788833315910-gettyimages-1068707682-GC041570.jpeg?v=1788833521&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
+                "source": "CNBC",
+                "date": "2026-09-08T02:44:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Make local jobs more economically attractive, says Johari",
+                "desc": "KUALA LUMPUR: Malaysians are willing to work, but jobs must offer enough economic value to make them worth taking, says Datuk Seri Johari Abdul Ghani.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/09/08/4098782.jpg",
+                "url": "https://www.thestar.com.my/news/nation/2026/09/08/make-local-jobs-more-economically-attractive-says-johari",
+                "source": "The Star",
+                "date": "2026-09-08T02:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elijah Pies opens in Joo Chiat with new menu items",
+                "desc": "Elijah Pies opens its Joo Chiat flagship with souffle pies, savoury “pizza pies”, mocktails and dog-friendly treats in a heritage shophouse.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--Ih98ZaxT--/c_crop,h_1125,w_2000,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/07/kel_6042.jpg?itok=HN0eswc0",
+                "url": "https://cnalifestyle.channelnewsasia.com/dining/elijah-pies-joo-chiat-outlet-new-588686",
+                "source": "CNA Lifestyle",
+                "date": "2026-09-08T02:41:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China’s export machine strengthens in August as US critiques trade imbalance",
+                "desc": "While Western officials still name China’s trade surplus as an area of concern, analysts said the 2026 surplus is on track to beat last year’s record.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/08/5e1f1e5b-bbf9-4514-8958-77a2ce733ef2_eeaecec0.jpg?itok=EI_6xtRd&v=1788835261",
+                "url": "https://www.scmp.com/economy/economic-indicators/article/3366704/chinas-export-machine-strengthens-august-despite-weather-disruptions-trade-headwinds",
+                "source": "scmp.com",
+                "date": "2026-09-08T02:41:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pakistan’s Nepra approves charges for competitive power market",
+                "desc": "Pakistan’s Nepra approved system charges for large electricity consumers, paving the way for a 400 MW competitive auction.",
+                "image": "https://cdn-cabinet.ua.news/uploads/images/pakistan_nepra_approves_competitive_powe_1788834423499.webp",
+                "url": "https://ua.news/en/energetika/u-pakistani-nepra-zatverdiv-sistemni-zbori-dlia-konkurentnogo-rinku-elektroenergiyi",
+                "source": "ua.news",
+                "date": "2026-09-08T02:40:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dell Stock Jumped 15% Last Week. Here's Why This Top AI Stock Is Still a Buy",
+                "desc": "Demand for artificial intelligence (AI) infrastructure is booming.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886585%2Fai-stocks-gettyimages-1275073399-1801x1013-8f084ef.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/09/07/dell-stock-why-top-ai-stock-is-a-buy/",
+                "source": "The Motley Fool",
+                "date": "2026-09-08T02:40:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SACNN: a spatial attentive 2D CNN for improved accuracy and interpretability in ECG image classification",
+                "desc": "Deep Learning models have shown strong performance in ECG analysis. However, many existing models operate as black-box systems or depend on post-hoc explainable techniques, limiting transparency. Moreover, attention-based mechanisms have focused on 1D ECG signals with limited exploration of ECG images. In this research, we propose a Spatial Attention-based 2D Convolutional Neural Network (SACNN) with an intrinsic attention mechanism that enhances model transparency by highlighting regions emphasized during feature extraction. The incorporation of Spatial attention into the 2D-CNN within the learning process aided in visualizing image regions emphasized by the model without requiring post-hoc explainability methods. The experimental analysis showed classification performance with an accuracy of up to 0.98 on a single split and consistent performance with a mean accuracy of 0.93 under stratified k-fold cross-validation. Statistical hypothesis testing confirmed that the performance improvements of SACNN over the evaluated baseline CNN models were statistically significant (p<0.05) and associated with large effect sizes. Furthermore, the model maintains its attention on waveform-dominant areas over background regions and exhibits robustness under noise perturbations. The quantitative analysis of attention distribution in the heatmaps, supported by expert assessment, indicates that the learned attention behavior is spatially reasonable. This work represents a foundational step toward transparent deep learning frameworks for ECG image analysis and highlights the potential of intrinsic attention heatmaps to improve transparency and facilitate visual assessment of model attention.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-70023-5?error=cookies_not_supported&code=60dd6dc5-3c76-4aba-a4ee-c62ec4742787",
+                "source": "Nature",
+                "date": "2026-09-08T02:40:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Assessment of threshold-based infarct core and penumbra segmentations from spectral CT angiography iodine density maps",
+                "desc": "CT perfusion (CTP) can differentiate infarct core (IC), penumbra (PEN), and healthy area (HA) in acute ischemic stroke. Quantitative iodine density maps from spectral CT angiography (CTA) may offer a lower-dose alternative. This study evaluated whether thresholding relative iodine density (rID) can reproduce CTP-derived IC and PEN segmentations. Thirty-nine patients with proximal middle cerebral artery occlusion undergoing spectral non-contrast CT, CTP, and CTA were included. rID thresholds differentiating IC, PEN, and HA were determined by region-level Youden-index and voxel-level Dice score optimization. rID-thresholded volumes were compared with CTP-derived volumes using Bland–Altman analysis and Pearson correlation. Region-level optimization yielded significant separation between tissue classes with rID thresholds of 0.58 (IC/PEN) and 0.83 (PEN/HA). However, voxel-level thresholding overestimated IC volumes (bias = 110 ml) and underestimated PEN volumes (bias = − 39 ml). Dice-optimized thresholds of 0.32 (IC/PEN) and 0.67 (PEN/HA) markedly reduced IC bias (− 4 ml) and showed moderate correlation with CTP-derived IC volumes (r = 0.63), although limits of agreement remained wide (± 132 ml). PEN volumes showed no correlation with CTP-derived volumes. These exploratory findings suggest that spectral CTA has potential for IC estimation, but the current wide limits of agreement rule out reliable individual-patient use, warranting methodological improvement.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-66077-0?error=cookies_not_supported&code=dd8659bf-1aec-40be-8480-7837c3fc6ecd",
+                "source": "Nature",
+                "date": "2026-09-08T02:40:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "XPeng starts IRON humanoid robot production as Tesla Optimus stalls",
+                "desc": "XPeng commissioned the world's first automated humanoid robot production line, and its IRON robot walked off it. Mass production is due by the end of 2026.",
+                "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/xpeng-iron-production-line.png?resize=1200,628",
+                "url": "https://electrek.co/2026/09/07/xpeng-iron-humanoid-robot-production-line/",
+                "source": "Electrek",
+                "date": "2026-09-08T02:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3 U.S. Aerospace Stocks With Domestic Supply Chain Exposure",
+                "desc": "Trade friction between Washington and Ottawa has quickly turned from headlines into hard questions for aerospace and defense stocks. Trump’s threat to block Bombardier from the U.S. market unless it builds there, combined with broad Canadian tariffs on U.S. goods, is reshaping supply chains and competition. This article walks through three U.S.- and Canada-listed aerospace stocks exposed to this news and why their stories may matter for your portfolio right now.\nThe stocks below are just a...",
+                "image": "https://images.simplywall.st/asset/industry/3072000-choice2-main-header/1585186655182",
+                "url": "https://simplywall.st/stocks/us/capital-goods/nyse-tkr/timken/news/3-us-aerospace-stocks-with-domestic-supply-chain-exposure",
+                "source": "simplywall.st",
+                "date": "2026-09-08T02:37:08Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Reforms to improve B READY ranking",
                 "desc": "Reforms to improve B READY ranking",
                 "image": "https://i.tribune.com.pk/media/images/aaa-canva-1200x900-411762371498-0/aaa-canva-1200x900-411762371498-0-640x480.webp",
@@ -542,99 +632,99 @@
                 "source": "UA.NEWS",
                 "date": "2026-09-07T00:54:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon Boeing 767 jet crashes at Miami airport, terrifying video shows",
-                "desc": "Terrifying footage appeared to show an Amazon jumbo jet crashed on a road outside of Miami International Airport.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-uz4c95pql-1788719878184.jpg?quality=75&strip=all&1788705485&w=1200",
-                "url": "https://nypost.com/2026/09/06/us-news/amazon-boeing-767-plane-crashes-at-miami-airport-terrifying-video-shows/",
-                "source": "New York Post",
-                "date": "2026-09-06T18:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Miami airport plane crash update: Ground stop declared as videos show heavy smoke rising from runway",
-                "desc": "An Amazon Boeing 767 cargo plane crashed on a road outside Miami International Airport on Sunday.",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/09/06/1600x900/photo-1560109912-81b23a075468_1788719479227_f5ddc15e-ae41-493f-8791-30efbe50800d_1788719489947_e6846da4-0d94-4a83-ba98-afbd9070388d_44194b7e-c90c-43f3-a823-077d2cffb2d2_21c3f3f4-95bd-4711-806f-8231955fa308.jpg",
-                "url": "https://www.hindustantimes.com/world-news/us-news/miami-airport-plane-crash-update-ground-stop-declared-as-videos-show-heavy-smoke-rising-from-runway-101788719105190.html",
-                "source": "Hindustan Times",
-                "date": "2026-09-06T18:32:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India’s senior living market to grow 4x, cross ₹1 trillion by 2030, Tier II, III cities to see most new projects: Report",
-                "desc": "India's senior living market is estimated to cross ₹1 lakh crore by 2030, nearly four times the current levels, according to a report by Colliers. The segment's expansion is drawing increased investment from real estate developers and investors, it added.",
-                "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/senior_living_1788719099311_4daf01a7-0796-47d8-b21a-cc6f65913a4f_1788719131322_45d4a82b-e098-4b04-857e-4cab155d620e_fad29b25-b40c-4d39-b335-58a6cc4d6da1_c53d1733-93a6-4b56-abdd-27b550332968.png",
-                "url": "https://www.livemint.com/money/personal-finance/india-senior-living-market-grow-4x-cross-rs-1-lakh-crore-2030-tier-ii-iii-cities-new-projects-invest-real-estate-report-11788716428873.html",
-                "source": "Livemint",
-                "date": "2026-09-06T18:31:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bathla's collapse exposes many issues in Australia's housing industry",
-                "desc": "The collapse of Bathla is a disaster for the national housing supply and affordability project: its now-stalled pipeline of 14,000 apartments represents about 18.5 per cent of new housing stock to be built in NSW this year.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/96e855627274eed399f04467077dbb47?impolicy=wcms_watermark_news&cropH=534&cropW=950&xPos=0&yPos=210&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-09-07/bathla-collapse-affordable-housing-quality-issues/107117958",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-09-06T18:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Is Vibe Coding And Why Does It Get So Much Hate?",
-                "desc": "Vibe coding is more about letting AI deal with hiccups during the coding process than about letting AI build software from scratch. Here's how devs use it.",
-                "image": "https://www.engadget.com/img/gallery/what-is-vibe-coding-and-why-does-it-get-so-much-hate/l-intro-1788184434.jpg",
-                "url": "https://www.engadget.com/2247892/what-is-vibe-coding-explained/",
-                "source": "Engadget",
-                "date": "2026-09-06T18:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OCR up, house prices down: Five key signals shaping the market this week",
-                "desc": "Reserve Bank holds its nerve as buyers - nearly - take control., All things property, under OneRoof",
-                "image": "https://s.oneroof.co.nz/image/4f/d5/4fd51714e317f3807fe0eadecf171316.jpg?x-oss-process=image/quality,q_80",
-                "url": "https://www.oneroof.co.nz/news/ocr-up-house-prices-down-five-key-signals-shaping-the-market-this-week-50173",
-                "source": "OneRoof",
-                "date": "2026-09-06T18:28:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada is standing up to Donald Trump and his trade war, despite likely economic consequences",
-                "desc": "The United States and Canada do a lot of business together - more than $1.2 trillion each year. In any trade relationship that big, there are bound to be disputes.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--ptihKv-h--/t_tohu-badge-facebook/f_auto/q_auto/4JIOT2T_AFP__20260825__C6GJ9NV__v3__HighRes__CanadaMinistersToAnnounceNewEconomicMeasuresAmi_jpg",
-                "url": "https://www.rnz.co.nz/news/world/1278097/canada-is-standing-up-to-donald-trump-and-his-trade-war-despite-likely-economic-consequences",
-                "source": "RNZ",
-                "date": "2026-09-06T18:26:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mount Maunganui penthouses for sale: Entire top floor with 10 bedrooms hits the market",
-                "desc": "\"Heavyweight buyers floating around,\" says agent., All things property, under OneRoof",
-                "image": "https://s.oneroof.co.nz/image/41/46/4146d9f29dbcc9f8d3d9caf7ce733d37.jpg?x-oss-process=image/quality,q_80",
-                "url": "https://www.oneroof.co.nz/news/mount-maunganui-penthouses-for-sale-entire-top-floor-with-10-bedrooms-hits-the-market-50172",
-                "source": "oneroof.co.nz",
-                "date": "2026-09-06T18:22:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Energy Secretary Says Gas Prices Will Dip When Americans Drive Less",
-                "desc": "AAA said Labor Day travelers can expect the highest gas prices ever for this time of year. The national average for regular gas was $4.14 on Sunday.",
-                "image": "https://i.insider.com/6a9d8f93f320febc610d4eac?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/gas-prices-labor-day-iran-war-driving-chris-wright-energy-2026-9",
-                "source": "Business Insider",
-                "date": "2026-09-06T18:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Should I Invest In? I'm Putting My Money in These 2 Stocks for 2027.",
-                "desc": "I'm long these two stocks and intend to build my positions in both of them next year.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885948%2Fgetty-growth-of-money-over-time-1200x800-5b2df79.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/09/06/what-should-invest-put-my-money-stock-nlst-iren/",
-                "source": "The Motley Fool",
-                "date": "2026-09-06T18:18:35Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "MBV Future Builders Conference puts circular construction into practice",
+                "desc": "Master Builders Victoria’s 2026 Future Builders Conference explored circular construction, adaptive reuse and modular thinking, including Fieldwork’s refurbishment of MBV’s East Melbourne headquarters.",
+                "image": "https://builtoffsite.com.au/wp-content/uploads/2026/09/future-builders-conference-networking-lounge-exhibition-area.jpg",
+                "url": "https://builtoffsite.com.au/news/future-builders-conference-puts-circular-thinking-into-practice/",
+                "source": "Built Offsite",
+                "date": "2026-09-08T02:43:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Infinix XPAD 30 Pro Debuts in the Philippines",
+                "desc": "The Infinix XPAD 30 Pro has officially made its debut for the Philippine market as a media-focused companion built around gaming, streaming, and everyday",
+                "image": "https://cdn.gadgetpilipinas.net/wp-content/uploads/2026/09/Infinix-XPAD-30-Pro.webp",
+                "url": "https://www.gadgetpilipinas.net/2026/09/infinix-xpad-30-pro-price/",
+                "source": "Gadget Pilipinas",
+                "date": "2026-09-08T02:39:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "9to5Mac Overtime 080: Six new Apple products",
+                "desc": "Fernando connects from IFA in Berlin to discuss Apple’s forthcoming iPhone Ultra, alongside the five other products that will be...",
+                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-080.jpg?quality=82&strip=all&resize=1200,628",
+                "url": "https://9to5mac.com/2026/09/07/9to5mac-overtime-080-six-new-apple-products/",
+                "source": "9to5Mac",
+                "date": "2026-09-08T02:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ASUS Bundles 3 Months of Google AI With Select Laptops",
+                "desc": "ASUS Philippines has announced a new offer with Google that gives customers who purchase eligible ASUS and ROG laptops three months of Google AI Pro or Google",
+                "image": "https://cdn.gadgetpilipinas.net/wp-content/uploads/2026/09/asus-laptop-google-ai-bundle-ph-2.webp",
+                "url": "https://www.gadgetpilipinas.net/2026/09/asus-google-ai-bundle-ph/",
+                "source": "Gadget Pilipinas",
+                "date": "2026-09-08T02:34:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cygames Launches New Brand 'Cygames Edge,' First Title Coming in November",
+                "desc": "Cygames is launching a new game brand, Cygames Edge, built around small development teams",
+                "image": "https://cdn.thelec.net/news/photo/202609/13678_13862_5714.jpg",
+                "url": "https://www.thelec.net/news/articleView.html?idxno=13678",
+                "source": "thelec.net",
+                "date": "2026-09-08T02:31:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pearl Abyss to Release First Crimson Desert Enhanced DLC on Oct. 16",
+                "desc": "Pearl Abyss will release \"Charting the Unknown,\" the first downloadable content (DLC) for",
+                "image": "https://cdn.thelec.net/news/photo/202609/13651_13833_2435.jpg",
+                "url": "https://www.thelec.net/news/articleView.html?idxno=13651",
+                "source": "thelec.net",
+                "date": "2026-09-08T02:31:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Console Strategy With 'Freestyle Football 2' < IT·Gaming < 기사본문",
+                "desc": "Joycity is expanding its PC-console strategy for the Freestyle intellectual property (IP),",
+                "image": "https://cdn.thelec.net/news/photo/202609/13680_13863_2048.jpg",
+                "url": "https://www.thelec.net/news/articleView.html?idxno=13680",
+                "source": "thelec.net",
+                "date": "2026-09-08T02:31:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Download on Sept. 8 < IT·Gaming < 기사본문",
+                "desc": "Smilegate said on Sept. 7 that it will begin PC pre-downloads for its new massively multip",
+                "image": "https://cdn.thelec.net/news/photo/202609/13713_13892_614.jpg",
+                "url": "https://www.thelec.net/news/articleView.html?idxno=13713",
+                "source": "thelec.net",
+                "date": "2026-09-08T02:31:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NC to Sell 'The War of Genesis Side Story: Rhapsody of Zephyr Remastered' on PURPLE",
+                "desc": "NC is expanding the lineup of PC package games distributed through its integrated gaming p",
+                "image": "https://cdn.thelec.net/news/photo/202609/13681_13864_2359.jpg",
+                "url": "https://www.thelec.net/news/articleView.html?idxno=13681",
+                "source": "thelec.net",
+                "date": "2026-09-08T02:31:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zelda: Ocarina Of Time Remake Price Seemingly Revealed",
+                "desc": "Courtesy of Nintendo's official website - Nintendo's Zelda 40th Anniversary Direct is taking place later today. and it appears more information has surfaced ...",
+                "image": "https://images.nintendolife.com/d6fc60599a4dc/large.jpg",
+                "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-remake-price-seemingly-revealed",
+                "source": "Nintendo Life",
+                "date": "2026-09-08T02:30:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Final Fantasy Resonance Mod Brings Back Classic FF Character Ariana Grande",
                 "desc": "If you were upset to hear that pop star Ariana Grande wouldn't return in Final Fantasy Resonance, a new mod is here to save the day.",
@@ -1174,99 +1264,99 @@
                 "source": "SMM Metal",
                 "date": "2026-09-07T00:52:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 Weapon System Could Change How We Think About Gunplay in Open World Games, and I Love It",
-                "desc": "GTA 6 weapon system gets massive gunplay changes, including removing the infinite loadout system, and here's why I love it.",
-                "image": "https://static.beebom.com/wp-content/uploads/2026/09/GTA-6-weapons-in-hand-of-Lucia-and-Jason-with-loadout-bag-and-vehicle.jpg?w=1200&quality=75",
-                "url": "https://beebom.com/gta-6-weapon-system-could-change-how-we-think-about-gunplay-in-open-world-games/",
-                "source": "Beebom",
-                "date": "2026-09-06T18:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Humble launches new bundle with 10 Steam Deck-friendly games for just $13",
-                "desc": "Humble has added a new bundle on the site called Narrative Masterpieces. It includes 10 Steam Deck-compatible games and two DLCs, and you can score them for just $13.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/New-Humble-Bundle.jpg",
-                "url": "https://www.notebookcheck.net/Humble-launches-new-bundle-with-10-Steam-Deck-friendly-games-for-just-13.1390055.0.html",
-                "source": "notebookcheck.net",
-                "date": "2026-09-06T18:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Cableless 75W RTX 3060 Emerges in China, But Crippled Clocks and 90C Thermals Undermine the Compact Design",
-                "desc": "A heavily modified Nvidia GeForce RTX 3060 that draws power solely from a PCIe slot has appeared in a Bilibili video, showcasing a single-slot,…",
-                "image": "https://img.biggo.com/Z1lmvU0BgY5d_wVCAzpIsMkRMSodX6bZR8sGNiEikDw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2UxMjg4MDI2LTNhYmEtNDdiMi1iY2Q0LTMzOGJhYjJiMzQyZV8xNzg4NzE5MTk2X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/e1288026-3aba-47b2-bcd4-338bab2b342e",
-                "source": "finance.biggo.com",
-                "date": "2026-09-06T18:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BenQ INFTYLAB: New accessory brand arrives for Apple ecosystem habitants",
-                "desc": "BenQ has announced the new INFTYLAB brand, under which the company will be selling a bunch of Mac accessories. For now, a mouse, a desk mat, and a monitor arm have been announced.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/benq_inftylab_desk_mat.jpg",
-                "url": "https://www.notebookcheck.net/BenQ-INFTYLAB-New-accessory-brand-arrives-for-Apple-ecosystem-habitants.1390926.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-09-06T18:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sugon Unveils N50 Pro, Claiming World's First 64",
-                "desc": "Sugon has teased the N50 Pro, a mobile workstation it claims is the world's first laptop with a 64-thread CPU. The company has not identified the…",
-                "image": "https://img.biggo.com/TTPUCcL_4h2xqGO_UyEigqvA9tIAYxukWHHCpPqMHlY/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2I3MWI0ODEzLTRkZWUtNDFmOC1hYmUwLWZiNWU2NjViZTc0ZF8xNzg4NzE5MjE0X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/b71b4813-4dee-41f8-abe0-fb5e665be74d",
-                "source": "finance.biggo.com",
-                "date": "2026-09-06T18:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Director of Witcher 3 returns with unprecedented success of new RPG",
-                "desc": "'The Blood of Dawnwalker' has made a bloody entrance, with Rebel Wolves' ambitious dark fantasy RPG selling more than one million copies in just 48 hours. The new IP launched on 3 September for PC, PlayStation 5 and Xbox Series X/S, quickly turning heads and attracting a huge player base. Rebel Wolves celebrated the milestone by thanking fans for playing, sharing and",
-                "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/07/images.jpg",
-                "url": "https://www.tbsnews.net/splash/director-witcher-3-returns-unprecedented-success-new-rpg-1535311",
-                "source": "The Business Standard",
-                "date": "2026-09-06T18:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Owlcat talks about Blind Descent playtest - a free adventure about exploring the Martian underworld is available on Steam",
-                "desc": "The developers are testing the game before its full launch.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1298744/media-jghrrfhxsmfjqgnkmt3yqyfn.png",
-                "url": "https://ixbt.games/en/news/2026/09/06/432933-owlcat-rasskazala-o-pleiteste-blind-descent-v-steam-mozno-besplatno-sygrat-v-prikliucenie-pro-osvoenie-podzemnogo-mira-na-marse.html",
-                "source": "ixbt.games",
-                "date": "2026-09-06T18:06:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anbernic launches its first Snapdragon handheld, RG 55G1 starts at $139",
-                "desc": "Anbernic has launched its first Snapdragon-powered gaming handheld. The RG 55G1 starts at $139.99 with a 5.5-inch 1080p display and Android 14.",
-                "image": "https://cdn.videocardz.com/1/2026/09/ANBERNIC-HANDHELD-QUALCOMM.webp",
-                "url": "https://videocardz.com/newz/anbernic-launches-its-first-snapdragon-handheld-rg-55g1-starts-at-139",
-                "source": "VideoCardz.com",
-                "date": "2026-09-06T17:58:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This Samsung TV deal stopped me mid-scroll. Save $1,200 right now",
-                "desc": "From foldable phones to premium home entertainment systems, Samsung is offering savings of up to $1,200 during its Labor Day sales event.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/06/USAT/91642911007-samsung-labor-day-deals.gif?crop=1349,757,x0,y0&width=1349&height=757&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/shopping/deals/labor-day/2026/09/06/samsung-labor-day-tech-sale-2026/91642540007/",
-                "source": "USA Today",
-                "date": "2026-09-06T17:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DITO Data Maxx, Unli 5G Maxx Data Packs Launched",
-                "desc": "DITO Telecommunity has expanded its prepaid lineup for Filipino consumers with the launch of Data Maxx and Unli 5G Maxx. The DITO Data Maxx pack is said to offer the best value in terms of validity period and data allocation. The pack has a variety of tiers to choose from, including: Data Maxx 50 -…",
-                "image": "https://i0.wp.com/manilashaker.com/wp-content/uploads/2026/09/DITO-Data-Maxx-Unli-5G-Maxx.png?fit=1200%2C675&ssl=1",
-                "url": "https://manilashaker.com/dito-data-maxx-unli-5g-maxx-data-packs-launched/",
-                "source": "ManilaShaker Philippines",
-                "date": "2026-09-06T17:54:01Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Malay, Bumiputera education must move beyond quotas, says Zambry",
+                "desc": "Higher education minister says success should be measured by the ability of Malay and Bumiputera students to master STEM, create technology and build globally competitive companies.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/08/e9c225aa-2dfd-4b5a-a02d-8a1776ae1934-FORUM-ILMUWAN-MADANI-ANWAR-ZAMBRY-FADHLINA-AUKU-UNIVERSITI-MALAYA-12.jpg",
+                "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/08/malay-bumiputera-education-must-move-beyond-quotas-says-zambry",
+                "source": "Free Malaysia Today",
+                "date": "2026-09-08T02:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Democracy, Priced by the Pound： Trump’s Copper Algorithm",
+                "desc": "Zambia has just wrapped up a deeply contentious general election. Yet Washington's script proved eve",
+                "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/09/Beacon-Institute.jpg",
+                "url": "https://www.bastillepost.com/global/article/6138255-democracy-priced-by-the-pound%EF%BC%9A-trumps-copper-algorithm",
+                "source": "巴士的報",
+                "date": "2026-09-08T02:46:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jakarta airport and others reopen after volcanic ash crisis in Indonesia",
+                "desc": "Hundreds of thousands of travellers have been stranded since Saturday’s eruption of Mount Anak Krakatoa.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/08/930d2ca2-b46f-40af-82cc-5a7a69f6b2d5_81f8b343.jpg?itok=a-5aHCLZ&v=1788816452",
+                "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366695/jakarta-airport-and-others-reopen-after-volcanic-ash-crisis-indonesia",
+                "source": "South China Morning Post",
+                "date": "2026-09-08T02:44:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ASEAN unity at stake: The Jakarta Post",
+                "desc": "\"Rather than mirroring the geo-economic fragmentation besetting the world, member states need to come together and negotiate favourable trade terms for the region as a whole,\" highlights the editorial.",
+                "image": "https://asianews.network/wp-content/uploads/2026/09/AFP__20260724__C32J4YL__v1__MidRes__PhilippinesAsean.jpg",
+                "url": "https://asianews.network/asean-unity-at-stake-the-jakarta-post/",
+                "source": "Asia News Network",
+                "date": "2026-09-08T02:42:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Woman in her 60s found dead in cafe freezer in South Korea",
+                "desc": "The cafe’s owner has been arrested and detained on suspicion of luring and killing the woman. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c7c662f5564a76210a94b285207757ceea7080d3a53d722bb61fee1a9fcde57b",
+                "url": "https://www.straitstimes.com/asia/east-asia/woman-in-her-60s-found-dead-in-cafe-freezer-in-south-korea",
+                "source": "The Straits Times",
+                "date": "2026-09-08T02:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anak Krakatau volcano eruption: Seven airports closed, thousands of travellers stranded",
+                "desc": "About 340,000 travellers have been impacted by flight disruption triggered by the Mount Anak Krakatau eruption.\n0 / 160",
+                "image": "https://static.ffx.io/images/$zoom_0.9806%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/363b7c206986fb363719168f0d9465352ca210bc048bea901ae31a570608d90f",
+                "url": "https://www.nine.com.au/world-news/airports-still-closed-thousands-stranded-mount-anak-krakatau-eruption-20260908-p60veu.html",
+                "source": "Nine.com.au",
+                "date": "2026-09-08T02:39:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US air-defence exit from Iraq risks creating wider regional security gap",
+                "desc": "The US-led anti-ISIS international coalition is set to end mission in Iraq by September 30, withdrawing both personnel and equipment",
+                "image": "https://www.thenationalnews.com/resizer/v2/Q72KW2IYLBGM2GDQ6DYP6BHMBA.jpg?smart=true&auth=b593ae0a76943ed4ff9b8fa259784765a3c879236e4ee06bf81197452693e831&width=1200&height=630",
+                "url": "https://www.thenationalnews.com/news/mena/2026/09/08/us-air-defence-exit-from-iraq-risks-creating-wider-regional-security-gap/",
+                "source": "thenationalnews.com",
+                "date": "2026-09-08T02:38:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Accused killers of American and Australian surfers go on trial in Mexico",
+                "desc": "Brothers Jake and Callum Robinson and Jack Carter Rhoad were on a surfing trip to Mexico's Pacific coast in April 2024 when they were shot dead in Baja California.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/08/d4ad2b2e-7718-4c02-b13c-f1121daa104a/thumbnail/1200x630/a2fd6cc2dd165c736e843f00f745b7b0/gettyimages-2293563866.jpg",
+                "url": "https://www.cbsnews.com/news/mexico-trial-accused-killers-american-australian-surfers/",
+                "source": "CBS News",
+                "date": "2026-09-08T02:37:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PSU Urges Senators to Scrutinize Revenue Authority Bill",
+                "desc": "The Public Service Union is urging senators to closely examine the proposed Belize Revenue Authority Bill. PSU President Dean Flowers says it gives government officials too much power and leaves workers’ pensions and benefits uncertain. While the Ministry of Finance says the reform will modernize tax services and strengthen revenue collection, the union insists major The Public Service Union is urging senators to closely examine the proposed Belize Revenue Authority Bill.",
+                "image": "https://www.greaterbelize.com/wp-content/uploads/2026/09/vlcsnap-2026-09-07-18h35m59s859.png",
+                "url": "https://www.greaterbelize.com/psu-urges-senators-to-scrutinize-revenue-authority-bill/",
+                "source": "greaterbelize.com",
+                "date": "2026-09-08T02:34:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hurricane Lowell: Australians warned about tropical storm in Hawaii",
+                "desc": "Australian tourists heading to Hawaii are being urged to exercise caution as Hurricane Lowell brings severe weather to the US state.",
+                "image": "https://static.ffx.io/images/$zoom_1.059%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_431/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/13b3538a2c5b531bb7da6c21dbf0240bf6b4fcda721e38fc0df937f210ba2f90",
+                "url": "https://www.nine.com.au/travel/international/australians-warned-hurricane-lowell-hawaii-20260908-p60ve1.html",
+                "source": "Nine.com.au",
+                "date": "2026-09-08T02:34:02Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "U.S. Nowhere Near the Top of Best Countries to Live In List: Americans React",
                 "desc": "The U.S.'s ranking in the 2026 Rumavi Global Relocation Index has divided opinion.",
@@ -1806,98 +1896,8 @@
                 "source": "BBC",
                 "date": "2026-09-07T00:05:46Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "12 Of The World’s Greatest Wildlife Migrations And Where To See Them",
-                "desc": "From Tanzania’s Great Migration to Mexico’s monarch butterflies, here's how to witness extraordinary wildlife migrations around the world.",
-                "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2026/08/14182711/Untitled-design-2026-08-14T182651.453-1600x900.png",
-                "url": "https://www.travelandleisureasia.com/in/destinations/12-of-the-worlds-greatest-wildlife-migrations-and-where-to-see-them/",
-                "source": "Travel and Leisure Asia",
-                "date": "2026-09-06T18:37:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'New America', George Washington meet & Robert De Niro jibe: Trump unleashes AI-powered fantasies",
-                "desc": "US News: MAGA supremo Donald Trump on Sunday unleashed a fiery series of AI-driven posts flaunting the supremacy of Uncle Sam, ranging from his dreamy imaginat.",
-                "image": "https://static.toiimg.com/thumb/msid-133848731,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/new-america-george-washington-meet-robert-de-niro-jibe-trump-unleashes-ai-powered-fantasies/articleshow/133848499.cms",
-                "source": "The Times of India",
-                "date": "2026-09-06T18:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jubaland residents hold mass protest in Kismayo over alleged Turkish involvement in Doolow strike",
-                "desc": "Jubaland authorities said the reported attack involved an unmanned aerial vehicle that targeted a residence in Doolow, adding that former Somali Custodial.",
-                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/09/eastleighvoice-co-ke-2026-september-06-182845.webp",
-                "url": "https://eastleighvoice.co.ke/somalia/397705/jubaland-residents-hold-mass-protest-in-kismayo-over-alleged-turkish-involvement-in-doolow-strike",
-                "source": "The Eastleigh Voice",
-                "date": "2026-09-06T18:32:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former Air Force chief accuses Hegseth of leading ‘culture of fear’ as he Trumpifies the military",
-                "desc": "Former Army secretary said last week that his ex-boss was doing ‘generational’ damage to America’s armed forces",
-                "image": "https://static.independent.co.uk/2026/09/03/16/download.-1.?width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/frank-kendall-hegseth-trump-military-b3045573.html",
-                "source": "The Independent",
-                "date": "2026-09-06T18:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa - Climate Risk Management: 26 Countries Strengthen Early Warning Systems",
-                "desc": "Faced with intensifying climate risks, Africa is seeking to strengthen its capacity to anticipate disasters. In Addis Ababa, Ethiopia, governments, scientists and partners are meeting from September 2 to 4, …",
-                "image": "https://africa24tv.com/wp-content/uploads/2026/09/africa-climate-risk-management-26-countries-strengthen-early-warning-systems.jpg",
-                "url": "https://africa24tv.com/africa-climate-risk-management-26-countries-strengthen-early-warning-systems/",
-                "source": "africa24tv.com",
-                "date": "2026-09-06T18:16:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Electoral Migration: AfD Gains Massive Non-Voters",
-                "desc": "Many non-voters voted this time - and 157,000 of them the AfD. The left party won 15,000 voters from the camp of non-voters.",
-                "image": "data:image/svg+xml,path { fill: %23262626 } @media (prefers-color-scheme: dark) { path { fill: %23EEEFE9 } }",
-                "url": "https://ground.news/article/electoral-migration-afd-gains-massive-non-voters",
-                "source": "ground.news",
-                "date": "2026-09-06T18:09:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "92 ships redirected since U.S. blockade of Iran restarted, says CENTCOM",
-                "desc": "As of September 6, US forces have redirected 92 commercial vessels, disabled 3 and boarded 2 to ensure strict compliance, the command's statement on s...",
-                "image": "https://news.az/photos/2026/09/1788714304.webp",
-                "url": "https://news.az/news/92-ships-redirected-since-us-blockade-of-iran-restarted-says-centcom",
-                "source": "Latest news from Azerbaijan",
-                "date": "2026-09-06T18:08:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US envoys make first Kyiv visit amid Ukraine war peace push",
-                "desc": "KYIV: US peace envoys Jared Kushner and Steve Witkoff met with Ukrainian President Volodymyr Zelenskyy in Kyiv on Sunday (Sep 6) as the Trump administration renewed its push to end Russia's four-and-a-h",
-                "image": "https://dam.mediacorp.sg/image/upload/s--IH56PxyU--/c_crop,h_1125,w_2000,x_0,y_208/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/07/000_c7h38t6.jpg?itok=-2wrRprm",
-                "url": "https://www.channelnewsasia.com/world/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push-6365591",
-                "source": "CNA",
-                "date": "2026-09-06T18:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "German far-right party wins state election but uncertain of governing",
-                "desc": "The far-right Alternative for Germany is projected to win a strong victory in a regional election. But it wasn’t immediately clear Sunday whether it will be able to fulfill its ambition of forming the country’s first far-right state government since World War II.",
-                "image": "https://dims.apnews.com/dims4/default/8f590c0/2147483647/strip/true/crop/4862x3240+1+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2Fd3%2Faf015ee54198388cdd1476d2c553%2F8ab8b69a33f3425f9bbafcdf94696941",
-                "url": "https://apnews.com/article/germany-saxony-anhalt-election-far-right-afd-c538060710a2495c72425b6468df0d40",
-                "source": "AP News",
-                "date": "2026-09-06T18:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
-                "desc": "UN launches $50m appeal to aid over 84,000 flood survivors in Nepal amid cholera threat and sanitation challenges.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26247155636236-1788709340.jpg?resize=1200%2C630",
-                "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation",
-                "source": "Al Jazeera",
-                "date": "2026-09-06T17:50:51Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-08T10:05:58.273012Z"
+    "lastGlobalSync": "2026-09-08T14:47:02.908517Z"
 }
