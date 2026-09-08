@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Finnish Creoir secures seed funding to commercialise its defence voice AI products",
+                "desc": "Oulu-based defence technology company Creoir has raised a seed investment from Swedish venture capital fund Gungnir Capital. Creoir develops voice AI systems",
+                "image": "https://arcticstartup.com/wp-content/uploads/2026/09/creoir-raises-seed-funding_photo-by_Tuomo-Tapanila.jpg",
+                "url": "https://arcticstartup.com/creoir-raises-seed-funding/",
+                "source": "ArcticStartup",
+                "date": "2026-09-08T11:37:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Five spots to watch as the U.S. bond market creeps up on 5%",
+                "desc": "Rising yields could point to a strong economy, or to more pain ahead as governments go on spending spree",
+                "image": "https://www.theglobeandmail.com/resizer/v2/NFF462L5GZGVVEGRGPESZV6RNE.jpg?auth=13ea134fc2aab601c1d9c0a8a2399241fcddf9a0fda43515f6641a2bc0ed1499&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/business/article-five-spots-to-watch-as-the-us-bond-market-creeps-up-on-5/",
+                "source": "The Globe and Mail",
+                "date": "2026-09-08T11:36:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Novartis Faces Pipeline Pressure After Major Drug Trial Setbacks",
+                "desc": "Novartis shares plunge after two key drug trial failures, increasing pressure on CEO Vas Narasimhan's pipeline and acquisition strategy.",
+                "image": "https://www.globalbankingandfinance.com/i/cloud-176a0ca3-135b-4b75-8acf-8af7b7472e9b/width=1200,height=630,quality=80,format=auto,fit=cover/",
+                "url": "https://www.globalbankingandfinance.com/novartis-twin-drug-setbacks-pile-pressure-pipeline-ceo/",
+                "source": "globalbankingandfinance.com",
+                "date": "2026-09-08T11:36:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inhibrx claims first win for long-sought immunotherapy target",
+                "desc": "Inhibrx’s antibody INBRX-106 showed success in HPV-positive head and neck cancers.",
+                "image": "https://www.statnews.com/wp-content/uploads/2025/08/AdobeStock_320666034-1024x576.jpeg",
+                "url": "https://www.statnews.com/2026/09/08/inhibrx-inbrx-106-ox40-immunotherapy-head-and-neck-cancer-hpv-positive/",
+                "source": "STAT",
+                "date": "2026-09-08T11:36:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Measuring Board Fit - Evidence from Elliott’s Campaign at Norwegian Cruise Line",
+                "desc": "Boards are routinely assessed with tools that cannot answer the question that matters most: whether a given director’s accumulated professional experience fits the strategic needs of the specific company on whose board that director sits. This post describes a new method that uses contextualized word embeddings to measure such fit directly, and applies it to […]",
+                "image": "https://corpgov.law.harvard.edu/wp-content/uploads/2021/03/new-shield-facebook.png",
+                "url": "https://corpgov.law.harvard.edu/2026/09/08/measuring-board-fit-evidence-from-elliotts-campaign-at-norwegian-cruise-line/",
+                "source": "corpgov.law.harvard.edu",
+                "date": "2026-09-08T11:34:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 things to know before the market opens Tuesday",
+                "desc": "Here are five key things investors need to know to start the trading day.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108358661-1788468213476-gettyimages-2293388112-mms27078_t0uoiw5l.jpeg?v=1788468259&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/09/08/5-things-to-know-before-the-market-opens-tuesday.html",
+                "source": "CNBC",
+                "date": "2026-09-08T11:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ASML breaks ground on new manufacturing facilities in major expansion",
+                "desc": "EINDHOVEN, Netherlands, Sept ⁠8 (Reuters) - ASML, the biggest manufacturer of computer chip-making equipment, on Tuesday began construction ⁠of a major new production campus in the Netherlands, as it races to ‌keep up with rising demand from the artificial intelligence boom.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/09/08/4099977.jpg",
+                "url": "https://www.thestar.com.my/tech/tech-news/2026/09/08/asml-breaks-ground-on-new-manufacturing-facilities-in-major-expansion",
+                "source": "The Star",
+                "date": "2026-09-08T11:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Qualcomm: Data Center Revenue To Reach $15 Billion In 3 Years",
+                "desc": "Qualcomm's planned product developments that would enable the company to meet its data center segment revenue targets. Read more on QCOM stock here.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1642572895/image_1642572895.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4943759-qualcomm-stock-data-center-revenue-to-reach-15-billion-in-3-years",
+                "source": "Seeking Alpha",
+                "date": "2026-09-08T11:30:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Visa expands data offering for blockchain lenders",
+                "desc": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108341104-1785249291222-gettyimages-2278013093-TFSPI_28052026-5649.jpeg?v=1785249316&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
+                "source": "CNBC",
+                "date": "2026-09-08T11:30:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bridlington's new 426-space car park to open in October",
+                "desc": "A new 426-space multi-storey car park is set to open in Bridlington next month.",
+                "image": "https://www.yorkpress.co.uk/resources/images/21424036.jpg?type=og-image",
+                "url": "https://www.yorkpress.co.uk/news/26530712.bridlingtons-new-426-space-car-park-open-october/",
+                "source": "The York Press",
+                "date": "2026-09-08T11:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "PM Modi Gujarat-Maharashtra Visit Live: PM to inaugurate global fintech fest in Mumbai today",
                 "desc": "PM Modi Gujarat-Maharashtra Visit Live: Prime Minister Narendra Modi is in Gujarat and Maharashtra today to inaugurate and dedicate development projects and open the Global Fintech Fest 2026. In Vadodara, he inaugurated three Western Dedicated Freight Corridor (WDFC) sections, covering 326 km and costing over Rs 20,700 crore. He also flagged off freight and passenger train services and lay foundation stones for railway projects, including the Vadodara-Ratlam third and fourth lines, and highway projects. In Mumbai, PM Modi will inaugurate the Global Fintech Fest, being held from September 8-11. The seventh edition will focus on Agentic AI, tokenisation and quantum technologies, with discussions centred on trusted, connected and inclusive finance. Follow indiatoday.in for live updates.",
                 "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202609/pm-narendra-modi-in-vadodara-08463672-16x9_0.jpg?VersionId=VeLIe_u_504zK6MBuDrPOpEC542SP9be",
@@ -542,99 +632,99 @@
                 "source": "CNBC",
                 "date": "2026-09-07T12:00:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Rugby hero Alun Wyn Jones flies out to join army after King Charles appointment",
-                "desc": "The rugby legend was made an Honorary Colonel of the regiment and attended exercise Northern Strike",
-                "image": "https://i2-prod.walesonline.co.uk/article34578203.ece/ALTERNATES/s1200d/798537742_18617418973033578_8368368228420859804_n.jpg",
-                "url": "https://www.walesonline.co.uk/sport/rugby/rugby-news/rugby-hero-alun-wyn-jones-34577505",
-                "source": "Wales Online",
-                "date": "2026-09-07T09:46:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ecosystem Growth Alone Not Enough For $PI?",
-                "desc": "Pi Network news today: ecosystem tools expand and Protocol 27 nears, yet price holds near $0.094. Full breakdown of what's built and what's next.",
-                "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/September2026/pi-network-news-ecosystem-growth-alone-not-enough-for-pi-7874.webp",
-                "url": "https://www.coingabbar.com/en/crypto-currency-news/pi-network-news-ecosystem-growth-alone-not-enough-for-pi",
-                "source": "Coin Gabbar",
-                "date": "2026-09-07T09:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Coop win appeal against paying £600k to former boss",
-                "desc": "Appeal judges ruled it was not reasonably foreseeable Colin MacLeod may be psychiatrically injured.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7aa5/live/75919010-aa9c-11f1-ab09-7f2415c9a652.jpg",
-                "url": "https://www.bbc.com/news/articles/cy7znny0yedo",
-                "source": "BBC",
-                "date": "2026-09-07T09:42:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rapid robust high-fidelity 3D neuronal extraction from multiview calcium imaging datasets",
-                "desc": "Recent developments in imaging facilitate large-scale three-dimensional (3D) neuronal recording. While the resulting large datasets shed light on population-level neural coding, extracting neuronal calcium dynamics from 3D volumes remains more challenging than from two-dimensional images due to noise and scattering. Here we present DeepWonder3D, a general end-to-end pipeline for rapid and robust 3D neuronal extraction with high fidelity. Instead of processing voxel by voxel, DeepWonder3D works on the multiview projections of 3D imaging data obtained either digitally or optically through specific point spread functions and is therefore applicable to diverse techniques, including point-scanning microscopy, light-field microscopy and two-photon synthetic aperture microscopy. Integrating denoising, resolution registration, background removal, neuronal extraction and multiview fusion into a unified pipeline tailored for large-scale high-resolution datasets contaminated by noise and scattering, DeepWonder3D outperforms state-of-the-art methods in 3D localization accuracy with a tenfold reduction in computational costs, validated by numerical simulations and a hybrid two-photon/light-field imaging system. With the RUSH3D mesoscope, DeepWonder3D achieves high-fidelity 3D calcium extraction of tens of thousands of neurons across the mouse cortex within hours. DeepWonder3D is a pipeline for neuronal extraction from volumetric calcium imaging data acquired with a variety of one-photon or two-photon microscopy modalities.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-026-03215-6/MediaObjects/41592_2026_3215_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41592-026-03215-6?error=cookies_not_supported&code=e6b901fa-14f2-40b0-9d7d-6a68fa962e31",
-                "source": "nature.com",
-                "date": "2026-09-07T09:41:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yen hits seven-month high; dollar soft ahead of US inflation",
-                "desc": "By Alun John and Rae Wee SINGAPORE/LONDON, Sept 7 (Reuters) - The yen surged to a seven-month high on Monday, as traders appeared to reassess their outlook on the long-embattled currency, driven by bets on faster Bank of Japan tightening and expectations that Japanese investors may shift funds home.",
-                "image": "https://live.euronext.com/favicon.ico",
-                "url": "https://live.euronext.com/en/financial-news/yen-hits-seven-month-high-dollar-soft-ahead-us-inflation",
-                "source": "Euronext Markets: Real-time Stock Market Data | live",
-                "date": "2026-09-07T09:40:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Goldman Sachs sees oil prices rising to $120 per barrel",
-                "desc": "Goldman Sachs says oil could reach $120 per barrel if attacks on Middle East shipping intensify, while Brent traded above $97 and WTI above $92.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/goldman_sachs_oil_could_reach_120_amid_s_1788773624122.webp",
-                "url": "https://ua.news/en/energetika/goldman-sachs-dopuskaie-zrostannia-tsin-na-naftu-do-120-za-barel",
-                "source": "UA.NEWS",
-                "date": "2026-09-07T09:39:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gateway Mining Limited (GWMLF) Discusses Recent Cowza Discovery and Exploration Strategy Transcript",
-                "desc": "Gateway Mining Limited (GWMLF) Discusses Recent Cowza Discovery and Exploration Strategy September 6, 2026 9:30 PM EDTCompany ParticipantsRichard Pugh -...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4943469-gateway-mining-limited-gwmlf-discusses-recent-cowza-discovery-and-exploration-strategy",
-                "source": "Seeking Alpha",
-                "date": "2026-09-07T09:39:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jaguar Land Rover confirms plan to cut 4,000 jobs over two years",
-                "desc": "Carmaker, which is battling Trump tariffs and fallout from cyber-attack, wants to reduce 34,000-strong UK workforce",
-                "image": "https://i.guim.co.uk/img/media/4f876e3664001c63f64854ba45a1ea7e118136d5/922_112_2553_2043/master/2553.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f5359e3a7dca1f3553b52dce2a47fa8",
-                "url": "https://www.theguardian.com/business/2026/sep/07/jaguar-land-rover-job-trump-tariffs",
-                "source": "The Guardian",
-                "date": "2026-09-07T09:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alphabet Balances Strengths And Weaknesses",
-                "desc": "Alphabet demonstrates prodigious Google Cloud growth, with quarterly revenue surging from $20B to $25B in just one quarter. Read more on GOOG stock here.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2228661068/image_2228661068.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4943514-google-balances-strengths-and-weaknesses",
-                "source": "Seeking Alpha",
-                "date": "2026-09-07T09:38:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nike’s shoe doesn't fit: How did the swoosh lose its winning edge?",
-                "desc": "Nikes decline is raising questions about how the sportswear giant lost its competitive edge. Falling revenue, a collapsing market value, weaker China sales, inventory pressure and growing competition from Hoka, On, Adidas, Anta and Li Ning have challenged its dominance. CEO Elliott Hill is rebuilding wholesale, product innovation and regional strategies as Nike fights to restore growth and brand appeal.",
-                "image": "https://img.etimg.com/thumb/msid-133874411,width-1200,height-630,imgsize-323878,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/news/international/global-trends/nikes-shoe-doesnt-fit-how-did-the-swoosh-lose-its-winning-edge-nike-sale-tock-sp-sports-shoes-market-china-adidas/articleshow/133873218.cms",
-                "source": "The Economic Times",
-                "date": "2026-09-07T09:38:18Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Acer’s concept mini PC brings 1 petaflop of local AI power to your desk",
+                "desc": "Acer and NVIDIA are aiming this rig squarely at local, \"agentic\" AI with the SFF RTX Spark, featuring the new RTX Spark superchip.",
+                "image": "https://od2-image-api.abs-cbn.com/prod/20260908110952/72e9b7172fd131d34bc1250a681d34901392bc44442e87cf959df87d14ce6f30.png?w=1200&h=800",
+                "url": "https://www.abs-cbn.com/news/technology/2026/9/8/acer-s-concept-mini-pc-brings-1-petaflop-of-local-ai-power-to-your-desk-1855",
+                "source": "ABS-CBN",
+                "date": "2026-09-08T11:40:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Soundcore by Anker Q30 ANC Headphones Are Now 10x Cheaper Than AirPods Max After Quiet Price Drops on Amazon",
+                "desc": "If you need a new pair of headphones, now's the time to invest.",
+                "image": "https://gizmodo.com/app/uploads/2026/09/Soundcore-by-Anker-Q30-Hybrid-Active-Noise-Cancelling-Headphones-1200x675.jpg",
+                "url": "https://gizmodo.com/soundcore-by-anker-q30-anc-headphones-are-now-10x-cheaper-than-airpods-max-after-quiet-price-drops-on-amazon-2000808367",
+                "source": "Gizmodo",
+                "date": "2026-09-08T11:40:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Garmin Cirqa Smart Ring May Be Garmin’s Next Big Reveal",
+                "desc": "Listings for what may be a Garmin Cirqa smart ring have appeared online, suggesting an official announcement may not be far too.",
+                "image": "https://s.yimg.com/lo/mysterio/api/a62ae795eb8c35d098d0720393abf8af209d4ee31ccb81eeda9d6ded8f87a5ac/lightyear_networkapi/resizefill_w958_h599%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F0e3353566a35c35e0a068df0699f55f7.jpg",
+                "url": "https://ca.news.yahoo.com/garmin-cirqa-smart-ring-may-113928274.html",
+                "source": "Yahoo News Canada",
+                "date": "2026-09-08T11:39:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Portable Console with Dual Screens Retroid Pocket Duo to Feature Qualcomm Q-7790 Chip",
+                "desc": "Inside the portable console Retroid Pocket Duo, you'll find the Qualcomm Dragonwing Q-7790 chip with an Adreno 722 GPU. It is built on the same architecture as the Snapdragon 7 Gen 4. With such a chip, the device is unlikely to compete with the Ayn Thor clamshell with its Snapdragon 8 Gen 2.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1302791/3e523e77-cfa1-48a0-8372-3df45ae3861a.jpg",
+                "url": "https://ixbt.games/en/news/2026/09/08/portativnaia-konsol-s-dvumia-ekrana-retroid-pocket-duo-obzavedetsia-cipom-qualcomm-q-7790.html",
+                "source": "ixbt.games",
+                "date": "2026-09-08T11:34:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Camera app in iOS 27 reportedly includes four major pro photography features",
+                "desc": "Code reportedly found in the Camera app in the latest iOS 27 beta appears to point to the introduction of...",
+                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iPhone-18-Pro-variable-aperture-lens-manufacturing-reportedly-underway.jpg?quality=82&strip=all&resize=1200,628",
+                "url": "https://9to5mac.com/2026/09/08/camera-app-in-ios-27-reportedly-includes-four-major-pro-photography-features/",
+                "source": "9to5Mac",
+                "date": "2026-09-08T11:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is HP (HPQ) Expensive On Its RTX Spark AI PC Launch?",
+                "desc": "HP (HPQ) just put its AI hardware ambitions front and center with the launch of the OmniBook Ultra 16, OmniBook X 14, and OmniDesk, all built around NVIDIA RTX Spark capabilities.\nThe RTX Spark announcement follows a sharp run in HP’s shares, with a 90 day share price return of 32.2% and a year to date gain of 47.6% from a last close of $32.64. The 1 year total shareholder return of 18.2% and 5 year total shareholder return of 41.6% indicate momentum that has recently accelerated, supported...",
+                "image": "https://images.simplywall.st/asset/industry/9621091-choice2-main-header/1585186855318",
+                "url": "https://simplywall.st/stocks/us/tech/nyse-hpq/hp/news/is-hp-hpq-expensive-on-its-rtx-spark-ai-pc-launch",
+                "source": "simplywall.st",
+                "date": "2026-09-08T11:32:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Capcom plans on “re-activating IPs that haven’t had a new title launch recently” following Onimusha’s success",
+                "desc": "Following the success of Onimusha: Way of the Sword, Capcom claim to be “focusing on re-activating IPs that haven’t had a new title launch recently.”",
+                "image": "https://www.kitguru.net/wp-content/uploads/2026/09/capcom_zY4NDCT-732x330.jpg",
+                "url": "https://www.kitguru.net/tech-news/mustafa-mahmoud/capcom-plans-on-re-activating-ips-that-havent-had-a-new-title-launch-recently-following-onimushas-success/",
+                "source": "KitGuru",
+                "date": "2026-09-08T11:30:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FBK Sensors and Devices Center advances research from biocomposites to quantum tech",
+                "desc": "Explore the latest research from FBK-SD, spanning advanced materials, single-photon technologies and interdisciplinary science.",
+                "image": "https://www.innovationnewsnetwork.com/wp-content/uploads/2026/09/FBK-Sensors-and-Devices-Center--1024x576.png",
+                "url": "https://www.innovationnewsnetwork.com/fbk-sensors-and-devices-center-advances-research-from-biocomposites-to-quantum-tech/73715/",
+                "source": "Innovation News Network",
+                "date": "2026-09-08T11:29:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Detection Engine That Turns Live Threat Intelligence Into Backtested Detections in Minutes",
+                "desc": "New York, NY, United States, 8th September 2026, CyberNewswire",
+                "image": "https://devops.com/wp-content/uploads/2026/09/ChatGPT_Image_Sep_8_2026_01_18_08_PM_1788862702q7qurkH5id.jpg",
+                "url": "https://devops.com/mars-security-launches-real-time-intel-to-detection-engine-that-turns-live-threat-intelligence-into-backtested-detections-in-minutes/",
+                "source": "DevOps.com",
+                "date": "2026-09-08T11:29:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WeedHack Malware Persists as Fake Minecraft Sites Survive C2 Disruption",
+                "desc": "Fake Minecraft sites continue distributing WeedHack malware through SEO poisoning and trusted hosting platforms despite disruption of its original C2 infrastructure. WeedHack malware persists through fake Minecraft sites, SEO poisoning, and trusted hosting services even after its original C2 infrastructure was disrupted.",
+                "image": "https://assets.esecurityplanet.com/uploads/2026/09/caspar-camille-rubin-oI6zrBj3nKw-unsplash.jpg?f=jpeg",
+                "url": "https://www.esecurityplanet.com/news/news-weedhack-fake-minecraft-malware/",
+                "source": "esecurityplanet.com",
+                "date": "2026-09-08T11:28:25Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "These Android phones could beat iPhone for video, and we have a launch date",
                 "desc": "Vivo's phones are among the best camera phones, and the X500 series is in the works. Now, we have a confirmed launch date.",
@@ -1174,99 +1264,99 @@
                 "source": "Nintendo Life",
                 "date": "2026-09-07T12:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 5 receives unofficial Nintendo Switch port ahead of GTA 6",
-                "desc": "GTA 5 has been made playable on original Nintendo Switch through unofficial native port ahead of GTA 6",
-                "image": "https://i.tribune.com.pk/media/images/gta-51736610383-0/gta-51736610383-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2627920/gta-5-receives-unofficial-nintendo-switch-port-ahead-of-gta-6",
-                "source": "The Express Tribune",
-                "date": "2026-09-07T09:45:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "246TB SSD movie server holds 4,000 4K movies, estimated price around $150,000",
-                "desc": "The Compact Terra Prime stores around 4,000 4K movies in a 1.8 kg aluminum chassis. Kaleidescape is offering the 246TB server through special order.",
-                "image": "https://cdn.videocardz.com/1/2026/09/KALEIDOSCOPE-SSD-MOVIE-200TB.webp",
-                "url": "https://videocardz.com/newz/246tb-ssd-movie-server-holds-4000-4k-movies-estimated-price-around-150000",
-                "source": "VideoCardz.com",
-                "date": "2026-09-07T09:44:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dropped Xbox Game Pass? Microsoft May Try to Tempt You Back With a Lower Price",
-                "desc": "A new personalized offer may save you over $80 per year, but it appears to be available only to select customers.",
-                "image": "https://i.pcmag.com/imagery/articles/04rwnubZewluDGWO2rDRUdG-1.fit_lim.size_1200x630.v1788771727.jpg",
-                "url": "https://www.pcmag.com/news/dropped-xbox-game-pass-microsoft-may-try-to-tempt-you-back-with-a-lower",
-                "source": "PCMag",
-                "date": "2026-09-07T09:43:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Best robot lawn mower deal: Save $311 on Segway Navimow i110N",
-                "desc": "Find the best robot lawn mower deal. Save 28% on the Segway Navimow i110N at Amazon.",
-                "image": "https://helios-i.mashable.com/imagery/articles/02N4kNFUHg68gFeMTP6DESM/hero-image.fill.size_1200x675.v1788246940.png",
-                "url": "https://mashable.com/tech/sept-1-segway-navimow-robot-lawn-mower-deal",
-                "source": "Mashable",
-                "date": "2026-09-07T09:39:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alienware's new 34in QD-OLED monitor just got its first price cut",
-                "desc": "The AW3426DW's only been on the market for a few months, but you can now pick up the ultrawide monitor with a $50 discount.",
-                "image": "https://www.club386.com/wp-content/uploads/2026/09/alienware-aw3426dw-deal-september-2026.jpeg",
-                "url": "https://www.club386.com/alienware-aw3426dw-deal-september-2026/",
-                "source": "Club386",
-                "date": "2026-09-07T09:39:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony Clears Up the Confusion Over Its 2028 Disc Production Numbers",
-                "desc": "Sony DADC commented on the mix-up.",
-                "image": "https://cdn.80.lv/api/upload/meta/50073/images/6a9e8635947f0/contain_1200x630.jpg",
-                "url": "https://80.lv/articles/sony-clears-up-the-confusion-over-its-2028-disc-production-numbers",
-                "source": "80 Level",
-                "date": "2026-09-07T09:39:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Portal returns in free new remake of original game, download and play now",
-                "desc": "The perfect excuse to come and replay this gem!",
-                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltd9ca05fe39edc3de/6a9e7da94504903af70be7b4/portal.jpg",
-                "url": "https://www.gamingbible.com/news/platform/steam/portal-alive-and-kicking-steam-release-534350-20260907",
-                "source": "GAMINGbible",
-                "date": "2026-09-07T09:39:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sid Meier's Civilization VII adds Arc of Tomorrow update and Earthrise expansion",
-                "desc": "At PAX West, in celebration of the franchise’s 35th anniversary, 2K and Firaxis Games announced new updates for Sid Meier's Civilization VII.",
-                "image": "https://gamesbeat.com/wp-content/uploads/2026/09/Civilisation.jpg",
-                "url": "https://gamesbeat.com/sid-meiers-civilization-vii-adds-arc-of-tomorrow-update-and-earthrise-expansion/",
-                "source": "GamesBeat",
-                "date": "2026-09-07T09:37:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nintendo lifts Switch 2 bans after reported system fault",
-                "desc": "Nintendo has reportedly reversed Switch 2 online bans after users encountered error code 2124-4508",
-                "image": "https://i.tribune.com.pk/media/images/nintendo-switch1743608865-0/nintendo-switch1743608865-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2627916/nintendo-lifts-switch-2-bans-after-reported-system-fault",
-                "source": "The Express Tribune",
-                "date": "2026-09-07T09:35:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Leaked Photos of G-Shock's £100 Answer to the £30k Patek Philippe Nautilus Have Landed",
-                "desc": "The upcoming G-SHOCK GAC-2500 is fully analogue and arrives in four different colours",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/2a24ac74-2f49-4cdf-93fc-71a8ef1348a9.png?crop=1.00xw:0.502xh;0,0.287xh&resize=1200:*",
-                "url": "https://www.esquire.com/uk/watches/a73629557/casio-nautilus/",
-                "source": "Esquire",
-                "date": "2026-09-07T09:35:33Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Ghana calls for a new approach to youth employment",
+                "desc": "Douglas Boateng called on African countries to shift youth education and employment policies toward entrepreneurship, technical skills, and job creation.",
+                "image": "https://cdn-cabinet.ua.news/uploads/images/ghana_call_to_change_youth_employment_ap_1788867361673.webp",
+                "url": "https://ua.news/en/world/u-gani-zaklikali-zminiti-pidkhid-do-pratsevlashtuvannia-molodi",
+                "source": "UA.NEWS",
+                "date": "2026-09-08T11:39:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Where’s the Beef (Coming From)?",
+                "desc": "Meat and freedom!",
+                "image": "https://substackcdn.com/image/fetch/$s_!CF7B!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F214707797%2F307ddf41-10d2-4d14-bd96-7f38f2d2de94%2Ftranscoded-00001.png",
+                "url": "https://paulkrugman.substack.com/p/wheres-the-beef-coming-from",
+                "source": "Paul Krugman | Substack",
+                "date": "2026-09-08T11:38:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UAE warned Netanyahu of Hamas plan days before 2023 attack? New report makes shocking claims",
+                "desc": "About ten days before the attack, Benjamin Netanyahu was reportedly told that then-Hamas chief Yahya Sinwar was preparing a major operation against Israel. | World News",
+                "image": "https://www.hindustantimes.com/ht-img/img/2026/09/08/1600x900/logo/NETANYAHU_1788863305128_a0526eb4-0b42-4ce9-ab50-68984cbbc78a_1788863305316_4f5be5d9-a2d1-42da-af97-74c51457420d_846235ab-a560-4825-8098-e1bfbb95270c_01e9b6fe-d28a-4a98-8b07-722c38e4a764.jpg",
+                "url": "https://www.hindustantimes.com/world-news/uae-warned-netanyahu-of-hamas-plan-days-before-oct-7-2023-attack-new-report-makes-shocking-claims-101788863207265.html",
+                "source": "Hindustan Times",
+                "date": "2026-09-08T11:37:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lord Advocate 'concerned' as domestic abuse charges rise by 14%",
+                "desc": "Lord Advocate Ruth Charteris KC said protecting women and girls from abusive men would be a priority during her time in office.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d524/live/e2314fe0-ab72-11f1-9712-a14d469bace4.jpg",
+                "url": "https://www.bbc.com/news/articles/cdx5lxdwyqzo",
+                "source": "BBC",
+                "date": "2026-09-08T11:37:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canadian Travel Advisories Issued for 9 Popular Fall Vacation Destinations",
+                "desc": "Government of Canadian travel advisories for 9 fall destinations, including Mexico, the U.K., Jamaica, and Cuba.",
+                "image": "https://canadiantravelnews.ca/wp-content/uploads/2026/09/pexels-lara-jameson-8828422-100kb.jpg",
+                "url": "https://canadiantravelnews.ca/canadian-travel-advisories-issued-for-9-destinations/",
+                "source": "Canadian Travel News",
+                "date": "2026-09-08T11:36:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s Peace Depends on Women and Young Voices at the Table",
+                "desc": "Burundi’s First Lady, H.E. Angeline Ndayishimiye, described African women as essential contributors to conflict prevention, community reconciliation, survivor support and the rebuilding of trust after violence.",
+                "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/08_09_2026_16_59_51_8262375.png&width=920&format=jpeg",
+                "url": "https://www.devdiscourse.com/article/other/3974271-africas-peace-depends-on-women-and-young-voices-at-the-table",
+                "source": "Devdiscourse",
+                "date": "2026-09-08T11:36:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "First Thing: Trade dispute escalates as new Canadian tariffs on US goods come into effect",
+                "desc": "Stalemate between two nations leads to tit-for-tat measures on wide range of imports",
+                "image": "https://i.guim.co.uk/img/media/88450bbf444e02daf5136139770ea31182c97a7a/0_0_3558_2847/master/3558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f07c331f4aabf9ebf09456a3344a6f7",
+                "url": "https://www.theguardian.com/us-news/2026/sep/08/first-thing-tariffs-us-canada",
+                "source": "The Guardian",
+                "date": "2026-09-08T11:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s Roads Are Taking Young Lives- and Costing Economies Billions",
+                "desc": "Road crashes are estimated to cost many African countries between 3% and 5% of gross domestic product through medical expenses, lost productivity, property damage and pressure on public services.",
+                "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/08_09_2026_16_54_04_5257453.png&width=920&format=jpeg",
+                "url": "https://www.devdiscourse.com/article/other/3974267-africas-roads-are-taking-young-lives--and-costing-economies-billions",
+                "source": "Devdiscourse",
+                "date": "2026-09-08T11:33:45Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Piers Morgan reacts to Meghan Markle, Prince Harry's statement on King Charles letter",
+                "desc": "Outspoken journalist Piers Morgan has expressed his views over Prince Harry and Meghan Markle’s 'surprise' response to King Charles letter regarding their royal status.King Charles on Monday...",
+                "image": "https://www.thenews.com.pk/assets/uploads/2026-09-08/1415387_043112_updates.jpg",
+                "url": "https://www.thenews.com.pk/latest/1415387-piers-morgan-reacts-to-meghan-markle-prince-harrys-statement-on-king-charles-letter",
+                "source": "The News International",
+                "date": "2026-09-08T11:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "As Sweden heads to polls, Israel and Palestine policies are on the ballot",
+                "desc": "With the left-wing coalition ahead in polling, the current right-wing government’s policies could soon be up for debate.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2024/04/DSCF0092-1714231124.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot",
+                "source": "Al Jazeera",
+                "date": "2026-09-08T11:30:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "UN calls for immediate ceasefire as Sudan crisis deepens",
                 "desc": "The United Nations is calling for an immediate ceasefire in Sudan, as drone attacks and the destruction of healthcare facilities deepen an already devastating humanitarian crisis.",
@@ -1806,98 +1896,8 @@
                 "source": "The Citizen",
                 "date": "2026-09-07T11:53:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Strait of Hormuz is following the Black Sea scenario: Commercial ships become targets of war",
-                "desc": "The situation in the Strait of Hormuz is increasingly resembling developments in the Black Sea, where military confrontation is directly affecting commercial shipping. The United States and Iran have carried out attacks on vessels, raising concerns about prolonged disruptions to oil supplies from the Middle East. Against this backdrop, oil prices continued to rise on",
-                "image": "https://ukragroconsult.com/wp-content/uploads/2026/04/ormuz-1.jpg",
-                "url": "https://ukragroconsult.com/en/news/strait-of-hormuz-is-following-the-black-sea-scenario-commercial-ships-become-targets-of-war/",
-                "source": "ukragroconsult.com",
-                "date": "2026-09-07T09:45:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesia flight disruptions send travellers on marathon journeys as fares surge, trains sell out",
-                "desc": "Flight disruptions caused by Mount Anak Krakatau’s eruption are forcing travellers in Indonesia onto lengthy overland journeys as train tickets sell out and airfares surge.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--Owr3RCTd--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/07/achmad-jason-leong-indonesia-airport-closures.png?itok=5XuLXdeq",
-                "url": "https://www.channelnewsasia.com/asia/indonesia-airport-disruption-mount-anak-krakatau-6366766",
-                "source": "CNA",
-                "date": "2026-09-07T09:45:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine Blows Up Russian Artillery Ammo Depot at Former Poultry Farm in Occupied Luhansk",
-                "desc": "Ukraine’s Special Operations Forces destroyed a Russian artillery ammunition depot in Luhansk region, and released footage of the strike.",
-                "image": "https://storage.united24media.com/og/c/d1/9786cccece0c3a8dd7e33762d610ed1c.png",
-                "url": "https://united24media.com/war-in-ukraine/ukraine-blows-up-russian-artillery-ammo-depot-at-former-poultry-farm-in-occupied-luhansk-22289",
-                "source": "UNITED24 Media",
-                "date": "2026-09-07T09:44:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malaysia forum floats transit levy for Strait of M...",
-                "desc": "Debate is revived on a transit levy for ships passing through the Straits of Malacca and Singapore, with voluntary contributions seen insuffici... Find out more.",
-                "image": "https://imgs.newseditor.aws.kuehne-nagel.cloud/eedb64de-6f30-4275-b2d1-45dc2d777757.jpg",
-                "url": "https://mykn.kuehne-nagel.com/news/article/malaysia-forum-floats-transit-levy-for-strait",
-                "source": "mykn.kuehne-nagel.com",
-                "date": "2026-09-07T09:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cardiff man hit with 'death tax' after inheriting mother's home",
-                "desc": "Phil Bond says he fears people in the same situation may pay the charge without challenging it.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9b5a/live/29bced60-aaa1-11f1-9eba-7de947fa7cd1.jpeg",
-                "url": "https://www.bbc.com/news/articles/c7v4n0mmd0jo",
-                "source": "BBC",
-                "date": "2026-09-07T09:43:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cardiff man hit with 'death tax' after inheriting mother's home",
-                "desc": "Phil Bond says he fears people in the same situation may pay the charge without challenging it.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b5a/live/29bced60-aaa1-11f1-9eba-7de947fa7cd1.jpeg",
-                "url": "https://www.bbc.co.uk/news/articles/c7v4n0mmd0jo",
-                "source": "BBC",
-                "date": "2026-09-07T09:43:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Germany challenges Gaza genocide case at top UN court",
-                "desc": "Germany has told the United Nations’ top court that a genocide case over weapons sales to Israel was improperly filed by Nicaragua and should be thrown out.",
-                "image": "https://dims.apnews.com/dims4/default/c0bdeec/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7e%2F27%2Ff57276484a8f6c1e2bc2630830d5%2F852844274bfa483092560387b3377df6",
-                "url": "https://apnews.com/article/world-court-israel-germany-genocide-nicaragua-arms-1cac60bd1e9f7be1b32523dbb060f6dd",
-                "source": "AP News",
-                "date": "2026-09-07T09:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Finland's largest sex crimes case opens with teacher accused of luring victims on Snapchat",
-                "desc": "There are a total of 361 victims in the case, all boys aged between 9 and 15, with police saying they suspect the true number could be as high as 900.",
-                "image": "https://img.img-cdn.yle.fi/crop_extract,w_5112,h_2875,x_13,y_392/crop_fill,w_1200,h_628/f_auto/39-17031496a9e66a01660a/1788765973",
-                "url": "https://yle.fi/a/74-20244932",
-                "source": "Yle",
-                "date": "2026-09-07T09:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dr Amo Collins: Business Mogul’s Lavish Marble Mansion Interior Wows TikTok",
-                "desc": "A businessman showcases his opulent mansion with gold-trimmed staircases and baroque interiors, leaving viewers worldwide in awe of his extravagant luxury.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/6e1e98b6fdcb8490.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/people/638874-dr-amo-collins-business-moguls-lavish-marble-mansion-interior-wows-tiktok/",
-                "source": "Tuko News",
-                "date": "2026-09-07T09:38:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Applications open for GPHSF Senior Care Micro Grant Program (Canada)",
-                "desc": "Deadline: 30-Sep-2026 The Greater Peterborough Health Services Foundation (GPHSF) Senior Care Micro Grant Program provides funding to not-for-profit organizations and registered charities for projects that support senior care and healthy aging in the Peterborough area. For the 2026 funding cycle, two grants of up to $5,000 each are available, providing a total of $10,000 to",
-                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-                "url": "https://www2.fundsforngos.org/equipment/applications-open-for-gphsf-senior-care-micro-grant-program-canada/",
-                "source": "fundsforngos.org",
-                "date": "2026-09-07T09:37:28Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-08T21:27:15.138365Z"
+    "lastGlobalSync": "2026-09-08T23:41:07.525425Z"
 }
