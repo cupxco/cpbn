@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "DStv Officially Launches 5 New Packages, Releases New Pricing, Colour",
+                "desc": "DStv has unveiled five new packages, updated streaming prices and refreshed branding as Canal+ reshapes the broadcaster for changing customer viewing habits.",
+                "image": "https://cdn.legit.ng/images/1200x675/3fd85467ee2be151.jpeg?v=1",
+                "url": "https://www.legit.ng/business-economy/industry/1729536-dstv-officially-launches-packages-pricing-branding/",
+                "source": "Legit News",
+                "date": "2026-09-08T06:28:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Autoliv Advances Vehicle Safety Through Virtual Testing",
+                "desc": "**media[1206678]**STOCKHOLM, Sept. 8, 2026 /PRNewswire/ -- Autoliv, Inc. (NYSE: ALV) (SSE: ALIVsdb), the worldwide leader in automotive safety systems, is advancing the development of virtual testing through its Human Body Model (HBM) Safety Suite. The platform is designed to support the development of safer vehicles, with Toyota as the first customer onboarded to evaluate its capabilities.**media[1206679]**",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/08/1206676.jpg",
+                "url": "https://www.manilatimes.net/2026/09/08/tmt-newswire/pr-newswire/autoliv-advances-vehicle-safety-through-virtual-testing/2420189",
+                "source": "The Manila Times",
+                "date": "2026-09-08T06:27:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meet New MGTL Series: Sungrow's Latest Innovation for Homes and Businesses",
+                "desc": "**media[1206670]**DA NANG, Vietnam, Sept. 8, 2026 /PRNewswire/ -- Sungrow, the global leading PV inverter and energy storage system provider, proudly announced the launch of the next-generation three-phase hybrid inverters MGTL Series across Southeast Asia, Africa, Latin America, and beyond.**media[1206671]**",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/08/1206668.jpg",
+                "url": "https://www.manilatimes.net/2026/09/08/tmt-newswire/pr-newswire/meet-new-mgtl-series-sungrows-latest-innovation-for-homes-and-businesses/2420187",
+                "source": "The Manila Times",
+                "date": "2026-09-08T06:27:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MP questions if taxpayers could end up bailing out AirAsia",
+                "desc": "Questions raised over ministry's appointment of consultant to assess airline’s funding needs.",
+                "image": "https://s.malaysiakini.com/i/N-5zYw51w70fKJlf5rYEXKyGxv0=/1200x0/filters:strip_exif()/file/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2025/08/875fa5ce3a2cd57665badcbb87cf0064.jpg",
+                "url": "https://www.malaysiakini.com/news/884571-mp-questions-if-taxpayers-could-end-up-bailing-out-airasia",
+                "source": "Malaysiakini",
+                "date": "2026-09-08T06:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ASML Partners with Chipmakers to Advance High NA EUV Technology",
+                "desc": "ASML teams with major chipmakers to develop advanced High NA EUV tools for larger data center chips, targeting high-volume production by 2033.",
+                "image": "https://www.globalbankingandfinance.com/i/cloud-6f9308ee-a3d8-454b-bbbd-0e231ff4c87f/width=1200,height=630,quality=80,format=auto,fit=cover/",
+                "url": "https://www.globalbankingandfinance.com/asml-work-major-chipmakers-use-latest-tools-larger-chips/",
+                "source": "Global Banking & Finance Review",
+                "date": "2026-09-08T06:21:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Impact of dimensionality reduction on machine learning-based crop health prediction",
+                "desc": "Accurately predicting fungal disease dynamics poses a major challenge for data-driven sustainable agriculture. This study evaluates the impact of dimensionality reduction (DR) on the predictive performance of classical machine learning (ML) and deep learning (DL) models for classification (fungal disease occurrence) and regression (fungal disease severity) tasks using multidimensional meteorological and phytosanitary data collected from carrot, lettuce, and onion farms in southern Quebec (Canada). We systematically benchmark traditional ML models - Decision Tree (DT), Random Forest (RF), and k-Nearest Neighbours (k-NN), a basic non-temporal deep learner - Multilayer Perceptron (MLP), recurrent DL models - Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU), as well as state-of-the-art Mamba state-space model (SSM) and pretrained tabular foundation model TabPFN, each of them combined with linear (PCA and MDS), nonlinear (KernelPCA and Isomap), and domain-informed (BOTCAST) DR methods. TabPFN provides the best overall performance in classification and RF in regression, while LSTM and GRU networks rank among top-performing models for both tasks. In classification, DR methods combine well with TabPFN and the recurrent approaches, with the BOTCAST + TabPFN, PCA + TabPFN, and Isomap + GRU pairings, yielding the best overall classification results for carrot, lettuce, and onion data, respectively. In regression, nonlinear DR methods perform best when coupled with ensemble learners (i.e. the best overall results were obtained by the KernelPCA + RF pairing for both lettuce and onion data), while the domain-informed BOTCAST embedding yields excellent results when combined with TabPFN (i.e. the best overall result was obtained by the BOTCAST + TabPFN pairing for carrot data). Overall, the success of predictions largely depends on a good alignment of the selected dimensionality reduction strategy with the downstream machine learning or deep learning model. Our results provide practical guidance for decision-support systems aiming at forecasting fungal disease occurrence and severity in agricultural plants.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-70317-8?error=cookies_not_supported&code=2a13a407-f3c3-4791-9f98-f04ea29c48fb",
+                "source": "Nature",
+                "date": "2026-09-08T06:20:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hong Kong stocks face double threat: US inflation and yen carry-trade risks",
+                "desc": "Investors are bracing for higher borrowing costs and further volatility as US and Japanese rate expectations shift.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/08/94b7a86c-13d8-49c7-8c2b-d4ce0d262534_95a177b4.jpg?itok=AnetjZLU&v=1788848358",
+                "url": "https://www.scmp.com/business/china-business/article/3366736/hong-kong-stocks-face-double-threat-us-inflation-and-yen-carry-trade-risks",
+                "source": "South China Morning Post",
+                "date": "2026-09-08T06:19:20Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Cyber premiums are falling as AI attacks accelerate - Moody's",
+                "desc": "Silent cyber exposure is creeping into property and casualty books never built to price it",
+                "image": "https://cdn-res.keymedia.com/cms/images/us/023/0382_639244447398976819.png",
+                "url": "https://www.insurancebusinessmag.com/uk/news/cyber/cyber-premiums-are-falling-as-ai-attacks-accelerate--moodys-588974.aspx",
+                "source": "Insurance Business",
+                "date": "2026-09-08T06:18:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poste boosts cash offer in Telecom Italia takeover bid",
+                "desc": "MILAN, Sept 8 (Reuters) - Poste Italiane has raised the cash component of its takeover offer for Telecom Italia, sweetening terms for shareholders as it seeks to secure control of Italy's former phone monopoly. Poste, which had previously built a 20% stake in TIM, launched its bid earlier this year as part of a plan to create a national champion in digital infrastructure and services.",
+                "image": "https://live.euronext.com/favicon.ico",
+                "url": "https://live.euronext.com/en/financial-news/poste-boosts-cash-offer-telecom-italia-takeover-bid",
+                "source": "Euronext Markets: Real-time Stock Market Data | live",
+                "date": "2026-09-08T06:16:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "German Exports Unexpectedly Fall in July 2023, Trade Surplus Widens",
+                "desc": "German exports fell 0.8% in July 2023, ending months of growth. EU shipments dropped, while the trade surplus rose to €21.3B. Read the full analysis.",
+                "image": "https://www.globalbankingandfinance.com/i/cloud-076209b1-5f90-4a4d-b36a-d49ded003fe2/width=1200,height=630,quality=80,format=auto,fit=cover/",
+                "url": "https://www.globalbankingandfinance.com/german-exports-fall-july/",
+                "source": "Global Banking & Finance Review",
+                "date": "2026-09-08T06:16:24Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
                 "desc": "Wistron shares fall Tuesday after announcement of $1.5 billion global share sale",
                 "image": "https://image.cnbcfm.com/api/v1/image/108359544-1788833315910-gettyimages-1068707682-GC041570.jpeg?v=1788833521&w=1920&h=1080",
@@ -542,99 +632,99 @@
                 "source": "cnevpost.com",
                 "date": "2026-09-07T06:14:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Baidu Shares Join Shanghai and Shenzhen Stock Connect",
-                "desc": "Baidu expects the two additions to diversify its investor base and enhance share liquidity; both programs became effective Sept. 7, 2026, Beijing time.",
-                "image": "https://www.stocktitan.net/news_covers/Baidu_Announces_Inclusion_of_Its_Class_A_Ordinary_Shares_in_the_Shenzhen_Hong_Kong_Stock_Connect_and_1501375.webp",
-                "url": "https://www.stocktitan.net/news/BIDU/baidu-announces-inclusion-of-its-class-a-ordinary-shares-in-the-iogm3pquc9rz.html",
-                "source": "stocktitan.net",
-                "date": "2026-09-07T01:02:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UOBKH 'Alpha Picks' beats STI in August due to large-caps; Sats in for September",
-                "desc": "The Singapore portfolio rises 5.6% on a market cap-weighted basis while the STI gains 2.3% Read more at The Business Times.",
-                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/d19fde4396c18dde82273af68af22fbcf648b8b6e2b4002b027fff83d1073220?w=1920&f=webp",
-                "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/uobkh-alpha-picks-beats-sti-august-due-large-caps-sats-september",
-                "source": "The Business Times",
-                "date": "2026-09-07T01:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A new risk for global investors: Why access to markets, currency and financial systems may become tools of pressure",
-                "desc": "Once a country begins to treat access to its markets, its currency and its financial system as instruments of pressure, then the logic will get applied to more and more cases. The fact is that the US has become addicted to coercion through economic measures and not only will this habit be hard to break, it will expand to more and more areas.",
-                "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1533048,resizemode-75,msid-133785992/wealth/invest/a-new-risk-for-global-investors-why-access-to-markets-currency-and-financial-systems-may-become-tools-of-pressure.jpg",
-                "url": "https://economictimes.indiatimes.com/wealth/invest/a-new-risk-for-global-investors-why-access-to-markets-currency-and-financial-systems-may-become-tools-of-pressure/articleshow/133785992.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-09-07T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A StubHub Executive Dumps Over 10% of Their Company Shares Worth $1.1 Million",
-                "desc": "The insider disposed of 12% of their direct equity stake as the stock price for the world's largest peer-to-peer ticketing marketplace remains near 52-week lows.",
-                "image": "https://s.yimg.com/lo/mysterio/api/49a99cd3d044aa979bfb6b73d6fe111d4055d875f8f1148669d3257f58f10b65/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F493481cc238529aefc80335a85115c6c.png",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/stubhub-executive-dumps-over-10-005855113.html",
-                "source": "Yahoo Finance",
-                "date": "2026-09-07T00:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NAICOM Shifts Focus to Insurance Penetration in Nigeria",
-                "desc": "NAICOM launches a new program to boost insurance penetration in Nigeria, targeting youth, women, and MSMEs after successful recapitalisation.",
-                "image": "https://punchng.com/wp-content/uploads/2026/06/NAICOM.webp",
-                "url": "https://punchng.com/naicom-shifts-focus-to-insurance-penetration-after-recapitalisation/",
-                "source": "Punch Newspapers",
-                "date": "2026-09-07T00:56:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lasaco Shareholders Approve Directors' Re-election, Appointm",
-                "desc": "Lasaco shareholders approved the re-election of a director and ratified three new appointments at the 46th AGM, ensuring strong corporate governance.",
-                "image": "https://punchng.com/wp-content/uploads/2026/07/Lasaco-Assurance-Plc_1784159118.webp",
-                "url": "https://punchng.com/lasaco-shareholders-approve-directors-re-election-appointments/",
-                "source": "Punch Newspapers",
-                "date": "2026-09-07T00:56:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Data Key for Underwriting",
-                "desc": "Newly recapitalised Nigerian insurers need standardised housing data to effectively underwrite construction bonds and title insurance for housing at scale.",
-                "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/07010550/WhatsApp-Image-2026-09-06-at-9.20.12-PM_1788739550-1200x630.webp",
-                "url": "https://punchng.com/recapitalised-insurers-need-housing-data-for-better-underwriting/",
-                "source": "punchng.com",
-                "date": "2026-09-07T00:56:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "VinFast Auto (VFS) Quietly Pumps the Brakes on Its India Manufacturing Plans",
-                "desc": "VinFast Auto Ltd. (NASDAQ:VFS) has suspended plans to manufacture three electric vehicles in India and told suppliers to “hold all activities” on those programs while it reassesses costs, according to two sources and a company memo reviewed by Reuters. The paused programs include the VF3, a two-door SUV expected to be VinFast’s most competitive model […]",
-                "image": "https://s.yimg.com/lo/mysterio/api/e2d16d7b51dedba9dd185ef22ac5f366604b2d0a9cd0444810e4eff34c262adb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F1dc0bf3a4e860bf2643e0940a02dd830.jpg",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/vinfast-auto-vfs-quietly-pumps-005526359.html",
-                "source": "Yahoo Finance",
-                "date": "2026-09-07T00:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ghana warned of cartel behavior signs over cement surcharge",
-                "desc": "CUTS International raised competition concerns over COCMAG’s uniform 12-cedi cement surcharge linked to clinker vessel demurrage costs at the Port of Tema.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/ghana_cement_demurrage_surcharge_cartel_1788742034838.webp",
-                "url": "https://ua.news/en/world/u-gani-poperedili-pro-oznaki-kartelnoyi-povedinki-cherez-doplatu-na-tsement",
-                "source": "ua.news",
-                "date": "2026-09-07T00:54:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan’s reserves fell by a record $79.6 billion after interventions",
-                "desc": "Japan’s foreign exchange reserves fell by a record $79.6 billion in August after large-scale interventions to support the yen.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/japan_foreign_reserves_record_drop_after_1788741321222.webp",
-                "url": "https://ua.news/en/finansi/rezervi-iaponiyi-u-serpni-rekordno-skorotilisia-pislia-valiutnikh-interventsii",
-                "source": "UA.NEWS",
-                "date": "2026-09-07T00:54:48Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "The Legend of Zelda Ocarina of Time Price Leaked in Early Australian Store Listing",
+                "desc": "The Legend of Zelda Ocarina of Time price has been leaked in an early Australian store listing. Find out more about it here.",
+                "image": "https://static.beebom.com/wp-content/uploads/2026/07/Link-in-The-Legend-of-Zelda-Ocarina-of-Time-Remake-1.jpg",
+                "url": "https://beebom.com/the-legend-of-zelda-ocarina-of-time-price-leaked/",
+                "source": "Beebom",
+                "date": "2026-09-08T06:23:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TechBites Unifies Loyalty Across Beyond the Box, Digital Walker, and Tasteless Food Group Dining",
+                "desc": "TechBites, the unified loyalty app of Digits Trading, lets members earn points across Beyond the Box, Digital Walker, open_source, and Tasteless Food Group restaurants with a single account.",
+                "image": "https://cdn.gadgetpilipinas.net/wp-content/uploads/2026/09/techbites-concept-1920x1920.webp",
+                "url": "https://www.gadgetpilipinas.net/2026/09/techbites-digits-loyalty-app/",
+                "source": "Gadget Pilipinas",
+                "date": "2026-09-08T06:23:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung brings Galaxy S26 and Fold 8 AI Features to Galaxy S25",
+                "desc": "Samsung just released One UI 9 Beta 2 for the Galaxy S25 series, and it delivers several of the most anticipated Galaxy AI features.",
+                "image": "https://sammyguru.com/wp-content/uploads/2025/03/Galaxy-S25-Ultra-SammyGuru-20-1024x576.jpg",
+                "url": "https://sammyguru.com/galaxy-s25-new-one-ui-9-ai-features/",
+                "source": "SammyGuru",
+                "date": "2026-09-08T06:18:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "On-Device Generative AI Market",
+                "desc": "In 2025, the Global On-Device Generative AI Market was valued at USD 6.0 Bn and is projected to reach USD 129.8 Bn by 2035, at a 36.0% CAGR.",
+                "image": "https://market.us/wp-content/uploads/2026/09/Global-On-Device-Generative-AI-Market-Size-Valuation-Chart-2025.jpg",
+                "url": "https://market.us/report/on-device-generative-ai-market/",
+                "source": "Market.us",
+                "date": "2026-09-08T06:04:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is Sony preparing Gran Turismo 8? Polyphony Digital has started looking for developers",
+                "desc": "Polyphony Digital has opened a large-scale recruitment for developers, from car physics programmers to interface designers.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1299403/9322f395-e47b-4771-88ce-3453f4de3887.jpg",
+                "url": "https://ixbt.games/en/news/2026/09/08/433254-sony-gotovit-gran-turismo-8-polyphony-digital-nacala-iskat-razrabotcikov.html",
+                "source": "ixbt.games",
+                "date": "2026-09-08T06:03:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Leica's Impressive Four-Year Streak of Record-Setting Revenue Just Ended",
+                "desc": "Leica came up just short of setting revenue records for a fifth straight year. However, Leica still showed very strong signs of growth.",
+                "image": "https://petapixel.com/assets/uploads/2026/09/02_Headquarter-Leica-Camera-AG.jpg",
+                "url": "https://petapixel.com/2026/09/07/leicas-impressive-four-year-streak-of-record-setting-revenue-just-ended/",
+                "source": "PetaPixel",
+                "date": "2026-09-08T06:01:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LEGO Fights Off Mattel’s XBOX Brick Set With a 1:1 Replica of the Original PlayStation",
+                "desc": "Danish toymaker LEGO announced an almost 1:1 replica of the original PlayStation console from the 1990s, price set at $179.99.",
+                "image": "https://s1.cdn.autoevolution.com/images/news/lego-fights-off-mattels-xbox-brick-set-with-a-11-replica-of-the-original-playstation-275233_1.jpg",
+                "url": "https://www.autoevolution.com/news/lego-fights-off-mattels-xbox-brick-set-with-a-11-replica-of-the-original-playstation-275233.html",
+                "source": "autoevolution",
+                "date": "2026-09-08T05:59:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony’s new WH-1000XM4C headphones get new upgrades, while keeping the same portable design",
+                "desc": "Sony has just surprised us with the new WH-1000XM4C headphones, with new upgrades like Bluetooth 6.0 support while retaining the compact folding design of the original.",
+                "image": "https://cassette.sphdigital.com.sg/image/hardwarezone/1a1b15bcec14a7c550aaac6d20ff3fd453b054316fca625f882dbc4a70dde38f",
+                "url": "https://www.hardwarezone.com.sg/lifestyle/audio/sony-wh-1000xm4c-headphones-launch-singapore-price",
+                "source": "HardwareZone",
+                "date": "2026-09-08T05:59:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Inside Pratilipi’s plan to power the supply-chain of Tiktok, Jiohotstar’s microdramas",
+                "desc": "The Indian self-publishing platform is becoming a licensing hub for microdrama IPs, backed by millions of user-generated stories",
+                "image": "https://the-ken.com/wp-content/uploads/2026/09/poncephotography-crayons-1445053-1-1-768x424.jpg",
+                "url": "https://the-ken.com/tradetricks/inside-pratilipis-plan-to-power-the-supply-chain-of-tiktok-jiohotstars-microdramas/",
+                "source": "The Ken",
+                "date": "2026-09-08T05:50:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xiaomi Unleashes 9.9 MegaSale Deals With Massive Price Drops",
+                "desc": "This 9.9, Xiaomi promotes an upgrade in lifestyle with the 2026 MegaSale, offering discounts up to PHP 5,700 on select Xiaomi devices and PHP 12,000 on select",
+                "image": "https://cdn.gadgetpilipinas.net/wp-content/uploads/2026/09/POCO_9.9-Mega-Sale.webp",
+                "url": "https://www.gadgetpilipinas.net/2026/09/xiaomi-unleashes-9-9-megasale/",
+                "source": "Gadget Pilipinas",
+                "date": "2026-09-08T05:48:41Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "MBV Future Builders Conference puts circular construction into practice",
                 "desc": "Master Builders Victoria’s 2026 Future Builders Conference explored circular construction, adaptive reuse and modular thinking, including Fieldwork’s refurbishment of MBV’s East Melbourne headquarters.",
@@ -1174,99 +1264,99 @@
                 "source": "GoNintendo",
                 "date": "2026-09-07T06:01:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "AMD RX 9070XT and Ryzen 7 7800X3D gaming PC is just $1,899.99 in Newegg deal, plus comes with free game worth $69.99",
-                "desc": "This is an excellent value PC for 1440p gaming, plus comes bundled with the excellent Onimusha - don't miss out!",
-                "image": "https://www.pcguide.com/wp-content/uploads/2026/09/RX-9070XT-and-Ryzen-7-7800X3D-gaming-PC-is-just-1899.99-in-Newegg-deal-plus-comes-with-free-game-worth-69.99.jpg",
-                "url": "https://www.pcguide.com/deals/amd-rx-9070xt-and-ryzen-7-7800x3d-gaming-pc-is-just-1899-99-in-newegg-deal-plus-comes-with-free-game-worth-69-99/",
-                "source": "PC Guide",
-                "date": "2026-09-07T01:00:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Greater Shepparton Hosts AUSactive's Million Moves Launch",
-                "desc": "Greater Shepparton hosted the national launch of AUSactive's Million Moves campaign at Western Park on Tuesday 1 September, bringing the community",
-                "image": "https://greatershepparton.com.au/images/assets/files/images/news/2026/09/million-moves-launch~1500_width_424f.jpg",
-                "url": "https://www.miragenews.com/greater-shepparton-hosts-ausactives-million-1739596/",
-                "source": "Mirage News",
-                "date": "2026-09-07T00:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motorola is making its version of MagSafe",
-                "desc": "Announced at this year’s IFA Conference in Berlin, Motorola is making a move into the magnetic charging space.",
-                "image": "https://r3.whistleout.com.au/public/images/articles/2026/09/Motorola-Moto-Snap.jpg?w=1200&h=630&fit=fill&fill=blur",
-                "url": "https://www.whistleout.com.au/MobilePhones/News/motorola-magsnap-ifa",
-                "source": "WhistleOut",
-                "date": "2026-09-07T00:55:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Report: Sourcing disc drives becoming 'problematic' for Xbox amid diminishing disc supply chain",
-                "desc": "New reports from Digital Foundry say that Microsoft may be having a difficult time securing the optical disc drives required for physical disc media.",
-                "image": "https://static.tweaktown.com/news/1/1/113430_2_report-sourcing-disc-drives-becoming-problematic-for-xbox-amid-diminishing-supply-chain_full.png",
-                "url": "https://www.tweaktown.com/news/113430/report-sourcing-disc-drives-becoming-problematic-for-xbox-amid-diminishing-disc-supply-chain/index.html",
-                "source": "TweakTown",
-                "date": "2026-09-07T00:54:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Freestyle Football 2' Named Top Anticipated Game at PAX West 2026",
-                "desc": "ⓒ JoycityJoycity announced on the 7th that 'Freestyle Football 2', a new football game in development by its subsidiary WOORE, ranked 1st in the sports category and 11th overall ac...",
-                "image": "https://static.invenglobal.com/upload/image/2026/09/07/i1788742339252289.jpeg",
-                "url": "https://www.invenglobal.com/articles/25642/freestyle-football-2-named-top-anticipated-game-at-pax-west-2026",
-                "source": "Inven Global",
-                "date": "2026-09-07T00:52:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Seal M2' Unveils Class Videos for 5 Classes... Differentiating Combat Styles",
-                "desc": "PLAYWITH Korea released class introduction videos on the 7th for five classes in its upcoming mobile MMORPG, 'Seal M2'.The videos feature the main skills, combat action, and actual gameplay of the Knight, Marksman, Mage, Priest, and Jester.",
-                "image": "https://static.invenglobal.com/upload/image/2026/09/07/i1788742221955053.jpeg",
-                "url": "https://www.invenglobal.com/articles/25639/seal-m2-unveils-class-videos-for-5-classes-differentiating-combat-styles",
-                "source": "Inven Global",
-                "date": "2026-09-07T00:52:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Netmarble Holds Inauguration Ceremony for 26th Class of 'Marble Challenger'",
-                "desc": "ⓒ NetmarbleNetmarble announced on the 7th that it held the inauguration ceremony for the 26th class of its college student supporter program, 'Marble Challenger'.'Marble Challenger...",
-                "image": "https://static.invenglobal.com/upload/image/2026/09/07/i1788742162912041.jpeg",
-                "url": "https://www.invenglobal.com/articles/25637/netmarble-holds-inauguration-ceremony-for-26th-class-of-marble-challenger",
-                "source": "Inven Global",
-                "date": "2026-09-07T00:52:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'NBA 2K27' Officially Launches... Offense and Defense Overhauled",
-                "desc": "ⓒ 2K2K announced on September 7 that 'NBA 2K27', the latest installment in its basketball simulation series, has officially launched.'NBA 2K27' features Victor Wembanyama as its cover athlete.",
-                "image": "https://static.invenglobal.com/upload/image/2026/09/07/i1788742278692254.jpeg",
-                "url": "https://www.invenglobal.com/articles/25641/nba-2k27-officially-launches-offense-and-defense-overhauled",
-                "source": "Inven Global",
-                "date": "2026-09-07T00:52:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Blizzard is preparing a major 3.0 update for Warcraft III: Reforged - dataminer",
-                "desc": "It is assumed that developers will show the next update at BlizzCon.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1298829/media-rtolqzg2wmyjlwgxkvwkpfih.png",
-                "url": "https://ixbt.games/en/news/2026/09/07/blizzard-gotovit-dlia-warcraft-iii-reforged-bolsoe-obnovlenie-30-datamainer.html",
-                "source": "ixbt.games",
-                "date": "2026-09-07T00:52:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Depth Analysis of Global Technical Routes [SMM Analysis]",
-                "desc": "[SMM Analysis: How to Overcome the High-Pressure Challenge of Sulphide Solid-State Batteries — An In-Depth Analysis of Global Technical Routes] On September 1, 2026, China FAW Group, in...",
-                "image": "https://static.metal.com/common.metal.com/images/header-en/smm-logo.png",
-                "url": "https://news.metal.com/newscontent/104096511-how-to-overcome-the-high-pressure-challenge-of-sulphide-solid-state-batteriesan-in-depth-analysis-of-global-technical-routes-smm-analysis",
-                "source": "SMM Metal",
-                "date": "2026-09-07T00:52:06Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Submit Applications for TDD Research Pathways Grant",
+                "desc": "Deadline: 02-Oct-2026 The TDD Research Pathways Grant provides funding of up to $15,000 for early-career investigators and trainees worldwide conducting research on TANGO2 Deficiency Disorder (TDD). The programme is designed to support emerging scientists, clinicians, and researchers working to improve understanding, diagnosis, treatment, and outcomes for people affected by this rare disorder. By investing in",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/individuals/submit-applications-for-tdd-research-pathways-grant/",
+                "source": "fundsforNGOs",
+                "date": "2026-09-08T06:27:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call for Expression of Interest: Community Empowerment and Engagement in Democratic (Congo DR)",
+                "desc": "Deadline: 30-Sep-2026 The United Nations High Commissioner for Refugees (UNHCR) is inviting NGOs in the Democratic Republic of the Congo (DRC) to submit concept notes for projects that strengthen community empowerment, inclusion, participation, and resilience among displaced and host populations. The programme responds to the prolonged displacement and protection crisis in the DRC, where armed",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/leadership/call-for-expression-of-interest-community-empowerment-and-engagement-in-democratic-congo-dr/",
+                "source": "fundsforNGOs",
+                "date": "2026-09-08T06:27:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call for EOIs: HOPE Papua Holistic Outreach for Protecting and Empowering Children (Indonesia)",
+                "desc": "Deadline: 10-Sep-2026 The United Nations International Children’s Emergency Fund (UNICEF) is seeking partners to strengthen child protection systems and improve access to essential services for children across Tanah Papua, Indonesia. The programme focuses on child protection governance, birth registration, mental health and psychosocial support (MHPSS), and positive social norms. The initiative responds to persistent challenges",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/community-development-2/call-for-eois-hope-papua-holistic-outreach-for-protecting-and-empowering-children-indonesia/",
+                "source": "fundsforNGOs",
+                "date": "2026-09-08T06:27:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tanzania’s regional peace role in focus at women’s conference",
+                "desc": "Tanzania will host the first Women’s Parliamentary Conference in November, giving the country an opportunity to strengthen its role in regional peace and security efforts while promoting greater...",
+                "image": "https://www.thecitizen.co.tz/resource/image/5587394/landscape_ratio3x2/1200/800/705d641bcd66dd81954f8d072f4861ef/fX/women-pic.jpg",
+                "url": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-regional-peace-role-in-focus-at-women-s-conference-5587390",
+                "source": "thecitizen.co.tz",
+                "date": "2026-09-08T06:27:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan not confident that U.S. relations will improve after Trump, survey finds",
+                "desc": "Japan views the U.S. as a necessary partner but has low confidence it will become “a better ally” after Donald Trump’s second term ends.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/561837.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/quad-japan-us-china-asia/",
+                "source": "The Japan Times",
+                "date": "2026-09-08T06:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is controversy-plagued Pete Hegseth eyeing up a 2028 presidential bid?",
+                "desc": "Trump’s secretary of war has terrible approval ratings and a cabinet career defined by indefatigable bombast",
+                "image": "https://www.irishtimes.com/resizer/v2/MXN3XAGJ4XJDIEPK7J7WGXGN74.jpg?smart=true&auth=20d6b6d31c906daae963077c8251a1da221c75731d03f6433455a8adf2e7f65a&width=1200&height=630",
+                "url": "https://www.irishtimes.com/world/us/2026/09/08/is-controversy-plagued-pete-hegseth-eyeing-up-a-2028-presidential-bid/",
+                "source": "irishtimes.com",
+                "date": "2026-09-08T06:24:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "1658 Days of russia-Ukraine War - russian Casualties in Ukraine",
+                "desc": "The russians are facing non-stop military losses on Ukrainian soil. About 1,451,750 aggressor's troops were eliminated, 448,540 air targets of invaders were shot down, thousands of tanks, armored vehicles and trucks were destroyed by the defenders of Ukraine",
+                "image": "https://en.defence-ua.com/media/illustration/articles/1da6a9fa7c18e645.jpg",
+                "url": "https://en.defence-ua.com/news/1658_days_of_russia_ukraine_war_russian_casualties_in_ukraine-19712.html",
+                "source": "Defense Express",
+                "date": "2026-09-08T06:23:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lithuania Inflation Rate Hits 3-Year High",
+                "desc": "Lithuania’s annual inflation rate rose to 6.1% year-on-year in August 2026 from 5.9% in the previous month, marking the highest reading since August 2023.The increase was driven by faster price growth for transport (15% vs 12.5% in July) and housing and utilities (15.8% vs 15.1%).Costs also increas…",
+                "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+                "url": "https://www.tradingview.com/news/te_news:581880:0-lithuania-inflation-rate-hits-3-year-high/",
+                "source": "TradingView",
+                "date": "2026-09-08T06:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lawmakers React To New Bombshell Report That Netanyahu Was Warned About Oct. 7 Attack Plans",
+                "desc": "An extensive investigation reveals that UAE leaders warned Netanyahu that Hamas leader Yahya Sinwar was planning a major operation, yet the prime minister did not brief Israel's security chiefs",
+                "image": "https://cdn.i24news.tv/uploads/f8/53/7a/c4/4c/64/2c/38/f0/e2/2e/0d/d3/de/2b/fb/f8537ac44c642c38f0e22e0dd3de2bfb.jpg",
+                "url": "https://www.i24news.tv/en/news/israel-at-war/artc-lawmakers-react-to-new-bombshell-report-that-netanyahu-was-warned-about-oct-7-attack-plans",
+                "source": "i24news.tv",
+                "date": "2026-09-08T06:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Court releases photos from trial of Bogie triple",
+                "desc": "Photos tendered to the court during the trial of triple-murderer Darryl Young show the aftermath of the killings he committed on a rural Queensland cattle property.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/ef3899abbfb6fb9312bdbad7a2724ce5?impolicy=wcms_watermark_news&cropH=301&cropW=536&xPos=70&yPos=29&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-09-08/bogie-darryl-young-triple-murder-cattle-evidence-photos-exhibits/107127222",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-09-08T06:19:13Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Malay, Bumiputera education must move beyond quotas, says Zambry",
                 "desc": "Higher education minister says success should be measured by the ability of Malay and Bumiputera students to master STEM, create technology and build globally competitive companies.",
@@ -1806,98 +1896,8 @@
                 "source": "tuko.co.ke",
                 "date": "2026-09-07T06:10:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Asian family philanthropy is ‘a lot more hands-on’-and more corporate-than the West",
-                "desc": "Over three-quarters of Asian family philanthropies partner with government, a contrast with Western donors who get 'nervous' about the state.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2289643929-e1788683950986.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/09/06/asian-family-philanthropy-bridgespan-report-hong-kong-jockey-club/",
-                "source": "fortune.com",
-                "date": "2026-09-07T01:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-                "desc": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg",
-                "url": "https://www.bbc.com/news/articles/c0e3p1j7n3ro",
-                "source": "BBC",
-                "date": "2026-09-07T00:57:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-                "desc": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8f2/live/4a70f2d0-aa39-11f1-9023-2129273d2865.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro",
-                "source": "BBC",
-                "date": "2026-09-07T00:39:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New island appears in Norway’s Svalbard amid rapid glacier melt",
-                "desc": "ASTANA  -   A previously ice-covered landmass has emerged as a new island in Norway’s Svalbard archipelago following the retreat of the Austfonna",
-                "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-                "url": "https://www.nation.com.pk/07-Sep-2026/new-island-appears-norway-s-svalbard-amid-rapid-glacier-melt",
-                "source": "The Nation (Pakistan )",
-                "date": "2026-09-07T00:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hormuz will open when US neither threatens nor attacks Tehran: Iran's security chief",
-                "desc": "Iran's Supreme National Security Council Secretary Mohsen Rezaei has said Tehran will keep the Strait of Hormuz open if the United States stops threatening or attacking Iran.",
-                "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260906232534-thumbnail-320x180-70.jpg",
-                "url": "https://www.aninews.in/news/world/middle-east/hormuz-will-open-when-us-neither-threatens-nor-attacks-tehran-irans-security-chief20260907055629/",
-                "source": "ANI News",
-                "date": "2026-09-07T00:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Controversy is growing as more influencers visit indigenous communities that refuse to contact the o..",
-                "desc": "Controversy is growing as more influencers visit indigenous communities that refuse to contact the outside world and try to shoot. External diseases may spread to indigenous people or violate local la..",
-                "image": "https://pimg.mk.co.kr/news/cms/202609/07/news-p.v1.20260907.1d257190cc8f4ab2a31f378b10f4bd64_R.png",
-                "url": "https://www.mk.co.kr/en/world/12145729",
-                "source": "매일경제",
-                "date": "2026-09-07T00:23:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australians could opt out of social media algorithms under new law",
-                "desc": "Australians could be given the option of opting out of powerful social media algorithms under new legislation cracking down on big tech, a minister said Monday.\"A lot of Australians appreciate the alg...",
-                "image": "https://s.yimg.com/lo/mysterio/api/436fdd429056b0e0f7c826ce2ae699c46123aabb9502a7fea524382f97dc534e/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F83cbf601dbdc4ed35685c6b159a1e02c.jpg",
-                "url": "https://www.yahoo.com/news/world/articles/australians-could-opt-social-media-000332289.html",
-                "source": "Yahoo",
-                "date": "2026-09-07T00:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Global Police Unite to Combat Cross-Border Crime",
-                "desc": "As criminal networks increasingly exploit weak institutions and operate across borders, the UN says no police force can tackle them alone.",
-                "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/08-07-2026-MINUSCA-Peacekeeping.jpg/image770x420cropped.jpg",
-                "url": "https://www.miragenews.com/global-police-unite-to-combat-cross-border-crime-1739563/",
-                "source": "Mirage News",
-                "date": "2026-09-07T00:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nepal’s request for flood payout tests new climate-aid system",
-                "desc": "Costs are expected to come to at least $5 billion, an enormous amount for one of Asia’s poorest countries, and the fund it’s hoping to tap is new, underfunded and untested.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/07/561523.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/environment/2026/09/07/climate-change/nepal-flood-payout-climate-aid/",
-                "source": "japantimes.co.jp",
-                "date": "2026-09-07T00:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Losing battle to halt Russia's 'hybrid' war' and 'Oh chute!'",
-                "desc": "A warning from defence officials and a skydiving miracle lead Monday's front pages.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8aa7/live/4af2d690-aa45-11f1-a291-b542ee92de7c.png",
-                "url": "https://www.bbc.com/news/articles/cdr73jpmpn1o",
-                "source": "BBC",
-                "date": "2026-09-07T00:05:46Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-08T14:47:02.908517Z"
+    "lastGlobalSync": "2026-09-08T18:28:32.983154Z"
 }
