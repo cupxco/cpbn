@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Alan Healy: Limerick is now beating Cork where it really counts",
+                "desc": "The hurlers aren't the only ones on a winning streak",
+                "image": "https://www.irishexaminer.com/cms_media/module_img/10447/5223736_7_org_iStock-1283941018.jpg",
+                "url": "https://www.irishexaminer.com/business/economy/arid-41909260.html",
+                "source": "Irish Examiner",
+                "date": "2026-09-11T06:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian fuel prices set to rise by 30c as global markets react to ‘deadly cocktail’",
+                "desc": "Global oil price at its highest since May while investors dump stocks and bonds after Donald Trump’s $5,000 ‘dividend’ promise",
+                "image": "https://i.guim.co.uk/img/media/44de57bc3016c00e710f1421118d07f71a5b9065/278_0_3602_2883/master/3602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=018c68b907deeac7d11c7d8581639ed8",
+                "url": "https://www.theguardian.com/australia-news/2026/sep/11/australian-fuel-prices-set-to-rise-by-30c-as-global-markets-react-to-deadly-cocktail",
+                "source": "The Guardian",
+                "date": "2026-09-11T06:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kia Carens Clavis CNG, Carnival Hybrid Pre-Bookings Open - Launch Soon",
+                "desc": "At the launch of Sorento, Kia showcased Carens CNG, Carens Clavis CNG and Carnival Hybrid and pre-bookings for all three have started now.",
+                "image": "https://www.rushlane.com/wp-content/uploads/2026/09/kia-carens-clavis-cng-carnival-hybrid-bookings.jpg",
+                "url": "https://www.rushlane.com/kia-carens-clavis-cng-carnival-hybrid-pre-bookings-open-launch-soon-12555644.html",
+                "source": "RushLane",
+                "date": "2026-09-11T06:40:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX's next big test: Starship to attempt maiden flight to orbit in September",
+                "desc": "SpaceX is preparing Starship for its 14th test flight, with the mission set to push the giant rocket into a new phase of testing, following the success during Flight 13 earlier this year.",
+                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/starship-super-heavy-11th-launch-live-133051136-16x9.png?VersionId=7EGQlt2mRYHY4JPgU1bzoF4i8emWphj9",
+                "url": "https://www.indiatoday.in/science/story/spacex-starship-flight-14-flight-13-elon-musk-reusable-rocket-orbit-space-mission-news-2992168-2026-09-11",
+                "source": "India Today",
+                "date": "2026-09-11T06:40:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anyone with £20,000 in savings given £764 warning amid key change",
+                "desc": "People who have money spare can make a big killing - but many will miss out",
+                "image": "https://cdn.images.express.co.uk/img/dynamic/23/1200x630/7137587.jpg",
+                "url": "https://www.express.co.uk/finance/personalfinance/2247584/20000-savings-given-764-warning",
+                "source": "express.co.uk",
+                "date": "2026-09-11T06:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MRT reliability hits record high in August",
+                "desc": "In August, the MRT network's mean kilometres between failures (MKBF) rose to a record 2.88 million train-km.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--UUcOIBFh--/c_crop,h_1406,w_2500,x_0,y_126/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/tdy-migration/31332054.JPG?itok=dS4zsswL",
+                "url": "https://www.channelnewsasia.com/singapore/mrt-train-rail-reliability-report-august-2026-6377956",
+                "source": "CNA",
+                "date": "2026-09-11T06:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call for global AI rules after Claude bioweapon research",
+                "desc": "The European Commissioner with responsibility for tech regulation has said that global rules on artificial intelligence (AI) are \"really needed\".",
+                "image": "https://www.rte.ie/images/0024fcab-1600.jpg",
+                "url": "https://www.rte.ie/news/technology/2026/0911/1591121-anthropic-bioweapon/",
+                "source": "RTE.ie",
+                "date": "2026-09-11T06:38:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call for global AI rules after Claude bioweapon research",
+                "desc": "The European Commissioner with responsibility for tech regulation has said that global rules on artificial intelligence (AI) are \"really needed\".",
+                "image": "https://www.rte.ie/images/0024fcab-1600.jpg",
+                "url": "https://www.rte.ie/news/world/2026/0911/1591121-anthropic-bioweapon/",
+                "source": "RTE.ie",
+                "date": "2026-09-11T06:38:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anthropic says China, Iran used its AI to aid spying",
+                "desc": "Anthropic said it shut down multiple cases of state-sponsored surveillance operations that used its artificial intelligence (AI) models, and warned that governments and state-aligned actors are increasingly using AI to spy on ethnic minorities and dissidents.",
+                "image": "https://www.rte.ie/images/00247937-1600.jpg",
+                "url": "https://www.rte.ie/news/world/2026/0911/1591121-anthropic-china/",
+                "source": "RTE.ie",
+                "date": "2026-09-11T06:38:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US lawmakers call for new rules after Anthropic researcher's 'AI could kill us all' warning",
+                "desc": "Two Anthropic researchers have warned that rapidly advancing AI could pose an existential threat to humanity, prompting growing calls from US lawmakers for stronger safeguards. Meanwhile, AI safety researchers have raised concerns over the pace of development.",
+                "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/maxresdefault_1789125878265_1b5f9f95-d9d3-43e7-9e2c-f9f85dbec088_1789125883300_0cd946ac-f341-401b-a9f1-4b0cb1287a04_01aa03a6-f979-48f0-80bb-3646606f380a_56551c26-c64f-4f24-9e79-aba947ba7019.jpg",
+                "url": "https://www.livemint.com/ai/artificial-intelligence/us-lawmakers-call-for-new-rules-after-anthropic-researchers-ai-could-kill-us-all-warning-11789107135649.html",
+                "source": "Livemint",
+                "date": "2026-09-11T06:32:53Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Vietnam Airlines places provisional order with Airbus for five Airbus A350-900s",
                 "desc": "Sept 10 : Vietnam Airlines has signed a memorandum of understanding with Airbus to buy five A350-900 jets, the carrier said on Friday, confirming earlier Reuters reports.The aircraft are scheduled for delivery in 2033 and 2034, Vietnam's flag carrier said in a statement. The value of the deal was not disclose",
                 "image": "https://dam.mediacorp.sg/image/upload/s--3pc1-k12--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-11T031400Z_1_LYNXMPEM8A06R_RTROPTP_3_FRANCE-VIETNAM.JPG?itok=PTefiGmU",
@@ -542,99 +632,99 @@
                 "source": "The Daily Star",
                 "date": "2026-09-10T08:33:46Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "AI boom poses new financial stability risks, BIS head says",
-                "desc": "LONDON, Sept 10 (Reuters) - AI's rapid rise is creating new financial stability risks, Bank for International Settlements head Pablo Hernandez de Cos said, with spending on related infrastructure already at a scale significant enough to influence global economic conditions. For central banks, AI does not change monetary policy mandates but makes economies harder to interpret by affecting demand, supply and financial markets simultaneously.",
-                "image": "https://live.euronext.com/favicon.ico",
-                "url": "https://live.euronext.com/en/financial-news/ai-boom-poses-new-financial-stability-risks-bis-head-says",
-                "source": "Euronext Markets: Real-time Stock Market Data | live",
-                "date": "2026-09-10T05:53:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nike is collapsing. Yes it went woke, but that’s not why it’s going broke",
-                "desc": "The corporate behemoth is crashing out of the top 100 companies on the US stockmarket. To which I say – good.",
-                "image": "https://static.ffx.io/images/$zoom_0.2911%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/a67f2ba8ed01254c4b5056daf985fec7ec64a214",
-                "url": "https://www.watoday.com.au/national/nike-is-collapsing-yes-it-went-woke-but-that-s-not-why-it-s-going-broke-20260909-p60vvg.html",
-                "source": "WAtoday",
-                "date": "2026-09-10T05:50:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nike is collapsing. Yes it went woke, but that’s not why it’s going broke",
-                "desc": "The corporate behemoth is crashing out of the top 100 companies on the US stockmarket. To which I say – good.",
-                "image": "https://static.ffx.io/images/$zoom_0.2911%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/a67f2ba8ed01254c4b5056daf985fec7ec64a214",
-                "url": "https://www.smh.com.au/national/nike-is-collapsing-yes-it-went-woke-but-that-s-not-why-it-s-going-broke-20260909-p60vvg.html",
-                "source": "SMH.com.au",
-                "date": "2026-09-10T05:50:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nike is collapsing. Yes it went woke, but that’s not why it’s going broke",
-                "desc": "The corporate behemoth is crashing out of the top 100 companies on the US stockmarket. To which I say – good.",
-                "image": "https://static.ffx.io/images/$zoom_0.2911%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/a67f2ba8ed01254c4b5056daf985fec7ec64a214",
-                "url": "https://www.theage.com.au/national/nike-is-collapsing-yes-it-went-woke-but-that-s-not-why-it-s-going-broke-20260909-p60vvg.html",
-                "source": "The Age",
-                "date": "2026-09-10T05:50:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "London travel news LIVE: Elizabeth line and Tube suspensions spark morning rush hour chaos",
-                "desc": "Circle line completely suspended and three others partially suspended due to ‘infrastructure damage on the track’",
-                "image": "https://static.standard.co.uk/2024/06/17/17/d866e39f3f406747116e036e6542718bY29udGVudHNlYXJjaGFwaSwxNzE4NzI2ODA2-2.16092951.jpg?width=1200&auto=webp&quality=75",
-                "url": "https://www.standard.co.uk/news/london/elizabeth-line-circle-line-suspension-tube-trains-baker-street-tfl-b1296304.html",
-                "source": "London Evening Standard",
-                "date": "2026-09-10T05:50:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Passenger profile re-verification begins on Abuja-Kaduna Train",
-                "desc": "The Nigerian Railway Corporation (NRC) has commenced the re-verification of passenger profiles on its electronic ticketing platform as part of measures to...",
-                "image": "https://dailytrust.com/wp-content/uploads/2025/12/Abuja–Kaduna-train.jpg",
-                "url": "https://dailytrust.com/passenger-profile-re-verification-begins-on-abuja-kaduna-train/",
-                "source": "Daily Trust",
-                "date": "2026-09-10T05:49:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Expedia Group, Inc. (EXPE) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
-                "desc": "Expedia Group, Inc. (EXPE) Goldman Sachs Communacopia + Technology Conference 2026 September 9, 2026 5:25 PM EDTCompany ParticipantsAriane Gorin - CEO &...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4944829-expedia-group-inc-expe-presents-at-goldman-sachs-communacopia-technology-conference-2026",
-                "source": "Seeking Alpha",
-                "date": "2026-09-10T05:47:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Onto Innovation Inc. (ONTO) Presents at Citi's 2026 Global TMT Conference Transcript",
-                "desc": "Onto Innovation Inc. (ONTO) Citi's 2026 Global TMT Conference September 9, 2026 3:55 PM EDTCompany ParticipantsMichael Plisinski - CEO & DirectorBrian...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4944696-onto-innovation-inc-onto-presents-at-citis-2026-global-tmt-conference-transcript",
-                "source": "Seeking Alpha",
-                "date": "2026-09-10T05:47:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A pilot of the Amazon cargo plane warned it was coming in too fast : NPR",
-                "desc": "For nearly two minutes, one of the pilots of the Amazon cargo plane that careened off a Miami runway repeatedly warned his counterpart they were going too fast, according to flight information.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1152+0+107/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2F59%2F296fb6254fea893dc07b1f53416d%2Fap26251843234935.jpg",
-                "url": "https://www.npr.org/2026/09/10/g-s1-142664/cargo-plane-miami-crash",
-                "source": "NPR",
-                "date": "2026-09-10T05:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jewellery shops shut down as Chinese consumers switch focus to gold bars and coins",
-                "desc": "High prices and decline in marriages cited as reasons for one-third drop in jewellery sales in first half of year.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/10/35c43c6c-5339-4a27-8270-65d5af466ac1_229a9764.jpg?itok=mNdL8eK2&v=1789019044",
-                "url": "https://www.scmp.com/economy/china-economy/article/3367009/jewellery-shops-shut-down-chinese-consumers-switch-focus-gold-bars-and-coins",
-                "source": "South China Morning Post",
-                "date": "2026-09-10T05:44:06Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Oppo K14 Lite is coming, launch date and design revealed",
+                "desc": "The Oppo K14 series currently includes two smartphones. Oppo's K14 series currently includes two smartphones - the K14 and the K14x. Next week, these will...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-k14-lite-launch-date/-952x498w6/gsmarena_001.jpg",
+                "url": "https://www.gsmarena.com/oppo_k14_lite_design_colors_launch_date-news-74575.php",
+                "source": "GSMArena.com",
+                "date": "2026-09-11T06:40:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Official Korean Localization of 'Magical Girl Witch Trials' Enters Final Phase",
+                "desc": "Creative brand Acacia has revealed the progress of the official Korean localization for its mystery adventure game 'Magical Girl Witch Trials.'©AcaciaOn the 11th, Acacia announced ...",
+                "image": "https://static.invenglobal.com/upload/image/2026/09/11/i1789108327157736.jpeg",
+                "url": "https://www.invenglobal.com/articles/25843/official-korean-localization-of-magical-girl-witch-trials-enters-final-phase",
+                "source": "Inven Global",
+                "date": "2026-09-11T06:32:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix",
+                "desc": "There's no place like the Home directory, but the Documents folder is sometimes nicer",
+                "image": "https://image.theregister.com/5295453.jpg?imageId=5295453&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/personal-tech/2026/09/11/on-call-boss-wrongly-claimed-it-deleted-his-files-refused-to-learn-the-one-click-fix/5295448",
+                "source": "The Register",
+                "date": "2026-09-11T06:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cosplayer Transforms into Ranni the Witch from Elden Ring - the Ruler of the \"Age of Stars\"",
+                "desc": "Model Madame de Zhukov appeared as Ranni the Witch from the game Elden Ring - a character who refuses to be a puppet in the hands of higher powers and is ready to make colossal sacrifices for the true freedom of her world.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1344768/e833cde4-fcc1-4319-ac3e-93e66c73b3ad.jpg",
+                "url": "https://ixbt.games/en/news/2026/09/11/kospleer-perevoplotilas-v-renni-kolduniu-iz-elden-ring-vladycicu-ery-zvezd.html",
+                "source": "ixbt.games",
+                "date": "2026-09-11T06:26:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft annoints Rust as a 'Tier 1' internal language",
+                "desc": "Redmond's coders get the tool to help them scrub memory bugs off Windows",
+                "image": "https://image.theregister.com/1682034.jpg?imageId=1682034&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/devops/2026/09/11/microsoft-annoints-rust-as-a-tier-1-internal-language/5295732",
+                "source": "The Register",
+                "date": "2026-09-11T06:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hackers Use Blob URLs and Microsoft Teams to Create Phishing Pages Inside Victims’ Browsers",
+                "desc": "Phishers use browser-generated blob URLs and trusted Microsoft routes to hide fake DocuSign login pages and steal credentials.",
+                "image": "http://cybersecuritynews.com/wp-content/uploads/2026/09/Hackers-Use-Blob-URLs-and-Microsoft-Teams-to-Create-Phishing-Pages-Inside-Victims-Browsers.webp",
+                "url": "https://cybersecuritynews.com/hackers-use-blob-urls/",
+                "source": "cybersecuritynews.com",
+                "date": "2026-09-11T06:25:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Talking Tech, DLSS and a R1.2m AI PC with Ewald from Brutech",
+                "desc": "Ewald Majewski is a South African PC builder and the man behind the online store Brutech. I like to catch up with him every so often to get some insights into the industry from a system builder’s point of view. He’s got really good insights, and this week’s interview was no different. The conversation started with SteamOS and ended up covering everything from R1.2 million AI workstations to vibe coding, local LLMs, and we even spoke about the future of […]",
+                "image": "https://www.nag.co.za/wp-content/uploads/2026/09/ewald_interview_thumb.jpg",
+                "url": "https://www.nag.co.za/2026/09/11/talking-tech-dlss-and-a-r1-2m-ai-pc-with-ewald-from-brutech/",
+                "source": "nag.co.za",
+                "date": "2026-09-11T06:19:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Five Things We Loved From Apple’s Annual September event",
+                "desc": "Apple’s September event is trending with the iPhone Duo, iPhone 18 Pro, Apple Watch Series 12 and new camera features. Here are five highlights we loved.",
+                "image": "https://img-cdn.publive.online/fit-in/1200x675/elle-india/media/media_files/2026/09/11/banner-45-2026-09-11-11-26-43.png",
+                "url": "https://elle.in/trending/five-things-we-loved-from-apples-annual-september-event-12518351",
+                "source": "ELLE India",
+                "date": "2026-09-11T06:14:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canon, Sony, Huawei and Oppo Pool 125,000 Imaging Patents in New Licensing Programme",
+                "desc": "Canon and Sony have deep expertise in cameras, optics, sensors and image processing, while Huawei and Oppo have built significant portfolios around smartphone imaging, computational photography, artificial intelligence and advanced image processing.",
+                "image": "https://media.assettype.com/digitalterminal%2F2026-09-11%2F98znb2up%2FCanon-Sony-Huawei-Oppo-Imaging-Patents.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                "url": "https://digitalterminal.in/tech-companies/canon-sony-huawei-and-oppo-pool-125000-imaging-patents-in-new-licensing-programme",
+                "source": "digital terminal",
+                "date": "2026-09-11T06:12:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australian Travellers: Chance to win $20,000 travel voucher",
+                "desc": "Australians made 12.7 million overseas trips last year. Find out how you could win a $20,000 Bunnik Tours voucher and join the travel boom.",
+                "image": "https://www.thecourier.com.au/images/transform/v1/crop/frm/UPAcJLQNVGftX3BUDy544C/8c471f6e-25ab-4477-b67e-282f2cbc4f90.jpg/r0_145_2048_1220_w1200_h630_fmax.jpg",
+                "url": "https://www.thecourier.com.au/story/9348623/australian-travellers-chance-to-win-20000-travel-voucher/",
+                "source": "The Courier | Ballarat, VIC",
+                "date": "2026-09-11T06:10:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Enrique Grande: Rethinking Bladder Preservation in Muscle",
                 "desc": "Enrique Grande: Rethinking Bladder Preservation in Muscle-Invasive Bladder Cancer / Alejandro Rodriguez, Amy N Luckenbaugh, Ashish M. Kamat, bladder cancer,",
@@ -1174,99 +1264,99 @@
                 "source": "Games Press",
                 "date": "2026-09-10T08:34:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "AI Enhances Microscopes to Spot Key Nanoscale Features",
-                "desc": "AI-assisted atomic force microscopy identifies tiny surface structures such as nanostructures, DNA assemblies and bacterial cells, and directs",
-                "image": "https://www.ornl.gov/sites/default/files/styles/large/public/2026-09/AI-assisted%20atomic%20force%20microscopy.jpg?itok=HSu7vwM8",
-                "url": "https://www.miragenews.com/ai-enhances-microscopes-to-spot-key-nanoscale-1741913/",
-                "source": "Mirage News",
-                "date": "2026-09-10T05:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ASUS to debut ROG 20th anniversary models in Japan at TGS2026, including 720Hz OLED monitor",
-                "desc": "ASUS JAPAN will exhibit at Tokyo Game Show 2026, held September 17–21 at Makuhari Messe, showcasing the full \"ROG Edition 20\" lineup commemorating the…",
-                "image": "https://img.biggo.com/HRPZY2TCEaXLwHMenjgCsdq-gK4YlkpeZmuR0XZsTRk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2VlMTc4NTg1LWQwZDktNDRkZi04NjkyLTIxZGU1OTc4NjZjN18xNzg5MDE4NzUwX2RlZmF1bHQud2VicA.jpg",
-                "url": "https://finance.biggo.com/news/ee178585-d0d9-44df-8692-21de597866c7",
-                "source": "finance.biggo.com",
-                "date": "2026-09-10T05:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Liu Cixin's 'The Wandering Earth' Adapted into Video Game",
-                "desc": "Chinese game developer Studio Surgical Scalpels officially revealed its new title, 'The Wandering Earth: The Last Full Moon', at the Bilibili First Look event held in Shanghai, China on the 1st.",
-                "image": "https://static.invenglobal.com/upload/image/2026/09/10/i1789018446574477.jpeg",
-                "url": "https://www.invenglobal.com/articles/25787/liu-cixins-the-wandering-earth-adapted-into-video-game",
-                "source": "Inven Global",
-                "date": "2026-09-10T05:34:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung starts selling Certified Re-Newed Galaxy S26, S26+, and S26 Ultra in the UK",
-                "desc": "You get them in like-new condition, with the same warranty as new devices. Samsung's Certified Re-Newed program, which offers 'like new' refurbished...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-s26-s26-plus-s26-ultra-certified-re-newed-uk/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/samsung_starts_selling_certified_renewed_galaxy_s26_s26_and_s26_ultra_in_the_uk-news-74537.php",
-                "source": "GSMArena.com",
-                "date": "2026-09-10T05:31:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Crisis Core Final Fantasy VII Reunion Scores A Surprise Switch 2 Release",
-                "desc": "Launch discount, but no upgrade for existing owners - Square Enix has been building up excitement for Final Fantasy VII Revelation with all sorts of announce...",
-                "image": "https://images.nintendolife.com/dfed15a3fc12e/large.jpg",
-                "url": "https://www.nintendolife.com/news/2026/09/crisis-core-final-fantasy-vii-reunion-scores-a-surprise-switch-2-release",
-                "source": "Nintendo Life",
-                "date": "2026-09-10T05:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Casio launches new military-inspired G-Shock Mudmaster with Triple Sensor, Bluetooth and Tough Solar",
-                "desc": "Casio’s new G-Shock Mudmaster GWG-B1000-1A3 combines a military-inspired colorway with rugged construction, Triple Sensor technology, Bluetooth, solar power, and 200-meter water resistance. The watch is available for preorder in Japan, with global availability yet to be announced.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/G-Shock-Mudmaster-GWG-B1000-1A3_fuature_1.jpg",
-                "url": "https://www.notebookcheck.net/Casio-launches-new-military-inspired-G-Shock-Mudmaster-with-Triple-Sensor-Bluetooth-and-Tough-Solar.1394301.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-09-10T05:28:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Internet Reacts To PlayStation Breaking Up With Hideo Kojima",
-                "desc": "'Building the future and keeping the past alive are one and the same thing'",
-                "image": "https://kotaku.com/app/uploads/2026/09/stay-tuned-1-1200x675.jpg",
-                "url": "https://kotaku.com/the-internet-reacts-to-playstation-breaking-up-with-hideo-kojima-2000733001",
-                "source": "Kotaku",
-                "date": "2026-09-10T05:24:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple iPhone Duo to lift India revenue but price hikes across models to impact sales",
-                "desc": "The Duo could help double India’s foldable smartphone market by 2027. Analysts expect around 200,000 units to sell in its first full year, capturing a 20% market share for Apple’s first foldable",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260909175809_iPhone-Duo.png",
-                "url": "https://www.moneycontrol.com/technology/apple-iphone-duo-to-lift-india-revenue-but-price-hikes-across-models-to-impact-sales-article-14026791.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-09-10T05:21:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Kingdom of the Winds Overhauls Life and Combat Content in 'Refresh' Update",
-                "desc": "ⓒ NexonOn September 10, Nexon rolled out the 'Refresh' update for its online RPG 'The Kingdom of the Winds', revamping its life and combat content.In this update, Nexon introduces 'Village Housing,' which integrates life content across account units.",
-                "image": "https://static.invenglobal.com/upload/image/2026/09/10/i1789017368544955.png",
-                "url": "https://www.invenglobal.com/articles/25786/the-kingdom-of-the-winds-overhauls-life-and-combat-content-in-refresh-update",
-                "source": "Inven Global",
-                "date": "2026-09-10T05:19:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NCSOFT to launch PC cafe service for 'Once Human' on September 17",
-                "desc": "ⓒ NCSOFTNCSOFT announced on September 10 that it will launch PC cafe services for the open-world survival RPG 'Once Human' starting September 17.'Once Human' is an apocalyptic multiplayer survival game set in a supernatural world.",
-                "image": "https://static.invenglobal.com/upload/image/2026/09/10/i1789017368538006.jpeg",
-                "url": "https://www.invenglobal.com/articles/25785/ncsoft-to-launch-pc-cafe-service-for-once-human-on-september-17",
-                "source": "Inven Global",
-                "date": "2026-09-10T05:19:34Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Led Placemaking Grant (Australia)",
+                "desc": "Deadline: 30-Jun-27 The Placemaking Grant: Business Led provides funding for locally operating businesses in Port Hedland to deliver projects that improve shopfronts, activate public spaces, and create community benefits. Established by the Town of Port Hedland, the grant supports placemaking initiatives that transform underused public spaces and streetscapes into vibrant, inclusive, sustainable, and engaging areas",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/community-development-2/applications-open-for-business-led-placemaking-grant-australia/",
+                "source": "fundsforNGOs",
+                "date": "2026-09-11T06:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Misk ? HUMAIN Traineeship Program for Future AI Builders (Saudi Arabia)",
+                "desc": "Deadline: 15-Sep-26 The Misk–HUMAIN Traineeship Program, also known as the Future AI Builders traineeship, is inviting applications from recent Saudi graduates for a paid, full-time, in-person traineeship focused on artificial intelligence and emerging technologies. Powered by HUMAIN and hosted by the Misk Foundation, the program is designed to provide Saudi graduates with practical experience in",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/science/misk-humain-traineeship-program-for-future-ai-builders-saudi-arabia/",
+                "source": "fundsforNGOs",
+                "date": "2026-09-11T06:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Can Africa Turn Its Critical Minerals Wealth Into Economic Power?",
+                "desc": "Africa is at the centre of a growing global race for critical minerals, but the continent faces a familiar challenge: possessing enormous natural wealth without capturing a comparable share of the value generated from it.",
+                "image": "https://moderndiplomacy.eu/wp-content/uploads/2026/06/critical-minerals-1.jpg",
+                "url": "https://moderndiplomacy.eu/2026/09/11/can-africa-turn-its-critical-minerals-wealth-into-economic-power/",
+                "source": "Modern Diplomacy",
+                "date": "2026-09-11T06:43:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "President Paul Kagame urges greater African participation in space economy",
+                "desc": "Rwanda is putting efforts into laying the foundation for a domestic space industry, positioning the country to tap into the economic potential of the.",
+                "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/09/eastleighvoice-co-ke-2026-september-11-093358.webp",
+                "url": "https://eastleighvoice.co.ke/regional/399423/president-paul-kagame-urges-greater-african-participation-in-space-economy",
+                "source": "The Eastleigh Voice",
+                "date": "2026-09-11T06:40:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Korean, Iranian foreign ministers discuss Strait of Hormuz",
+                "desc": "SEOUL: South Korean Foreign Minister Cho Hyun discussed the situation in the Middle East, including freedom of navigation through the Strait of Hormuz, in a telephone call on Friday (Sep 11) with his Iranian counterp",
+                "image": "https://dam.mediacorp.sg/image/upload/s--PinDy7RQ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-11T061326Z_2_LYNXMPEM8A0CR_RTROPTP_3_IRAN-CRISIS-SOUTHKOREA.JPG?itok=L8mjcVb3",
+                "url": "https://www.channelnewsasia.com/east-asia/south-korea-iran-discuss-strait-hormuz-us-6378121",
+                "source": "CNA",
+                "date": "2026-09-11T06:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi crown prince allegedly asked Trump to hit Houthis; US president declined: Report",
+                "desc": "US News: US President Donald Trump rejected phone calls from Saudi Arabia's crown prince Mohammed Bin Salman twice, urging him to launch strikes against Houthi.",
+                "image": "https://static.toiimg.com/thumb/msid-134050611,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/us/saudi-crown-prince-allegedly-asked-trump-to-hit-houthis-us-president-declined-report/articleshow/134050591.cms",
+                "source": "timesofindia.indiatimes.com",
+                "date": "2026-09-11T06:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Submit Applications open for Georg Arnhold Senior Fellowship Program",
+                "desc": "Deadline: 02-Nov-26 The Georg Arnhold Senior Fellowship invites experienced scholars and practitioners in peace education to undertake a six-month research stay at the Leibniz Institute for Educational Media | Georg Eckert Institute (GEI) in Brunswick, Germany. The fellowship supports research and practice-based projects focused on education for sustainable peace, with particular emphasis on educational media",
+                "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+                "url": "https://www2.fundsforngos.org/individuals/submit-applications-open-for-georg-arnhold-senior-fellowship-program/",
+                "source": "fundsforNGOs",
+                "date": "2026-09-11T06:37:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Foreign Networks Fuel Sudan War With Drones, Weapons, and Mercenaries",
+                "desc": "Foreign companies and recruitment networks are supplying Sudan’s warring parties with drones, weapons, training, and military personnel.",
+                "image": "https://thedefensepost.com/wp-content/uploads/2023/05/230421135306-02-sudan-update.jpg",
+                "url": "https://thedefensepost.com/2026/09/11/foreign-networks-fuel-sudan-war/",
+                "source": "The Defense Post",
+                "date": "2026-09-11T06:36:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ZAWYA: Nigeria targets $27bln trade rebound with India by 2027 - Envoy",
+                "desc": "By Staff WriterNigeria is targeting a rebound in bilateral trade with India to about $27 billion by 2027, the High Commissioner to India, Ambassador Saidu Dahiru Muhammad, has said.Muhammad disclosed this in New Delhi during an interactive session with diplomatic correspondents covering the 2026 BR…",
+                "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+                "url": "https://www.tradingview.com/news/reuters.com,2026-09-11:newsml_Zaw6G60C9:0-zawya-nigeria-targets-27bln-trade-rebound-with-india-by-2027-envoy/",
+                "source": "TradingView",
+                "date": "2026-09-11T06:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gulf foreign ministers to meet with Iran counterpart for Strait of Hormuz deal",
+                "desc": "The gathering is scheduled to be held on Monday in the Omani coastal city of Salalah, the report said, citing two people briefed on the matter.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736984",
+                "url": "https://www.jpost.com/middle-east/iran-news/article-908367",
+                "source": "The Jerusalem Post",
+                "date": "2026-09-11T06:34:21Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Philippine Coast Guard finds bodies aboard ferry after blaze",
                 "desc": "The fire that tore through the ferry on Wednesday evening killed at least five people and left 84 missing.",
@@ -1806,98 +1896,8 @@
                 "source": "Euronews.com",
                 "date": "2026-09-10T08:31:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Volcanic escalation on Java a threat of potential regional chaos",
-                "desc": "While these volcanoes remain at Level III (Siaga) alert and eruptions have so far been manageable, a significant intensification could trigger cascading disaste...",
-                "image": "https://media.thevibes.com/images/uploads/covers/_large/ant554.jpg",
-                "url": "https://www.thevibes.com/articles/news/127108/volcanic-escalation-on-java-is-a-threat-of-potential-regional-chaos",
-                "source": "The Vibes",
-                "date": "2026-09-10T05:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia markets drone-like missiles in Egypt during Su-57 jet's Africa air show",
-                "desc": "The export model of the Su-57 is a rival to Lockheed Martin’s F-35 Lightning II. Russia showed off its S-71M and S-71K missiles",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737237",
-                "url": "https://www.jpost.com/defense-and-tech/article-908197",
-                "source": "The Jerusalem Post",
-                "date": "2026-09-10T05:49:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rwanda women’s dress row tests its puritanical powers",
-                "desc": "A row over women’s dress in Rwanda has become a flashpoint for young people chafing under the country’s heavy-handed policing. The tiny nation in the Great Lake",
-                "image": "https://clubofmozambique.com/wp-content/uploads/2026/09/womr.r.jpg",
-                "url": "https://clubofmozambique.com/news/rwanda-womens-dress-row-tests-its-puritanical-powers/",
-                "source": "CLUB OF MOZAMBIQUE",
-                "date": "2026-09-10T05:48:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Botswana's Duma Gideon Works in Benguela Province",
-                "desc": "The President of the Republic of Botswana, Duma Gideon Boko, arrived on Wednesday (09) in the province of Benguela, where he will visit the construction works of the Lobito Refinery, as part of his 72-hour working visit to Angola.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202609100028.html",
-                "source": "allAfrica.com",
-                "date": "2026-09-10T05:46:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya: Ruto Pitches Kenya As Africa Investment Gateway Amid Foreign Investor Tensions",
-                "desc": "President William Ruto has sought to reassure foreign investors that Kenya remains open for business, promising greater policy predictability and new safeguards against regulatory uncertainty amid mixed reactions to his recent remarks on foreign investors, including Tata Chemicals.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202609100043.html",
-                "source": "allAfrica.com",
-                "date": "2026-09-10T05:45:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya: LSK Calls for Review of Foreign Trader Directive, Warns Against Nationality-Based Attacks",
-                "desc": "The Law Society of Kenya (LSK) has called on the government to review its directive affecting foreign nationals engaged in small-scale trade, warning that enforcement must comply with the Constitution and Kenya's obligations under the East African Community (EAC).",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202609100042.html",
-                "source": "allAfrica.com",
-                "date": "2026-09-10T05:45:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump promises every US adult $5,000 if Republicans win the midterm elections",
-                "desc": "He did not say where the money would come from.",
-                "image": "https://img2.thejournal.ie/article/7157814/river/?height=400&version=7157876",
-                "url": "https://www.thejournal.ie/trump-midterms-5000-dollars-7157814-Sep2026/",
-                "source": "The Journal",
-                "date": "2026-09-10T05:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Woman Fights Tears of Joy after Getting Green Card after 12 Years in US, Appreciates Her Husband",
-                "desc": "After 12 years in the US, TikTok creator Genessis Martinez Bethly finally received her green card after navigating the I-130 and I-485 immigration processes.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/834c652ba27499b7.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/people/family/639247-woman-fights-tears-joy-green-card-12-years-appreciates-husband/",
-                "source": "Tuko News",
-                "date": "2026-09-10T05:41:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tanzania Arrests 40 Burundians, a Congolese for Illegal Entry, Stay",
-                "desc": "THE Geita Regional Immigration Office has arrested 41 illegal immigrants during an operation conducted in various parts of the region.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202609100054.html",
-                "source": "allAfrica.com",
-                "date": "2026-09-10T05:41:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tanzania Orders Thorough Inspection of Roads and Bridges Heading to El Niño Rains",
-                "desc": "The Tanzanian government has ordered an immediate inspection of all roads and bridges across the country as preparations for the heavy El Niño rains expected in the coming period.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202609100053.html",
-                "source": "allAfrica.com",
-                "date": "2026-09-10T05:41:10Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-11T15:14:20.647401Z"
+    "lastGlobalSync": "2026-09-11T18:45:13.035503Z"
 }
