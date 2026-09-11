@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Are interest rates on their way up again?",
+                "desc": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo",
+                "source": "BBC",
+                "date": "2026-09-10T23:03:09Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Are interest rates on their way up again?",
+                "desc": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg",
+                "url": "https://www.bbc.com/news/articles/cew9nkx7v9eo",
+                "source": "BBC",
+                "date": "2026-09-10T23:03:09Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Ontario Science Centre lays off 31 workers, union says",
+                "desc": "The Ontario Science Centre has laid off 31 workers, according to the union representing them. The union said the layoffs eliminated the centre's \"standalone science unit.\"",
+                "image": "https://i.cbc.ca/ais/a61fb794-74cd-494c-947e-96fd98433287,1734471339940/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C780%2C438%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/toronto/ontario-science-centre-layoffs-9.7339625",
+                "source": "CBC",
+                "date": "2026-09-10T23:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "French economy falls behind rest of Europe: Slow growth, rising inflation and unemployment",
+                "desc": "Growth is not expected to exceed 0.4% in 2026, down from the previously forecast 0.7%, according to INSEE, the French National Institute of Statistics and Economic Studies. The main drivers of demand – consumer spending and investment – have stalled, while inflation and unemployment continue to rise.",
+                "image": "https://img.lemde.fr/2026/09/10/0/0/5826/3884/1440/960/60/0/7d02cf5_ftp-1-cmliiw5mcj10-2026-09-10t122415z-1573163327-rc29gnaq0ehf-rtrmadp-3-france-economy-consumers.JPG",
+                "url": "https://www.lemonde.fr/en/economy/article/2026/09/11/french-economy-falls-behind-rest-of-europe-slow-growth-rising-inflation-and-unemployment_6757398_19.html",
+                "source": "Le Monde.fr",
+                "date": "2026-09-10T23:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Surrey teacher named one of Canada’s most powerful women",
+                "desc": "L.A. Matheson teacher selected amongst 100 winners",
+                "image": "https://surreynowleader.com/wp-content/uploads/sites/8/2026/09/LA20Matheson20Winner.jpg?w=1024",
+                "url": "https://surreynowleader.com/2026/09/10/surrey-teacher-named-one-of-canadas-most-powerful-women/",
+                "source": "Surrey Now-Leader",
+                "date": "2026-09-10T23:01:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Currency Exchange International Corp (CURN) (Q3 2026) Earnings Call Highlights: Payments ...",
+                "desc": "Currency Exchange International Corp (CURN) posted strong adjusted earnings growth driven by its booming payments segment, even as banknotes and online FX revenue softened.",
+                "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+                "url": "https://finance.yahoo.com/markets/currencies/articles/currency-exchange-international-corp-curn-230043756.html",
+                "source": "Yahoo Finance",
+                "date": "2026-09-10T23:00:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hong Kong home prices headed for 15% gain this year, Midland forecast says",
+                "desc": "As the market digests uncertainties, new property launches are accelerating and buyers are returning to the market, executive says.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/10/8a94dd08-7f30-44af-84c1-48b01e8e93f7_4585e020.jpg?itok=N1xwokZ7&v=1789042890",
+                "url": "https://www.scmp.com/business/article/3367086/hong-kong-home-prices-headed-15-gain-year-midland-forecast-says",
+                "source": "South China Morning Post",
+                "date": "2026-09-10T23:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Proptech firm Real Estate Analytics served winding-up application by creditor",
+                "desc": "Judgement debt arising from an arbitration between the two companies has not been paid for 2 years Read more at The Business Times.",
+                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/f33ba6bc60236746319693bba5944560248ea92b9db2048404f70a99faaad6b5?w=1920&f=webp",
+                "url": "https://www.businesstimes.com.sg/property/proptech-firm-real-estate-analytics-served-winding-application-creditor",
+                "source": "The Business Times",
+                "date": "2026-09-10T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Chinese brand says EREVs are the next big thing in Australia",
+                "desc": "Forthing is backing extended-range EV technology for Australia, describing it as \"perfect\" for those interested in EVs but held back by range anxiety.",
+                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/forthing-taikon-5-rear.jpg",
+                "url": "https://www.carexpert.com.au/car-news/new-chinese-brand-says-erevs-are-the-next-big-thing-in-australia",
+                "source": "CarExpert",
+                "date": "2026-09-10T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why The United States’ Belated Critical Minerals Gambit Won’t Stop China",
+                "desc": "China’s enormous lead remains difficult to overcome, controlling roughly 60% of critical-mineral mining and over 90% of some processing segments.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-10_dklxo3tlcb.jpg",
+                "url": "https://oilprice.com/Metals/Commodities/Why-The-United-States-Belated-Critical-Minerals-Gambit-Wont-Stop-China.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-09-10T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Trade Setup for September 11: Top 15 things to know before the opening bell",
                 "desc": "According to experts, the Nifty 50 could break below the previous day's low and fall towards 23,300. A further decline towards the June low of 23,070 cannot be ruled out if the index breaks below 23,300.",
                 "image": "https://images.moneycontrol.com/static-mcnews/2025/05/20250512080137_sensex_nifty_sensex_market.jpg",
@@ -542,99 +632,99 @@
                 "source": "Seeking Alpha",
                 "date": "2026-09-10T02:23:27Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "ECB to hike rates as Iran war fuels fresh inflation fears",
-                "desc": "The European Central Bank looks set to raise interest rates on Thursday for the second time this year, seeking to head off an energy-driven surge in inflation triggered by the Iran war.",
-                "image": "https://www.reuters.com/resizer/v2/KPQDAKEH3RMMLP6Y7B6QG34QAA.jpg?auth=21ac8b3324ea450a727dd69d86d65ae53b5c6767929c09b30d955eced8182071&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/finance/ecb-set-hike-iran-war-fuels-fresh-inflation-fears-2026-09-09/",
-                "source": "Reuters",
-                "date": "2026-09-09T22:02:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Molecular surface design achieves over 100 million-fold tuning of porous liquid viscosity",
-                "desc": "Porous liquids combine permanent nanoscale cavities with fluidity, making them promising for applications like carbon dioxide capture, gas separation and other chemical processes. Their viscosity must be tailored to the intended application: Lower-viscosity liquids are easier to pump and circulate while facilitating faster heat and mass transfer, whereas higher-viscosity liquids provide greater structural stability in membrane formation.",
-                "image": "https://scx2.b-cdn.net/gfx/news/2026/molecular-surface-desi.jpg",
-                "url": "https://phys.org/news/2026-09-molecular-surface-million-tuning-porous.html",
-                "source": "Phys.org",
-                "date": "2026-09-09T22:00:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First-home withdrawals hit record levels, average KiwiSaver balance passes $40,000 - FMA report",
-                "desc": "FMA annual report shows KiwiSaver members took out $6.8 billion due to growing number of people accessing retirement savings and making early withdrawals for first home purchases",
-                "image": "https://www.interest.co.nz/sites/default/files/2026-09/KiwiSaver%20report.jpg",
-                "url": "https://www.interest.co.nz/personal-finance/140187/fma-annual-report-shows-kiwisaver-members-took-out-68-billion-due-growing",
-                "source": "Interest.co.nz",
-                "date": "2026-09-09T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New DOT Rules on Flight Delays Could Mean Less Assistance for Travelers",
-                "desc": "A new Department of Transportation rule will allow airlines to classify certain flight delays as out of their control.",
-                "image": "https://media.timeout.com/images/106004393/image.jpg",
-                "url": "https://www.timeout.com/usa/news/new-dot-rules-mean-you-might-be-paying-more-for-those-pesky-flight-delays-090926",
-                "source": "Time Out Worldwide",
-                "date": "2026-09-09T21:58:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Central Queensland's young agriculture workers find connection",
-                "desc": "Three central Queenslanders working in agriculture have started a networking group that has helped young people find connection in their industry.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/2a1bc157598187a23eaefbeaa7527e97?impolicy=wcms_watermark_news&cropH=2012&cropW=3577&xPos=811&yPos=226&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-09-10/central-queensland-agriculture-workers-connect/107097514",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-09-09T21:58:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TE Connectivity plc (TEL) Presents at Citi's 2026 Global TMT Conference Transcript",
-                "desc": "TE Connectivity plc (TEL) Citi's 2026 Global TMT Conference September 9, 2026 3:15 PM EDTCompany ParticipantsTerrence Curtin - CEO & Executive...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4944666-te-connectivity-plc-tel-presents-at-citis-2026-global-tmt-conference-transcript",
-                "source": "Seeking Alpha",
-                "date": "2026-09-09T21:57:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canadian pump prices creep higher as Mideast fighting escalates",
-                "desc": "Fuel prices tend to ease off around this time of year, but one industry expert says drivers should expect no such relief this time.",
-                "image": "https://www.bnnbloomberg.ca/resizer/v2/T4T2WICUIV5WZ5S7XSMPD7PX2I.jpg?smart=true&auth=2f4664667de2554a013db67251ee94409a2fe8282543ddbf5ca4d444721f2bf2&width=1200&height=630",
-                "url": "https://www.bnnbloomberg.ca/markets/oil/2026/09/09/canadian-pump-prices-creep-higher-as-mideast-fighting-escalates/",
-                "source": "BNN Bloomberg",
-                "date": "2026-09-09T21:56:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Delta Air Lines oxygen masks deploy amid scary pressurization issue on flight",
-                "desc": "A recent Delta flight diverted to Las Vegas after a pressurization issue caused oxygen masks to deploy midair. The aircraft descended roughly 27,000 feet in about 10 minutes.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/delta-airlines-plane-oxygen-masks.jpg",
-                "url": "https://www.foxnews.com/travel/jet-plunges-27000-feet-10-minutes-oxygen-masks-suddenly-drop-aboard-flight",
-                "source": "Fox News",
-                "date": "2026-09-09T21:56:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Enbridge makes US$2.55B acquisition of pipeline, storage systems in U.S. midwest",
-                "desc": "Enbridge's acquisition of Tallgrass Energy includes a 75 per cent interest in the Pony Express Pipeline system that transports oil to a major storage hub in Cushing, Oklahoma.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/09/GettyImages-2281609162.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/12053099/enbridge-us-pipeline-storage-acquisition/",
-                "source": "Global News",
-                "date": "2026-09-09T21:55:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dell Technologies Inc. (DELL) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
-                "desc": "Dell Technologies Inc. (DELL) Goldman Sachs Communacopia + Technology Conference 2026 September 9, 2026 3:25 PM EDTCompany ParticipantsMichael Dell -...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4944683-dell-technologies-inc-dell-presents-at-goldman-sachs-communacopia-technology-conference-2026",
-                "source": "Seeking Alpha",
-                "date": "2026-09-09T21:47:34Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Prefill vs Decode: Why Your Local Model Feels Fast or Slow",
+                "desc": "Prefill vs decode explained: why one machine processes prompts at 1,700 tokens per second and still generates at 38, and which number you actually pay.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/09/Prefill-vs-Decode-Why-Your-Local-Model-Feels-Fast-or-Slow.png",
+                "url": "https://memeburn.com/prefill-vs-decode-why-your-local-model-feels-fast-or-slow/",
+                "source": "Memeburn",
+                "date": "2026-09-10T22:58:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "T-Mobile to Charge $5 a Month for iOS 27 iPhone Handoff",
+                "desc": "T-Mobile will charge customers $5 per month to use iPhone Handoff, an e-SIM feature that allows the same phone number to be used on two separate iPhones. iPhone Handoff requires carrier support, and at launch, only T-Mobile users in the U.S. and Deutsche Telekom users in Germany will be able to use it. T-Mobile says customers can use their number across two compatible iPhone models and elect which phone is active at any given time.",
+                "image": "https://images.macrumors.com/t/dpB04AL5ghcZoHmp-3j8Mc_6j7A=/1672x/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
+                "url": "https://www.macrumors.com/2026/09/10/ios-27-iphone-handoff-cost/",
+                "source": "macrumors.com",
+                "date": "2026-09-10T22:58:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AirPods 5 Hands-On: Better Than ANC AirPods 4 in Every Way and Now $30 Cheaper",
+                "desc": "The AirPods 5 with wireless charging case is the best-value product that Apple announced at its 'Surprise and Shine' event.",
+                "image": "https://gizmodo.com/app/uploads/2026/09/Apple-Event-Sept2026-Apple-Airpods-5-1-1200x675.jpg",
+                "url": "https://gizmodo.com/airpods-5-wireless-charging-case-hands-on-2000808925",
+                "source": "Gizmodo",
+                "date": "2026-09-10T22:45:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What Xiaomi and Huawei Offer to Compete with Apple's Foldable Phone",
+                "desc": "Which one would you prefer?",
+                "image": "https://cdn.80.lv/api/upload/meta/50150/images/6aa332004682f/contain_1200x630.jpg",
+                "url": "https://80.lv/articles/see-what-xiaomi-and-huawei-offer-to-compete-with-apple-s-new-foldable-phone",
+                "source": "80 Level",
+                "date": "2026-09-10T22:43:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ubisoft is 'testing' making its games far less annoying to launch on Steam",
+                "desc": "Ubisoft Connect, your time is up.",
+                "image": "https://s.yimg.com/lo/mysterio/api/dce990f09a30d3d0bcde2ad6ead0beb0ff5c7df39b9e7f6501dbe73e64d189e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpc_gamer_708%2Fa5c689c7ca1794e46214560a7442b721.png",
+                "url": "https://tech.yahoo.com/gaming/articles/ubisoft-testing-making-games-far-223947488.html",
+                "source": "Yahoo Tech",
+                "date": "2026-09-10T22:39:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RedMagic 12 to bring ninth-generation under-display camera to gaming phones",
+                "desc": "RedMagic is continuing its long-running push for bezel-free and notch-free gaming phones, with RedMagic executive Jiang Chao confirming that the upcoming RedMagic 12 series will use ninth-generation under-display camera technology.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/RM-12-white-bars.jpg",
+                "url": "https://www.notebookcheck.net/RedMagic-12-to-bring-ninth-generation-under-display-camera-to-gaming-phones.1396132.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-09-10T22:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Insta360 Luna Pro gimbal camera goes official with a 1-inch sensor",
+                "desc": "It gets 3-axis stabilization and a 2-inch detachable display. Insta360 is expanding its Luna series of gimbal cameras with the new Luna Pro. The handheld...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/09/insta360-luna-pro-announced/-952x498w6/gsmarena_00.jpg",
+                "url": "https://www.gsmarena.com/insta360_luna_pro_gimbal_camera_goes_official_with_a_1inch_sensor-news-74571.php",
+                "source": "GSMArena.com",
+                "date": "2026-09-10T22:31:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poco F9 Pro Review: Great Value In A Premium Build",
+                "desc": "While smartphones from other major brands continue to creep up in price year after year, the value proposition of the Poco F9 Pro is even more impressive.",
+                "image": "https://www.bgr.com/img/gallery/poco-f9-pro-review-great-value-in-a-premium-build/l-intro-1789078812.jpg",
+                "url": "https://www.bgr.com/2255551/poco-f9-pro-review/",
+                "source": "bgr.com",
+                "date": "2026-09-10T22:22:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"“With a gun in my hand, I decided to start over”, a cyberpunk action game about a femme assassin who defies fate”",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://fserveu20221222.blob.core.windows.net/files/Games%20Press/2026/09/101708-1f820ccf/paralogoblack.png?sv=2026-06-06&se=2051-12-31T00%3A00%3A00Z&sr=b&sp=r&sig=z4vLojHNsGf%2FVaIBInvtJ7mAwt435UwwhVKhb6jtj0U%3D&otf=y&sky=87ca231c8e0c6232095dd5721ab5267f8d2295d923e952acc9cefcd2cfd5a2ff",
+                "url": "https://www.gamespress.com/With-a-gun-in-my-hand-I-decided-to-start-over-a-cyberpunk-action-game-",
+                "source": "Games Press",
+                "date": "2026-09-10T22:21:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This Microsoft Office 2024 lifetime license is $49.97",
+                "desc": "Get a lifetime license to Microsoft Office 2024 Professional Plus for Windows for $54.99 (reg. $249.99), with no recurring fees.",
+                "image": "https://helios-i.mashable.com/imagery/articles/07r41on21plNgGhNvrSZ6a8/hero-image.fill.size_1200x675.v1788404804.png",
+                "url": "https://mashable.com/tech/sept-10-microsoft-office-2024-professional-plus",
+                "source": "Mashable",
+                "date": "2026-09-10T22:18:45Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Get up to $300 Off the Samsung Galaxy Z Fold 8 Ultra Following the iPhone Duo Announcement",
                 "desc": "Samsung's latest foldables are on sale following the iPhone Duo's announcement. Here's how to save up to $300 on a Z Fold 8 Ultra and Z Fold 8.",
@@ -1174,99 +1264,99 @@
                 "source": "eurekalert.org",
                 "date": "2026-09-10T02:27:44Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "what B2B leaders should watch today",
-                "desc": "Apple’s September 9 launch is set. Here is what enterprise leaders should watch across AI, device fleets and frontline workflows.",
-                "image": "https://res.cloudinary.com/marketscalecms/image/upload/f_auto,q_auto/v1/payload/media/before-apples-september-9-event-b2b-deployment-ai-frontline-workflows?_a=BAMAABhM0",
-                "url": "https://www.marketscale.com/industries/business-services/before-apples-september-9-event-b2b-deployment-ai-frontline-workflows",
-                "source": "MarketScale",
-                "date": "2026-09-09T22:01:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Watch: 2027 Newcastle Red Bulls vs LOU",
-                "desc": "How to watch Newcastle vs LOU 2026 on FloRugby.",
-                "image": "https://d2779tscntxxsw.cloudfront.net/FloRugby-Logo-Overlay.png",
-                "url": "https://www.florugby.com/articles/16168903-how-to-watch-2027-newcastle-red-bulls-vs-lou-rugby?utm_medium=rss",
-                "source": "FloRugby",
-                "date": "2026-09-09T22:01:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Watch: 2027 Hollywood Sharks vs Benetton Rugby",
-                "desc": "How to watch Hollywood Sharks vs Benetton 2026 on FloRugby.",
-                "image": "https://d2779tscntxxsw.cloudfront.net/FloRugby-Logo-Overlay.png",
-                "url": "https://www.florugby.com/articles/16168899-how-to-watch-2027-hollywood-sharks-vs-benetton-rugby-rugby?utm_medium=rss",
-                "source": "FloRugby",
-                "date": "2026-09-09T22:01:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Watch: 2026 RC Vannes vs Edinburgh Rugby",
-                "desc": "How to watch RC Vannes vs Edinburgh 2026 on FloRugby.",
-                "image": "https://d2779tscntxxsw.cloudfront.net/FloRugby-Logo-Overlay.png",
-                "url": "https://www.florugby.com/articles/16168874-how-to-watch-2026-edinburgh-rugby-vs-rc-vannes-rugby?utm_medium=rss",
-                "source": "florugby.com",
-                "date": "2026-09-09T22:01:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Watch: 2027 Ulster Rugby vs Perpignan",
-                "desc": "How to watch Ulster vs Perpignan 2026 on FloRugby.",
-                "image": "https://d2779tscntxxsw.cloudfront.net/FloRugby-Logo-Overlay.png",
-                "url": "https://www.florugby.com/articles/16168886-how-to-watch-2027-ulster-rugby-vs-perpignan-rugby?utm_medium=rss",
-                "source": "FloRugby",
-                "date": "2026-09-09T21:57:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Watch: 2027 Cheetahs vs Zebre Parma",
-                "desc": "How to watch Cheetahs vs Zebre Parma 2026 on FloRugby.",
-                "image": "https://d2779tscntxxsw.cloudfront.net/FloRugby-Logo-Overlay.png",
-                "url": "https://www.florugby.com/articles/16168890-how-to-watch-2027-cheetahs-vs-zebre-parma-rugby?utm_medium=rss",
-                "source": "florugby.com",
-                "date": "2026-09-09T21:57:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Playdate Season 3 Kicks Off On October 8",
-                "desc": "Get a good look at Gloom Gate, Houm and Soggy Froggy from Playdate season three.",
-                "image": "https://www.engadget.com/img/gallery/playdate-season-3-kicks-off-on-october-8/l-intro-1788990891.jpg",
-                "url": "https://www.engadget.com/2254393/playdate-season-3-kicks-off-on-october-8/",
-                "source": "Engadget",
-                "date": "2026-09-09T21:56:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro is eSIM-Only in These Countries",
-                "desc": "Apple has been phasing out the SIM card tray on iPhones, with the latest models relying solely on eSIM technology in select countries. According to Apple, the iPhone 18 Pro and iPhone 18 Pro Max support eSIMs only in these countries and regions: Bahrain Canada Guam Japan Kuwait Mexico Oman Qatar Saudi Arabia United Arab Emirates United States U.S. Virgin Islands iPhone 17 Pro models are eSIM-only in the same countries, so there is no change this year.",
-                "image": "https://images.macrumors.com/t/gGs1cmhJ0dgUiLryyQw3GSI4XjY=/1600x/article-new/2026/09/iPhone-18-Pro-Burgundy-1-1.jpg",
-                "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-esim-only-countries/",
-                "source": "MacRumors",
-                "date": "2026-09-09T21:52:11Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Apple's first foldable iPhone comes with its biggest price tag yet",
-                "desc": "The iPhone Duo will start at $2,770, putting it among the most expensive mainstream smartphones on the market and marking the first major test for Apple's new CEO.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/3e7cb52f3c2fdb5acb4b86cfc36f4de1?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=152&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-09-10/apple-unveils-its-most-expensive-phone-yet/107136106",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-09-09T21:50:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motorola is joining the wide foldable race, but it might already be too late",
-                "desc": "It really needs to get this right",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-open-screen.JPG?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/motorola-provides-a-quick-glimpse-of-its-wide-foldable/",
-                "source": "androidpolice.com",
-                "date": "2026-09-09T21:48:12Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Key Republicans were blindsided by Trump’s $5,000 dividends and say they won’t happen because of inflation",
+                "desc": "Republicans have reportedly expressed doubts that plan will move forward",
+                "image": "https://static.independent.co.uk/2026/09/10/09/2294430499..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-dividend-plan-check-republicans-warning-b3048299.html",
+                "source": "The Independent",
+                "date": "2026-09-10T23:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bessent: US to sanction large bank on Monday",
+                "desc": "Bessent said the move was originally scheduled for Friday but was postponed because of the ceremonies marking the 25th anniversary of the September 11 attacks.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736506",
+                "url": "https://www.jpost.com/international/article-908354",
+                "source": "The Jerusalem Post",
+                "date": "2026-09-10T23:01:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran's IRGC joins fight on ground in Yemen as war escalation sends oil above $100",
+                "desc": "Hundreds of Iranian Islamic Revolutionary Guard Corps officers are reported to be operating alongside Houthi forces in Yemen as escalating threats to Red Sea shipping push oil prices past $100 per barrel amid intensifying maritime tensions.",
+                "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/a1efd1f84c08a3e254198ac5de601765.jpg",
+                "url": "https://www.foxnews.com/live-news/us-iran-war-strikes-strait-of-hormuz-09-10-26",
+                "source": "Fox News",
+                "date": "2026-09-10T23:01:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Political aftershock of 9/11 still being felt 25 years later - Helen Clark",
+                "desc": "Twenty-five years later, former NZ Prime Minister Helen Clark is lamenting the unlearnt lessons from political mistakes make in the aftermath of the 9/11 attacks on New York's World Trade Center.",
+                "image": "https://media.rnztools.nz/rnz/image/upload/s--lPzyR_8y--/t_tohu-badge-facebook/f_auto/q_auto/4K95Q3R_the_9th_floor_ep_2_the_commander_thumb_png",
+                "url": "https://www.rnz.co.nz/news/world/1334515/political-aftershock-of-9-11-still-being-felt-25-years-later-helen-clark",
+                "source": "RNZ",
+                "date": "2026-09-10T23:00:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa's Metallic Moment: Seizing the Future in Critical Mineral Race",
+                "desc": "Africa stands at a pivotal moment in the global competition for critical minerals, crucial for green technologies and AI. Despite holding 30% of the world's mineral reserves, Africa gains just 10% of global mineral revenues. The continent must break from colonial exploitation patterns to seize future potential.",
+                "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/23_08_2025_10_04_41_3619937.png&width=920&format=jpeg",
+                "url": "https://www.devdiscourse.com/article/business/3975661-africas-metallic-moment-seizing-the-future-in-critical-mineral-race",
+                "source": "Devdiscourse",
+                "date": "2026-09-10T23:00:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Korea Eximbank steps up financial diplomacy with 10 African nations",
+                "desc": "Hwang Ki-yeon, chairman and CEO of the Export-Import Bank of Korea (Korea Eximbank), held a series of high-level meetings with officials from 10 Af...",
+                "image": "https://newsimg.koreatimes.co.kr/2026/09/10/18ddf09c-fae3-4096-ae24-11cbd848e96a.jpg",
+                "url": "https://www.koreatimes.co.kr/business/banking-finance/20260911/korea-eximbank-steps-up-financial-diplomacy-with-10-african-nations",
+                "source": "The Korea Times",
+                "date": "2026-09-10T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN Women warns gender equality in leadership is losing ground",
+                "desc": "UN Women has warned that advances in women’s political leadership are being reversed in many countries, arguing that the international system cannot effectively...",
+                "image": "https://caliber.az/media/photos/original/1e8c515300f92b9a9563e5139923c22b.webp",
+                "url": "https://caliber.az/en/post/un-women-warns-gender-equality-in-leadership-is-losing-ground",
+                "source": "caliber.az",
+                "date": "2026-09-10T22:59:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ontario’s energy lifeline",
+                "desc": "The Democratic governor of Michigan is looking to permanently shut down a key piece of Canadian energy infrastructure. Read more.",
+                "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/08/0806whitmer-scaled-e1785971858893.jpg",
+                "url": "https://torontosun.com/opinion/columnists/whitmers-reckless-line-5-crusade-puts-ontarios-energy-security-at-risk",
+                "source": "Toronto Sun",
+                "date": "2026-09-10T22:52:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Republican scepticism arises after Donald Trump’s pledge of $5000 payouts tied to election wins",
+                "desc": "Fiscally conservative Republicans are concerned about the likely more than US$1 trillion cost of the plan. Some Republicans are saying they are worried about...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/GVX5S4LT7JGPRLUSQURWX5GPRY.jpg?auth=064e279393feb92af97663cd440aac77714c2c38af5a03b95d986d7a6aefdad8&width=1200&height=675&quality=70&focal=1002%2C704&smart=false",
+                "url": "https://www.nzherald.co.nz/world/republican-scepticism-arises-after-donald-trumps-pledge-of-5000-payouts-tied-to-election-wins/premium/OOPEZID3HVBFRI43KQLWK2I6LE/",
+                "source": "NZ Herald",
+                "date": "2026-09-10T22:51:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump administration to sanction unnamed 'large' bank on Monday, Bessent says",
+                "desc": "U.S. Treasury Secretary Scott Bessent said on Thursday the Trump administration will sanction a large bank ​next week as it continues to apply economic pressure ‌on Tehran to end a more than six-month U.S. conflict with Iran.",
+                "image": "https://www.reuters.com/resizer/v2/IHAWTH7EJZK7RHOQW4UGE32QUE.jpg?auth=3bf04fc25c0125b98482afdbf785c0904d3a9ed12ddad8c6d6f92a4ccaed4c80&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/business/finance/trump-administration-sanction-unnamed-large-bank-monday-bessent-says-2026-09-10/",
+                "source": "Reuters",
+                "date": "2026-09-10T22:46:20Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
                 "desc": "The capture of Mokha would bring the Iran-backed group closer to controlling the Bab al-Mandab strait.",
@@ -1806,98 +1896,8 @@
                 "source": "The Times of India",
                 "date": "2026-09-10T02:16:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump departs DC on Qatar-gifted Air Force One after emergency slide accidentally deploys",
-                "desc": "U.S. President Donald Trump departed ​Washington for Texas on Wednesday aboard the Air Force One plane ‌gifted by Qatar after an emergency slide was accidentally deployed and was removed.",
-                "image": "https://www.reuters.com/resizer/v2/FBXJDSOQONIODB5UGKEAAAEJPQ.jpg?auth=5d4c7d314e5843f8fb5c68ff8546109fea792887f6fe5cfcffbf91f14ed3bcfb&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/trump-says-emergency-slide-is-being-checked-qatar-gifted-air-force-one-2026-09-09/",
-                "source": "Reuters",
-                "date": "2026-09-09T22:01:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Citizens Can Join the Military, Lists 4 Conditions",
-                "desc": "Australia has explained how eligible non-citizens can apply to join the Australian Defence Force. The government has listed the citizenship, and other conditions.",
-                "image": "https://cdn.legit.ng/images/1200x675/5997119415d4eda7.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1729930-australian-defence-force-explains-how-citizens-join-military-lists-4-conditions/",
-                "source": "Legit News",
-                "date": "2026-09-09T22:01:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "12 Western Countries Warn Israel’s Expanding Settlements Undermine Two-State Solution",
-                "desc": "Foreign ministers from 12 countries have warned that Israel’s actions in the West Bank are undermining prospects for a two-state solution, citing increased settler violence and settlement expansion, according to a joint statement.",
-                "image": "https://barlamantoday.com/wp-content/uploads/2026/09/12-Countries-Warn-Israels-Expanding-Settlements-Undermine-Two-State-Solution.jpeg",
-                "url": "https://barlamantoday.com/2026/09/09/12-western-countries-warn-israels-expanding-settlements-undermine-two-state-solution/",
-                "source": "Barlaman Today",
-                "date": "2026-09-09T22:00:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa's rocks hold ancient stories. We need better ways to document and protect them",
-                "desc": "From the Vredefort Dome in South Africa (the world's oldest and largest known meteorite impact structure) to the volcanic lakes of the Great Rift Valley in Kenya, Africa's landscapes hold some of Earth's oldest stories. Morocco's M'Goun UNESCO Global Geopark records more than 200 million years of geological history, while Tanzania's Ngorongoro-Lengai landscape brings together a vast caldera, an active volcano and the fossil record of Olduvai Gorge.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/africas-rocks-hold-anc.jpg",
-                "url": "https://phys.org/news/2026-09-africa-ancient-stories-ways-document.html",
-                "source": "Phys.org",
-                "date": "2026-09-09T22:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ISD warns terrorism threat to Singapore remains high; youth radicalisation a pressing concern",
-                "desc": "Of the eight cases dealt with under the Internal Security Act since July 2025, six involved youths under the age of 21, according to the Internal Security Department's latest Singapore Terrorism Threat Assessment Report.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--ueBdN403--/c_crop,h_576,w_1024,x_0,y_29/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/09/000_34n8943.jpg?itok=eeZQMTfW",
-                "url": "https://www.channelnewsasia.com/singapore/isd-terrorism-threat-report-high-youth-radicalisation-singapore-6369431",
-                "source": "CNA",
-                "date": "2026-09-09T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Biggest Problems Facing BRICS as Leaders Meet: Explainer",
-                "desc": "BRICS — an acronym that stands for Brazil, Russia, India, China and South Africa — has morphed from a term conceived by a Wall Street economist into a club of nations that accounts for around a quarter of the world’s nominal gross domestic product and roughly half of its population. It now has 10 full members, bringing together some of the globe’s biggest energy producers and consumers.",
-                "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-                "url": "https://news.bloombergtax.com/international-trade/the-biggest-problems-facing-brics-as-leaders-meet-explainer",
-                "source": "news.bloombergtax.com",
-                "date": "2026-09-09T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "[INTERVIEW] Korean arms firms need European joint ventures to expand NATO ties: Czech defense chief",
-                "desc": "Korean defense companies seeking to expand their ties with NATO member nations may need to establish joint ventures and local production partnershi...",
-                "image": "https://newsimg.koreatimes.co.kr/2026/09/09/8f74a743-fd37-463d-b5ce-20c8c8f789c9.jpeg",
-                "url": "https://www.koreatimes.co.kr/foreignaffairs/20260910/korean-arms-firms-need-european-joint-ventures-to-expand-nato-ties-czech-defense-chief",
-                "source": "The Korea Times",
-                "date": "2026-09-09T22:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bayeux Tapestry replica goes on display in Aberdeenshire",
-                "desc": "Ian Williams' work - about a third the size of the original - is on show in Macduff in Aberdeenshire.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88e7/live/a426c4e0-ac63-11f1-be57-03729df1d736.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/ckg8ev2w9qko",
-                "source": "bbc.co.uk",
-                "date": "2026-09-09T21:59:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Commentary: US ‘transshipment scam’ narrative raises troubling prospect of a purity test for Southeast Asia",
-                "desc": "If the US sees all trade as a potential scam, trading partners would do well to prepare for more tariffs, says Hinrich Foundation’s Deborah Elms.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--GDt7ek_t--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-01-17t190701z_3_lynxmpel0g0uw_rtroptp_3_usa-shipping.jpg?itok=EFtLF4I-",
-                "url": "https://www.channelnewsasia.com/commentary/us-tariffs-trade-scam-china-southeast-asia-6369666",
-                "source": "CNA",
-                "date": "2026-09-09T21:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Journalist Unexpectedly Chosen as King",
-                "desc": "A news anchor was unexpectedly named the next monarch of Uganda's Tooro Kingdom on Wednesday following last month's death at age 34 of a monarch once known as the \"boy...",
-                "image": "https://cdn.newser.com/image/1710689-12-20260909171148.jpeg",
-                "url": "https://www.newser.com/story/396175/journalist-unexpectedly-chosen-as-king.html",
-                "source": "Newser",
-                "date": "2026-09-09T21:54:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-11T05:46:39.229894Z"
+    "lastGlobalSync": "2026-09-11T11:03:39.236790Z"
 }
