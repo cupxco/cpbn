@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "China’s AI industry is moving from models to agents, a state report says",
+                "desc": "A China Telecom report says inference will be 80% of the country's compute market by 2029. Europe's gigafactories are due online in mid-2028.",
+                "image": "https://media.thenextweb.com/2026/07/big-tech-2-trillion-ai-spending-commitments-bloomberg.jpg",
+                "url": "https://thenextweb.com/news/china-agents-inference-eu-compute",
+                "source": "The Next Web",
+                "date": "2026-09-12T11:25:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia may put $10bn into Anthropic’s IPO, more than Europe’s largest AI round in full",
+                "desc": "Nvidia may put $10bn into Anthropic's IPO. Three days earlier it backed Mistral's EUR 3bn round, and the cheque it is weighing is bigger than all of it.",
+                "image": "https://media.thenextweb.com/2026/07/nvidia-vera-rubin-full-production-customers.jpg",
+                "url": "https://thenextweb.com/news/nvidia-anthropic-ipo-mistral-scale",
+                "source": "The Next Web",
+                "date": "2026-09-12T11:23:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AstraZeneca: The $5 Billion Pipeline Hole Did Not Stay Open Long",
+                "desc": "AstraZeneca gets a Buy rating as its core business is still growing while a deep late-stage pipeline gives investors multiple ways for earnings. Click for more.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2231914284/image_2231914284.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4945762-astrazeneca-the-5-billion-pipeline-hole-did-not-stay-open-long",
+                "source": "Seeking Alpha",
+                "date": "2026-09-12T11:19:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WCLC 2026 Opens in Seoul: Targeted Therapy Moves Earlier as SCLC Enters a New Therapeutic Era",
+                "desc": "WCLC 2026 highlights major advances in SCLC, EGFR, HER2, ROS1 and perioperative NSCLC as targeted and immune therapies move earlier in care.",
+                "image": "https://oncodaily.com/pub/uploads/2026/09/f5dcd0ac00e94689bde351451d571e2d_exif.webp",
+                "url": "https://oncodaily.com/oncolibrary/lung-oncology/wclc-2026",
+                "source": "Oncodaily",
+                "date": "2026-09-12T11:18:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taiwan-Founded Asia Talent Platform Cake Draws 20,000+ Job Seekers as AI and Cross-Border Careers Take Center Stage",
+                "desc": "PR Newswire | ​TAIPEI, Sept. 12, 2026 /PRNewswire/ -- Cake, a Taiwan-",
+                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2026/09/20260912020816EDT_image_1-7UecYU.jpg",
+                "url": "https://macaubusiness.com/taiwan-founded-asia-talent-platform-cake-draws-20000-job-seekers-as-ai-and-cross-border-careers-take-center-stage/",
+                "source": "Macau Business",
+                "date": "2026-09-12T11:09:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Silent killer for the economy': US diesel hits record $6 a gallon",
+                "desc": "US diesel prices have hit record highs, up 63% from a year ago, raising fears of higher food and consumer costs",
+                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/07/SJeOzXQ2Ozg/SJeOzXQ2Ozg_0_23_3000_1688_0_large.jpg",
+                "url": "https://www.ynetnews.com/business/article/sysjg2zkzx",
+                "source": "Ynetnews",
+                "date": "2026-09-12T11:08:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A flawed system and one man's hubris cost Meta shareholders $17 billion",
+                "desc": "Meta's settlement may seem large, but it may be just the tip of the iceberg. The plaintiffs' own models put the damages in the trillions.",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2268011935-e1789149679353.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/09/12/zuckerberg-meta-17-billion-settlement-hubris-flawed-system/",
+                "source": "fortune.com",
+                "date": "2026-09-12T11:06:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada's innovators are looking south. We need to keep them at home",
+                "desc": "Are they leaving because of high taxes? Red tape? Funding shortfalls? Experts say we can stop the U.S. swallowing up our young talent.",
+                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/09/Natasha-Penzo.jpg",
+                "url": "https://nationalpost.com/news/canadas-entrepreneurs-look-to-us",
+                "source": "National Post",
+                "date": "2026-09-12T11:02:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Heatwaves hit the Sunday roast: why the RHS says cauliflower is off the menu",
+                "desc": "Charity urges gardeners in England to swap thirsty brassicas for drought-tolerant crops",
+                "image": "https://i.guim.co.uk/img/media/284dd2c56c11b173432d520ec1cf7d5539ccbef5/328_0_4660_3729/master/4660.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4283b23aa6d33ad518a4d61a88a0e9a2",
+                "url": "https://www.theguardian.com/environment/2026/sep/12/heatwaves-hit-sunday-roast-rhs-cauliflower-off-menu",
+                "source": "The Guardian",
+                "date": "2026-09-12T11:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Seater Becomes Cheaper » MotorOctane",
+                "desc": "To counter the pre-festive slowdown, many carmakers in India have announced monthly discount schemes. Here's one such exciting deal for you.",
+                "image": "https://motoroctane.com/wp-content/uploads/2026/09/Indias-Most-Affordable-7-Seater-Becomes-Cheaper.jpg",
+                "url": "https://motoroctane.com/news/323626-indias-most-affordable-7-seater-becomes-cheaper",
+                "source": "MotorOctane",
+                "date": "2026-09-12T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "‘I graduated from one of London’s top universities - 100 job applications later I’m still unemployed’",
                 "desc": "Emily Shulman has applied to over 100 jobs – still she and her university friends are struggling to find jobs in UK’s tough jobs market",
                 "image": "https://static.independent.co.uk/2026/09/10/10/02/IMG_7908.jpeg?trim=0,27,0,26&width=1200&height=800&crop=1200:800",
@@ -542,99 +632,99 @@
                 "source": "nzherald.co.nz",
                 "date": "2026-09-11T18:22:30Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Aruwa Capital, UK-Nigeria tech hub and WIPO back The Destiny Trust’s push for children’s innovation and digital inclusion",
-                "desc": "Aruwa Capital Management, a leading growth equity and gender lens fund investing in West Africa, is backing The Destiny Trust’s work to expand digital inclusion and support child-led innovation among children from underrepresented communities across Nigeria.",
-                "image": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/09/T-8095-1024x683.jpg",
-                "url": "https://techcabal.com/2026/09/11/aruwa-capital-uk-nigeria-tech-hub-and-wipo-back-the-destiny-trusts-push-for-childrens-innovation-and-digital-inclusion/",
-                "source": "TechCabal",
-                "date": "2026-09-11T13:34:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Friday Debrief: Spring Sky Mr Wooden, ’80s MTB Bikepacking, Slovenia West Loop, What Rack is That?, and More…",
-                "desc": "This week’s Debrief asks our readership to help identify a rack and features a Horse Hound build, a Rodeo Labs 32er, and much more...",
-                "image": "https://bikepacking.com/wp-content/uploads/2026/09/Debrief-238_Main.jpg",
-                "url": "https://bikepacking.com/news/friday-debrief-238/",
-                "source": "BIKEPACKING.com",
-                "date": "2026-09-11T13:33:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paramount's CEO has 'tricks up his sleeve' to get his Warner acquisition cleared in California",
-                "desc": "No one knows when or if California AG Rob Bonta will agree to hold settlement talks with Paramount Skydance regarding its merger with Warner Bros. Discovery – but David Ellison has a \"few tricks up his sleeve,\" On The Money has learned.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/OTM-3-3.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/09/11/media/paramounts-ceo-has-tricks-up-his-sleeve-to-get-his-warner-acquisition-cleared-in-california/",
-                "source": "New York Post",
-                "date": "2026-09-11T13:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SEC examines PCAOB's audit inspections, citing industry concerns, other reasons",
-                "desc": "The Securities and Exchange Commission (SEC) initiated an examination of the Public Company Accounting Oversight Board's (PCAOB) audit firm inspection process in September 2025, citing the importance of inspections to the board's oversight of audit quality, the time since the commission's previous examination in 2009, and industry concerns about consistency in inspection results, according to a congressional watchdog.",
-                "image": "https://tax.thomsonreuters.com/news/wp-content/themes/tac/assets/media/favicon.png",
-                "url": "https://tax.thomsonreuters.com/news/sec-examines-pcaobs-audit-inspections-citing-industry-concerns-other-reasons/",
-                "source": "Thomson Reuters tax",
-                "date": "2026-09-11T13:31:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "When going all in doesn’t pay off: Meet the ex-entrepreneurs who chased their dreams and failed",
-                "desc": "The dream of starting a business can be alluring, but founders told CNA TODAY that the reality often meant punishing hours, financial sacrifice and the sobering discovery that even a useful idea may not make for a viable business.",
-                "image": "https://dam.mediacorp.sg/image/upload/s---JyQEmgm--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/11/20251004_llt_p3-8-216.jpg?itok=L5zkN_tt",
-                "url": "https://www.channelnewsasia.com/today/ground-up/failed-business-entrepreneurship-reality-challenges-6368881",
-                "source": "CNA",
-                "date": "2026-09-11T13:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Site clearance at former Crown Paints site",
-                "desc": "COOLOCK: Owners of former Crown Paints site promise to keep the local community informed as site clearance happening today",
-                "image": "https://gript.ie/wp-content/uploads/2026/09/Coolock-Site-Clearance--e1789133184449.jpg",
-                "url": "https://gript.ie/site-clearance-at-former-crown-paints-site/",
-                "source": "Gript",
-                "date": "2026-09-11T13:26:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US inflation holds at 3.4% as monthly price rises hit fastest pace since May",
-                "desc": "US consumer prices rose 3.4% in the year to August, unchanged from July and exactly in line with expectations, but the monthly increase of 0.4% was the sharpest since May, a sign the energy shock is starting to bite four days before a Federal Reserve decision markets expect will deliver a rate hike.",
-                "image": "https://images.euronews.com/articles/stories/09/90/99/05/1200x675_cmsv2_b67a8daf-c130-53be-829a-9e5ec375767e-9909905.jpg",
-                "url": "https://www.euronews.com/business/2026/09/11/us-inflation-holds-at-34-as-monthly-price-rises-hit-fastest-pace-since-may",
-                "source": "euronews.com",
-                "date": "2026-09-11T13:25:47Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Bitcoin ETFs Are Roaring Again. Is Bitcoin a Buy at $80,000?",
-                "desc": "Money is flowing into Bitcoin ETFs again, but how long can Bitcoin's summer rally last?",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887027%2Fsummer-investor-on-hammock.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/09/11/bitcoin-etfs-are-roaring-again-is-bitcoin-a-buy-at/",
-                "source": "The Motley Fool",
-                "date": "2026-09-11T13:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ghana plans first non-interest banking licence by end of 2026",
-                "desc": "The Bank of Ghana plans to issue its first non-interest banking licence by the end of 2026 after publishing regulatory guidelines and establishing an advisory council.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/ghana_to_issue_first_non_interest_bankin_1789132330858.webp",
-                "url": "https://ua.news/en/world/gana-planuie-vidati-pershu-litsenziiu-na-bezvidsotkovii-banking-do-kintsia-2026-roku",
-                "source": "UA.NEWS",
-                "date": "2026-09-11T13:20:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BMO commits up to $70-billion in new capital to shore up critical sectors",
-                "desc": "It’s the latest move by one of Canada’s largest lenders to boost domestic investment in priority industries",
-                "image": "https://www.theglobeandmail.com/resizer/v2/57TGINWOX5AJVJVVI4PTYTSYHA.JPG?auth=44a8d39a572b8f7906f21c745a561fe4dbd0ac5ac64a47a8c5f67c00a388b75e&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-bmo-commits-up-to-70-billion-in-new-capital-canada-economy/",
-                "source": "The Globe and Mail",
-                "date": "2026-09-11T13:20:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "NVIDIA is Giving Away RTX 5090s Through an NBA 2K27 Screenshot Contest",
+                "desc": "NVIDIA has launched the NBA 2K27 DLSS 5 Poster Challenge, giving away four custom RTX 5090 graphics cards as prizes. Given what the card actually costs to buy right now, the timing is a little funny. To enter, players capture an in-game NBA 2K27 screenshot or clip with DLSS 5 enabled on an RTX...",
+                "image": "https://www.techpowerup.com/img/BrDNPSjDudiwu1Mt.jpg",
+                "url": "https://www.techpowerup.com/352621/nvidia-is-giving-away-rtx-5090s-through-an-nba-2k27-screenshot-contest",
+                "source": "TechPowerUp",
+                "date": "2026-09-12T11:26:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Remote Desktop Services Failures on Windows Servers Following September Update",
+                "desc": "Windows administrators worldwide are grappling with a disruptive Remote Desktop Services (RDS) bug that surfaced immediately after Microsoft shipped its September 2026 Patch Tuesday cumulative updates.",
+                "image": "http://cybersecuritynews.com/wp-content/uploads/2026/09/Remote-Desktop-Services-Failures.webp",
+                "url": "https://cybersecuritynews.com/remote-desktop-services-failures/",
+                "source": "CyberSecurityNews",
+                "date": "2026-09-12T11:22:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "After Apple’s launch of its foldable iPhone, what are the caveats for Chinese buyers?",
+                "desc": "Apple is attempting to break into China's foldable phone market, the world's largest and most competitive, dominated by Huawei Technologies",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/09/12/4104925.jpg",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/12/after-apples-launch-of-its-foldable-iphone-what-are-the-caveats-for-chinese-buyers",
+                "source": "The Star",
+                "date": "2026-09-12T11:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Live Science reviews Celestron StarSense Explorer DX 130AZ",
+                "desc": "Live Science reviewed the Celestron StarSense Explorer DX 130AZ, a 130 mm Newtonian reflector with smartphone-guided pointing, outlining its optics, observing capabilities and limitations.",
+                "image": "https://cdn-cabinet.ua.news/uploads/images/celestron_starsense_explorer_dx_130az_re_1789211164508.webp",
+                "url": "https://ua.news/en/technologies/live-science-otsinilo-teleskop-celestron-starsense-explorer-dx-130az",
+                "source": "UA.NEWS",
+                "date": "2026-09-12T11:10:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Epomaker Showed Off Retro Designs and Fast TMR Gaming Keyboards at IFA 2026",
+                "desc": "At IFA 2026 in Berlin, I stopped by the Epomaker booth to check out four of the company’s latest keyboards. The lineup shows how far mechanical...",
+                "image": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/09/Epomaker-Glyph-HE75-V2-TMR-RT98.jpg",
+                "url": "https://www.ubergizmo.com/2026/09/epomaker-retro-designs-fast-tmr-gaming-keyboards-ifa-2026/",
+                "source": "Ubergizmo",
+                "date": "2026-09-12T11:00:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This 9-Course Game Development E-Degree Is on Sale for $20",
+                "desc": "Enjoy 9 self-paced courses in Unity, Unreal Engine 5, and Blender that turn beginners into portfolio-ready game developers. And right now, the whole thing is yours for 59% off.",
+                "image": "https://i.pcmag.com/imagery/articles/05EZqTU9BFJW5L8EG1a27YH-1.fit_lim.size_1200x630.v1788966385.png",
+                "url": "https://www.pcmag.com/deals/this-9-course-game-development-e-degree-is-on-sale-for-20",
+                "source": "PCMag",
+                "date": "2026-09-12T11:00:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dodge Challenger SRT Hellcat Drags Tesla Model S Plaid, and You'd Better Prepare For a Surprise",
+                "desc": "The videographer behind the \"Wheels\" channel on YouTube is a big fan of The Strip at Las Vegas Motor Speedway, and they caught a nice Mopar vs Tesla skirmish",
+                "image": "https://s1.cdn.autoevolution.com/images/news/dodge-challenger-srt-hellcat-drags-tesla-model-s-plaid-and-you-d-better-prepare-for-a-surprise-275181_1.jpg",
+                "url": "https://www.autoevolution.com/news/dodge-challenger-srt-hellcat-drags-tesla-model-s-plaid-and-you-d-better-prepare-for-a-surprise-275181.html",
+                "source": "autoevolution",
+                "date": "2026-09-12T11:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Complete list of EA FC 27 trophies & achievements",
+                "desc": "Looking to unlock every EA FC 27 trophy? Check out the complete list of all 47 PlayStation trophies and Xbox achievements.",
+                "image": "https://assets.khelnow.com/news/uploads/2026/07/Lead-Pic-Dim-318.jpg",
+                "url": "https://khelnow.com/gaming/list-ea-fc-27-trophies-achievements-202609",
+                "source": "Khel Now",
+                "date": "2026-09-12T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hogwarts Legacy fans can finally explore Diagon Alley thanks to new free expansion",
+                "desc": "Hogwarts Legacy’s Diagon Alley is finally explorable thanks to an incredible free mod, complete with shops, Gringotts and the Leaky Cauldron.",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltacfceea9655d6220/6aa029d60b06b04a991a5cc3/hogwarts-legecy-diagon-alley-mod-1.jpg",
+                "url": "https://www.gamingbible.com/news/platform/pc/hogwarts-legacy-diagon-alley-free-mod-698956-20260908",
+                "source": "gamingbible.com",
+                "date": "2026-09-12T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Anti-Woke Right Can’t Figure Out How to Stop",
+                "desc": "A subset of male gamers have spent years warning that the transgressive series has been neutered by progressive developers, but the backlash isn’t taking hold.",
+                "image": "https://media.wired.com/photos/6aa2e470eb334db5ae141f8b/191:100/w_1280,c_limit/Right-Wingers-Melting-Down-Over-GTA-Culture-Jason_Duval_06.jpg",
+                "url": "https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/",
+                "source": "WIRED",
+                "date": "2026-09-12T11:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "AMD’s new budget CPUs could be a lifeline for cash-strapped PC builders",
                 "desc": "AMD has launched two new six-core Ryzen processors for budget PCs. The Ryzen 5 5500F keeps costs down for existing AM4 systems, and the Ryzen 5 7500 gives newer builds integrated Radeon graphics for $189.",
@@ -1174,99 +1264,99 @@
                 "source": "Games Press",
                 "date": "2026-09-11T18:31:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Mercedes-AMG CLE 646 Revealed With 645bhp V8 Power, Just 30 Units Planned: Here’s What It Offers",
-                "desc": "The CLE 646 comes equipped with a 4.0-liter twin-turbo V8 engine with a flat-plane crankshaft. The engine generates an output of 645 horsepower and a torque of 627 lb-ft.",
-                "image": "https://sm.mashable.com/mashable_in/seo/default/mercedesa_nwtt.jpg",
-                "url": "https://in.mashable.com/automobiles/113881/mercedes-amg-cle-646-revealed-with-645bhp-v8-power-just-30-units-planned-heres-what-it-offers",
-                "source": "Mashable India",
-                "date": "2026-09-11T13:33:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sunken Realms | One week to launch, pricing revealed and demo closing soon",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/08/122057-e125a1af/Capsule_Main_(1232_x_706).png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=a652fbba0e2a2dfc360ca7cf7c9cfcdc11c62cc7833bb96bdbe9942df8b99de4",
-                "url": "https://www.gamespress.com/Sunken-Realms-One-week-to-launch-pricing-revealed-and-demo-closing-soo",
-                "source": "Games Press",
-                "date": "2026-09-11T13:33:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I switched to Microsoft's Android apps for a month; Google's ecosystem suddenly felt outdated",
-                "desc": "A month without my usual apps",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/microsoft-apps-vs-google-apps.png?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/switched-to-microsofts-android-apps-for-month-google-ecosystem-suddenly-felt-outdated/",
-                "source": "Android Police",
-                "date": "2026-09-11T13:30:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Inaugural GOALS Open Grand Finals To Be Held in Stockholm This Weekend",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Inaugural-GOALS-Open-Grand-Finals-To-Be-Held-in-Stockholm-This-Weekend",
-                "source": "Games Press",
-                "date": "2026-09-11T13:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IBC 2026: Sony to Demonstrate Live, News, Cinema, and Immersive Production",
-                "desc": "Sony will exhibit at IBC2026 (Hall 13, September 11–14), demonstrating products across live production, news, cinema, and immersive and spatial content workflows. \"At this year's IBC show, Sony's theme of...",
-                "image": "https://www.sportsvideo.org/wp-content/uploads/2026/09/IBC-2026-1-960x506.jpg",
-                "url": "https://www.sportsvideo.org/2026/09/11/ibc-2026-sony-to-demonstrate-live-news-cinema-and-immersive-production/",
-                "source": "Sports Video Group",
-                "date": "2026-09-11T13:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NAZARA LAUNCHES BODYCAM IN FORTNITE THROUGH AN OFFICIAL UEFN ADAPTATION",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/NAZARA-LAUNCHES-BODYCAM-IN-FORTNITE-THROUGH-AN-OFFICIAL-UEFN-ADAPTATIO",
-                "source": "gamespress.com",
-                "date": "2026-09-11T13:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tineco's Latest Floor Care Innovations Earn Multiple Honors at IFA 2026",
-                "desc": "FLOOR ONE S11 Artist Fusion Steam, FLOOR ONE S9 Artist Boost Steam and PURE ONE STATION 7 ZeroTouch recognized across steam, wet-dry and cordless floor care",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/11/1213688.jpg",
-                "url": "https://www.manilatimes.net/2026/09/11/tmt-newswire/pr-newswire/tinecos-latest-floor-care-innovations-earn-multiple-honors-at-ifa-2026/2423495",
-                "source": "The Manila Times",
-                "date": "2026-09-11T13:29:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Young Climber Just Beat Adam Ondra's 5.15 Record",
-                "desc": "Leo Cea has just made history with his send of No Pain No Gain 5.15a in Spain",
-                "image": "https://gripped.com/wp-content/uploads/2026/09/av0iudrh.webp",
-                "url": "https://gripped.com/news/young-climber-just-beat-adam-ondras-5-15-record/",
-                "source": "gripped.com",
-                "date": "2026-09-11T13:25:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iOS 27 launches next week: Here are three new features I’ve been loving",
-                "desc": "iOS 27 is packed with new features for iPhone users. Here are three of my favorite new iOS 27 features so far.",
-                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-trio-ios-27.jpg?quality=82&strip=all&resize=1200,628",
-                "url": "https://9to5mac.com/2026/09/11/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
-                "source": "9to5Mac",
-                "date": "2026-09-11T13:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Physical copies bring Sony huge money: 35% of Marvel's Spider-Man 2 sales revenue came from discs, analysts say",
-                "desc": "More than a third of Ghost of Yōtei's sales revenue came from physical editions of the game.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1344978/6431a6fd-c025-4267-8f27-a1fcf03138d8.jpg",
-                "url": "https://ixbt.games/en/news/2026/09/11/435158-fiziceskie-kopii-prinosiat-sony-ogromnye-dengi-35-vyrucki-ot-prodaz-marvels-spider-man-2-prislos-na-diski-govoriat-analitiki.html",
-                "source": "ixbt.games",
-                "date": "2026-09-11T13:14:38Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Putin Calls Egypt a ‘Long-Standing and Reliable Friend’",
+                "desc": "Russian President Vladimir Putin has highlighted the close relationship between Russia and Egypt on Friday, 11 September, describing Egypt as a “long-standing and reliable friend” during a meeting with Egyptian President Abdel Fattah El-Sisi on the sidelines of the BRICS Summit in New Delhi. The meeting between the two leaders focused on the growing",
+                "image": "https://egyptianstreets.com/wp-content/uploads/2026/09/7hx5ftqjmmrts2520n8nt7bys5fo69an.jpeg",
+                "url": "https://egyptianstreets.com/2026/09/12/putin-calls-egypt-a-long-standing-and-reliable-friend/",
+                "source": "Egyptian Streets",
+                "date": "2026-09-12T11:23:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Europe sets out new space plans",
+                "desc": "European Commission President Ursula von der Leyen has outlined new priorities to strengthen Europe’s position in the global space sector",
+                "image": "https://www.openaccessgovernment.org/wp-content/uploads/2026/09/iStock-2236209402-scaled.jpg",
+                "url": "https://www.openaccessgovernment.org/europe-sets-out-new-space-plans/214217/",
+                "source": "Open Access Government",
+                "date": "2026-09-12T11:22:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Asia’s Natural Disasters Must Not Become Financial Crises",
+                "desc": "The dangerous flooding in Nepal and Tibet has demonstrated, once again, the need for prearranged disaster-risk financing to prepare for the economic chain re...",
+                "image": "https://img.cambodianess.com/uploads/article/09-2026/1789186321.jpg",
+                "url": "https://cambodianess.com/article/asias-natural-disasters-must-not-become-financial-crises",
+                "source": "Cambodianess",
+                "date": "2026-09-12T11:17:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Farage’s Reform UK gets two £36M donations from crypto billionaires",
+                "desc": "Reform backer Christopher Harborne matched the record donation announced a day earlier by fellow investor Ben Delo.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/12/GettyImages-2293132859-scaled.jpg",
+                "url": "https://www.politico.eu/article/nigel-farage-reform-uk-gets-36-million-from-crypto-billionaire/",
+                "source": "politico.eu",
+                "date": "2026-09-12T11:17:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "How to fix patchy lawns with gardener's 3 key steps",
+                "desc": "Fixing patchy lawns doesn't take 'rocket science'. All gardeners need is just three simple and quick steps to return the grass to its former glory.",
+                "image": "https://cdn.images.express.co.uk/img/dynamic/13/1200x630/7139472.jpg",
+                "url": "https://www.express.co.uk/life-style/garden/2247938/how-to-rectify-patchy-lawns",
+                "source": "Daily Express",
+                "date": "2026-09-12T11:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sisi urges BRICS nations to turn potential into action",
+                "desc": "Egyptian President Abdel Fattah El-Sisi has called for stronger co-operation among BRICS countries to address mounting global economic, security and",
+                "image": "https://egyptian-gazette.com/wp-content/uploads/2026/09/IMG-20260912-WA0013.webp",
+                "url": "https://egyptian-gazette.com/egypt/president-sisi-urges-brics-nations-to-turn-potential-into-action/",
+                "source": "Egyptian Gazette",
+                "date": "2026-09-12T11:12:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rafale set for major firepower boost as France fast",
+                "desc": "News News: France has accelerated preparations for the Rafale F5, the next major upgrade of its Rafale fighter, with the country’s defence procurement agency awa.",
+                "image": "https://static.toiimg.com/thumb/msid-134127196,width-1280,height-720,imgsize-165798,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/defence/news/rafale-set-for-major-firepower-boost-as-france-fast-tracks-f5-upgrade-amid-indias-114-jet-plan/articleshow/134126898.cms",
+                "source": "The Times of India",
+                "date": "2026-09-12T11:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pope encourages Benedictine religious to remain rooted in Christ",
+                "desc": "Pope Leo XIV encourages Benedictine men and women from around the world to deepen their roots in Christ and continue offering a witness of prayer and ...",
+                "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/12/2026-09-12-partecipanti-al-simposio-della--communio-internationa/1789208421864.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+                "url": "https://www.vaticannews.va/en/pope/news/2026-09/pope-audience-benedictine-women-symposium-cib.html",
+                "source": "Vatican News",
+                "date": "2026-09-12T11:09:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China calls for ceasefire, political dialog in Yemen",
+                "desc": "Fu Cong, China's permanent representative to the United Nations, expressed concern over a heightened",
+                "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/09/8498864_1789211019492_a_FB.jpg",
+                "url": "https://www.bastillepost.com/global/article/6150769-china-calls-for-ceasefire-political-dialog-in-yemen",
+                "source": "bastillepost.com",
+                "date": "2026-09-12T11:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Back-to-School Season Brings Increased Spread of Illness",
+                "desc": "The spread of illness is an added concern now that a new school year is underway. As students come together in...",
+                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/08/school-classroom-chairs-desks-paradise-intermediate.jpg",
+                "url": "https://vocm.com/2026/09/12/310044/",
+                "source": "VOCM",
+                "date": "2026-09-12T11:03:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Fighting re-erupts in Yemen and civilians are paying the price",
                 "desc": "More than 900 people have been killed or injured and at least 5,000 families have fled their homes in less than a week.",
@@ -1806,98 +1896,8 @@
                 "source": "Reuters",
                 "date": "2026-09-11T18:05:43Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "‘Weeks, Not Months’: Ukraine’s FP-7 Ballistic Missile Could Soon Strike Russia",
-                "desc": "Fire Point says the 200-km FP-7 has passed two testing stages, while its longer-range FP-9 is undergoing flight tests.",
-                "image": "https://static.kyivpost.com/storage/2026/08/10/2a973b6abfc666f673a2c1b52b6434f3.jpg?w=1200&q=90&f=jpg",
-                "url": "https://www.kyivpost.com/post/84300",
-                "source": "Kyiv Post",
-                "date": "2026-09-11T13:35:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK lists African countries whose citizens can travel with eTA instead of visa",
-                "desc": "The UK has listed two African countries whose citizens can travel to the UK using an Electronic Travel Authorisation (ETA) instead of visa",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/uk-visas.webp",
-                "url": "https://www.vanguardngr.com/2026/09/uk-lists-african-countries-whose-citizens-can-travel-with-eta-instead-of-visa/",
-                "source": "Vanguard News",
-                "date": "2026-09-11T13:35:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toxicology reports released from Mechanicville family deaths",
-                "desc": "Police on Friday released tests from the homicides of four children and their mother and grandmother accused of killing the kids.",
-                "image": "https://s7d2.scene7.com/is/image/TWCNews/Mechanicville_deaths_Cropped_1",
-                "url": "https://spectrumlocalnews.com/nys/capital-region/news/2026/09/11/toxicology-reports-released-from-6-mechanicville-family-deaths",
-                "source": "spectrumlocalnews.com",
-                "date": "2026-09-11T13:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Young, old, single, divorced: The many faces of Singapore’s one-person households",
-                "desc": "From young singles seeking a home of their own to seniors ageing independently, more people in Singapore are living alone. As the number of one-person resident households rises, experts said supporting their diverse needs will require rethinking housing, caregiving and how we structure social connection.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--GMkcp2ol--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/11/single-person-household-senior-divorcee-young-couple-living-alone-gfx-cna-today-big-read.png?itok=viPkIg0a",
-                "url": "https://www.channelnewsasia.com/today/big-read/young-old-single-divorced-one-person-households-6375696",
-                "source": "CNA",
-                "date": "2026-09-11T13:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Norway's Princess Astrid dies aged 94 two days after King's funeral",
-                "desc": "Norway's Princess Astrid, an older sister of the late king Harald, died on Friday at the age of 94, two days after the King's funeral.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/f89d1ec644c7a9039d633e26eb98c704?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=241&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-09-11/norway-princess-astrid-dies-aged-94/107145428",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-09-11T13:29:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "President António Costa's \"Tour des Capitales\": preview for week 4",
-                "desc": "The President of the European Council, António Costa, will conclude his last week of visits to national leaders from EU member states. During the “Tour des Capitales”, President Costa will discuss the EU agenda with Heads of State or Government – with a major focus on the next long-term EU budget – and lay the […]",
-                "image": "https://www.pubaffairsbruxelles.eu/wp-content/uploads/2024/06/map-europe-colored-buttons-indicate-location-coordinates-destination-scaled.jpg",
-                "url": "https://www.pubaffairsbruxelles.eu/eu-institution-news/president-antonio-costas-tour-des-capitales-preview-for-week-4/",
-                "source": "pubaffairsbruxelles.eu",
-                "date": "2026-09-11T13:29:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘These were people like you and me going to work’: America remembers 9/11 victims 25 years on",
-                "desc": "At Ground Zero, family members read the names of the 2977 victims. For the first time, a seventh silence honoured those who have died from illnesses tied to the toxic dust.",
-                "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/e509896ce8ebc91d33127853849a285e21fc14f7",
-                "url": "https://www.theage.com.au/world/north-america/america-pauses-to-remember-victims-of-9-11-attacks-25-years-on-20260911-p60wpv.html",
-                "source": "The Age",
-                "date": "2026-09-11T13:25:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘These were people like you and me going to work’: America remembers 9/11 victims 25 years on",
-                "desc": "At Ground Zero, family members read the names of the 2977 victims. For the first time, a seventh silence honoured those who have died from illness tied to the toxic dust.",
-                "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/e509896ce8ebc91d33127853849a285e21fc14f7",
-                "url": "https://www.smh.com.au/world/north-america/america-pauses-to-remember-victims-of-9-11-attacks-25-years-on-20260911-p60wpv.html",
-                "source": "SMH.com.au",
-                "date": "2026-09-11T13:25:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Magyar vs. Moscow: Hungary toughens stance toward Russia",
-                "desc": "Prime Minister Peter Magyar has abruptly ended the era of his predecessor's warm relations with Russia: Hungary has expelled 10 Russian diplomats. The Kremlin is considering halting gas supplies in response.",
-                "image": "https://static.dw.com/image/78450950_6.jpg",
-                "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-toughens-stance-toward-russia/a-79223424",
-                "source": "DW.com",
-                "date": "2026-09-11T13:22:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘I think of him every year’: remembering those lost in 9/11, 25 years later",
-                "desc": "Guardian readers share stories of the friends, colleagues and mentors whose lives they continue to honor decades after the attacks",
-                "image": "https://i.guim.co.uk/img/media/aac4981d61ebdb26d4cbf922d7f2e9542079559f/666_0_3334_2667/master/3334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3fefd585e2e68bc2f5060ee695be92be",
-                "url": "https://www.theguardian.com/us-news/2026/sep/11/september-11-victims-remembering",
-                "source": "The Guardian",
-                "date": "2026-09-11T13:22:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-12T21:41:33.255096Z"
+    "lastGlobalSync": "2026-09-12T23:27:10.402315Z"
 }
