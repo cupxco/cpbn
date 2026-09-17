@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Chainsaw attack on divisive hedge sparks claim and counterclaim",
+                "desc": "Fences make good neighbours but hedges, it appears, can stretch the relationship to breaking point, as a recent ACT Civil…",
+                "image": "https://region.com.au/wp-content/uploads/2026/09/hedge-1200x630.jpg",
+                "url": "https://region.com.au/chainsaw-attack-on-divisive-hedge-sparks-claim-and-counterclaim/1000439/",
+                "source": "Region Canberra",
+                "date": "2026-09-17T11:05:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "E-Visa: Why airlines still struggle to verify electronic visas",
+                "desc": "Receiving an e-Visa by email does not necessarily mean an airline can easily verify its authenticity at check-in or boarding. As electronic visas and travel authorizations become more widespread, IATA is urging governments to adopt common mechanisms that would allow carriers to check these digital documents more easily and reliably.",
+                "image": "https://visasnews.com/wp-content/uploads/2026/09/evisa-tourism-electronic-visa-travel-airport-screening-iata.jpg",
+                "url": "https://visasnews.com/en/e-visa-why-airlines-still-struggle-to-verify-electronic-visas/",
+                "source": "VisasNews",
+                "date": "2026-09-17T11:04:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "National Cheeseburger Day deals at McDonald's, Burger King, more",
+                "desc": "National Cheeseburger Day is Friday, Sept. 18. That means freebies and deals at several restaurant chains.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/16/USAT/91793253007-nat-cheeseburger-day-750-x-550-evergreen.png?crop=749,421,x0,y14&width=749&height=421&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/food/2026/09/17/national-cheeseburger-day-2026-deals-free-burgers/91459117007/",
+                "source": "USA Today",
+                "date": "2026-09-17T11:04:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bank of England holds interest rates at 3.75% despite rising inflation",
+                "desc": "Policymakers keep steady course as jobs market comes under strain and Iran war pushes up energy costs",
+                "image": "https://i.guim.co.uk/img/media/6e3b12bca9fb99ec43022e8cbb01315f38893f76/221_0_4375_3501/master/4375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78b62cfe2a2ae0514acd9d0bf25c6281",
+                "url": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation",
+                "source": "The Guardian",
+                "date": "2026-09-17T11:01:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "The luxury private jet you can sleep in without being a billionaire",
+                "desc": "A retired 1960s Boeing 727 has been converted into a retro short-term rental, offering aviation enthusiasts a unique and immersive 1980s experience entirely on the ground.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/dsc07203.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/travel/luxury-private-jet-727-rental-retro-1980s",
+                "source": "CNN",
+                "date": "2026-09-17T11:00:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India’s ‘anti-AI’ trade hides 42 AI-enabler stocks that rallied 60% already: Goldman Sachs",
+                "desc": "Indias Nifty has declined 12% in 2026, but Goldman Sachs basket of 42 AI enablers has surged 60%. Power, data centres and semiconductor companies are driving gains, supported by earnings growth, rising capex and increasing corporate focus on AI infrastructure.",
+                "image": "https://img.etimg.com/thumb/msid-134309964,width-1200,height-630,imgsize-149202,overlay-etmarkets/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-anti-ai-trade-hides-42-ai-enabler-stocks-that-rallied-60-already-goldman-sachs/articleshow/134309681.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-09-17T11:00:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "After the US Fed’s rate increase, will China still move ahead with monetary easing?",
+                "desc": "Analysts weigh whether Beijing is set to push ahead with a rate cut to bolster China’s economy despite the US Fed raising interest rates.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/17/de3fa23b-f0f3-4b67-97f0-7802ad1a7d12_e6a0f6f3.jpg?itok=8zqV8iPR&v=1789633537",
+                "url": "https://www.scmp.com/economy/china-economy/article/3367851/after-us-feds-rate-increase-will-china-still-move-ahead-monetary-easing",
+                "source": "South China Morning Post",
+                "date": "2026-09-17T11:00:05Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "PTAD clears N18.96bn PHCN pensioners arrears",
+                "desc": "The Pension Transitional Arrangement Directorate (PTAD) has paid a total of N18.96bn to clear the outstanding arrears owed to 3,958 PHCN pensioners.",
+                "image": "https://cdn.punchng.com/wp-content/uploads/2018/05/09010523/Gabriel-PTAD’s-Executive-Secretary-Sharon-Ikeazor.jpg",
+                "url": "https://punchng.com/ptad-clears-n18-96bn-phcn-pensioners-arrears/",
+                "source": "Punch Newspapers",
+                "date": "2026-09-17T11:00:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. chipmakers face deep labor shortage, Samsung, Micron sound alarm",
+                "desc": "U.S. semiconductor manufacturing faces a historic worker shortage as demand soars. Here’s how chipmakers and U.S. universities aim to fix it.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108363361-1789509583442-1.jpg?v=1789509734&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
+                "source": "CNBC",
+                "date": "2026-09-17T11:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Second Alzheimer’s-treating drug should be publicly covered, Canada’s Drug Agency recommends",
+                "desc": "Recommendation sets the stage for possible government funding of the medication",
+                "image": "https://www.theglobeandmail.com/resizer/v2/CBU36XWJKBGHTFCM6IEZR7AFZQ.JPG?auth=ce24811841fce299e744c4713004590c6f8f5c314588ad5a2ddae2aeae50f585&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/canada/article-alzheimers-donanemab-publicly-covered-canadas-drug-agency-recommends/",
+                "source": "The Globe and Mail",
+                "date": "2026-09-17T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "The FDA’s rebuilding effort is running into a new challenge",
                 "desc": "After losing 5,000 staffers, FDA plans to hire 2,000 are delayed by issues in new centralized hiring center. 'A completely self-created problem.'",
                 "image": "https://www.statnews.com/wp-content/uploads/2026/09/fda-hiring-edit-1024x576.jpg",
@@ -542,99 +632,99 @@
                 "source": "Gript",
                 "date": "2026-09-16T11:07:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "session buying drives close at day's high ahead of FOMC decision — BigGo Finance",
-                "desc": "The Nikkei Stock Average rebounded on the 16th after four sessions of declines, closing at the day's high of 63,923, up 438.90 points. The morning…",
-                "image": "https://img.biggo.com/tYzDmfWgnPhjQiCWpnuE2Z097kHwyQ8yUkAWl3Q0ULQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2luZm9fY2FyZC8yMDI2LTA5L2M1ZWY3NGIwLWI3ZDgtNDczNS1hMDc1LTYzOWZkYjM4YzBmMl8xNzg5NTQ3NDAzX2RlZmF1bHQud2VicA.jpg",
-                "url": "https://finance.biggo.com/news/c5ef74b0-b7d8-4735-a075-639fdb38c0f2",
-                "source": "finance.biggo.com",
-                "date": "2026-09-16T08:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mitsubishi Heavy Industries to Invest ¥10 Billion in PFN, Strengthening Alliance for Domestic Defense AI",
-                "desc": "Mitsubishi Heavy Industries announced on the 16th that it has signed a capital and business alliance agreement with AI developer Preferred Networks…",
-                "image": "https://img.biggo.com/cIH2MZW5WHGMSpbI_YaaQnsg2h64-GCSIkqxmjJi2eU/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2Q5NzQ3OWU1LWVlMjctNDFhOS05NDExLWY1YTczMzhhN2IyMl8xNzg5NTQ3NTg4X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/d97479e5-ee27-41a9-9411-f5a7338a7b22",
-                "source": "finance.biggo.com",
-                "date": "2026-09-16T08:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Most Gulf markets fall as regional risks escalate; Saudi flat on supply-reassurance reports",
-                "desc": "Most Gulf markets fell on Wednesday as escalating regional risks kept investors cautious, while Saudi Arabia's bourse was flat as reports of ​additional crude cargoes via Oman eased fears of wider Middle East supply disruptions.",
-                "image": "https://www.reuters.com/resizer/v2/PE4VVBBHYRMVRBDRD3Y4QVDBR4.jpg?auth=2ff1c7c04e4202a320e171047dbe9e6365ee1ca1d63c60e6f2e0258fecb0c4c5&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/middle-east/gulf-equities-muted-regional-conflict-fed-decision-keep-investors-cautious-2026-09-16/",
-                "source": "Reuters",
-                "date": "2026-09-16T08:24:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold holds below $4,350 as traders eye Fed rate decision",
-                "desc": "Gold (XAU/USD) clings to modest intraday gains through the first half of the European session on Wednesday, albeit it lacks follow-through buying and remains below $4,350. The US Dollar (USD) eases from a two-week high amid some profit-taking, offering support to the commodity.",
-                "image": "https://editorial.fxsstatic.com/images/i/discover-51_Medium.png",
-                "url": "https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409",
-                "source": "FXStreet",
-                "date": "2026-09-16T08:22:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold rises ahead of US Fed rate decision",
-                "desc": "Spot gold rose 0.8% to $4,328.39 per ounce as markets awaited the US Federal Reserve's rate decision.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/gold_rose_ahead_of_fed_rate_decision_1789546352518.webp",
-                "url": "https://ua.news/en/finansi/zoloto-podorozhchalo-pered-rishenniam-frs-ssha-shchodo-stavki",
-                "source": "UA.NEWS",
-                "date": "2026-09-16T08:20:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Africa publishes chicken, bacon and pea pasta recipe",
-                "desc": "Daily Maverick in South Africa published Tony Jackman’s recipe for pasta with chicken, bacon, cream and green peas for four servings.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/chicken_bacon_pasta_peas_recipe_daily_ma_1789546586753.webp",
-                "url": "https://ua.news/en/world/u-par-opublikuvali-retsept-pasti-z-kurkoiu-bekonom-i-zelenim-goroshkom",
-                "source": "UA.NEWS",
-                "date": "2026-09-16T08:20:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dollar edges lower before expected Fed hike",
-                "desc": "LONDON: The dollar pulled back from near multi-week highs on Wednesday as oil prices stalled and ahead of a Federal Reserve decision that traders expect will bring the first of several possible U.S. interest rate hikes.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/09/16/4113379.png",
-                "url": "https://www.thestar.com.my/business/business-news/2026/09/16/dollar-edges-lower-before-expected-fed-hike",
-                "source": "thestar.com.my",
-                "date": "2026-09-16T08:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX prepares for first orbital flight of Starship rocket",
-                "desc": "SpaceX announced Tuesday that it was planning to send its flagship rocket, Starship, into orbit, a key step in its project to one day reach the moon or Mars.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2024/starship.jpg",
-                "url": "https://phys.org/news/2026-09-spacex-orbital-flight-starship-rocket.html",
-                "source": "Phys.org",
-                "date": "2026-09-16T08:17:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "end AI chip production: ‘Chip War’ Author Chris Miller",
-                "desc": "US restrictions on the transfer of advanced chipmaking technology to China have significantly limited the country's ability to produce high-end artificial intelligence chips domestically, according to Chris Miller, author of the acclaimed book ‘Chip War’ and a leading expert on semiconductors.",
-                "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTEyZDA2Y2EwLWIxYTctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-                "url": "https://www.tribuneindia.com/news/business/us-chip-curbs-have-sharply-restrained-chinas-high-end-ai-chip-production-chip-war-author-chris-miller/",
-                "source": "The Tribune",
-                "date": "2026-09-16T08:17:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pickle-flavoured tart? AI inspires Japan’s convenience stores",
-                "desc": "Major chains are turning to AI to develop products with unexpected flavours. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b41560a429d96e41b2b36392e5172e43c7ef496d85e884a8608e80e2dd825fb9",
-                "url": "https://www.straitstimes.com/asia/east-asia/pickle-flavoured-tart-ai-inspires-japans-convenience-stores",
-                "source": "straitstimes.com",
-                "date": "2026-09-16T08:15:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Ploughing highlights: Amazone self-adjusting spreader makes Irish debut",
+                "desc": "Ploughing highlights: Amazone self-adjusting spreader makes Irish debut - 17 September 2026",
+                "image": "https://s3-eu-west-1.amazonaws.com/ifj/WEBFILES/000/933/089/2610430-933089.jpg",
+                "url": "https://www.farmersjournal.ie/machinery/farm-machinery/ploughing-highlights-amazone-self-adjusting-spreader-makes-irish-debut-933089",
+                "source": "Irish Farmers Journal",
+                "date": "2026-09-17T11:06:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Modern Warfare 4 Campaign Trailer Teases Mads Mikkelsen as Main Antagonist",
+                "desc": "Check out the latest campaign trailer for Call of Duty: Modern Warfare 4 offering a glimpse of Price vs. Ghost, Mads Mikkelsen, and more.",
+                "image": "https://static.beebom.com/wp-content/uploads/2026/09/Mads-Mikkelsen-in-Call-of-Duty-Modern-Warfare-4.jpg",
+                "url": "https://beebom.com/new-modern-warfare-4-campaign-trailer-teases-mads-mikkelsen/",
+                "source": "beebom.com",
+                "date": "2026-09-17T11:05:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Honey Pot Takes Flight for Full Release Today",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Honey-Pot-Takes-Flight-for-Full-Release-Today",
+                "source": "Games Press",
+                "date": "2026-09-17T11:02:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hyphen receives full Level Editor and Steam Workshop support 11 years after launch",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Hyphen-receives-full-Level-Editor-and-Steam-Workshop-support-11-years-",
+                "source": "Games Press",
+                "date": "2026-09-17T11:01:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Soundboks Rider Party Speaker Review: Loud and Durable",
+                "desc": "Soundboks’ newest Bluetooth party speaker is its smallest, yet it’s almost as loud and as durable as its larger siblings. It is also overkill.",
+                "image": "https://media.wired.com/photos/6aab585cb8f4f863fa05d8a8/191:100/w_1280,c_limit/Review--Soundboks-Rider.jpg",
+                "url": "https://www.wired.com/review/soundboks-rider/",
+                "source": "WIRED",
+                "date": "2026-09-17T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Johnny Cash's Battery-Powered Rolls-Royce Is Up for Sale Right Now",
+                "desc": "Johnny Cash's former 1970 Rolls-Royce Silver Shadow LWB was turned into an EV by its current owner. Now the electric saloon is up for sale.",
+                "image": "https://robbreport.com/wp-content/uploads/2026/09/johnny-cash-rolls-royce-silver-shadow-01.jpg?w=681&h=383&crop=1",
+                "url": "https://robbreport.com/motors/cars/johnny-cash-rolls-royce-silver-shadow-ev-sale-1238645168/",
+                "source": "Robb Report",
+                "date": "2026-09-17T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Johnny Cash’s 1970 Rolls-Royce Silver Shadow",
+                "desc": "Johnny Cash's former 1970 Rolls-Royce Silver Shadow LWB was turned into an EV by its current owner. Now the electric saloon is up for sale.",
+                "image": "https://robbreport.com/wp-content/uploads/2026/09/johnny-cash-rolls-royce-silver-shadow-00.jpg?w=681&h=383&crop=1",
+                "url": "https://robbreport.com/motors/cars/gallery/photos-johnny-cash-1970-rolls-royce-silver-shadow-ev-1238645908/",
+                "source": "Robb Report",
+                "date": "2026-09-17T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Peru Readies Search For Vendors In Military Space Push",
+                "desc": "The Peruvian government is looking to acquire an initial set of new space systems, a further sign that developing such capabilities has become a global focus.",
+                "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
+                "url": "https://aviationweek.com/space/satellites/peru-readies-search-vendors-military-space-push",
+                "source": "Aviation Week",
+                "date": "2026-09-17T10:59:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hideo Kojima Announces It Star Bill Skarsgard Will Portray Physint's Main Character",
+                "desc": "\"The next Cold War begins.\"",
+                "image": "https://sm.ign.com/t/ign_nordic/news/h/hideo-koji/hideo-kojima-announces-it-star-bill-skarsgard-will-portray-p_2gay.1200.jpg",
+                "url": "https://nordic.ign.com/hideo-kojima-action-espionage-project/112973/hideo-kojima-announces-it-star-bill-skarsgard-will-portray-physints-main-character",
+                "source": "IGN Nordic",
+                "date": "2026-09-17T10:58:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hideo Kojima Announces It Star Bill Skarsgård Will Portray Physint's Main Character",
+                "desc": "\"The next Cold War begins.\"",
+                "image": "https://sm.ign.com/t/ign_pk/news/h/hideo-koji/hideo-kojima-announces-it-star-bill-skarsgard-will-portray-p_qw8u.1200.jpg",
+                "url": "https://pk.ign.com/hideo-kojima-action-espionage-project/261275/hideo-kojima-announces-it-star-bill-skarsgard-will-portray-physints-main-character",
+                "source": "IGN Pakistan",
+                "date": "2026-09-17T10:58:38Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "PSA: watchOS 27 Removes This Useful Feature From Your Apple Watch",
                 "desc": "Apple released watchOS 27 on September 14, bringing a new Audio Intelligence feature set to its latest Apple Watch models, but as a result, owners of previous models are set to lose out doubly in the process.",
@@ -1174,99 +1264,99 @@
                 "source": "TechPowerUp",
                 "date": "2026-09-16T11:04:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Train Sim World 7 Launches Today on Xbox, PlayStation & PC!",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Train-Sim-World-7-Launches-Today-on-Xbox-PlayStation-PC",
-                "source": "Games Press",
-                "date": "2026-09-16T08:25:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sega confirms that Sonic Racing CrossWorlds will still get free characters in Year Two, starting with Bayonetta",
-                "desc": "13 free ‘guest’ Sega characters were added to the game during its first year of content…",
-                "image": "https://www.videogameschronicle.com/files/2026/09/bayonetta.jpg",
-                "url": "https://www.videogameschronicle.com/news/sega-confirms-that-sonic-racing-crossworlds-will-still-get-free-characters-in-year-two-starting-with-bayonetta/",
-                "source": "videogameschronicle.com",
-                "date": "2026-09-16T08:22:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "An open Python API for AI-ready aerospace test automation",
-                "desc": "dSPACE’s Test Automation SDK offers a unified, open Python API that reuses test cases across SIL and HIL environments and supports AI-assisted testing",
-                "image": "https://s44864.pcdn.co/wp-content/uploads/2026/09/ATI-Grafik_TestAutomation-SDK_260724.jpg.webp",
-                "url": "https://www.aerospacetestinginternational.com/news/products-services/an-open-python-api-for-ai-ready-aerospace-test-automation.html",
-                "source": "Aerospace Testing International",
-                "date": "2026-09-16T08:20:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bulkhead May Not Hire People Criticizing Crunch Online",
-                "desc": "The game hit 2 million copies sold in less than a week.",
-                "image": "https://cdn.80.lv/api/upload/meta/50229/images/6aaa50390f749/contain_1200x630.jpg",
-                "url": "https://80.lv/articles/wardogs-ceo-says-bulkhead-may-not-hire-people-criticizing-crunch-online",
-                "source": "80 Level",
-                "date": "2026-09-16T08:16:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony's new PlayStation Pulse gaming headsets go big on bass and finally add ANC",
-                "desc": "Sony’s new PlayStation Pulse and premium Pulse Edge wireless headsets bring larger planar drivers, PlayStation Link, Bluetooth, and AI microphones, with Edge adding ANC and upgraded hardware.",
-                "image": "https://www.digitaltrends.com/tachyon/2026/09/Sony-PlayStation-Pulse-and-Pulse-Edge-Wireless-Gaming-Headsets.jpg?resize=1200%2C630",
-                "url": "https://www.digitaltrends.com/home-theater/sonys-new-playstation-pulse-gaming-headsets-go-big-on-bass-and-finally-add-anc/",
-                "source": "Digital Trends",
-                "date": "2026-09-16T08:16:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Witch the Showdown battles with November 19th, bringing the title to Early Access on Steam",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/09/151451-861e4826/event_header.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=1a1e233b81e0fdbe24d1ce3eed228c13cb559587280f03471fdf702fb781e93c",
-                "url": "https://www.gamespress.com/Witch-the-Showdown-battles-with-November-19th-bringing-the-title-to-Ea",
-                "source": "Games Press",
-                "date": "2026-09-16T08:15:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Witch the Showdown battles with November 19th, bringing the title to Early Access on Steam",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/09/151451-861e4826/event_header.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=1a1e233b81e0fdbe24d1ce3eed228c13cb559587280f03471fdf702fb781e93c",
-                "url": "https://www.gamespress.com/en-US/Witch-the-Showdown-battles-with-November-19th-bringing-the-title-to-Ea",
-                "source": "Games Press",
-                "date": "2026-09-16T08:15:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mercari Bans Unopened Pokémon 30th Celebration Listings From Sept. 16",
-                "desc": "Mercari Bans Unopened Pokémon 30th Celebration Listings From Sept. 16 - TechStock²",
-                "image": "https://ts2.tech/wp-content/uploads/2026/09/p1-mercari-featured.jpg",
-                "url": "https://ts2.tech/en/mercari-bans-unopened-pokemon-30th-celebration-listings-from-sept-16/",
-                "source": "TechStock²",
-                "date": "2026-09-16T08:12:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yes offers new postpaid plan with free ILMUchat Pro access from just RM20",
-                "desc": "The new AI 30 postpaid plan bundles uncapped 5G with free ILMUchat Pro access, starting at just RM20 a month.",
-                "image": "https://nasilemaktech.com/wp-content/uploads/2026/09/Yes-AI-30-Postpaid-Plan.webp",
-                "url": "https://nasilemaktech.com/yes-ai-30-postpaid-plan-malaysia-announce/",
-                "source": "Nasi Lemak Tech",
-                "date": "2026-09-16T08:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "three london designers rethink the materials that shape our homes",
-                "desc": "three london-based designers use nautical rope, ceramic and automotive materials to challenge familiar ideas of domestic furniture.",
-                "image": "https://www.designboom.com/twitterimages/uploads/2026/09/bethan-laura-wood-max-lamb-andu-masebo-material-language-contemporary-home-designboom-9.jpg",
-                "url": "https://www.designboom.com/design/bethan-laura-wood-max-lamb-andu-masebo-material-language-contemporary-home/",
-                "source": "Designboom",
-                "date": "2026-09-16T08:05:06Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Ninth woman found dead in South Africa killing spree",
+                "desc": "South African police on Thursday recovered the body of a ninth woman east of Johannesburg in two months, as a string of murders continues to stoke public anxiety.",
+                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/AFP__20260917__C8JV9YV__v1__MidRes__SafricaCrimeDeath.jpg",
+                "url": "https://www.vanguardngr.com/2026/09/ninth-woman-found-dead-in-south-africa-killing-spree/",
+                "source": "Vanguard News",
+                "date": "2026-09-17T11:07:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Strabane: Restoration work begins on war memorial",
+                "desc": "The work is part of a project that will see restoration also carried out on memorials in Castlederg, Londonderry and Sion Mills.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fad0/live/2b1255c0-b1a8-11f1-8b77-cd7827f05bee.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cqm27xxp3240o",
+                "source": "BBC",
+                "date": "2026-09-17T11:02:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada Releases Names of 67 Countries Whose Citizens Can Apply for Work Permit at Port of Entry",
+                "desc": "Canada has named 67 countries whose citizens qualify to apply for a work permit at a port of entry and provided details on the conditions they must meet.",
+                "image": "https://cdn.legit.ng/images/1200x675/b0be5385352e3822.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1731350-canada-releases-names-67-countries-citizens-apply-work-permit-port-entry/",
+                "source": "legit.ng",
+                "date": "2026-09-17T11:02:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stephen McCullagh to face voyeurism charges",
+                "desc": "The 36-year-old is facing 19 charges of voyeurism, making indecent photographs and possessing indecent photographs",
+                "image": "https://www.irishnews.com/resizer/v2/ISZK5NUXOBFMPFKBW2JUZQMY5Q.jpg?smart=true&auth=07807cd9b51eb581a1dd91873ce1e755fbb4a075c1835eecf995060102b26e2d&width=1200&height=630",
+                "url": "https://www.irishnews.com/news/northern-ireland/stephen-mccullagh-to-face-voyeurism-charges-X4RCOI4UXNF3XBHKGTZ7BCEY5Y/",
+                "source": "The Irish News",
+                "date": "2026-09-17T11:02:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aztec document goes on display in Mexico after 186 years",
+                "desc": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/659a/live/19d96710-b272-11f1-b1d1-571ed4d7ff2c.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo",
+                "source": "BBC",
+                "date": "2026-09-17T11:00:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aztec document goes on display in Mexico after 186 years",
+                "desc": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/659a/live/19d96710-b272-11f1-b1d1-571ed4d7ff2c.jpg",
+                "url": "https://www.bbc.com/news/articles/ck980qyy6d2zo",
+                "source": "BBC",
+                "date": "2026-09-17T11:00:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The beef battleground: Americans boycott food from Trump-voting farmers",
+                "desc": "‘Blue dot’ meat suppliers are enjoying a surge in business, as shoppers reject brands and companies that do not align with their voting preferences",
+                "image": "https://www.thetimes.com/imageserver/image/61c85674-627a-4a03-a785-5ab5fa732a1c.jpg?strip=all&format=webp&crop=5760px%2C3240px%2C0px%2C300px&resize=1200",
+                "url": "https://www.thetimes.com/us/american-politics/article/blue-dot-fever-farmers-facebook-red-states-5bq3k07s0",
+                "source": "thetimes.com",
+                "date": "2026-09-17T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "France, Italy and Greece to shelve EES checks for the rest of the year",
+                "desc": "The EU will let some countries delay new border checks until January to ensure 'challenges are fully addressed'",
+                "image": "https://inews.co.uk/wp-content/uploads/2026/09/SEI_278857031.jpg?crop=0px,177px,1920px,1085px&resize=1200,675",
+                "url": "https://inews.co.uk/news/france-italy-greece-shelve-ees-checks-rest-year-4771520",
+                "source": "The i Paper",
+                "date": "2026-09-17T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump and Rubio allies are vying for control of Cuba’s assets if regime falls",
+                "desc": "Washington and Florida insiders are exploring lucrative deals for a post-communist Cuba crushed by ever-increasing US sanctions",
+                "image": "https://i.guim.co.uk/img/media/ed6393748491c430e54fa03b6f014c581910ee71/18_0_3793_3034/master/3793.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d85107ae74254fabbaf9dbaa9b0e0a59",
+                "url": "https://www.theguardian.com/us-news/2026/sep/17/trump-marco-rubio-cuba",
+                "source": "theguardian.com",
+                "date": "2026-09-17T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alleged Bishnoi associate flaunts guns, bullets, cash in video obtained by CBC News",
+                "desc": "Videos seized from the cellphone of an Indian national removed from Canada for alleged links to the Bishnoi gang show him posing with a gun, pointing the weapon at an Edmonton college and posing in front of a burning building.",
+                "image": "https://i.cbc.ca/ais/246a0cd2-173d-4e39-ba45-76cf88b06242,1789573602495/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C19%2C488%2C274%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-edmonton-cbsa-deportation-9.7345125",
+                "source": "CBC",
+                "date": "2026-09-17T11:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Tanzania earns five AFI recognition as financial inclusion surge",
                 "desc": "DAR ES SALAAM: TANZANIA’s efforts to expand access to formal financial services have received international recognition after the country secured five awards and certificates from the Alliance for Financial Inclusion (AFI), amid a rise in financial inclusion to 76 per cent. The recognition, presented during the AFI Global Policy Forum held in Papua New Guinea …",
@@ -1806,98 +1896,8 @@
                 "source": "Tuko News",
                 "date": "2026-09-16T11:12:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Former world leaders urge governments to back inequality panel",
-                "desc": "Geneva, Switzerland — Dozens of former world leaders published an open letter to their successors on Wednesday, urging them to support the creation of a new international panel to address extreme wealth disparities.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/16/1219466.jpg",
-                "url": "https://www.manilatimes.net/2026/09/16/world/americas-emea/former-world-leaders-urge-governments-to-back-inequality-panel/2426315",
-                "source": "The Manila Times",
-                "date": "2026-09-16T08:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New York City Mayor Mamdani still without federal security clearance",
-                "desc": "Mamdani joins former NYC mayors Blasio, Adams who also faced issues with security clearance from federal govt",
-                "image": "https://i.tribune.com.pk/media/images/zohran-r1781018586-0/zohran-r1781018586-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2629623/new-york-city-mayor-mamdani-still-without-federal-security-clearance",
-                "source": "The Express Tribune",
-                "date": "2026-09-16T08:21:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Drama as Kenyan Man Drives Off with Police Officer Who Entered His Car, Demands Proof of Crime",
-                "desc": "A Kenyan motorist drove off with an officer, demanding CCTV proof of his alleged offence and sparking debate over corruption, motorists' rights and police conduct.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/497a4e7e465083a3.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/people/639958-drama-kenyan-man-drives-police-officer-entered-car-demands-proof-crime/",
-                "source": "Tuko News",
-                "date": "2026-09-16T08:21:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Screens Ubiquitous in Classrooms; Teachers Split on Efficacy",
-                "desc": "Six in 10 teachers want students to spend less time on learning devices, but those with greater oversight of device use report more positive views.",
-                "image": "https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/c4f90900-a955-4f52-ab86-17865d19b305.jpg",
-                "url": "https://news.gallup.com/poll/714479/screens-ubiquitous-classrooms-teachers-split-efficacy.aspx",
-                "source": "Gallup News",
-                "date": "2026-09-16T08:21:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Planning a solo adventure? Let the stars choose your destination",
-                "desc": "From the wilds of Patagonia to the beaches of the Balearics, this is the ultimate bucket-list trips for solo travellers – based on your star sign",
-                "image": "https://media.cntraveller.com/photos/6aa964efff46222873c90621/16:9/w_1280,c_limit/CNT-SOLOTRIPS-STARSIGN-HOLDER-01.jpg",
-                "url": "https://www.cntraveller.com/article/planning-a-solo-adventure-let-the-stars-choose-your-destination",
-                "source": "CN Traveller",
-                "date": "2026-09-16T08:21:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Making moves: EU wants to take 'special relationship' with Canada to the next level",
-                "desc": "With Mark Carney watching on, von der Leyen set out her plans to strengthen EU-Canada ties in Strasbourg this morning.",
-                "image": "https://img2.thejournal.ie/article/7163954/river/?height=400&version=7163955",
-                "url": "https://www.thejournal.ie/eu-canada-associate-membership-mark-carney-von-der-leyen-7163954-Sep2026/",
-                "source": "The Journal",
-                "date": "2026-09-16T08:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU opens door for Canada to become first associate member, EU Commission president says",
-                "desc": "Status does not currently exist under bloc’s treaties",
-                "image": "https://www.irishtimes.com/resizer/v2/47QKRIX2STU33AWIZK55YMYIIY.jpg?smart=true&auth=fb99bcd9e16c77a014e0daafbb7c86ac28e84d364c571c863811b7b35aa74121&width=1200&height=630",
-                "url": "https://www.irishtimes.com/world/europe/2026/09/16/eu-opens-door-for-canada-to-become-first-associate-member-eu-commission-president-says/",
-                "source": "The Irish Times",
-                "date": "2026-09-16T08:20:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What led to Purbaya’s sacking as Indonesia’s finance minister - and the challenges facing successor Suahasil",
-                "desc": "Analysts say the appointment of Suahasil Nazara signals that President Prabowo Subianto wants to achieve ambitious economic growth targets in a more careful and prudent way, adding that the new minister will have to balance this goal with fiscal discipline.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--WxJIVsXO--/c_crop,h_720,w_1280,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/15/whatsapp_image_2026-09-15_at_3.26.29_pm_2.jpeg?itok=A9IrMBDn",
-                "url": "https://www.channelnewsasia.com/asia/purbaya-suahasil-reshuffle-indonesia-finance-ministry-6385141",
-                "source": "CNA",
-                "date": "2026-09-16T08:20:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Moment NBC anchors confirm their helicopter crash",
-                "desc": "During emotional live coverage on NBC4, veteran news anchor Colleen Williams confirmed it was the local news station's helicopter that crashed.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5578/live/97d1d4a0-b1a4-11f1-b1d1-571ed4d7ff2c.jpg",
-                "url": "https://www.bbc.com/news/videos/ck20lggzg330o",
-                "source": "bbc.com",
-                "date": "2026-09-16T08:20:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Batam land dispute leaves two dead, 10 injured after clash",
-                "desc": "BATAM: Two people were left dead and 10 people injured after a land dispute triggered a clash involving air rifles and sharp weapons in Setokok area, Barelang Bridge III in Batam city, Riau Islands, on Monday afternoon.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/09/16/4113426.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/16/batam-land-dispute-leaves-two-dead-10-injured-after-clash",
-                "source": "The Star",
-                "date": "2026-09-16T08:20:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-17T20:34:48.807697Z"
+    "lastGlobalSync": "2026-09-17T23:07:32.817538Z"
 }
