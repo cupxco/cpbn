@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "FSAI recalls several ready meals due to possible listeria",
+                "desc": "The Food Safety Authority of Ireland has recalled four types of ready meals due to the presence of possible listeria monocytogenes.",
+                "image": "https://www.rte.ie/images/0025082c-1600.jpg",
+                "url": "https://www.rte.ie/news/2026/0918/1592081-fsai-ready-meals-recall/",
+                "source": "RTE.ie",
+                "date": "2026-09-18T12:04:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The 20 Best Airlines in the World, Ranked by Passengers",
+                "desc": "The aviation rating company Skytrax announced the winners of its 2026 World Airline Awards, known as \"the Oscars of the aviation industry.\"",
+                "image": "https://i.insider.com/6aac33de16256d3825fdf15e?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/best-airlines-in-the-world-ranking-passengers-skytrax-2026-9",
+                "source": "Business Insider",
+                "date": "2026-09-18T12:02:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Huge milestone': Salvation Army, Metro recover a million pounds of food",
+                "desc": "Food bank now feeding more children and seniors, director says",
+                "image": "https://www.vmcdn.ca/f/files/sootoday/images/charity/salvation-army/20260917-cake-dt.jpg;w=1200;h=800;mode=crop",
+                "url": "https://www.sootoday.com/local-news/huge-milestone-salvation-army-metro-recover-a-million-pounds-of-food-12792795",
+                "source": "SooToday.com",
+                "date": "2026-09-18T12:01:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bitcoin Rebounds Above $78,000 as DeFi and Layer",
+                "desc": "Bitcoin rebounded above $78,000 on Friday as DeFi and layer-2 tokens led a broad crypto recovery following the Federal Reserve's first rate hike in…",
+                "image": "https://img.biggo.com/2Cyt5OPw7Cq7Gz0b5mKTPt2lHKcXBytwtO97BVu2aYY/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzMyOGZkMmNmLWZmMzQtNDJkZS1hNmZkLWM4OTAxYWI2ZmEwZV8xNzg5NzMyNjgyX2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/328fd2cf-ff34-42de-a6fd-c8901ab6fa0e",
+                "source": "finance.biggo.com",
+                "date": "2026-09-18T12:00:15Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Could China’s sixth-generation fighter carry a laser to defend against incoming missiles?",
+                "desc": "Beijing expo display offers strongest public hint yet that China is developing airborne laser systems for advanced fighter aircraft.",
+                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/18/3251af42-5555-4250-895c-7c8d38f309be_90592f51.jpg?itok=INKijOjJ&v=1789724374",
+                "url": "https://www.scmp.com/news/china/military/article/3368015/could-chinas-sixth-generation-fighter-carry-laser-defend-against-incoming-missiles",
+                "source": "South China Morning Post",
+                "date": "2026-09-18T12:00:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New ‘world’s best airline’ crowned as Qantas fails to crack top 10",
+                "desc": "Qatar Airways has lost the title of world’s best airline at the 2026 World Airline Awards, in a year when the highly regarded Middle East carrier has been disrupted by conflict in its region.",
+                "image": "https://static.ffx.io/images/$zoom_0.19019396551724138%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/22bab0d61d198bdb7e62af51cf648613ab183505",
+                "url": "https://www.theage.com.au/traveller/travel-news/new-world-s-best-airline-crowned-as-qantas-fails-to-crack-top-10-20260918-p60yhl.html",
+                "source": "The Age",
+                "date": "2026-09-18T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New ‘world’s best airline’ crowned as Qantas fails to crack top 10",
+                "desc": "Qatar Airways has lost the title of world’s best airline at the 2026 World Airline Awards, in a year when the highly regarded Middle East carrier has been disrupted by conflict in its region.",
+                "image": "https://static.ffx.io/images/$zoom_0.19019396551724138%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/22bab0d61d198bdb7e62af51cf648613ab183505",
+                "url": "https://www.smh.com.au/traveller/travel-news/new-world-s-best-airline-crowned-as-qantas-fails-to-crack-top-10-20260918-p60yhl.html",
+                "source": "SMH.com.au",
+                "date": "2026-09-18T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Solution Providers Are ‘Exploring’ OpenAI And Anthropic Partnerships",
+                "desc": "As OpenAI and Anthropic launch new partner programs, hire top executives in 2026 and invest millions in the channel, solution providers are exploring how to partner with the AI superstars.",
+                "image": "https://www.crn.com/news/ai/2026/media_16c6e34f1199490318a323976841412b0a9ef37fe.jpg?width=1200&format=pjpg&optimize=medium",
+                "url": "https://www.crn.com/news/ai/2026/how-solution-providers-are-exploring-openai-and-anthropic-partnerships",
+                "source": "crn.com",
+                "date": "2026-09-18T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Singapore Airlines crowned world’s best airline",
+                "desc": "Singapore Airlines named world’s best airline in 2026 Skytrax survey, also winning top awards for economy class and best airline in Asia. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5c10d172c76d448c0f490b96e434de894580bc7f27b74faeaf7b642dccaa19a1",
+                "url": "https://www.straitstimes.com/singapore/transport/sia-crowned-worlds-best-airline-in-global-survey",
+                "source": "The Straits Times",
+                "date": "2026-09-18T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Netflix is in the doldrums. A comeback is unlikely, Wells Fargo says",
+                "desc": "Netflix is struggling to hold onto its viewers, and it's unlikely the situation will improve in the near future, according to Wells Fargo.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108306019-1778624129986-gettyimages-2275885101-_75a3419_jgkilhym.jpeg?v=1778624245&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/09/18/netflix-is-in-the-doldrums-a-comeback-is-unlikely-wells-fargo-says.html",
+                "source": "CNBC",
+                "date": "2026-09-18T11:58:49Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Investors buy US stocks at fastest pace in three months, BofA says",
                 "desc": "Investors poured money into US stocks at the fastest pace in three months and yanked cash from corporate bonds in ​the latest week, according to a Bank of America Global ‌Research report on Friday.",
                 "image": "https://www.reuters.com/resizer/v2/4CYSSCPVIJIYXHTWSON4EK44QU.jpg?auth=95368bc2665b55703ffe068e1871efc318c1040ea942678209b73dfa5cc64461&height=1005&width=1920&quality=80&smart=true",
@@ -542,99 +632,99 @@
                 "source": "ABC News - Breaking News, Latest News and Videos",
                 "date": "2026-09-17T13:27:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Chainsaw attack on divisive hedge sparks claim and counterclaim",
-                "desc": "Fences make good neighbours but hedges, it appears, can stretch the relationship to breaking point, as a recent ACT Civil…",
-                "image": "https://region.com.au/wp-content/uploads/2026/09/hedge-1200x630.jpg",
-                "url": "https://region.com.au/chainsaw-attack-on-divisive-hedge-sparks-claim-and-counterclaim/1000439/",
-                "source": "Region Canberra",
-                "date": "2026-09-17T11:05:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "E-Visa: Why airlines still struggle to verify electronic visas",
-                "desc": "Receiving an e-Visa by email does not necessarily mean an airline can easily verify its authenticity at check-in or boarding. As electronic visas and travel authorizations become more widespread, IATA is urging governments to adopt common mechanisms that would allow carriers to check these digital documents more easily and reliably.",
-                "image": "https://visasnews.com/wp-content/uploads/2026/09/evisa-tourism-electronic-visa-travel-airport-screening-iata.jpg",
-                "url": "https://visasnews.com/en/e-visa-why-airlines-still-struggle-to-verify-electronic-visas/",
-                "source": "VisasNews",
-                "date": "2026-09-17T11:04:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "National Cheeseburger Day deals at McDonald's, Burger King, more",
-                "desc": "National Cheeseburger Day is Friday, Sept. 18. That means freebies and deals at several restaurant chains.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/16/USAT/91793253007-nat-cheeseburger-day-750-x-550-evergreen.png?crop=749,421,x0,y14&width=749&height=421&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/food/2026/09/17/national-cheeseburger-day-2026-deals-free-burgers/91459117007/",
-                "source": "USA Today",
-                "date": "2026-09-17T11:04:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bank of England holds interest rates at 3.75% despite rising inflation",
-                "desc": "Policymakers keep steady course as jobs market comes under strain and Iran war pushes up energy costs",
-                "image": "https://i.guim.co.uk/img/media/6e3b12bca9fb99ec43022e8cbb01315f38893f76/221_0_4375_3501/master/4375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78b62cfe2a2ae0514acd9d0bf25c6281",
-                "url": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation",
-                "source": "The Guardian",
-                "date": "2026-09-17T11:01:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "The luxury private jet you can sleep in without being a billionaire",
-                "desc": "A retired 1960s Boeing 727 has been converted into a retro short-term rental, offering aviation enthusiasts a unique and immersive 1980s experience entirely on the ground.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/dsc07203.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/travel/luxury-private-jet-727-rental-retro-1980s",
-                "source": "CNN",
-                "date": "2026-09-17T11:00:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India’s ‘anti-AI’ trade hides 42 AI-enabler stocks that rallied 60% already: Goldman Sachs",
-                "desc": "Indias Nifty has declined 12% in 2026, but Goldman Sachs basket of 42 AI enablers has surged 60%. Power, data centres and semiconductor companies are driving gains, supported by earnings growth, rising capex and increasing corporate focus on AI infrastructure.",
-                "image": "https://img.etimg.com/thumb/msid-134309964,width-1200,height-630,imgsize-149202,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-anti-ai-trade-hides-42-ai-enabler-stocks-that-rallied-60-already-goldman-sachs/articleshow/134309681.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-09-17T11:00:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "After the US Fed’s rate increase, will China still move ahead with monetary easing?",
-                "desc": "Analysts weigh whether Beijing is set to push ahead with a rate cut to bolster China’s economy despite the US Fed raising interest rates.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/17/de3fa23b-f0f3-4b67-97f0-7802ad1a7d12_e6a0f6f3.jpg?itok=8zqV8iPR&v=1789633537",
-                "url": "https://www.scmp.com/economy/china-economy/article/3367851/after-us-feds-rate-increase-will-china-still-move-ahead-monetary-easing",
-                "source": "South China Morning Post",
-                "date": "2026-09-17T11:00:05Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "PTAD clears N18.96bn PHCN pensioners arrears",
-                "desc": "The Pension Transitional Arrangement Directorate (PTAD) has paid a total of N18.96bn to clear the outstanding arrears owed to 3,958 PHCN pensioners.",
-                "image": "https://cdn.punchng.com/wp-content/uploads/2018/05/09010523/Gabriel-PTAD’s-Executive-Secretary-Sharon-Ikeazor.jpg",
-                "url": "https://punchng.com/ptad-clears-n18-96bn-phcn-pensioners-arrears/",
-                "source": "Punch Newspapers",
-                "date": "2026-09-17T11:00:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. chipmakers face deep labor shortage, Samsung, Micron sound alarm",
-                "desc": "U.S. semiconductor manufacturing faces a historic worker shortage as demand soars. Here’s how chipmakers and U.S. universities aim to fix it.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108363361-1789509583442-1.jpg?v=1789509734&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
-                "source": "CNBC",
-                "date": "2026-09-17T11:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Second Alzheimer’s-treating drug should be publicly covered, Canada’s Drug Agency recommends",
-                "desc": "Recommendation sets the stage for possible government funding of the medication",
-                "image": "https://www.theglobeandmail.com/resizer/v2/CBU36XWJKBGHTFCM6IEZR7AFZQ.JPG?auth=ce24811841fce299e744c4713004590c6f8f5c314588ad5a2ddae2aeae50f585&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/canada/article-alzheimers-donanemab-publicly-covered-canadas-drug-agency-recommends/",
-                "source": "The Globe and Mail",
-                "date": "2026-09-17T11:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "GTA 6 multiplayer release window may have been confirmed by Twitch CEO",
+                "desc": "Despite Rockstar not making an official announcement about GTA 6 multiplayer, Twitch CEO, Dan Clancy, may have just given us a release window.",
+                "image": "https://images.immediate.co.uk/production/volatile/sites/3/2026/09/Untitled-design-36-bdee249.png?resize=1200%2C630",
+                "url": "https://www.radiotimes.com/technology/gaming/gta-6-multiplayer-confirmed-newsupdate/",
+                "source": "Radio Times",
+                "date": "2026-09-18T12:05:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Believe in the Run Launches Rebuilt Site with Free Accounts, Community Grades, and the Pigeon Chat",
+                "desc": "Believe in the Run (BiTR), the independent running media outlet known for its honest, run-tested shoe reviews, announced the launch of a completely rebuilt website.",
+                "image": "https://www.endurancesportswire.com/wp-content/themes/macrospec-esw-child/favicon.png",
+                "url": "https://www.endurancesportswire.com/believe-in-the-run-launches-rebuilt-site-with-free-accounts-community-grades-and-the-pigeon-chat/",
+                "source": "Endurance Sportswire",
+                "date": "2026-09-18T12:05:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PS3 Emulator RPCS3 Gets Major FPS Boost After NVIDIA Driver Bug Fix",
+                "desc": "The RPCS3 team says it found a workaround for an NVIDIA driver bug that was holding back performance in the popular PlayStation 3 emulator on GeForce cards. Contributor \"Yahfz\" reportedly tracked the issue down, and the fix apparently boosts frame rates by up to 37% depending on the game and GPU,...",
+                "image": "https://www.techpowerup.com/img/2yJhhfOcBUi6M8eP.jpg",
+                "url": "https://www.techpowerup.com/352827/ps3-emulator-rpcs3-gets-major-fps-boost-after-nvidia-driver-bug-fix",
+                "source": "TechPowerUp",
+                "date": "2026-09-18T12:03:02Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Warhammer Art through the years: The fortress monastery",
+                "desc": "Welcome to the home bastions of the Space Marines – let’s take a look around.",
+                "image": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_smmonasteryart-sep18-1-feature-atthcggziz.jpg",
+                "url": "https://www.warhammer-community.com/en-gb/articles/dulvgudq/warhammer-art-through-the-years-the-fortress-monastery/",
+                "source": "Warhammer Community",
+                "date": "2026-09-18T12:02:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oppo K14 lineup is getting a new Plus variant in India",
+                "desc": "The company recently launched the K14 Lite in the country. The Oppo K14 series is set to get another member in India. Following the recent launch of the...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-k14-plus-launch-teased/-952x498w6/gsmarena_002.jpg",
+                "url": "https://www.gsmarena.com/oppo_k14_lineup_is_getting_a_new_plus_variant_in_india-news-74671.php",
+                "source": "GSMArena.com",
+                "date": "2026-09-18T12:01:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This DIY Creator Is Building a Compass That Only Points to Taco Bell",
+                "desc": "Custom hardware maker Tru Narla is transforming a hobby invented by cyberpunks cosplaying dystopia into an artistic vision for how humanity can live in blissed-out harmony with the technology it creates.",
+                "image": "https://gizmodo.com/app/uploads/2026/09/Tru-Narla-TikTok-Custom-Hardware-Creator-1200x675.jpg",
+                "url": "https://gizmodo.com/this-diy-creator-is-building-a-compass-that-only-points-to-taco-bell-2000812026",
+                "source": "Gizmodo",
+                "date": "2026-09-18T12:00:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "reader you can buy, and it's not really close",
+                "desc": "Sometimes the best devices are the ones you don't have to think about.",
+                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/01/kindle-scribe-colorsoft-restart.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.pocket-lint.com/why-kindle-is-still-the-best-e-reader-after-all-these-years/",
+                "source": "Pocket-lint",
+                "date": "2026-09-18T12:00:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Windermere care home consultation back refurbishment",
+                "desc": "A council says refurbishing two closure-threatened care homes will cost millions of pounds.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a35/live/f2e7adf0-4788-11f1-af14-6bc26cdb4d7e.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cqe9e471keeeo",
+                "source": "BBC",
+                "date": "2026-09-18T12:00:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Clicks Communicator Ships in December With More RAM and New Mobile Service",
+                "desc": "A new video shows off the BlackBerry-like phone's features, including the speech-to-text Prompt Key, Message Hub and new Clicks Mobile wireless service.",
+                "image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-17-at-8.22.55-PM.png",
+                "url": "https://www.cnet.com/uncategorized/the-clicks-communicator-ships-in-december-with-more-ram-and-new-mobile-service/",
+                "source": "CNET",
+                "date": "2026-09-18T12:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Comparing Their Features, Durability And Displays",
+                "desc": "Here’s everything you’ll get with Apple and Samsung's latest high-end smartwatches.",
+                "image": "https://www.engadget.com/img/gallery/apple-watch-ultra-4-vs-galaxy-watch-ultra-2-comparing-their-features-durability-and-displays/l-intro-1789675512.jpg",
+                "url": "https://www.engadget.com/2261803/apple-watch-ultra-4-vs-galaxy-watch-ultra-2-comparison/",
+                "source": "Engadget",
+                "date": "2026-09-18T12:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "DOF Robotics to reveal SphereFly at IAAPA Expo Europe 2026",
                 "desc": "The company will also highlight its growing portfolio of intellectual properties, including The Smurfs, give an exclusive preview of a new collaboration with Transformers, and present the official launch of NeoCappadocia, a flagship project of Neo Planet, DOF Robotics' experience-economy brand developed with Katapult.",
@@ -1174,99 +1264,99 @@
                 "source": "Notebookcheck",
                 "date": "2026-09-17T13:21:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ploughing highlights: Amazone self-adjusting spreader makes Irish debut",
-                "desc": "Ploughing highlights: Amazone self-adjusting spreader makes Irish debut - 17 September 2026",
-                "image": "https://s3-eu-west-1.amazonaws.com/ifj/WEBFILES/000/933/089/2610430-933089.jpg",
-                "url": "https://www.farmersjournal.ie/machinery/farm-machinery/ploughing-highlights-amazone-self-adjusting-spreader-makes-irish-debut-933089",
-                "source": "Irish Farmers Journal",
-                "date": "2026-09-17T11:06:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Modern Warfare 4 Campaign Trailer Teases Mads Mikkelsen as Main Antagonist",
-                "desc": "Check out the latest campaign trailer for Call of Duty: Modern Warfare 4 offering a glimpse of Price vs. Ghost, Mads Mikkelsen, and more.",
-                "image": "https://static.beebom.com/wp-content/uploads/2026/09/Mads-Mikkelsen-in-Call-of-Duty-Modern-Warfare-4.jpg",
-                "url": "https://beebom.com/new-modern-warfare-4-campaign-trailer-teases-mads-mikkelsen/",
-                "source": "beebom.com",
-                "date": "2026-09-17T11:05:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Honey Pot Takes Flight for Full Release Today",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Honey-Pot-Takes-Flight-for-Full-Release-Today",
-                "source": "Games Press",
-                "date": "2026-09-17T11:02:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hyphen receives full Level Editor and Steam Workshop support 11 years after launch",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Hyphen-receives-full-Level-Editor-and-Steam-Workshop-support-11-years-",
-                "source": "Games Press",
-                "date": "2026-09-17T11:01:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Soundboks Rider Party Speaker Review: Loud and Durable",
-                "desc": "Soundboks’ newest Bluetooth party speaker is its smallest, yet it’s almost as loud and as durable as its larger siblings. It is also overkill.",
-                "image": "https://media.wired.com/photos/6aab585cb8f4f863fa05d8a8/191:100/w_1280,c_limit/Review--Soundboks-Rider.jpg",
-                "url": "https://www.wired.com/review/soundboks-rider/",
-                "source": "WIRED",
-                "date": "2026-09-17T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Johnny Cash's Battery-Powered Rolls-Royce Is Up for Sale Right Now",
-                "desc": "Johnny Cash's former 1970 Rolls-Royce Silver Shadow LWB was turned into an EV by its current owner. Now the electric saloon is up for sale.",
-                "image": "https://robbreport.com/wp-content/uploads/2026/09/johnny-cash-rolls-royce-silver-shadow-01.jpg?w=681&h=383&crop=1",
-                "url": "https://robbreport.com/motors/cars/johnny-cash-rolls-royce-silver-shadow-ev-sale-1238645168/",
-                "source": "Robb Report",
-                "date": "2026-09-17T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Johnny Cash’s 1970 Rolls-Royce Silver Shadow",
-                "desc": "Johnny Cash's former 1970 Rolls-Royce Silver Shadow LWB was turned into an EV by its current owner. Now the electric saloon is up for sale.",
-                "image": "https://robbreport.com/wp-content/uploads/2026/09/johnny-cash-rolls-royce-silver-shadow-00.jpg?w=681&h=383&crop=1",
-                "url": "https://robbreport.com/motors/cars/gallery/photos-johnny-cash-1970-rolls-royce-silver-shadow-ev-1238645908/",
-                "source": "Robb Report",
-                "date": "2026-09-17T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Peru Readies Search For Vendors In Military Space Push",
-                "desc": "The Peruvian government is looking to acquire an initial set of new space systems, a further sign that developing such capabilities has become a global focus.",
-                "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
-                "url": "https://aviationweek.com/space/satellites/peru-readies-search-vendors-military-space-push",
-                "source": "Aviation Week",
-                "date": "2026-09-17T10:59:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hideo Kojima Announces It Star Bill Skarsgard Will Portray Physint's Main Character",
-                "desc": "\"The next Cold War begins.\"",
-                "image": "https://sm.ign.com/t/ign_nordic/news/h/hideo-koji/hideo-kojima-announces-it-star-bill-skarsgard-will-portray-p_2gay.1200.jpg",
-                "url": "https://nordic.ign.com/hideo-kojima-action-espionage-project/112973/hideo-kojima-announces-it-star-bill-skarsgard-will-portray-physints-main-character",
-                "source": "IGN Nordic",
-                "date": "2026-09-17T10:58:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hideo Kojima Announces It Star Bill Skarsgård Will Portray Physint's Main Character",
-                "desc": "\"The next Cold War begins.\"",
-                "image": "https://sm.ign.com/t/ign_pk/news/h/hideo-koji/hideo-kojima-announces-it-star-bill-skarsgard-will-portray-p_qw8u.1200.jpg",
-                "url": "https://pk.ign.com/hideo-kojima-action-espionage-project/261275/hideo-kojima-announces-it-star-bill-skarsgard-will-portray-physints-main-character",
-                "source": "IGN Pakistan",
-                "date": "2026-09-17T10:58:38Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "From raised homes to crab farms, how life is adapting on the coasts",
+                "desc": "From rainwater harvesting and homestead gardening to crab farming, these adaptations are helping families reduce their vulnerability while creating alternative livelihoods",
+                "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/18/whatsapp_image_2026-09-13_at_3.06.51_pm.jpeg",
+                "url": "https://www.tbsnews.net/features/tales-from-the-edge/raised-homes-crab-farms-how-life-adapting-coasts-1546436",
+                "source": "The Business Standard",
+                "date": "2026-09-18T12:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada to Close Remote Border Program in December 2026: What Travellers Need to Know",
+                "desc": "Canada will shut down its remote border program in December 2026, bringing changes for eligible travellers. Here’s what the closure means and the key details.",
+                "image": "https://cdn.legit.ng/images/1200x675/8a90ee8eff54f045.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1731572-canada-close-remote-border-program-december-2026-what-travellers-know/",
+                "source": "Legit News",
+                "date": "2026-09-18T12:04:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Private jets pollute up to 14 times as much as commercial planes and are undertaxed in US, report says",
+                "desc": "Number of private jets has surged in recent years, but they do not pay commensurate portion of fees to FAA operations",
+                "image": "https://i.guim.co.uk/img/media/ab0ae2c6e148aa3efddae096f2eec46b5e4f47a9/245_0_2975_2380/master/2975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ba46179798718b7b1d0ddeb9f6ca8fc",
+                "url": "https://www.theguardian.com/us-news/2026/sep/18/private-jets-pollution-undertaxed",
+                "source": "The Guardian",
+                "date": "2026-09-18T12:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "East Africa: Museveni Rules Out Fuel Transport On Lake Victoria, Fears Oil Spill",
+                "desc": "President Yoweri Museveni has ruled out the transportation of petroleum products across Lake Victoria, warning that an accident involving a fuel vessel could contaminate one of Uganda's most important freshwater resources.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202609180324.html",
+                "source": "allAfrica.com",
+                "date": "2026-09-18T12:00:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Philippines Chose to Align with the U.S. Now It Regrets It",
+                "desc": "Despite Manila’s efforts, it is increasingly evident that Washington cannot be trusted to uphold its commitments.",
+                "image": "https://www.worldpoliticsreview.com/wp-content/uploads/2026/09/philippines-us-china-marcos-duterte-foreign-policy-09172026-1.jpg",
+                "url": "https://www.worldpoliticsreview.com/philippines-us-china-marcos-duterte-foreign-policy/",
+                "source": "worldpoliticsreview.com",
+                "date": "2026-09-18T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence",
+                "desc": "Washington is preparing for the right war, but in the wrong theater. For years, U.S. strategic thinking has centered on the Indo‑Pacific: the militarized atolls of the South China Sea, China’s churning naval shipyards, and the tense waters of the Taiwan Strait.",
+                "image": "https://www.hudson.org/sites/default/files/styles/open_graph/public/2026-09/GettyImages-2292335223.jpg?h=58c8a5e7&itok=xZi5NC-I",
+                "url": "https://www.hudson.org/national-security-defense/why-eurasia-not-indo-pacific-matters-most-next-phase-taiwan-deterrence-ken-moriyasu",
+                "source": "Hudson Institute",
+                "date": "2026-09-18T12:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Police begin operation to move migrants from Ceuta beaches",
+                "desc": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/13d1/live/a40e99b0-b34d-11f1-bc1f-3f186ca4140c.jpg",
+                "url": "https://www.bbc.com/news/articles/c6vgy80ge1z7o",
+                "source": "BBC",
+                "date": "2026-09-18T11:59:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Police begin operation to move migrants from Ceuta beaches",
+                "desc": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13d1/live/a40e99b0-b34d-11f1-bc1f-3f186ca4140c.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o",
+                "source": "BBC",
+                "date": "2026-09-18T11:59:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICAO Responded to Ukraine Regarding the Risks of Flying in Russian Airspace",
+                "desc": "The International Civil Aviation Organization has officially responded to Ukraine’s letter regarding the risks of flying over Russian territory. At the same time, officials in Kyiv have called on airlines and insurers to withdraw from the Russian market.",
+                "image": "https://cdn-cabinet.ua.news/uploads/images/1758990253_4179_large.webp",
+                "url": "https://ua.news/en/world/ikao-vidpovila-ukrayini-shchodo-rizikiv-polotiv-u-povitrianomu-prostori-rf",
+                "source": "UA.NEWS",
+                "date": "2026-09-18T11:55:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "“Why are you deporting slowly?” The Minister demanded explanations",
+                "desc": "\"In the last two months, the number of decisions made regarding the deportation of foreign citizens without legal grounds for staying in Latvia has significantly increased. During this period, as many decisions on forced deportation have been made as",
+                "image": "https://news.inbox.eu/w/img/e6/a4/e6a4abe3ad70808921.webp",
+                "url": "https://news.inbox.lv/150rj14-why-are-you-deporting-slowly-the-minister-demanded-explanations?language=en",
+                "source": "Inbox.lv",
+                "date": "2026-09-18T11:54:01Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Queen offered to restore Diana's HRH title, says brother",
                 "desc": "The brother of Britain's Princess Diana has claimed that Queen Elizabeth considered restoring his sister's Her Royal Highness title, which she lost when she divorced Prince Charles.",
@@ -1806,98 +1896,8 @@
                 "source": "ReliefWeb",
                 "date": "2026-09-17T13:20:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ninth woman found dead in South Africa killing spree",
-                "desc": "South African police on Thursday recovered the body of a ninth woman east of Johannesburg in two months, as a string of murders continues to stoke public anxiety.",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/AFP__20260917__C8JV9YV__v1__MidRes__SafricaCrimeDeath.jpg",
-                "url": "https://www.vanguardngr.com/2026/09/ninth-woman-found-dead-in-south-africa-killing-spree/",
-                "source": "Vanguard News",
-                "date": "2026-09-17T11:07:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Strabane: Restoration work begins on war memorial",
-                "desc": "The work is part of a project that will see restoration also carried out on memorials in Castlederg, Londonderry and Sion Mills.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fad0/live/2b1255c0-b1a8-11f1-8b77-cd7827f05bee.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cqm27xxp3240o",
-                "source": "BBC",
-                "date": "2026-09-17T11:02:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada Releases Names of 67 Countries Whose Citizens Can Apply for Work Permit at Port of Entry",
-                "desc": "Canada has named 67 countries whose citizens qualify to apply for a work permit at a port of entry and provided details on the conditions they must meet.",
-                "image": "https://cdn.legit.ng/images/1200x675/b0be5385352e3822.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1731350-canada-releases-names-67-countries-citizens-apply-work-permit-port-entry/",
-                "source": "legit.ng",
-                "date": "2026-09-17T11:02:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stephen McCullagh to face voyeurism charges",
-                "desc": "The 36-year-old is facing 19 charges of voyeurism, making indecent photographs and possessing indecent photographs",
-                "image": "https://www.irishnews.com/resizer/v2/ISZK5NUXOBFMPFKBW2JUZQMY5Q.jpg?smart=true&auth=07807cd9b51eb581a1dd91873ce1e755fbb4a075c1835eecf995060102b26e2d&width=1200&height=630",
-                "url": "https://www.irishnews.com/news/northern-ireland/stephen-mccullagh-to-face-voyeurism-charges-X4RCOI4UXNF3XBHKGTZ7BCEY5Y/",
-                "source": "The Irish News",
-                "date": "2026-09-17T11:02:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aztec document goes on display in Mexico after 186 years",
-                "desc": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/659a/live/19d96710-b272-11f1-b1d1-571ed4d7ff2c.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo",
-                "source": "BBC",
-                "date": "2026-09-17T11:00:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aztec document goes on display in Mexico after 186 years",
-                "desc": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/659a/live/19d96710-b272-11f1-b1d1-571ed4d7ff2c.jpg",
-                "url": "https://www.bbc.com/news/articles/ck980qyy6d2zo",
-                "source": "BBC",
-                "date": "2026-09-17T11:00:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The beef battleground: Americans boycott food from Trump-voting farmers",
-                "desc": "‘Blue dot’ meat suppliers are enjoying a surge in business, as shoppers reject brands and companies that do not align with their voting preferences",
-                "image": "https://www.thetimes.com/imageserver/image/61c85674-627a-4a03-a785-5ab5fa732a1c.jpg?strip=all&format=webp&crop=5760px%2C3240px%2C0px%2C300px&resize=1200",
-                "url": "https://www.thetimes.com/us/american-politics/article/blue-dot-fever-farmers-facebook-red-states-5bq3k07s0",
-                "source": "thetimes.com",
-                "date": "2026-09-17T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France, Italy and Greece to shelve EES checks for the rest of the year",
-                "desc": "The EU will let some countries delay new border checks until January to ensure 'challenges are fully addressed'",
-                "image": "https://inews.co.uk/wp-content/uploads/2026/09/SEI_278857031.jpg?crop=0px,177px,1920px,1085px&resize=1200,675",
-                "url": "https://inews.co.uk/news/france-italy-greece-shelve-ees-checks-rest-year-4771520",
-                "source": "The i Paper",
-                "date": "2026-09-17T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump and Rubio allies are vying for control of Cuba’s assets if regime falls",
-                "desc": "Washington and Florida insiders are exploring lucrative deals for a post-communist Cuba crushed by ever-increasing US sanctions",
-                "image": "https://i.guim.co.uk/img/media/ed6393748491c430e54fa03b6f014c581910ee71/18_0_3793_3034/master/3793.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d85107ae74254fabbaf9dbaa9b0e0a59",
-                "url": "https://www.theguardian.com/us-news/2026/sep/17/trump-marco-rubio-cuba",
-                "source": "theguardian.com",
-                "date": "2026-09-17T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alleged Bishnoi associate flaunts guns, bullets, cash in video obtained by CBC News",
-                "desc": "Videos seized from the cellphone of an Indian national removed from Canada for alleged links to the Bishnoi gang show him posing with a gun, pointing the weapon at an Edmonton college and posing in front of a burning building.",
-                "image": "https://i.cbc.ca/ais/246a0cd2-173d-4e39-ba45-76cf88b06242,1789573602495/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C19%2C488%2C274%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-edmonton-cbsa-deportation-9.7345125",
-                "source": "CBC",
-                "date": "2026-09-17T11:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-18T21:54:35.846180Z"
+    "lastGlobalSync": "2026-09-19T00:06:02.679180Z"
 }
