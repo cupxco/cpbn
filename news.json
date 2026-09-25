@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "China’s Avatr 07L electric car to launch in Australia",
+                "desc": "Australia is about to get another Chinese car brand, with a name that might sound familiar to movie fans.",
+                "image": "https://content.api.news/v3/images/bin/5b7509c3f33b37a539f102f95d413f02",
+                "url": "https://www.news.com.au/technology/motoring/on-the-road/chinese-luxury-electric-vehicle-brand-avatr-confirms-australian-launch-with-07l-suv/news-story/fd2523fa576d1153505b1473f0f76aa9",
+                "source": "News.com.au",
+                "date": "2026-09-25T07:34:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Australian",
+                "desc": "No Cookies | The Australian",
+                "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
+                "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
+                "source": "The Australian",
+                "date": "2026-09-25T07:32:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Airbus shares dip over quality flaw in best-selling A321neo jet",
+                "desc": "By Tim Hepher and Piotr Lipinski PARIS, Sept 25 (Reuters) - Shares in Airbus eased on Friday after the European planemaker said it had discovered a quality flaw inside the fuselage of hundreds of best-selling A321neo jets. The problem stems from an incorrectly applied coat of primer by an Italian supplier and leaves Airbus facing questions over quality controls in the biggest part of its factory system for the second time in less than a year, industry sources said.",
+                "image": "https://live.euronext.com/favicon.ico",
+                "url": "https://live.euronext.com/en/financial-news/airbus-shares-dip-over-quality-flaw-best-selling-a321neo-jet",
+                "source": "Euronext Markets: Real-time Stock Market Data | live",
+                "date": "2026-09-25T07:32:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sasol Stock: Better Feedstock Can Deliver More Than A Commodity Rebound (NYSE:SSL)",
+                "desc": "Sasol is executing operational improvements, notably converting the Twistdraai Export Plant, enhancing feedstock quality. Read why SSL stock is a buy.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2210148643/image_2210148643.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4949667-sasol-better-feedstock-can-deliver-more-than-a-commodity-rebound",
+                "source": "Seeking Alpha",
+                "date": "2026-09-25T07:31:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PNB Holdings shares rally back to ₱1.2 after volatile first day of trading",
+                "desc": "PNB Holdings Corp. (PHC), the Lucio Tan group’s prime property developer, successfully listed its shares on the Philippine Stock Exchange (PSE) by way of...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/09/25/134248.webp",
+                "url": "https://mb.com.ph/2026/09/25/pnb-holdings-shares-rally-back-to-12-after-volatile-first-day-of-trading",
+                "source": "Manila Bulletin",
+                "date": "2026-09-25T07:31:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philippine AI adoption moves beyond experimentation as businesses focus on scaling",
+                "desc": "AI adoption is moving beyond experimentation in the Philippines, with businesses increasingly deploying the technology across their operations. However, scaling...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/09/25/134252.webp",
+                "url": "https://mb.com.ph/2026/09/25/philippine-ai-adoption-moves-beyond-experimentation-as-businesses-focus-on-scaling",
+                "source": "Manila Bulletin",
+                "date": "2026-09-25T07:31:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WeChat launches a new payment app for tourists in China",
+                "desc": "It's a dedicated app, not part of WeChat. China doesn't run on cards or cash - it runs on app-based payments. WeChat Pay and Alipay rule, and while you...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/09/wechat-launches-tenpaygo/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/wechat_launches_a_new_payment_app_for_tourists_in_china-news-74760.php",
+                "source": "GSMArena.com",
+                "date": "2026-09-25T07:31:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Time for India to reconsider self-listing of exchanges, NSE chairman says",
+                "desc": "India's markets regulator should reconsider allowing exchanges to list on their own platforms as the country's capital markets have matured, NSE Chairman Srinivas Injeti said on Friday, a day after...",
+                "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-24T054730Z_1_LYNXMPEM8N0E9_RTROPTP_4_INDIA-NSE-LISTING.JPG",
+                "url": "https://www.marketscreener.com/news/time-for-india-to-reconsider-self-listing-of-exchanges-nse-chairman-says-ce785adfdd89f624",
+                "source": "marketscreener.com",
+                "date": "2026-09-25T07:27:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India should reconsider self-listing of exchanges, NSE chairman says",
+                "desc": "India's markets regulator should reconsider allowing exchanges to ​list on their own, NSE Chairman Srinivas Injeti said ‌on Friday, a day after the bourse debuted on rival BSE at a valuation of about $47 billion.",
+                "image": "https://www.reuters.com/resizer/v2/US3BZ7LSFZPUVEU24PP4FBRZRM.jpg?auth=29ae45879dc77fcfcd9ebde36967faefb177dac7cffb3ca1f7e705417614492a&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/india/indias-nse-should-consider-self-listing-market-ecosystem-matures-chairman-says-2026-09-25/",
+                "source": "Reuters",
+                "date": "2026-09-25T07:26:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why profitable Filipino SMEs still struggle to get loans",
+                "desc": "Small businesses find it difficult to secure bank loans lower than P500,000 as banks prefer bigger amounts.",
+                "image": "https://od2-image-api.abs-cbn.com/prod/20260925080920/96bc89900f272f178acd0070c0e96b1f95be5e3895949481fedc369f6762d3ab.jpg?w=1200&h=800",
+                "url": "https://www.abs-cbn.com/news/business/2026/9/25/why-profitable-filipino-smes-still-struggle-to-get-loans-1524",
+                "source": "ABS-CBN",
+                "date": "2026-09-25T07:26:32Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Westie Food Group collapse: Creditors owed $5.8m by pie distributor",
                 "desc": "Collapsed West Auckland pie distributor the Westie Food Group owes creditors $5.8 million, with receivers warning a shortfall in the millions is likely....",
                 "image": "https://www.nzherald.co.nz/resizer/v2/TJVM4FCMARA4NBJREPFHHZLQCA.jpg?auth=4b9ee873fcbf69fe93833e13436ff2531bce943a7e21d4b641096f53addb3174&width=1200&height=675&quality=70&focal=2679%2C996&smart=false",
@@ -542,99 +632,99 @@
                 "source": "BBC",
                 "date": "2026-09-24T05:16:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "SoftBank issues $11.1 billion in bonds in OpenAI financing push",
-                "desc": "Tech investor SoftBank Group has issued $11.1 billion in dollar- and euro-denominated bonds, set to be the ​largest high-yield bond sale on record by an Asia-Pacific issuer ‌as it seeks to fund its mammoth bet on OpenAI.",
-                "image": "https://www.reuters.com/resizer/v2/JGXMVSTCKBMETGNRXS4FQ7AEZY.jpg?auth=5d2e694f9d81567591b72195d8868e000f2bf84524ad7c755252c89f3cacc7cb&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/media-telecom/softbank-issues-111-billion-bonds-openai-financing-push-2026-09-24/",
-                "source": "Reuters",
-                "date": "2026-09-24T00:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amanda Laing to depart streaming and broadcast division",
-                "desc": "Nine chief executive Matt Stanton will oversee the company’s TV and streaming division after announcing that managing director of streaming and broadcast, Amanda Laing, is leaving the business after less than two years in the job.",
-                "image": "https://static.ffx.io/images/$zoom_0.4366%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_937%2C$y_168/t_crop_custom/q_86%2Cf_auto/d3718e3b4510f3e9a5962e69c0f5f1fee4c3bc0d",
-                "url": "https://www.theage.com.au/business/companies/nine-tv-and-streaming-boss-leaving-after-less-than-two-years-20260924-p60zz4.html",
-                "source": "The Age",
-                "date": "2026-09-24T00:11:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AMD Is Up 187% This Year and Nvidia Is Up 22%. Prediction: Nvidia Wins the Next 12 Months.",
-                "desc": "The latest $1 trillion chipmaker now costs about 40 times its expected 2027 earnings. Its bigger, faster-growing competitor costs about 15 times its own.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff0c6e419a52d8635ff02408b998243e461d6bd20-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/09/23/amd-is-up-187-this-year-and-nvidia-is-up-22-prediction-nvidia-wins-the-next-12-months/",
-                "source": "The Motley Fool",
-                "date": "2026-09-24T00:05:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta Just Built the First Integrated Agent-Commerce Stack - Shopify, Stripe, PayPal, All on One Agent",
-                "desc": "Over two weeks in September, Meta assembled a complete commerce pipeline on Muse: merchant discovery through checkout through payment. Amazon's exclusion from that stack is equally telling.",
-                "image": "https://forkast.news/wp-content/uploads/2026/09/forkast-130718-1024x687.jpg",
-                "url": "https://forkast.news/meta-just-built-the-first-integrated-agent-commerce-stack-shopify-stripe-paypal-all-on-one-agent/",
-                "source": "forkast.news",
-                "date": "2026-09-24T00:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vontobel appoints new Head of Insurance Solutions",
-                "desc": "Vontobel, an investment management firm, has appointed Mr Emmanuel Archampong as Head of Insurance Solutions in APAC. His appointment comes as part of the firm's growth ambitions in the insurance sector, a strategic focus area for its institutional clients business.",
-                "image": "https://www.asiainsurancereview.com/UploadedImages/ImageLibrary/Person/large/Emmanuel_Archampong_Vontobel.jpg",
-                "url": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/96996/Type/eDaily/APAC-Vontobel-appoints-new-Head-of-Insurance-Solutions",
-                "source": "Asia Insurance Review",
-                "date": "2026-09-24T00:02:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How China’s growing Reit sector is giving foreign property investors a route back in",
-                "desc": "Cross-border capital remains thin, but cheaper yuan financing and an expanding Reit market are opening pathways for global funds, analysts say.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/23/2da21e90-6b51-474c-9854-368d1fec2704_34247133.jpg?itok=NWkQTbBE&v=1790157647",
-                "url": "https://www.scmp.com/property/hong-kong-china/article/3368521/how-chinas-growing-reit-sector-giving-foreign-property-investors-route-back",
-                "source": "South China Morning Post",
-                "date": "2026-09-24T00:00:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US turns to South Korea to ease ammunition bottlenecks amid global conflicts",
-                "desc": "Depleted stockpiles from the Middle East and Ukraine wars are spurring South Korean arms makers to build US production hubs.",
-                "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/23/5e35f112-44fd-448e-8425-6d031254bb79_e05a18c1.jpg?itok=9U9yWfSL&v=1790146936",
-                "url": "https://www.scmp.com/week-asia/politics/article/3368481/us-turns-south-korea-ease-ammunition-bottlenecks-amid-global-conflicts",
-                "source": "South China Morning Post",
-                "date": "2026-09-24T00:00:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nestlé Malaysia steadies after 22% slide as analysts see worst priced in",
-                "desc": "Nestlé (Malaysia) Bhd paused its downward slide on Wednesday, following a 22% year-to-date drop that market observers said has run ahead of the company's underlying fundamentals.",
-                "image": "https://assets.theedgemarkets.com/nestle_20210407120825_bloomberg_8_21.jpg",
-                "url": "https://theedgemalaysia.com/node/819137",
-                "source": "The Edge Malaysia",
-                "date": "2026-09-24T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2027 BYD Atto 2 DM-i becomes Australia's cheapest PHEV",
-                "desc": "Thought BYD was finished undercutting the Australian new-car market? Think again, because it has just announced the country's cheapest PHEV.",
-                "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2027-byd-atto-2-dm-i-premium-launch-7.jpg",
-                "url": "https://www.carexpert.com.au/car-news/2027-byd-atto-2-dm-i-becomes-australias-cheapest-phev",
-                "source": "CarExpert",
-                "date": "2026-09-24T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How diners are exposing a shadow economy and tax cheats",
-                "desc": "Authorities say customers and workers alike are becoming more willing to blow the whistle.",
-                "image": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/82bc2d1d9830a2b0082c7396db2a6bd9dd78e0fa5c1c21b5753c2b8bd2fd421e",
-                "url": "https://www.nine.com.au/australia-news/how-diners-are-exposing-a-shadow-economy-and-tax-cheats-20260924-p6102w.html",
-                "source": "Nine.com.au",
-                "date": "2026-09-23T23:57:32Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "MCA Centenaire, World's First Road-Going Supercar with a Carbon Fiber Chassis, Is Now Worth $1.36M",
+                "desc": "The first of five 1990 MCA Centenaire supercars ever made in Monaco is going under the hammer hoping to fetch up to $1.36 million.",
+                "image": "https://s1.cdn.autoevolution.com/images/news/mca-centenaire-world-s-first-road-going-supercar-with-a-carbon-fiber-chassis-is-now-worth-136m-276102_1.jpg",
+                "url": "https://www.autoevolution.com/news/mca-centenaire-world-s-first-road-going-supercar-with-a-carbon-fiber-chassis-is-now-worth-136m-276102.html",
+                "source": "autoevolution",
+                "date": "2026-09-25T07:33:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HUAWEI unveils the WATCH GT 7 Series and the WATCH D3",
+                "desc": "HUAWEI has announced the WATCH GT 7 Series and the HUAWEI WATCH D3. Together, they expand HUAWEI's vision of smarter sports and smarter health, bringing more...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/09/25/134251.webp",
+                "url": "https://mb.com.ph/2026/09/25/huawei-unveils-the-watch-gt-7-series-and-the-watch-d3",
+                "source": "Manila Bulletin",
+                "date": "2026-09-25T07:31:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This computer performs calculations using DNA in a drop of water",
+                "desc": "A computer that isn't sitting on a desk, but is suspended in a drop of water.",
+                "image": "https://ioplus.nl/api/media/file/innovationorigins_the_DNA_sequence_of_a_person_with_a_rare_gene_ef0a0ad4-ea93-4093-8af0-70fe3d6b3841.png",
+                "url": "https://ioplus.nl/en/posts/this-computer-performs-calculations-using-dna-in-a-drop-of-water",
+                "source": "ioplus.nl",
+                "date": "2026-09-25T07:19:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Check Your Mac's Manufacture Date in macOS 27",
+                "desc": "If you installed macOS 27 Golden Gate, here's a way to find out when your Mac was manufactured.",
+                "image": "https://images.macrumors.com/t/uk6ZPiByAInVZQ_so2hzrSn8iFs=/2500x/article-new/2026/08/2026-mac-mini-blue.jpeg",
+                "url": "https://www.macrumors.com/how-to/check-your-mac-manufacture-date-macos/",
+                "source": "MacRumors",
+                "date": "2026-09-25T07:14:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ILLUSIONIZE and FEZZO Rework Freddie Mercury’s “Living On My Own”",
+                "desc": "ILLUSIONIZE and FEZZO rework Freddie Mercury’s “Living On My Own” for modern dance floors, out now as the first release on ACCANTO via ONErpm.",
+                "image": "https://assets.beatportal.com/images/transforms/content-item/_1200x630_crop_center-center_none/ILLUSIONIZE-and-FEZZO.jpg",
+                "url": "https://www.beatportal.com/articles/1649778-illusionize-and-fezzo-rework-freddie-mercurys-living-on-my-own",
+                "source": "Beatportal",
+                "date": "2026-09-25T07:13:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Honor launches X9e Pro from RM1,899 with 6.8in screen, 11,000mAh battery",
+                "desc": "Honor has unveiled the latest addition to its midrange smartphone lineup with the X9e Pro, equipped with a 6.8in Amoled screen.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/09/25/4129030.png",
+                "url": "https://www.thestar.com.my/tech/tech-news/2026/09/25/honor-launches-x9e-pro-from-rm1899-with-68in-screen-11000mah-battery",
+                "source": "The Star",
+                "date": "2026-09-25T07:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "European Commission grants marketing authorisation for NEZGLYAL® (leriglitazone), the first pharmacological treatment approved for cerebral Adrenoleukodystrophy (cALD), a rare neurodegenerative diseas",
+                "desc": "Approval is based on NEXUS data and follows positive CHMP opinion in July; first European launch is expected by end of 2026",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/25/1233225.png",
+                "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/european-commission-grants-marketing-authorisation-for-nezglyal-leriglitazone-the-first-pharmacological-treatment-approved-for-cerebral-adrenoleukodystrophy-cald-a-rare-neurodegenerative-disease/2432872",
+                "source": "The Manila Times",
+                "date": "2026-09-25T07:06:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This $500 Robot Hand Takes a Simpler Approach to Dexterity",
+                "desc": "What if a dexterous robot hand didn't need a maze of complex joints? The Cartisian Hand uses seven linear actuators and two simple grippers to perform surprisingly sophisticated tasks—from opening threaded caps and operating pipettes to using scissors and solving a Rubik's cube. Built from 3D-printed parts and costing less than $500, the system demonstrates how simple mechanical movements can deliver versatile in-hand manipulation.",
+                "image": "http://res.cloudinary.com/tbmg/ar_16:9,c_thumb,g_auto:subject,f_auto,q_auto/c_limit,w_400/v1790184137/sites/tb/econa-16x9/55903/1000/the-cartesian-hand.jpeg",
+                "url": "https://www.techbriefs.com/component/content/article/55903-this-500-robot-hand-takes-a-simpler-approach-to-dexterity",
+                "source": "techbriefs.com",
+                "date": "2026-09-25T07:05:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google Releases Chrome 154 Stable: Standardizes iframe Auto",
+                "desc": "Google released Chrome 154, the latest stable version of its web browser, on September 25. Key changes include a CSS feature that automatically…",
+                "image": "https://img.biggo.com/x-ntbi3vuRhmxcOmrX19KKFbZP8sepZ5Qg_jW7BLvaM/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2M1ZjAyZjc0LWU2YjgtNGE2Ny1iZDRlLWIyYzRhN2MzNmYwOV8xNzkwMzIwMTE5X2RlZmF1bHQud2VicA.jpg",
+                "url": "https://finance.biggo.com/news/c5f02f74-e6b8-4a67-bd4e-b2c4a7c36f09",
+                "source": "finance.biggo.com",
+                "date": "2026-09-25T07:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft is reportedly ditching its Copilot+ PC branding for Windows 11 devices",
+                "desc": "Microsoft and its partners are no longer referring to new laptops and devices as Copilot+ PCs, even when they meet the spec requirements for local AI.",
+                "image": "https://static.tweaktown.com/news/1/1/113757_2_microsoft-is-reportedly-ditching-its-copilot-pc-branding-for-windows-11-devices_full.jpg",
+                "url": "https://www.tweaktown.com/news/113757/microsoft-is-reportedly-ditching-its-copilot-plus-pc-branding-for-windows-11-devices/index.html",
+                "source": "TweakTown",
+                "date": "2026-09-25T07:04:14Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "2026 just became the year of FreeBSD on the (Amazonian cloud) desktop",
                 "desc": "Desktop AMIs ‘designed to behave as much like Windows as possible’ now available as an on ramp for new users",
@@ -1174,99 +1264,99 @@
                 "source": "Memeburn",
                 "date": "2026-09-24T05:04:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Xiaomi 18 Pro Max hands-on: Smart Privacy, Leica cameras and a Transparent Edition",
-                "desc": "Discover the Xiaomi 18 Pro with its Smart Privacy display, enhanced Leica cameras, and impressive 7,000mAh battery.",
-                "image": "https://cassette.sphdigital.com.sg/image/hardwarezone/74fe8a049ecf44a4af7ba4dc4fa6a28207329a69ae36392a829fcc9dc9b5d21e",
-                "url": "https://www.hardwarezone.com.sg/mobile/smartphones/xiaomi-18-pro-max-transparent-edition-impressions-china-launch",
-                "source": "HardwareZone Singapore",
-                "date": "2026-09-24T00:06:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Discord Updates Age Verification Process With \"Privacy-Preserving\" Methods",
-                "desc": "Discord was met with substantial backlash when it first announced that it would be adding age verification requirements globally, with the platform almost immediately rolling back the ID requirements after the backlash. It has since announced that it will be introducing new age verification...",
-                "image": "https://www.techpowerup.com/img/pxrcNv8npUa3z97q.jpg",
-                "url": "https://www.techpowerup.com/353008/discord-updates-age-verification-process-with-privacy-preserving-methods",
-                "source": "TechPowerUp",
-                "date": "2026-09-24T00:05:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony Patents AI That Fills In Controller Inputs for Players With Physical Limitations",
-                "desc": "Sony has a new patent that describes an AI model designed to help gamers with mobility issues. Spotted by Insider Gaming, the patent was published on September 17, 2026. The idea is that the system tracks how a player actually operates the controls, then generates the output needed to complete...",
-                "image": "https://www.techpowerup.com/img/7YoSCODyXotVmOah.jpg",
-                "url": "https://www.techpowerup.com/353023/sony-patents-ai-that-fills-in-controller-inputs-for-players-with-physical-limitations",
-                "source": "TechPowerUp",
-                "date": "2026-09-24T00:05:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "University media lab gives journalists time to rethink how news is told",
-                "desc": "A Tuvaluan-Pākehā journalism academic says Pacific storytellers could use the residency to explore new ways of reaching audiences.",
-                "image": "https://cdn.sanity.io/images/vl4boe2z/production/17350709ef7336a6a8eb7f429ef447e419eb4f1c-1600x900.jpg",
-                "url": "https://pmn.co.nz/read/community/university-media-lab-gives-journalists-time-to-rethink-how-news-is-told",
-                "source": "pmn.co.nz",
-                "date": "2026-09-24T00:03:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple may exceed 10% smartphone market share",
-                "desc": "Apple's latest iPhone launch will boost its market share in India at a time when many incumbent Chinese brands that dominate the market are struggling to sell.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108366027-1790061902877-gettyimages-2295333748-20260918_mum-sb-mn_iphone_007.jpeg?v=1790061919&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html",
-                "source": "CNBC",
-                "date": "2026-09-24T00:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Meta Software to Tackle Hearing Loss With $150 Smart Glasses Add-On",
-                "desc": "Meta secures FDA clearance for Hearing Enhancement, which uses the company's smart glasses as an alternative to traditional hearing aids.",
-                "image": "https://i.pcmag.com/imagery/articles/02YoH7w97gZ5FEM3rIjla2e-2.fit_lim.size_1200x630.v1790176262.jpg",
-                "url": "https://www.pcmag.com/news/new-meta-software-to-tackle-hearing-loss-with-150-smart-glasses-add-on",
-                "source": "PCMag",
-                "date": "2026-09-24T00:00:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta Connect 2026: The 7 biggest announcements",
-                "desc": "Meta launched a new VR Glasses wearable at its annual Meta Connect event, plus new versions of its AI smart glasses, including one without cameras.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Meta-Glasses_1.jpg?quality=90&strip=all&crop=0%2C3.4882312507002%2C100%2C93.0235374986&w=1200",
-                "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
-                "source": "The Verge",
-                "date": "2026-09-24T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oppo just launched the first phone with three 200MP cameras and Hasselblad imaging",
-                "desc": "The race to the next ultra phone has started.",
-                "image": "https://s.yimg.com/lo/mysterio/api/6b499715b80b713ab11cc661fb9801cfcc73d6cf0c9277e4ec4d43e98e656de9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ft3_620%2F4ffb8d835267ba67ff4d517b9d78304e.jpg",
-                "url": "https://tech.yahoo.com/phones/articles/oppo-just-launched-first-phone-000000968.html",
-                "source": "Yahoo Tech",
-                "date": "2026-09-24T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Meta Software to Tackle Hearing Loss With $150 Smart Glasses Add-On",
-                "desc": "Meta secures FDA clearance for Hearing Enhancement, which uses the company's smart glasses as an alternative to traditional hearing aids.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/n/new-meta-s/new-meta-software-to-tackle-hearing-loss-with-150-smart-glas_bsb7.1200.jpg",
-                "url": "https://au.pcmag.com/smart-glasses/120059/new-meta-software-to-tackle-hearing-loss-with-150-smart-glasses-add-on",
-                "source": "PCMag Australia",
-                "date": "2026-09-24T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta Ray-Ban Display finally coming to the UK and Europe - the smart glasses with a screen set to arrive next month",
-                "desc": "Meta is widening the release of its Ray-Ban Display smart glasses outside of the US at last",
-                "image": "https://cdn.mos.cms.futurecdn.net/R4wqXxWotUtPGaYWmhkXAg-1920-80.jpg",
-                "url": "https://www.t3.com/tech/vr/meta-ray-ban-display-finally-coming-to-the-uk-and-europe-the-smart-glasses-with-a-screen-set-to-arrive-soon",
-                "source": "t3.com",
-                "date": "2026-09-24T00:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Trump-XI summit aims to head off an AI arms race",
+                "desc": "Can the two leaders achieve the sort of rapport that helped Ronald Reagan and Mikhail Gorbachev face the threat of nuclear proliferation in the 1980s.",
+                "image": "https://images.theconversation.com/files/762247/original/file-20260925-50-66qxpr.jpg?ixlib=rb-4.1.1&rect=0%2C182%2C4000%2C2000&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/trump-xi-summit-aims-to-head-off-an-ai-arms-race-292823",
+                "source": "The Conversation",
+                "date": "2026-09-25T07:32:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "North Korea’s Irregular Warfare After Ukraine",
+                "desc": "Pyongyang has a long history of conducting irregular warfare and asymmetric operations: Look no further than the 1968 Blue House raid or the 1996",
+                "image": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-46985-492cda4fbd09.jpg",
+                "url": "https://warontherocks.com/north-koreas-irregular-warfare-after-ukraine/",
+                "source": "warontherocks.com",
+                "date": "2026-09-25T07:31:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Italy ties Gulf security to IMEC and free trade push",
+                "desc": "Italy ties Gulf security to IMEC and free trade push. Rome is linking freedom of navigation with deeper logistical, energy and digital connections between Europe and the Gulf, while pushing IMEC and new trade agreements as pillars of the partnership",
+                "image": "https://decode39.com/wp-content/uploads/2026/09/HS2BWjjWsAAdZf9.jpeg",
+                "url": "https://decode39.com/16702/italy-ties-gulf-security-to-imec-and-free-trade-push/",
+                "source": "decode39.com",
+                "date": "2026-09-25T07:31:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hormuz Tanker Transits Crash to Single Digits as Crisis Deepens",
+                "desc": "Tanker transits through the Strait of Hormuz fell to just nine on Thursday as VLCC rates hold near record highs amid escalating tensions.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-25_yhsitarlu7.jpg",
+                "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Transits-Crash-to-Single-Digits-as-Crisis-Deepens.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-09-25T07:30:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Saudi Arabia, Pakistan and Turkey plan urgent military meeting as Grand Mufti calls on troops to fight Houthis",
+                "desc": "Saudi-led coalition says it intercepted and destroyed six ballistic missiles launched by the Yemeni rebels",
+                "image": "https://www.thenationalnews.com/resizer/v2/CKZX4RLTZNFWBIUAYYHLCSAFQY.jpg?auth=d610a2d30835db402e1d58fddae0234724da5b7ec2ee9aa0f6746daad4e7b07e&smart=true&width=1200&height=630",
+                "url": "https://www.thenationalnews.com/news/mena/2026/09/25/saudi-arabia-pakistan-and-turkey-plan-urgent-military-meeting-as-grand-mufti-calls-on-troops-to-fight-houthis/",
+                "source": "thenationalnews.com",
+                "date": "2026-09-25T07:29:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Allies unite behind Saudi Arabia as Houthis step up attacks",
+                "desc": "The Houthis have launched strikes on the Saudi-backed government in Yemen and repeatedly fired into Saudi Arabia, disrupting oil flows from the world's largest energy exporter.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739244",
+                "url": "https://www.jpost.com/middle-east/article-909658",
+                "source": "The Jerusalem Post",
+                "date": "2026-09-25T07:26:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call for Applications: NITDA National AI Innovation Challenge 2026",
+                "desc": "Applications are now open for the 2026 NITDA National AI Innovation Challenge, an initiative designed to deepen the technical development, adoption and practical use of Nigeria’s sovereign AI capabilities. At the centre of the challenge is N-ATLAS (Nigerian Atlas for Languages and AI at Scale), Nigeria’s",
+                "image": "https://msmeafricaonline.com/wp-content/uploads/2026/09/IMG_7821.png",
+                "url": "https://msmeafricaonline.com/call-for-applications-nitda-national-ai-innovation-challenge-2026/",
+                "source": "msmeafricaonline.com",
+                "date": "2026-09-25T07:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Qatar promotes own social rights advancements at UNGA while criticizing Israel",
+                "desc": "On the sidelines of the UN General Assembly, the event \"Realizing Social Rights and Renewing Democracy: From Doha and Chisinau to a New Democratic Compact for Europe\" was held on Tuesday.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739266",
+                "url": "https://www.jpost.com/middle-east/article-909674",
+                "source": "The Jerusalem Post",
+                "date": "2026-09-25T07:23:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "In Russia, there is talk of a possible short-term war with Lithuania",
+                "desc": "A Russian state agency published an article titled “Another Special Military Operation Awaits Russia. It Will Be Very Short,” which discusses a possible war between Russia and Lithuania.",
+                "image": "https://cdn-cabinet.ua.news/uploads/images/25/photo_2026_09_25_10_12_36.webp",
+                "url": "https://ua.news/en/war-vs-rf/u-rosiyi-zagovorili-pro-mozhlivu-korotkochasnu-viinu-z-litvoiu",
+                "source": "ua.news",
+                "date": "2026-09-25T07:23:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa: Ouch! One in Seven Hospital Patients in Africa Suffers Severe Pain",
+                "desc": "Being admitted to hospital is supposed to bring relief. But for thousands of patients across Africa, hospital care comes with another burden: severe pain. A landmark study led by the University of Cape Town (UCT) found that two-thirds of adults admitted to hospitals across Africa experienced pain, while one in seven suffered severe pain. The study was funded by the National Institute for Health and Care Research Global Health Group in Perioperative and Critical Care.",
+                "image": "https://cdn.allafrica.com/download/pic/main/main/csiid/00551757:7221d046a1c260f51eb80ec705874998:arc614x376:w1200.jpg",
+                "url": "https://allafrica.com/stories/202609250040.html",
+                "source": "allAfrica.com",
+                "date": "2026-09-25T07:21:59Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Could an ‘Australian AI’ protect us from being hacked? Cybersecurity isn’t that simple",
                 "desc": "News that an OpenAI agent hacked Medicare has prompted calls for Australia to develop its own AI system.",
@@ -1806,98 +1896,8 @@
                 "source": "independent.co.uk",
                 "date": "2026-09-24T05:21:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI, Anthropic CEOs call for global AI regulation at UN",
-                "desc": "Industry leaders urge global regulation, as Trump administration baulks at setting up new guardrails.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab442d61f2d-1790198486.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation",
-                "source": "aljazeera.com",
-                "date": "2026-09-24T00:16:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eight US Navy sailors in USS Abraham Lincoln strike group attempted suicide during Iran war deployment",
-                "desc": "Eight US Navy personnel assigned to the USS Abraham Lincoln carrier strike group attempted suicide during its lengthy deployment, including a period in",
-                "image": "https://static.toiimg.com/thumb/msid-134448778,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/eight-us-navy-sailors-in-uss-abraham-lincoln-strike-group-attempted-suicide-during-iran-war-deployment/articleshow/134448759.cms",
-                "source": "The Times of India",
-                "date": "2026-09-24T00:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why is Kenya turning against Tata Chemicals in Magadi?",
-                "desc": "A century-old industry faces a reckoning over regulation, jobs and local benefits.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG-20260907-WA0012-1789288826.jpg?resize=1600%2C1080",
-                "url": "https://www.aljazeera.com/news/2026/9/24/why-is-kenya-turning-against-tata-chemicals-in-magadi",
-                "source": "Al Jazeera",
-                "date": "2026-09-24T00:06:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eight US sailors in USS Abraham Lincoln strike group attempted suicide, Navy says",
-                "desc": "In a letter to Senator Kirsten Gillibrand, acting Navy Secretary Hung Cao said the crew had adequate mental health support during the long deployment.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ac2/live/94a8bed0-b7b0-11f1-90db-7b495a17b701.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo",
-                "source": "BBC",
-                "date": "2026-09-24T00:04:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK gives £5m to help Somalia prepare for El Niño floods",
-                "desc": "UK announces £5m to help Somalia prepare for El Niño flooding, supporting early warning, health services and up to 600,000 people.",
-                "image": "https://somaliatoday.com/wp-content/uploads/2026/09/Residents-move-through-El-Nino-floodwaters-in-Beledweyne-Somalia-scaled.jpg",
-                "url": "https://somaliatoday.com/society/uk-gives-5m-to-help-somalia-prepare-for-el-nino-floods-2026-09-24/",
-                "source": "Somalia Today",
-                "date": "2026-09-24T00:03:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why ASEAN’s coming digital economy trade agreement deserves your attention",
-                "desc": "The former U.S. ambassador to Singapore on why ASEAN's landmark digital economy deal could create the world's next great growth story.",
-                "image": "https://s.yimg.com/lo/mysterio/api/ac19367f12b81c9538dbbf4dbc5b5a1057a36912800bf7c79e440733cfc149e4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F3647716f8cf1c148e6a05b8008ae23a8.jpg",
-                "url": "https://finance.yahoo.com/economy/policy/articles/why-asean-coming-digital-economy-000000483.html",
-                "source": "Yahoo Finance",
-                "date": "2026-09-24T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nigeria and Southern Africa’s unfinished business: Before Mandela",
-                "desc": "The events of Soweto in 1976 made that commitment even more urgent. On 16 June that year, thousands of Black students marched in protest against the apartheid education system and the government’s imposition of Afrikaans as a medium of instruction. The police responded with live ammunition, and the uprising developed into a nationwide confrontation in which large numbers of young people were killed, injured or arrested. Hector Pieterson, a 12-year-old boy whose photograph being carried through the streets after he was shot became one of the most powerful images of apartheid, came to represent an entire generation whose childhood had been consumed by political oppression. United Nations records from the period describe the scale of the repression that followed, including the deaths of more than 1,000 people during the wider uprising and its aftermath.",
-                "image": "https://sunnewsonline.com/wp-content/uploads/2026/06/Logo-New2.jpg",
-                "url": "https://thesun.ng/nigeria-and-southern-africas-unfinished-business-before-mandela-walked-free-1b/",
-                "source": "The Sun Nigeria",
-                "date": "2026-09-24T00:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN official calls for efforts toward immediate ceasefire in Ukraine",
-                "desc": "UN Under-Secretary-General for Political and Peacebuilding Affairs Rosemary DiCarlo on Wednesday called for efforts toward an immediate, full and unconditional ceasefire in Ukraine.",
-                "image": "https://news.cgtn.com/news/2026-09-24/UN-official-calls-for-efforts-toward-immediate-ceasefire-in-Ukraine-1QGQuup4qTm/img/8a6a30994a794cbcbf6af50caa07f62d/8a6a30994a794cbcbf6af50caa07f62d-750.png",
-                "url": "https://news.cgtn.com/news/2026-09-24/UN-official-calls-for-efforts-toward-immediate-ceasefire-in-Ukraine-1QGQuup4qTm/p.html",
-                "source": "news.cgtn.com",
-                "date": "2026-09-23T23:59:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S.-China trade truce extended, Bessent says, as Xi begins visit",
-                "desc": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
-                "image": "https://image.cnbcfm.com/api/v1/image/106621131-15949940512020-07-16t171324z_1245378320_rc2huh9ed5wu_rtrmadp_0_usa-china-travel.jpeg?v=1733818580&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
-                "source": "CNBC",
-                "date": "2026-09-23T23:59:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "West Africa: Liberia Advances A3/A3+ Strategy",
-                "desc": "Liberia has moved to strengthen coordination among African members of the United Nations Security Council by developing an initial draft of a Practical Handbook intended to guide the collective engagement of the A3/A3+ grouping.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202609230672.html",
-                "source": "allAfrica.com",
-                "date": "2026-09-23T23:57:16Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-09-25T15:06:43.203726Z"
+    "lastGlobalSync": "2026-09-25T19:34:23.784743Z"
 }
