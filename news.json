@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Jetstar’s return for free sale is back with flights to Japan from $449",
+                "desc": "Aussies will have to get in quick to snap up the cheap fares.",
+                "image": "https://s.yimg.com/lo/mysterio/api/e287c322e178c51a8ea51d4697fc4ef26405f45856e094e9800d721240284c33/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fjetstar-4_2424.png",
+                "url": "https://au.lifestyle.yahoo.com/jetstars-return-for-free-sale-is-back-with-flights-to-japan-from-449-212329191.html",
+                "source": "Yahoo Lifestyle Australia",
+                "date": "2026-10-05T21:23:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bath & Body Works rises as investors appear to revisit a beaten-down retail name",
+                "desc": "Bath & Body Works (BBWI) is up 8.6% today. Here is some analysis on what might have caused this",
+                "image": "https://www.quiverquant.com/images/bbwi_rect_new.png",
+                "url": "https://www.quiverquant.com/news/Bath+%26+Body+Works+rises+as+investors+appear+to+revisit+a+beaten-down+retail+name",
+                "source": "Quiver Quantitative",
+                "date": "2026-10-05T21:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rain Files Application With the OCC to Establish Rain National Trust Bank",
+                "desc": "Rain, the enterprise-grade infrastructure for stablecoin payments, announced today that it has filed an application with the Office of the Comptroller of the Currency (OCC) to establish Rain National Trust Bank (RNTB), a proposed national trust bank headquartered in New York. If approved, RNTB will bring the custody, reserve management, and stablecoin issuance and redemption functions behind Rain partners' programs under a single federal supervisory framework. Rain also announced that Brandon So",
+                "image": "https://s.yimg.com/lo/mysterio/api/ce62417ac7a9d0b74393964d33c6220efa73fe593d297d0ff215ef000752ebc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F8bd03fca4d30f2b719ff8a1085811aaf.jpg",
+                "url": "https://finance.yahoo.com/markets/crypto/articles/rain-files-application-occ-establish-212100681.html",
+                "source": "Yahoo Finance",
+                "date": "2026-10-05T21:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Citrix NetScaler security snafus get even worse amid more 0-day reports",
+                "desc": "The new vuln, CVE-2026-88779, is a memory overflow bug that leads to denial of service",
+                "image": "https://image.theregister.com/259122.jpg?imageId=259122&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232",
+                "source": "The Register",
+                "date": "2026-10-05T21:18:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Alberta separatist lawyer denied access to more cash from funds frozen in dispute with First Nation",
+                "desc": "An Alberta Court of King’s Bench judge has rejected Alberta lawyer Jeff Rath’s request to access an additional $776,000 to cover his personal and legal expenses while his accounts are frozen by a court order.",
+                "image": "https://i.cbc.ca/ais/e88a9eac-36de-4adf-b21a-ac5ec6e8091a,1786049911852/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C512%2C288%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/edmonton/jeff-rath-denied-more-funds-court-9.7370083",
+                "source": "CBC",
+                "date": "2026-10-05T21:16:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+                "desc": "Smart home darling Matic, whose robovac is a top pick, now has an FCC waiver that’s mostly symbolic.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_8725.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+                "url": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+                "source": "The Verge",
+                "date": "2026-10-05T21:15:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI starts watermarking ChatGPT and Codex text in the EU",
+                "desc": "OpenAI brings text watermarking to ChatGPT and Codex in the EU. Its own tests show editing a quarter of the words cuts detection to 17%.",
+                "image": "https://media.thenextweb.com/2026/10/chatgpt-billboard-rooftop-san-francisco-blue-sky.jpg",
+                "url": "https://thenextweb.com/news/openai-text-watermarking-chatgpt-codex-eu-ai-act",
+                "source": "The Next Web",
+                "date": "2026-10-05T21:13:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "N.S. RCMP warning of fake badges being presented in gold scam",
+                "desc": "Police across the province are warning the public of an ongoing scam where fraudsters are tricking people into converting their money into gold. According to a statement from the Nova Scotia RCMP, the emerging scam sees the bad actors pretending to be police officers. Victims are contacted by scammers who tell them they are a […]",
+                "image": "https://halifax.citynews.ca/wp-content/blogs.dir/sites/5/2026/10/05/scam-likely-1024x576-1.jpg",
+                "url": "https://halifax.citynews.ca/2026/10/05/rcmp-warning-of-gold-scam-where-fraudsters-pretend-to-be-police/",
+                "source": "CityNews Halifax",
+                "date": "2026-10-05T21:09:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is CTS Eventim KGaA (XTRA:EVD) Cheap After Its CFO Exit?",
+                "desc": "Leadership change at CTS Eventim KGaA CTS Eventim KGaA (XTRA:EVD) is in focus after Chief Financial Officer Dr. William Willms left his role on 30 September 2026, with Senior Vice President Finance Dr. Philipp Knigge stepping in on an interim basis. This shift in financial leadership puts attention on how the ticketing and live entertainment specialist manages capital allocation, risk control, and reporting quality at a time when investors are already tracking its recent share performance and...",
+                "image": "https://s.yimg.com/lo/mysterio/api/631c6b53463eeb92c59469c734de73241e75495d469b57589cdf36df3717a3d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fa4e037a9fe39bf1647e97252bbab72b0.jpg",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/cts-eventim-kgaa-xtra-evd-210656400.html",
+                "source": "Yahoo Finance",
+                "date": "2026-10-05T21:06:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Expedia Accused of Using AI to Jack Up Hotel Room Rates",
+                "desc": "Expedia Group Inc. was sued by three consumers who allege the online travel giant used pricing algorithms to lock in high hotel room rates across all booking platforms — not just its own — in violation of federal antitrust law.",
+                "image": "https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F49%2F42%2F75669fa143ae9349d98ed17f2057%2Fexpedia.jpg&width=1200&height=630&fit=cover&removeAnimation=true&crop=3994x1539%2B3%2B453",
+                "url": "https://news.bloomberglaw.com/class-action/expedia-accused-of-using-ai-to-jack-up-hotel-room-rates",
+                "source": "news.bloomberglaw.com",
+                "date": "2026-10-05T21:05:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
                 "title": "Dunnes Stores in Cork suburb reopens following brief closure this morning",
                 "desc": "Despite efforts to contact Dunnes Stores HQ in Dublin, a cause for the closure of the Bishopstown store not been confirmed.",
                 "image": "https://www.echolive.ie/cms_media/module_img/10500/5250439_2_org_dan_20garda_207_1_.jpg",
@@ -542,99 +632,99 @@
                 "source": "The Motley Fool",
                 "date": "2026-10-04T09:36:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Deep-sea gas becomes costlier as government raises price ceiling",
-                "desc": "The government has raised the ceiling price for gas from difficult fields such as Reliance-BPs KG-D6 block to $9.89 per MMBtu for October 2026-March 2027, from $8.90 earlier. Meanwhile, APM gas from ONGC and Oil Indias legacy fields remains effectively capped at $7 per MMBtu, with new-well gas eligible for a 10% premium up to $7.70.",
-                "image": "https://img.etimg.com/thumb/msid-134670678,width-1200,height-900,imgsize-163523,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/deep-sea-gas-becomes-costlier-as-government-raises-price-ceiling/articleshow/134670616.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-10-04T06:31:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chanel: unpicking one year of 'Blazymania'",
-                "desc": "Exactly a year since he unveiled his first collection at Chanel, Franco-Belgian designer Matthieu Blazy has proved himself to be a shrewd and hugely profitable recruit by the family-owned French fashion…",
-                "image": "https://s.france24.com/media/display/02cf8d2c-bfbc-11f1-9175-1ff0321dbbd3/w:1280/p:16x9/cd296f9cfa2ae80f9b3a60706b5b3dfb1e2dad46.jpg",
-                "url": "https://www.france24.com/en/live-news/20261004-chanel-unpicking-one-year-of-blazymania",
-                "source": "france24.com",
-                "date": "2026-10-04T06:22:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rivian vs. Lucid: Only 1 of These EV Stocks Survives to 2030. Here's Which One.",
-                "desc": "Unit volumes tell the story of which EV start-up can survive.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889459%2Felectric-vehicles-2.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/10/04/rivian-vs-lucid-only-1-of-these-ev-stocks-survives/",
-                "source": "The Motley Fool",
-                "date": "2026-10-04T06:22:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Theparkpay expands global payment reach",
-                "desc": "Theparkpay Technologies has expanded its international payments infrastructure by acquiring a UK Financial Conduct Authority licence to boost its global re",
-                "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/04020846/Park-Pay_1791076126-1023x630.webp",
-                "url": "https://punchng.com/theparkpay-expands-global-payment-reach/",
-                "source": "Punch Newspapers",
-                "date": "2026-10-04T06:21:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The LNG boom is losing its biggest Asian bet",
-                "desc": "Stung by high costs and supply uncertainty, Asian governments are busy throwing those forecasts on the bonfire.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/04/566177.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/commentary/2026/10/04/world/asia-lng-boom/",
-                "source": "The Japan Times",
-                "date": "2026-10-04T06:19:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rupee seen at 95.30-96.80 in October; global yields, FPI outflows pose risk: Report",
-                "desc": "The Indian rupee is expected to trade sideways in October in a range of 95.30–96.80, as robust forex reserves and trade agreements provide support, while rising global yields and foreign portfolio investor outflows weigh on the currency as per a report by Union Bank of India.",
-                "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261004045051-thumbnail-320x180-70.jpg",
-                "url": "https://www.aninews.in/news/business/rupee-seen-at-9530-9680-in-october-global-yields-fpi-outflows-pose-risk-report20261004114842/",
-                "source": "ANI News",
-                "date": "2026-10-04T06:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AC, TV prices rise 5-8% ahead of festive season, but appliance makers expect double-digit sales growth",
-                "desc": "The latest price increase is the third round of revisions this year. Manufacturers have cited higher costs of copper, aluminium, steel and crude derivatives, along with rising freight expenses and currency fluctuations, for the hikes.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260627025526_electronic_electrical1.jpg",
-                "url": "https://www.moneycontrol.com/news/business/ac-tv-prices-rise-5-8-ahead-of-festive-season-but-appliance-makers-expect-double-digit-sales-growth-14044090.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-10-04T06:15:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NSW underquoting laws: Real estate price guide rules introduced for buyers",
-                "desc": "A real estate trick that has frustrated and dragged out the buying process for Australians looking to get into the housing market is finally being put to bed.",
-                "image": "https://content.api.news/v3/images/bin/0e02ff6510f2018934197f336be0346c",
-                "url": "https://www.news.com.au/finance/economy/nsw-bans-vague-property-listings-buyers-rejoice-massive-fines-for-shonky-agents/news-story/0399a85aed2fd7c7a8a864d7f96ae867",
-                "source": "News.com.au",
-                "date": "2026-10-04T06:15:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How one of Birmingham's last timber-framed buildings was saved",
-                "desc": "Birmingham Conservation Trust has restored the Golden Lion after years behind scaffolding",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e80f/live/9ccef1f0-be82-11f1-a64c-550be9e3c66b.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/crq5xvn74381o",
-                "source": "BBC",
-                "date": "2026-10-04T06:10:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Automakers ramp up production, dealer stocks to meet festive demand",
-                "desc": "Car market leader Maruti Suzuki India has 2.2 lakh pending bookings ahead of the festive season, while Hyundai Motor India has built four-five weeks of inventory across its dealer network",
-                "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251007051821_automobile-auto-sales-cars-logistics-transport.jpg",
-                "url": "https://www.moneycontrol.com/automobile/automakers-ramp-up-production-dealer-stocks-to-meet-festive-demand-article-14044082.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-10-04T06:01:47Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "How to Disable Apple Intelligence on Your iPhone or Mac and Reclaim Valuable Space",
+                "desc": "The new Siri AI could be taking up a lot of storage on your device.",
+                "image": "https://www.cnet.com/wp-content/uploads/sites/2/siri-ai-03_5c6da3.png",
+                "url": "https://www.cnet.com/tech/services-and-software/disable-apple-intelligence-save-space/",
+                "source": "CNET",
+                "date": "2026-10-05T21:25:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Google Android verification policy draws Singapore scrutiny",
+                "desc": "Singapore’s Competition and Consumer Commission is “closely monitoring” recent changes to Google’s security system that require Android developers to verify their identities with the tech company.",
+                "image": "https://d2qu5xmcgmzxnb.cloudfront.net/ewogICAgICAgICAgICAgICAgICAgICAgICAiYnVja2V0IjogImZpbGVzLmxici5jbG91ZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAicHVibGljLzIwMjYtMTAvc2h1dHRlcnN0b2NrXzI0NTQyNzIyMzcuanBnIiwKICAgICAgICAgICAgICAgICAgICAgICAgImVkaXRzIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICJyZXNpemUiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAid2lkdGgiOiA5NDUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaGVpZ2h0IjogNTI2LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImZpdCI6ICJjb3ZlciIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAicG9zaXRpb24iOiAiY2VudGVyIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJiYWNrZ3JvdW5kIjogeyAiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxIH0KICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9",
+                "url": "https://globalcompetitionreview.com/article/new-google-android-verification-policy-draws-singapore-scrutiny",
+                "source": "globalcompetitionreview.com",
+                "date": "2026-10-05T21:24:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canon, Nikon, Sony, and Fujifilm All See Photography's Future Differently",
+                "desc": "Nikkei published a story that featured interviews with executives from the top camera makers: Canon, Nikon, Sony, and Fujifilm.",
+                "image": "https://petapixel.com/assets/uploads/2026/10/Sony-Canon-Nikon-and-Fujifilm-All-See-Photographys-Future-Differently.jpg",
+                "url": "https://petapixel.com/2026/10/05/canon-nikon-sony-and-fujifilm-all-see-photographys-future-differently/",
+                "source": "PetaPixel",
+                "date": "2026-10-05T21:19:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Coalition turned the Xbox Series S SSD into additional memory for Gears of War: E-Day",
+                "desc": "A technological approach that helps solve performance issues on a weaker console.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1380937/deeca692-847b-4a74-8d2d-e8b4b2576c7a.jpg",
+                "url": "https://ixbt.games/en/news/2026/10/06/440453-the-coalition-prevratila-ssd-xbox-series-s-v-dopolnitelnuiu-pamiat-dlia-gears-of-war-e-day.html",
+                "source": "ixbt.games",
+                "date": "2026-10-05T21:17:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flea of the Red Hot Chili Peppers Puts Heptagonal California Home Up for Sale",
+                "desc": "The musician owns a 5.7-acre compound outside Los Angeles with a futuristic house by Michael Maltzan and a midcentury classic by Richard Neutra",
+                "image": "https://images.mansionglobal.com/im-20489800/social",
+                "url": "https://www.mansionglobal.com/articles/flea-of-the-red-hot-chili-peppers-puts-heptagonal-california-home-up-for-sale-0942e92d",
+                "source": "Mansion Global",
+                "date": "2026-10-05T21:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What’s new in Android's October 2026 Google System Updates",
+                "desc": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across...",
+                "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?quality=82&strip=all&resize=1200,628",
+                "url": "https://9to5google.com/2026/10/05/october-2026-google-system-updates/",
+                "source": "9to5Google",
+                "date": "2026-10-05T21:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Every Samsung Phone Getting A Price Hike In October 2026",
+                "desc": "If you were holding out for a lower price on a Samsung smart phone, you might be out of luck, as a wave of price hikes on Samsung devices has been revealed.",
+                "image": "https://www.bgr.com/img/gallery/every-samsung-phone-getting-a-price-hike-in-october-2026/l-intro-1791233088.jpg",
+                "url": "https://www.bgr.com/2278130/samsung-phones-price-hike-october-2026/",
+                "source": "bgr.com",
+                "date": "2026-10-05T21:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best Buy's \"Techtober\" Sale Is Here With Deals and Discounts From Top Brands",
+                "desc": "Best Buy is running its own seasonal sale event during early October, and we've gathered some of the best deals to save you some serious bucks on your next upgrade.",
+                "image": "https://i.pcmag.com/imagery/articles/00Kf0T6VsOqpyCXdtTsgS4b-4.fit_lim.size_1200x630.v1791231407.png",
+                "url": "https://www.pcmag.com/deals/best-buys-techtober-sale-2026-deals-and-discounts-oct-5",
+                "source": "PCMag",
+                "date": "2026-10-05T21:15:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ubisoft Addresses Watch Dogs' Absence From Creative Houses",
+                "desc": "Ubisoft CEO Yves Guillemot says Watch Dogs matters to the company’s future, though it is not currently prioritized in a creative house.",
+                "image": "https://insider-gaming.com/wp-content/uploads/2024/03/watch-dogs-movie.jpg",
+                "url": "https://insider-gaming.com/watch-dogs-important-ubisoft-future-ceo-says/",
+                "source": "Insider Gaming",
+                "date": "2026-10-05T21:14:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "macOS 27.2 Adds Touch Gestures Ahead of MacBook Ultra",
+                "desc": "macOS Golden Gate 27.2 adds code referencing new touch-specific gestures in apps like Safari, Notes, Photos, and Quick Look, a possible sign Apple is preparing to release the rumored OLED touchscreen MacBook, possibly called the \"MacBook Ultra\".",
+                "image": "https://images.macrumors.com/t/KU8mtnpuZLz7y7jeR2PsMQ80Vvg=/2500x/article-new/2025/11/m5-macbook-pro-cyber.jpg",
+                "url": "https://www.macrumors.com/2026/10/05/macos-27-2-touch-gestures/",
+                "source": "MacRumors",
+                "date": "2026-10-05T21:14:08Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "vivo V80 Lite 5G launches in Singapore with massive 10,000mAh battery",
                 "desc": "The vivo V80 Lite 5G is built around a 10,000mAh battery while still keeping the phone relatively slim and portable.",
@@ -1174,99 +1264,99 @@
                 "source": "The Telegraph",
                 "date": "2026-10-04T09:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "This is when the Honor Magic9 series is landing in Europe",
-                "desc": "Unfortunately, it's a big wait. Honor launched the Magic9, Magic9 Super, and Magic9 Pro Max in China a few days ago. If the devices interest you, you may...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-magic9-series-european-launch-month/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/this_is_when_the_honor_magic9_series_is_landing_in_europe-news-74887.php",
-                "source": "gsmarena.com",
-                "date": "2026-10-04T06:31:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Caps Free Gemini at Flash-Lite Starting October 9",
-                "desc": "Starting October 9, free Gemini users keep one model and lose the other two. 9to5Google reports that \"users who do not pay for Gemini will no longer be…",
-                "image": "https://aiweekly.co/themes/custom/aiweekly/images/favicon.svg",
-                "url": "https://aiweekly.co/alerts/google-caps-free-gemini-at-flash-lite-starting-october-9",
-                "source": "AI Weekly",
-                "date": "2026-10-04T06:30:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nintendo Recalls Most Controversial Games of the 3DS and Wii U Era",
-                "desc": "Nintendo has renewed trademarks for several 3DS and Wii U era games, including fan-disliked Metroid Prime: Federation Force and Blast Ball.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1380214/9060518f-e7cf-443d-a5a7-11c19943597e.jpg",
-                "url": "https://ixbt.games/en/news/2026/10/04/440055-nintendo-vspomnila-o-samyx-spornyx-igrax-epoxi-3ds-i-wii-u.html",
-                "source": "ixbt.games",
-                "date": "2026-10-04T06:19:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Still Profitable? 5 Places to Sell Photos Online Amid the AI Surge",
-                "desc": "Discover the 5 best places to sell photos online amid the AI surge. Learn about profit opportunities, strategies, and stock photography platforms like Shutterst…",
-                "image": "https://aktualita.co/storage/previews/aktualita-v1/a1/a15cdedf6bca610469564dc0ef5a138cc762c97fb044ce23ca58c4540a08b2cd.jpg",
-                "url": "https://aktualita.co/en/technology/still-profitable-5-places-to-sell-photos-online-amid-the-ai-surge",
-                "source": "Aktualita.co",
-                "date": "2026-10-04T06:08:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RuneScape: Dragonwilds Reveals Multi-Year Roadmap",
-                "desc": "Monthly & quarterly updates throughout 2027 - RuneScape: Dragonwilds developer Jagex has officially unveiled its new multi-year roadmap, covering the remaind...",
-                "image": "https://images.nintendolife.com/e33c71b90fce2/1280x720.jpg",
-                "url": "https://www.nintendolife.com/news/2026/10/runescape-dragonwilds-reveals-multi-year-roadmap",
-                "source": "Nintendo Life",
-                "date": "2026-10-04T06:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation Plus limited-time trick nets you three months of games for the price of one",
-                "desc": "Everything is expensive these days, so save yourself some money.",
-                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt45f344b2548280a5/6abfcabd4bdd873b83e10e1e/custom-c3377eef-c322-4a91-af58-5f7aba3987ff-spotlight-originals-p1-s2-d103fc73-16x9.png",
-                "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-three-months-of-games-for-one-937544-20261002",
-                "source": "GAMINGbible",
-                "date": "2026-10-04T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Behind the music - Opentide",
-                "desc": "Limerick duo Opentide have released their new single, House From Here. We asked Denny Dunworth of the band the BIG questions . . .",
-                "image": "https://www.rte.ie/images/00251a9c-1600.jpg",
-                "url": "https://www.rte.ie/entertainment/2026/1004/1590941-behind-the-music-opentide/",
-                "source": "RTE.ie",
-                "date": "2026-10-04T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former PlayStation head explained why Game Pass prevents developers from earning money",
-                "desc": "Former head of Sony Interactive Entertainment Shawn Layden stated that the Xbox Game Pass model limits developers' ability to earn from successful games, especially when released on subscription on day one.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1380206/b5182b1e-8747-477d-8259-b3a3b91814d3.jpg",
-                "url": "https://ixbt.games/en/news/2026/10/04/440053-byvsii-glava-playstation-obieiasnil-pocemu-game-pass-mesaet-razrabotcikam-zarabatyvat.html",
-                "source": "ixbt.games",
-                "date": "2026-10-04T05:55:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei Mate 90 2026: Kirin 9030, 6,600mAh and a $194 Hike",
-                "desc": "The Huawei Mate 90 lands in 2026 at $895 with a Kirin 9030 chip and a 6,600mAh battery. We break down the price jump, the trade-offs, and who should buy it.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/10/The-895-Huawei-Mate-90-Is-Basically-Last-Years-Pro-With-a-Bigger-Battery.jpg",
-                "url": "https://memeburn.com/huawei-mate-90-official-launch/",
-                "source": "Memeburn",
-                "date": "2026-10-04T05:38:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Galaxy S26 FE review: The perfect cure for Samsung's recent price hike frenzy",
-                "desc": "The Samsung Galaxy S26 FE feels like an awkward release at first glance, but it may just be the low-cost flagship we need right now.",
-                "image": "https://cdn.mos.cms.futurecdn.net/eRNhEQXvoG7LJYhGiKVy6W-2000-80.jpg",
-                "url": "https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s26-fe-review-the-perfect-cure-for-samsungs-recent-price-hike-frenzy",
-                "source": "Tom's Guide",
-                "date": "2026-10-04T05:36:14Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "UK author, politician dies aged 86",
+                "desc": "The novelist was best known for pacy thrillers such as Not a Penny More, Not a Penny Less and the Kane and Abel series.",
+                "image": "https://static.ffx.io/images/$zoom_0.4777%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_20/t_crop_custom/q_86%2Cf_auto/feaa8e70d24d544aef01124ffa2f9c78e90549a6",
+                "url": "https://www.smh.com.au/culture/celebrity/british-author-and-disgraced-politician-jeffrey-archer-dies-aged-86-20261006-p61330.html",
+                "source": "SMH.com.au",
+                "date": "2026-10-05T21:26:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘They want to kill all of us’: Life on Israel’s anxious frontier",
+                "desc": "Three years after the October 7th attacks, real security feels elusive in the Israeli community nearest the Gaza border fence",
+                "image": "https://www.irishtimes.com/resizer/v2/KXJGOCDZVJBSPDVAJ32IHW43GU.jpg?smart=true&auth=916dfc82369d6e4e9aa6a794d93d407b92ecaa06a66f2fca80a705e8e324d602&width=1200&height=630",
+                "url": "https://www.irishtimes.com/world/middle-east/2026/10/05/they-want-to-kill-all-of-us-life-on-israels-anxious-frontier/",
+                "source": "The Irish Times",
+                "date": "2026-10-05T21:24:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dozens quarantined in Siberia after plague institute lab worker dies",
+                "desc": "A laboratory worker at a plague research institute in ‌Siberia fell ill and died in undisclosed circumstances, prompting authorities to quarantine dozens of people and the head of Russia's health watchdog to fly to the Irkutsk region.",
+                "image": "https://www.reuters.com/resizer/v2/AXRJGBXYM5MANMWXIR45TWRKWM.jpg?auth=7d2c19e1a580d66bd39ffcc0d735d9c143507612fae48b6900da7ebde2706040&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/dozens-quarantined-siberia-after-plague-institute-lab-worker-dies-2026-10-05/",
+                "source": "Reuters",
+                "date": "2026-10-05T21:23:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flydubai payments to Israeli aviation security official exposed as Trump points to Ir",
+                "desc": "Aviation security chief Dvir Rubinstein privately worked for foreign airlines as years of warnings went unaddressed; despite Israel’s lone-actor assessment, Trump again points to Iran",
+                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/SJSIxfgizl/SJSIxfgizl_1_60_1717_967_0_large.jpg",
+                "url": "https://www.ynetnews.com/article/hj9r2f11szl",
+                "source": "Ynetnews",
+                "date": "2026-10-05T21:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lesotho, Bayelsa Explore Economic Cooperation",
+                "desc": "The government of Lesotho and Bayelsa State have held talks on areas of economic cooperation, including agriculture, oil and gas, tourism, cold water development and textile warehousing.",
+                "image": "https://leadership.ng/wp-content/uploads/2026/10/IMG-20261005-WA00052.jpg",
+                "url": "https://leadership.ng/lesotho-bayelsa-explore-economic-cooperation/",
+                "source": "LEADERSHIP Newspapers",
+                "date": "2026-10-05T21:21:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Photos: Yemen’s hospitals struggle to operate amid persistent power outages",
+                "desc": "Families in Aden endure sleepless nights and spoiled food as blackouts become a defining feature of daily life.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/DSC02193-1791112107.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/gallery/2026/10/5/photos-yemens-hospitals-struggle-to-operate-amid-persistent-power-outages",
+                "source": "Al Jazeera",
+                "date": "2026-10-05T21:19:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US warns citizens in Saudi Arabia of possible drone, missile attacks",
+                "desc": "The United States Mission in Saudi Arabia has warned American citizens in the kingdom to remain vigilant amid",
+                "image": "https://peopledaily.digital/wp-content/uploads/2026/03/Tr-768x528.png",
+                "url": "https://peopledaily.digital/news/us-warns-citizens-in-saudi-arabia-of-possible-drone-missile-attacks",
+                "source": "People Daily",
+                "date": "2026-10-05T21:18:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "France braces for national day of student protests after injuries and mass arrests",
+                "desc": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1ca1/live/fe658ed0-c0dd-11f1-babe-4199b0e7ccea.jpg",
+                "url": "https://www.bbc.com/news/articles/cr4g1q1elxnjo",
+                "source": "bbc.com",
+                "date": "2026-10-05T21:18:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "France braces for national day of student protests after injuries and mass arrests",
+                "desc": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ca1/live/fe658ed0-c0dd-11f1-babe-4199b0e7ccea.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo",
+                "source": "BBC",
+                "date": "2026-10-05T21:18:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tate brothers used 'lover boy' model to exploit women, Britain says",
+                "desc": "Social media influencers Andrew and Tristan Tate used a \"lover boy\" model to lure women with the ‌promise of romantic relationships before coercing them to create online pornography, British law enforcement said in court documents made public on Monday in the US.",
+                "image": "https://www.reuters.com/resizer/v2/PNAEKOPCMBNTNHBNZMG7VG2FDU.jpg?auth=f0b3876d12e17a6439a64d908f63160f9b4d9f3e3c3e48e1db4aa4253c32091a&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/uk/tate-brothers-used-lover-boy-model-exploit-women-britain-says-2026-10-05/",
+                "source": "Reuters",
+                "date": "2026-10-05T21:15:37Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "UK insists RAF Fairford is safe after US withdraws bombers",
                 "desc": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen",
@@ -1806,98 +1896,8 @@
                 "source": "Daily Sabah",
                 "date": "2026-10-04T09:32:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Drainage slow, but no risk of fresh flooding, says governor",
-                "desc": "The flood is draining slowly in eastern Bangkok, but the good news is forecasts indicate there is no immediate risk of fresh flooding from rain or the runoff-surge coming from the North, Bangkok Governor Chadchart Sittipunt said on Sunday.",
-                "image": "https://static.bangkokpost.com/media/content/20261004/c1_3331138_700.jpg",
-                "url": "https://www.bangkokpost.com/thailand/general/3331138/drainage-slow-but-no-risk-of-fresh-flooding-says-governor",
-                "source": "Bangkok Post",
-                "date": "2026-10-04T06:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tens of thousands protest across Spain over housing crisis",
-                "desc": "Spanish media say Prime Minister Pedro Sanchez might call a snap election for November after proposed housing legislation failed in parliament.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108372251-1791094686841-gettyimages-2298365920-20261003_housing_protest_pb01682_sqjihtod.jpeg?v=1791094714&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/04/tens-of-thousands-protest-across-spain-over-housing-crisis.html",
-                "source": "CNBC",
-                "date": "2026-10-04T06:27:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Derby father of murder victim says trial was 'hell'",
-                "desc": "Dale Martin says some of his son's killers would come to his house for evening meals as children.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a35b/live/eb23fd70-bfbb-11f1-be90-73414311d321.jpg",
-                "url": "https://www.bbc.com/news/articles/c30rlw4lkjzyo",
-                "source": "BBC",
-                "date": "2026-10-04T06:23:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘As a former Catholic priest, I understood what it meant to have a calling to poetry’",
-                "desc": "Benjamin Alire Sáenz, the Texas-based poet and author, was the man to speak to if you wanted to learn about the ‘world of in-between’ of the US-Mexico border",
-                "image": "https://www.irishtimes.com/resizer/v2/TF2ZLH7VZFEVBEJIKJZZFLTFA4.jpg?smart=true&auth=a134ed3dcbc77b21b1ae208e722b1928f39607c2aafdfe5eaf3f3b73ef902c46&width=1200&height=630",
-                "url": "https://www.irishtimes.com/culture/books/2026/10/04/as-a-former-catholic-priest-i-understood-what-it-meant-to-have-a-calling-to-poetry/",
-                "source": "The Irish Times",
-                "date": "2026-10-04T06:22:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Germany’s Merz visits Kyiv amid fears of ‘hardest’ winter in war",
-                "desc": "The visit has been overshadowed by heavy Russian attacks on Kyiv as well as tensions over Ukraine’s EU membership prospects",
-                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/03/GettyImages-2298114756-scaled.jpg",
-                "url": "https://www.politico.eu/article/germany-friedrich-merz-visits-kyiv-amid-fears-of-hardest-winter-in-war/",
-                "source": "politico.eu",
-                "date": "2026-10-04T06:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia investigating Flydubai co-pilot's links to country",
-                "desc": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8092/live/6ab37a20-bfbc-11f1-a64c-550be9e3c66b.png",
-                "url": "https://www.bbc.com/news/articles/cxly4nym57q9o",
-                "source": "BBC",
-                "date": "2026-10-04T06:19:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia investigating Flydubai co-pilot's links to country",
-                "desc": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8092/live/6ab37a20-bfbc-11f1-a64c-550be9e3c66b.png",
-                "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o",
-                "source": "BBC",
-                "date": "2026-10-04T06:19:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump wants tougher jail terms for fraudsters targeting Amer",
-                "desc": "Donald Trump has proposed legislation for tougher, mandatory prison sentences for fraudsters who target American benefit programmes like Medicare and Medic",
-                "image": "https://cdn.punchng.com/wp-content/uploads/2026/03/16203345/AFP__20260316__A3HD8AV__v1__Mockup__UsPoliticsTrump-1200x630.jpg",
-                "url": "https://punchng.com/trump-wants-tougher-jail-terms-for-fraudsters-targeting-americans/",
-                "source": "punchng.com",
-                "date": "2026-10-04T06:08:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Drumcree parade highlights divide in Northern Ireland",
-                "desc": "The dispute over the Drumcree parade has brought the past into the present, writes Northern Correspondent Conor Macauley.",
-                "image": "https://www.rte.ie/images/00251406-1600.jpg",
-                "url": "https://www.rte.ie/news/analysis-and-comment/2026/1004/1593924-comment-analysis-drumcree-parade/",
-                "source": "rte.ie",
-                "date": "2026-10-04T06:04:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Helsinki set the course. Iceland shows JEF is becoming a northern security instrument",
-                "desc": "**The JEF defence ministerial in Iceland was not just another regional meeting. It showed that the decisions taken by JEF leaders in Helsinki in March 2026 are now moving into military practice: closer cooperation with Ukraine, stronger activity below the threshold of Article V, and a clearer understanding that the Baltic Sea, the High North and the North Atlantic must be treated as one connected security space.**",
-                "image": "https://cdn.defence24.pl/2026/10/03/640x360px/VkaAvDYyndtSN8LfAgoUg6KKwo6HNvPwlDuAlRZZ.ym7o.jpg",
-                "url": "https://defence24.com/defence-policy/helsinki-set-the-course-iceland-shows-jef-is-becoming-a-northern-security-instrument",
-                "source": "Defence24.com",
-                "date": "2026-10-04T06:00:02Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-06T02:31:48.047678Z"
+    "lastGlobalSync": "2026-10-06T09:26:31.975131Z"
 }
