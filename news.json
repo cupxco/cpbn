@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Dunnes Stores in Cork suburb reopens following brief closure this morning",
+                "desc": "Despite efforts to contact Dunnes Stores HQ in Dublin, a cause for the closure of the Bishopstown store not been confirmed.",
+                "image": "https://www.echolive.ie/cms_media/module_img/10500/5250439_2_org_dan_20garda_207_1_.jpg",
+                "url": "https://www.echolive.ie/corknews/arid-41920003.html",
+                "source": "echo live",
+                "date": "2026-10-05T14:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia stock tests all-time highs, market cap at $5.7 trillion",
+                "desc": "Nvidia stock hit a new all-time intraday high on Friday, eclipsing its prior high of $235.54 a share.",
+                "image": "https://s.yimg.com/lo/mysterio/api/19279d53d6a718097e76a958b7a68650cf1ed51822ff4a7c46e1abc12e7867ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F0ed2bea3-3cf0-4df3-a992-da99c165b049",
+                "url": "https://finance.yahoo.com/technology/article/nvidia-stock-tests-all-time-highs-market-cap-at-57-trillion-141332917.html",
+                "source": "finance.yahoo.com",
+                "date": "2026-10-05T14:30:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aramco CEO Warns Oil Inventories Are ‘Scarily Thin’",
+                "desc": "Aramco CEO Amin Nasser says the Iran war has erased nearly 3 billion barrels of oil supply, leaving global inventories scarily thin.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-05_s968rgnar0.jpg",
+                "url": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-CEO-Warns-Oil-Inventories-Are-Scarily-Thin.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-10-05T14:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wind farms paid £1.5bn to switch off - and the bill is rising",
+                "desc": "The amount that Britain spends on asking wind farms to power down because the electricity grid cannot cope has already exceeded last year’s total",
+                "image": "https://www.thetimes.com/imageserver/image/5bb9f30b-09c4-41d3-bf29-706e9d7a9ec0.jpg?strip=all&format=webp&crop=4500px%2C2531px%2C0px%2C369px&resize=1200",
+                "url": "https://www.thetimes.com/business/energy/article/wind-farms-paid-15bn-to-power-down-and-the-bill-is-rising-0npqdw3m7",
+                "source": "The Times",
+                "date": "2026-10-05T14:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Bubble Burst: AI Chips Are Becoming Commoditized",
+                "desc": "Amazon’s $8B Nvidia GPU sale-leaseback signals AI chip commoditization and weaker capex ROI—learn what it means for investors and act now.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2297764008/image_2297764008.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4951984-ai-bubble-burst-ai-chips-are-becoming-commoditized",
+                "source": "Seeking Alpha",
+                "date": "2026-10-05T14:28:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rising Treasury Yields Haven’t Cracked The Bull Market…Yet",
+                "desc": "The stock market has been rattled by the sharp rise in bond yields over the past month, but the bullish trend in equities has so far bent rather than broken.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1416867400/image_1416867400.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4951983-rising-treasury-yields-havent-cracked-bull-marketyet",
+                "source": "Seeking Alpha",
+                "date": "2026-10-05T14:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "APTA 2026 TRANSform & EXPO Opens in Chicago",
+                "desc": "APTA has opened its 2026 TRANSform Conference & EXPO in Chicago, with a focus on next-generation fleets and the infrastructure.",
+                "image": "https://railway-news.com/wp-content/uploads/2026/10/al-2-800x500.png",
+                "url": "https://railway-news.com/apta-2026-transform-expo-opens-in-chicago/",
+                "source": "Railway-News",
+                "date": "2026-10-05T14:24:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Greenland Mines Has More Funding And More Dilution Than The Headline Suggests",
+                "desc": "Greenland Mines secures $59M in financing, enhancing credibility for next-stage development of its two projects. See why I rate GRML stock a Hold now.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2264370947/image_2264370947.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4951982-greenland-mines-has-more-funding-and-more-dilution-than-the-headline-suggests",
+                "source": "Seeking Alpha",
+                "date": "2026-10-05T14:23:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man shocked economic rice sends sodium intake over daily limit",
+                "desc": "Man’s economic rice meal sends his sodium intake past the recommended daily limit, leaving the 39-year-old shocked at how much one plate contains.",
+                "image": "https://cassette.sphdigital.com.sg/image/stomp/9ed59ec4ca98cdf016363433052a4198632e7949c267acbeff59fa2de060dd80?w=1200",
+                "url": "https://www.stomp.sg/trending-now/eat-salad-every-day-man-shocked-after-plate-economic-rice-sends-sodium-intake-over-daily-limit",
+                "source": "Stomp",
+                "date": "2026-10-05T14:22:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Unclaimed $40M lotto ticket in Ontario set to expire this month",
+                "desc": "OLG says one lucky person could be the winner of a $40 million Lotto Max jackpot prize, but they have to act fast.",
+                "image": "https://www.cp24.com/resizer/v2/QGDXG35RPZA6VE5QBIMCTQZT6I.jpg?smart=true&auth=c0a88d749fff111c8ef1256447ebd878b7ff89282dd98d15207e90cc946e54b6&width=1200&height=630",
+                "url": "https://www.cp24.com/news/canada/2026/10/05/this-40-million-lotto-ticket-in-ontario-will-expire-soon-if-no-one-claims-it/",
+                "source": "CP24",
+                "date": "2026-10-05T14:20:12Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Northumberland incident LIVE: Person dies after being hit by train between Hexham and Haydon Bridge",
                 "desc": "Trains have been cancelled or delayed due to an ongoing incident in Northumberland",
                 "image": "https://i2-prod.chroniclelive.co.uk/article34621908.ece/ALTERNATES/s1200d/6_BREAKING-NEWS-2-2.jpg",
@@ -542,99 +632,99 @@
                 "source": "Moneycontrol.com",
                 "date": "2026-10-04T06:01:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "GLP-1 medicine use without expert advice dangerous: Doctors",
-                "desc": "GLP-1 receptor agonists are medicines that act like this hormone and are mainly used to treat type 2 diabetes.",
-                "image": "https://cf-images.assettype.com/newindianexpress%2F2026-10-04%2F7bkwwkxr%2FGLP-1-medicine.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://www.newindianexpress.com/states/karnataka/2026/Oct/04/glp-1-medicine-use-without-expert-advice-dangerous-doctors",
-                "source": "The New Indian Express",
-                "date": "2026-10-04T02:58:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Finnish town braces for change from Google data centres",
-                "desc": "In the northern Finnish town of Muhos, 36-year-old farmer Joni Pitkanen is preparing for life with a new neighbour -- just kilometers away, tech giant Google is planning to build new data centres.",
-                "image": "https://s.france24.com/media/display/8448e73a-bf9f-11f1-a1de-1ff0321dbbd3/w:1280/p:16x9/f4a231053ba399e14aba006cb0f09b4f28394959.jpg",
-                "url": "https://www.france24.com/en/live-news/20261004-finnish-town-braces-for-change-from-google-data-centres",
-                "source": "france24.com",
-                "date": "2026-10-04T02:58:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Finnish town braces for change from Google data centres",
-                "desc": "In the northern Finnish town of Muhos, 36-year-old farmer Joni Pitkanen is preparing for life with a new neighbour -- just kilometers away, tech giant Google is planning to build new data centres.The ...",
-                "image": "https://s.yimg.com/lo/mysterio/api/0577338c8804e2a931ae9394a6a090036b092b84ab6ba5bf23bad764a66cd2f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F20b627c6ec0a8cb17075e22a91d6d8e5.jpg",
-                "url": "https://www.yahoo.com/news/world/articles/finnish-town-braces-change-google-025627359.html",
-                "source": "Yahoo",
-                "date": "2026-10-04T02:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Norman’s Proppa Pies",
-                "desc": "Honouring his navy chef grandfather’s knack for baking shepherd and cottage pies, co-owner Dave Pannell has brought a good ol’ fashioned pie shop to the bayside suburb.",
-                "image": "https://static.ffx.io/images/$zoom_0.2119%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_51/t_crop_custom/q_86%2Cf_auto/t_metro_goodfood_no_label_no_age_social_wm/f5cd7d0f145d9230a3d9a02f69a485e89cd9828a",
-                "url": "https://www.theage.com.au/goodfood/melbourne-eating-out/get-proper-british-pies-at-a-new-bayside-bakery-plus-three-more-great-pie-shops-to-try-20261004-p611il.html",
-                "source": "The Age",
-                "date": "2026-10-04T02:38:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Viral squishy toys sold nationwide recalled over deadly hazard",
-                "desc": "Two types of viral squishy toys sold nationwide were recalled this week because of a potentially deadly hazard to children.",
-                "image": "https://media.nbcchicago.com/2026/10/split-2-diagonal-1200x675-23.jpg?quality=85&strip=all&resize=1200%2C675",
-                "url": "https://www.nbcchicago.com/news/local/2-types-of-viral-squishy-toys-sold-nationwide-recalled-over-potentially-deadly-hazard/3997458/",
-                "source": "NBC 5 Chicago",
-                "date": "2026-10-04T02:33:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump tariffs a mixed bag for U.S. auto industry",
-                "desc": "Trump has claimed a “roaring comeback” in U.S. auto manufacturing following aggressive trade policy, but analysts say its more of a mixed bag.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/04/566562.JPG?v=3.1",
-                "url": "https://www.japantimes.co.jp/business/2026/10/04/companies/trump-tariffs-us-auto-industry/",
-                "source": "The Japan Times",
-                "date": "2026-10-04T02:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "1 Unstoppable Cryptocurrency to Buy Before It Soars Over 250%, According to Wall Street Analysts",
-                "desc": "As investors look for ways to diversify, Bitcoin could soar to new highs.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879564%2Fsmiling-man-looks-at-tablet.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/10/03/1-unstoppable-cryptocurrency-to-buy-before-it-soar/",
-                "source": "The Motley Fool",
-                "date": "2026-10-04T02:04:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthropic says its AI models could manipulate, blackmail and harm humans",
-                "desc": "Anthropic disclosed that its advanced artificial intelligence technology poses \"existential risks to humanity\" in an initial public offering document.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/02/4141020.jpg",
-                "url": "https://www.thestar.com.my/tech/tech-news/2026/10/04/anthropic-says-its-ai-models-could-manipulate-blackmail-and-harm-humans",
-                "source": "The Star",
-                "date": "2026-10-04T02:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Secret Way Airbus A380 Crew Can Escape From Their Rest Areas",
-                "desc": "Why does Qantas leave one seat missing on its Airbus A380? The strange gap hides an escape hatch created by a little-known EASA safety requirement.",
-                "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/missing-floor-panel.png?w=1600&h=900&fit=crop",
-                "url": "https://simpleflying.com/secret-way-airbus-a380-crew-escape-rest-areas/",
-                "source": "simpleflying.com",
-                "date": "2026-10-04T02:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UNSW study reveals how ‘drunk’ AI chatbots can be made to spill secrets",
-                "desc": "How do you get an artificial intelligence bot drunk?",
-                "image": "https://content.api.news/v3/images/bin/83912d16c3b37535d69e9e21a743d561",
-                "url": "https://www.news.com.au/technology/sydney-researchers-reveal-how-making-ai-bots-drunk-exposes-major-cybersecurity-safety-flaws/news-story/52cf24594dfe584a0ee6faba03550a15",
-                "source": "News.com.au",
-                "date": "2026-10-04T01:58:05Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "vivo V80 Lite 5G launches in Singapore with massive 10,000mAh battery",
+                "desc": "The vivo V80 Lite 5G is built around a 10,000mAh battery while still keeping the phone relatively slim and portable.",
+                "image": "https://futr.sg/wp-content/uploads/2026/09/post-03.jpg",
+                "url": "https://futr.sg/2026/10/05/vivo-v80-lite-5g-launches-in-singapore-with-massive-10000mah-battery/",
+                "source": "futr singapore",
+                "date": "2026-10-05T14:30:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Senua At Risk Of Cancellation As Ninja Theory Employees Announce They've Left The Studio",
+                "desc": "\"It’s incredibly sad knowing that we won’t get to finish...\" - Back in late September, Xbox warned that Ninja Theory (known for the Hellblade games) coul...",
+                "image": "https://images.purexbox.com/fac60ebda8a48/1280x720.jpg",
+                "url": "https://www.purexbox.com/news/2026/10/senua-at-risk-of-cancellation-as-ninja-theory-employees-announce-theyve-left-the-studio",
+                "source": "Pure Xbox",
+                "date": "2026-10-05T14:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OCR feature is now available in pdfFiller, making scanned PDFs instantly editable",
+                "desc": "BOSTON, Oct. 05, 2026 (GLOBE NEWSWIRE) -- pdfFiller , the online PDF editing and document management platform owned by airSlate, has announced t...",
+                "image": "https://markets.businessinsider.com/favicon-32x32.png",
+                "url": "https://markets.businessinsider.com/news/stocks/ocr-feature-is-now-available-in-pdffiller-making-scanned-pdfs-instantly-editable-1036597206",
+                "source": "markets.businessinsider.com",
+                "date": "2026-10-05T14:29:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Test Antivirus Software Like a Lab: 13 Steps, 90 Min [2026]",
+                "desc": "Learn to test antivirus software like AV-TEST labs: EICAR checks, ransomware sims, and how the best free antivirus picks score in 2026.",
+                "image": "https://tech-insider.org/ca/wp-content/uploads/sites/7/2026/06/favicon-tech-512-150x150.png",
+                "url": "https://tech-insider.org/ca/test-antivirus-software-like-a-lab-2026/",
+                "source": "tech-insider.org",
+                "date": "2026-10-05T14:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "On the 15th Anniversary of Steve Jobs' Death, Tim Cook and New CEO John Ternus Both Pay Tribute",
+                "desc": "October 5, 2026, marks the 15th anniversary of Apple co-founder Steve Jobs' passing. Current CEO Tim Cook and newly appointed CEO John Ternus each…",
+                "image": "https://img.biggo.com/y-J5HFWKw8NgJkPYrvRNgXCW56rI1xomXOOx_L3Sk7A/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2JiMWNlZDJkLTg3YWMtNGY5YS1iZDFjLTJkNjg4M2YwNGFjMl8xNzkxMjEwNTk4X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/bb1ced2d-87ac-4f9a-bd1c-2d6883f04ac2",
+                "source": "finance.biggo.com",
+                "date": "2026-10-05T14:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 age rating reveal includes gruesome gameplay details",
+                "desc": "With just one month to go until Grand Theft Auto 6, the game's PEGI age rating has revealed some gory details about the game's violence.",
+                "image": "https://images.immediate.co.uk/production/volatile/sites/3/2026/10/GTA-6-age-rating-reveal-gruesome-gameplay-details-d394954.jpg?resize=1200%2C630",
+                "url": "https://www.radiotimes.com/technology/gaming/gta-6-age-rating-reveal-gameplay-details-newsupdate/",
+                "source": "Radio Times",
+                "date": "2026-10-05T14:24:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zelda and Banjo Recompiled Devs Go To War With AI Vibe-Coded 'Slopcomps'",
+                "desc": "AI-assisted projects provoking stark criticism",
+                "image": "https://kotaku.com/app/uploads/2026/10/Banjo.jpg",
+                "url": "https://kotaku.com/zelda-and-banjo-recompiled-devs-go-to-war-with-ai-vibe-coded-slopcomps-2000739936",
+                "source": "Kotaku",
+                "date": "2026-10-05T14:22:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone 18 Pro Max vs OPPO Find X10 Pro Max: Real Price Gap",
+                "desc": "iPhone 18 Pro Max vs OPPO Find X10 Pro Max in 2026: the $340 price gap vanishes in Europe. We compare price, cameras, battery, speed, and updates.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/10/The-340-Gap-Between-the-iPhone-18-Pro-Max-and-OPPO-Find-X10-Pro-Max-Doesnt-Exist.jpg",
+                "url": "https://memeburn.com/iphone-18-pro-max-vs-find-x10-pro-max/",
+                "source": "Memeburn",
+                "date": "2026-10-05T14:21:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Maven Expands Beyond Filters With Clever New Talon Series Folding Lights",
+                "desc": "Long before Maven launched its magnetic filters, it was working on a folding light concept. Seven years later, it's finally ready.",
+                "image": "https://petapixel.com/assets/uploads/2026/10/maven-talon-2.jpg",
+                "url": "https://petapixel.com/2026/10/05/maven-expands-beyond-filters-with-clever-new-talon-series-folding-lights/",
+                "source": "PetaPixel",
+                "date": "2026-10-05T14:20:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Heat-induced nanoscale structures unlock electromechanical properties in ceramics",
+                "desc": "Scientists have developed a new way to make ceramic materials that can better withstand extreme heat and continue performing reliably in sensors and actuators. The approach creates tiny structures throughout the material that give it new electrical and mechanical properties.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/new-study-reveals-how-19.jpg",
+                "url": "https://phys.org/news/2026-10-nanoscale-electromechanical-properties-ceramics.html",
+                "source": "Phys.org",
+                "date": "2026-10-05T14:20:07Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Best headphone deal: Save $40 on the Bose QuietComfort 2nd gen headphones",
                 "desc": "Get the new Bose QuietComfort Headphones (2nd Gen) on sale for $319 at Amazon. Save $40 across all colorways on Mashable's top-rated comfortable ANC headphones.",
@@ -1174,99 +1264,99 @@
                 "source": "Tom's Guide",
                 "date": "2026-10-04T05:36:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Rockstar President declined a major interview about GTA VI - it had been agreed upon for several years",
-                "desc": "At the last moment, plans sharply changed.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1380159/media-d7648efd618403f5f892cc27b06e0ec6c44936e7cc6d25191d4c83c71a498741.png",
-                "url": "https://ixbt.games/en/news/2026/10/03/prezident-rockstar-otkazalsia-ot-bolsogo-interviu-o-gta-vi-ego-soglasovyvali-neskolko-let.html",
-                "source": "ixbt.games",
-                "date": "2026-10-04T02:57:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Analysts calculated The Witcher 3 remaster sales for the first day",
-                "desc": "The release of the updated version attracted new players.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1380155/media-ab329db273df9dc0a834afa61be85ca80a6cedcbd60348a330ec7a19796a481c.png",
-                "url": "https://ixbt.games/en/news/2026/10/03/analitik-poscitali-prodazi-remastera-the-witcher-3-za-sutki.html",
-                "source": "ixbt.games",
-                "date": "2026-10-04T02:48:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gemini’s free tier is getting a major downgrade on October 9",
-                "desc": "Google is cutting free access to Gemini 3.1 Pro and 3.6 Flash, leaving non-paying users with Flash-Lite from October 9.",
-                "image": "https://www.digitaltrends.com/tachyon/2026/09/Gemini-App-on-Pixel-11-Pro-XL-scaled.jpg?resize=1200%2C630",
-                "url": "https://www.digitaltrends.com/computing/geminis-free-tier-is-getting-a-major-downgrade-on-october-9/",
-                "source": "Digital Trends",
-                "date": "2026-10-04T02:39:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Director Mode- an iOS app for multicamera productions",
-                "desc": "Director Mode is an upcoming iOS app for multicamera productions. It was designed by Claudio Ripalti, a filmmaker and lighting engineer based in Florence",
-                "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/artwork_16_9_001.jpeg",
-                "url": "https://www.newsshooter.com/2026/10/03/director-mode-an-ios-app-for-multicamera-productions/",
-                "source": "Newsshooter",
-                "date": "2026-10-04T02:39:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro Delivers 47 Hours of Battery Life; Variable Aperture Expands Shooting Range",
-                "desc": "Apple's iPhone 18 Pro demonstrated battery performance of up to 47 hours on a single charge. The 48-megapixel main camera features a variable aperture…",
-                "image": "https://img.biggo.com/NArovPTMWgjxxnNOwDsBabR-Dv0ITse1c71tESMLuqo/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2E1NjBkOTJhLTM3ZjAtNDg5Zi1hZDAwLTA5NTM2ODRkNDQzY18xNzkxMDgxNTMwX2RlZmF1bHQud2VicA.jpg",
-                "url": "https://finance.biggo.com/news/a560d92a-37f0-489f-ad00-0953684d443c",
-                "source": "finance.biggo.com",
-                "date": "2026-10-04T02:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 Gets Adult Rating? Know Who Can Play The Game",
-                "desc": "A GTA 6 18+ tag has surfaced across several regional storefronts, but age ratings like this function more as a content warning than an actual barrier stopping a 16-year-old from playing the game.",
-                "image": "https://media.assettype.com/esquireindia%2F2026-10-01%2F6leddkmo%2FGTA-6-Adult-Game-18.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://www.esquireindia.co.in/tech-and-auto/gaming/gta-6-gets-adult-rating-know-who-can-play-the-game",
-                "source": "Esquire India",
-                "date": "2026-10-04T02:28:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Star Trek: Voyager - Across the Unknown Drops Q Trials With Deep Dive",
-                "desc": "Star Trek: Voyager - Across the Unknown has released the new free Q Trials update, along with a deep dive video getting into it.",
-                "image": "https://bleedingcool.com/wp-content/uploads/2026/10/Star-Trek-Voyager-Across-the-Unknown-Q-Trials-2000x1125.jpg",
-                "url": "https://bleedingcool.com/games/star-trek-voyager-across-the-unknown-drops-q-trials-with-deep-dive/",
-                "source": "Bleeding Cool News",
-                "date": "2026-10-04T02:28:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Skyrim developers were amazed by audience behavior - every third player abandoned the main quest and went into the open world",
-                "desc": "Not everyone is interested in the story in Bethesda games.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1380149/media-33828030b20126a9d0a83076d0bb244ffa784cf2ceab141e0ca80740a10c76cd.png",
-                "url": "https://ixbt.games/en/news/2026/10/04/razrabotciki-skyrim-byli-porazeny-povedeniem-30-igrokov-oni-srazu-brosali-proxozdenie-siuzeta-i-uxodili-v-otkrytyi-mir.html",
-                "source": "ixbt.games",
-                "date": "2026-10-04T02:27:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huawei Mate 90 Pro Max vs iPhone 18 Pro Max: LOFIC Camera HDR Battle",
-                "desc": "A viral camera comparison between the Huawei Mate 90 Pro Max and iPhone 18 Pro Max shows why LOFIC sensor tech gives Android a massive lead in HDR photography. - Read in Android News on NPowerUser",
-                "image": "https://nokiapoweruser.com/wp-content/uploads/2026/10/Huawei-Just-Cooked-Apple-in-Camera-HDR-The-Tech-That-Made-It-Possible.jpg",
-                "url": "https://nokiapoweruser.com/huawei-mate-90-pro-max-vs-iphone-18-pro-max-lofic-hdr/",
-                "source": "nokiapoweruser.com",
-                "date": "2026-10-04T02:25:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia Launches DGX Spark With Half the Memory at $4,999 - Price Actually Goes Up",
-                "desc": "Nvidia will launch a derivative model of its personal AI workstation, the DGX Spark, with unified memory cut to 64GB on October 23, priced at $4,999.…",
-                "image": "https://img.biggo.com/jjOxuzIzw63EjfSGyJ8wsEwd_581zdk3YT5n8Ka3hig/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzNkMzUxZDczLTE0NDYtNGE0MS1hODczLTQxYmJmOTJkYjkxYV8xNzkxMDgwOTE3X2RlZmF1bHQud2VicA.jpg",
-                "url": "https://finance.biggo.com/news/3d351d73-1446-4a41-a873-41bbf92db91a",
-                "source": "finance.biggo.com",
-                "date": "2026-10-04T02:25:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "UK insists RAF Fairford is safe after US withdraws bombers",
+                "desc": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen",
+                "image": "https://cdn.radioafrica.digital/image/2026/10/744e4fb4-a582-4c89-a4ff-099987bc839c.webp?1791222388253",
+                "url": "https://www.the-star.co.ke/news/world/2026-10-05-uk-raf-fairford-safe-after-us-withdrew-bombers",
+                "source": "the-star.co.ke",
+                "date": "2026-10-05T14:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aga Khan Foundation launches $500M drive to turn Indian Ocean restoration into economic opportunity",
+                "desc": "London, Oct. 05, 2026 (GLOBE NEWSWIRE) -- The Aga Khan Foundation (AKF) is launching ReGeneration, a major ten-year initiative designed to tackl...",
+                "image": "https://markets.businessinsider.com/favicon-32x32.png",
+                "url": "https://markets.businessinsider.com/news/stocks/aga-khan-foundation-launches-500m-drive-to-turn-indian-ocean-restoration-into-economic-opportunity-1036597146",
+                "source": "markets.businessinsider.com",
+                "date": "2026-10-05T14:29:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa ICT regulators to tackle AI, cyber risks in Nairobi",
+                "desc": "The scale of Africa’s digital transformation underscores the urgency",
+                "image": "https://cdn.radioafrica.digital/image/2026/10/9a901073-30ba-4359-b450-d004df45c10a.webp?1791213231736",
+                "url": "https://www.the-star.co.ke/business/kenya/2026-10-05-africa-ict-regulators-to-tackle-ai-cyber-risks-in-nairobi",
+                "source": "the-star.co.ke",
+                "date": "2026-10-05T14:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "28,000 feet descent and back: Chicago-bound British Airways flight squawks 7700 emergency over Ireland, returns to London",
+                "desc": "A British Airways flight (BA925) from London to Chicago declared an emergency over Ireland due to a rapid loss of altitude",
+                "image": "https://img.theweek.in/content/dam/week/en/archive/news/world/images/2026/10/5/british-airways.jpg",
+                "url": "https://www.theweek.in/news/world/2026/10/05/british-airways-emergency-ireland.html",
+                "source": "theweek.in",
+                "date": "2026-10-05T14:28:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "“We are at war with Russia, but we do not want to admit it to ourselves”",
+                "desc": "In my opinion, a positive aspect is that Ukrainians have spared us from the scenario of a full-scale military invasion: long-range drone strikes on Russian territory have inflicted such serious damage on Russia that it has - at least for a while -",
+                "image": "https://news.inbox.eu/w/img/98/51/9851f2eb5154c3ebec.webp",
+                "url": "https://news.inbox.eu/150tze8-we-are-at-war-with-russia-but-we-do-not-want-to-admit-it-to-ourselves?language=en&source=portal",
+                "source": "Inbox.eu",
+                "date": "2026-10-05T14:27:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IRGC spox shares Iran plans to expand missile range",
+                "desc": "The IRGC spokesperson shared that “during this war, we reached the conclusion that we definitely need to increase the range of our missiles, and we have now moved in this direction.”",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730071",
+                "url": "https://www.jpost.com/middle-east/article-910679",
+                "source": "The Jerusalem Post",
+                "date": "2026-10-05T14:27:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oman Announces Conditions for Foreigners to Get a One",
+                "desc": "Do you want to travel to Oman for tourism? Oman has listed key requirements for foreigners who want to get a one-year tourist visa to the country.",
+                "image": "https://cdn.legit.ng/images/1200x675/9a6894748d24b453.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1734391-oman-lists-conditions-foreigners-a-year-tourist-visa/",
+                "source": "Legit News",
+                "date": "2026-10-05T14:27:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spain Lists 4 Categories of Foreigners Who Can Obtain Citizenship by Option",
+                "desc": "Discover who qualifies for Spanish citizenship through the option pathway, with four eligible groups, deadlines and where overseas applicants file declarations.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/f864a83a4f44751f.jpeg?v=1",
+                "url": "https://yen.com.gh/world/europe/313219-spain-lists-4-categories-foreigners-obtain-citizenship-by-option/",
+                "source": "Yen.com.gh",
+                "date": "2026-10-05T14:27:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nobel medicine prize honours US and German scientists for optogenetics work",
+                "desc": "The winners of the Nobel Prizes in physics, chemistry, literature, peace and ‌economics will be announced in the week.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac38b11394d4-1791200017.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/10/5/nobel-medicine-prize-honours-us-and-german-scientists-for-optogenetics-work",
+                "source": "Al Jazeera",
+                "date": "2026-10-05T14:26:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aga Khan Foundation launches $500M drive to turn Indian Ocean restoration into economic opportunity",
+                "desc": "GlobeNewswire, Government News, Partnerships, Press releases | London, Oct. 05, 2026 (GLOBE NEWSWIRE) -- The Aga Khan Found",
+                "image": "https://macaubusiness.com/favicon.ico",
+                "url": "https://macaubusiness.com/aga-khan-foundation-launches-500m-drive-to-turn-indian-ocean-restoration-into-economic-opportunity/",
+                "source": "Macau Business",
+                "date": "2026-10-05T14:23:19Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Almaty markets mountain-and-city appeal to APAC corporates",
                 "desc": "TTGmice is dedicated to delivering pertinent insights on Asia-Pacific�s MICE developments. Its award-winning editorials and intelligence analysis makes this leading business resource a key read by MICE professionals across diverse industry sectors throughout the region.",
@@ -1806,98 +1896,8 @@
                 "source": "Defence24.com",
                 "date": "2026-10-04T06:00:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Three male students detained over murder of schoolgirl Irene Sofiya",
-                "desc": "BATU PAHAT, Oct 4 — Police have detained three 16-year-old male students in connection with the alleged murder of a Form Four student whose body was discovered at a school in...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/04/366221.jpg",
-                "url": "https://www.malaymail.com/news/malaysia/2026/10/04/three-male-students-detained-over-murder-of-schoolgirl-irene-sofiya/237608",
-                "source": "Malay Mail",
-                "date": "2026-10-04T02:59:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "We Don't Do Background Checks",
-                "desc": "Dozens of Omani pilots have reportedly flown to Tel Aviv in recent years on flydubai flights, despite Israel's ban on pilots from unfriendly states.",
-                "image": "https://c.ndtvimg.com/2026-10/51r7jrc8_flydubai-_625x300_04_October_26.jpeg",
-                "url": "https://www.ndtv.com/world-news/israeli-ministry-amid-flydubai-probe-smit-machchhar-we-dont-do-background-checks-12135819",
-                "source": "ndtv.com",
-                "date": "2026-10-04T02:58:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vietnam, South Africa seek to unlock economic potential",
-                "desc": "Vietnam and South Africa are looking to tap greater potential in trade and investment, with their complementary strengths opening opportunities in manufacturing, technology, energy, agriculture and mineral processing.",
-                "image": "https://image.sggp.org.vn/1200x630/Uploaded/2026/bhgkqzbtgazs/2026_10_04/africa-7166-2006.jpg",
-                "url": "https://en.sggp.org.vn/vietnam-south-africa-seek-to-unlock-economic-potential-post130093.html",
-                "source": "SGGP English Edition",
-                "date": "2026-10-04T02:57:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘You’re coming in blind?’ Chilling audio before medical jet carrying 6 vanished over Atlantic",
-                "desc": "A medical evacuation jet disappeared over the Atlantic after reporting an emergency and electrical problems, losing radio and radar contact while",
-                "image": "https://static.toiimg.com/thumb/msid-134669071,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/youre-coming-in-blind-chilling-audio-before-medical-jet-carrying-6-vanished-over-atlantic/articleshow/134669054.cms",
-                "source": "The Times of India",
-                "date": "2026-10-04T02:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Myanmar migrants returned to war-torn nation from Malaysia",
-                "desc": "Three ships carrying Myanmar migrants had all docked at the Myanmar Navy base in Thanlyin on Oct 4 morning.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--RQp-4b0d--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/04/000_d26w8cp.jpg?itok=5t9lcg3m",
-                "url": "https://www.channelnewsasia.com/asia/myanmar-migrants-malaysia-refugee-repatriation-6430341",
-                "source": "channelnewsasia.com",
-                "date": "2026-10-04T02:52:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Plane vanishes from Bermuda to Boston: Six people missing",
-                "desc": "Six people are missing after a private jet vanished en route from Bermuda to Boston, sparking a major search off the coast of Nantucket in the US.",
-                "image": "https://content.api.news/v3/images/bin/8b2e6b778f963f479ab449f547f15a29",
-                "url": "https://www.news.com.au/travel/travel-updates/incidents/6-people-missing-as-plane-vanishes-from-bermuda-to-boston/news-story/938556243758050cd4d29a8fbe291d2f",
-                "source": "News.com.au",
-                "date": "2026-10-04T02:51:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Philippines arrests 244 'mostly Chinese' workers and several Malaysians in online scam crackdown",
-                "desc": "MANILA: Philippines authorities have arrested more than 200 \"mostly Chinese\" foreign workers in the country's largest crackdown on illegal online gaming operators this year, the immigration bureau said.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/04/4143590.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/04/philippines-arrests-244-039mostly-chinese039-workers-and-several-malaysians-in-online-scam-crackdown",
-                "source": "The Star",
-                "date": "2026-10-04T02:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cornell president calls alleged gang rape 'deeply disturbing'",
-                "desc": "In an eight-minute video message to the Cornell community, he described the past week as one of the most difficult in the university’s history and acknowledged troubling questions.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/pedestrians-walk-on-the-campus-at-cornell-university-in-itha-LZE2OI4BWJASPMKMFGLGD6VKP4.jpg?auth=e0c1b616c4a9aec8b60b831ca12d0bf23ef10ac38ade021bae23709769d71ee3&quality=70&width=600&height=315&focal=4032%2C2383",
-                "url": "https://www.1news.co.nz/2026/10/04/cornell-president-calls-alleged-gang-rape-deeply-disturbing/",
-                "source": "1News",
-                "date": "2026-10-04T02:42:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Princess Sirivannavari presides over Thai festival opening in Paris",
-                "desc": "PARIS: Princess Sirivannavari Nariratana Rajakanya presided over the opening of the Thai festival \"Tout à fait Thaï 2026\" at Parc de Bagatelle in Paris on Saturday (Oct 3).",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/04/4143586.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/04/princess-sirivannavari-presides-over-thai-festival-opening-in-paris",
-                "source": "thestar.com.my",
-                "date": "2026-10-04T02:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Explained: Why Are Students Protesting In France",
-                "desc": "The protests affect lycees, the schools where French teens have their last years of school aged from 15-18, the equivalent of high school in the United States and sixth form in the UK.",
-                "image": "https://c.ndtvimg.com/2026-10/jbv22pdc_france-protest_625x300_03_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-                "url": "https://www.ndtv.com/world-news/explained-why-are-students-protesting-in-france-12135794",
-                "source": "NDTV",
-                "date": "2026-10-04T02:41:10Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-05T22:28:46.882916Z"
+    "lastGlobalSync": "2026-10-06T02:31:48.047678Z"
 }
