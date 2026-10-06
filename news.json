@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "International Seaways Stock: Still A Buy Despite The Rapid Rise In Stock Price (NYSE:INSW)",
+                "desc": "International Seaways' H1 FY2026 TCE revenue and net income surged 104.7% and 422.5% YoY, driven by elevated spot charter rates. Read why INSW stock is a buy.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2268760213/image_2268760213.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4952143-international-seaways-still-buy-despite-rapid-rise-stock-price",
+                "source": "Seeking Alpha",
+                "date": "2026-10-06T09:14:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Time series modeling and anomaly removal for Wikipedia web traffic prediction",
+                "desc": "Accurate forecasting of web traffic is essential for a web service provider who wants to manage infrastructure resources and decision-making processes. Internet users rely heavily on Wikipedia articles for information, and over the past few years, the usage of Wikipedia has increased significantly. Several forecasting and prediction models for specific web page traffic have been published previously that include statistical and deep learning methods. The web traffic data modeling of Wikipedia pages is challenging due to high dimensionality, seasonality, anomalies, and missing values. These anomalies, if left undetected, can adversely affect the overall performance of time series models. In this research, a comprehensive methodology for web traffic prediction is proposed that integrates robust preprocessing, particularly anomaly detection and removal using Isolation Forest, with a comparative analysis of eight time series forecasting models, including ARMA, ARIMA, Auto ARIMA, Exponential Smoothing, Prophet, LSTM, BiLSTM, and MA. The dataset for this research is a Kaggle competition dataset, and Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE), and Mean Absolute Error (MAE) are utilized as the evaluation metrics to measure the model’s performance. The findings indicate that the Moving Average model performs better for this dataset when evaluated using RMSE, MAPE, and MAE value (percentage deviation) as compared to other models. A comparison of eight time series model performances is presented based on the Wikipedia dataset, which comprises 145,000 articles.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-73011-x?error=cookies_not_supported&code=d70f0e97-5460-4f9d-bd9d-9d4d36efe829",
+                "source": "Nature",
+                "date": "2026-10-06T09:11:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google reportedly nears $1bn-plus nuclear power deal with Constellation",
+                "desc": "Google is close to a multi-year deal to pay Constellation Energy $1bn or more for nuclear power, Bloomberg reports, and it could come this week.",
+                "image": "https://media.thenextweb.com/2026/08/Alphabet-company.jpg",
+                "url": "https://thenextweb.com/news/google-constellation-nuclear-power-deal",
+                "source": "The Next Web",
+                "date": "2026-10-06T09:11:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK events firm that hosts arms fairs and comic shows sold to rival for £2bn",
+                "desc": "FTSE 100 firm Informa to buy Clarion from private equity group Blackstone",
+                "image": "https://i.guim.co.uk/img/media/d85fac993754e63617faff48f5be328aa9811ca1/137_0_6834_5471/master/6834.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=198dba09cb201a75c38979edc6b54a53",
+                "url": "https://www.theguardian.com/business/2026/oct/06/informa-buy-clarion-blackstone-ftse-100",
+                "source": "The Guardian",
+                "date": "2026-10-06T09:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poland to expand joint VAT liability from 2027 - RMF24",
+                "desc": "From January 1, 2027, Poland will extend joint and several VAT liability to buyers of certain intangible services, subject to specified conditions and thresholds.",
+                "image": "https://cdn-cabinet.ua.news/uploads/images/poland_expands_joint_vat_liability_from_1791277573181.webp",
+                "url": "https://ua.news/en/finansi/u-polshchi-z-2027-roku-rozshiriat-solidarnu-vidpovidalnist-za-pdv-rmf24",
+                "source": "ua.news",
+                "date": "2026-10-06T09:10:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Roborock's Stellar Lineup of Robot Vacuums Will Have Your Floors in Prime Condition, With Record-Low Prices for Prime Day",
+                "desc": "The Fall Prime Day sale event brings savings of up to $1,600 on the best vacuum-mop combo floor cleaning machines.",
+                "image": "https://gizmodo.com/app/uploads/2026/09/Roborock-Amazon-PBDD-2026-1200x675.jpg",
+                "url": "https://gizmodo.com/roborocks-stellar-lineup-of-robot-vacuums-will-have-your-floors-in-prime-condition-with-record-low-prices-for-prime-day-2000812942",
+                "source": "Gizmodo",
+                "date": "2026-10-06T09:10:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Equinor CEO says Rosebank, Jackdaw rejection would be major setback",
+                "desc": "LONDON, Oct 6 (Reuters) - Failure to secure approval for the Rosebank and Jackdaw projects would be a major setback for Equinor's Adura joint venture with Shell in the North Sea, Equinor CEO Anders Opedal said on Tuesday.",
+                "image": "https://live.euronext.com/favicon.ico",
+                "url": "https://live.euronext.com/en/financial-news/equinor-ceo-says-rosebank-jackdaw-rejection-would-be-major-setback",
+                "source": "Euronext Markets",
+                "date": "2026-10-06T09:07:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fresh grads taking longer to secure jobs, retrenched workers finding it harder to land new jobs: Jasmin Lau",
+                "desc": "The decline in the re-entry rate was most pronounced among clerical, sales and service workers, tertiary-educated residents and those aged below 30.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--t2rkWfzN--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/21/20260921-jk-cbd_workers_generics-05.jpg?itok=gnUHjyfl",
+                "url": "https://www.channelnewsasia.com/singapore/retrenchments-jobs-fresh-graduates-labour-market-6435696",
+                "source": "CNA",
+                "date": "2026-10-06T09:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Bank raises Africa's 2026 growth forecast, urges AI investments",
+                "desc": "The World Bank has raised Africa's 2026 economic growth forecast to 4.3%, citing ‌stronger performance across the region, and urged governments to embrace artificial intelligence to boost productivity and create jobs.",
+                "image": "https://www.reuters.com/resizer/v2/RCGOKPWZY5KC5DZ2XWA4M3XTCY.jpg?auth=dbf06c1fd754513d7eff713b02820d9c236cf0b6097ce69a4aa49928b4efaff6&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/africa/world-bank-raises-africas-2026-growth-forecast-urges-ai-investments-2026-10-06/",
+                "source": "Reuters",
+                "date": "2026-10-06T09:05:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US fashion brand Gap unveils AI-powered shopping experiences",
+                "desc": "Gap Inc has unveiled AI-powered conversational discovery and personalised styling tools for Old Navy, Gap and Banana Republic at its SF Tech Week Kickoff, extending its digital...",
+                "image": "https://static.fibre2fashion.com/Newsresource/images/313/shutterstock-1396758569_325573.jpg",
+                "url": "https://www.fibre2fashion.com/news/fashion-announcement-news/us-fashion-brand-gap-unveils-ai-powered-shopping-experiences-313996-newsdetails.htm",
+                "source": "Fibre2Fashion",
+                "date": "2026-10-06T09:04:43Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Covid-era bargains in largecaps, bull market valuations in smallcaps: Where is the real opportunity in stocks?",
                 "desc": "Indian equities are split sharply between largecaps and smaller stocks. The Nifty is down 14% in 2026, while midcaps have fallen just 2%, smallcaps have gained 8% and microcaps 15%. Record FPI selling of ₹2.8 lakh crore has hit largecaps hardest, making beaten-down largecaps look relatively attractive while elevated smallcap valuations leave little room for earnings disappointment.",
                 "image": "https://img.etimg.com/thumb/msid-134722832,width-1200,height-900,imgsize-2493509,overlay-etmarkets/articleshow.jpg",
@@ -542,99 +632,99 @@
                 "source": "Nine.com.au",
                 "date": "2026-10-04T18:22:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "DLF sells out The Aureva luxury retirement project for ₹1,985 crore",
-                "desc": "DLF Limited sold out The Aureva retirement housing project for approximately ₹1,985 crore. The development comprises 172 luxury 4 BHK residences with staff dormitories in Gurugram. Total saleable area exceeds 7.5 lakh square feet across 4.17 acres. Average ticket size per unit stands at approximately ₹11.54 crore based on disclosed figures. Project features integrated healthcare, hospitality services, and wellness amenities.",
-                "image": "https://news-images.dhan.co/dlf-sells-out-aureva-luxury-retirement-project-1-985-crore.jpg",
-                "url": "https://scanx.trade/stock-market-news/real-estate/dlf-sells-out-aureva-luxury-retirement-project-1-985-crore/52653216",
-                "source": "scanx.trade",
-                "date": "2026-10-04T12:45:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "7 midcap stocks with rising EPS for four straight quarters. Are they in your portfolio?",
-                "desc": "Consistently increasing quarterly earnings per share (EPS) indicates an improvement in a company’s earnings on a per-share basis over time. In the NSE midcap segment, seven companies have recorded an increase in EPS for four consecutive quarters, with each quarter’s EPS higher than the previous quarter, through the June 2026 quarter, according to profitability scan data from StockEdge.com. Earnings Momentum",
-                "image": "https://img.etimg.com/thumb/msid-134670681,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/7-midcap-stocks-with-rising-eps-for-four-straight-quarters-are-they-in-your-portfolio/earnings-momentum/slideshow/134670681.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-10-04T12:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Real Estate Mogul Gives Up Bentley After Tesla's Self-Driving Experience, Calls It \"Life-Changing\"",
-                "desc": "In an Instagram video, Oppenheim showed himself using the feature during a journey from Newport Beach to his company's office in Los Angeles.",
-                "image": "https://c.ndtvimg.com/2026-10/3lp9gd84_jason-oppenheim_625x300_04_October_26.jpeg",
-                "url": "https://www.ndtv.com/feature/us-real-estate-mogul-gives-up-bentley-after-teslas-self-driving-experience-calls-it-life-changing-12137416",
-                "source": "NDTV",
-                "date": "2026-10-04T12:42:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The incredible new world's biggest building - costing £90bn to build",
-                "desc": "The huge building will dwarf a structure that has its own weather.",
-                "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7172443.jpg",
-                "url": "https://www.express.co.uk/news/world/2254312/incredible-new-worlds-biggest-building",
-                "source": "Daily Express",
-                "date": "2026-10-04T12:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Solana Co.'s Joseph Chee Tells the Wall Street Journal: China Will Find a Way to Manage Crypto. What Happens If China Reopens?",
-                "desc": "Solana Co.'s Joseph Chee states that China will find a way to manage crypto despite its ban. Here's what a reopening could mean for SOL.",
-                "image": "https://247wallst.com/wp-content/uploads/2024/07/shutterstock-1974010280-huge-licensed-scaled.jpg",
-                "url": "https://247wallst.com/investing/cryptocurrency/2026/10/04/solana-co-s-joseph-chee-tells-the-wall-street-journal-china-will-find-a-way-to-manage-crypto-what-happens-if-china-reopens/",
-                "source": "24/7 Wall St.",
-                "date": "2026-10-04T12:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More power or more gauges? How the sports car market has become divided",
-                "desc": "Technology has \"slowly hacked away at the soul of the sports car,\" one analyst said.",
-                "image": "https://i.abcnewsfe.com/a/c959046a-bf1a-4f8d-92eb-894be93c8689/GordonMurray-ht-gmh-260929_1790705809514_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/Business/power-gauges-sports-car-market-become-divided/story?id=136848254",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-10-04T12:34:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "M&S’ Munch tin range release brand",
-                "desc": "The M&S Munch tin range is a sweet and salty mix that's fast becoming a new Christmas favourite.",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/c0f681af-5864-4ee1-b060-d6c81f358c27.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-                "url": "https://www.goodhousekeeping.com/uk/food/a74011473/ms-gimme-smore-munch-tin/",
-                "source": "Good Housekeeping",
-                "date": "2026-10-04T12:33:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fund manager charges are taking a chunk out of my retirement fund",
-                "desc": "Average charges for an Approved Retirement Fund are around 1% but better deals are available if you shop around",
-                "image": "https://www.irishtimes.com/resizer/v2/YR2HLYFSLZFWXOLBW6XLTUUQ2I.jpg?smart=true&auth=aec824555feafbb59f2a83bc51553646d9cdde036356263c05da04d450305e22&width=1200&height=630",
-                "url": "https://www.irishtimes.com/your-money/2026/10/04/fund-manager-charges-are-taking-a-chunk-out-of-my-retirement-fund/",
-                "source": "The Irish Times",
-                "date": "2026-10-04T12:30:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India to build domestic capacity in import-dependent sectors, rare-earth magnets in focus: Shaktikanta Das",
-                "desc": "Principal Secretary-2 to PM says structural reforms will continue alongside efforts to strengthen macroeconomic and financial stability",
-                "image": "https://images.moneycontrol.com/static-mcnews/2024/12/20241209060841_Shaktikanta-Das-pic-new.jpg",
-                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/economy/policy/india-to-build-domestic-capacity-in-import-dependent-sectors-rare-earth-magnets-in-focus-shaktikanta-das-14044223.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-10-04T12:26:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man speaks out for first time after demolishing half of neighbour's semi-detached house",
-                "desc": "Chris Rhodes has insisted that he didn't do anything wrong",
-                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltbd93c63551da11e2/6ac244f7d0ff58c4dc2a08bc/image.png",
-                "url": "https://www.ladbible.com/news/uk-news/house-demolition-man-speaks-out-277799-20261004",
-                "source": "ladbible.com",
-                "date": "2026-10-04T12:25:33Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "German Utility Sells a \"Gaming\" Electricity Plan for Gamers and Power Users",
+                "desc": "German utility SWK Energie, the municipal power company of Krefeld, is selling an electricity plan aimed squarely at gamers. It's called meinGAMING, and the pitch is simple enough: a higher fixed monthly fee in exchange for a lower price per kilowatt-hour. SWK says the plan starts to make sense...",
+                "image": "https://www.techpowerup.com/img/nkhko7Dt7hQMjpDH.jpg",
+                "url": "https://www.techpowerup.com/353413/german-utility-sells-a-gaming-electricity-plan-for-gamers-and-power-users?cp=2",
+                "source": "TechPowerUp",
+                "date": "2026-10-06T09:15:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Googlebook laptops now on sale: All five models, prices and specs",
+                "desc": "Googlebook laptops are now on sale from $899. Compare prices, specifications, displays, processors and battery life across all five models from Google partners.",
+                "image": "https://cdn-uz.kursiv.media/wp-content/uploads/2026/10/8536ebbd7af4df4c3df7.jpg",
+                "url": "https://uz.kursiv.media/en/2026-10-06/googlebook-laptops-models-prices-specs/",
+                "source": "Kursiv Media",
+                "date": "2026-10-06T09:15:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "After 12 years, Ultra Street Fighter IV gets not one, but two connection-stabilising rollback netcode mods aaaand they're both made using Claude",
+                "desc": "Two new mods adding connection-stabilising rollback netcode to Ultra Street Fighter IV appear, but both are made with generative AI.",
+                "image": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
+                "source": "Rock Paper Shotgun",
+                "date": "2026-10-06T09:14:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription",
+                "desc": "\"Luna players can jump into the single-player campaign the moment it launches without needing to own a console or wait for a lengthy download\"",
+                "image": "https://assetsio.gnwcdn.com/Star-Wars_-Galactic-Racer-Screenshot-9.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
+                "source": "GamesIndustry.biz",
+                "date": "2026-10-06T09:12:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here's when Siri AI may finally become available in the EU",
+                "desc": "It's not good news, unfortunately. One of the main new features of iOS 27 and iPadOS 27 is the new Siri AI, but this still isn't available in the EU,...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/siri-ai-eu-timeline/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/heres_when_siri_ai_may_finally_become_available_in_the_eu-news-74916.php",
+                "source": "GSMArena.com",
+                "date": "2026-10-06T09:12:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Tower Defense Game PixelHeroScramble Plus",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/New-Tower-Defense-Game-PixelHeroScramble-Plus",
+                "source": "Games Press",
+                "date": "2026-10-06T09:11:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to unlock Photo Mode in Star Wars: Galactic Racer explained",
+                "desc": "If you're wondering how to unlock Photo Mode, here is everything you need to know about how the mechanic works.",
+                "image": "https://images.immediate.co.uk/production/volatile/sites/3/2026/10/Untitled-design-40-1eaca00.png?resize=1200%2C630",
+                "url": "https://www.radiotimes.com/technology/gaming/photo-mode-galactic-racer-explained/",
+                "source": "radiotimes.com",
+                "date": "2026-10-06T09:11:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’",
+                "desc": "“If you can’t sell a thing, that means you don’t own a thing…",
+                "image": "https://www.videogameschronicle.com/files/2026/07/does-disc-of-a-game-take-up-less-space-than-its-digital-v0-b1diq4na4spa1.webp",
+                "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
+                "source": "Video Games Chronicle",
+                "date": "2026-10-06T09:08:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Kenda Velora Pulls Its Endurance Tires Into the Modern Age",
+                "desc": "The new premium endurance offering from the brand is built around durability, but that construction welcomes speed with an improved compound.",
+                "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/Kenda-Velora-Tires-4.jpg",
+                "url": "https://velo.outsideonline.com/road/road-gear/kenda-velora-endurance-review/?scope=anon",
+                "source": "Outside Magazine",
+                "date": "2026-10-06T09:07:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This Tool Strips AI Models From macOS, Freeing Up 12GB+ of Storage",
+                "desc": "With the release of macOS 27 Golden Gate, Apple removed the toggle to disable Apple Intelligence, so there is no official way to remove its models from your Mac.",
+                "image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
+                "url": "https://www.macrumors.com/2026/10/06/strip-apple-intelligence-from-macos-27/",
+                "source": "MacRumors",
+                "date": "2026-10-06T09:06:08Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "For Healthy Demand, Brands Stretch EMI Plans & Exercise Margin Control",
                 "desc": "Writankar Mukherjee Kolkata: Smartphone and consumer electronics makers are stretching equated monthly instalment (EMI) tenures to as long as 30 months this festive season-six to eight months more than usual-taking a hit on margins as they absorb the financing cost to cushion consumers from steep p…",
@@ -1174,99 +1264,99 @@
                 "source": "finance.biggo.com",
                 "date": "2026-10-04T18:16:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Capcom explained why it started the wave of Resident Evil remakes with the second part, and not with the original.",
-                "desc": "Producer Jun Takeuchi explained the choice of Resident Evil 2 over the first game for the remake by the original's excessive stoicism and the key role of the Raccoon City disaster.",
-                "image": "https://gamegpu.com/images/1_2026/NEWS/Q4/okt/2/Image_1mwvhm1mwvhm1mwv_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q4/okt/2/Image_1mwvhm1mwvhm1mwv_ggpu.webp?width=1920&height=1080",
-                "url": "https://en.gamegpu.com/news/igry/capcom-obyasnila-pochemu-nachala-volnu-remejkov-resident-evil-so-vtoroj-chasti-a-ne-s-originala",
-                "source": "en.gamegpu.com",
-                "date": "2026-10-04T12:45:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marvel’s Wolverine now reaches 20 FPS on PCs",
-                "desc": "Marvel's Wolverine PS5 emulation has moved beyond the 3-7 FPS range in a new KytyPS5 test. Peak performance now reaches 20 FPS, although sustained gameplay remains much slower.",
-                "image": "https://cdn.videocardz.com/1/2026/10/WOLVERINE-PC.webp",
-                "url": "https://videocardz.com/newz/marvels-wolverine-now-reaches-20-fps-on-pcs",
-                "source": "VideoCardz.com",
-                "date": "2026-10-04T12:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RuneScape Reignited launches 2 December",
-                "desc": "Jagex's RuneScape Reignited launches 2 December, giving players a new character type with a fresh economy, hiscores, and no paid progression.",
-                "image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-13.25.20.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/runescape-reignited-launch-date-2-december-economy-reset",
-                "source": "Eurogamer.net",
-                "date": "2026-10-04T12:40:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The MacBook Air M5 is $200 off for the first time in months",
-                "desc": "Apple’s midrange laptop is a much better proposition with a discount for Amazon’s October Prime Day.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
-                "source": "The Verge",
-                "date": "2026-10-04T12:34:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The iPad Mini is slightly cheaper again during Prime Day",
-                "desc": "October Prime Day is bringing down the price on the iPad Mini with the A17 Pro chip.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
-                "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
-                "source": "The Verge",
-                "date": "2026-10-04T12:31:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Our Redmi Note 17 4G battery life and charging tests are ready",
-                "desc": "It's the same phone as the Redmi Note 17 5G - or is it? One of these two lasted longer despite both having the same 7,700mAh Si/C battery.",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/09/redmi-note-17-4g-battery-and-charge-test/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/our_redmi_note_17_4g_battery_life_and_charging_tests_are_ready-news-74823.php",
-                "source": "GSMArena.com",
-                "date": "2026-10-04T12:31:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TP-Link Tapo Doorbell Pro D260 Review: Everything You Need at No Extra Cost",
-                "desc": "TP-Link’s smart home video doorbell has everything you need—no subscription necessary.",
-                "image": "https://gizmodo.com/app/uploads/2026/09/Tapo-D260-1200x675.jpg",
-                "url": "https://gizmodo.com/tp-link-tapo-doorbell-pro-d260-review-2000816843",
-                "source": "Gizmodo",
-                "date": "2026-10-04T12:30:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "McLaren fans can now get an F1-inspired sim setup for $900",
-                "desc": "McLaren and Logitech have teamed up on a complete F1-inspired sim racing bundle with direct drive, load-cell braking and a surprisingly accessible price",
-                "image": "https://cdn-6.motorsport.com/images/amp/YMXbrrm2/s6/untitled-design-23.jpg",
-                "url": "https://www.motorsport.com/f1/news/mclaren-fans-can-now-get-an-f1-inspired-sim-setup-for-900/10861783/",
-                "source": "Motorsport.com",
-                "date": "2026-10-04T12:30:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How To Use Android's Motion Assist Feature To Help With Motion Sickness",
-                "desc": "Google's answer to Apple's Vehicle Motion Cues has finally launched on Android. It's called Motion Assist. It combats motion sickness you feel as a passenger.",
-                "image": "https://www.engadget.com/img/gallery/how-to-use-androids-motion-assist-feature-to-help-with-motion-sickness/l-intro-1790790035.jpg",
-                "url": "https://www.engadget.com/2273792/how-to-use-android-motion-assist-feature-help-with-sickness/",
-                "source": "Engadget",
-                "date": "2026-10-04T12:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 gets 18+ PEGI rating with graphic violence, substance use",
-                "desc": "A deleted European classification offers a surprisingly detailed look at Vice City's graphic gore, mature themes, and storyline details",
-                "image": "https://cf-images.assettype.com/indulgexpress%2F2026-10-04%2F9j33lohw%2FCapture.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://www.indulgexpress.com/entertainment/2026/Oct/04/gta-6-gets-18-pegi-rating-with-graphic-violence-substance-use-and-sexual-content",
-                "source": "Indulge Express",
-                "date": "2026-10-04T12:27:50Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "“You’re So Brave”: South African Woman Shares Culture Shocks After Marrying Nigerian Man",
+                "desc": "A South African woman married to a Nigerian man shares her culture shocks, from loud phone calls and fiery pepper to lengthy cooking, sparking viral online debate.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/1cd1a7eeb17271fc.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/people/relationships/642149-brave-south-african-woman-shares-culture-shocks-marrying-nigerian-man/",
+                "source": "Tuko News",
+                "date": "2026-10-06T09:15:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Bank raises Africa's 2026 growth forecast, urges AI investments",
+                "desc": "The World Bank has raised Africa's 2026 economic growth forecast to 4.3%, citing stronger performance across the region, and urged governments to embrace AI to boost productivity and create jobs. The region has weathered a tough global environment, the lender said in its Africa Economic Update report on Tuesday, marked by higher energy prices due to the impact of the Iran war on supply chains. The new growth forecast is up from the 4.1% expected in April. In 2025, the region's economy grew by 4.1%.",
+                "image": "https://cdn.creamermedia.com/assets/articles/images/resized/0001303910_resized_andrewdabalen18202025reuters1022.jpeg",
+                "url": "https://www.polity.org.za/article/world-bank-raises-africas-2026-growth-forecast-urges-ai-investments-2026-10-06",
+                "source": "Polity.org.za",
+                "date": "2026-10-06T09:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Accused appears in court over death of 16-year-old cyclist in Somerset West",
+                "desc": "The man accused in the death of 16-year-old cyclist Lilitha Lombo appeared in Somerset West Magistrates’ Court on Monday, 5 October, and his bail application was postponed to 27 October 2026.",
+                "image": "https://iol-prod.appspot.com/image/f92425bf6fdcceb7b0b73311d6bf128ccf017cae/1000/jpeg",
+                "url": "https://capetimes.co.za/2026-10-06-accused-appears-in-court-over-death-of-16-year-old-cyclist-in-somerset-west/",
+                "source": "Cape Times",
+                "date": "2026-10-06T09:11:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NATO can’t wait for a sovereign European AI stack",
+                "desc": "NATO does not have time to wait for Europe to build a fully sovereign technology stack before preparing for a",
+                "image": "https://resiliencemedia.co/wp-content/uploads/2026/10/James-Appathurai.jpg",
+                "url": "https://resiliencemedia.co/nato-cant-wait-for-a-sovereign-european-ai-stack/",
+                "source": "Resilience Media",
+                "date": "2026-10-06T09:10:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran war impact on US midterms: Can an 'October surprise' change course of the election?",
+                "desc": "The Iran war is increasingly becoming a US midterm issue, with a potential 'October surprise' threatening to reshape voter sentiment just weeks before the November 3 election.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260422144649_Trump-New-0005.jpg",
+                "url": "https://www.moneycontrol.com/world/iran-war-impact-on-us-midterms-can-an-october-surprise-change-the-course-of-the-election-article-14045696.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-10-06T09:09:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New pay limit scheme for foreign workers",
+                "desc": "The new scheme is intended to facilitate international recruitment.",
+                "image": "https://knowledge.dlapiper.com/export/sites/genie/images/news-events-banners/gender-pay.jpg_1585541765.jpg",
+                "url": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/new-pay-limit-scheme-for-foreign-workers",
+                "source": "DLA Piper GENIE",
+                "date": "2026-10-06T09:07:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Korea considers steps to force North Korea apology for DMZ mine blast",
+                "desc": "Seoul has urged Pyongyang to remove any other mines planted on the southern side of the military demarcation line.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-02T090832Z_734465831_RC2PEBAVG1H6_RTRMADP_3_SOUTHKOREA-DMZ-NORTHKOREA-1791276992.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/10/6/south-korea-considers-steps-to-force-north-korea-apology-for-dmz-mine-blast",
+                "source": "Al Jazeera",
+                "date": "2026-10-06T09:07:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Bank raises Africa's 2026 growth forecast, urges AI investments",
+                "desc": "The World Bank has raised Africa's 2026 economic growth forecast to 4.3%, citing ‌stronger performance across the region, and urged governments to embrace artificial intelligence to boost productivity and create jobs.",
+                "image": "https://www.reuters.com/resizer/v2/RCGOKPWZY5KC5DZ2XWA4M3XTCY.jpg?auth=dbf06c1fd754513d7eff713b02820d9c236cf0b6097ce69a4aa49928b4efaff6&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/africa/world-bank-raises-africas-2026-growth-forecast-urges-ai-investments-2026-10-06/",
+                "source": "Reuters",
+                "date": "2026-10-06T09:05:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Bus Overturned in Sweden: One Dead and More Than 40 Injured",
+                "desc": "A major accident involving a double-decker bus occurred in southern Sweden on Monday. According to the police, an 18-year-old man was killed in the crash, and more than 40 people were injured.",
+                "image": "https://news.inbox.eu/w/img/6c/35/6c35a0212ee20eeb51.webp",
+                "url": "https://news.inbox.eu/150u2om-a-bus-overturned-in-sweden-one-dead-and-more-than-40-injured?language=en&source=portal",
+                "source": "Inbox.eu",
+                "date": "2026-10-06T09:03:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Teenage Student Loses Hand In France After Picking Up Police Grenade During School Protests",
+                "desc": "A 15-year-old student lost a hand on Monday after picking up a police grenade during protests at schools across France over poor classroom conditions. The teenager was injured in the northern town of Lens. A police union source said he appeared to have picked up a sting-ball grenade fired by riot police, which then exploded in his hand. The incident occurred as students continued demonstrations that have disrupted lessons and led to barricades and fires at schools across the country.",
+                "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+                "url": "https://saharareporters.com/2026/10/05/teenage-student-loses-hand-france-after-picking-police-grenade-during-school-protests",
+                "source": "Sahara Reporters",
+                "date": "2026-10-06T09:03:18Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "EBRD expands Bulgaria renewable energy support with battery storage and PPP preparation memorandum",
                 "desc": "EBRD says it completed Bulgaria RRP renewables and storage milestones and signed an MoU with government to prepare PPPs and concessions.",
@@ -1806,98 +1896,8 @@
                 "source": "Ynetnews",
                 "date": "2026-10-04T18:14:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump announces 'Super Intelligence Force' with top US officials to lead AI push",
-                "desc": "US President Donald Trump has announced the formation of a new Super Intelligence Force to coordinate federal efforts and ensure the US maintains its leadership in advanced artificial intelligence.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260831134545_Trump-iran-New-6.jpg",
-                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/trump-announces-super-intelligence-force-with-top-us-officials-to-lead-ai-push-article-14044240.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-10-04T12:45:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cornell president calls alleged gang rape ‘deeply disturbing,’ pledges greater transparency",
-                "desc": "Cornell's president pledged greater transparency amid mounting outrage over the school's handling of the case, calling the alleged gang rape \"deeply disturbing.\"",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/10/7f645f90a530103958c4d0c77569ff0f83c6d2be8857e602ebf70bf4e101b9eb.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/12087094/cornell-president-calls-alleged-gang-rape-deeply-disturbing-pledges-greater-transparency/",
-                "source": "globalnews.ca",
-                "date": "2026-10-04T12:44:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GCF Regional Dialogue in Accra seeks to scale up climate investment across West, Central Africa",
-                "desc": "The Green Climate Fund (GCF) kicked off its Regional Dialogue with West and Central Africa in Accra, Ghana, on September 29, 2026. Over 200 representatives from 25 countries gathered for four days of practical discussions on GCF programming, Readiness support, and access to climate finance. Participants include GCF’s government focal points (National Designated Authorities), Ministries […]",
-                "image": "https://www.environewsnigeria.com/wp-content/uploads/2026/10/Dialogue.jpg",
-                "url": "https://www.environewsnigeria.com/gcf-regional-dialogue-in-accra-seeks-to-scale-up-climate-investment-across-west-central-africa/",
-                "source": "EnviroNews Nigeria",
-                "date": "2026-10-04T12:43:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump announces 'Super Intelligence Force' to keep US ahead in AI race",
-                "desc": "President Donald Trump on Sunday announced the formation of a new “Super Intelligence Force” (SIF) to coordinate the federal government’s efforts to",
-                "image": "https://static.toiimg.com/thumb/msid-134675374,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/trump-announces-super-intelligence-force-to-keep-us-ahead-in-ai-race/articleshow/134675211.cms",
-                "source": "The Times of India",
-                "date": "2026-10-04T12:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-                "desc": "The Japanese government has added Russian cryptocurrency exchange Garantex to its expanded list of sanctions against Russia, citing the continuing war in Ukraine.Officials added 33 organizations and nine individuals linked to Russia to its asset-freeze list that restricts payments and capital trans…",
-                "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-                "url": "https://www.tradingview.com/news/cointelegraph:4b26a5193094b:0-japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war/",
-                "source": "TradingView",
-                "date": "2026-10-04T12:40:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
-                "desc": "Attack happened shortly after Friedrich Merz arrived in city, on unannounced visit intended to underline Germany’s backing",
-                "image": "https://i.guim.co.uk/img/media/1f670864526e1f5e87ee49c6d8f97d2f1f97c8e5/382_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=596b1a78e3cec94611fb6479d38b5555",
-                "url": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
-                "source": "The Guardian",
-                "date": "2026-10-04T12:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Co-pilot accused of trying to hijack Flydubai plane probably acted alone, Israeli sources say",
-                "desc": "The co-pilot accused of attacking his colleague on board the Flydubai flight to Israel and trying to seize the controls probably acted alone, Israeli sources told CNN.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/1735631928496-20261003141320565.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/10/04/europe/flydubai-israel-suspect-acted-alone-intl",
-                "source": "CNN",
-                "date": "2026-10-04T12:36:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia Pounds Ukraine With Drone Strikes As German Chancellor Visits Kyiv",
-                "desc": "Ukrainian President Volodymyr Zelensky said one person was killed in Sunday's attacks, while six others were injured, as he posted a video of the destruction that Russia has unleashed on his country this week.",
-                "image": "https://c.ndtvimg.com/2026-10/r05avqtc_russia-ukraine_625x300_04_October_26.jpeg",
-                "url": "https://www.ndtv.com/world-news/russia-ukraine-war-updates-russia-pounds-ukraine-with-drone-strikes-as-german-chancellor-visits-kyiv-12137394",
-                "source": "NDTV",
-                "date": "2026-10-04T12:34:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Al-Alimi announces launch of military operations against Houthi militia",
-                "desc": "Al-Alimi announces launch of military operations against Houthi militia",
-                "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1791116937397-e3a1d743d9f669f3.jpg",
-                "url": "https://www.arabnews.com/middle-east/al-alimi-announces-launch-of-military-operations-against-houthi-militia-3004567",
-                "source": "Arab News",
-                "date": "2026-10-04T12:32:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-                "desc": "German chancellor visits Kyiv amid air raid sirens, pledging strong support as Russian strikes disrupt the capital.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261004__D2794KE__v4__HighRes__TopshotUkraineGermanyRussiaConflictWar-1791111443.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine",
-                "source": "Al Jazeera",
-                "date": "2026-10-04T12:32:16Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-06T16:18:32.518057Z"
+    "lastGlobalSync": "2026-10-06T21:16:02.381538Z"
 }
