@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Europe’s Mistral launches Large 4 to challenge China’s lead in open AI models",
+                "desc": "Mistral Large 4, a 1-trillion-parameter model, opens in API preview with weights due October 27. Early benchmarks lead in coding and vision.",
+                "image": "https://media.thenextweb.com/2026/05/Mistral-AI.jpg",
+                "url": "https://thenextweb.com/news/mistral-releases-large-4-a-1-trillion-parameter-open-weight-ai-model",
+                "source": "The Next Web",
+                "date": "2026-10-06T13:01:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This firm aims to reduce liquidation risk from margin calls on prediction markets",
+                "desc": "Edge Markets' new infrastructure aims to support institutional trading for markets that operate around the clock.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108270194-1772061798995-gettyimages-2263571474-l1049595_copy_qr8q5yqa.jpeg?v=1791298508&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/06/this-firm-aims-to-reduce-liquidation-risk-from-margin-calls-on-prediction-markets.html",
+                "source": "CNBC",
+                "date": "2026-10-06T13:01:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Here’s What Pressured StandardAero (SARO)",
+                "desc": "PenderFund Capital Management‘s Global Small Mid Cap Equity Fund’s August 2026 investor letter reported a return of 1.4%, slightly outperforming the MSCI World SMID Cap Gross Total Return USD Index’s 1.3%. The letter can be downloaded here. The portfolio allocations are 42.7% US equities, 32.4% Canadian equities, and 13.5% international equities. Market sentiment remained volatile […]",
+                "image": "https://s.yimg.com/lo/mysterio/api/cf966f1772e81dcf82e67215e95f051455b2e082a010f7fcc206f961a4f31425/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fd5f20aec45498fb6d0d35aef97414b0e.jpg",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/pressured-standardaero-saro-130108852.html",
+                "source": "Yahoo Finance",
+                "date": "2026-10-06T13:01:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Treasury blocks $175M in improper taxpayer payments to dead people",
+                "desc": "Treasury's \"Do Not Pay\" program stopped $175 million in improper payments to dead people as Scott Bessent expanded fraud prevention to 99% of federal programs.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/bessent-trump-talk.png",
+                "url": "https://www.foxnews.com/politics/millions-saved-blocking-dead-people-payouts-trump-treasury-drops-hammer-federal-fraud",
+                "source": "Fox News",
+                "date": "2026-10-06T13:00:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mistral’s new Le Chonk model brings AI cybersecurity to your business",
+                "desc": "Open models are vying to become the everyman defense solution for a growing swarm of agent breaches.",
+                "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2293676053_f66563.jpg",
+                "url": "https://www.zdnet.com/innovation/mistral-le-chonk-ai-cybersecurity-business/",
+                "source": "ZDNET",
+                "date": "2026-10-06T13:00:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mistral unveils new AI model it says rivals best open systems from China",
+                "desc": "Western developers are racing to compete with Chinese companies in open weight and open source AI.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108312961-1779950527402-gettyimages-2261818985-INDIA_AI_GOOGLE.jpeg?v=1779950533&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
+                "source": "CNBC",
+                "date": "2026-10-06T13:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Budget 2027: 'You will see more hauliers going to the wall'",
+                "desc": "An extended pause on the reintroduction of fuel excises is a welcome reprieve, but longer-term measures to ease away from volatile fossil fuels are lacking, according to the chairperson of the Cork branch of the Irish Road Hauliers Association",
+                "image": "https://www.irishexaminer.com/cms_media/module_img/10502/5251336_6_org_Tony_20O_20Dirscoll_20Vid_20SS_203.jpg",
+                "url": "https://www.irishexaminer.com/news/arid-41920405.html",
+                "source": "Irish Examiner",
+                "date": "2026-10-06T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What real diversification looks like beyond a core portfolio",
+                "desc": "The first step in building around the core is examining what’s already owned",
+                "image": "https://www.theglobeandmail.com/resizer/v2/Y7GV27UFCVDB5JH6DYORUU6KIA.png?auth=639dfc4ef63a5d2b7f32856be64ca125650a920684260a25d32e662da83bf934&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/article-what-real-diversification-looks-like-beyond-a-core-portfolio/",
+                "source": "The Globe and Mail",
+                "date": "2026-10-06T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "For an electric car that starts at less than $40,000, the Kia EV3 is exceptional",
+                "desc": "In its most basic trim, the newest Kia to Canada has a price after all fees and charges, but before taxes and rebates, of $39,321",
+                "image": "https://www.theglobeandmail.com/resizer/v2/VRHF7IRF5BBNRBN6PH5PIOEA4Q.jpg?auth=ceae7ef89fffdd67cf4da062b32a44c6c335a0ed4e0973a76f5d67790068928a&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/drive/reviews/article-for-an-electric-car-that-starts-at-less-than-40000-the-kia-ev3-is/",
+                "source": "The Globe and Mail",
+                "date": "2026-10-06T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "France's Mistral announces new AI model",
+                "desc": "By Elizabeth Howcroft and Leo Marchandon PARIS, Oct 6 (Reuters) - French AI company Mistral on Tuesday announced a new AI model, which the company said outperforms some Chinese open-weight models. The 3-year-old startup is seen as Europe's best hope of fielding a home-grown competitor to US and lower-cost Chinese rivals. Mistral had not released a new model since May, and in August started making third-party models available to its customers, starting with Beijing-based Z.ai's GLM 5.3.",
+                "image": "https://live.euronext.com/favicon.ico",
+                "url": "https://live.euronext.com/en/financial-news/frances-mistral-announces-new-ai-model",
+                "source": "Euronext Markets",
+                "date": "2026-10-06T12:59:58Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "International Seaways Stock: Still A Buy Despite The Rapid Rise In Stock Price (NYSE:INSW)",
                 "desc": "International Seaways' H1 FY2026 TCE revenue and net income surged 104.7% and 422.5% YoY, driven by elevated spot charter rates. Read why INSW stock is a buy.",
                 "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2268760213/image_2268760213.jpg?io=getty-c-w1536",
@@ -542,99 +632,99 @@
                 "source": "CNBC TV18",
                 "date": "2026-10-05T03:18:52Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Cathie Wood Predicts This Cryptocurrency Could Surge 1,665% From Here",
-                "desc": "Bitcoin needs to double in value every year in order to hit a price of $1.5 million by 2030.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889760%2Fcathie-wood_ark-investment-management_ceo_imagesource_getty-images_2.jpeg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/10/04/cathie-wood-predicts-this-cryptocurrency-could-sur/",
-                "source": "The Motley Fool",
-                "date": "2026-10-04T18:42:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Automatic Data Processing vs. Lumentum: Which Technology Stock Is a Better Buy in 2026?",
-                "desc": "ADP offers steady dividend growth and record client satisfaction across a global payroll business. Lumentum is growing at a remarkable pace on AI demand but carries customer concentration risk worth understanding.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7089e9c275d4f6f9668a8e5e172ac46be0ed0aaa-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/coverage/better-buy/2026/10/04/automatic-data-processing-vs-lumentum-which-technology-stock-is-a-better-buy-in-2026/",
-                "source": "The Motley Fool",
-                "date": "2026-10-04T18:42:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Australia's medicinal cannabis boom isn't telling patients",
-                "desc": "Some experts fear patients are being sold benefits that go beyond what the evidence can support.",
-                "image": "https://assets.sbs.com.au/dims4/default/835615a/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff5%2F28%2F321826cc4876b79039c5e5ab47f8%2Fcannabis-feature-header-16x9-v2.png",
-                "url": "https://www.sbs.com.au/news/article/buying-medicinal-cannabis-is-cheap-quick-but-some-users-could-be-sold-a-lie/obavb3god",
-                "source": "SBS",
-                "date": "2026-10-04T18:39:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "When should doctors retire in Australia? A practical guide",
-                "desc": "When should doctors retire? Key signs—from workload to finances—that help decide when to step back from clinical practice.",
-                "image": "https://cdn.craft.cloud/019da4e9-f79c-70fd-9f88-624918b9686f/assets/thumbnail/shutterstock_534602302.jpg?fit=cover&height=630&width=1200&s=panmdkYoH4LMXrSUARfX-ezLj4ASxVM_fZGEUU3yC00",
-                "url": "https://insightplus.mja.com.au/2026/38/how-to-know-when-its-time-to-retire-in-australia-a-practical-guide-for-doctors",
-                "source": "InSight+",
-                "date": "2026-10-04T18:38:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ahead of a likely Tata Sons AGM, Noel Tata family's 17-of-36 maths",
-                "desc": "Presence across shareholder trusts could shape voting dynamics",
-                "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/04/thumb/fitandfill/1200X628/1791136997-3661.jpg",
-                "url": "https://www.business-standard.com/companies/news/ahead-of-a-likely-tata-sons-agm-noel-tata-family-s-17-of-36-maths-126100400502_1.html",
-                "source": "Business Standard",
-                "date": "2026-10-04T18:35:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bugatti Boss Tells European Brands To Focus More On Luxury And Less On China",
-                "desc": "European automakers are spending fortunes trying to figure out how to compete with China’s rapidly advancing car industry. Mate Rimac thinks they’re asking the wrong question. The Bugatti Rimac CEO and Bugatti president believes European ... Read more",
-                "image": "https://s.yimg.com/lo/mysterio/api/ef03d684b7a2f2115100333dbc6fa9938efa0d0be994f4901dff6b6e42608a99/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2F90085a2255cf3f5d7465f2b7a1457292.jpg",
-                "url": "https://autos.yahoo.com/people-and-culture/articles/bugatti-boss-tells-european-brands-183004013.html",
-                "source": "Yahoo Autos",
-                "date": "2026-10-04T18:30:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fluorescent lights and other office design choices that can drain productivity",
-                "desc": "Not all workplaces are the same, but if you work in an office, some of the common features could be making it harder for you to get your best work done.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/449babee7f9be55a8bce08f8c24d8930?impolicy=wcms_watermark_news&cropH=827&cropW=1470&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-10-05/how-fluorescent-lights-open-plan-design-can-impact-work/107216898",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-10-04T18:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Musk says Tesla’s robotaxis still cannot reliably see pets at night",
-                "desc": "Musk says Tesla robotaxis still cannot reliably see pets at night. The EU votes on bloc-wide approval of the same camera-only system on 6 October.",
-                "image": "https://media.thenextweb.com/2026/08/Tesla-Cybercab.jpg",
-                "url": "https://thenextweb.com/news/tesla-robotaxi-night-pets-eu-vote",
-                "source": "The Next Web",
-                "date": "2026-10-04T18:25:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why Quantum Computing Stock Xanadu Quantum Technologies Plummeted 56.2% in September",
-                "desc": "The future is bright for quantum computing, so what darkened investors' outlook for this photonic quantum computing specialist?",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7362902c1a40bf56ecf62287a84dbaebed92de59-2121x1414.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/10/04/why-quantum-computing-stock-xanadu-quantum-technologies-plummeted-56-2-in-september/",
-                "source": "The Motley Fool",
-                "date": "2026-10-04T18:23:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon Prime Big Deal Days sale 2026 what we’re buying, including Bose headphones, Ecovacs robot vac",
-                "desc": "If you’ve stumbled across Amazon’s Prime Big Deal Days sale, and you’re already overwhelmed by the deals, allow us to help you laser in on the best savings.",
-                "image": "https://static.ffx.io/images/$zoom_0.8274%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/63c4e40c6f7e02edba07c4e30e0a68aea58c6ebc6eda3c69ad626ab8fe65663b",
-                "url": "https://www.nine.com.au/shopping/deals/what-we-re-buying-in-the-amazon-prime-big-deal-days-sale-20260930-p610c4.html",
-                "source": "Nine.com.au",
-                "date": "2026-10-04T18:22:56Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls",
+                "desc": "This feels like the kind of admission that's liable to make Miyamoto cross me off his Christmas card list, but my favou…",
+                "image": "https://assetsio.gnwcdn.com/switch-sports-resort-header_OaCFHWd.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview",
+                "source": "Eurogamer.net",
+                "date": "2026-10-06T13:00:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Arknights: Endfield Deploys on Steam Oct. 15 Alongside 'Sanctuary of Ink' Update",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/10/052136-b66dd7dd/key_art.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=3c076e67a5927446e2b79156584fecc8ce2ef201baedc953ffb9db10a0ea62e9",
+                "url": "https://www.gamespress.com/Arknights-Endfield-Deploys-on-Steam-Oct-15-Alongside-Sanctuary-of-Ink-",
+                "source": "Games Press",
+                "date": "2026-10-06T13:00:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I Played Switch Sports Resort: Motion Gaming Is Still Nintendo’s Secret Weapon",
+                "desc": "Commentary: It’s a blast from the past for me, but also shows off something that few other console-makers can do right now.",
+                "image": "https://www.cnet.com/wp-content/uploads/sites/2/NS2_NintendoSwitchSportsResort_scrn_06.jpg",
+                "url": "https://www.cnet.com/tech/gaming/i-played-switch-sports-resort-motion-gaming-is-still-nintendos-secret-weapon/",
+                "source": "CNET",
+                "date": "2026-10-06T13:00:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A 40-Year Assumption About High-Temperature Superconductors Just Fell Apart",
+                "desc": "Superconducting materials can carry electricity with zero heat loss, which is potentially revolutionary for power grids, computer systems, and more – and which makes them of great interest to scientists.",
+                "image": "https://www.sciencealert.com/images/2026/10/LightFlash-1200x675.jpg",
+                "url": "https://www.sciencealert.com/a-40-year-assumption-about-high-temperature-superconductors-just-fell-apart",
+                "source": "ScienceAlert",
+                "date": "2026-10-06T13:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Arknights: Endfield Deploys on Steam Oct. 15 Alongside 'Sanctuary of Ink' Update",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/10/052136-b66dd7dd/key_art.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=3c076e67a5927446e2b79156584fecc8ce2ef201baedc953ffb9db10a0ea62e9",
+                "url": "https://www.gamespress.com/en-US/Arknights-Endfield-Deploys-on-Steam-Oct-15-Alongside-Sanctuary-of-Ink-",
+                "source": "Games Press",
+                "date": "2026-10-06T13:00:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets",
+                "desc": "Run the CLI in autopilot mode and take your chances",
+                "image": "https://image.theregister.com/5243747.jpg?imageId=5243747&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
+                "source": "The Register",
+                "date": "2026-10-06T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CTEK RB 3000 and RB 4000 boosters now available in North America",
+                "desc": "CTEK has announced that its RB 3000 and RB 4000 portable boosters are now available in North America. Already well received in Europe and Australia, the two models bring powerful jump-starting capability and practical everyday features to drivers across the region.",
+                "image": "https://s.yimg.com/lo/mysterio/api/9732a031587197e667a3f533edc87f7d2f80d9ba04bc1c9803132e1e23623d6c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F915d2518d531073e0fb934572bcb73c9.png",
+                "url": "https://finance.yahoo.com/technology/articles/ctek-rb-3000-rb-4000-130000743.html",
+                "source": "Yahoo Finance",
+                "date": "2026-10-06T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "inspired survival horror game Signal Veil announced. Navigate a haunted school with the help of a cursed flip phone",
+                "desc": "Signal Veil is coming to PC, PS5, Xbox, and Nintendo Switch 2",
+                "image": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261006-73438-header.jpg",
+                "url": "https://automaton-media.com/en/news/90s-anime-inspired-survival-horror-game-signal-veil-announced-navigate-a-haunted-school-with-the-help-of-a-cursed-flip-phone/",
+                "source": "AUTOMATON",
+                "date": "2026-10-06T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A 40-Year Assumption About High-Temperature Superconductors Just Fell Apart",
+                "desc": "Time to rewrite those textbooks.",
+                "image": "https://s.yimg.com/lo/mysterio/api/0582e8f7d2ecb89d41fd53ea2fdf2e87bca9ae8a1a3d62644b385ca34db323da/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2Fbb98174bcf0ab65cc88d5c97ef87f043.jpg",
+                "url": "https://www.yahoo.com/news/science/articles/40-assumption-high-temperature-superconductors-130000650.html",
+                "source": "Yahoo",
+                "date": "2026-10-06T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nintendo Switch Sports Resort Appears To Solve All of Switch Sports’ Shortcomings | IGN Preview",
+                "desc": "I’m stunned at how excited I am for Nintendo Switch Sports Resort. I plan to 100% this game, which is not something I would have said two weeks ago. I’m still not entirely thrilled with the sports lineup – I would trade Table Tennis and Volleyball for things like Swordplay, Baseball, or Frisbee – but what is here is shaping up to be really fantastic. Don’t sleep on this one: I think it’s going to be an enormous improvement on Nintendo Switch Sports and a fantastic return to one of my favorite settings in Nintendo history. I’ll see you on Wuhu Island.",
+                "image": "https://assets-prd.ignimgs.com/2026/10/06/ns2-nintendoswitchsportsresort-scrn-14-1791266095527.png?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/nintendo-switch-sports-resort-appears-to-solve-all-of-switch-sports-shortcomings-ign-preview",
+                "source": "IGN",
+                "date": "2026-10-06T13:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "German Utility Sells a \"Gaming\" Electricity Plan for Gamers and Power Users",
                 "desc": "German utility SWK Energie, the municipal power company of Krefeld, is selling an electricity plan aimed squarely at gamers. It's called meinGAMING, and the pitch is simple enough: a higher fixed monthly fee in exchange for a lower price per kilowatt-hour. SWK says the plan starts to make sense...",
@@ -1174,99 +1264,99 @@
                 "source": "Bleeding Cool News",
                 "date": "2026-10-05T02:42:09Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Five iPhone 18 Pro Features You'll Want To Try The Second You Unbox It",
-                "desc": "If you get an iPhone 18 Pro, this is what you need to try first to see what's new and put your new device through its paces.",
-                "image": "https://www.engadget.com/img/gallery/five-iphone-18-pro-features-youll-want-to-try-the-second-you-unbox-it/l-intro-1790868763.jpg",
-                "url": "https://www.engadget.com/2274578/iphone-18-pro-feature-try-when-unboxed/",
-                "source": "Engadget",
-                "date": "2026-10-04T18:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Garmin Wants the epix Pro Gone, Now Selling its Sapphire Smartwatch to a Record Low on Amazon",
-                "desc": "Garmin's titanium epix Pro has never cost this little on Amazon.",
-                "image": "https://gizmodo.com/app/uploads/2026/06/GarminepixProGen2-1200x675.jpg",
-                "url": "https://gizmodo.com/garmin-wants-the-epix-pro-gone-now-selling-its-sapphire-smartwatch-to-a-record-low-on-amazon-2000821325",
-                "source": "Gizmodo",
-                "date": "2026-10-04T18:42:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Watch's Siri Recap Protects Your Data, but Nobody Asked the Person Across the Table",
-                "desc": "Apple Watch Siri Recap keeps your conversations away from Apple, but it does nothing for the people you talk to. Here's how it works and how to turn it off.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/10/Apple-Watchs-Siri-Recap-Protects-Your-Data-but-Nobody-Asked-the-Person-Across-the-Table.png",
-                "url": "https://memeburn.com/apple-watchs-siri-recap-protects-your-data/",
-                "source": "Memeburn",
-                "date": "2026-10-04T18:40:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon Goes Into Clearance Mode on AirPods Pro 3, Now Priced Like the Cheaper AirPods 4 With ANC",
-                "desc": "$70 off the AirPods Pro 3, and Prime Big Deal Days haven't even started.",
-                "image": "https://gizmodo.com/app/uploads/2026/06/airpods-pro-3-1-1200x675.jpg",
-                "url": "https://gizmodo.com/amazon-goes-into-clearance-mode-on-apple-earbuds-now-priced-like-the-cheaper-airpods-4-with-anc-2000821317",
-                "source": "Gizmodo",
-                "date": "2026-10-04T18:37:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Still Using Sticky Notes? 3 Simple Steps to Start Using a Password Manager",
-                "desc": "Think password managers are too complicated? Setting one up takes just a few minutes—and you’ll never have to hit \"Forgot Password\" again.",
-                "image": "https://i.pcmag.com/imagery/articles/00cqYWzWEzqWRtPdUv6RtBe-4.fit_lim.size_1200x630.v1790774572.png",
-                "url": "https://www.pcmag.com/explainers/still-using-sticky-notes-3-simple-steps-to-start-using-a-password-manager",
-                "source": "PCMag",
-                "date": "2026-10-04T18:31:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Deals: here's how to avoid the Galaxy S26 series price hike",
-                "desc": "Samsung increased the prices of the Galaxy S26, S26+ and S26 Ultra by $100. But you can still buy them for less than even their original prices.",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-2/-952x498w6/gsmarena_us.jpg",
-                "url": "https://www.gsmarena.com/deals_heres_how_to_avoid_the_galaxy_s26_series_price_hike-news-74871.php",
-                "source": "GSMArena.com",
-                "date": "2026-10-04T18:31:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Let's Flick Through Sammy's Photos from Gamescom and Tokyo Game Show",
-                "desc": "Nothing too unsavoury, I promise - I’ve been wanting to share some of my adventures from Gamescom and Tokyo Game Show for weeks now, but I wasn’t really ...",
-                "image": "https://images.pushsquare.com/6684f4a9882b7/1280x720.jpg",
-                "url": "https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show",
-                "source": "Push Square",
-                "date": "2026-10-04T18:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "10 Android Phones That Have More Power Than The Google Pixel 11",
-                "desc": "Power users, this one's for you. We lined up Android phones that beat the Pixel 11 in benchmarks, from foldables to gaming phones.",
-                "image": "https://www.slashgear.com/img/gallery/10-android-phones-that-have-more-power-than-the-google-pixel-11/l-intro-1790706927.jpg",
-                "url": "https://www.slashgear.com/2272462/android-phones-more-power-than-google-pixel-11/",
-                "source": "SlashGear",
-                "date": "2026-10-04T18:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bloodborne ported to PC - the game runs without an emulator",
-                "desc": "Bloodborne ported to PC - the game runs without an emulator",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1380428/media-870b6da96e409f0c757c5ce225737f90c7171bdbb9d0d6f1527e93431f4e76bd.png",
-                "url": "https://ixbt.games/en/news/2026/10/04/bloodborne-portirovali-a-pk-igra-zapuskaetsia-bez-emuliatora.html",
-                "source": "ixbt.games",
-                "date": "2026-10-04T18:16:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Tightens Mac Data Controls as Meta's Muse Agent Sparks Privacy Showdown",
-                "desc": "Apple is tightening macOS controls to make Full Disk Access requests from AI agents far more explicit, a move that comes amid public scrutiny of Meta'…",
-                "image": "https://img.biggo.com/4LBQgVNWEL8pkCzLDmMy3wWD0gEwFPKPTz8Pg81j-4E/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2JhMmJiNzcxLWQ1Y2YtNGFkNS05YTUxLWRhNTgzMTg3YTFiM18xNzkxMTM4NTYxX2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/ba2bb771-d5cf-4ad5-9a51-da583187a1b3",
-                "source": "finance.biggo.com",
-                "date": "2026-10-04T18:16:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Russia says no plague found in contacts of Siberian lab worker who died",
+                "desc": "Plague had not been detected among close contacts of a worker in an anti-plague laboratory in Siberia who died last week, with 60% of the identified group tested so far, officials in Russia said Tuesday.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261006-russia-health-watchdog-moscow-mb-0812-bda697.jpg",
+                "url": "https://www.nbcnews.com/world/russia/russia-says-no-plague-found-contacts-siberian-lab-worker-died-rcna601805",
+                "source": "NBC News",
+                "date": "2026-10-06T13:01:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s largest uranium producer could soon hand Russia a major foothold in its nuclear ambitions",
+                "desc": "Africa’s largest uranium producer, Namibia, could be nearing the completion of a major deal with Russia, as Moscow expects a positive response from the Southern African country. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/KuEktkpTURBXy84Njk5NGQ2Y2JiY2FhNmEzZjE0MzRiNzcyMmM5OGI4MS5qcGeSlQMAAM0HgM0EOJMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/africas-largest-uranium-producer-could-soon-hand-russia-a-major-foothold-in-its/v29eter",
+                "source": "africa.businessinsider.com",
+                "date": "2026-10-06T13:00:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Veteran conservative lawyer quits Trump’s interior department and warns of ‘assault on the rule of law’",
+                "desc": "John Murdock had been working for the agency for 18 years and his resignation comes during an exodus of longtime federal workers and scientists",
+                "image": "https://i.guim.co.uk/img/media/ffa959e38a1af717fb816bab286c06e4105ab7fa/450_0_4481_3587/master/4481.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fbb3f94bfe1ff51d0512abe8d64ce737",
+                "url": "https://www.theguardian.com/us-news/2026/oct/06/veteran-conservative-quits-trumps-interior-department",
+                "source": "The Guardian",
+                "date": "2026-10-06T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kavango West identified as top fertility hotspot",
+                "desc": "Kavango West, Ohangwena and Omaheke recorded the highest fertility rates in 2023, with women in these three regions recording an average of more than five children. […]",
+                "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/10/8-2.jpg",
+                "url": "https://www.namibian.com.na/kavango-west-identified-as-top-fertility-hotspot/",
+                "source": "The Namibian -",
+                "date": "2026-10-06T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hundreds of schools in France blockaded in biggest day of student protests so far",
+                "desc": "Students, teachers and parents are marching in cities across France and protesters are blockading hundreds of schools, in the biggest day of action in a wave of demonstrations demanding the government tackle understaffed ‌and dilapidated classrooms.",
+                "image": "https://i.cbc.ca/ais/a0c606d4-886b-4d8e-8822-e7b4a9da3f1c,1791286914254/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/france-student-protests-photos-9.7370647",
+                "source": "CBC",
+                "date": "2026-10-06T12:59:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Essex boy's Cyprus hotel fall death seen by his dad, court hears",
+                "desc": "Joshua Foster placed his son on a sill for the view, believing the window was closed, a court hears.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9a53/live/8b0b1840-c184-11f1-b95a-f59dbce5c8a6.jpg",
+                "url": "https://www.bbc.com/news/articles/ckz65w2jwe0do",
+                "source": "BBC",
+                "date": "2026-10-06T12:58:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A focus on covering online fraud directed at refugees",
+                "desc": "How to cover a \"wicked problem\": Helping media cover online fraud and migrants in South-East Asia who have been forced into slavery. DW Akademie trains reporters to cover the topic safely and with nuance.",
+                "image": "https://static.dw.com/image/74175148_6.jpg",
+                "url": "https://akademie.dw.com/en/many-scammers-are-migrants-in-south-east-asia-who-have-been-forced-into-slavery-it-is-important-to-cover-the-topic-safely-and-with-nuance/a-79565023",
+                "source": "DW.com",
+                "date": "2026-10-06T12:58:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Former German spy chief arrested on suspicion of treason and espionage",
+                "desc": "August Hanning’s former chief of staff was also arrested on suspicion of ‘aiding and abetting attempted treason’.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-1036644656-1791287977.jpg?resize=1798%2C1080",
+                "url": "https://www.aljazeera.com/news/2026/10/6/former-german-spy-chief-arrested-on-suspicion-of-treason-and-espionage",
+                "source": "aljazeera.com",
+                "date": "2026-10-06T12:55:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mexico makes push for fracking despite environmental concerns",
+                "desc": "Following months of consultations with energy experts, Mexico is preparing to tap its shale oil and gas reserves using one of the world's most controversial extraction techniques: fracking. The process…",
+                "image": "https://s.france24.com/media/display/fa357b98-c0e4-11f1-9aa2-1ff0321dbbd3/w:1280/p:16x9/FR-NW-OOV-ECRAN-FOCUS-MEXIQUE-FRACKING-GOUGEON-Guillaume.jpg",
+                "url": "https://www.france24.com/en/tv-shows/focus/20261006-mexico-makes-push-for-fracking-despite-environmental-concerns",
+                "source": "France 24",
+                "date": "2026-10-06T12:55:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Second Lady Usha Vance’s Vulnerable Moment Sparks Backlash As Viewers Notice Odd Detail",
+                "desc": "After viewers noticed an odd detail in a viral video of Second Lady Usha Vance’s stumble while carrying her newborn son, a heated debate over “bad parenting” erupted online.",
+                "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/fb_image_6ac4d961d8fa3.png",
+                "url": "https://2.boredpanda.com/usha-vance-slips-marine-two-backlash-viewers-notice-odd-detail/",
+                "source": "Bored Panda",
+                "date": "2026-10-06T12:50:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "“You’re So Brave”: South African Woman Shares Culture Shocks After Marrying Nigerian Man",
                 "desc": "A South African woman married to a Nigerian man shares her culture shocks, from loud phone calls and fiery pepper to lengthy cooking, sparking viral online debate.",
@@ -1806,98 +1896,8 @@
                 "source": "thenews.com.pk",
                 "date": "2026-10-05T03:23:13Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Russian strikes hit Kyiv while Germany's Merz visits",
-                "desc": "Ukraine secures a US$1.5 billion deal with Germany for weapons and energy support as Russian drone attacks intensify and air raid sirens disrupt Kyiv.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--Pzg_SUN3--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-04T085935Z_1_LYNXMPEM93078_RTROPTP_3_UKRAINE-CRISIS-GERMANY-MEMORIAL.JPG?itok=HfF4FDpm",
-                "url": "https://www.channelnewsasia.com/world/russian-strikes-kyiv-germany-merz-visits-6431646",
-                "source": "CNA",
-                "date": "2026-10-04T18:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Long-Range FP-9 Missile Ready This Fall, Zelensky Says",
-                "desc": "Ukrainian forces will scale refinery strikes as Fire Point readies the deep-strike FP-9 to counter Moscow’s pre-winter infrastructure barrage, Volodymyr Zelensky said.",
-                "image": "https://static.kyivpost.com/storage/2026/10/04/4f11277a33fde36b4d28036b3b0e11a9.jpeg?w=1200&q=90&f=jpg",
-                "url": "https://www.kyivpost.com/post/86051",
-                "source": "Kyiv Post",
-                "date": "2026-10-04T18:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Al-Sisi, Ramaphosa welcome Egypt-South Africa business council to boost trade, investment",
-                "desc": "Egyptian President Abdel Fattah Al-Sisi and South African President Cyril Ramaphosa discussed expanding economic, trade, and investment ties and welcomed the formation of a bilateral business council aimed at strengthening private-sector cooperation between the two countries. The talks were held in New Alamein on the sidelines of the eighth African Union Mid-Year",
-                "image": "https://images.dailynewsegypt.com/2026/10/833412597_4490460334575580_4385012238866299244_n.jpeg",
-                "url": "https://www.dailynewsegypt.com/2026/10/04/al-sisi-ramaphosa-welcome-egypt-south-africa-business-council-to-boost-trade-investment/",
-                "source": "Dailynewsegypt",
-                "date": "2026-10-04T18:41:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US execution survivor critically ill, on ventilator: Lawyer",
-                "desc": "Christa Pike remains in critical condition after surviving two lethal injections, as her lawyer urges Governor Bill Lee to commute her sentence to life in prison.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--RG-kI-7P--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Tennessee_Execution__6166.jpg?itok=ldJAaw56",
-                "url": "https://www.channelnewsasia.com/world/us-execution-survivor-critically-ill-ventilator-lawyer-6431636",
-                "source": "CNA",
-                "date": "2026-10-04T18:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Court quashes block on mothers and children in Gaza joining families in UK",
-                "desc": "Immigration court judge finds ‘unsafe journeys’ policy was applied unlawfully to two families",
-                "image": "https://i.guim.co.uk/img/media/63b249df69e0ecf2254698af8994d171deb678ff/259_0_3213_2570/master/3213.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32dd7bd5b4ec9be0ee841846302f7ca8",
-                "url": "https://www.theguardian.com/politics/2026/oct/04/court-quashes-block-on-mothers-and-children-in-gaza-joining-families-in-uk",
-                "source": "The Guardian",
-                "date": "2026-10-04T18:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prisoner who survived execution ‘should have death sentence thrown out’",
-                "desc": "Christa Pike’s lawyer urges Tennessee governor to grant clemency to critically ill killer",
-                "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/10/04/TELEMMGLPICT000505515278_17911350270000_trans_NvBQzQNjv4Bq_qIndAcaFDjMA4KBTM2UGNkM9MM8VM3G1BxlGUO4L8Q.jpeg?impolicy=OG-Standard",
-                "url": "https://www.telegraph.co.uk/world-news/2026/10/04/prisoner-pike-survived-execution-death-sentence-thrown-out/",
-                "source": "The Telegraph",
-                "date": "2026-10-04T18:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's What Happened Today: Sunday",
-                "desc": "The most important Irish and international stories you need to know today.",
-                "image": "https://img2.thejournal.ie/article/7182205/river/?height=400&version=7182239",
-                "url": "https://www.thejournal.ie/evening-news-headlines-2-7182205-Oct2026/",
-                "source": "The Journal",
-                "date": "2026-10-04T18:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pacific leaders challenge Australia's fossil fuel expansion ahead of pre",
-                "desc": "Australia's climate credentials will be under the spotlight at pre-COP talks in Fiji with a major coal mine expansion approved just days prior.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/19ac6c383d1cc9622242b2d1d32117b2?impolicy=wcms_watermark_news&cropH=2711&cropW=4819&xPos=0&yPos=502&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-10-05/pre-cop31-australia-challenged-over-fossil-fuel-expansion/107220650",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-10-04T18:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Flydubai Omani co-pilot was blocked from flying earlier due to extremist link: Wall Street Journal reveals shocking details",
-                "desc": "Al-Hammami's aviation background shows that his former employer, state-owned Oman Air, barred him from flying after authorities flagged him for accessing extremist websites.",
-                "image": "https://static.india.com/wp-content/uploads/2026/10/Flydubai-Omani-co-pilot-Image-X.com_.png",
-                "url": "https://www.india.com/news/world/flydubai-omani-co-pilot-was-blocked-from-flying-earlier-due-to-extremist-link-wall-street-journal-reveals-shocking-details-8532821/",
-                "source": "India.com",
-                "date": "2026-10-04T18:14:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Israeli couple takes South America road trip one breakdown at a time",
-                "desc": "Amir Eshel and his wife travel the continent in Bonita, their German motorhome, returning to Israel between legs; from Patagonia breakdowns to Boca Juniors, he says chance encounters are what make the journey unforgettable",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/rJxAnai5Gx/rJxAnai5Gx_25_0_1761_992_0_large.jpg",
-                "url": "https://www.ynetnews.com/travel/article/sk1wullsml",
-                "source": "Ynetnews",
-                "date": "2026-10-04T18:14:10Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-06T21:16:02.381538Z"
+    "lastGlobalSync": "2026-10-07T01:02:10.555957Z"
 }
