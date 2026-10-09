@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "5 things to know before the stock market opens Thursday",
+                "desc": "Here are five key things investors need to know to start the trading day.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108363903-1789583671638-gettyimages-2295620904-ah803650_dzcknsuj.jpeg?v=1789583730&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/08/5-things-to-know-before-the-stock-market-opens.html",
+                "source": "CNBC",
+                "date": "2026-10-08T12:39:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Exclusive: G7’s 100-million-barrel pledge tied to unfinished March emergency oil release",
+                "desc": "The October G7 announcement aims to accelerate and complete the IEA’s March emergency oil-stock release, rather than add a new 100-million-barrel pledge to the original 400 million, according to a document seen by Euronews.",
+                "image": "https://images.euronews.com/articles/stories/09/94/43/42/1200x675_cmsv2_ab370565-1d94-56b6-a244-22982661505f-9944342.jpg",
+                "url": "https://www.euronews.com/2026/10/08/exclusive-g7s-100-million-barrel-pledge-tied-to-unfinished-march-emergency-oil-release",
+                "source": "Euronews.com",
+                "date": "2026-10-08T12:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HDFC's next CEO set to be India's highest-paid bank chief",
+                "desc": "HDFC Bank chief Anup Bagchi will be India's highest-paid bank CEO when he takes charge at the ​end of October, with an annual compensation of about $3.7 million, ‌regulatory disclosures showed.",
+                "image": "https://www.reuters.com/resizer/v2/WGNXRLMJQZIAPL26MMD5RVK53I.jpg?auth=bf14c1621cea46e355e8a9aab54a324203fff8d963471417d97a5c78e4b4884e&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/india/hdfcs-next-ceo-set-be-indias-highest-paid-bank-chief-2026-10-08/",
+                "source": "Reuters",
+                "date": "2026-10-08T12:35:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa launches continental credit rating agency in Mauritius",
+                "desc": "AfCRA aims to improve credit risk assessments using African data and expertise, strengthen access to financing | Anadolu",
+                "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/08/thumbs_b_c_54285bc35e8e8bd859e68477468e295b.jpg",
+                "url": "https://www.aa.com.tr/en/africa/africa-launches-continental-credit-rating-agency-in-mauritius/4082287",
+                "source": "Anadolu Ajansı",
+                "date": "2026-10-08T12:35:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blender Tool For Boolean-Style Cuts With Clean Quad Topology",
+                "desc": "Boolean Master gets the job done in a single click.",
+                "image": "https://cdn.80.lv/api/upload/meta/50560/images/6ac78ca4c96b7/contain_1200x630.jpg",
+                "url": "https://80.lv/articles/blender-tool-for-boolean-style-cuts-with-clean-quad-topology",
+                "source": "80 Level",
+                "date": "2026-10-08T12:32:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Plans for direct North Lincolnshire rail route to London dropped",
+                "desc": "Rail company Grand Central says its has abandoned its plan due to the length of time it was taking.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66c4/live/84f99b30-21c5-11f0-9321-7bc8fcfad21d.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cq3980r2wnypo",
+                "source": "BBC",
+                "date": "2026-10-08T12:31:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Plans for direct North Lincolnshire rail route to London dropped",
+                "desc": "Rail company Grand Central says its has abandoned its plan due to the length of time it was taking.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/66c4/live/84f99b30-21c5-11f0-9321-7bc8fcfad21d.jpg",
+                "url": "https://www.bbc.com/news/articles/cq3980r2wnypo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+                "source": "BBC",
+                "date": "2026-10-08T12:31:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kingspan fined €40m for competition breach",
+                "desc": "Kingspan was fined for providing the European Commission with incorrect information during a competition investigation.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef01/live/c21444b0-c30f-11f1-8f04-85217d686658.png",
+                "url": "https://www.bbc.co.uk/news/articles/cxj0lr1qqd73o",
+                "source": "BBC",
+                "date": "2026-10-08T12:31:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "After years of blackouts, South Africa targets 4,600MW of batteries to tackle surplus electricity",
+                "desc": "South Africa will prioritise battery storage and gas-fired power to use surplus electricity and strengthen supply when renewable output falls. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/x4SktkpTURBXy83NjE3MGUzNTllZTA0MzZhMjc2MmE5YjE1YmE4ZmZhYS5qcGeSlQPMXQDNA-fNAjKTBc0EsM0Cdg",
+                "url": "https://africa.businessinsider.com/local/markets/after-years-of-blackouts-south-africa-targets-4600mw-of-batteries-to-tackle-surplus/7mrd94r",
+                "source": "Business Insider Africa",
+                "date": "2026-10-08T12:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What Are Net-Negative Emissions?",
+                "desc": "Learn why tackling climate change will require net-negative emissions, removing more carbon dioxide than the world emits, to lower global temperatures.",
+                "image": "https://files.wri.org/d8/s3fs-public/styles/1222x722/s3/2026-10/harbor-view-oulu-finlad-net-negative-emissions.jpg?VersionId=SrCVfO6uPIKlM6Dde3QrtMB8X65PXiCn&h=ad876230&itok=goRi7eNg",
+                "url": "https://www.wri.org/insights/what-are-net-negative-emissions",
+                "source": "World Resources Institute",
+                "date": "2026-10-08T12:27:36Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Pakistan, UK explore aircraft, engine deals for PIA",
                 "desc": "Pakistan and the UK discuss potential Airbus and Rolls-Royce arrangements for PIA, aircraft leasing and export credit support alongside wider trade cooperation.",
                 "image": "https://profit.pakistantoday.com.pk/wp-content/uploads/2017/08/pb.jpg",
@@ -542,99 +632,99 @@
                 "source": "BigGo Finance",
                 "date": "2026-10-07T02:26:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "AB Capital Services FZC Reports 1,400 Company Formations and 2,150+ Bank Account Openings",
-                "desc": "Business advisory firm reports a 94% banking approval rate and expanded compliance support as e-invoicing requirements develop DUBAI, UAE, October 06, 2026 — AB Capital Services FZC, a business setup, corporate banking and tax advisory firm, announced that it has surpassed 1,400 company formations and assisted clients with more than 2,150 corporate bank account openings. […]",
-                "image": "https://pix.xpr.media/p/eyJzIjoiZWY3YjNmNTEtZDc4My00NzIwLTk2ZjMtOWZkM2FhNmY1YmQ3IiwiYyI6ImMzNGY2NWRlLTdiZjUtNDVkYi1iYWMzLTljZmM4MDdhMTExZCIsInYiOjF9.xLwBxm8U-uP6uh-AShH7KLRZrhlITkkhARstWTf4jk8.gif",
-                "url": "https://www.usatoday.com/press-release/story/47318/ab-capital-services-fzc-reports-1400-company-formations-and-2150-bank-account-openings/",
-                "source": "USA Today",
-                "date": "2026-10-06T19:39:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vexillum Minerals Appoints Mitchell McGeorge as Interim CEO Amid Public-Market Preparations",
-                "desc": "Incoming Interim CEO brings more than 35 years of executive, capital-markets and natural-resources experience as Vexillum advances its international minerals portfolio and public-market preparations DUBAI, UAE, October 06, 2026 (PinionNewswire) — Vexillum Strategic Minerals Corp (“Vexillum Minerals” or “Vexillum”), an international minerals and commodities company developing a diversified portfolio of precious, strategic and industrial mineral […]",
-                "image": "https://pix.xpr.media/p/eyJzIjoiNTk4M2QzZTQtMzg0Zi00N2JmLTk0NWYtMzhiYmU0ZDNkZDAwIiwiYyI6ImMzNGY2NWRlLTdiZjUtNDVkYi1iYWMzLTljZmM4MDdhMTExZCIsInYiOjF9.HXB5abRIUrjDzIyBy10yY93NRGLN40HnRq4_rv4NB9w.gif",
-                "url": "https://www.usatoday.com/press-release/story/47338/vexillum-minerals-appoints-mitchell-mcgeorge-as-interim-ceo-amid-public-market-preparations/",
-                "source": "USA Today",
-                "date": "2026-10-06T19:39:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oekoboiler Swiss AG Introduces Eco Friendly Hot Water Solutions Combining Solar and Smart Technology",
-                "desc": "Hildisrieden, LU - October 06, 2026 - PRESSADVANTAGE - Oekoboiler Swiss AG has introduced a new generation of",
-                "image": "https://pix.xpr.media/p/eyJzIjoiYTg1MDk4ZDAtYzhmMC00ZGViLTg0ZTktOTJhNTdiZjVjZThlIiwiYyI6ImMzNGY2NWRlLTdiZjUtNDVkYi1iYWMzLTljZmM4MDdhMTExZCIsInYiOjF9.TZNjJ5S33FVc97U8ne20OzEoZaAsBQdE2gOGbjra-S0.gif",
-                "url": "https://www.usatoday.com/press-release/story/47323/oekoboiler-swiss-ag-introduces-eco-friendly-hot-water-solutions-combining-solar-and-smart-technology/",
-                "source": "USA Today",
-                "date": "2026-10-06T19:39:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cashfloat Shows How Fast Loan Approvals Can Adhere to Robust Regulatory Compliance Rules",
-                "desc": "LONDON, United Kingdom, October 6, 2026 (EZ Newswire) -- Cashfloat, an authorised UK-based direct lender providing",
-                "image": "https://pix.xpr.media/p/eyJzIjoiYTI5M2U0MjgtYzIzYS00Y2UyLWEzN2ItZjE2ZjE4NjYxZmFiIiwiYyI6ImMzNGY2NWRlLTdiZjUtNDVkYi1iYWMzLTljZmM4MDdhMTExZCIsInYiOjF9.NsiQySbLvmHhpqRBkCRm8v2dvdOL_wecHyS4_eRBGa4.gif",
-                "url": "https://www.usatoday.com/press-release/story/47336/cashfloat-shows-how-fast-loan-approvals-can-adhere-to-robust-regulatory-compliance-rules/",
-                "source": "USA Today",
-                "date": "2026-10-06T19:39:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This popular family calendar is $50 off right now on Amazon",
-                "desc": "Featured on The View, the Greenlight Family Hub helps keep family calendars and tasks organized. Grab it now while it's at its lowest price yet.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/06/USAT/92123630007-20260317-greenlight-hubm-00-01-50-09-1.jpg?crop=3837,2156,x0,y0&width=3200&height=1799&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/shopping/deals/prime-day/2026/10/06/greenlight-family-hub-digital-calendar-deal/92121942007/",
-                "source": "USA Today",
-                "date": "2026-10-06T19:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Delta and Air Canada planes involved in LAX runway collision",
-                "desc": "Two planes were involved in a minor ground collision at Los Angeles International Airport on Tuesday when a Delta winglet hit an Air Canada plane.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/comp-9.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/10/06/us-news/delta-and-air-canada-planes-involved-in-lax-runway-collision/",
-                "source": "New York Post",
-                "date": "2026-10-06T19:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mistral’s New ‘Le Chonk’ AI Model Is Big, Open and Built for Agents",
-                "desc": "Mistral Large 4 is a state-of-the-art model for cyberdefense, manufacturing, finance-related tasks and multimodal use.",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-10-06-at-2.38.54-PM.png",
-                "url": "https://www.cnet.com/tech/services-and-software/mistrals-new-le-chonk-ai-model-is-big-open-and-built-for-agents/",
-                "source": "CNET",
-                "date": "2026-10-06T19:35:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Class action lawsuit against Rami Levy approved",
-                "desc": "Labor Court approves class action against Rami Levy over allegations that the supermarket chain deducted cash register shortages from cashiers’ salaries.",
-                "image": "https://2.a7.org/files/pictures/000/1203533.jpg",
-                "url": "https://www.israelnationalnews.com/news/434211",
-                "source": "Israel National News",
-                "date": "2026-10-06T19:34:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Porter Airlines launches five new Canadian routes from London airport",
-                "desc": "Daily service to Halifax, Vancouver, Edmonton, Ottawa and Montreal begins next spring. Daily service to Halifax, Vancouver, Edmonton, Ottawa and Montreal begins next spring.",
-                "image": "https://lfpress.com/wp-content/uploads/sites/9/2026/10/ldn20261006gr_010.lf_.jpg",
-                "url": "https://lfpress.com/news/our-growing-city/porter-airlines-launches-five-new-canadian-routes-from-london-airport/",
-                "source": "London Free Press",
-                "date": "2026-10-06T19:32:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tata Sons mulling legal view on Trusts offer, not seen as a Trusts resolution to be considered",
-                "desc": "Tata Sons board has not yet formally met to consider the restructuring proposal from Tata Trusts. The proposal aims to avoid the mandatory listing of Tata Sons required by the Reserve Bank of India. Legal opinions on the proposal's validity are being sought by the board as it assesses its options. Tata Trusts, as majority shareholders, suggested the restructuring to ensure compliance with regulatory requirements.",
-                "image": "https://img.etimg.com/thumb/msid-134753611,width-1200,height-900,imgsize-140108,overlay-economictimes/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-seeks-legal-opinion-on-trusts-plan-to-avoid-mandatory-listing/articleshow/134749610.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-10-06T19:31:14Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "The Witcher 3 Remastered Gets Notable Improvements And A Much-Requested Feature On PS5 And Xbox",
+                "desc": "Dozens of fresh fixes have arrived for the newest version of the open-world RPG",
+                "image": "https://kotaku.com/app/uploads/2026/10/1a11b79be4e30-screenshotUrl-1200x675.jpg",
+                "url": "https://kotaku.com/the-witcher-3-remastered-gets-notable-improvements-and-a-much-requested-feature-on-ps5-and-xbox-2000742618",
+                "source": "Kotaku",
+                "date": "2026-10-08T12:40:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 leaker Cyberleek is back with 24 minute video and first person mode",
+                "desc": "GTA 6 leaker Cyberleek seemed to vanish in August, but they've abruptly resurfaced with new footage of the PS5 and Xbox game.",
+                "image": "https://metro.co.uk/wp-content/uploads/2026/10/SEI_315767552-150a_1791465101.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+                "url": "https://metro.co.uk/2026/10/08/gta-6-leaker-cyberleek-back-24-minute-video-first-person-mode-29692115/",
+                "source": "Metro.co.uk",
+                "date": "2026-10-08T12:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘World First’ as DTM Deploys Riedel Private 5G for On-Track Coverage",
+                "desc": "The solution enables high-resolution video signals to be reliably transmitted directly from the cars, providing an enhanced viewing experience and paving the way for full digital connection",
+                "image": "https://cdn.mos.cms.futurecdn.net/iHDqxVNvnAGYpJMWBPn4FM-2560-75.jpg",
+                "url": "https://www.tvtechnology.com/production/live-production/world-first-as-dtm-deploys-riedel-private-5g-for-on-track-coverage",
+                "source": "TVTechnology",
+                "date": "2026-10-08T12:35:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pimax Cuts VR Lag to 2ms With 6Gbps Wireless Headset [2026]",
+                "desc": "Pimax unveiled Crystal Pro on Oct. 6 with 6Gbps wireless streaming and under-2ms latency. Heres what Native Foveated Streaming means for VR.",
+                "image": "https://tech-insider.org/ca/wp-content/uploads/sites/7/2026/06/favicon-tech-512-150x150.png",
+                "url": "https://tech-insider.org/ca/pimax-crystal-pro-native-foveated-streaming-2026/",
+                "source": "tech-insider.org",
+                "date": "2026-10-08T12:33:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 Leaker Returns With New 24-Minute Gameplay Video, Sparking Spoiler Concern",
+                "desc": "After over a month of silence, Cyberleek is back.",
+                "image": "https://sm.ign.com/t/ign_ap/news/g/gta-6-leak/gta-6-leaker-returns-with-new-24-minute-gameplay-video-spark_bhak.1200.jpg",
+                "url": "https://sea.ign.com/grand-theft-auto-vi-rumored-title/249979/gta-6-leaker-returns-with-new-24-minute-gameplay-video-sparking-spoiler-concern",
+                "source": "IGN Southeast Asia",
+                "date": "2026-10-08T12:32:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'RuneScape' Series In Development With Lyrical Animation, Jagex",
+                "desc": "The project re-teams Charlie White and Lyrical Animation after the two recently announced a 'Godslap' comic animated feature adaptation.",
+                "image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Runescape.jpg",
+                "url": "https://www.cartoonbrew.com/series/runescape-animated-series-moistcr1tikal-lyrical-jagex-267655.html",
+                "source": "Cartoon Brew",
+                "date": "2026-10-08T12:32:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mivi Targets Indigenous Smartphone Design and IP to Compete Globally",
+                "desc": "Discover how Mivi is revolutionizing the Indian smartphone industry with indigenous design, engineering, and intellectual property, aiming to create globally competitive products. Learn about their first smartphone launch, workforce expansion, and AI integration plans.",
+                "image": "https://media.fortuneindia.com/fortune-india/2025-06-13/nprdjuox/shutterstock2466704523771488372620.jpeg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                "url": "https://www.fortuneindia.com/technology/mivi-looks-beyond-assembly-targets-indigenous-design-and-ip-for-smartphones/163591",
+                "source": "Fortune India",
+                "date": "2026-10-08T12:32:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Your old Android phone is going to lose Android Auto very soon",
+                "desc": "Drivers still hanging on to smartphones released before 2020 may need to update or buy a new device if they still want to use Android Auto.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/android-auto-pixel.jpeg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/android-auto-android-10-minimum-version-lose-access/",
+                "source": "MakeUseOf",
+                "date": "2026-10-08T12:31:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ubisoft's *March of Giants*",
+                "desc": "March of Giants is a new MOBA from Ubisoft in which players control a giant and an army of soldiers. The company has launched a playtest that will run until 18 October.",
+                "image": "https://img.mezha.ua/mezha/images/doc/a/6/329402/a6240793ee0842e34e5827f0ff65797d.jpeg?w=1200&q=85&stamp=1791450382",
+                "url": "https://mezha.ua/en/news/ubisoft-march-of-giants-moba-playtest-315929/",
+                "source": "Mezha",
+                "date": "2026-10-08T12:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Syntiant to Participate at the Economist Enterprise Physical AI & Robotics Summit",
+                "desc": "Inaugural Conference to Focus on the Industrial Reality of Autonomy",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/08/1251656.png",
+                "url": "https://www.manilatimes.net/2026/10/08/tmt-newswire/globenewswire/syntiant-to-participate-at-the-economist-enterprise-physical-ai-robotics-summit/2441768",
+                "source": "The Manila Times",
+                "date": "2026-10-08T12:28:24Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "A video featuring the unboxing of an unofficial set with Leon Scott Kennedy figures from Resident Evil Requiem by Por.Toys has been released",
                 "desc": "Thanks to The Figure Hideout YouTube channel, collectors have a chance to get a closer look at the unofficial deluxe set from Por.Toys, which includes two figures of Leon S. Kennedy from the game Resident Evil Requiem and various accessories.",
@@ -1174,99 +1264,99 @@
                 "source": "Mashable",
                 "date": "2026-10-07T02:02:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The Desktop Deals for Prime Day From Apple, Dell. HP, Lenovo, and More",
-                "desc": "Whether you need a gaming powerhouse, a pint-sized mini PC, or a productivity-focused tower, prices are low across the board for these top models during Amazon's Big Deal Days sales event.",
-                "image": "https://i.pcmag.com/imagery/articles/005RI5nFbTv54nyRGheiYRw-18.fit_lim.size_1200x630.v1791314572.jpg",
-                "url": "https://www.pcmag.com/news/desktop-pc-deals-prime-day-2026-apple-dell-hp-lenovo",
-                "source": "PCMag",
-                "date": "2026-10-06T19:41:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple's Masimo Patent Bill Rises to About $818 Million With Interest",
-                "desc": "A federal judge ordered Apple to pay $184 million in interest on a $634 million Masimo patent verdict, bringing the total to about $818 million.",
-                "image": "https://www.macobserver.com/wp-content/uploads/2026/10/tmo-watchos-27-2-public-beta-3-apple-watch.jpg",
-                "url": "https://www.macobserver.com/news/apple-masimo-patent-bill-818-million-interest/",
-                "source": "The Mac Observer",
-                "date": "2026-10-06T19:41:15Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Fontplop Relaunches as Browser-Based Text Style Converter and Font Generator",
-                "desc": "Fontplop has relaunched fontplop.com as a browser-based text converter and font generator. The site offers more than 45",
-                "image": "https://pix.xpr.media/p/eyJzIjoiNTFlODg5ZTUtNzZmOC00YmQ2LWFlMWEtZTQ5ZjAzODA4MGQwIiwiYyI6ImMzNGY2NWRlLTdiZjUtNDVkYi1iYWMzLTljZmM4MDdhMTExZCIsInYiOjF9.p4hH69z2-m65F2tkCIM5VF6t6wyb0VW1cdg1qEprh9Q.gif",
-                "url": "https://www.usatoday.com/press-release/story/47313/fontplop-relaunches-as-browser-based-text-style-converter-and-font-generator/",
-                "source": "USA Today",
-                "date": "2026-10-06T19:39:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What iOS 27.2 Could Bring to Your iPhone Later This Month",
-                "desc": "The beta includes updates to apps like Facetime and Podcasts, and it brings Siri AI to more languages.",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/cnet-ios27-7.jpg",
-                "url": "https://www.cnet.com/tech/mobile/apple-iphone-ios-27-2/",
-                "source": "CNET",
-                "date": "2026-10-06T19:37:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ray was certainly an experience",
-                "desc": "This type of 3D is just a gimmick.",
-                "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/10/shout-tv-1.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.pocket-lint.com/friday-the-13th-part-3-3d/",
-                "source": "Pocket-lint",
-                "date": "2026-10-06T19:36:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Seiko’s New Affordable Chronograph Takes the “Panda” Moniker to Its Logical Conclusion",
-                "desc": "You've never seen a \"panda\" dial watch quite like this before.",
-                "image": "https://s.yimg.com/lo/mysterio/api/edcff6eb4a302d497f7e97ebd161c9d5b10c765068f2daa04ab87e708a4219db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgear_patrol_593%2F3f02a947f462045682d07f4086f59502.jpg",
-                "url": "https://shopping.yahoo.com/style/accessories/articles/seiko-affordable-chronograph-takes-panda-192820112.html",
-                "source": "Yahoo",
-                "date": "2026-10-06T19:28:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google's latest Pixel update could mark the end for the Pixel 6",
-                "desc": "Everything new in October's Pixel update",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/android-17-logo-mascot.png?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/google-pixel-update-october-2026/",
-                "source": "Android Police",
-                "date": "2026-10-06T19:22:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LoL Patch 26.20: Every Change That Will Impact the Worlds Meta",
-                "desc": "Riot Games has revealed the buffs and nerfs coming in LoL Patch 26.20, the patch that Worlds 2026 will be played on",
-                "image": "https://insider-gaming.com/wp-content/uploads/2026/10/HT4E0Q6XQAEPpN7-scaled.jpeg",
-                "url": "https://insider-gaming.com/lol-patch-26-20-every-change-impact-worlds-meta/",
-                "source": "Insider Gaming",
-                "date": "2026-10-06T19:21:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-                "desc": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg",
-                "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-                "source": "Ars Technica",
-                "date": "2026-10-06T19:21:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grab This Top-Rated Norton Security Suite Deal at 78% Off for Prime Day",
-                "desc": "During Amazon's Prime Big Deal Days you can get Editors' Choice security suite Norton 360 Deluxe at an amazing 78% off. What are you waiting for?",
-                "image": "https://sm.pcmag.com/t/pcmag_au/opinion/g/grab-this-/grab-this-top-rated-norton-security-suite-deal-at-78-off-for_51ud.1200.jpg",
-                "url": "https://au.pcmag.com/security-suites/120269/norton-best-antivirus-security-suite-deal-prime-day-2026",
-                "source": "PCMag Australia",
-                "date": "2026-10-06T19:18:51Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "M23 guerrilla war’s shadow economy: How Congo’s militias turn guns, gold and tolls into profit",
+                "desc": "In a remote mining village in the Democratic Republic of Congo, teenagers carrying Kalashnikovs guard a gold mine while claiming to fight for their",
+                "image": "https://static.toiimg.com/thumb/msid-134790953,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/rest-of-world/m23-guerrillas-wars-shadow-economy-how-congos-militias-turn-guns-gold-and-tolls-into-profit/articleshow/134789712.cms",
+                "source": "The Times of India",
+                "date": "2026-10-08T12:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Europeanising NATO: Immediate Response",
+                "desc": "Following the publication of new national security and defence strategies, the US has reduced its material commitment to Europe's conventional defence. Its ongoing force posture review will bring further changes, including the possible withdrawal or reassignment of rapid response units. As well as generating larger follow-on forces to deter and, if necessary, fight a drawn-out war on the continent, the European Allies need to step up their capacity for immediate response.",
+                "image": "https://icds.ee/static/20260522160902-3937012f-xx.jpg",
+                "url": "https://icds.ee/en/europeanising-nato-immediate-response/",
+                "source": "International Centre for Defence and Security",
+                "date": "2026-10-08T12:40:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DIARY-Political and General News Events from October 8",
+                "desc": "Read more about DIARY-Political and General News Events from October 8 on Devdiscourse",
+                "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_10_0069135.jpg&width=920&format=jpeg",
+                "url": "https://www.devdiscourse.com/article/international/3989106-diary-political-and-general-news-events-from-october-8",
+                "source": "Devdiscourse",
+                "date": "2026-10-08T12:40:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "7 Things Nobel Laureates Get Besides Medal And Money",
+                "desc": "While the medal and money may be the most visible rewards, the Nobel Prize offers something considerably harder to measure: A permanent place in history.",
+                "image": "https://c.ndtvimg.com/2026-10/0porih3c_nobel-medal-afp_625x300_08_October_26.jpeg",
+                "url": "https://www.ndtv.com/world-news/7-things-nobel-laureates-get-besides-medal-and-money-12156935",
+                "source": "NDTV",
+                "date": "2026-10-08T12:39:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man sentenced to death in Saudi Arabia over Facebook comment",
+                "desc": "A 24-year-old Sri Lankan migrant worker, Anojan Sivarasa, has been sentenced to death in Saudi Arabia over a Facebook comment deemed blasphemous.",
+                "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/08133514/Anojan-Sivarasa_1791462914.webp",
+                "url": "https://punchng.com/man-sentenced-to-death-in-saudi-arabia-over-facebook-comment/",
+                "source": "Punch Newspapers",
+                "date": "2026-10-08T12:38:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Betrayal of Tigray",
+                "desc": "Former enemies are now suddenly allies, freedom fighters have become corrupt autocrats, and the people they claim to lead do not want this war",
+                "image": "https://newlinesmag.com/wp-content/uploads/GettyImages-1233762509-web.jpg",
+                "url": "https://newlinesmag.com/first-person/the-betrayal-of-tigray/",
+                "source": "New Lines Magazine",
+                "date": "2026-10-08T12:38:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says",
+                "desc": "Recovery marks a dramatic turnaround for Pike, who was declared brain dead after a botched execution in Tennessee",
+                "image": "https://i.guim.co.uk/img/media/027762e10a255e4badc86d398cfcd3c0b35fe3cd/100_0_2039_1632/master/2039.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7794da2076f6aff31b3c5955827fa7f2",
+                "url": "https://www.theguardian.com/us-news/2026/oct/08/christa-pike-health-update",
+                "source": "The Guardian",
+                "date": "2026-10-08T12:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anne Carson wins Nobel Prize in Literature 2026",
+                "desc": "There have been 122 literature laureates to date, of whom only 18 have been women",
+                "image": "https://www.irishtimes.com/resizer/v2/YCX5XGUBQZBI5LSF44JHVLIZLY.jpg?smart=true&auth=33821b802ad964521547424171499a8acac2b74c862c75cade7709a1e73f0f76&width=1200&height=630",
+                "url": "https://www.irishtimes.com/culture/books/2026/10/08/anne-carson-wins-nobel-prize-in-literature-2026/",
+                "source": "The Irish Times",
+                "date": "2026-10-08T12:32:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "If AI Has the Answers in Seconds, Why Read in the 21st Century?",
+                "desc": "There was a time when finding an answer required a journey. One had to visit a library, search through books, consult an encyclopedia, ask a teacher, speak to a",
+                "image": "https://cdn.thenigerianvoice.com/images/content/97202522222_fba3e6cbcc124d32bdb8ce8cf3e44e1e.jpeg",
+                "url": "https://www.thenigerianvoice.com/news/374852/if-ai-has-the-answers-in-seconds-why-read-in-the-21st-centu.html",
+                "source": "Nigerian Voice",
+                "date": "2026-10-08T12:32:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine strikes Yandex data center housing two of the company’s supercomputers",
+                "desc": "A Ukrainian drone attack started a fire at a Yandex data center in the town of Sasovo, Ryazan region. No one was injured, but the data center has completely halted operations.",
+                "image": "https://meduza.io/imgly/share/1791462747/en/feature/2026/10/08/ukraine-strikes-yandex-data-center-housing-two-of-the-company-s-supercomputers",
+                "url": "https://meduza.io/en/feature/2026/10/08/ukraine-strikes-yandex-data-center-housing-two-of-the-company-s-supercomputers",
+                "source": "Meduza",
+                "date": "2026-10-08T12:32:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Africa-Arab Labour Talks Put Fair Recruitment, Skills and Worker Rights Centre Stage",
                 "desc": "The 2026 gathering followed the inaugural dialogue in Doha, Qatar, in 2024 and the resulting Doha Declaration on Labour Mobility between GCC Countries, Jordan and Lebanon and African Member States.",
@@ -1806,98 +1896,8 @@
                 "source": "CNBC",
                 "date": "2026-10-07T02:26:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Somali Red Crescent Society, ICRC train 72 responders ahead of expected El Niño floods",
-                "desc": "Nairobi (HOL) — The Somali Red Crescent Society (SRCS) is training 72 people, including 60 community volunteers, to respond to expected El Niño-related flooding along Somalia’s Juba and Shabelle rivers, the International Committee of the Red Cross (ICRC) announced this week.",
-                "image": "https://www.hiiraan.com/uploads/2026/10/1799131791271966.jpg",
-                "url": "https://www.hiiraan.com/news4/2026/Oct/206452/somali_red_crescent_society_icrc_train_72_responders_ahead_of_expected_el_nio_floods.aspx",
-                "source": "Hiiraan Online",
-                "date": "2026-10-06T19:32:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "wide arms embargo would serve notice on both belligerents",
-                "desc": "If the current embargo, currently covering Darfur, is of any practical effect, that would be in favour the Sudanese Armed Forces (SAF); their supply lines are",
-                "image": "https://eutoday.net/wp-content/uploads/2022/11/UNSC.jpeg",
-                "url": "https://eutoday.net/unsc-sudan-wide-arms-embargo-would-serve-notice-on-both-belligerents/",
-                "source": "EU Today",
-                "date": "2026-10-06T19:32:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hundreds arrested in French school protests",
-                "desc": "Hundreds arrested in French school protests as Macron calls emergency meeting over unrest and violence in high schools. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/180220048337d7f7615d688c9cc3ef48d5ffef6eff49196cbbbb544f4b281aad?w=1200",
-                "url": "https://www.straitstimes.com/world/europe/hundreds-arrested-in-french-school-protests-as-macron-summons-ministers",
-                "source": "The Straits Times",
-                "date": "2026-10-06T19:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jordanian delegation advocates for justice, international law, Palestinian rights at 153rd IPU General Assembly",
-                "desc": "Amman, Oct. 6 (Petra) — The Jordanian parliamentary delegation, headed by First Deputy Speaker of the Lower House...",
-                "image": "https://www.fananews.com/wp-content/uploads/2026/10/f568e6f2-db74-4be3-8b7d-c14c87924c2f-1.jpg",
-                "url": "https://www.fananews.com/language/en/jordanian-delegation-advocates-for-justice-international-law-palestinian-rights-at-153rd-ipu-general-assembly/",
-                "source": "Fana News -",
-                "date": "2026-10-06T19:27:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "British Indian peer Lord Ranger wins right to judicial review of CBE annulment",
-                "desc": "LONDON: British Indian Tory peer Lord Rami Ranger, aka Raminder Singh Ranger, has won a historic right to judicial review of the decision to strip him of",
-                "image": "https://static.toiimg.com/thumb/msid-134749641,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/uk/british-indian-peer-lord-ranger-wins-right-to-judicial-review-of-cbe-annulment/articleshow/134749624.cms",
-                "source": "The Times of India",
-                "date": "2026-10-06T19:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canada to launch new asylum claim process on November 3",
-                "desc": "Immigration, Refugees and Citizenship Canada (IRCC) has announced a cutover to a new online process for asylum claims, effective Nov. 3, 2026. The impact on claimants will vary depending on their stage in the process at the time immediately before the cutover, which is 11:59 p.m. Eastern Time (ET) on Nov. 2, 2026. Schedule a",
-                "image": "https://www.cicnews.com/wp-content/uploads/2026/10/aslyum-portal-cutover.jpg",
-                "url": "https://www.cicnews.com/2026/10/canada-to-launch-new-asylum-claim-process-on-november-3-1081063.html",
-                "source": "CIC News",
-                "date": "2026-10-06T19:25:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
-                "desc": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b3e2/live/b7bad510-c1a7-11f1-8fa2-19a1e9b6288f.jpg",
-                "url": "https://www.bbc.com/news/articles/cmp3gnd1e4gyo",
-                "source": "BBC",
-                "date": "2026-10-06T19:25:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump approves firing squad execution of Fort Hood shooter Nidal Malik Hasan",
-                "desc": "Former U.S. Army major Nidal Malik Hasan was convicted of premediated murder in 2013 and he was sentenced to death following the 2009 mass shooting at Fort Hood in Texas.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/10/firing-squad-execution-approved-Nidal-Malik-Hasan.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/12089699/trump-approves-firing-squad-execution-fort-hood-shooter-nidal-malik-hasan/",
-                "source": "Global News",
-                "date": "2026-10-06T19:23:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya confirms first Ebola case after man who travelled from Congo dies",
-                "desc": "Kenya confirmed its first Ebola case on Tuesday after a Kenyan citizen who had travelled from Democratic Republic ‌of Congo died in Nairobi.",
-                "image": "https://www.reuters.com/resizer/v2/AA2OAIBIWBPHZGXD2DP56OJQQE.jpg?auth=66bf2e9091d1542fec0a38bfb188587e5d3fa70ab1dd230ce5cccf7f3f1be355&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/kenya-confirms-first-ebola-case-imported-congo-patient-has-died-2026-10-06/",
-                "source": "Reuters",
-                "date": "2026-10-06T19:14:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "White House responds after Trump's ‘take out’ LA, San Diego Iran remarks spark backlash",
-                "desc": "Donald Trump’s Iran remarks about Los Angeles and San Diego trigger backlash from Gavin Newsom and California leaders as the White House defends his comments",
-                "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261007/image-1791312426405.jpg?imwidth=1200&imheight=900",
-                "url": "https://www.wionews.com/world/white-house-responds-after-trump-s-take-out-la-san-diego-iran-remarks-spark-backlash-1791312373204",
-                "source": "WION",
-                "date": "2026-10-06T19:14:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-08T20:11:55.058701Z"
+    "lastGlobalSync": "2026-10-09T00:41:20.815491Z"
 }
