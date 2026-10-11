@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "More aid, but at what cost?",
+                "desc": "PETALING JAYA: The government must balance rising fuel subsidy costs with efforts to strengthen public finances, say economists.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/11/4155702.jpg",
+                "url": "https://www.thestar.com.my/news/nation/2026/10/11/more-aid-but-at-what-cost",
+                "source": "The Star",
+                "date": "2026-10-10T23:33:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Youth unemployment at 'crisis level', AI looms on recovery - NZIER",
+                "desc": "Economists are warning the emergence of AI and other technological changes have added another layer of uncertainty.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/thumbnail-job-seekers-employment-unemployment-1-worker-jobs-MAG622ECW5DUTOHP67EPPD5BL4.jpg?auth=fd1d8ad85f7193bdd3555c4ce479fbe9e124814552148c974302683579d9ef52&quality=70&width=600&height=315&focal=970%2C495",
+                "url": "https://www.1news.co.nz/2026/10/11/youth-unemployment-at-crisis-level-ai-looms-on-recovery-nzier/",
+                "source": "1News",
+                "date": "2026-10-10T23:30:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How To Reduce Mobile Data Usage On Your iPhone",
+                "desc": "Data Saver settings, restricting downloads to Wi-Fi, streaming in lower resolutions and downloading media for offline use can save you quite a bit of data.",
+                "image": "https://www.engadget.com/img/gallery/how-to-reduce-mobile-data-usage-on-your-iphone/l-intro-1791391598.jpg",
+                "url": "https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/",
+                "source": "Engadget",
+                "date": "2026-10-10T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A robust resilience improvement method for distribution network based on pre-layout and dynamic scheduling of grid-forming mobile energy storage",
+                "desc": "To enhance the resilience of distribution networks (DN) against extreme disasters, this paper proposes a robust resilience improvement method based on the pre-layout and dynamic scheduling of grid-forming mobile energy storage (GF-MES). The method follows a pre-disaster defense (PD) and post-disaster recovery (PR) framework. In the PD phase, a two-stage robust optimization (TS-RO) model is formulated considering PV output uncertainty, aiming to optimize both investment costs and load curtailment. The Column-and-Constraint Generation (C&CG) algorithm is used to determine the initial GF-MES deployment plan. In the PR phase, by leveraging the capabilities of GF-MES in frequency regulation and power support and integrating changes in the operation status of the traffic network (TN), a power supply recovery (PSR) model is developed to coordinate GF-MES and electric vehicle stations (EVS). This model is solved as a mixed-integer second-order cone problem (MISOCP) to obtain the optimal scheduling strategy. Finally, simulations are conducted on a modified IEEE 69-bus DN, and the simulation results show that the proposed method can effectively improve the resilience of the DN.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-63199-3?error=cookies_not_supported&code=12f4caed-18af-411e-ba27-e7304d836e4b",
+                "source": "Nature",
+                "date": "2026-10-10T23:21:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Australian",
+                "desc": "No Cookies | The Australian",
+                "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
+                "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
+                "source": "The Australian",
+                "date": "2026-10-10T23:20:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Better Artificial Intelligence Stock: Arm vs. Marvell Technology",
+                "desc": "Arm commands smartphone architecture and is moving into AI CPUs; Marvell dominates data center connectivity with 32.6% net margins.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd70d0f1b146a065c1b44a23e8882d56d3f74b02d-2000x1125.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+                "url": "https://www.fool.com/coverage/better-buy/2026/10/10/better-artificial-intelligence-stock-arm-vs-marvell-technology/",
+                "source": "The Motley Fool",
+                "date": "2026-10-10T23:19:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Plan 2: Three friends on a decade of student loans",
+                "desc": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc78/live/92690e40-c304-11f1-babe-4199b0e7ccea.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko",
+                "source": "BBC",
+                "date": "2026-10-10T23:17:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Three friends on a decade of student loans",
+                "desc": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/dc78/live/92690e40-c304-11f1-babe-4199b0e7ccea.jpg",
+                "url": "https://www.bbc.com/news/articles/c9rk3k25vmxko",
+                "source": "BBC",
+                "date": "2026-10-10T23:17:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Technical validation and feasibility of video particle tracking for low-volume measurement of biliary micro-viscosity after liver transplantation",
+                "desc": "Reliable quantification of the biophysical properties of human bile requires analytically validated methods and standardized pre-analytical conditions. We hypothesized that biliary micro-viscosity can be quantified in human bile after liver transplantation (LTx) with predefined analytical performance (accuracy $$\\le 15\\%$$ deviation from reference, reproducibility CV $$<10\\%$$ ). In this method-development and technical-validation study, we established a method to quantify micro-viscosity in human bile after LTx. Validation using sucrose standards demonstrated high accuracy ( $$\\le 15\\%$$ deviation from reference), strong linear correlation ( $$\\textrm{R}^2 = 0.996$$ ), and good reproducibility (CV $$<10\\%$$ ). The method was applied to 21 bile samples from nine patients collected longitudinally after LTx. Mean micro-viscosity was $$1.58 \\pm 0.54~\\text {mPa s}$$ (postoperative day 1), $$1.94 \\pm 0.63~\\text {mPa s}$$ (day 7), and $$1.44 \\pm 0.16~\\text {mPa s}$$ (day 14). Pre-analytical freezing and cooling introduced measurement variability, supporting analysis shortly after collection. These findings demonstrate the analytical performance and practical feasibility of video particle-tracking-based biliary micro-viscosity measurements after LTx. Larger studies combining standardized fresh-sample workflows, biochemical bile characterization, and longitudinal clinical outcome data are required to determine the biological relevance of biliary micro-viscosity and its potential value for future graft modeling.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-74034-0/MediaObjects/41598_2026_74034_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41598-026-74034-0?error=cookies_not_supported&code=3a6bd25e-0b0e-4c7f-8cdd-e2c7847c7cd2",
+                "source": "Nature",
+                "date": "2026-10-10T23:07:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3 EU Rare Earth Stocks That Could Gain From Easier Magnet Supply",
+                "desc": "Rare earth and magnet material suppliers suddenly sit in the spotlight as Brussels and Beijing edge toward a trade deal that could rewrite how European factories source critical inputs. Supply chains that once looked fragile now face the prospect of smoother flows, and investors risk watching key moves from the sidelines. This article introduces 3 EU listed stocks exposed to this news and explains how each might be positioned.\nThe stocks highlighted next are only a sample of the opportunity...",
+                "image": "https://images.simplywall.st/asset/industry/2052000-choice2-card/1788935149464?w=1600&h=900&fit=cover",
+                "url": "https://simplywall.st/stocks/gb/materials/lse-hree/harena-rare-earths-shares/news/3-eu-rare-earth-stocks-that-could-gain-from-easier-magnet-su",
+                "source": "Simply Wall Street",
+                "date": "2026-10-10T23:05:10Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Africa’s top oil producer admits crude supply limits behind Dangote’s imports as the continent's largest refinery expands",
                 "desc": "Nigeria’s finance minister says available crude cannot meet Dangote’s full needs as the refinery plans to double capacity to 1.4 million barrels a day. | Business Insider Africa",
                 "image": "https://ocdn.eu/pulscms-transforms/1/NKJktkpTURBXy8yODQ2ODUxNzA1MGRiNGJmODY4YjRhZDVkMjcxZTM1ZS5wbmeSlQMAIc0EOM0CYJMFzQSwzQJ2",
@@ -542,99 +632,99 @@
                 "source": "Gript",
                 "date": "2026-10-09T17:16:57Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Genting proposes RM1.25bil rights issue to pare down debt, boost working capital",
-                "desc": "PETALING JAYA: Genting Bhd has proposed a renounceable rights issue of new ordinary shares aimed at raising gross proceeds of RM1.25bil.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/09/4154032.jpg",
-                "url": "https://www.thestar.com.my/business/business-news/2026/10/09/genting-proposes-rm125bil-rights-issue-to-pare-down-debt-boost-working-capital",
-                "source": "The Star",
-                "date": "2026-10-09T11:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU states agree beefed-up European financial markets watchdog",
-                "desc": "EU finance ministers struck a deal Friday to establish a new, more powerful European securities watchdog as part of efforts to unify financial markets and strengthen the bloc's economy.",
-                "image": "https://s.france24.com/media/display/407e5606-c3d8-11f1-9e4d-c55799ef8309/w:1280/p:16x9/a9c312128a01f5efd64484f7b47bce57a69c23e8.jpg",
-                "url": "https://www.france24.com/en/live-news/20261009-eu-states-agree-beefed-up-european-financial-markets-watchdog",
-                "source": "France 24",
-                "date": "2026-10-09T11:54:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ferrari’s chairman is bullish on AI. He’s less certain on monetization",
-                "desc": "Ferrari chair John Elkann played down AI bubble fears, but acknowledged investment in the technology could outpace revenue generation.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108004801-17207223822024-06-21t132508z_2022917932_rc2lf8ahpeu7_rtrmadp_0_ferrari-electriccars.jpeg?v=1720722449&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/09/john-elkann-ferrari-ai-technology.html",
-                "source": "CNBC",
-                "date": "2026-10-09T11:54:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kalshi traders see high odds of 5,000-plus data centers by 2027",
-                "desc": "Despite the growing backlash against data centers, Kalshi odds show the buildout will continue to expand.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108372637-1791214004973-gettyimages-2298703473-mms22918_t6qdvpdy.jpeg?v=1791214175&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/09/kalshi-traders-see-high-odds-of-5000-plus-data-centers-by-2027.html",
-                "source": "CNBC",
-                "date": "2026-10-09T11:54:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI",
-                "desc": "Anthropic, maker of popular AI model Claude, has banned “abusive or cruel language towards its models, allowing its AI chatbots to automatically end conversations with users who display persistently abusive behavior. Pope Leo also issued a warning on X, writing that the human soul alone can possess true intelligence informed by lived experience.",
-                "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/73f9cf4172fc51556f96640ef1c12afc.jpg",
-                "url": "https://www.foxnews.com/live-news/ai-news-anthropic-google-tech-10-09-26",
-                "source": "Fox News",
-                "date": "2026-10-09T11:53:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Friday’s analyst upgrades and downgrades",
-                "desc": "Price targets go up for Aritzia",
-                "image": "https://www.theglobeandmail.com/resizer/v2/DCXUE6PTQBDQRAGKLOMPHGHOHQ.jpg?auth=d3fc36056a3177b1669b8229cfdf43279b604e96cccb6104ff623ad16c09793d&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-fridays-analyst-upgrades-and-downgrades-321/",
-                "source": "The Globe and Mail",
-                "date": "2026-10-09T11:52:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aircraft lessor Avolon orders 110 Airbus aircraft",
-                "desc": "Aircraft lessor Avolon has placed a firm order for 110 Airbus aircraft, including 35 A330-900 wide-body jets and 75 A320neo-family planes",
-                "image": "https://avitrader.com/wp-content/uploads/2024/02/Avolon-scaled.jpg",
-                "url": "https://avitrader.com/2026/10/09/aircraft-lessor-avolon-orders-250-airbus-and-boeing-aircraft/",
-                "source": "AviTrader Aviation News",
-                "date": "2026-10-09T11:51:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2 Cryptocurrencies Up 160% or More in 2026 to Buy Instead of XRP",
-                "desc": "These two rising stars offer a lot more to holders than XRP does.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890352%2Fstanding-investors-consider-documents.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/10/09/2-cryptocurrencies-up-160-in-2026-to-buy-instead-o/",
-                "source": "The Motley Fool",
-                "date": "2026-10-09T11:50:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Birmingham Airport expansion plan 'a huge vote of confidence'",
-                "desc": "The airport has unveiled a £2bn plan which could more than double passenger numbers to 30 million.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9f6/live/0a50f3b0-c3f4-11f1-a64c-550be9e3c66b.png",
-                "url": "https://www.bbc.co.uk/news/articles/cr4g17dn4llpo",
-                "source": "BBC",
-                "date": "2026-10-09T11:50:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What's new in F&B: Lagrima closes QC stall, German eats, Ihaw Fest",
-                "desc": "Los Angeles-inspired Mexican taqueria Lagrima is closing its outlet in Quezon City this weekend.",
-                "image": "https://od2-image-api.abs-cbn.com/prod/20261009121048/666c79d4257edabc305afe7d2480b235ab114d37d6880668f2f8fbdfa24d5741.jpg?w=1200&h=800",
-                "url": "https://www.abs-cbn.com/lifestyle/food-travel/2026/10/9/what-s-new-in-f-b-lagrima-closes-qc-stall-german-eats-ihaw-fest-1949",
-                "source": "ABS-CBN",
-                "date": "2026-10-09T11:50:24Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "How To Reduce Mobile Data Usage On Your iPhone",
+                "desc": "If your cellular plan has limited data, you'll want to take advantage of these easy tweaks to stretch those gigabytes.",
+                "image": "https://s.yimg.com/lo/mysterio/api/162cff5ec442a8c4b954676db40bb69c17bc3029e63807e6db26a63d34bedb88/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_100%2Fa78439ea1f9e398cc2232b1437200cd9.jpg",
+                "url": "https://tech.yahoo.com/phones/articles/reduce-mobile-data-usage-iphone-233000778.html",
+                "source": "Yahoo Tech",
+                "date": "2026-10-10T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How To Reduce Mobile Data Usage On Your iPhone",
+                "desc": "Data Saver settings, restricting downloads to Wi-Fi, streaming in lower resolutions and downloading media for offline use can save you quite a bit of data.",
+                "image": "https://www.engadget.com/img/gallery/how-to-reduce-mobile-data-usage-on-your-iphone/l-intro-1791391598.jpg",
+                "url": "https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/",
+                "source": "Engadget",
+                "date": "2026-10-10T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3 Budget Android Phones That Work Without A Google Account",
+                "desc": "Using Android without a Google account means making a few changes. These budget phones offer features that can help you make the switch.",
+                "image": "https://www.bgr.com/img/gallery/3-budget-android-phones-that-work-without-a-google-account/l-intro-1791312143.jpg",
+                "url": "https://www.bgr.com/2279223/budget-android-phones-work-without-google-account/",
+                "source": "BGR",
+                "date": "2026-10-10T23:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Risk of Rain 2 Halloween Expansion Soars to Top of Steam Sales and Receives Very Positive Reviews",
+                "desc": "Many players were interested in the Hallowed Concepts content.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1724397/media-9f1fc83f3791c8c1c333e6cabb01a2bba29023760ba0b78f1820d29fbcacad69.png",
+                "url": "https://ixbt.games/en/news/2026/10/11/xellouinskoe-dopolnenie-risk-of-rain-2-vorvalos-v-top-prodaz-steam-i-polucilo-ocen-polozitelnye-otzyvy.html",
+                "source": "iXBT.games",
+                "date": "2026-10-10T23:04:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Windows PCs that are not up to date will lose Windows Update itself in 2027",
+                "desc": "Microsoft says Windows devices that are not up to date will lose access to Windows Update when certificates expire on May 17 and June 19, 2027.",
+                "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/open-graph-image.png",
+                "url": "https://mixed-news.com/en/windows-update-certificate-rotation-2027-devices-not-up-to-date/",
+                "source": "MIXED Reality News",
+                "date": "2026-10-10T23:02:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
+                "desc": "Average selling price almost an eye-watering $600 - PS5 was the only system to see its dollar sales grow in Circana’s August sales report for the US games ...",
+                "image": "https://images.pushsquare.com/f2f10df84b718/1280x720.jpg",
+                "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
+                "source": "Push Square",
+                "date": "2026-10-10T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poking At The Radxa Dragon Q8B Raspberry Pi 5 Killer",
+                "desc": "Although the asking price of $209 plus shipping seems high for the Radxa Dragon Q8B, featuring the Qualcomm SC8280XP and 8 GB of LPDDR4X, this is 2026, and amid the RAMpocalypse, even the 8 GB LPDDR4X...",
+                "image": "https://hackaday.com/wp-content/uploads/2026/10/radxa_dragon_q8b_vs_raspberry_pi_5_jeff_geerling_youtube.jpg",
+                "url": "https://hackaday.com/2026/10/10/poking-at-the-radxa-dragon-q8b-raspberry-pi-5-killer/",
+                "source": "Hackaday",
+                "date": "2026-10-10T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This Sign Ruled by the Moon Is the Most Disliked in the Zodiac According to Astrologers and if You Know One You Just Understood Why",
+                "desc": "You know that person in your life who flips from sunshine to thunderstorm in the space of a heartbeat. The one who spirals into fury over a trivial detail, or who needs three hours to decide between fries and a salad. We all have someone like that in our orbit, and according to astrology, it...",
+                "image": "https://graziamagazine.com/us/wp-content/uploads/sites/15/2026/10/fizkesShutterstock.jpg",
+                "url": "https://graziamagazine.com/us/articles/this-sign-ruled-by-the-moon-is-the-most-disliked-in-the-zodiac-according-to-astrologers-and-if-you-know-one-you-just-understood-why-25497/",
+                "source": "Grazia",
+                "date": "2026-10-10T22:57:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Modder showed a cut scene from Assassin's Creed Black Flag Resynced - it connected several games of the franchise",
+                "desc": "Several well-known characters could be met in the epilogue.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1724395/media-930983c68356fd65fe30ec54beccdb7f6c2fb67a406e0389a5fb70630cb340e5.png",
+                "url": "https://ixbt.games/en/news/2026/10/11/modder-pokazal-vyrezannuiu-scenu-assassins-creed-black-flag-resynced-ona-sviazyvala-neskolko-igr-fransizy.html",
+                "source": "iXBT.games",
+                "date": "2026-10-10T22:49:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What Happened To Nokia's 4G Network On The Moon?",
+                "desc": "Early in 2025, Nokia deployed the first 4G wireless network ever on the moon, but it was short-lived. Here's what happened to the setup and what's next.",
+                "image": "https://s.yimg.com/lo/mysterio/api/bac1b07eb06605aa6322f2a60890f61fd12d8e9dc560aaadd630ab4826b69cc2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbgr_ecomm_183%2F270581c022f76fb8ac6ad55ec49a7105.jpg",
+                "url": "https://tech.yahoo.com/science/articles/happened-nokias-4g-network-moon-224700664.html",
+                "source": "Yahoo Tech",
+                "date": "2026-10-10T22:47:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Google Maps Will Now Display Your Vehicle As A McLaren Formula 1 Race Car",
                 "desc": "Google and McLaren have partnered up to celebrate the United States GP in Austin and the upcoming Las Vegas Grand Prix with a tiny, digital race car.",
@@ -1174,99 +1264,99 @@
                 "source": "Moneycontrol.com",
                 "date": "2026-10-09T17:16:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Advancing chemical reaction prediction in data-scarce drug discovery with active and geometric deep learning",
-                "desc": "The success of generative molecular design depends on the synthetic accessibility of the molecules it creates. While computational models can help predict chemical reactions, their current effectiveness is limited by a lack of reference data and the difficulty of accurately predicting reaction regioselectivity. Here, to address this, we present an integrated closed-loop workflow that combines efficient reaction data acquisition with high-accuracy deep learning. We developed an active learning strategy, driven by a tree-based ensemble, to guide the acquisition of the most informative laboratory experiments. This experimental campaign yielded a diverse benchmark for C–H borylation. The bespoke dataset allowed us to train and evaluate geometric graph neural networks. We demonstrate that augmenting these symmetry-aware models with self-supervised auxiliary tasks consistently improves performance for both reaction outcome prediction and regioselectivity prediction. Prospective tests on unseen substrates, featuring challenging N-heteroaryl motifs, pinpointed the correct borylation positions in all cases, illustrating the practical utility of our workflow for efficient drug optimization. Researchers pair active learning with geometric deep learning to predict the outcome and site selectivity of chemical reactions from scarce data, guiding experiments that accelerate drug discovery and expand accessible chemical space.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-026-01063-0/MediaObjects/43588_2026_1063_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s43588-026-01063-0?error=cookies_not_supported&code=8c5eef21-9f7c-4941-b1b7-17bfe6caf339",
-                "source": "Nature",
-                "date": "2026-10-09T11:56:10Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Fyreslayers in Battletome: Khazalite Holds - What you need to know",
-                "desc": "What’s happening to Grimnir’s faithful berzerkers?",
-                "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/aos_fyreslayers-oct09-2-share-vbgmepujgh.jpg",
-                "url": "https://www.warhammer-community.com/en-gb/articles/rv6irmgo/fyreslayers-in-battletome-khazalite-holds-what-you-need-to-know/",
-                "source": "Warhammer Community",
-                "date": "2026-10-09T11:55:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Laptop Is Getting an Upgrade: Meet the Acer Googlebook 14",
-                "desc": "Laptops are getting one of the biggest shake-ups in over a decade. A fresh computing category has arrived in the...",
-                "image": "https://www.magic1059.com.au/wp-content/uploads/sites/37/2026/10/20261009-acer-feature.jpg",
-                "url": "https://www.magic1059.com.au/trending/technology/the-laptop-is-getting-an-upgrade-meet-the-acer-googlebook-14/",
-                "source": "Magic 105.9",
-                "date": "2026-10-09T11:53:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Laptop Is Getting an Upgrade: Meet the Acer Googlebook 14",
-                "desc": "Laptops are getting one of the biggest shake-ups in over a decade. A fresh computing category has arrived in the...",
-                "image": "https://www.5cc.com.au/wp-content/uploads/sites/33/2026/10/20261009-acer-feature.jpg",
-                "url": "https://www.5cc.com.au/trending/technology/the-laptop-is-getting-an-upgrade-meet-the-acer-googlebook-14/",
-                "source": "5CC",
-                "date": "2026-10-09T11:52:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Experts highlight endemic status and low severity",
-                "desc": "Emergency room visits, hospitalizations, and deaths remain at record lows.",
-                "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/AOGCVRY2ZRB2NLUBFNWDSTWR6Y.jpg?auth=eccef9e166ad5177f304a521539372648f5a42cd2c45aea85b4f6d450be99d6f&width=1440",
-                "url": "https://www.bostonglobe.com/2026/10/09/metro/covid-massachusetts-variants-flu-pandemic-vaccine/",
-                "source": "The Boston Globe",
-                "date": "2026-10-09T11:52:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Official GTA 6 merch collection drops via Rockstar Games: Where to buy",
-                "desc": "Rockstar Games officially dropped the GTA 6 merch collection featuring Vice City shirts, Zippo lighters, vinyl preorders, and collectible bundles.",
-                "image": "https://helios-i.mashable.com/imagery/articles/01gOuH6oGyJ07MarHjRcdWA/hero-image.fill.size_1200x675.v1791542109.png",
-                "url": "https://mashable.com/entertainment/gta-6-official-merch-collection-where-to-buy",
-                "source": "Mashable",
-                "date": "2026-10-09T11:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New GTA Online Free Download is Available Now",
-                "desc": "Rockstar Games releases a new GTA Online free download that players can grab right now.",
-                "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/gta-online-free-downloads-october-2026.jpg?w=1600&h=900&fit=crop",
-                "url": "https://gamerant.com/gta-online-free-downloads-october-2026/",
-                "source": "GameRant",
-                "date": "2026-10-09T11:47:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Ends Free Cellular Safety Tools on Older Pixel Watches",
-                "desc": "The Pixel Watch 2 and 3 are both losing access to Safety Signal features over Google's free LTE connection.",
-                "image": "https://i.pcmag.com/imagery/articles/06kDgQVKYH0cDupFGVeFwgo-1.fit_lim.size_1200x630.v1791545019.jpg",
-                "url": "https://www.pcmag.com/news/google-ends-free-cellular-safety-tools-on-older-pixel-watches",
-                "source": "PCMag",
-                "date": "2026-10-09T11:47:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This Wonderful Animal Crossing-Like Is Now Free For Switch Online Members",
-                "desc": "Play until 15th October - Nintendo has today launched its next free Game Trial for Switch Online members in North America, and it's a doozy. Hello Kitty Isl...",
-                "image": "https://images.nintendolife.com/5f43628b8927e/1280x720.jpg",
-                "url": "https://www.nintendolife.com/news/2026/10/this-wonderful-animal-crossing-like-is-now-free-for-switch-online-members",
-                "source": "Nintendo Life",
-                "date": "2026-10-09T11:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Best EA FC 27 custom tactics from pro players",
-                "desc": "Get more from your Ultimate Team with formations, player roles and custom tactics recommended by pros Tekkz and RedLac. Learn how to control the midfield, defend through balls and chase a winner.",
-                "image": "https://img.redbull.com/images/c_crop,w_3840,h_1920,x_0,y_234/c_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2026/10/9/v4bn906jq1fjadv4mndp/rblz-umut-gultekin-tekkz-redlac-red-bull-diski-last-namba-johannesburg-2026",
-                "url": "https://www.redbull.com/in-en/best-ea-fc-27-custom-tactics",
-                "source": "Red Bull",
-                "date": "2026-10-09T11:44:25Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Earth Flunks 2026 Physical Exam",
+                "desc": "The planet has flunked its annual physical exam. Seven-of-Nine planetary boundaries have been breached. This means: “Human activities have pushed Earth",
+                "image": "https://www.pressenza.com/wp-content/uploads/2026/10/Earth.webp",
+                "url": "https://www.pressenza.com/2026/10/earth-flunks-2026-physical-exam/",
+                "source": "Pressenza - International Press Agency",
+                "date": "2026-10-10T23:27:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria: Outsourcing the presidency, one infirmity at a time",
+                "desc": "Nigeria: Outsourcing the presidency, one infirmity at a time By Chidi Anselm Odinkalu Nearly 20 years ago, while stumping for his party, the Peoples’",
+                "image": "https://thenicheng.com/wp-content/uploads/2025/01/Chidi-Odinkalu.jpg",
+                "url": "https://thenicheng.com/nigeria-outsourcing-the-presidency-one-infirmity-at-a-time/",
+                "source": "TheNiche",
+                "date": "2026-10-10T23:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi authorities say attack on airport killed 12, wounded over 300",
+                "desc": "The kingdom faces an extraordinary series of assaults in the new front in the Iran war.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/this-image-from-video-obtained-and-verified-by-ap-shows-thic-HOFSJK45XBETVC6FSWIRMLRSD4.png?auth=56b633ca6cb1d2cac26e45af8b77a4edb1fb7f455947008257e9bc995aa6c54e&quality=70&width=600&height=315&focal=960%2C540",
+                "url": "https://www.1news.co.nz/2026/10/11/saudi-authorities-say-attack-on-airport-killed-12-wounded-over-300/",
+                "source": "1News",
+                "date": "2026-10-10T23:10:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Toronto headmaster asks students, ‘What kind of man will you be?’ in wake of Cornell sexual-assault allegations",
+                "desc": "Stephen Beatty, headmaster at an independent all-boys school, urged his students last week to not be silent bystanders",
+                "image": "https://www.theglobeandmail.com/resizer/v2/CM26N3FMDFCHBL2W7JG6FZ5RHQ.jpg?auth=718a8ff1230629264f447b59a94ac1a9685f4875bb33fe119862a4b3ea5fb91f&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/life/article-toronto-royal-st-georges-college-headmaster-speech-cornell-assault/",
+                "source": "The Globe and Mail",
+                "date": "2026-10-10T23:08:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MPs attempt to overturn ruling which protects police from being sued",
+                "desc": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b00/live/778a9be0-c401-11f1-838e-6d1d6d701264.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo",
+                "source": "BBC",
+                "date": "2026-10-10T23:04:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MPs attempt to overturn ruling which protects police from being sued",
+                "desc": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5b00/live/778a9be0-c401-11f1-838e-6d1d6d701264.jpg",
+                "url": "https://www.bbc.com/news/articles/c6y43mmke7ygo",
+                "source": "BBC",
+                "date": "2026-10-10T23:04:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia has ‘no interest’ in Russian diesel after US Trump, Putin deal",
+                "desc": "Australia has “no interest” in purchasing diesel from Russia despite prices continue to surge off the back of the war on Iran, after Donald Trump backflipped on years of US foreign policy by inking a new deal with Vladimir Putin.",
+                "image": "https://content.api.news/v3/images/bin/d998fa144ef9843efcaed680afed7794",
+                "url": "https://www.news.com.au/world/australia-rejects-russian-diesel-imports-after-donald-trump-inks-contentious-deal-with-vladimir-putin/news-story/34ee21d14cd6e35710cd0807fa62021f",
+                "source": "News.com.au",
+                "date": "2026-10-10T23:03:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Twelve killed and 300 injured in Riyadh airport attack",
+                "desc": "At least 12 people were killed and 309 others wounded in a suspected Houthi attack on Riyadh's international airport.",
+                "image": "https://www.rte.ie/images/002526ff-1600.jpg",
+                "url": "https://www.rte.ie/news/middle-east/2026/1011/1594880-middle-east-saudi/",
+                "source": "RTE.ie",
+                "date": "2026-10-10T23:03:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Twelve killed and 300 injured in Riyadh airport attack",
+                "desc": "At least 12 people were killed and 309 others wounded in a strike on Riyadh's international airport, Saudi Arabia's civil aviation officials said - an attack that a diplomatic source blamed on Yemen's Houthis.",
+                "image": "https://www.rte.ie/images/002526ff-1600.jpg",
+                "url": "https://www.rte.ie/news/middle-east/2026/1011/1594880-middle-east/",
+                "source": "RTE.ie",
+                "date": "2026-10-10T23:03:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+                "desc": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each exists",
+                "image": "https://i.guim.co.uk/img/media/f50120ad5ffe55e5024a1ec6dc2e727ce8f4f95d/269_0_3928_3142/master/3928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=821105db283a829e3ca0732b7742a923",
+                "url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+                "source": "The Guardian",
+                "date": "2026-10-10T23:02:13Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "South African court jails 71-year-old woman for killing three great-grandchildren",
                 "desc": "A 71-year-old South African woman, Susana “Sarie” De Villiers, has been sentenced to 20 years in prison for killing her three great-grandchildren.",
@@ -1806,98 +1896,8 @@
                 "source": "Meduza",
                 "date": "2026-10-09T17:16:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Iran and Russia used ChatGPT for propaganda by ‘fake journalists’, OpenAI says",
-                "desc": "The American tech giant said it banned Russian and Iranian accounts that had been using ChatGPT models to generate content and fake journalist personas to spread false narratives about the conflicts in Ukraine and the Middle East and sow division.",
-                "image": "https://images.euronews.com/articles/stories/09/94/58/18/1200x675_cmsv2_4aec8587-3eb6-5ecd-b564-ad39f195471d-9945818.jpg",
-                "url": "https://www.euronews.com/2026/10/09/iran-and-russia-used-chatgpt-for-propaganda-by-fake-journalists-openai-says",
-                "source": "Euronews.com",
-                "date": "2026-10-09T11:53:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Putin offers help to end Iran war while Russia continues its own in Ukraine",
-                "desc": "The Russian president met Pezeshkian in Turkmenistan and pledged to do “everything in our power” to end the ongoing war between the US and Iran, despite Russia not being among the official mediators.",
-                "image": "https://images.euronews.com/articles/stories/09/94/57/31/1200x675_cmsv2_150ee3a5-e1e1-5afa-9d7e-eb2b9614a8c5-9945731.jpg",
-                "url": "https://www.euronews.com/2026/10/09/putin-offers-help-to-end-iran-war-while-russia-continues-its-own-in-ukraine",
-                "source": "Euronews.com",
-                "date": "2026-10-09T11:53:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Melaka DAP sticks to PH going solo, contradicting PKR",
-                "desc": "PH leaders continue to give conflicting signals on whether the coalition will contest the Nov 14 state election alone.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/10/72a9888f-a373-4dd0-a4c6-8080ffba6019-Khoo-Poay-Tiong-Adam-Adli-tile-091026.jpg",
-                "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/melaka-dap-sticks-to-ph-going-solo-contradicting-pkr",
-                "source": "Free Malaysia Today",
-                "date": "2026-10-09T11:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Liberia: AITB's DG Seeks to Transform Tvet Governance",
-                "desc": "The government's effort to build a stronger Technical and Vocational Education and Training (TVET) system is increasingly looking beyond its borders--not for a model to copy wholesale, but for tested African approaches that can be adapted to the country's own institutional, economic and labor-market realities.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202610090400.html",
-                "source": "allAfrica.com",
-                "date": "2026-10-09T11:48:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thieves cart off 30,000 bottles of Tuscany’s finest wines",
-                "desc": "Gang used Antinori estate’s own forklifts to load £4.2m of premium reds on to two trucks",
-                "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/10/09/TELEMMGLPICT000506564414_17915411793070_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0n_4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
-                "url": "https://www.telegraph.co.uk/world-news/2026/10/09/thieves-cart-off-30000-bottles-of-tuscanys-finest-wines/",
-                "source": "The Telegraph",
-                "date": "2026-10-09T11:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hurricane Simon forecast to get much stronger as it heads to Mexico's Pacific Coast",
-                "desc": "Hurricane Simon was headed toward part of Mexico's Pacific Coast on Friday and forecast to get much stronger, leading to hurricane-force winds and torrential rains that could cause flooding and mudslides.",
-                "image": "https://i.cbc.ca/ais/ce063680-3c7d-433c-8553-db78feba1b39,1791544999270/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C1000%2C562%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/science/hurricane-simon-oct-9-9.7375303",
-                "source": "CBC",
-                "date": "2026-10-09T11:41:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Huge update on flights to two popular Middle East countries",
-                "desc": "The Australian government has lowered the travel warning level for two popular Middle East countries.",
-                "image": "https://content.api.news/v3/images/bin/f2c0d2b659713ecf990e031299611200",
-                "url": "https://www.news.com.au/travel/travel-updates/flight-updates/huge-update-on-flights-to-two-popular-middle-east-countries/news-story/f14e010f9ec1f764a6514ae9bb43cd96",
-                "source": "News.com.au",
-                "date": "2026-10-09T11:41:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia Publishes Minimum Score Foreigners Must Get for Skilled Visa Invitation",
-                "desc": "Australia confirms 65-point minimum for skilled migration visa invitations, but meeting it does not guarantee selection in competitive SkillSelect invitation rounds.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/3043423c6393eb9b.jpeg?v=1",
-                "url": "https://yen.com.gh/world/313528-australia-discloses-minimum-score-foreigners-skilled-visa-invitation/",
-                "source": "Yen.com.gh",
-                "date": "2026-10-09T11:40:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Dell CEO speaks out on £6.25 billion giveaway after wife’s viral White House appearance",
-                "desc": "The Dells pledged 6.25 billion to fund accounts for 25 million children",
-                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltd8dd90cf9a659d69/6ac8aa44f1d334cc79f1af5a/Dell-CEO-Michael-Dell-Susan-donald-Trump-Accounts-2.jpg",
-                "url": "https://www.ladbible.com/news/us-news/dell-ceo-michael-dell-susan-donald-trump-accounts-165797-20261009",
-                "source": "LADbible",
-                "date": "2026-10-09T11:39:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Embassy in Jordan, EU aviation group warn against traveling to Middle East",
-                "desc": "Also on Friday, the European Union Aviation Safety Agency EASA recommended airlines not to operate within additional portions of Saudi airspace after Yemen's Iran-aligned Houthis attacked Riyadh.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/741263",
-                "url": "https://www.jpost.com/middle-east/article-911171",
-                "source": "The Jerusalem Post",
-                "date": "2026-10-09T11:39:06Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-11T05:26:52.899413Z"
+    "lastGlobalSync": "2026-10-11T11:37:00.383294Z"
 }
