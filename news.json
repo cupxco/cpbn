@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Predicting nitrogen dioxide column density from the International Wealth Index with a convolutional neural network in Africa",
+                "desc": "In the pursuit of improving socioeconomic living conditions of their populations, many nations struggle to meet their nationally determined contributions (NDCs) under the Paris agreement, and that shortfall makes accountability for emissions reductions critical. The long atmospheric lifetimes of key gases such as carbon dioxide (CO2) and methane (CH4) hinder traditional greenhouse gas (GHG) monitoring, because what any one place emits adds only a small excess to a large, well-mixed background. Nitrogen dioxide (NO2) behaves differently: it is short-lived and highly variable in space and time, so satellite instruments resolve its patterns close to source regions. Across the African continent, mapped temporal correlations between NO2 and CO2 are moderate in magnitude but spatially structured and consistently positive. Although we do not use that association to mechanically convert NO2 observations into CO2, we report it as contextual evidence towards NDCs. Given this context, this study asks the following question: to what extent can socioeconomic development at the neighbourhood scale predict NO2 column densities (the amount of NO2 in the air column above that neighbourhood) across Africa? We apply a convolutional neural network (CNN) to gridded International Wealth Index (IWI) estimates and to NO2 observations from the tropospheric Monitoring Instrument (TROPOMI), and obtain an average predictive accuracy of $$R^2$$ = 0.56 across the African continent. Because IWI can be projected forward, we also present an illustrative 2030 scenario as a methodological demonstration of the relationship between socioeconomic development and NO2 trajectories. These findings indicate that gridded wealth estimates carry predictive information about NO2 column density in Africa. Such estimates offer a lightweight and scalable screening tool that complements process-based atmospheric monitoring rather than replacing it.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-73707-0/MediaObjects/41598_2026_73707_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41598-026-73707-0?error=cookies_not_supported&code=7f6282b5-3f3b-4de6-bdde-9038e2ac63ac",
+                "source": "Nature",
+                "date": "2026-10-15T07:20:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Becketwell site picked for Great British Railways Derby HQ",
+                "desc": "Peveril and St James scheme to be home for eight-storey office hub",
+                "image": "https://www.constructionenquirer.com/wp-content/uploads/3-Springwell-Square-1200x828.webp",
+                "url": "https://www.constructionenquirer.com/2026/10/15/becketwell-site-picked-for-great-british-railways-derby-hq/",
+                "source": "Construction Enquirer",
+                "date": "2026-10-15T07:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold rebounds from one-week low as dollar slips",
+                "desc": "GOLD prices edged higher on Thursday, rebounding from a one-week low hit in the previous session, as the US dollar eased, while investors assessed the likelihood of a Federal Reserve interest rate increase this month after a hot inflation report.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/15/4163220.jpg",
+                "url": "https://www.thestar.com.my/business/business-news/2026/10/15/gold-rebounds-from-one-week-low-as-dollar-slips",
+                "source": "The Star",
+                "date": "2026-10-15T07:17:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "YOMG: New burger and frozen yoghurt venue coming to Morley Galleria in November",
+                "desc": "It’s kind of like if Yo-Chi and Betty’s Burgers had a food baby!",
+                "image": "https://images.perthnow.com.au/publication/C-23024906/fc8cfc871fb6c53ae3cd6dd2bc36098eb8707e26-16x9-x0y67w1280h720.jpg?imwidth=1200",
+                "url": "https://www.perthnow.com.au/food/yomg-new-burger-and-frozen-yoghurt-venue-coming-to-morley-galleria-in-november-c-23024906",
+                "source": "PerthNow",
+                "date": "2026-10-15T07:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mahindra XUV 3XO CNG: What Each Variant Gets",
+                "desc": "The highlight is not the 270-litre usable boot or a twin-cylinder setup, but the same 110bhp/200Nm power output for both petrol and CNG modes.",
+                "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/156405/xuv-3xo-exterior-right-front-three-quarter-492.jpeg?isig=0&isig=0&art=1&q=80",
+                "url": "https://www.carwale.com/news/mahindra-xuv-3xo-cng-what-each-variant-gets/",
+                "source": "CarWale",
+                "date": "2026-10-15T07:15:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sarawak man finds RM1b in bank account, asks ChatGPT to count the zeros - only to discover it’s a glitch",
+                "desc": "KUALA LUMPUR, Oct 15 — When a Sarawak clinic manager opened his banking app and discovered a mysterious 10-digit balance, he did what some people might do when faced with an...",
+                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/15/368504.jpg",
+                "url": "https://www.malaymail.com/news/malaysia/2026/10/15/sarawak-man-finds-rm1b-in-bank-account-asks-chatgpt-to-count-the-zeros-only-to-discover-its-a-glitch/239204",
+                "source": "Malay Mail",
+                "date": "2026-10-15T07:13:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Victoria has ‘no choice’ but to confront growing debt problem",
+                "desc": "Businessman Paul Bassat says Victorians are ready to have a serious discussion about government debt. Are our political leaders up for it?",
+                "image": "https://static.ffx.io/images/$zoom_0.2995%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_487%2C$y_112/t_crop_custom/q_86%2Cf_auto/1a7b61e1db2c80d2f96ad8337272dd7db8fb19d0",
+                "url": "https://www.theage.com.au/politics/victoria/victoria-has-no-choice-but-to-confront-growing-debt-problem-20261015-p615i8.html",
+                "source": "The Age",
+                "date": "2026-10-15T07:13:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
+                "desc": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c805/live/f9d54590-c862-11f1-811a-c519df8e0311.jpg",
+                "url": "https://www.bbc.com/news/articles/ck8dz1me439no",
+                "source": "BBC",
+                "date": "2026-10-15T07:10:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ACCC takes Kmart to court for selling nail glue that caused burns",
+                "desc": "The consumer watchdog has taken legal action against Kmart, alleging it breached Australian consumer law by selling millions of bottles of nail glue that caused burns.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/db710b2878ae5196657f7f917d07d46a?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-10-15/accc-take-action-against-kmart-over-nail-glue/107270918",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-10-15T07:09:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Malaysian Left Shaking After Finding RM1 Billion In His Bank Account",
+                "desc": "He said he was only supposed to have RM1,000 in his account.",
+                "image": "https://media.says.com/2026/10/Malaysian-Left-Shaking-After-Finding-RM1-Billion-In-His-Bank-Account.jpg",
+                "url": "https://says.com/my/news/malaysian-shaking-finding-rm1-billion-his-bank-account",
+                "source": "SAYS",
+                "date": "2026-10-15T07:07:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Pakistan approves unit to detect pyramid schemes - Dawn",
                 "desc": "Pakistan's SECP approved a Corporate Intelligence Unit to identify companies suspected of pyramid or Ponzi schemes and other unlicensed financial activity.",
                 "image": "https://cdn-cabinet.ua.news/uploads/images/pakistan_regulator_creates_unit_to_detec_1792035677529.webp",
@@ -542,99 +632,99 @@
                 "source": "RTE.ie",
                 "date": "2026-10-14T06:42:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "South Korean carmaker Hyundai to invest $15.5 billion in India by 2032",
-                "desc": "Korean car company Hyundai says India is a strategic core market",
-                "image": "https://image.cnbcfm.com/api/v1/image/108052382-1729781111369-gettyimages-2179334004-AVaishnav_Hyundai_logo_in_Mumbai_India_1.jpeg?v=1729781120&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html",
-                "source": "CNBC",
-                "date": "2026-10-14T02:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "60% of Japanese households keep aircon running 24/7 during summer, survey shows",
-                "desc": "The drop appears to have been due to the rainy season ending later than last year, particularly in the Tokyo metropolitan area, and temperatures being relatively low on some days during the latter half of summer.",
-                "image": "https://asianews.network/wp-content/uploads/2026/10/air-conditioner-for-web.jpg",
-                "url": "https://asianews.network/60-of-japanese-households-keep-aircon-running-247-during-summer-survey-shows/",
-                "source": "Asia News Network",
-                "date": "2026-10-14T02:03:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IndiGo 4Q26 International Service Reductions",
-                "desc": "Published at 1900PDT 13OCT26 / 0200GMT 14OCT26 Indian low-cost carrier IndiGo in recent weeks filed various service reductions or cancellations on selected international routes, mainly scheduled in the fourth quarter of 2026. Based on schedule filing comparison 30AUG26 vs 11OCT26, planned changes",
-                "image": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w",
-                "url": "https://www.aeroroutes.com/eng/261013-6e4q26int",
-                "source": "AeroRoutes",
-                "date": "2026-10-14T02:00:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The 'Sophisticated' Bug OpenAI Found in Its Conference Room Can Be Yours for $13.99",
-                "desc": "The Seeed Studio XIAO ESP32-S3 Sense is for tinkerers, not super-spies.",
-                "image": "https://gizmodo.com/app/uploads/2026/10/seeed-bug-openai-1200x675.jpg",
-                "url": "https://gizmodo.com/the-sophisticated-bug-openai-found-in-its-conference-room-can-be-yours-for-13-99-2000825636",
-                "source": "Gizmodo",
-                "date": "2026-10-14T02:00:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "S'pore launches toolkit to help firms test AI agents",
-                "desc": "Singapore launches new AI agent test kit to help organisations assess safety and reliability of agentic systems. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ae49ffd2e704c8b125c67b720f2b26df1278f4ee51a2cc100225997d1dcf952a?w=1200",
-                "url": "https://www.straitstimes.com/singapore/singapore-launches-new-tool-kit-to-help-firms-test-ai-agents-for-safety-and-reliability",
-                "source": "The Straits Times",
-                "date": "2026-10-14T02:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-                "desc": "An OpenAI engineering lead was arrested over an allegedly planted audio recorder in an executive conference room.",
-                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6tXAfDSv5HwaNsBdrtgbjvOoTMYJuMGQPGpLM5auUfz9dUSuExG-IY_42zMx-VP8GbM-oXAVGbKjHIqNOHy08-lKsCPrJMbhPrDw-9UlJpapcAMZohyphenhypheng7IZh192IoEGs66NRp6TNCWIFYsO5oh9gKkIeILKD_8zdzCHBmoJCeCi65kZjDvQyZwzicV2I/s1700-nu-rw-lo-l85-e365/opens.jpg",
-                "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-                "source": "The Hacker News",
-                "date": "2026-10-14T01:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BREAKING: Name & More Revealed for Japan's First Disney Cruise Line Ship",
-                "desc": "Disney announced the name of the Disney Cruise Line ship that will be operated by Oriental Land Company.",
-                "image": "https://r2-media.wdwnt.com/2026/10/Ariel-Stern-Statue-Disney-Imagination-Cruise-Line.jpg",
-                "url": "https://wdwnt.com/2026/10/breaking-name-more-revealed-for-japans-first-disney-cruise-line-ship/",
-                "source": "WDW News Today",
-                "date": "2026-10-14T01:57:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A $90 Million Spyware Hack Sparks Review of Crypto Wallet Sales",
-                "desc": "Crypto hardware maker Ledger SAS is reviewing its policies and processes for how its devices are sold to consumers, after spyware implanted in some wallets led to an estimated $90 million in stolen cryptocurrency.",
-                "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-                "url": "https://news.bloomberglaw.com/crypto/a-90-million-spyware-hack-sparks-review-of-crypto-wallet-sales",
-                "source": "Bloomberg Law News",
-                "date": "2026-10-14T01:57:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil rises amid growing tensions between Saudis and Iran-backed Houthis",
-                "desc": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108367941-1790326873884-gettyimages-2293738554-AA_09092026_2944252.jpeg?v=1790326911&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-                "source": "CNBC",
-                "date": "2026-10-14T01:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SK Group Chairman Chey sells stake to Dell family office fund for $406 million",
-                "desc": "SEOUL, Oct 14 : SK Group Chairman Chey Tae-won has agreed the sale of a 1.34 per cent stake in holding company SK Inc to an investment fund linked to Dell Technologies founder Michael Dell for 544 billion won ($406 million), a regulatory filing showed on Wednesday.The deal is part of Chey's plan to raise 944",
-                "image": "https://dam.mediacorp.sg/image/upload/s--e3m2vCG4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-14T015323Z_1_LYNXMPEM9D04F_RTROPTP_3_SK-HYNIX-OUTLOOK.JPG?itok=vxuFdyr6",
-                "url": "https://www.channelnewsasia.com/business/sk-group-chairman-chey-sells-stake-dell-family-office-fund-406-million-6457511",
-                "source": "CNA",
-                "date": "2026-10-14T01:53:23Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Pequignet brings the French Touch to life with its new Royale Paris Chrono BPM watch",
+                "desc": "On October 8, the French watchmaker unveiled its new watch, the Royale Paris Chrono BPM.",
+                "image": "https://luxus-plus.com/wp-content/uploads/2026/10/RPBPM_cobra_pequignet.jpg",
+                "url": "https://luxus-plus.com/en/pequignet-brings-the-french-touch-to-life-with-its-new-royale-paris-chrono-bpm-watch/",
+                "source": "Luxus Plus",
+                "date": "2026-10-15T07:26:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 Leaker Cyberleek Says Their Reveals Stop Here, for Now",
+                "desc": "Cyberleek shared another announcement.",
+                "image": "https://cdn.80.lv/api/upload/meta/50634/images/6ad07e2d662af/contain_1200x630.jpg",
+                "url": "https://80.lv/articles/gta-6-leaker-says-their-reveals-stop-here-for-now",
+                "source": "80 Level",
+                "date": "2026-10-15T07:20:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ocarina of Time Remake Will Support All Existing Zelda Amiibo With In-Game Item Bonuses",
+                "desc": "The full gang.",
+                "image": "https://sm.ign.com/t/ign_za/news/o/ocarina-of/ocarina-of-time-remake-will-support-all-existing-zelda-amiib_4vs4.1200.jpg",
+                "url": "https://za.ign.com/nintendo-amiibo/243327/ocarina-of-time-remake-will-support-all-existing-zelda-amiibo-with-in-game-item-bonuses",
+                "source": "IGN Africa",
+                "date": "2026-10-15T07:20:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Starbucks is launching an incredibly sweet Winnie the Pooh collection - how to buy",
+                "desc": "Starbucks is teaming up with Disney for a 20-piece Starbucks x Winnie the Pooh collection. The limited-edition lineup drops on Oct. 20.",
+                "image": "https://helios-i.mashable.com/imagery/articles/01FmHEXNEQH3a5XFf6XwXF8/hero-image.fill.size_1200x675.v1791991460.jpg",
+                "url": "https://mashable.com/life/starbucks-disney-winnie-the-pooh-collection-how-to-buy",
+                "source": "Mashable",
+                "date": "2026-10-15T07:19:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call of Duty: Modern Warfare 4 will be filled with content from day one. Support plan revealed",
+                "desc": "Call of Duty: Modern Warfare 4 will receive new modes and maps shortly after release: early access to the campaign will begin before the release, and the first season will start on November 6, 2026.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1726250/85af73be-68f4-4c50-911c-3838191135c6.jpg",
+                "url": "https://ixbt.games/en/news/2026/10/15/call-of-duty-modern-warfare-4-s-pervogo-dnia-zapolniat-kontentom-poiavilsia-plan-podderzki.html",
+                "source": "iXBT.games",
+                "date": "2026-10-15T07:17:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Identity-led intrusions drive cyber extortion tactics",
+                "desc": "Attackers are exploiting trusted identities and collaboration tools to steal data and extort victims, leaving defenders with only brief windows to react.",
+                "image": "https://securitybrief.asia/uploads/story/2026/10/15/compatible_shadowy-intruder-stolen-keycard-office-network-laptop-cloud-files-story-321473.jpg",
+                "url": "https://securitybrief.asia/story/identity-led-intrusions-drive-cyber-extortion-tactics",
+                "source": "SecurityBrief Asia",
+                "date": "2026-10-15T07:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Magic: The Gathering Designer's Response to Product Fatigue Sparks Debate About the Deluge of New Cards",
+                "desc": "All things in moderation.",
+                "image": "https://sm.ign.com/t/ign_za/news/m/magic-the-/magic-the-gathering-designers-response-to-product-fatigue-sp_wvf1.1200.jpg",
+                "url": "https://za.ign.com/magic-the-gathering-trading-card-game/243329/magic-the-gathering-designers-response-to-product-fatigue-sparks-debate-about-the-deluge-of-new-card",
+                "source": "IGN Africa",
+                "date": "2026-10-15T07:11:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Crossover Nobody Expected. Tekken Fighters Dive into the World of Racing",
+                "desc": "Asphalt Legends is hosting a Tekken 8 crossover until November 11: players can get six cars.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1726244/f379e41e-91e9-4bac-a37b-168c7c6ffe51.jpg",
+                "url": "https://ixbt.games/en/news/2026/10/15/krossover-kotoryi-nikto-ne-zdal-boicy-tekken-pogruzilis-v-mir-gonok.html",
+                "source": "iXBT.games",
+                "date": "2026-10-15T07:09:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘We Vibe Coded a New Epic Games Launcher’ - Epic’s New Store App Was Built Using AI",
+                "desc": "“It's obviously an issue that's of high visibility at the moment.”",
+                "image": "https://sm.ign.com/t/ign_za/news/w/we-vibe-co/we-vibe-coded-a-new-epic-games-launcher-epics-new-store-app_nhbq.1200.jpg",
+                "url": "https://za.ign.com/fortnite/243328/we-vibe-coded-a-new-epic-games-launcher-epics-new-store-app-was-built-using-ai",
+                "source": "IGN Africa",
+                "date": "2026-10-15T07:05:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Metro 2039 priced for South Africa with parity across console and PC",
+                "desc": "You will be paying the same no matter where you play the new Metro.",
+                "image": "https://htxt.co.za/wp-content/uploads/2026/10/METRO-2039-Generic.jpg",
+                "url": "https://htxt.co.za/2026/10/metro-2039-priced-for-south-africa-with-parity-across-console-and-pc/",
+                "source": "htxt.africa",
+                "date": "2026-10-15T07:03:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Steam's Remote Play host crashes in Steam's own encoder, and Valve merged a second report",
                 "desc": "Issue 13704 puts a Remote Play host crash in Steam's bundled FFmpeg encoder on a Steam Machine, and Valve merged a second report into it on October 13.",
@@ -1174,99 +1264,99 @@
                 "source": "IGN Africa",
                 "date": "2026-10-14T06:19:19Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Dainese Smart Air explained: Modes, price and servicing",
-                "desc": "How Dainese Smart Air works, including Road, Offroad and EV modes, 12-hour battery life, fit requirements, Australian pricing and servicing.",
-                "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-McLeods-AMX-Dainese-Processed-5239.jpg",
-                "url": "https://www.mcnews.com.au/dainese-smart-air-explained-australia/",
-                "source": "MCNews",
-                "date": "2026-10-14T02:00:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Capture What Shapes You - Fujifilm Introduces instax SQUARE 2™ instant camera",
-                "desc": "VALHALLA, N.Y., October 14, 2026--FUJIFILM North America Corporation, Imaging Division, today announced the launch of its instax SQUARE 2™ instant camera (hereafter SQUARE 2), the latest iteration in its iconic and popular instax™ SQUARE product lineup. SQUARE 2 brings a refreshed look and new features to fans of square instant photos.",
-                "image": "https://s.yimg.com/lo/mysterio/api/20ffb076a726e6ea0a7c0c42ecf8d638b723735ba6c204f822b5ac707161dd97/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2Fc25f1431a8d8089fec20f8656dd75db2.jpg",
-                "url": "https://finance.yahoo.com/technology/articles/capture-shapes-fujifilm-introduces-instax-020000650.html",
-                "source": "Yahoo Finance",
-                "date": "2026-10-14T02:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Instax Square 2 gives instant film shooters a switch to change the mood",
-                "desc": "There's also a new \"Soft Haze\" film to go alongside it for even dreamier vibes.",
-                "image": "https://s.yimg.com/lo/mysterio/api/e85e12c9ede6e906370676c4f9954d9fc571c82f8d5fe7b651fc823198afdf4b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpreview_articles_177%2Fa303a14ae11d2c82472dce81095fe6f2.jpg",
-                "url": "https://tech.yahoo.com/cameras/articles/instax-square-2-gives-instant-020000288.html",
-                "source": "Yahoo Tech",
-                "date": "2026-10-14T02:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GovTech and Google DeepMind develop AI scam detection system",
-                "desc": "Singapore’s GovTech and Google DeepMind are developing an on-device, real-time AI scam detection system. The country is also preparing critical infrastructure for quantum-safe migration.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/govtech_google_deepmind_ai_scam_detectio_1791942207154.webp",
-                "url": "https://ua.news/en/world/govtech-i-google-deepmind-rozrobliaiut-sistemu-viiavlennia-shi-shakhraistva-channel-newsasia",
-                "source": "UA.NEWS",
-                "date": "2026-10-14T01:51:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Build an Audit Tool",
-                "desc": "Learn how Cursor Composer picks diff vs full-file rewrite and build a Python tool to audit, benchmark, and tune that behavior in 11 steps.",
-                "image": "https://tech-insider.org/wp-content/uploads/2026/10/cursor-composer-rewrite-audit-tool-2026-gen.webp",
-                "url": "https://tech-insider.org/cursor-composer-rewrite-audit-tool-2026/",
-                "source": "https://tech-insider.org/",
-                "date": "2026-10-14T01:45:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Watch unlocks sleep apnea detection in China; 30 days of data can generate a doctor",
-                "desc": "In the early hours of October 14, Apple officially rolled out the Apple Watch sleep apnea detection feature to users in mainland China alongside the…",
-                "image": "https://img.biggo.com/jYCZUO6Kg_jVMi7oSnCrnLFkkVs1mVmmYdVwDx-tjpE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzIyMDgxOWU3LTMzNzktNDY5Ni1hNTc1LWE1YzMwMTg1YmNmMF8xNzkxOTQxOTM4X2RlZmF1bHQud2VicA.jpg",
-                "url": "https://finance.biggo.com/news/220819e7-3379-4696-a575-a5c30185bcf0",
-                "source": "BigGo Finance",
-                "date": "2026-10-14T01:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Ninja Swirl ice cream maker is 51 per cent off on Amazon Australia and shoppers are loving the creamy results",
-                "desc": "Shoppers praising its creamy results and endless flavour combinations.",
-                "image": "https://images.7news.com.au/publication/C-23015066/c1cf834ef17ddc107ccaacad222d692874d9efcb-16x9-x0y0w1280h720.jpg?imwidth=1200",
-                "url": "https://7news.com.au/7you/home/the-ninja-swirl-ice-cream-maker-is-51-per-cent-off-on-amazon-australia-and-shoppers-are-loving-the-creamy-results-c-23015066",
-                "source": "7NEWS",
-                "date": "2026-10-14T01:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GovTech and Google DeepMind developing real-time detection of AI scams on devices",
-                "desc": "Organisations will also receive funding through a new grant to protect against quantum threats.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--9MWpwR7s--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/14/120380_0.jpg?itok=Xf63trEL",
-                "url": "https://www.channelnewsasia.com/singapore/govtech-google-deepmind-ai-scam-quantum-sicw-6455621",
-                "source": "CNA",
-                "date": "2026-10-14T01:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nintendo Switch Online adds three new GBA games in October 2026 update",
-                "desc": "Nintendo Switch Online just added three new GBA games as part of a new October 2026 update. The lineup includes Kururin Paradise, Metal Slug Advance, and Monster Rancher. All of these can be found in the Game Boy Advance – Nintendo Classics app right now on Switch 2 and Switch. Note that a membership in the Expansion Pack tier of...",
-                "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-Online-GBA-October-2026.jpg",
-                "url": "https://nintendoeverything.com/nintendo-switch-online-adds-three-new-gba-games-in-october-2026-update/",
-                "source": "Nintendo Everything",
-                "date": "2026-10-14T01:29:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Epic Games Pivots To Drive 'AI Acceleration'",
-                "desc": "Epic Games Pivots To Drive 'AI Acceleration' - 10/14/2026",
-                "image": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/10/13/xpost-epicgames-600_DV76jyh.jpg",
-                "url": "https://www.mediapost.com/publications/article/418720/epic-games-pivots-to-drive-ai-acceleration.html?edition=144138",
-                "source": "MediaPost",
-                "date": "2026-10-14T01:23:27Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "IMF-World Bank meetings draw modest protests in Bangkok over growing inequality",
+                "desc": "BANGKOK (AP) — Dozens of people marched in Bangkok on Thursday, seeking to draw the attention of world financial leaders to poverty, pollution and other grievances during a meeting of the Internationa...",
+                "image": "https://s.yimg.com/lo/mysterio/api/3df47ccbd5648c770eb28d196c119062af7ec519931c09c0be6e2fdf4cff2f8f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F0c4d1e1b6be9ac1219032714c7332869.jpg",
+                "url": "https://www.yahoo.com/news/world/articles/imf-world-bank-meetings-draw-072720103.html",
+                "source": "Yahoo",
+                "date": "2026-10-15T07:27:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US considers hitting Iran with 'Mother of All Bombs'",
+                "desc": "The United States is considering using its biggest non-nuclear bomb against Iran if President Donald Trump should decide to renew combat in the war that has hit a deadlock, CNN reported Thursday.",
+                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/AFP__20260902__2293244371__v1__MidRes__PresidentTrumpHostsRoseGardenDinnerAtTheWhite.jpg",
+                "url": "https://www.vanguardngr.com/2026/10/us-considers-hitting-iran-with-mother-of-all-bombs-report/",
+                "source": "Vanguard News",
+                "date": "2026-10-15T07:25:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada Announces Closure of Permanent Residence Pathways, Mentions 1 Country Affected",
+                "desc": "Canada’s Hong Kong permanent residence pathways closed to new applications on 31 August 2026. See key figures, pending applications and work permit options.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/d4e75bc86e7f11d5.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/world/643266-canada-announces-closure-permanent-residence-pathways-mentions-1-country-affected/",
+                "source": "Tuko News",
+                "date": "2026-10-15T07:23:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump weighs 'mother of all bombs' strike on Iran's nuclear and energy sites: What is it?",
+                "desc": "US military planners are reportedly considering deploying the 21,600-pound MOAB against Iranian targets, although officials have questioned its effectiveness against deeply buried nuclear facilities.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261015072031_us-bomb.png",
+                "url": "https://www.moneycontrol.com/world/trump-weighs-mother-of-all-bombs-strike-on-iran-s-nuclear-and-energy-sites-what-is-it-article-14052856.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-10-15T07:21:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Justice Department cracks on America's 'North Korean employees problem'; says: More than 70 US companies affected, shares scammers email IDs",
+                "desc": "The US Department of Justice (DOJ) has announced a coordinated crackdown on a North Korean remote IT worker scheme that allegedly infiltrated dozens of",
+                "image": "https://static.toiimg.com/thumb/msid-134960827,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/technology/tech-news/justice-department-cracks-on-americas-north-korean-employees-problem-says-more-than-70-us-companies-affected-shares-scammers-email-ids/articleshow/134960817.cms",
+                "source": "The Times of India",
+                "date": "2026-10-15T07:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Henley Passport Index 2026 Places India On The 84th Spot In The World",
+                "desc": "India is 84th on the Henley Passport Index in October 2026, tied with Algeria and Mauritania. In July, it ranked 81st.",
+                "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2026/10/15123339/Taj-Mahal-Feature-1600x900.jpg",
+                "url": "https://www.travelandleisureasia.com/in/news/india-at-84-position-in-henley-passport-index-visa-free-access-to-55-countries/",
+                "source": "Travel and Leisure Asia",
+                "date": "2026-10-15T07:17:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "At least 27 pupils killed after Pakistan school roof collapses as rescuers search for survivors",
+                "desc": "In a statement, the office of Pakistan's President Asif Ali Zardari says \"this heart-wrenching tragedy has plunged the entire nation into shock\".",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10e6/live/38036070-c86a-11f1-971b-634f423608e9.jpg",
+                "url": "https://www.bbc.com/news/live/crvgynp501y3t",
+                "source": "BBC",
+                "date": "2026-10-15T07:17:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Weight-loss programmes reduce blood sugar levels in adults with prediabetes - Study",
+                "desc": "Structured weight-loss programmes may help adults with prediabetes improve their blood sugar levels, with digital support and intensive counselling showing promising results, a systematic review has found.",
+                "image": "https://tribuneonlineng.com/wp-content/uploads/2025/12/BLOOD-SUGAR.jpg",
+                "url": "https://tribuneonlineng.com/weight-loss-programmes-reduce-blood-sugar-levels-in-adults-with-prediabetes-study/",
+                "source": "Tribune Online",
+                "date": "2026-10-15T07:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN experts urge FAO to protect staff and uphold human-rights work",
+                "desc": "Independent United Nations human-rights experts have urged the Food and Agriculture Organization to protect staff and keep human-rights principles central to its work, after raising concerns about remarks by its director-general and the non-renewal of a senior official’s contract. The experts said they were concerned about the treatment of FAO staff engaged in work on […]",
+                "image": "https://d2fryjlmubyuuh.cloudfront.net/wp-content/uploads/2023/06/25122917/LDN_FB-Cover.png",
+                "url": "https://www.londondaily.news/un-experts-urge-fao-to-protect-staff-and-uphold-human-rights-work/",
+                "source": "London Daily News",
+                "date": "2026-10-15T07:14:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK gives £41m to restore 74 worship, heritage sites",
+                "desc": "The UK government has announced a £41m fund to restore 74 historic places of worship and heritage sites across England, including churches, castles and hal",
+                "image": "https://cdn.punchng.com/wp-content/uploads/2025/07/17123606/flag_2_5155329-1674563025491.jpg-the_union_flag_flying_365_days_a_year_in_ballymoney_will_create__hostility____claim_.jpg",
+                "url": "https://punchng.com/full-list-74-uk-worship-centres-heritage-sites-to-get-41m-restoration-fund/",
+                "source": "Punch Newspapers",
+                "date": "2026-10-15T07:11:12Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Kerala-born Nithya Raman leads in LA mayoral race",
                 "desc": "Kerala-born Nithya Raman is maintaining a lead over her former political ally and incumbent Mayor Karen Bass in the Los Angeles mayoral race after a fiery televised pre-poll",
@@ -1806,98 +1896,8 @@
                 "source": "Business Insider Africa",
                 "date": "2026-10-14T06:34:50Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Traveloka SEA Index Q3 2026: Faith and Heritage Stand Out Across Southeast Asia",
-                "desc": "| Oct. 14, 2026 10:00",
-                "image": "https://image.taiwannews.com.tw/2026%2F10%2F14%2F8a4a000e60c34778a0811bc3e3af8073.jpg",
-                "url": "https://www.taiwannews.com.tw/news/6457658",
-                "source": "Taiwan News",
-                "date": "2026-10-14T02:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malaysian police trace syndicate behind 521kg syabu seizure in Laos on jet from Subang",
-                "desc": "KUALA LUMPUR, Oct 14 — The Royal Malaysia Police (PDRM) have identified a syndicate and several individuals believed to be linked to the arrests and drug seizure at Luang Prabang...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/14/368239.jpg",
-                "url": "https://www.malaymail.com/news/malaysia/2026/10/14/malaysian-police-trace-syndicate-behind-521kg-syabu-seizure-in-laos-on-jet-from-subang/239004",
-                "source": "Malay Mail",
-                "date": "2026-10-14T01:43:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indian airlines cancel flights to Saudi Arabian cities till Oct 17",
-                "desc": "Indian airlines cancel flights to Saudi cities until Oct 17 amid escalating regional tensions and ongoing security concerns.",
-                "image": "https://th-i.thgim.com/public/news/national/zac7n8/article71582082.ece/alternates/LANDSCAPE_1200/iStock-469088908.jpg",
-                "url": "https://www.thehindu.com/news/national/indian-airlines-cancel-flights-to-saudi-arabian-cities-till-oct-17/article71582062.ece",
-                "source": "The Hindu",
-                "date": "2026-10-14T01:42:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Human rights groups criticize uncontested election of 15 countries to top UN human rights body",
-                "desc": "Human rights groups are sharply criticizing the uncontested election of 15 members of the United Nations’ premier human rights body, saying it resulted in countries with poor rights records winning seats",
-                "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
-                "url": "https://www.washingtonpost.com/world/2026/10/13/un-human-rights-council-election-competition-africa/bc837d88-c76d-11f1-aefb-abe4112d087e_story.html",
-                "source": "The Washington Post",
-                "date": "2026-10-14T01:42:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Global deforestation slowed in 2025 but surged in Congo basin: study",
-                "desc": "PARIS (FRANCE) - Deforestation slowed worldwide last year, but the improvement is unlikely to last as the situation deteriorates in Central Africa and an exceptionally strong El Nino weather pattern intensifies, a new study said on Wednesday.",
-                "image": "https://static.bangkokpost.com/media/content/20261014/c1_6264969_700.jpg",
-                "url": "https://www.bangkokpost.com/world/3336744/global-deforestation-slowed-in-2025-but-surged-in-congo-basin-study",
-                "source": "Bangkok Post",
-                "date": "2026-10-14T01:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Macau, Hong Kong step up screening after \"unknown pneumonia\" death in Russia",
-                "desc": "International, Macau, MNA, Newsletter | Macau and Hong Kong have introduced mandatory health declarations and enhanced temperature checks for travellers arriving from Irkutsk following the death",
-                "image": "https://mbusiness.sgp1.digitaloceanspaces.com/2020/01/Pneumonia-1-1028x556.jpg",
-                "url": "https://macaubusiness.com/macau-hong-kong-step-up-screening-after-unknown-pneumonia-death-in-russia/",
-                "source": "Macau Business",
-                "date": "2026-10-14T01:35:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Even in red-leaning Alaska, Trump can’t avoid being protested at rally - breaks out more ‘your mom’ shots",
-                "desc": "Trump fumed at a protester in Wasilla, Alaska, calling them a ‘spoiled child,’ among other insults, after they interrupted his stump speech for Republican Senate candidate Dan Sullivan",
-                "image": "https://static.independent.co.uk/2026/10/14/1/04/GettyImages-2300082042.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-alaska-rally-protester-b3066297.html",
-                "source": "The Independent",
-                "date": "2026-10-14T01:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesians on fire-ravaged island sue state for clean air",
-                "desc": "Every few years, residents of Indonesia's West Kalimantan province contend with devastating wildfires that emit a noxious haze causing illnesses, shuttering schools and stifling economic activity.",
-                "image": "https://s.france24.com/media/display/027fd2e0-c76f-11f1-930e-3774aeac812a/w:1280/p:16x9/77c9dd9bbb04b903e4624a7cbaad4b75c67f5183.jpg",
-                "url": "https://www.france24.com/en/live-news/20261014-indonesians-on-fire-ravaged-island-sue-state-for-clean-air",
-                "source": "France 24",
-                "date": "2026-10-14T01:31:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-                "desc": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299247760.jpg?resize=1200,787",
-                "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-                "source": "TechCrunch",
-                "date": "2026-10-14T01:30:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grad student accused of trying to flee U.S. after police questioned her about alleged poisoning",
-                "desc": "A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents, then tried to flee the U.S. after police questioned her.",
-                "image": "https://i.cbc.ca/ais/0d948e13-85ad-465d-a8b4-eb0273a55932,1791937945857/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C87%2C3000%2C1687%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/university-wyoming-microbiology-grad-student-arrested-9.7379753",
-                "source": "CBC",
-                "date": "2026-10-14T01:29:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-15T15:44:59.119867Z"
+    "lastGlobalSync": "2026-10-15T19:28:26.893574Z"
 }
