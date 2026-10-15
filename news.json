@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "U.S. stocks close drop as hot CPI revives Fed rate-hike bets",
+                "desc": "NEW YORK, Oct. 14 (Xinhua) -- U.S. stocks closed lower on Wednesday after a hotter-than-expected September inflation reading revived bets on further Federal Reserve rate hikes.",
+                "image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+                "url": "https://www.thestar.com.my/news/world/2026/10/15/us-stocks-close-drop-as-hot-cpi-revives-fed-rate-hike-bets",
+                "source": "The Star",
+                "date": "2026-10-14T23:10:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Is Golden Corral closing locations? Here's what we know",
+                "desc": "The Golden Corral Corporation says there are more closures this year than normal but reasons depend largely on each individual franchise.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/14/USAT/92254032007-20230428-t-175958-z-565563942-mt-1-usatoday-20554730-rtrmadp-3-asignfortheoldgoldencorralbuffetgrillrestaurant.JPG?crop=1153,648,x0,y0&width=1153&height=648&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/food/2026/10/14/golden-corral-locations-closing/92253706007/",
+                "source": "USA Today",
+                "date": "2026-10-14T23:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "American Airlines is dropping 3 routes to Santa Maria, Tijuana and Doha",
+                "desc": "American Airlines has dropped flights to Santa Maria, Tijuana and Doha this year, citing route performance and changes to its airline network. An aviation expert shared insights.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/american-airlines-fewer-routes.jpg",
+                "url": "https://www.foxnews.com/travel/major-airline-abandons-3-key-cities-passengers-face-shrinking-flight-choices",
+                "source": "Fox News",
+                "date": "2026-10-14T23:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Predator League 2027 PH qualifiers boast P1-million prize pool",
+                "desc": "The Philippine qualifiers of the Asia Pacific Predator League 2027 will have a P1-million prize pool.",
+                "image": "https://od2-image-api.abs-cbn.com/prod/2026101417100/e8270c35ae0765ebe81c9a6d2c3d444bb03226bf1f25f845de8c64295eb16b94.jpg?w=1200&h=800",
+                "url": "https://www.abs-cbn.com/sports/esports/2026/10/15/predator-league-2027-ph-qualifiers-boast-p1-million-prize-pool-0004",
+                "source": "ABS-CBN",
+                "date": "2026-10-14T23:07:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Law firm Boies Schiller adds white-collar partner in latest DOJ exit",
+                "desc": "A US Justice Department official whose work included defending the use of force against allegedly violent protesters during a Chicago immigration crackdown has left to join Boies Schiller Flexner, the law ​firm said Wednesday.",
+                "image": "https://www.reuters.com/resizer/v2/LYSV7CTBANJK3E3RN5R554CX5I.jpg?auth=a21d7caf2d1a4202001ca68fa72a6057c09712ad94e0e7ce15114f1c76715bc9&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/legal/government/law-firm-boies-schiller-adds-white-collar-partner-latest-doj-exit-2026-10-14/",
+                "source": "Reuters",
+                "date": "2026-10-14T23:06:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "O parent Tasman Liquor reports profit lift as it prepares to let 100 workers go",
+                "desc": "The parent company of liquor retailers Bottle-O and Liquor Centre has reported a lift in profit and revenue in its latest financial year – about six weeks...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/B7N5DY3ATNFZ7ECCJIL7RSEIC4.jpg?auth=bafa49724b2933a4c03cf3525e85a532c0e7fd82ef20dc84c20a8bf2e9ab40b2&width=1200&height=675&quality=70&focal=1463%2C711&smart=false",
+                "url": "https://www.nzherald.co.nz/business/companies/retail/bottle-o-parent-tasman-liquor-reports-profit-lift-as-it-prepares-to-let-100-workers-go/premium/4N4P3EUVFFGXRNM7IAXGTFW25E/",
+                "source": "NZ Herald",
+                "date": "2026-10-14T23:05:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Layer3 Backs Nigeria’s Data Sovereignty Push with ₦1.5bn Infrastructure Investment",
+                "desc": "Layer3 has completed a ₦1.5 billion Series 1 and 2 Commercial Paper issuance as the company steps up investment in the technology infrastructure supporting Nigerian businesses and financial institutions.",
+                "image": "https://nigeriacommunicationsweek.com.ng/media-proxy/uploads/layer-3-commercial-paper-closing-pix.jpeg",
+                "url": "https://www.nigeriacommunicationsweek.com.ng/2026/10/14/layer3-backs-nigerias-data-sovereignty-push-with-15bn-infrastructure-investment",
+                "source": "Nigeria Communications Week",
+                "date": "2026-10-14T23:02:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+                "desc": "TSMC, the world's largest manufacturer of advanced AI chips, will likely report ‌a sixth consecutive quarter of record earnings on Thursday, driven by booming infrastructure spending in the tech sector.",
+                "image": "https://www.reuters.com/resizer/v2/KVRC2XCL4ZKDDHEHNSZJ74KQNI.jpg?auth=1a0c7dbbfa565a2ab613f40700cc7733b0387ae8fbdbba4fde4c19595fc00a54&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/asia-pacific/tsmc-expected-report-sixth-straight-quarter-record-profit-thanks-ai-boom-2026-10-14/",
+                "source": "Reuters",
+                "date": "2026-10-14T23:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How a Chinese-made toy gets to a US retailer",
+                "desc": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg",
+                "url": "https://www.bbc.com/news/articles/c5djvyde0y1jo",
+                "source": "BBC",
+                "date": "2026-10-14T23:01:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
+                "desc": "Global oil inventories are dangerously depleted, leaving little room for further emergency releases as OPEC forecasts stronger demand in 2027.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-14_iycqvlh9ns.jpg",
+                "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Market-Tightens-as-Tanker-Attacks-and-Inventory-Draws-Mount.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-10-14T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "off charges to be reviewed after sharp increase",
                 "desc": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
                 "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4555/live/2b5614e0-c7f6-11f1-970c-196b57378f40.jpg",
@@ -542,99 +632,99 @@
                 "source": "The Motley Fool",
                 "date": "2026-10-13T19:35:35Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Domino's forecasts muted annual same-store sales as competition, cautious consumers weigh on demand",
-                "desc": "Domino's Pizza on Tuesday scaled back its full-year sales outlook, warning that US and international comparable sales growth ​would remain muted, sending shares down about 3% in ‌early trading.",
-                "image": "https://www.reuters.com/resizer/v2/73KPAKZ5S5OJXLEL34JVSOXRSQ.jpg?auth=f062b82288bc0980a4d3720192be486b4bc33a2a4e3eaf585945323efe48fb73&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/retail-consumer/dominos-forecasts-muted-annual-same-store-sales-competition-cautious-consumers-2026-10-13/",
-                "source": "Reuters",
-                "date": "2026-10-13T14:09:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Strong profits support Wall Street as chip stocks drop",
-                "desc": "Sharp drops for stocks in the computer chip industry are circling the world and hitting Wall Street, while strong profit reports keep the market unsettled.",
-                "image": "https://www.bnnbloomberg.ca/resizer/v2/ZX3WK5FQAHESRQO5UXPLKFYHLU.jpg?smart=true&auth=0516ff1768030eab07ffe8c1ebc05bc2acad25e09ae5375675b1362f2ec3648c&width=1200&height=630",
-                "url": "https://www.bnnbloomberg.ca/markets/2026/10/13/wall-street-mixed-in-early-trading-as-big-us-banks-report-earnings-chip-stocks-fall-again/",
-                "source": "BNN Bloomberg",
-                "date": "2026-10-13T14:09:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Micron Stock Falls Again as Musk Issues Warning on Chinese Memory Chips",
-                "desc": "Micron stock was facing more pressure after Elon Musk gave his opinion on China-produced memory chips.",
-                "image": "https://images.barrons.com/im-18017832/social",
-                "url": "https://www.barrons.com/articles/micron-stock-price-cxmt-musk-memory-chips-d490c5f2",
-                "source": "Barron's",
-                "date": "2026-10-13T14:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Downsizing key to unlocking housing supply as over",
-                "desc": "Millions of older Australians are living in huge homes with spare bedrooms sitting empty – and a new report says unlocking them could transform the housing market.",
-                "image": "https://www.realestate.com.au/news-image/w_1024,h_768/v1791900125/news-lifestyle-content-assets/wp-content/production/capi_39868ca0a0974126e6a70e57734be361_dfca1e4ab52c1776fb4c42ad4202780b.jpg",
-                "url": "https://www.realestate.com.au/news/downsizing-key-to-unlocking-housing-supply-as-over55s-hold-millions-of-spare-bedrooms/",
-                "source": "Real Estate",
-                "date": "2026-10-13T14:08:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wall Street banks see pockets of weakness due to market turmoil",
-                "desc": "Wall Street's investment banking and trading stalwarts posted an uneven third quarter, as ​both equity and bond markets were rocked by ongoing wars, rising inflation and jitters about the massive spending in the AI ‌buildout.",
-                "image": "https://www.reuters.com/resizer/v2/JEQPIDV2D5LNVEABFAMFSWNH3Q.jpg?auth=f31335299179f5c0074dc769a4fac758e65a58b0cc055eb0a6befa0bb80a0b92&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/finance/wrapup-wall-street-banks-see-pockets-weakness-due-market-turmoil-2026-10-13/",
-                "source": "Reuters",
-                "date": "2026-10-13T14:06:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US existing home sales rise in September; higher mortgage rates dim outlook",
-                "desc": "US existing home sales unexpectedly increased in September, but the trend stayed subdued against the backdrop of rising mortgage rates and still higher prices, which have made the dream ​of owning a house unattainable for many young Americans.",
-                "image": "https://www.reuters.com/resizer/v2/T3GZI6RK6FIA5AG27YKWDTIAK4.jpg?auth=69bd55578b5454613f59171568d670c6cc46c921cedab6c5cd0b46d3feba3ba0&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/us-existing-home-sales-rise-september-higher-mortgage-rates-dim-outlook-2026-10-13/",
-                "source": "Reuters",
-                "date": "2026-10-13T14:04:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Disney Offers $20M For Character.AI Assets As Startup Files For Bankruptcy",
-                "desc": "After hiring Character.AI's former CEO as its chief technology officer, Disney is looking to acquire assets from the 5-year-old startup as it files for Chapter 11 bankruptcy protection.",
-                "image": "https://deadline.com/wp-content/uploads/2026/10/Disney-character-ai.jpg?w=1000",
-                "url": "https://deadline.com/2026/10/disney-character-ai-chapter-11-bankruptcy-1237155582/",
-                "source": "Deadline",
-                "date": "2026-10-13T14:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LSEG in talks to buy Permira's Octus financial data group for about $3.5 billion",
-                "desc": "By Amy-Jo Crowley LONDON, Oct 13 (Reuters) - The London Stock Exchange Group is in talks with private equity firm Permira to acquire Octus for about $3.5 billion, the London-listed group said Tuesday, confirming a Reuters report. No final agreement has been reached and no transaction is guaranteed, LSEG said, adding that the New York-headquartered financial data group has a strong track record of double-digit revenue growth based on a high-retention subscription model.",
-                "image": "https://live.euronext.com/favicon.ico",
-                "url": "https://live.euronext.com/en/financial-news/lseg-talks-buy-permiras-octus-financial-data-group-about-35-billion",
-                "source": "Euronext Markets: Real-time Stock Market Data | live",
-                "date": "2026-10-13T14:02:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AmanahRaya Investment Management suspends redemptions in three funds on liquidity constraints",
-                "desc": "AmanahRaya Investment Management Sdn Bhd announced that it has temporarily suspended dealings in three funds under its management with immediate effect, citing liquidity constraints.",
-                "image": "https://assets.theedgemarkets.com/AmanahRaya_Bhd-logo_amanahraya.my_20260617155634-APP_0_0.jpg",
-                "url": "https://theedgemalaysia.com/node/821737",
-                "source": "The Edge Malaysia",
-                "date": "2026-10-13T14:01:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthropic warns AI will soon self-replicate and spread beyond data centres",
-                "desc": "The company says AI models may be mere months away from being able to copy and spread themselves onto internet-of-things devices such as smart ovens and TVs, making them difficult to stop should they decide to carry out cyberattacks.",
-                "image": "https://images.euronews.com/articles/stories/09/95/04/25/1200x675_cmsv2_54028a68-6165-5b67-9a24-fa7d1dab3aec-9950425.jpg",
-                "url": "https://www.euronews.com/2026/10/13/anthropic-warns-ai-will-soon-self-replicate-and-spread-beyond-data-centres",
-                "source": "Euronews.com",
-                "date": "2026-10-13T14:01:43Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2’s Climactic Boss Fight “Big and Bombastic”",
+                "desc": "The Aussie composer explains why he loves to be “the loudest, most obnoxious bastard in the room.”",
+                "image": "https://sm.ign.com/t/ign_ap/interview/m/mick-gordo/mick-gordon-on-how-he-helped-to-make-warhammer-40000-boltgun_xhud.1200.jpg",
+                "url": "https://sea.ign.com/warhammer-40000-boltgun-2/250400/mick-gordon-on-how-he-helped-to-make-warhammer-40000-boltgun-2s-climactic-boss-fight-big-and-bombast",
+                "source": "IGN Southeast Asia",
+                "date": "2026-10-14T23:04:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sim racer Dhanesh gears up for Tokyo world finals",
+                "desc": "The accomplished virtual athlete is taking on the world’s best while helping nurture aspiring drivers through his esports studio.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/10/be5c9016-d42a-4920-8bed-bc77e5c74419-Dhanesh-Wigneswaran-lifestyle-emel-pic-141026-1.jpg",
+                "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/15/sim-racer-dhanesh-gears-up-for-tokyo-world-finals",
+                "source": "Free Malaysia Today",
+                "date": "2026-10-14T23:04:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Michelin winner's secret to staying golden - CityMag",
+                "desc": "The Premier's media director is starting a new gig at the AFL – after several years teeing up media ops for the state's prized Gather Round.",
+                "image": "https://wp.solsticemedia.com.au/wp-content/uploads/2026/10/1200x800_HTRUMBLE_GB_CMAG_11_Screen.jpg?w=1024",
+                "url": "https://www.indailysa.com.au/citymag/food-drink/2026/10/15/a-michelin-winners-secret-to-staying-golden",
+                "source": "InDaily South Australia",
+                "date": "2026-10-14T23:03:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple's website hints the full-size HomePod could get Siri AI",
+                "desc": "It may not be exclusive to the smaller speaker after all. Yesterday was a busy day for Apple's smart home efforts. The company unveiled the HomeView smart...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-full-size-homepod-siri-ai/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/apples_website_hints_the_fullsize_homepod_could_get_siri_ai-news-75049.php",
+                "source": "GSMArena.com",
+                "date": "2026-10-14T23:02:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Naim’s high-end all-in-one system boasts Dolby Atmos support alongside HDMI eARC and an expansive streaming suite",
+                "desc": "High-end Focal driver tech meets Naim amplification",
+                "image": "https://cdn.mos.cms.futurecdn.net/vE8PQQfHYhtffa3MAcSLpb-2560-80.jpg",
+                "url": "https://www.whathifi.com/hi-fi/naims-premium-all-in-one-system-boasts-dolby-atmos-support-alongside-hdmi-earc-and-an-expansive-streaming-suite",
+                "source": "What Hi-Fi?",
+                "date": "2026-10-14T23:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
+                "desc": "Linus Torvalds used Claude Code to build a Linux page cache fix that hit 23x read throughput, but kernel reviewers found a race before anything merged.",
+                "image": "https://cdn.thenewstack.io/media/2026/10/39123855-dorothy-livelo-l1lklun853s-unsplash-scaled.jpg",
+                "url": "https://thenewstack.io/torvalds-claude-code-kernel/",
+                "source": "The New Stack",
+                "date": "2026-10-14T23:00:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bored with Google Maps and Spotify? Try these 4 Android Auto apps",
+                "desc": "These are called GEMS.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/four-apps-on-android-auto.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/bored-with-google-maps-and-spotify-try-these-4-android-auto-apps/",
+                "source": "How-To Geek",
+                "date": "2026-10-14T23:00:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This Google Pixel feature leaves users with less storage space than expected",
+                "desc": "Googles AI features means 128GB of storage doesn't cut it any more",
+                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/05/a-google-pixel-phone-with-a-full-storage-alert.png?w=1600&h=900&fit=crop",
+                "url": "https://www.androidpolice.com/google-pixel-feature-leaves-users-with-less-storage-space-than-expected/",
+                "source": "Android Police",
+                "date": "2026-10-14T23:00:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+                "desc": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/10/2DOrganoidSlice_greynuclei_pinksmoothmuslce_blueepithelium_INTEROBIO.jpg?w=864",
+                "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+                "source": "TechCrunch",
+                "date": "2026-10-14T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What To Plant In October In The Northern Rivers",
+                "desc": "Discover vegetables, herbs and flowers to plant this October for a productive Northern Rivers summer garden.",
+                "image": "https://thenorthernriverstimes.com.au/wp-content/uploads/2025/10/cropped-T-Logo-1-32x32.png",
+                "url": "https://thenorthernriverstimes.com.au/northern-rivers-local-news/what-to-plant-october-northern-rivers/",
+                "source": "Northern Rivers Times",
+                "date": "2026-10-14T22:56:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "New Pokémon drinkware from Igloo starts at $22.99",
                 "desc": "Pokémon fans are racing to grab this charming new Igloo drinkware line before it sells out.",
@@ -1174,99 +1264,99 @@
                 "source": "News-Medical",
                 "date": "2026-10-13T19:37:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Managing vibration in IVF laboratories",
-                "desc": "Explore how laboratory vibration can affect sensitive IVF procedures and how vibration surveys and passive isolation can help minimize disruption.",
-                "image": "https://www.news-medical.net/images/news/ImageForNews_847954_17913850427708921.jpg",
-                "url": "https://www.news-medical.net/news/20261013/Why-managing-vibration-is-critical-in-IVF.aspx",
-                "source": "News-Medical",
-                "date": "2026-10-13T14:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Shows HomePod mini 2 Colors and Audio Features in New Video [Video]",
-                "desc": "Apple's new HomePod mini 2 video shows the speaker's five colors, multiroom audio, and smart home controls. Siri AI is coming in a later update.",
-                "image": "https://www.iclarified.com/images/news/102780/102780/102780-1280.jpg",
-                "url": "https://www.iclarified.com/102780/apple-shows-homepod-mini-2-colors-and-audio-features-in-new-video-video",
-                "source": "iClarified",
-                "date": "2026-10-13T14:08:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Your Raw Fury Backlog on XBOX Is About to Get a Lot Bigger",
-                "desc": "We hope you’ve cleared some space in your backlog, because there are a lot of Raw Fury games heading your way on XBOX. From getting lost with friends in the mysterious depths of Deep Dish Dungeon, to collecting and fusing monsters in Cassette Beasts 2002, solving a supernatural mystery in The Seance of Blake Manor, […]",
-                "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Header_RawFury-8a776ffeffcaeac0831e.jpg",
-                "url": "https://news.xbox.com/en-us/2026/10/13/raw-fury-publisher-xbox-update/",
-                "source": "XBOX Wire",
-                "date": "2026-10-13T14:05:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rumor: Grand Theft Auto VI coming to PC in Q1 2027",
-                "desc": "Rockstar Games plans to release a PC version of Grand Theft Auto VI within the first three months of 2027, according to a GamesBeat report citing “four industry…",
-                "image": "https://www.gematsu.com/wp-content/uploads/2026/10/GTA6-PC-Rumor_10-13-26.jpg",
-                "url": "https://www.gematsu.com/2026/10/rumor-grand-theft-auto-vi-coming-to-pc-in-q1-2027",
-                "source": "Gematsu",
-                "date": "2026-10-13T14:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Azur Promilia Marks 20 Million Global Pre-Registration Milestone With Giveaway and Announces Summer 2027 English-Version Open Beta Test Window",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/Azur-Promilia-Marks-20-Million-Global-Pre-Registration-Milestone-With-",
-                "source": "Games Press",
-                "date": "2026-10-13T14:03:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "We Can't Stop Staring at the NSX",
-                "desc": "Designed jointly with Pininfarina, the JAS Tensei is a restomodded first-generation Acura NSX with a 420-horsepower V-6 and new-look styling.",
-                "image": "https://hagerty-media-prod.imgix.net/2026/10/3758-h2v0676-media-images-desktop.jpg?auto=format%2Ccompress&ixlib=php-3.3.0",
-                "url": "https://www.hagerty.com/media/news/jas-tensei-acura-nsx-restomod-pictures-specs/",
-                "source": "Hagerty",
-                "date": "2026-10-13T14:02:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The MFA Gaps Attackers are Still Exploiting",
-                "desc": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps.",
-                "image": "https://www.bleepstatic.com/content/posts/2026/10/06/specops-mfa-gaps.jpg",
-                "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-                "source": "BleepingComputer",
-                "date": "2026-10-13T14:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Open World Puzzler Escape Academy 2: Back 2 School Enrols on PS5 This November",
-                "desc": "Term time - A few years ago saw the release of a pleasant puzzle game named Escape Academy, and now, publisher iam8bit Presents and developer Coin Crew Games...",
-                "image": "https://images.pushsquare.com/71e40e767f661/1280x720.jpg",
-                "url": "https://www.pushsquare.com/news/2026/10/open-world-puzzler-escape-academy-2-back-2-school-enrols-on-ps5-this-november",
-                "source": "Push Square",
-                "date": "2026-10-13T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Frontier Developments PLC Announces Planet Zoo 2 is Out Now!",
-                "desc": "Frontier Developments plc (AIM:FDEV) are excited to today release the highly anticipated zoo management game Planet Zoo 2. Building on the legacy of the critically acclaimed and beloved Planet Zoo, this sequel offers players a generational leap forward ...",
-                "image": "https://s.yimg.com/lo/mysterio/api/5590f8baf1ae4539dc724a4f2a578d8738f6d159319ea2bd867b878e568fdb3f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faccesswire_uk_979%2F0b4b48e2b14a06f4edf65bce0f77b8fb.png",
-                "url": "https://uk.finance.yahoo.com/news/frontier-developments-plc-announces-planet-140000447.html",
-                "source": "Yahoo Finance UK",
-                "date": "2026-10-13T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia opens up Israeli-founded Run:ai software two years after $800 million acquisit",
-                "desc": "The chip giant is making the AI workload management platform open source, giving developers and cloud providers access to tools designed to improve the use of costly GPUs.",
-                "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2024/12/30/ry66a7lUkl/ry66a7lUkl_0_104_3000_1689_0_large.jpg",
-                "url": "https://www.calcalistech.com/ctechnews/article/jqdtr2997",
-                "source": "www.calcalistech.com",
-                "date": "2026-10-13T14:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
+                "desc": "North Korea test-fired two types of submarine-launched strategic cruise missiles on Wednesday, state media KCNA reported Thursday, saying the launches posed no threat to neighbouring countries. The tests follow heightened tensions with South Korea after a September 21 landmine explosion in the Demilitarised Zone injured three South Korean soldiers.",
+                "image": "https://s.france24.com/media/display/6cdbe0a4-c81c-11f1-9f21-2d1c143cdef3/w:1280/p:16x9/2026-10-14T220456Z-1512815080-RC293OA83D0C-RTRMADP-3-NORTHKOREA-MISSILES.jpg",
+                "url": "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles",
+                "source": "France 24",
+                "date": "2026-10-14T23:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘I'm almost in tears’: Colombia quits Hague Group as Jerusalem embassy opens",
+                "desc": "Foreign Minister Omar Bula Escobar announces withdrawal from coalition seeking action against Israel, condemns previous government's stance on October 7 and recounts emotional meeting with former Hamas hostage Elkana Bohbot",
+                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/HkM1sXrTjGx/HkM1sXrTjGx_0_0_1601_901_0_large.jpg",
+                "url": "https://www.ynetnews.com/article/hkts9kpsge",
+                "source": "Ynetnews",
+                "date": "2026-10-14T23:07:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Afrobarometer finds mixed perceptions of Zimbabwe’s democratic progress under Mnangagwa",
+                "desc": "AFROBAROMETER’s latest report has revealed mixed public perceptions of Zimbabwe’s democracy over the past five years, with one in five citizens believing the country has become more democratic under President Emmerson Mnangagwa’s administration.",
+                "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2023/01/07033353/Emmerson-Mnangagwa.png",
+                "url": "https://www.newzimbabwe.com/afrobarometer-finds-mixed-perceptions-of-zimbabwes-democratic-progress-under-mnangagwa/",
+                "source": "NewZimbabwe.com",
+                "date": "2026-10-14T23:05:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "eSafety asks big tech ‘not to show’ US execution",
+                "desc": "The online safety watchdog has written to tech companies asking them “not to show” the public execution of wheelchair-bound death row inmate Nidal Hasan in the US, Communications Minister Anika Wells says.",
+                "image": "https://content.api.news/v3/images/bin/f1e5ef05f47a14d05a3c336873ebe905",
+                "url": "https://www.news.com.au/technology/online/social/esafety-asks-big-tech-not-to-show-us-execution/news-story/3427f2bcbe5cf5865a3379110899b1a5",
+                "source": "News.com.au",
+                "date": "2026-10-14T23:03:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Iran shielded forces over 2022 protest killings",
+                "desc": "Iran has built impunity for the killing of protesters into its laws and judicial system, Amnesty International said in an investigation detailing how security forces accused of deadly violence can help determine whether their own actions were lawful.",
+                "image": "https://i.iranintl.com/images/rdk9umy0/production/6ea6dada083d26ce815885a253aadd3a29ddb4da-767x431.png?rect=13,77,576,302&w=1200&h=630&q=66&fit=max&auto=format",
+                "url": "https://www.iranintl.com/en/202610143853",
+                "source": "Iran International",
+                "date": "2026-10-14T22:59:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aberrant one-carbon metabolism and ancestral genetics underlie edematous severe acute malnutrition",
+                "desc": "Edematous severe childhood malnutrition is distinct from the non-edematous form of malnutrition and remains a major cause of under-five mortality. Its etiology remains unclear, although aberrant one-carbon metabolism has emerged as a potential contributor. Here, we assess genetic variants at loci known to influence one-carbon metabolism, and determine their association with edematous malnutrition in Jamaica and Malawi. Six loci show evidence of association, including four related to homocysteine and folate metabolism - AHCYL1, PRICKLE2, GABBR2, and PLD2, with SNPs at the latter three also having direct effects on homocysteine-related metabolites in Mendelian Randomization. Collectively, one-carbon metabolism-related variants were significantly associated with edematous malnutrition (z = 3.2), with population differences linked to a shared East African genetic ancestry and distinct signatures of selection. These findings strengthen evidence implicating aberrant one-carbon metabolism in edematous malnutrition and highlight the utility of cell-free DNA, intra-continental admixture, and population genetics for mapping disease risk. Edematous malnutrition in children has unclear causes. Here, the authors show that genetic variation at one‑carbon metabolism genes influences disease risk through homocysteine‑related pathways and ancestry‑linked effects in affected populations.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-74239-x/MediaObjects/41467_2026_74239_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41467-026-74239-x?error=cookies_not_supported&code=67a5283d-1101-4092-8915-eab5f35d7cdf",
+                "source": "Nature",
+                "date": "2026-10-14T22:58:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz",
+                "desc": "In our news wrap Wednesday, Iran says a cargo ship sank after hitting a mine in the Strait of Hormuz, the Vatican says Pope Leo is eating and walking again following surgery to remove a cancerous portion of his lung, the Supreme Court heard arguments in a privacy case rooted in the era of VHS tapes and Netflix is cutting about 6% of its global workforce.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/newswrap-4-1024x678.jpg",
+                "url": "https://www.pbs.org/newshour/show/news-wrap-iran-says-cargo-ship-sank-after-hitting-a-mine-in-strait-of-hormuz",
+                "source": "PBS",
+                "date": "2026-10-14T22:50:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SC US Senate campaign escalates on China, law enforcement",
+                "desc": "Democrat Dr. Annie Andrews, Republican Sen. Graham ratchet up critiques of each other on several topics in different sides of South Carolina",
+                "image": "https://kubrick.htvapps.com/vidthumb/42dc9a30-9ef9-4074-9c1e-1a62fcd990be/4728a0d6-f15c-4961-bf70-50943e785a9a.jpg?crop=0.808xw%3A0.806xh%3B0.192xw%2C0&resize=1200%3A*",
+                "url": "https://www.wyff4.com/article/sc-us-senate-china-law-enforcement/74137329",
+                "source": "WYFF",
+                "date": "2026-10-14T22:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Citizenship After Marriage: Minimum Age Foreign Spouses Must Meet to Apply",
+                "desc": "US immigration officials have outlined age requirement for foreign spouses seeking citizenship after marriage, highlighting the minimum age required.",
+                "image": "https://cdn.legit.ng/images/1200x675/8f8528f3271a0d7f.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1736201-us-citizenship-marriage-minimum-age-foreign-spouses-meet-apply/",
+                "source": "Legit.ng",
+                "date": "2026-10-14T22:44:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Global conservation area coverage substantially exceeds current estimates",
+                "desc": "Conservation areas are critical for tackling the global environmental crisis1. These sites are reported as covering 18.5% of the terrestrial realm2 and governments have committed through Global Biodiversity Framework Target 3 to increase this to at least 30% by 2030 (ref. 3). There are concerns that this potential near-doubling of conservation area coverage will negatively affect vulnerable people and over-stretch conservation resources4. However, nationally available datasets indicate that more conservation areas exist than are reflected in global figures5–7. We evaluated progress towards the area component of Target 3 using a globally representative sample across 25 countries and territories that incorporated these national datasets8. Extrapolating from this sample, we show that conservation areas likely already cover 26.81% of the terrestrial realm. We may be much closer to achieving 30% terrestrial coverage than previously thought. However, we also show that the extra land does not substantially address gaps in ecological representativeness, indicating that solely meeting the area component of Target 3 will do little to solve continuing global biodiversity loss. More focus and resources are needed to achieve the other components of the target, using a more strategic and inclusive approach to fill present gaps and produce equitable and effective conservation area networks. A globally representative sample of 25 countries and territories indicates that conservation areas cover 26.81% of the land, much closer to the 30% by 2030 target than officially reported.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11157-4/MediaObjects/41586_2026_11157_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41586-026-11157-4?error=cookies_not_supported&code=860c92d4-927b-494b-bedb-17a9e7fdf127",
+                "source": "Nature",
+                "date": "2026-10-14T22:41:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "​World's oldest shipwreck found off Turkey, archaeologists say: \"Time capsule at the bottom of the sea\"",
                 "desc": "​Archaeologists in Turkey have dated the shipwreck to between 4,400 and 4,700 years old.",
@@ -1806,98 +1896,8 @@
                 "source": "The Jamestown Foundation",
                 "date": "2026-10-13T19:38:37Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Canada joins other nations denouncing Iran’s air base attack plot in the UK",
-                "desc": "Canada has joined more than two dozen other countries in denouncing Iran’s apparent involvement in a planned attack on an air base in England.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP176992633-e1791899726124.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/12100422/canada-uk-iran-air-base-plot/",
-                "source": "Global News",
-                "date": "2026-10-13T14:09:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Africa Announces 2 African Countries Eligible for 90",
-                "desc": "South Africa confirmed visa-free entry for Tanzanian and Zimbabwean nationals for up to 90 days in 2026 when travelling with qualifying documents.",
-                "image": "https://cdn.legit.ng/images/1200x675/f51d8153126d5d17.jpeg?v=1",
-                "url": "https://www.legit.ng/world/africa/1735905-south-africa-lists-2-african-countries-eligible-90-day-visa-exemption-2026/",
-                "source": "Legit.ng",
-                "date": "2026-10-13T14:07:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s new press secretary shared ‘pro-Putin post’",
-                "desc": "Katie Zacharia promoted message claiming Russian leader was fighting against Left-wing cabal",
-                "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/10/13/TELEMMGLPICT000507178418_17918993677600_trans_NvBQzQNjv4BqHgTv8HPfBVpZECAYOC1TIwwOewSo5Wh7oA-l6QjaX_g.jpeg?impolicy=OG-Standard",
-                "url": "https://www.telegraph.co.uk/us/news/2026/10/13/katie-zacharia-trump-press-secretary-shared-pro-putin-post/",
-                "source": "The Telegraph",
-                "date": "2026-10-13T14:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yemeni government launches air strikes on Houthi positions",
-                "desc": "Yemeni rights group accuses the Houthis of killing five civilians and injuring more than a dozen others.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261009__D2Q29KE__v2__HighRes__YemenSaudiIranUsIsraelWar-1791891006.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions",
-                "source": "Al Jazeera",
-                "date": "2026-10-13T14:02:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "There Is Some Mighty Weird Stuff Going On Up There",
-                "desc": "The technical term for them is Transient Luminous Events, and it’s a good term. Transient, because they last just a few milliseconds. Luminous, because they light up the sky, but also because they invoke the radiant immanence of an old-testament manifestation. Events because—well, imagine you saw this. You would agree this was an Event. The…",
-                "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/iotw2108a.jpg",
-                "url": "https://defector.com/there-is-some-mighty-weird-stuff-going-on-up-there",
-                "source": "Defector",
-                "date": "2026-10-13T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Republican Strategists Process Trump's Impact Ahead of Midterms",
-                "desc": "Republican strategists are cycling through the stages of grief as the party contends with Donald Trump's unpopularity ahead of the midterm elections.",
-                "image": "https://www.rollingstone.com/wp-content/uploads/2026/10/GOP-strategists-trump-paxton.jpg?w=1600&h=900&crop=1",
-                "url": "https://www.rollingstone.com/politics/politics-features/republican-strategists-process-trump-midterms-1235640385/",
-                "source": "Rolling Stone",
-                "date": "2026-10-13T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brit friends stranded in Botswana walk 43 miles through bush",
-                "desc": "Two British friends stranded in the Botswana wilderness had to walk 43 miles through the bush to find help after their Land Rover sank into a salt flat - with",
-                "image": "https://discover.swns.com/wp-content/uploads/2026/10/SWNS_BOTSWANA_GRADUATES_018_178209-1024x663.jpg",
-                "url": "https://discover.swns.com/2026/10/brit-friends-stranded-in-botswana-walk-43-miles-through-bush-in-birkenstocks/",
-                "source": "Discover SWNS",
-                "date": "2026-10-13T13:59:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
-                "desc": "Ukrainian president’s comments on ‘particularly vile’ strikes come after US threatened to halt intelligence sharing",
-                "image": "https://i.guim.co.uk/img/media/0bdf9ed7b96dc65009d999f39b3c6db73527da07/532_0_4808_3848/master/4808.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fd4aba242c1a715e1f650990ec75e37",
-                "url": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
-                "source": "The Guardian",
-                "date": "2026-10-13T13:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Minimum Wage by African Country in 2026: Every Country Ranked",
-                "desc": "Seychelles leads at about $491 a month, Uganda's floor sits at $1.50, and four countries have no national minimum wage at all: every African country ranked by its 2026 monthly minimum wage in US dollars.",
-                "image": "https://images.pexels.com/photos/34528399/pexels-photo-34528399.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280&fit=crop",
-                "url": "https://www.africanexponent.com/minimum-wage-by-african-country-in-2026-every-country-ranked/",
-                "source": "The African Exponent",
-                "date": "2026-10-13T13:58:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DIVE’s Big Shot Man-Made - the winners",
-                "desc": "The winners from DIVE’s Big Shot Man-Made underwater photography competition, as featured in our Autumn ’26 print magazine",
-                "image": "https://divemagazine.com/wp-content/uploads/big-shot-manmade-winners-featured.webp",
-                "url": "https://divemagazine.com/underwater-photography/dives-big-shot/dives-big-shot-man-made-the-winners",
-                "source": "DIVE Magazine",
-                "date": "2026-10-13T13:57:05Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-15T05:46:52.128332Z"
+    "lastGlobalSync": "2026-10-15T11:15:58.923178Z"
 }
