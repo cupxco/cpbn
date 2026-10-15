@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+                "desc": "Small weight-based replicators\" could usher in a new generation of computer worms.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
+                "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+                "source": "Ars Technica",
+                "date": "2026-10-14T12:55:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "No Info Breach Found at SoftBank Unit after Unauthorized Access",
+                "desc": "Tokyo, Oct. 14 (Jiji Press)--IDC Frontier Inc., a cloud service subsidiary of Japanese telecommunications and …",
+                "image": "https://www.nippon.com/en/ncommon/contents/news/3088620/3088620.jpg",
+                "url": "https://www.nippon.com/en/news/yjj2026101400742/no-info-breach-found-at-softbank-unit-after-unauthorized-access.html",
+                "source": "nippon.com",
+                "date": "2026-10-14T12:51:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold slides over 1.5% as hot US CPI fuels Fed interest rate",
+                "desc": "Gold (XAU/USD) extends its intraday decline on Wednesday after stronger-than-expected US inflation data lift the US Dollar (USD) and US Treasury yields. At the time of writing, XAU/USD trades around $4,084, down 1.83% on the day.",
+                "image": "https://editorial.fxsstatic.com/images/i/gold-02_Medium.jpg",
+                "url": "https://www.fxstreet.com/news/gold-slides-for-third-consecutive-day-as-us-inflation-data-take-centre-stage-202610141056",
+                "source": "FXStreet",
+                "date": "2026-10-14T12:51:44Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "'That's just my face': Mark Zuckerberg responds to video of him sipping a pint of Guinness",
+                "desc": "The 12-second clip has racked up more than 13 million views.",
+                "image": "https://img2.thejournal.ie/article/7192967/river/?height=400&version=7192988",
+                "url": "https://www.thejournal.ie/mark-zuckerberg-guinnes-7192967-Oct2026/",
+                "source": "The Journal",
+                "date": "2026-10-14T12:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Liquidia surges as United Therapeutics settlement removes key litigation risk",
+                "desc": "Liquidia shares jumped nearly 37% in premarket trading on Wednesday after the drugmaker settled a years-long legal ​dispute with United Therapeutics over its lung disease drug.",
+                "image": "https://www.reuters.com/resizer/v2/RKGINCHHUJLZVOSZT3GTU3OJNI.jpg?auth=da6d8b261d7d621dd73c5d57014d0224806af0a02f276215cad66a767a738cbd&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/legal/litigation/liquidia-surges-after-381-million-settlement-with-united-therapeutics-lung-2026-10-14/",
+                "source": "Reuters",
+                "date": "2026-10-14T12:49:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump's diesel dilemma - by the numbers",
+                "desc": "Conflicts in Ukraine and Iran have created major ripple effects across global energy markets causing major price swings.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108403254-1791897383471-gettyimages-2299388571-AFP_D32Z7Q3.jpeg?v=1791897417&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
+                "source": "CNBC",
+                "date": "2026-10-14T12:49:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Businessman Cedric Meston to take over struggling French company Duralex",
+                "desc": "Oct 14 (Reuters) - French businessman and former McKinsey associate Cedric Meston is taking over Duralex, the struggling glassmaker which opened administration proceedings earlier this year, said Meston and the French government on Wednesday. • Meston, whose holding and investment company is called Tome, told reporters that his takeover of Duralex would result in around 150 jobs being saved",
+                "image": "https://live.euronext.com/favicon.ico",
+                "url": "https://live.euronext.com/en/financial-news/businessman-cedric-meston-take-over-struggling-french-company-duralex",
+                "source": "Euronext Markets: Real-time Stock Market Data | live",
+                "date": "2026-10-14T12:48:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Geothermal Energy in the European Union: Regulatory Frameworks, Delivery Challenges and Project Finance",
+                "desc": "Geothermal energy occupies a paradoxical position in the European Union's energy transition.",
+                "image": "https://www.dentons.com/-/media/images/website/background-images/gpof/plants/adobestock_357854155.ashx",
+                "url": "https://www.dentons.com/en/insights/newsletters/2026/october/14/future-of-energy-markets-europe/geothermal-energy-in-the-european-union",
+                "source": "Dentons",
+                "date": "2026-10-14T12:48:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US inflation rises more than expected ahead of midterm elections",
+                "desc": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
+                "source": "BBC",
+                "date": "2026-10-14T12:47:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US inflation rises more than expected ahead of midterm elections",
+                "desc": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+                "url": "https://www.bbc.com/news/articles/cwy8lx3pg4k2o",
+                "source": "BBC",
+                "date": "2026-10-14T12:47:07Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "onsemi and Sungrow Advance Utility-Scale Energy Storage Performance with SiC Hybrid Technology",
                 "desc": "Advanced EliteSiC hybrid technology maximizes usable energy as electricity demand surges",
                 "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/14/1259144.jpg",
@@ -542,99 +632,99 @@
                 "source": "BNN Bloomberg",
                 "date": "2026-10-13T10:52:23Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "London railway crossing shut after children 'play chicken' with trains and do handstands on tracks",
-                "desc": "Brickfields level crossing near Upminster will remain closed until action has been taken to address the issue, Network Rail said",
-                "image": "https://static.standard.co.uk/2026/10/13/5/28/Anglia-Brickfields-level-crossing-misuse-2026-(8)_cropped.jpg?width=1200&auto=webp&quality=75",
-                "url": "https://www.standard.co.uk/news/london/brickfields-level-crossing-closed-upminster-children-b1300554.html",
-                "source": "London Evening Standard",
-                "date": "2026-10-13T06:29:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa nature impact fund targets $100 million to finance conservation and carbon projects across Africa",
-                "desc": "Finance Earth, FSD Africa and FSD Africa Investments (FSDAi) have launched the Africa Nature Impact Fund, a financing platform targeting USD 100 million to",
-                "image": "https://africasustainabilitymatters.com/wp-content/uploads/2026/10/images-2026-10-13T092605.029.jpg",
-                "url": "https://africasustainabilitymatters.com/africa-nature-impact-fund-targets-100-million-to-finance-conservation-and-carbon-projects-across-africa/",
-                "source": "Africa Sustainability Matters",
-                "date": "2026-10-13T06:26:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Premier Inn owner Whitbread urges shareholders to reject Corvex's board seat demand",
-                "desc": "Oct 13 (Reuters) - Premier Inn owner Whitbread on Tuesday backed its five-year turnaround plan and recommended its shareholders vote against activist investor Corvex Management's demand for a board seat.",
-                "image": "https://live.euronext.com/favicon.ico",
-                "url": "https://live.euronext.com/en/financial-news/premier-inn-owner-whitbread-urges-shareholders-reject-corvexs-board-seat-demand",
-                "source": "Euronext Markets: Real-time Stock Market Data | live",
-                "date": "2026-10-13T06:23:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China's exports seen growing at faster pace in September",
-                "desc": "China's exports are expected to have expanded at a slightly faster pace in September, ​sustaining robust momentum despite pressure from some trading partners and remaining an economic growth ‌driver.",
-                "image": "https://www.reuters.com/resizer/v2/BPSZJS6AXJP3NN62OUTTIKT43U.jpg?auth=4db41e0073a0afeba42c07ffb379ace3a9ce89309b6a2a85cb6002adb424b78e&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/asia-pacific/chinas-exports-seen-growing-faster-pace-september-2026-10-13/",
-                "source": "Reuters",
-                "date": "2026-10-13T06:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-                "desc": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108261511-17702320902026-02-04t185955z_774280777_rc26fjanpgyq_rtrmadp_0_visa-results.jpeg?v=1770232136&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
-                "source": "CNBC",
-                "date": "2026-10-13T06:20:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Better Artificial Intelligence Stock for 2026: BigBear.ai vs. Cerebras Systems",
-                "desc": "One trades at a premium valuation but just turned profitable with 75% revenue growth; the other faces governance headwinds and shrinking sales.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3b38211d960f196805d143802766036cbd8975ed-1280x853.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-                "url": "https://www.fool.com/coverage/better-buy/2026/10/13/better-artificial-intelligence-stock-for-2026-bigbear-ai-vs-cerebras-systems/",
-                "source": "The Motley Fool",
-                "date": "2026-10-13T06:20:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold price prediction today: Will gold prices rise? Check October 13, 2026 outlook",
-                "desc": "Gold price prediction today: Gold prices may rise in the short-term but the upside is likely to be capped, says Praveen Singh, Head Currencies and",
-                "image": "https://static.toiimg.com/thumb/msid-134909949,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-october-13-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/134909904.cms",
-                "source": "The Times of India",
-                "date": "2026-10-13T06:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BIR mandates 2% withholding tax remittance on electricity spot market sales",
-                "desc": "The Bureau of Internal Revenue (BIR) has ordered the Independent Electricity Market Operator of the Philippines (IEMOP) to withhold, account for, and remit taxes for electricity transactions in the wholesale electricity spot market (WESM) to ensure that they are properly recorded.",
-                "image": "https://images.gmanews.tv/webpics/2021/06/bir_2021_06_30_20_37_11.jpg",
-                "url": "https://www.gmanetwork.com/news/money/economy/1005751/bir-mandates-2-withholding-tax-remittance-on-electricity-spot-market-sales/story/",
-                "source": "GMA Network",
-                "date": "2026-10-13T06:10:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI will not be winner-take-all, doom predictions for jobs ‘disaster marketing’: Nandan Nilekani",
-                "desc": "Responding to the IMF chief’s warning that AI could affect 40 percent of global jobs, Nilekani says India can lead in deploying the technology at scale, while enterprise transformation will create new opportunities for IT companies and workers.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261013060940_Nandan-Nilekani-Bloomberg-economic-forum-.jpg",
-                "url": "https://www.moneycontrol.com/news/business/ai-will-not-be-winner-take-all-doom-predictions-for-jobs-disaster-marketing-nandan-nilekani-14050804.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-10-13T06:10:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Will the Government's new investment account work for you?",
-                "desc": "Whether the new investment account is attractive to you depends on a number of factors, including your age, demographic and financial plans",
-                "image": "https://www.rte.ie/images/00240757-1600.jpg",
-                "url": "https://www.rte.ie/brainstorm/2026/1013/1594990-investment-account-ireland-explainer-budget-2027-simon-harris/",
-                "source": "RTE.ie",
-                "date": "2026-10-13T06:09:04Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Samsung Health now needs just 3 days of sleep data to coach you toward better sleep",
+                "desc": "Samsung Health’s Sleep Coaching now needs just three days of sleep data to start, and it adds daily habit checklists, weekly plan updates, and a new Sleep Balance graph.",
+                "image": "https://www.digitaltrends.com/tachyon/2026/10/Samsung-health-sleep-tracking.jpg?resize=1200%2C630",
+                "url": "https://www.digitaltrends.com/phones/samsung-health-now-needs-just-3-days-of-sleep-data-to-coach-you-toward-better-sleep/",
+                "source": "Digital Trends",
+                "date": "2026-10-14T12:55:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Launched iPhone 4S With Siri 15 Years Ago Today",
+                "desc": "Today marks the 15th anniversary of the iPhone 4S launch, introducing Siri as a built-in feature of the iPhone for the first time.",
+                "image": "https://images.macrumors.com/t/LZNXO4hLKLQabG-rqtB1oPxZtsE=/1600x/article-new/2026/10/iphone-4s.jpg",
+                "url": "https://www.macrumors.com/2026/10/14/apple-launched-iphone-4s-15-years-ago/",
+                "source": "MacRumors",
+                "date": "2026-10-14T12:55:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wind, tide and 80 looks: Malaysia’s Mac Chew adds musical touch to Cabbeen’s Shishi seaside runway",
+                "desc": "KUALA LUMPUR, Oct 14 — Chinese fashion label Cabbeen returned to the Shishi coast in Fujian province for the third...",
+                "image": "https://s.yimg.com/lo/mysterio/api/a104b4e6428977020eadf2ec6d37c212f17cb649955c7801cb7734a6d406e8b3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmmail.com.my%2F42b6e46da407dcdd306e0230207fd824.jpg",
+                "url": "https://malaysia.news.yahoo.com/wind-tide-80-looks-malaysia-125535617.html",
+                "source": "Yahoo",
+                "date": "2026-10-14T12:55:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A candidate sent an AI to an interview with an AI recruiter",
+                "desc": "The author sent an AI representative to a job interview with an AI recruiter, but the experiment ended in farce: the bots made up details about their work experience, couldn't agree on a salary, and got stuck in an endless cycle of goodbyes.",
+                "image": "https://img.mezha.ua/mezha/images/doc/a/4/330274/a495ecd65883f27bfd361bb6464d2efe.jpeg?w=1200&q=85&stamp=1791968513",
+                "url": "https://mezha.ua/en/news/ai-job-interview-316157/",
+                "source": "Mezha",
+                "date": "2026-10-14T12:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Narrative Adventure About Grief and Memory Released",
+                "desc": "Forever Ago, developed by Third Shift, is a beautiful, deeply emotional story relived through the eyes of an old man.",
+                "image": "https://cdn.80.lv/api/upload/meta/50625/images/6acf4dee6f713/contain_1200x630.jpg",
+                "url": "https://80.lv/articles/annapurna-releases-a-heartbreaking-third-person-adventure-about-an-old-man-on-a-road-trip",
+                "source": "80 Level",
+                "date": "2026-10-14T12:44:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Galaxy A37 stable One UI 9.0 (Android 17) update is here",
+                "desc": "Samsung has started rolling out the stable One UI 9.0 update for the Galaxy A37, with South Korea getting it first.",
+                "image": "https://www.sammobile.com/wp-content/uploads/2026/04/Galaxy-A37-review-8.jpg",
+                "url": "https://www.sammobile.com/news/galaxy-a37-stable-one-ui-9-0-android-17-update-here/",
+                "source": "SamMobile",
+                "date": "2026-10-14T12:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Honor confirms massive batteries for Win2 and Win RT2",
+                "desc": "The phones are confirmed to feature a 2K resolution 185Hz display. The Honor Win2 series, comprising the Win2, Win RT2, and Win Turbo 2, is set to launch...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-series-specs-confirmed/-952x498w6/gsmarena_00.jpg",
+                "url": "https://www.gsmarena.com/honor_win2_and_win_rt2_battery_capacities_revealed_and_theyre_massive-news-75033.php",
+                "source": "GSMArena.com",
+                "date": "2026-10-14T12:43:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Eat When You're Injured",
+                "desc": "Learn from three sports dietitians why cutting calories when you’re hurt as a runner can backfire, and what your body actually needs to heal and return to training.",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/027c068f-c85c-4758-bad3-9c1aebb12c30.jpeg?crop=1xw:0.75xh;0xw,0.068xh&resize=1200:*",
+                "url": "https://www.runnersworld.com/health-injuries/a74092484/injury-recovery-nutrition-runners/",
+                "source": "Runner's World",
+                "date": "2026-10-14T12:43:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ubisoft to close Finland studio, cut 70 jobs in Singapore",
+                "desc": "French video games group Ubisoft said Wednesday that it planned to close a studio in Finland and cut 70 jobs in Singapore as it tries to return to profitability.",
+                "image": "https://assets.theedgemarkets.com/ubisoft_20241206230840_reuters_1.jpg",
+                "url": "https://theedgemalaysia.com/node/821889",
+                "source": "The Edge Malaysia",
+                "date": "2026-10-14T12:42:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Terahertz Nanoscopy Reveals How Ultrafast In-Plane Spin-Driven Currents Become Visible",
+                "desc": "Researchers used spatiotemporal terahertz emission nanoscopy to map the electromagnetic signatures of ultrafast spin-driven charge currents in a fiber-coupled spintronic terahertz emitter with femtosecond temporal resolution and nanoscale spatial sensitivity. The study shows how localized in-plane currents produce detectable out-of-plane electric fields, clarifying how near-field terahertz measurements can probe ultrafast spin-to-charge transport.",
+                "image": "https://www.azonano.com/images/news/ImageForNews_41867_17919814421971661.png",
+                "url": "https://www.azonano.com/news.aspx?newsID=41867",
+                "source": "AZoNano",
+                "date": "2026-10-14T12:42:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Amazon Basically Gives Away Extra MicroSD Card Storage for Free as the Lexar E-Series 64GB Drops Below the Price of the 32GB Version",
                 "desc": "Add a bit more storage to your device for less.",
@@ -1174,99 +1264,99 @@
                 "source": "GameRant",
                 "date": "2026-10-13T11:00:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 17 Pro, Pro Max discounts on Croma, Amazon, Flipkart: How to get 17 Pro under ₹1 lakh",
-                "desc": "Croma’s Festival of Dreams sale offers discounts, card cashback and exchange bonuses on the iPhone 17 Pro and iPhone 17 Pro Max in India until 31 October, subject to stock availability. The iPhone 17 Pro 256GB has an effective price of ₹1,26,490.",
-                "image": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/SDIM0398_1758610766553_1791871493030_YP7u_7a3065d0-932d-4b2c-83b5-96e9526a2849_S6J1.JPG",
-                "url": "https://www.livemint.com/technology/iphone-17-pro-pro-max-discounts-on-croma-amazon-flipkart-how-to-get-pro-under-1-lakh-11791871336482.html",
-                "source": "Livemint",
-                "date": "2026-10-13T06:30:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple ‘Welcome Home’ event today: HomePod mini, Apple TV and other products expected to launch",
-                "desc": "Apple is all set to hold its ‘Welcome Home’ launch event today (October 13).",
-                "image": "https://static.toiimg.com/thumb/msid-134910156,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-welcome-home-event-today-homepod-mini-apple-tv-and-other-products-expected-to-launch/articleshow/134910144.cms",
-                "source": "The Times of India",
-                "date": "2026-10-13T06:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New COROS PACE 4 Pro Fitness Watch Set To Launch In Malaysia",
-                "desc": "This watch is designed for people looking to push their limits.",
-                "image": "https://media.says.com/2026/10/SAYS-COVER-IMAGE-TEMPLATE-228.jpg",
-                "url": "https://says.com/my/tech/coros-pace-4-pro-malaysia-launch",
-                "source": "SAYS",
-                "date": "2026-10-13T06:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Unpatched versions of Windows to lose access to updates in 2027",
-                "desc": "In a blog post, a Microsoft representative said unpatched versions of Windows will lose access to Windows Update next year due to the expiration of digital certificates used to verify their authenticity and connect to the company's update servers.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/13/4159078.jpg",
-                "url": "https://www.thestar.com.my/tech/tech-news/2026/10/13/older-versions-of-windows-to-lose-access-to-updates-in-2027",
-                "source": "The Star",
-                "date": "2026-10-13T06:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Street Fighter 6 Producer Warned of Series' Imminent Demise Due to Aging Audience",
-                "desc": "Street Fighter 6 producer Shuhei Matsumoto believes that without attracting new players, the series could disappear in ten years due to the aging audience of Street Fighter 5.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1725348/8bbde8ac-6695-476d-b120-25d58dfa4356.jpg",
-                "url": "https://ixbt.games/en/news/2026/10/13/prodiuser-street-fighter-6-predupredil-o-skoroi-gibeli-serii-iz-za-stareiushhei-auditorii.html",
-                "source": "iXBT.games",
-                "date": "2026-10-13T06:05:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Project S.U.N.D.I.A.L. Closed Beta Is Now Live",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/09/241048-dcfd65cd/1232x706_version_1-Wiederhergestellt.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=dd83f7c3036666b1383522b95999fcf41adaf5a87fd0bdd91893caf1f31640fe",
-                "url": "https://www.gamespress.com/Project-SUNDIAL-Closed-Beta-Is-Now-Live",
-                "source": "Games Press",
-                "date": "2026-10-13T06:01:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Life after SEO: How newsrooms are adapting to the AI search shift",
-                "desc": "Experts from Axios, the Guardian, and The Athletic explain why building brand authority matters more than chasing traffic in a zero-click world",
-                "image": "https://reutersinstitute.politics.ox.ac.uk/themes/custom/reuters/favicon.ico",
-                "url": "https://reutersinstitute.politics.ox.ac.uk/news/life-after-seo-how-newsrooms-are-adapting-ai-search-shift",
-                "source": "reutersinstitute.politics.ox.ac.uk",
-                "date": "2026-10-13T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tales of Destiny II Returns After More Than 25 Years as Tales of Eternia Remastered, the Series' First 2D Remaster",
-                "desc": "At Tokyo Game Show 2026, we interviewed developer TOSE to learn what changes have been made to the upcoming JRPG Tales of Eternia Remastered.",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Tales-of-Eternia-Remastered-HD-1920x1080.jpeg",
-                "url": "https://wccftech.com/tales-of-eternia-remastered-interview-tales-of-destiny-2-first-2d-remaster/",
-                "source": "Wccftech",
-                "date": "2026-10-13T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-                "desc": "Midnight Mimosa ships in some low-cost Android firmware, silently installs apps, and uses payloads for ad fraud and residential proxies.",
-                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1700-nu-rw-lo-l85-e365/android-malware.jpg",
-                "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-                "source": "The Hacker News",
-                "date": "2026-10-13T06:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's Your First Good Look At an Intel Nova Lake-S Motherboard With LGA 1954 Socket & Q970/B960 Chipset",
-                "desc": "An Intel LGA 1954 socketed motherboard has been pictured, which will support the upcoming Nova Lake-S \"Core Series 4\" CPUs.",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Intel-Nova-Lake-S-Motherboard-F.jpg",
-                "url": "https://wccftech.com/intel-nova-lake-s-motherboard-lga-1954-socket-q970-b960-chipset-pictured/",
-                "source": "Wccftech",
-                "date": "2026-10-13T05:55:26Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Lithuanian Minister proposes banning self-employed status for foreign students",
+                "desc": "Interior Minister Martynas Katelynas noted that some students seek entry into Lithuania primarily to work rather than to study.",
+                "image": "https://media.bnn.lv/daria-lyalyulina-BDHtZxKeXOA-unsplash-1-1200x675.jpg",
+                "url": "https://bnn-news.com/world/lithuanian-minister-proposes-banning-self-employed-status-for-foreign-students-m7wccx8",
+                "source": "Baltic News Network",
+                "date": "2026-10-14T12:56:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Failure to activate Hormuz fertilizer plan could trigger food crisis, UN official says",
+                "desc": "A failure by the United ​States and Iran to agree within weeks on a UN-backed plan for moving fertilizer through the Strait of Hormuz could cause a ‌food security crisis in parts of Asia and Africa, an official overseeing the proposed scheme said on Wednesday.",
+                "image": "https://www.reuters.com/resizer/v2/YWMCKTJ7NJNETCZTGEMQGU667E.jpg?auth=d89a6369417b318dc6e3d271a595b6286ca0be83d8424960381a03dbaca624c0&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/middle-east/failure-activate-hormuz-fertilizer-plan-could-trigger-food-crisis-un-official-2026-10-14/",
+                "source": "Reuters",
+                "date": "2026-10-14T12:55:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Louvre boss warns of closure risk without major renovations",
+                "desc": "The Louvre Museum risks having to close its doors to the public unless lawmakers approve a major overhaul of the creaking and over-capacity institution, its hea",
+                "image": "https://od2-image-api.abs-cbn.com/prod/20261014131036/a6975ad84328d44e0fa3cb65f13d62e99a5cc298d8d6034d384a83ef3303da40.jpg?w=1200&h=800",
+                "url": "https://www.abs-cbn.com/lifestyle/people-culture-events/2026/10/14/louvre-boss-warns-of-closure-risk-without-major-renovations-2041",
+                "source": "ABS-CBN",
+                "date": "2026-10-14T12:54:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Newborn found alive in shopping bag in KwaZulu-Natal",
+                "desc": "Couple discover crying infant abandoned in bush near Verulam",
+                "image": "https://www.timeslive.co.za/resizer/v2/UNSAIAXY2NEKXOZJRWP64ZL3UY.jpeg?smart=true&auth=de736e4a198437e476fc4c8d2f9170bac5909d2002bf0ef0447ad07db99e9484&width=1200&height=630",
+                "url": "https://www.timeslive.co.za/news/south-africa/2026-10-14-newborn-found-alive-in-shopping-bag-in-kwazulu-natal/",
+                "source": "TimesLIVE",
+                "date": "2026-10-14T12:53:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Career Researchers: Join the African Migration Research Training Workshop at the University of Pretoria This October (29–30)",
+                "desc": "PhD students and early-career researchers based in Gauteng, South Africa, are invited to participate in a two-day training workshop on African migration,",
+                "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/10/1791870620881.jpeg",
+                "url": "https://www.globalsouthopportunities.com/2026/10/14/researchers-5/",
+                "source": "Global South Opportunities",
+                "date": "2026-10-14T12:52:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Container ship sinks near Hormuz after being hit by projectile",
+                "desc": "A Singapore-flagged container ship has sunk near the Strait of Hormuz after being hit by a projectile, while a dry bulk carrier damaged ​in an earlier attack is also reported to be sinking, maritime security sources said on Wednesday.",
+                "image": "https://www.reuters.com/resizer/v2/Z5J4SQ4V7JJFDCE4TTW2GEO3SQ.jpg?auth=62de344c337e7b9a5329ba868a0915cef6a67a9bb20a2d4fb91790f0700a9722&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/asia-pacific/container-ship-sinks-near-hormuz-after-being-hit-by-projectile-sources-say-2026-10-14/",
+                "source": "Reuters",
+                "date": "2026-10-14T12:51:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bill Browder on Russian Oil Buyers and EU Sanctions",
+                "desc": "Magnitsky sanctions architect Bill Browder tells UNITED24 Media why Europe must target Russian oil buyers, punish sanctions violators, and seize frozen assets.",
+                "image": "https://storage.united24media.com/og/6/8a/26e4ce543b8e2d2db8bfaf15570858a6.jpg",
+                "url": "https://united24media.com/interview/europe-must-get-tougher-on-russian-oil-buyers-interview-with-bill-browder-architect-of-magnitsky-sanctions-23435",
+                "source": "UNITED24 Media",
+                "date": "2026-10-14T12:51:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IMF raises sub-Saharan Africa growth outlook",
+                "desc": "The IMF said the new projection, marginally higher than July’s 4.3%, “masks substantial divergence” within the region.",
+                "image": "https://img.semafor.com/c6310d8abe0daa15eb2c19f23169bc463d8ffe4b-5940x3960.jpg?rect=0,421,5940,3119&w=1200&h=630&q=75&auto=format",
+                "url": "https://www.semafor.com/article/10/14/2026/imf-raises-growth-outlook-for-sub-saharan-africa",
+                "source": "Semafor",
+                "date": "2026-10-14T12:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump's diesel dilemma - by the numbers",
+                "desc": "Conflicts in Ukraine and Iran have created major ripple effects across global energy markets causing major price swings.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108403254-1791897383471-gettyimages-2299388571-AFP_D32Z7Q3.jpeg?v=1791897417&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
+                "source": "CNBC",
+                "date": "2026-10-14T12:49:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Go Beyond Safaris Highlights Itinerary Planning Factors for African Safari Travel",
+                "desc": "SYDNEY, Australia — October 14, 2026 — Go Beyond Safaris has outlined key considerations for planning African safaris itineraries, focusing on regional transfer times, seasonal wildlife movements, travel costs and itinerary pacing. The guidance addresses practical factors travellers can assess when comparing destinations and arranging journeys across Southern and East Africa. Safari itineraries that include […]",
+                "image": "https://pix.xpr.media/p/eyJzIjoiNjU5NGY5MTMtNDE3Yi00NzUyLWEwOWItZWYzYWQ3NjRmM2Q2IiwiYyI6ImMzNGY2NWRlLTdiZjUtNDVkYi1iYWMzLTljZmM4MDdhMTExZCIsInYiOjF9.nWQmMhUQrL2hpK6ciJIEi5axUL710rOItytA8H0Nar4.gif",
+                "url": "https://www.usatoday.com/press-release/story/50447/go-beyond-safaris-highlights-itinerary-planning-factors-for-african-safari-travel/",
+                "source": "USA Today",
+                "date": "2026-10-14T12:48:40Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Yemen fighting overwhelms hospitals, cuts aid to 800,000 people, relief agencies say",
                 "desc": "Hospitals across Yemen are struggling to cope with a sharp ​rise in war casualties, while intensified fighting along multiple front lines has ‌cut off aid to around 800,000 people, humanitarian agencies said on Wednesday.",
@@ -1806,98 +1896,8 @@
                 "source": "Inbox.lv",
                 "date": "2026-10-13T10:58:44Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Shock, anger and a crackdown: why a contentious electoral revision has sparked outrage",
-                "desc": "Marches in Delhi against changes to voting registration led to dragnets, internet blackouts – and questions about India’s electoral independence. Plus, the cinematographer capturing the beauty of the mundane",
-                "image": "https://i.guim.co.uk/img/media/a9cdad812c46c9f9fb10b69225ba538602220d32/618_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc74d235d28eac8226eb98147e1f5db3",
-                "url": "https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests",
-                "source": "The Guardian",
-                "date": "2026-10-13T06:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Half Moon Bay weigh-off crowns 2,389-pound pumpkin",
-                "desc": "Giant pumpkin growers and their massive gourds will converge on Monday in Northern California for an annual pumpkin-weighing contest, competing for the top prize and a chance to challenge the world record set just last week in England.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/a216dca0-22b2-4a7e-9936-b95ecd2411f5.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0782xh&resize=1200%3A*",
-                "url": "https://www.kcra.com/article/giant-pumpkin-contest-half-moon-bay/74111438",
-                "source": "KCRA",
-                "date": "2026-10-13T06:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Due to Sharks, Red Caviar in Russia May Increase Several Times by New Year",
-                "desc": "An additional factor has been the unfavorable climatic conditions in 2026. Scientists from VNIRO warned about the development of a strong El Niño — a natural phenomenon where the water temperature in the central and eastern parts of the equatorial",
-                "image": "https://news.inbox.eu/w/img/32/0f/320f4693b1c2cbb6d2.webp",
-                "url": "https://news.inbox.lv/150v4gi-due-to-sharks-red-caviar-in-russia-may-increase-several-times-by-new-year?language=en",
-                "source": "Inbox.lv",
-                "date": "2026-10-13T06:27:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Due to Sharks, Red Caviar in Russia May Increase Several Times by New Year",
-                "desc": "An additional factor has been the unfavorable climatic conditions in 2026. Scientists from VNIRO warned about the development of a strong El Niño — a natural phenomenon where the water temperature in the central and eastern parts of the equatorial",
-                "image": "https://news.inbox.eu/w/img/32/0f/320f4693b1c2cbb6d2.webp",
-                "url": "https://news.inbox.eu/150v4gi-due-to-sharks-red-caviar-in-russia-may-increase-several-times-by-new-year?language=en",
-                "source": "Inbox.eu",
-                "date": "2026-10-13T06:27:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Sudanese Bishop Recalls St. Daniel Comboni’s Love for Africa, Urges Youths to Follow Missionary’s Footsteps",
-                "desc": "South Sudan’s Archdiocese of Juba has celebrated the Solemnity of St. Daniel Comboni, recalling the missionary’s love for Africa and calling on Catholics in the country, especially the youths, to walk in his footsteps.",
-                "image": "https://www.aciafrica.org/images/aci-africa_nick_if20-south-africa-2026-10-12t153015_1791872599.jpg?w=1200&format=jpeg",
-                "url": "https://www.aciafrica.org/news/24635/south-sudanese-bishop-recalls-st-daniel-combonis-love-for-africa-urges-youths-to-follow-missionarys-footsteps",
-                "source": "ACI Africa",
-                "date": "2026-10-13T06:26:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Super El Nino forecast from March to May 2027, temperatures may break 40.1°C record",
-                "desc": "JOHOR BARU: Malaysia needs to brace itself for the Super El Niño phenomenon, which is expected to bring scorching weather between March and May 2027, potentially breaking the country's record high temperature of 40.1°C.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/13/4159172.jpg",
-                "url": "https://www.thestar.com.my/news/nation/2026/10/13/super-el-nino-forecast-from-march-to-may-2027-temperatures-may-break-401c-record",
-                "source": "The Star",
-                "date": "2026-10-13T06:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Villanueva calls on gov't to ensure safety, welfare of OFWs in Saudi Arabia following airport attack",
-                "desc": "Senator Joel Villanueva on Tuesday, October 13 urged the government to ensure the safety and welfare of Filipinos in Saudi Arabia following the successive...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/10/13/138486.webp",
-                "url": "https://mb.com.ph/2026/10/13/villanueva-calls-on-govt-to-ensure-safety-welfare-of-ofws-in-saudi-arabia-following-airport-attack",
-                "source": "Manila Bulletin",
-                "date": "2026-10-13T06:25:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India youth protest leaders detained after entering barricaded Delhi protest site",
-                "desc": "The detentions on Tuesday (Oct 13) came after Cockroach Janta Party (CJP) leaders entered Jantar Mantar, an iconic site for demonstrations that police had removed from New Delhi's list of designated protest venues a day earlier.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--Q6ENqC80--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-25T133355Z_2_LYNXMPEM8O0EX_RTROPTP_3_INDIA-POLITICS-GEN-Z.JPG?itok=bCT7CGM0",
-                "url": "https://www.channelnewsasia.com/asia/india-detains-cockroach-leaders-protest-6455131",
-                "source": "CNA",
-                "date": "2026-10-13T06:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hanwella Amusement Park Company fined Rs. 500,000 over bottled water price",
-                "desc": "Hanwella Amusement Park Company fined Rs. 500,000 over bottled water price News - Newswire",
-                "image": "https://www.newswire.lk/wp-content/uploads/2026/10/CAA-water-bottle.jpg",
-                "url": "https://www.newswire.lk/2026/10/13/hanwella-amusement-park-company-fined-rs-500000-over-bottled-water-price/",
-                "source": "Newswire",
-                "date": "2026-10-13T06:22:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Horror as passenger plane evacuated at major airport after chilling 'bomb threat' made",
-                "desc": "The incident has sparked panic at the airport.",
-                "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7184705.jpg",
-                "url": "https://www.express.co.uk/news/world/2256711/horror-passenger-plane-evacuated-major",
-                "source": "Daily Express",
-                "date": "2026-10-13T06:22:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-14T22:12:43.458785Z"
+    "lastGlobalSync": "2026-10-15T00:56:15.047287Z"
 }
