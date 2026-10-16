@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Man jailed for offering bribe to site manager to illegally dump 10 lorries of chicken compost in Tuas",
+                "desc": "SINGAPORE: The director of a transport company was jailed after he tried to bribe a man so he could illegally dump 10 lorry loads of chicken compost in Tuas.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/15/4163995.png",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/15/man-jailed-for-offering-bribe-to-site-manager-to-illegally-dump-10-lorries-of-chicken-compost-in-tuas",
+                "source": "The Star",
+                "date": "2026-10-15T12:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cockroach infestation found at Hopsack Cafe in Swan Leisure Centre, Rathmines",
+                "desc": "Food safety watchdog issues a dozen closure orders in September",
+                "image": "https://www.irishtimes.com/resizer/v2/V2K44U3MV2FCZ6NXLDJSCKEWGU.jpg?smart=true&auth=f8f9792ea38439480de17dc358d7d740c0da16ef547ccd1aeb212c191c09125d&width=1200&height=630",
+                "url": "https://www.irishtimes.com/ireland/2026/10/15/cockroach-infestation-with-all-stages-from-nymph-to-adult-found-at-hopsack-rathmines/",
+                "source": "The Irish Times",
+                "date": "2026-10-15T12:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Millions of phones exposed to Israeli spyware operation through online ads, researchers say",
+                "desc": "EU and NATO websites displayed online ads linked to Israeli hacking software.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/15/GettyImages-2255616805-scaled.jpg",
+                "url": "https://www.politico.eu/article/israel-firm-advertising-spyware-mobile-phone-hacking/",
+                "source": "POLITICO.eu",
+                "date": "2026-10-15T12:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Team Dynamics Weaken When Employees Turn to AI instead of Colleagues",
+                "desc": "Part of what makes a great team work is that people know and trust who has which skills or knowledge, and they know whom to go to for what. A new study shows how AI is changing this dynamic on teams: While AI use increased the sense that teammates had specialized and unique knowledge, treating AI as a teammate also eroded teammates’ trust in each other and their ability to coordinate. This practice of displacing teammates with AI can lead to “relationslipping”—the pernicious weakening of a team’s working relationships as its members substitute AI for each other. There are two ways this happens. First, when team members skip conversations in favor of a quick answer from AI, they aren’t developing or updating their mental map of who knows what. And second, when their colleagues offload their work to AI, those colleagues’ thinking becomes harder to see, so the map loses accuracy. That said, AI isn’t inherently bad for teams. Leaders can adopt a few practices to protect team cohesion, such as: increasing asynchronous communication, building psychological safety, rethinking teamwork with new norms and aligned incentives, and using AI to prepare for conversations instead of replacing them.",
+                "image": "https://hbr.org/resources/images/article_assets/2026/10/Oct26_15_MaartenHuizing.jpg",
+                "url": "https://hbr.org/2026/10/team-dynamics-weaken-when-employees-turn-to-ai-instead-of-colleagues",
+                "source": "Harvard Business Review",
+                "date": "2026-10-15T12:42:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cockroach infestation found at Hopsack Cafe in Swan Leisure Centre, Rathmines",
+                "desc": "Twelve food operators were issued with closure orders by the food safety watchdog last month, with active cockroach and rat infestations, decomposing mice and inadequate procedures for the cooking, cooling and reheating of high-risk foods including sushi among the reasons…",
+                "image": "https://i.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5pcmlzaHRpbWVzLmNvbVxcXC9yZXNpemVyXFxcL3YyXFxcL1YySzQ0VTNNVjJGQ1o2TlhMREpTQ0tFV0dVLmpwZz9hdXRoPWY4Zjk3OTJlYTM4NDM5NDgwZGUxN2RjMzU4ZDdkNzQwYzBkYTE2ZWY1NDdjY2QxYWViMjEyYzE5MWMwOTEyNWRcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImJhZjAyYjU0NmEzMTBhMjJjMzY3YTUwN2RlZjMyYThmOWVlMjQyMDMifQ==/cockroach-infestation-foun.jpg?auth=f8f9792ea38439480de17dc358d7d740c0da16ef547ccd1aeb212c191c09125d",
+                "url": "https://www.breakingnews.ie/ireland/cockroach-infestation-with-all-stages-from-nymph-to-adult-found-at-hopsack-rathmines-1953843.html",
+                "source": "BreakingNews.ie",
+                "date": "2026-10-15T12:42:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tech Giants Turn to Miners to Secure Critical Metals for AI and Data Centres",
+                "desc": "Technology companies building data centres for AI are in active talks with miners to secure direct supplies of critical metals like copper, says Anglo American CEO Duncan Wanblad.",
+                "image": "https://images.newsteam.io/image/400/GbSdY1y2zcm5tcNUoFz1GD9bdbLwA7F8n5nMdiw1hjKxcNNcowBusvaSa6XxUuYR8AJubQBwEo2uPVCXbkrFcetZTrZsjpSNkYZHnhVwaFfEREzp1TasoF3ymRyF5TqgeQUJDi1b9rWMYmiqELkwD",
+                "url": "https://miningmx.com/2026-10-15-tech-firms-in-conversations-about-metals-supply-says-anglo-s-wanblad/",
+                "source": "MiningMX",
+                "date": "2026-10-15T12:41:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+                "desc": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108413830-1792064183506-gettyimages-504969398-ZERVOS_JEFFERIES.jpeg?v=1792064198&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+                "source": "CNBC",
+                "date": "2026-10-15T12:40:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wholesale inflation surged in September, keeping affordability in focus ahead of the midterms",
+                "desc": "US wholesale inflation jumped in September to its highest level in more than four years, marking the second hotter-than-expected inflation reading this week and adding to concerns about the economy just weeks before the midterm elections.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285645847.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/10/15/economy/us-retail-sales-wholesale-inflation-ppi-september",
+                "source": "CNN",
+                "date": "2026-10-15T12:38:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold Price Today on October 15, 2026",
+                "desc": "As of October 15, 2026, the price of gold is $4,149.29 per ounce. See updated daily gold price, historical gold price charts, percentage changes and gold trends at USA TODAY Money.",
+                "image": "https://www.usatoday.com/gcdn/authoring/images/motleyfool/2026/01/29/USAT/88422498007-a-stack-of-gold-bars-sitting-on-top-of-american-dollars.jpeg?crop=2118,1191,x0,y111&width=2118&height=1191&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/personalfinance/2026/10/15/gold-price-on-october-15-2026/92261396007/",
+                "source": "USA Today",
+                "date": "2026-10-15T12:36:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Crypto scammers stole millions from Russian speakers, Brooklyn just hit their servers",
+                "desc": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers, then went after victims again with fake recovery offers.",
+                "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+                "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
+                "source": "CoinDesk",
+                "date": "2026-10-15T12:35:24Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Microsoft, Japan Cybercrime Takedown Hits 1B Scams [2026]",
                 "desc": "Microsoft and Japan dismantled YAM Store, CoGUI, and Iron Man, services behind 1B+ scam messages since January 2026, hitting 75,000 orgs.",
                 "image": "https://tech-insider.org/wp-content/uploads/2026/10/microsoft-japan-cybercrime-network-takedown-2026-gen.webp",
@@ -542,99 +632,99 @@
                 "source": "BBC",
                 "date": "2026-10-14T12:47:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "onsemi and Sungrow Advance Utility-Scale Energy Storage Performance with SiC Hybrid Technology",
-                "desc": "Advanced EliteSiC hybrid technology maximizes usable energy as electricity demand surges",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/14/1259144.jpg",
-                "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/globenewswire/onsemi-and-sungrow-advance-utility-scale-energy-storage-performance-with-sic-hybrid-technology/2445353",
-                "source": "The Manila Times",
-                "date": "2026-10-14T10:12:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From the periphery to the core: financial health and central banks’ mandates",
-                "desc": "Speech by Mr Fernando Restoy, Chair, Financial Stability Institute, at the 18th Annual G-24/AFI Policymakers’ Roundtable, Bangkok, 13 October 2026.",
-                "image": "https://www.bis.org/themes/custom/bis/src/assets/images/meta-default.jpg",
-                "url": "https://www.bis.org/speeches/20261013-periphery-core-financial-health-and-central-banks-mandates",
-                "source": "Bank for International Settlements",
-                "date": "2026-10-14T10:12:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
-                "desc": "Pledge spanning five years from world’s most valuable firm comes as concerns about AI agents have risen",
-                "image": "https://i.guim.co.uk/img/media/63fe41cf76dc85790ffaa07a8437c6647182b789/1000_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29a5f46a552f2e27fe9c22326ed87c85",
-                "url": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
-                "source": "The Guardian",
-                "date": "2026-10-14T10:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Higher borrowing costs an 'alarm signal' for France, says finance minister",
-                "desc": "French public debt is projected to reach a record high of 121.7% of GDP in 2027 under the government's budget proposal, up from 119% at the end of June.",
-                "image": "https://img.lemde.fr/2026/09/11/0/0/5899/3932/1440/960/60/0/08fdeab_ftp-1-j7qbueyfwmf0-2026-09-11t093551z-1542309202-rc2xgna9qn8n-rtrmadp-3-france-budget.JPG",
-                "url": "https://www.lemonde.fr/en/france/article/2026/10/14/higher-borrowing-costs-an-alarm-signal-for-france-says-finance-minister_6758598_7.html",
-                "source": "Le Monde.fr",
-                "date": "2026-10-14T10:09:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bank of England and IMF bosses warn of cyber threat to trust in financial system",
-                "desc": "Kristalina Georgieva says online fraud could lead people to opt out of system and turn to ‘shoeboxes under their bed’",
-                "image": "https://i.guim.co.uk/img/media/a69c2863a51dad63d1de1240ba6c2c08ccfcf13a/293_0_4158_3326/master/4158.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56f1dc2afbe55a276290848bfbf7540f",
-                "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust",
-                "source": "The Guardian",
-                "date": "2026-10-14T10:09:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Confindustria forecasts Italy's GDP growth at 1% in 2026",
-                "desc": "Confindustria forecasts Italy's GDP growth at 1% in 2026 and 0.6% in 2027, warning that high energy costs and Brent oil at about $126 per barrel could erase growth.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/confindustria_prognozuye_zrostannya_vvp_1791972261689.webp",
-                "url": "https://ua.news/en/world/confindustria-prognozuie-zrostannia-vvp-italiyi-na-1-u-2026-rotsi-ansa-english",
-                "source": "UA.NEWS",
-                "date": "2026-10-14T10:07:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wall Street firms tie bonuses, promotions to AI skills, survey finds",
-                "desc": "AI skills are starting to count toward pay and promotion on ​Wall Street, with nearly a quarter of ‌financial firms tying raises, bonuses or promotions to employees’ proficiency with the technology, a survey showed.",
-                "image": "https://www.reuters.com/resizer/v2/3VUVTR5Q2FID5JIJ6ZOGHZMIKI.jpg?auth=367c7b76551739e02771b8a2e22fec4dc7d43b5794f011d1d3702e5926b09089&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/finance/wall-street-firms-tie-bonuses-promotions-ai-skills-survey-finds-2026-10-14/",
-                "source": "Reuters",
-                "date": "2026-10-14T10:07:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "S&P 500, Dow futures inch up before inflation data; bank results in focus",
-                "desc": "S&P 500 and Dow futures edged higher on Wednesday as AI-related stocks steadied after ‌a recent selloff, though elevated oil prices kept investors on edge ahead of key inflation data and amid another round of big bank earnings.",
-                "image": "https://www.reuters.com/resizer/v2/3VUVTR5Q2FID5JIJ6ZOGHZMIKI.jpg?auth=367c7b76551739e02771b8a2e22fec4dc7d43b5794f011d1d3702e5926b09089&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/sp-500-dow-futures-rise-ahead-big-bank-results-cpi-data-2026-10-14/",
-                "source": "Reuters",
-                "date": "2026-10-14T10:05:04Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Are you in the 60% tax bracket? Here's what to do if you are",
-                "desc": "Some Canadians in the OAS clawback zone are paying a tax rate higher than the top bracket yet have a lower taxable income. Keep reading here",
-                "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/oas-gs1013.jpg",
-                "url": "https://financialpost.com/personal-finance/are-you-in-60-tax-bracket-heres-how-to-tell-and-what-to-do",
-                "source": "Financial Post",
-                "date": "2026-10-14T10:04:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Personalized neoantigen-targeting cancer vaccines in ovarian cancer: a phase 1 trial",
-                "desc": "Personalized neoantigen-targeting cancer vaccines in the adjuvant setting are of increasing interest across malignancies. Here we report the results of a phase 1 clinical trial testing the feasibility and safety of personalized neoantigen-targeting cancer vaccines for high-grade epithelial ovarian cancer. ‘NeoVax’ consisted of pools of synthetic long peptides targeting patient-specific neoantigens admixed with the immunostimulant poly-ICLC, was combined with delayed administration of anti-PD-1 antibody, and was tested in ten patients (one newly diagnosed patient (Cohort A) and nine patients at first recurrence (Cohort B)) with platinum-sensitive ovarian cancer following standard-of-care platinum doublet chemotherapy. Nine of 12 evaluable Cohort B patients were vaccinated (75%, 90% CI 47–93%) and 1 of 9 Cohort A patients (11%, 90% CI 0.6–43%). No unexpected safety signals were encountered and no patients discontinued treatment due to toxicity. Across patients, >70% selected targets remained detectable by noninvasive cell-free DNA analysis despite a median of 6.5 months from the time of diagnostic biopsy to vaccine administration, during which, patients received standard-of-care chemotherapy. Biomarker analysis was suggestive of biologic activity of the vaccine in six of ten patients and this was associated with broader tumor and vaccine-specific immune responses in blood and tumor following vaccination. Resistant tumor clones reflected diverse mechanisms affecting antigen presentation, indicative of immune-selective pressure exerted by vaccination. Overall, the interplay between the repertoire of antigens presented by the tumor and the breadth of induced immunity seemed to dictate clinical efficacy following vaccination. ClinicalTrials.gov identifier: NCT04024878 . A phase 1 trial shows that treatment of patients with high-grade serous ovarian cancer with personalized neoantigen vaccines combined with PD-1 blockade was feasible and led to tumor-specific immune responses in many patients and putative mechanisms of resistance related to antigen presentation were identified via cell-free DNA analysis.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04717-8/MediaObjects/41591_2026_4717_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41591-026-04717-8?error=cookies_not_supported&code=8b45eeed-5b39-4ab6-8b9d-fd64e9ea7120",
-                "source": "Nature",
-                "date": "2026-10-14T10:04:21Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "MacPaw has launched an AI assistant that works on Mac and iPhone • Межа",
+                "desc": "The Ukrainian company MacPaw has launched Eney, an AI assistant for Mac and iPhone, which it first announced in 2025. It can remind you of meetings, find files, summarise conversations, and help with everyday tasks.",
+                "image": "https://img.mezha.ua/mezha/images/doc/5/5/330431/55988fb014baa210203f206957cf794e.jpeg?w=1200&q=85&stamp=1792067000",
+                "url": "https://mezha.ua/en/news/macpaw-vipustila-shi-asistenta-yakiy-pracyuye-na-mac-ta-iphone-316210/",
+                "source": "Mezha",
+                "date": "2026-10-15T12:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MKBHD is 'Not Convinced' About Apple's New HomeView, Here's Why",
+                "desc": "Apple this week introduced an all-new HomeView smart home hub, but popular tech reviewer Marques Brownlee is \"not convinced\" about it.",
+                "image": "https://images.macrumors.com/t/LgVMkKIsBSLKk6or4tOSZllEdSI=/1600x/article-new/2026/10/HomeView-Music.jpeg",
+                "url": "https://www.macrumors.com/2026/10/15/mkbhd-not-convinced-about-apple-homeview/",
+                "source": "MacRumors",
+                "date": "2026-10-15T12:44:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Power all your Apple gear with this 65W Ugreen 4-in-1 charger for just $25 (40% off)",
+                "desc": "This 4-port 65W Ugreen charger is $15 off right now.",
+                "image": "https://www.macworld.com/wp-content/uploads/2026/10/3260816-0-00543600-1792067011-Ugreen-65w-charger.jpg?quality=50&strip=all&w=1024",
+                "url": "https://www.macworld.com/article/3260816/power-all-your-apple-gear-with-this-65w-ugreen-4-in-1-charger-for-just-25-40-off.html",
+                "source": "Macworld",
+                "date": "2026-10-15T12:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Review Resident Evil 4 On Switch 2 Crystalises the Series High Point - but Comes Closer to PS4 than PS5",
+                "desc": "Plus: a quick look at RE2 and RE3, also coming to Switch 2 on October 16th. - <video url=\" Oliver with the full scoop on Resident Evil 4 for Switch 2 - an...",
+                "image": "https://images.digitalfoundry.net/e56862f01d033/1280x720.jpg",
+                "url": "https://www.digitalfoundry.net/reviews/resident-evil-4-on-switch-2-crystalises-the-series-high-point-but-comes-closer-to-ps4-than-ps5",
+                "source": "Digital Foundry",
+                "date": "2026-10-15T12:43:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anbernic’s dual-screen Nintendo 3DS clone starts at $300.",
+                "desc": "New listings on Anbernic’s AliExpress storefront reveal pricing for its new dual-screen Android handheld that will be available for preorder starting on October 16th and expected to ship on December 10th. The entry-level RG DDS with 8GB of RAM and 128GB of storage will be $299.99, while bumping the specs to 12GB/256GB pushes the price to $364.99.\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/anbernic.jpg?quality=90&strip=all]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/anbernic.jpg?quality=90&strip=all&crop=0,10.772290615223,100,78.455418769555",
+                "url": "https://www.theverge.com/tech/1011818/anbernic-rg-dds-nintendo-3ds-handheld-emulator-pricing-availability",
+                "source": "The Verge",
+                "date": "2026-10-15T12:39:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HUNTDOWN played on the KONKR Pocket Advance portable console in \"onyx ice\" color",
+                "desc": "Specifically for those who have already pre-ordered the KONKR Pocket Advance portable console in the \"onyx ice\" color scheme, Ayaneo employees have prepared a new video where you can not only get a better look at this device but also evaluate the gameplay of the arcade action-platformer HUNTDOWN.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1726443/0b32eb13-53fc-4b84-a66f-1b9b92f149d7.jpg",
+                "url": "https://ixbt.games/en/news/2026/10/15/na-portativnoi-konsoli-konkr-pocket-advance-v-rascvetke-oniksovyi-led-sygrali-v-huntdown.html",
+                "source": "iXBT.games",
+                "date": "2026-10-15T12:38:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I Compared Every PlayStation and Xbox for GTA 6. Here’s My Verdict",
+                "desc": "Before you hop into GTA 6 on Nov. 19, make sure you get the best console for the job. I tell you what you need to know about prices, performance, and overall value to help you choose.",
+                "image": "https://sm.pcmag.com/t/pcmag_au/news/i/i-compared/i-compared-every-playstation-and-xbox-for-gta-6-heres-my-ver_txpf.1200.jpg",
+                "url": "https://au.pcmag.com/microsoft-xbox-games/119574/i-compared-every-playstation-and-xbox-for-gta-6-heres-my-verdict",
+                "source": "PCMag Australia",
+                "date": "2026-10-15T12:36:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I Compared Every PlayStation and Xbox for GTA 6. Here’s My Verdict",
+                "desc": "Before you hop into GTA 6 on Nov. 19, make sure you get the best console for the job. I tell you what you need to know about prices, performance, and overall value to help you choose.",
+                "image": "https://sm.pcmag.com/t/pcmag_uk/news/i/i-compared/i-compared-every-playstation-and-xbox-for-gta-6-heres-my-ver_mk5z.1200.jpg",
+                "url": "https://uk.pcmag.com/microsoft-xbox-games/166968/i-compared-every-playstation-and-xbox-for-gta-6-heres-my-verdict",
+                "source": "PCMag UK",
+                "date": "2026-10-15T12:36:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WhatsApp's new Guest Calling feature lets you invite anyone to a call",
+                "desc": "Including those without a WhatsApp account. WhatsApp has announced a new Guest Calling feature that lets users invite anyone to join a call, including...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/whatsapp-guest-calling/-952x498w6/gsmarena_00.jpg",
+                "url": "https://www.gsmarena.com/whatsapps_new_guest_calling_feature_lets_you_invite_anyone_to_a_call-news-75055.php",
+                "source": "GSMArena.com",
+                "date": "2026-10-15T12:36:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Croma sale slashes Apple smartphone below Rs 59000 in India",
+                "desc": "IPhone 17 sale: Croma offers massive festival discounts on Apple iPhone 17 series devices, reducing prices significantly through bank cashback and exchange bonuses during the current retail event across India.",
+                "image": "https://media.assettype.com/deccanherald%2F2025-10-23%2F436rqmsa%2FApple-iPhone-17-Cover-Photos-Selected-6.jpg?rect=0%2C0%2C997%2C523&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+                "url": "https://www.deccanherald.com/technology/festival-of-dreams-2026-sale-apple-iphone-17-price-drops-below-rs-59000-on-croma-4183906",
+                "source": "Deccan Herald",
+                "date": "2026-10-15T12:35:58Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "How to Get an HP 2026 Laptop for Less Than an Entry-Level iPad on Amazon",
                 "desc": "This laptop is perfect for all your work and admin needs.",
@@ -1174,99 +1264,99 @@
                 "source": "AZoNano",
                 "date": "2026-10-14T12:42:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon Basically Gives Away Extra MicroSD Card Storage for Free as the Lexar E-Series 64GB Drops Below the Price of the 32GB Version",
-                "desc": "Add a bit more storage to your device for less.",
-                "image": "https://gizmodo.com/app/uploads/2026/10/sd-deal-1200x675.jpg",
-                "url": "https://gizmodo.com/amazon-basically-gives-away-extra-microsd-card-storage-for-free-as-the-lexar-e-series-64gb-drops-below-the-price-of-the-32gb-version-2000825138",
-                "source": "Gizmodo",
-                "date": "2026-10-14T10:10:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "People Are Hating On Apple Music's Redesigned Black",
-                "desc": "Apple Music may be changing its iconic logo to a more basic black and white version.",
-                "image": "https://www.engadget.com/img/gallery/people-are-hating-on-apple-music-redesigned-black-and-white-logo/l-intro-1791973238.jpg",
-                "url": "https://www.engadget.com/2286289/people-are-hating-on-apple-music-redesigned-black-and-white-logo/",
-                "source": "Engadget",
-                "date": "2026-10-14T10:06:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "When paperboy turns prohibitor",
-                "desc": "You don’t have to get snippy about it.",
-                "image": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/t_metro_brisbanetimes_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-                "url": "https://www.brisbanetimes.com.au/national/nsw/when-paperboy-turns-prohibitor-20261014-p615ci.html",
-                "source": "Brisbane Times",
-                "date": "2026-10-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "When paperboy turns prohibitor",
-                "desc": "You don’t have to get snippy about it.",
-                "image": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-                "url": "https://www.watoday.com.au/national/nsw/when-paperboy-turns-prohibitor-20261014-p615ci.html",
-                "source": "WAtoday",
-                "date": "2026-10-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "When paperboy turns prohibitor",
-                "desc": "You don’t have to get snippy about it.",
-                "image": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-                "url": "https://www.smh.com.au/national/nsw/when-paperboy-turns-prohibitor-20261014-p615ci.html",
-                "source": "SMH.com.au",
-                "date": "2026-10-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nothing Headphone (1) Pro: Studio Quality",
-                "desc": "Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.",
-                "image": "https://media.wired.com/photos/6ace413d24c9f1116aeab823/191:100/w_1280,c_limit/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-                "url": "https://www.wired.com/review/nothing-headphone-1-pro/",
-                "source": "WIRED",
-                "date": "2026-10-14T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ESA flags retro console maker Anbernic for inclusion on US government's Notorious Market List",
-                "desc": "Trade body claims Anbernic \"normalises hardware-based piracy by delivering illicit catalogues through a polished consumer product\"",
-                "image": "https://assetsio.gnwcdn.com/anbernic-(1).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list",
-                "source": "GamesIndustry.biz",
-                "date": "2026-10-14T09:59:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Valve Officially Calls Time on Index VR Headset, Sells Remaining Stock at a Discount",
-                "desc": "Will we see another externally-tracked VR headset from the Steam Frame makers? - Valve's Index was the first VR headset I ever owned, so I was a little sad t...",
-                "image": "https://images.digitalfoundry.net/a96b8f0b39247/1280x720.jpg",
-                "url": "https://www.digitalfoundry.net/news/2026/10/valve-officially-calls-time-on-index-vr-headset-sells-remaining-stock-at-a-discount",
-                "source": "Digital Foundry",
-                "date": "2026-10-14T09:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Symmetries and continuous attractors in disordered neural circuits",
-                "desc": "A core challenge in neuroscience is reconciling idealized models with experimental data. Classical continuous-attractor models describe neural representations of continuous variables such as head direction. Symmetry in the weights generates a manifold of stable states, with tuning curves identical up to shifts. Rodent head-direction cells, by contrast, are markedly heterogeneous. Such heterogeneity, we show, is nevertheless compatible with these models. Here we build, directly from head-direction cell data, recurrent networks that behave as quasicontinuous attractors. A generative process then reproduces the heterogeneous tuning of these cells while making connectivity and dynamics tractable at large N. Although the weights appear disordered, they carry a circular symmetry whose eigenvalue degeneracies could signify continuous-attractor organization in connectome data. Dynamical mean-field theory recovers the ingredients of classical ring attractors, namely, Mexican hat interactions and a spontaneously broken symmetry producing bump states. Continuous-attractor mechanisms may thus operate in complex mammalian circuits. Head-direction cells are far more disorderly than classical continuous-attractor models allow. Clark et al. show that this disorder is nevertheless compatible with these models and that the underlying connectivity matrix hides a circular symmetry.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02452-4/MediaObjects/41593_2026_2452_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41593-026-02452-4?error=cookies_not_supported&code=6c518a4a-2a4c-4a54-a4a5-1563f92d27cb",
-                "source": "Nature",
-                "date": "2026-10-14T09:51:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Make It Easy to Connect Your Switch to a Larger Screen -- HAILESI S123E Expands into Global Portable Monitor Markets across the UK, Germany, France and Australia, Achieving Top 5 Bestseller Status on",
-                "desc": "**media[1259086]**SHENZHEN, China, Oct. 14, 2026 /PRNewswire/ -- Known for its high quality standards, Japan's consumer electronics market has recently seen a portable monitor from Shenzhen gain increasing attention. The HAILESI S123E portable monitor has ranked among the top 5 best-selling portable monitors on Amazon Japan and holds the No.1 position in the 12.3-inch category. This achievement reflects not only strong sales growth, but also positive recognition of its quality and performance among Japanese users. (Data source: Amazon monitor category ranking, Sep.2026) Developed under the concept of 'No Dock Required for Switch 2', the S123E delivers a more convenient and flexible connection experience. With only a single Type‑C cable, users can connect their game console directly to the larger screen without relying on a traditional dock. One Japanese user commented: 'This is one of the most user‑friendly external monitors I've used. It's lightweight and easy to carry, so I can use it anytime and anywhere. It also offers good cost‑performance.'",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/14/1259085.jpg",
-                "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/pr-newswire/make-it-easy-to-connect-your-switch-to-a-larger-screen-hailesi-s123e-expands-into-global-portable-monitor-markets-across-the-uk-germany-france-and-australia-achieving-top-5-bestseller-status-on-amazon/2445329",
-                "source": "The Manila Times",
-                "date": "2026-10-14T09:50:16Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "US unpredictability tops Middle East's list of risks: Gulf expert",
+                "desc": "The unpredictability of the United States is the biggest risk facing the Middle East, a Gulf expert",
+                "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/10/8503785_1792066876002_a_FB.jpg",
+                "url": "https://www.bastillepost.com/global/article/6257479-us-unpredictability-tops-middle-easts-list-of-risks-gulf-expert",
+                "source": "巴士的報",
+                "date": "2026-10-15T12:48:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man jailed for offering bribe to site manager to illegally dump 10 lorries of chicken compost in Tuas",
+                "desc": "SINGAPORE: The director of a transport company was jailed after he tried to bribe a man so he could illegally dump 10 lorry loads of chicken compost in Tuas.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/15/4163995.png",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/15/man-jailed-for-offering-bribe-to-site-manager-to-illegally-dump-10-lorries-of-chicken-compost-in-tuas",
+                "source": "The Star",
+                "date": "2026-10-15T12:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bishops conclude Vatican family meeting as Pope Leo XIV recovers in hospital",
+                "desc": "Prior to his surgery, the pope requested that the meeting's final synthesis report not be made public until he has had time to personally review it.",
+                "image": "https://www.osvnews.com/wp-content/uploads/2026/10/20261015T0741-BISHOPS-FAMILY-MEETING-WRAP-1828365.jpg",
+                "url": "https://www.osvnews.com/bishops-conclude-vatican-family-meeting-as-pope-leo-xiv-recovers-in-hospital/",
+                "source": "OSV News",
+                "date": "2026-10-15T12:45:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'My childhood was stolen': Jeffrey Donaldson's victims say nothing can undo the damage he's done",
+                "desc": "Both women said that what happened has taken away their ability to trust people.",
+                "image": "https://img2.thejournal.ie/article/7194340/river/?height=400&version=7194380",
+                "url": "https://www.thejournal.ie/jeffrey-donaldson-sexual-abuse-victims-7194340-Oct2026/",
+                "source": "The Journal",
+                "date": "2026-10-15T12:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Year Blue Visa for 3 Categories of Environmental Contributors",
+                "desc": "Dubai’s 10-year Blue Visa targets environmental contributors in three categories; eligibility rules and the application launch date are still pending, officials say.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/cd30485aa9ecb6f4.jpeg?v=1",
+                "url": "https://yen.com.gh/world/asia/313849-dubai-unveils-10-year-blue-visa-3-categories-environmental-contributors/",
+                "source": "Yen News",
+                "date": "2026-10-15T12:36:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SPA will hit 71 by 2050 without triple lock reform",
+                "desc": "Opposition to triple lock reform would have to raise the SPA to 71 or opt for means testing to match the projected £50bn in savings for 2050.",
+                "image": "https://cdn.moneymarketing.co.uk/content/uploads/2026/10/15130909/shared-image-15-1024x697.jpg",
+                "url": "https://www.moneymarketing.co.uk/news/spa-will-hit-71-by-2050-without-triple-lock-reform-says-pensions-minister/",
+                "source": "Money Marketing",
+                "date": "2026-10-15T12:36:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ILO to boost safeguards for migrant workers in SEA",
+                "desc": "MIGRANT WORKERS across Southeast Asia (SEA) will have improved access to safe recruitment, skills recognition and social protections…",
+                "image": "http://bworldonline.com/wp-content/uploads/2024/06/International-Labour-Organization-ILO-logo.jpg",
+                "url": "https://bworldonline.com/labor-and-management/2026/10/15/787250/ilo-to-boost-safeguards-for-migrant-workers-in-sea/",
+                "source": "BusinessWorld Online",
+                "date": "2026-10-15T12:28:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New York City Mayor Zohran Mamdani invests $29.2 million into New York University's quantum lab; says: We are building a city where economic justice doesn't come at the...",
+                "desc": "New York City Mayor Zohran Mamdani has committed $29.2 million in city money to New York University's (NYU) new quantum technology lab, and the city wants",
+                "image": "https://static.toiimg.com/thumb/msid-134968069,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/technology/tech-news/new-york-city-mayor-zohran-mamdani-invests-29-2-million-into-new-york-universitys-quantum-lab-says-we-are-building-a-city-where-economic-justice-doesnt-come-at-the-/articleshow/134967912.cms",
+                "source": "The Times of India",
+                "date": "2026-10-15T12:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indian Passport Climbs To 84th Rank, But Visa-Free Access Falls. Check Latest List",
+                "desc": "India has moved up to 84th place in the latest Henley Passport Index. Here's the complete list of 55 destinations Indian passport holders can visit without obtaining a visa in advance.",
+                "image": "https://c.ndtvimg.com/2026-02/nb1jaffc_passport-_625x300_13_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+                "url": "https://www.ndtv.com/travel/indian-passport-climbs-to-84th-rank-but-visa-free-access-falls-check-latest-list-12190268",
+                "source": "NDTV",
+                "date": "2026-10-15T12:27:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "El Niño Seed Supply Risks: Is the Industry Prepared?",
+                "desc": "El Niño seed supply risks could affect production, seed quality and inventory planning. Here's what the industry should watch heading into 2027.",
+                "image": "https://seedworld.com/cdn/wp-content/uploads/20261015072559/AdobeStock_357576473-scaled.jpeg",
+                "url": "https://www.seedworld.com/us/2026/10/15/el-nino-seed-supply-risks/",
+                "source": "SeedWorld",
+                "date": "2026-10-15T12:27:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Luxury, Wildlife and Front-Row Access to Zimbabwe's Greatest Wonder",
                 "desc": "Few sights match the first glimpse of Victoria Falls. A UNESCO World Heritage Site, it has drawn explorers and travellers for more than 150 years, and its roar can be heard long before the water comes into view.",
@@ -1806,98 +1896,8 @@
                 "source": "USA Today",
                 "date": "2026-10-14T12:48:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Yemen fighting overwhelms hospitals, cuts aid to 800,000 people, relief agencies say",
-                "desc": "Hospitals across Yemen are struggling to cope with a sharp ​rise in war casualties, while intensified fighting along multiple front lines has ‌cut off aid to around 800,000 people, humanitarian agencies said on Wednesday.",
-                "image": "https://www.reuters.com/resizer/v2/ES2MM72QVJL7DPKGXLGH4VTLVM.jpg?auth=b9ea7227ed15b957687dfb8398741f26cc31b2c9b99501e5eb74db83a626beea&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/middle-east/yemen-hospitals-overwhelmed-by-surge-war-casualties-red-cross-warns-2026-10-14/",
-                "source": "Reuters",
-                "date": "2026-10-14T10:12:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why fincrime leaders are warning that fraud risks becoming a national security issue",
-                "desc": "Hello and welcome to ‘Fraud Squad’, the latest newsletter from AML Intelligence. The international surge in scam losses has emerged as perhaps the world’s Number 1 financial crime issue.",
-                "image": "https://media.licdn.com/dms/image/v2/D4E12AQE6LsTP5tGvOw/article-cover_image-shrink_720_1280/B4EaE53L.vJ8AQ-/0/1791972135808?e=2147483647&v=beta&t=1fZmB6H6hGs3D4369Txd8JQ2mo5L78DcKFEaIQoXnbI",
-                "url": "https://www.linkedin.com/pulse/why-fincrime-leaders-warning-fraud-risks-becoming-national-51zge",
-                "source": "LinkedIn",
-                "date": "2026-10-14T10:12:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pope Leo spends a peaceful night in the hospital after cancer surgery",
-                "desc": "Pope Leo XIV spent a calm night in the hospital after successful surgery that saw part of his right lung removed and a confirmed cancer diagnosis, the Vatican said early Wednesday.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261014-pope-rs-3cfb88.jpg",
-                "url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-cancer-surgery-hospital-diagnosis-treatment-rcna603413",
-                "source": "NBC News",
-                "date": "2026-10-14T10:10:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russian Aerospace Forces of the Leningrad",
-                "desc": "Vladimir Trendafilovski looks at aviation units in the Leningrad Military District which pose the biggest threat to NATO, starting with Russian Aerospace Forces",
-                "image": "https://supersocial.fullfatthings.com/i/1/https://www.key.aero/article/confronting-nato-russian-aerospace-forces-leningrad-military-district",
-                "url": "https://www.key.aero/article/confronting-nato-russian-aerospace-forces-leningrad-military-district",
-                "source": "Key Aero",
-                "date": "2026-10-14T10:09:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Selangor draws over RM3 bil in investment interest from four foreign firms",
-                "desc": "Selangor has attracted more than RM3 billion in potential investments from four foreign companies as the state seeks to strengthen its position as a regional investment and business hub.",
-                "image": "https://assets.theedgemarkets.com/invest selangor_0.jpg",
-                "url": "https://theedgemalaysia.com/node/821850",
-                "source": "The Edge Malaysia",
-                "date": "2026-10-14T10:09:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carney had no plan for what would happen if PA didn't hold elections",
-                "desc": "Ottawa will not say how it will hold Mahmoud Abbas accountable for failing to live up to his commitments",
-                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/2236325266.jpg",
-                "url": "https://nationalpost.com/opinion/carney-had-no-plan-for-what-would-happen-if-the-pa-didnt-hold-elections",
-                "source": "National Post",
-                "date": "2026-10-14T10:05:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "After flydubai incident, Air France follows Israel restrictions and bans Pakistani, Muslim-majority crew",
-                "desc": "Air France has confirmed it is complying with new Israeli restrictions that bar flight crew members from certain nationalities from operating flights to",
-                "image": "https://static.toiimg.com/thumb/msid-134938730,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/europe/after-flydubai-incident-air-france-follows-israel-restrictions-and-bans-pakistani-muslim-majority-crew/articleshow/134938607.cms",
-                "source": "The Times of India",
-                "date": "2026-10-14T10:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MHP leader warns against rifts with Azerbaijan",
-                "desc": "Nationalist Movement Party (MHP) leader Devlet Bahçeli has warned against actions that could damage relations between Türkiye and Azerbaijan amid recent controversies.",
-                "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6acf7d74bb52bb1a58b47413.jpg",
-                "url": "https://www.hurriyetdailynews.com/mhp-leader-warns-against-rifts-with-azerbaijan-228135",
-                "source": "Hürriyet Daily News",
-                "date": "2026-10-14T10:02:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nyerere’s healthcare vision endures amid service expansion",
-                "desc": "DAR ES SALAAM: WHEN Tanzania gained independence in 1961, access to healthcare remained a major challenge, particularly for rural communities where medical facilities were scarce and distances to essential services were often considerable. For Mwalimu Julius Nyerere, the country’s founding President, the fight against disease was not merely a health priority but an integral part …",
-                "image": "https://dailynews.co.tz/wp-content/uploads/2026/10/childhood-cancer-pic.jpg",
-                "url": "https://dailynews.co.tz/nyereres-healthcare-vision-endures-amid-service-expansion/",
-                "source": "Daily News",
-                "date": "2026-10-14T10:00:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Center for International Maritime Security",
-                "desc": "By Brian J. Dunn Drawing a White-Hull Line in PACOM The United States Navy seeks to prevail over a potential Chinese military threat before 2027 as the naval component of a joint force.1 Passing through the “Davidson Window” of China’s maximum military threat without China initiating a war could be interpreted as a victory of…",
-                "image": "https://cimsec.org/wp-content/uploads/2019/04/cropped-CIMSEC-square-32x32.png",
-                "url": "https://cimsec.org/the-mother-of-all-cutters/",
-                "source": "Center for International Maritime Security",
-                "date": "2026-10-14T10:00:26Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-15T22:41:07.832602Z"
+    "lastGlobalSync": "2026-10-16T00:48:41.674153Z"
 }
