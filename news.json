@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "How Does the Renault Duster Hybrid Achieve 1,400km Range? Explained",
+                "desc": "A range of more than 1,000 kilometres is something we have seen only with plug-in hybrids. The Duster is claimed to travel more than 1,400km on a full tank.",
+                "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/219656/duster-exterior-right-front-three-quarter-6.jpeg?isig=0&art=1&isig=0&q=80",
+                "url": "https://www.carwale.com/news/how-does-the-renault-duster-hybrid-achieve-1400km-range-explained/",
+                "source": "CarWale",
+                "date": "2026-10-18T09:02:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How HR teams are combatting AI and other security threats in recruitment process",
+                "desc": "Fraudulent use of AI in the jobs process is forcing the warm and fuzzy realms of the former to work with the suspicious minds of the latter",
+                "image": "https://www.irishtimes.com/resizer/v2/LNV2DILGEJFKBBPQHOCFXJRWPE.jpg?smart=true&auth=bd82884c4f9cdfbc12875eb7f0ec7e2f5d815170b56893d0fb0d2909dc1bff53&width=1200&height=630",
+                "url": "https://www.irishtimes.com/business/work/2026/10/18/human-resources-doesnt-need-to-be-the-cia/",
+                "source": "The Irish Times",
+                "date": "2026-10-18T09:01:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Leaving shares to a spouse at death can make more sense than a lifetime transfer",
+                "desc": "Tax planning can be advantageous financially but families need to be clear on its purpose and its benefit",
+                "image": "https://www.irishtimes.com/resizer/v2/YR2HLYFSLZFWXOLBW6XLTUUQ2I.jpg?smart=true&auth=aec824555feafbb59f2a83bc51553646d9cdde036356263c05da04d450305e22&width=1200&height=630",
+                "url": "https://www.irishtimes.com/your-money/2026/10/18/leaving-shares-to-a-spouse-at-death-can-make-more-sense-than-a-lifetime-transfer/",
+                "source": "The Irish Times",
+                "date": "2026-10-18T09:01:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kirkby woman burning through her savings as she hasn't been paid for eight months",
+                "desc": "Ongoing pension crisis is having a devastating effect on people in Liverpool and tens of thousands of others across the country",
+                "image": "https://i2-prod.liverpoolecho.co.uk/article34770933.ece/ALTERNATES/s1200d/0_Lisa-Blundell.jpg",
+                "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/kirkby-woman-burning-through-savings-34770956",
+                "source": "Liverpool Echo",
+                "date": "2026-10-18T08:58:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ten reasons to be cheerful about Britain’s economy",
+                "desc": "As John Healey prepares to deliver his first budget as chancellor, cautious optimism is the order of the day",
+                "image": "https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_Untitled_Artwork_1_7ea112f9f9c999faeafb0ea0bb10a0322fc4d631.png",
+                "url": "https://observer.co.uk/news/national/article/ten-reasons-to-be-cheerful-about-britains-economy",
+                "source": "The Observer",
+                "date": "2026-10-18T08:55:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Children’s commissioner declares ‘state of emergency’ on ...",
+                "desc": "Rachel de Souza warns of ‘childhood lottery’ in her damning new report, as data analysis exposes stark regional divides in safety, mental health and education",
+                "image": "https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_Childhood.jpg",
+                "url": "https://observer.co.uk/news/national/article/childrens-commissioner-declares-state-of-emergency-on-young-peoples-lives",
+                "source": "The Observer",
+                "date": "2026-10-18T08:55:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Impact of proposed wind turbines on seismic monitoring stations at the Xiaolangdi Reservoir",
+                "desc": "This article simulates the operation vibration of a proposed wind turbine project, analyzes its impact on existing earthquake monitoring stations in the Xiaolangdi Reservoir. It selects 2 existing wind turbines with the same power and similar surroundings as the proposed one, and uses short period seismometers, strong motion meters, and wideband seismometers to monitor vibration at different positions from the wind turbines. Based on continuous waveform recording data from each measuring point, it calculates the root mean square of vibration acceleration at short period seismometer points, ground noise acceleration at strong motion meter points, and ground noise velocity at wideband points under the start - up and shutdown states of the wind turbine. Then it compares with seismic station construction standards and evaluates if the environmental ground noise level after wind turbine operation meets regulatory requirements. The test results show that a 5.6 MW wind turbine significantly impacts within 225 m of a station with a short period digital seismometer, and impacts beyond 315 m meet relevant seismic station standards. This study provides reference for site selection, detection and analysis of new wind power generation and other vibration equipment around existing earthquake monitoring stations of the same type.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-75011-3?error=cookies_not_supported&code=c812a006-9d9b-4d40-906b-8c74ad4f6628",
+                "source": "Nature",
+                "date": "2026-10-18T08:51:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "An innovative framework for student adaptability prediction using discriminant-based classification, feature selection, and sensitivity analysis",
+                "desc": "Accurately predicting student adaptability is essential for enhancing academic performance and personal development. The present study presents a classification-based approach utilizing Quadratic Discriminant Analysis (QDA), Extreme Gradient Boosting (XGBoost), and Linear Discriminant Analysis (LDA) to predict student adaptability. To enhance model performance, the Turbulent Flow of Water-based Optimization (TFWO) and Giant Armadillo Optimization (GAO) algorithms are employed. The dataset, consisting of 1,205 student records with demographic, educational, and socio-economic attributes, is split into training and test sets. The two best-performing hybrid models undergo a sensitivity analysis using the FAST approach. Experimental results demonstrate that the QDA model optimized with GAO (QDGO) achieves the highest classification accuracy of 0.975, outperforming other model configurations. These findings underscore the potential of optimized classification models in student adaptability prediction, providing valuable insights for educational institutions. Future studies can explore additional hybrid models and larger datasets to further refine predictive accuracy.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-73954-1?error=cookies_not_supported&code=a053a3d3-5dcc-474d-9778-6d3023cc4a23",
+                "source": "Nature",
+                "date": "2026-10-18T08:51:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India bars sugar-based ethanol in 2026-27 tender, cuts maize incentive",
+                "desc": "India bars sugar-based ethanol in 2026-27 tender to protect sugar supply, boosts maize-only ethanol incentives and shifts to grain-based options.",
+                "image": "https://th-i.thgim.com/public/incoming/uqrxyq/article71599482.ece/alternates/LANDSCAPE_1200/iStock-162999335.jpg",
+                "url": "https://www.thehindu.com/news/national/india-bars-sugar-based-ethanol-in-2026-27-tender-cuts-maize-incentive/article71599459.ece",
+                "source": "The Hindu",
+                "date": "2026-10-18T08:49:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "No cost-of-living relief in sight as Perth’s fuel costs hit their highest monthly average",
+                "desc": "It’s never been more expensive to buy fuel in Perth than in October, with data showing the monthly bowser price average is at its highest right now.",
+                "image": "https://images.perthnow.com.au/publication/C-23038224/e30f4178d97e37d1ab7e4612b76fa65ff0fac680-16x9-x0y0w1280h720.jpg?imwidth=1200",
+                "url": "https://www.perthnow.com.au/wa/perth/no-cost-of-living-relief-in-sight-as-perths-fuel-costs-hit-their-highest-monthly-average--c-23038224",
+                "source": "PerthNow",
+                "date": "2026-10-18T08:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Ilkley wool campaigner to wear same dress for 90 days",
                 "desc": "Sarah Turner, founder of Ilkley-based Little Beau Sheep, is championing British-grown wool.",
                 "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f926/live/341c2210-c894-11f1-b0a4-81e564f1cfaa.jpg",
@@ -542,99 +632,99 @@
                 "source": "Yahoo",
                 "date": "2026-10-17T11:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Meta plans Petal cable between US and France with 1 Pbit/s capacity",
-                "desc": "Meta plans to launch the 7,000-km Petal submarine cable between the US and France in 2029, with stated capacity of up to 1 petabit per second.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/meta_planuye_zapustyty_petal_mizh_ssha_t_1792228428938.webp",
-                "url": "https://ua.news/en/it-ta-telekom/meta-planuie-zapustiti-petal-mizh-ssha-ta-frantsiieiu-z-propusknoiu-zdatnistiu-1-pbit-s-live-science",
-                "source": "UA.NEWS",
-                "date": "2026-10-17T09:20:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CFE may consider over 60 energy projects worth $12.5 billion",
-                "desc": "Mexico's CFE may vote on more than 60 mainly solar and wind projects worth about $12.5 billion, with potential capacity of 8.2 GW.",
-                "image": "https://cdn-cabinet.ua.news/uploads/images/cfe_mozhe_rozglianuty_ponad_60_energopro_1792226663193.webp",
-                "url": "https://ua.news/en/energetika/cfe-mozhe-rozglianuti-ponad-60-energoproiektiv-na-12-5-mlrd-the-rio-times",
-                "source": "UA.NEWS",
-                "date": "2026-10-17T09:19:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 Years of Whoosh: Deputy Minister Urges Local Talent to Master Tech",
-                "desc": "Deputy Minister Afriansyah Noor encourages Indonesian human resources to master Whoosh high-speed rail technology through knowledge transfer at KCIC's 11th anni…",
-                "image": "https://aktualita.co/storage/previews/aktualita-v1/b3/b306826a2b6f7cb067a15b1c2288d52161e05c2b94b961babcb3eb34114aba9f.jpg",
-                "url": "https://aktualita.co/en/national/3-years-of-whoosh-deputy-minister-urges-local-talent-to-master-tech",
-                "source": "Aktualita.co",
-                "date": "2026-10-17T09:18:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US politics, world events live updates: AI giant Anthropic drafts law attempting to stop catastrophe",
-                "desc": "Welcome to our live coverage of world events, including US politics.",
-                "image": "https://content.api.news/v3/images/bin/d83284ce25e0d740aa4e1f2ef4a8c81f",
-                "url": "https://www.news.com.au/world/north-america/us-politics/us-politics-world-events-live-updates/live-coverage/c344048dc68d40ed3e9ae34bf20998c1",
-                "source": "News.com.au",
-                "date": "2026-10-17T09:18:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "When Microsoft CEO Satya Nadella transformed the company's culture with these three words",
-                "desc": "In 2014, when Satya Nadella became Microsoft CEO, the company struggled to keep up with a rapidly changing technology sector.",
-                "image": "https://static.toiimg.com/thumb/msid-135011095,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/tech-news/when-microsoft-ceo-satya-nadella-transformed-the-companys-culture-with-these-three-words/articleshow/135011081.cms",
-                "source": "The Times of India",
-                "date": "2026-10-17T09:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bran Meant For Cattle Feed Found In Priyagold Biscuits: Food Regulator",
-                "desc": "FSSAI conducted an inspection of Surya Food & Agro following a consumer complaint. It observed serious food safety and hygiene deficiencies.",
-                "image": "https://c.ndtvimg.com/2026-10/28jo7e08_priyagold-ians_625x300_17_October_26.jpeg",
-                "url": "https://www.ndtv.com/india-news/bran-meant-for-cattle-feed-found-in-priyagold-biscuits-food-regulator-12198744",
-                "source": "NDTV",
-                "date": "2026-10-17T09:15:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The American Dream now costs $5.3 million",
-                "desc": "The American Dream will cost you $5.3 million over a lifetime, according to a new report from Investopedia. Here's how it breaks down.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/16/USAT/86181303007-american-dream-03.jpg?crop=7319,4120,x4,y345&width=3200&height=1802&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/personal-finance/2026/10/17/cost-of-american-dream-2026-retirement-homeownership/92252040007/",
-                "source": "USA Today",
-                "date": "2026-10-17T09:11:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The disturbing ‘new normal’ in the Strait of Hormuz: Attacks on ships at a record high and oil at $100 a barrel",
-                "desc": "IN FOCUS: With the prospect of peace in the Middle East looking increasingly remote ahead of the US midterm elections, oil prices remain stubbornly high and attacks have intensified rather than settle...",
-                "image": "https://s.yimg.com/lo/mysterio/api/c7b0d360070d68235100e120348e0429e5364f0817da496b2e187e632083d547/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F5225d857fde5fa6f1dbd7d92df320371.jpg",
-                "url": "https://uk.news.yahoo.com/disturbing-normal-strait-hormuz-attacks-091051600.html",
-                "source": "Yahoo News UK",
-                "date": "2026-10-17T09:10:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The disturbing ‘new normal’ in the Strait of Hormuz: Attacks on ships at a record high and oil at $100 a barrel",
-                "desc": "With the prospect of peace in the Middle East looking increasingly remote ahead of the US midterm elections, oil prices remain stubbornly high and attacks have intensified rather than settled. Experts tell Maira Butt that the conflict is in a dangerous limbo",
-                "image": "https://static.independent.co.uk/2026/10/15/12/2026-10-15T100442Z_1263537296_RC2UUNA87BMO_RTRMADP_3_GLOBAL-BUNKER-BUNKER-HOLDING.JPG?trim=0,429,0,429&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/middle-east/strait-of-hormuz-iran-war-ships-oil-b3067351.html",
-                "source": "The Independent",
-                "date": "2026-10-17T09:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How To Identify Approved Phones With *315# Before Buying - NCC Explains To Nigerians",
-                "desc": "The Nigerian Communications Commission (NCC) has advised Nigerians to verify mobile phones before purchase to ensure the devices are approved for use on the",
-                "image": "https://leadership.ng/wp-content/uploads/2026/10/IMG_ff1973bc-f49e-447d-af15-7b1f498855c5.jpg",
-                "url": "https://leadership.ng/how-to-identify-approved-phones-with-315-before-buying-ncc-explains-to-nigerians/",
-                "source": "LEADERSHIP Newspapers",
-                "date": "2026-10-17T09:09:57Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "New Apple App Store Rules Crack Down on Nastiness Like Nudification",
+                "desc": "Apple may be waging a war on App Store sketchiness.",
+                "image": "https://gizmodo.com/app/uploads/2026/04/shutterstock_2442151057-1200x675.jpg",
+                "url": "https://gizmodo.com/new-apple-app-store-rules-crack-down-on-nastiness-like-nudification-2000827351",
+                "source": "Gizmodo",
+                "date": "2026-10-18T09:00:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Voicemod's New Phone Gadget Changes Your ‘Sonic Identity’ for Mobile Games and Streaming",
+                "desc": "Clip it to the back of your phone, and it'll convert your voice on the fly for fun, privacy and accessibility.",
+                "image": "https://www.cnet.com/wp-content/uploads/sites/2/VMKey-Pocket-2.jpg",
+                "url": "https://www.cnet.com/tech/mobile/voicemod-phone-gadget-changes-sonic-identity-streaming-mobile-games/",
+                "source": "CNET",
+                "date": "2026-10-18T09:00:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
+                "desc": "Game Boy admirers: this one's for you. Someone has not only made an archive of everything Game Boy, they've made it work on a Game Boy cartridge as well.",
+                "image": "https://assetsio.gnwcdn.com/game-boy-museum-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
+                "source": "Eurogamer.net",
+                "date": "2026-10-18T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "iPhone 18 Pro Early Issues Raise Buyer Concerns Amid Price",
+                "desc": "Early issues with the iPhone 18 Pro spark buyer concerns as high price meets unexpected problems. Find out what you need to know before purchasing.",
+                "image": "https://cdn.rswebsols.com/wp-content/uploads/2026/09/iphone-18-pro.png",
+                "url": "https://www.rswebsols.com/news/early-issues-with-the-iphone-18-pro-raise-concerns-for-buyers-given-its-price/",
+                "source": "RS Web Solutions",
+                "date": "2026-10-18T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Get 1TB of lifetime cloud storage without monthly fees for $199.99",
+                "desc": "Get 1TB of Koofr cloud storage with a lifetime subscription for $199.99, including file management tools, cloud integrations, and no recurring fees.",
+                "image": "https://helios-i.mashable.com/imagery/articles/00kV4i0Llbr2wqJQu2jy1TQ/hero-image.fill.size_1200x675.v1792102606.jpg",
+                "url": "https://mashable.com/tech/oct-18-koofr-cloud-storage-plans-lifetime-subscription-1tb",
+                "source": "Mashable",
+                "date": "2026-10-18T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Snoop Dogg at the Helm and Japan in 1915: A New Look at Stranger Than Heaven",
+                "desc": "Sega and Ryu Ga Gotoku Studio presented the first act of Stranger Than Heaven, set in Japan in 1915.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1727490/c33351ce-a5b6-48fa-93d5-e8cffe31b7c9.jpg",
+                "url": "https://ixbt.games/en/news/2026/10/18/snup-dogg-za-sturvalom-korablia-i-iaponiia-1915-goda-novyi-vzgliad-na-stranger-than-heaven.html",
+                "source": "iXBT.games",
+                "date": "2026-10-18T08:44:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Leap of Faith in a Ruined World: Where the Seeds Fall Demo Released",
+                "desc": "Publisher CygamesEdge has released a demo of Where the Seeds Fall on Steam and showcased a cinematic trailer. The full version will be released on PC, Nintendo Switch 2, and PS5 on November 5.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1727486/cac27fdc-82f5-470b-85dc-f66d371d31fe.jpg",
+                "url": "https://ixbt.games/en/news/2026/10/18/pryzok-very-v-razrusennom-mire-vysla-demoversiia-where-the-seeds-fall.html",
+                "source": "iXBT.games",
+                "date": "2026-10-18T08:38:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The 'attractive' three-bed pad one hour from Dublin on Irish market for €240k",
+                "desc": "TAKE a look at the \"attractive\" three-bed pad that's one hour from Dublin now on the Irish market for €240,000.\nThis bargain pad is located in...",
+                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/10/newspress-collage-xcibshbi0-1792249210134.jpg?quality=90&strip=all&1792252798&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.ie/money/17779920/attractive-dublin-commuter-home-irish-market/",
+                "source": "The Irish Sun",
+                "date": "2026-10-18T08:38:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Three Resident Evil Remakes Arrive on Switch 2 - Relive the Raccoon City Nightmare",
+                "desc": "Three Resident Evil Remakes Arrive on Switch 2 - Relive the Raccoon City Nightmare",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1727481/32651562-9853-4ce0-8ba2-7088d8869d08.jpg",
+                "url": "https://ixbt.games/en/news/2026/10/18/tri-remeika-resident-evil-dobralis-do-switch-2-vnov-perezit-kosmar-rakkun-siti.html",
+                "source": "iXBT.games",
+                "date": "2026-10-18T08:33:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A yoga instructor says these are the 4 exercises she'd start with to build full-body 'strength and grounding' this fall",
+                "desc": "Build strength and boost your yoga practice this fall with these four low-impact exercises that ground your body.",
+                "image": "https://s.yimg.com/lo/mysterio/api/f18d6229a3bd666b820c1c5514fc627a4ca53afc5bc6cb0454bf879696623910/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_guide_826%2Fd70a767af1f2e45ec7a1d72a3a856a58.jpg",
+                "url": "https://www.yahoo.com/lifestyle/articles/yoga-instructor-says-4-exercises-083000455.html",
+                "source": "Yahoo",
+                "date": "2026-10-18T08:30:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Order of the Sinking Star sells better than The Witness. Jonathan Blow explained the nuance with earnings",
                 "desc": "Order of the Sinking Star, the new puzzle game from Jonathan Blow, creator of Braid and The Witness, sold better than The Witness in its first week on Steam.",
@@ -1174,99 +1264,99 @@
                 "source": "9to5Google",
                 "date": "2026-10-17T11:05:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Apple's iPhone Duo Demand Tracking 'Solidly Out Of The Gate', Says Analyst As AAPL Stock Caps Off Best Week Since September Launch",
-                "desc": "Apple Inc. (AAPL) is getting an early read on demand for its new iPhone Duo, with initial delivery estimates extending well into January shortly after pre-orders opened.The early demand signals come as Apple shares capped their strongest week since the iPhone Duo launch, with the stock rising over…",
-                "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-                "url": "https://www.tradingview.com/news/stocktwits:dff2e6ed0094b:0-apple-s-iphone-duo-demand-tracking-solidly-out-of-the-gate-says-analyst-as-aapl-stock-caps-off-best-week-since-september-launch/",
-                "source": "TradingView",
-                "date": "2026-10-17T09:11:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motorola’s Signature 27 Is An All-out Flagship Bet In A Shrinking Market, Says Shivam Ranjan",
-                "desc": "Motorola’s APAC Marketing Head sheds light on memory-led price inflation, Lenovo’s supply-chain advantage and why seven years of updates is now hygiene for flagship buyersIndia’s smartphone market is going through one of its toughest stretches in years. Shipments fell 10 per cent year-on-year in th…",
-                "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-                "url": "https://www.tradingview.com/news/moodys:367701c478850:0-motorola-s-signature-27-is-an-all-out-flagship-bet-in-a-shrinking-market-says-shivam-ranjan/",
-                "source": "TradingView",
-                "date": "2026-10-17T09:01:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Deals: iPhone Duo pre-orders begin as Galaxy Z Fold8 gets a price cut",
-                "desc": "The Galaxy S26 lineup is also on sale. Apple’s first foldable iPhone is now available for pre-order, but the iPhone Duo sold out quickly in most regions....",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/-952x498w6/gsmarena_uk.jpg",
-                "url": "https://www.gsmarena.com/deals_iphone_duo_preorders_begin_as_galaxy_z_fold8_gets_a_price_cut-news-75096.php",
-                "source": "GSMArena.com",
-                "date": "2026-10-17T09:01:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Era of Zerg Continues: Kim Min-chul Claims 5th Career Title",
-                "desc": "The era of Zerg continues.Kim Min-chul, known as \"The Iron Wall,\" who previously set a monumental record of four consecutive titles, captured the championship once again after thre...",
-                "image": "https://static.invenglobal.com/upload/image/2026/10/17/i1792229646599120.jpeg",
-                "url": "https://www.invenglobal.com/articles/27318/the-era-of-zerg-continues-kim-min-chul-claims-5th-career-title",
-                "source": "Inven Global",
-                "date": "2026-10-17T09:00:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "After a few hours with the pre-painted Warhammer 40K terrain, I'm already convinced it's an essential purchase",
-                "desc": "I've been hands on with the new Warhammer 40,000 Battlefields: Armageddon box set, and came away very impressed by this pre-painted terrain - here are my impressions.",
-                "image": "https://cdn.mos.cms.futurecdn.net/4QhkCrDVGigaT4HxwcyFk7-1920-80.jpg",
-                "url": "https://www.gamesradar.com/tabletop-gaming/after-a-few-hours-with-the-pre-painted-warhammer-40k-terrain-im-already-convinced-its-an-essential-purchase/",
-                "source": "GamesRadar+",
-                "date": "2026-10-17T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Woman Celebrates 100th Birthday with 5 Generations of Family, Reveals Secret to Her Long Life (Exclusive)",
-                "desc": "“I can’t believe it. It brings me so much joy,” centenarian Florence Godfrey tells PEOPLE of what it feels like to turn 100",
-                "image": "https://s.yimg.com/lo/mysterio/api/2624d61c9fb58932987842bd4fc257458a8db298862bbc6ac2ac34cbda9e2cd1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F496b46478259a690743ff375d5424533.jpg",
-                "url": "https://malaysia.news.yahoo.com/woman-celebrates-100th-birthday-5-090000956.html",
-                "source": "Yahoo",
-                "date": "2026-10-17T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
-                "desc": "Would you like personalized shopping recommendations based on that conversation you just had?",
-                "image": "https://image.theregister.com/5303573.jpg?imageId=5303573&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569",
-                "source": "The Register",
-                "date": "2026-10-17T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-                "desc": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-                "image": "https://media.wired.com/photos/6acf63d6b06331734b2e70d7/191:100/w_1280,c_limit/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg",
-                "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-                "source": "WIRED",
-                "date": "2026-10-17T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "You can still buy Microsoft Office without a subscription, and it’s $27.97",
-                "desc": "Get Microsoft Office Professional 2021 for Windows for a one-time $27.97 (reg. $219.99) through Nov. 1, with Word, Excel, PowerPoint, Outlook, and Access and no subscription.",
-                "image": "https://helios-i.mashable.com/imagery/articles/03CrGX8XHKY2XUmIO3fNHSF/hero-image.fill.size_1200x675.v1792139819.jpg",
-                "url": "https://mashable.com/tech/oct-17-microsoft-office-professional-2021-for-windows-lifetime-license",
-                "source": "Mashable",
-                "date": "2026-10-17T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft Is Blocking Every Third-Party Script from Its Entra Sign-In Page - and It Hits Mid-October",
-                "desc": "Content Security Policy enforcement on login.microsoftonline.com will stop browser extensions from injecting code during authentication. No workaround. No exceptions.",
-                "image": "https://forkast.news/wp-content/uploads/2026/10/entra-csp-sign-in-enforcement-hero-1024x572.jpg",
-                "url": "https://forkast.news/microsoft-is-blocking-every-third-party-script-from-its-entra-sign-in-page-and-it-hits-mid-october/",
-                "source": "Forkast News",
-                "date": "2026-10-17T08:50:22Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Bangladesh secures $447,000 in FAO grants for food safety, women-led green enterprises",
+                "desc": "Bangladesh receives $447,000 in FAO grants to improve pesticide safety and support rural women's green businesses.",
+                "image": "https://theclimatewatch.com/wp-content/uploads/Bangladesh-PM-orders-quarterly-updates-on-25-crore-tree-planting-drive-4.jpg",
+                "url": "https://theclimatewatch.com/bangladesh-secures-447000-in-fao-grants-for-food-safety-women-led-green-enterprises/",
+                "source": "The Climate Watch",
+                "date": "2026-10-18T09:02:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Seven striking buildings that make a statement with red",
+                "desc": "A timber-clad fire station and an arena with a zigzagging facade are among the projects that feature in this roundup of red buildings.",
+                "image": "https://static.dezeen.com/uploads/2026/09/jihlava-municipal-arena-chybik-kristof-architecture-public-leisure-czech-republic_dezeen_2364_hero.jpg",
+                "url": "https://www.dezeen.com/2026/10/18/seven-red-buildings-roundup/",
+                "source": "Dezeen",
+                "date": "2026-10-18T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Health Officials Observing Russian Disease Lab Incident",
+                "desc": "The province's top doctor says she's watching the unfolding situation in Russia following the death of a woman...",
+                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/chief-medical-officer-of-health-cmoh-dr-janice-fitzgerald-1.jpg",
+                "url": "https://vocm.com/2026/10/18/313601/",
+                "source": "VOCM",
+                "date": "2026-10-18T09:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Israel-Turkey Rivalry after Abu Al-Duhur: Business as Usual or a Drift toward Escalation?",
+                "desc": "Israeli Air Force.",
+                "image": "https://dayan.org/sites/default/files/inline-images/Israeli%20Air%20Force2.jpg",
+                "url": "https://dayan.org/content/israel-turkey-rivalry-after-abu-al-duhur-business-usual-or-drift-toward-escalation",
+                "source": "Moshe Dayan Center",
+                "date": "2026-10-18T08:58:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump pauses Russia sanctions to analyse economic impact",
+                "desc": "US President Donald Trump has waived sweeping sanctions on Russia for 60 days to analyse their impact on the global economy, says Secretary of State Marco",
+                "image": "https://punchng.com/wp-content/uploads/2026/06/OIP-5.webp",
+                "url": "https://punchng.com/trump-paused-russia-sanctions-to-analyse-impact-on-global-economy/",
+                "source": "Punch Newspapers",
+                "date": "2026-10-18T08:58:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cuba Denounces US Provocative Harassment At UN",
+                "desc": "Cuba’s Permanent Representative to the United Nations, Ernesto Soberón Guzmán, on Friday denounced a US- organized event against the island, scheduled to take",
+                "image": "https://leadership.ng/wp-content/uploads/2022/05/LeadershipHeader.png",
+                "url": "https://leadership.ng/cuba-denounces-us-provocative-harassment-at-un/",
+                "source": "LEADERSHIP Newspapers",
+                "date": "2026-10-18T08:56:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Houthi Forces In Southern Yemen; Saudi Arabia To Provide Air Cover",
+                "desc": "The arrangement is the first tangible sign that the rift between the two Gulf powers over Yemen’s future may be starting to heal, driven partly by alarm over the Houthi advance",
+                "image": "https://cdn.i24news.tv/uploads/31/3a/bd/e7/2c/ff/c6/30/57/25/c4/05/e7/e6/c4/d7/313abde72cffc6305725c405e7e6c4d7.jpg",
+                "url": "https://www.i24news.tv/en/news/middle-east/the-gulf/artc-uae-to-resume-funding-anti-houthi-forces-in-southern-yemen-saudi-arabia-to-provide-air-cover",
+                "source": "i24NEWS",
+                "date": "2026-10-18T08:55:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Completion of roof on Guernsey wildlife hospital marked",
+                "desc": "GSPCA manager Steve Byrne says hopefully the some of rooms will be ready before the end of the year.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2801/live/aa15eaa0-c8a8-11f1-9c75-6ff1271de385.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c9zrd8ej3lego",
+                "source": "BBC",
+                "date": "2026-10-18T08:53:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Latvia Builds Strategic Medicine Reserves in Preparation for War",
+                "desc": "Latvia has introduced new rules governing the creation and use of reserves of critical medicines, aimed at ensuring that the population and military personnel",
+                "image": "https://militarnyi.com/wp-content/uploads/2026/10/BM-Latviyi-1.jpg",
+                "url": "https://militarnyi.com/en/news/latvia-builds-strategic-medicine-reserves-in-preparation-for-war/",
+                "source": "Мілітарний",
+                "date": "2026-10-18T08:45:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China-Africa research center inaugurated in South Africa",
+                "desc": "China and South African have inaugurated a research center to deepen the collaboration between Chine",
+                "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/10/8504166_1792291832003_a_FB.jpg",
+                "url": "https://www.bastillepost.com/global/article/6264450-china-africa-research-center-inaugurated-in-south-africa",
+                "source": "巴士的報",
+                "date": "2026-10-18T08:43:09Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Massive explosion, fire rock military base in Canada, multiple fatalities confirmed",
                 "desc": "Canada's Defence Minister David McGuinty said on Saturday that several people were killed and injured after a massive fire broke out at a military base in Alberta.",
@@ -1806,98 +1896,8 @@
                 "source": "AzerNews",
                 "date": "2026-10-17T11:01:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The UN and the AU commend Zimbabwe’s education model",
-                "desc": "The United Nations and the African Union have commended Zimbabwe’s Heritage-Based Education 5.0 model, saying the country has proved to be a torchbe...",
-                "image": "https://www.universityworldnews.com/images/uwn-ball-320.png",
-                "url": "https://www.universityworldnews.com/post.php?story=20261017092244849",
-                "source": "University World News",
-                "date": "2026-10-17T09:21:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DUP calls for 'full picture' over decision to ban parade",
-                "desc": "DUP leader Gavin Robinson has called for the \"full picture\" over any potential threats to police officers or Orangemen, which could have contributed to the decision to ban the Drumcree parade, to be made known.",
-                "image": "https://www.rte.ie/images/002517ab-1600.jpg",
-                "url": "https://www.rte.ie/news/2026/1017/1595742-dup-call-for-full-picture-over-decision-to-ban-parade/",
-                "source": "RTE.ie",
-                "date": "2026-10-17T09:20:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Green SM and Elife Partner to Advance Green Mobility for International Travelers",
-                "desc": "Under the MOU, the two parties will actively work to integrate Green SM's mobility services into Elife's global network, enabling Elife's partners to offer",
-                "image": "https://panafricanvisions.com/wp-content/uploads/2026/10/824931-img-8667-jpeg-400x0-2.jpeg",
-                "url": "https://panafricanvisions.com/2026/10/green-sm-and-elife-partner-to-advance-green-mobility-for-international-travelers/",
-                "source": "pan african visions",
-                "date": "2026-10-17T09:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Houthis strike Yemen’s Aden: What that means",
-                "desc": "What we know about the Houthi strikes on Aden’s presidential palace and airport, and why they matter.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad1951d-1792120093.jpg?resize=1200%2C675",
-                "url": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means",
-                "source": "Al Jazeera",
-                "date": "2026-10-17T09:19:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anger over Kyiv's winter preparations fuels calls for Mayor Klitschko to resign",
-                "desc": "Local residents gathered on Oct. 17 in front of the city council to demand that Kyiv Mayor Vitali Klitschko step down from the post he has occupied for over 12 years.\n\"Kyiv without Klitschko,\" hundreds of protesters chanted as they took to the streets in central Kyiv, according to Kyiv Independent reporters on the ground. The rally lasted over two hours.\nKyiv's failure to prepare for the coming winter amid Russian attacks on critical infrastructure, coupled with broader mismanagement, were the",
-                "image": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2300077095_20261017-140601.jpg",
-                "url": "https://kyivindependent.com/anger-over-kyivs-winter-preparations-fuels-calls-for-mayor-klitschko-to-resign/",
-                "source": "The Kyiv Independent",
-                "date": "2026-10-17T09:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Liam Gallagher says Fontaines D.C. \"are not good enough\" to open for Oasis on their ‘Live ’27’ tour",
-                "desc": "Liam Gallagher has said Fontaines D.C. \"are not good enough\" to open for Oasis on their upcoming ‘Live ’27’ tour.",
-                "image": "https://www.nme.com/wp-content/uploads/2026/10/2027_oasis_fontainesdc_bigbrotherrecordings_andyfordnme_2000x1270.jpg",
-                "url": "https://www.nme.com/news/music/liam-gallagher-says-fontaines-d-c-are-not-good-enough-to-open-for-oasis-on-their-live-27-tour-3973414",
-                "source": "NME",
-                "date": "2026-10-17T09:07:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Woman found dead on Singapore expressway was hit by minibus in Jurong West; driver arrested",
-                "desc": "SINGAPORE: A woman whose body was found on the Pan-Island Expressway (PIE) on Oct 16 had been hit by a minibus in Jurong West, police said on Oct 17.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/17/4166714.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/17/woman-found-dead-on-singapore-expressway-was-hit-by-minibus-in-jurong-west-driver-arrested",
-                "source": "The Star",
-                "date": "2026-10-17T09:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "All the president’s women: a familiar downward trajectory in Trump’s cabinet",
-                "desc": "Half of Trump’s female cabinet officials have been replaced by men, while men facing misconduct allegations remain",
-                "image": "https://i.guim.co.uk/img/media/c350e23d2202c388224e9064500116c295cc45f5/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82203bed92a4fa5ca7340f4e3768937a",
-                "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-female-cabinet-officials-departures",
-                "source": "The Guardian",
-                "date": "2026-10-17T09:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I’ve spent most of the year talking to MAGA supporters. Here are 5 thing I’ve learned",
-                "desc": "CNN’s Donie O’Sullivan has spent 2026 talking to Trump supporters across the country. Many are frustrated about the Iran War, angry over the growth of data centers and unsure about what’s next.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-20260929-dvb-a7a-9166-mp4-15-02-40-09-still003-1.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/10/17/politics/maga-ever-after-donie-osullivan",
-                "source": "CNN",
-                "date": "2026-10-17T09:00:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "They sleep on the sidewalk while a loved one is hospitalized : NPR",
-                "desc": "Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own — and on the street.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5544x3119+0+289/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F43%2F2c%2Fd3fd11634aa782ae90dbe430eb41%2Fsidewalk-sleepers-india-21.jpg",
-                "url": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
-                "source": "NPR",
-                "date": "2026-10-17T09:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-18T18:17:47.561896Z"
+    "lastGlobalSync": "2026-10-18T21:03:55.997732Z"
 }
