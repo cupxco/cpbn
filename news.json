@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "DeepSeek pushes out updated AI model it says is faster, leaner",
+                "desc": "DeepSeek released an update of its AI model that it says is faster and leaner, ramping up the Chinese company's challenge to Silicon Valley rivals Anthropic PBC and OpenAI.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/19/4168891.JPG",
+                "url": "https://www.thestar.com.my/tech/tech-news/2026/10/19/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+                "source": "The Star",
+                "date": "2026-10-19T03:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cyberattack on French supermarkets tells us more about food security than AI safety",
+                "desc": "Experts know little about the motives of the hackers who remotely turned up the temperature on French supermarket refrigerators. Their methods, however, are far from science fiction.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/16/GettyImages-2299339600-scaled.jpg",
+                "url": "https://www.politico.eu/article/cyberattack-french-supermarkets-food-security-ai-safety/",
+                "source": "POLITICO.eu",
+                "date": "2026-10-19T03:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MSCI downgrade fears mount",
+                "desc": "Indonesia's benchmark stock index plunged to its lowest level in six years.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108135857-1745474028422-gettyimages-816094118-alcibbum_206365-edit-2.jpeg?v=1745481811&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
+                "source": "CNBC",
+                "date": "2026-10-19T03:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taiwanese solar equipment maker enters Philippines with AyalaLand Logistics deal",
+                "desc": "AyalaLand Logistics Holdings Corp. (ALLHC), the industrial real estate arm of property developer Ayala Land Inc., has signed Taiwanese solar equipment...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/10/19/140026.webp",
+                "url": "https://mb.com.ph/2026/10/19/taiwanese-solar-equipment-maker-enters-philippines-with-ayalaland-logistics-deal",
+                "source": "Manila Bulletin",
+                "date": "2026-10-19T02:58:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Skoda offers free 3D-printable parts for your car",
+                "desc": "Don’t like your car? Soon you may be able to just print a new one.",
+                "image": "https://content.api.news/v3/images/bin/f4d1bd2ba3feb196d3b127f9aa29ac79",
+                "url": "https://www.news.com.au/technology/motoring/on-the-road/skoda-lets-drivers-3dprint-custom-car-parts-at-home-for-free/news-story/53f5048cd2a127c84a2cb1667209c8db",
+                "source": "News.com.au",
+                "date": "2026-10-19T02:51:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A rare buying opportunity in 1 of Australia's top shares?",
+                "desc": "This could be an opportunity to buy one of Australia’s top shares at a much cheaper price. Here’s why it’s so compelling.",
+                "image": "https://www.fool.com.au/wp-content/uploads/2024/12/trophy-16.9-1200x675.jpg",
+                "url": "https://www.fool.com.au/2026/10/19/a-rare-buying-opportunity-in-1-of-australias-top-shares-27/",
+                "source": "The Motley Fool Australia",
+                "date": "2026-10-19T02:50:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan’s MS&AD said to consider deal for Malaysia’s LPI Capital",
+                "desc": "KUALA LUMPUR (Oct 19): MS&AD Insurance Group Holdings Inc is exploring a takeover of Malaysian insurer LPI Capital Bhd (KL:LPI) for growth overseas, Bloomberg reported.",
+                "image": "https://assets.theedgemarkets.com/lpi-capital-logo-_20251028140153_www.lpicapital.com-APP_3.jpg",
+                "url": "https://theedgemalaysia.com/node/822253",
+                "source": "The Edge Malaysia",
+                "date": "2026-10-19T02:49:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SSS assures members that their contributions are managed prudently to sustain pension fund",
+                "desc": "* The Social Security System (SSS) assures its members, pensioners, and the public that their contributions are managed with care to protect the pension fund...",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/10/19/140020.webp",
+                "url": "https://mb.com.ph/2026/10/19/sss-assures-members-that-their-contributions-are-managed-prudently-to-sustain-pension-fund",
+                "source": "Manila Bulletin",
+                "date": "2026-10-19T02:49:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Asian stocks start week on back foot, tracking tech-led Wall St losses",
+                "desc": "Asian stocks mostly fell Monday as traders tracked a tech-heavy selloff on Wall Street that was fuelled by growing worries over the AI investment boom.",
+                "image": "https://s.france24.com/media/display/af7f9f2e-cb67-11f1-9fff-638c1c1f5fd6/w:1280/p:16x9/9d27b97f2aa143a669f4657298008126dc13e01f.jpg",
+                "url": "https://www.france24.com/en/live-news/20261019-asian-stocks-start-week-on-back-foot-tracking-tech-led-wall-st-losses",
+                "source": "France 24",
+                "date": "2026-10-19T02:49:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China's new home prices fall again as recovery remains elusive",
+                "desc": "China's new home prices fell again in September, ​extending a more than three-year slump and suggesting policy support has yet to spark a broad-based recovery in housing demand.",
+                "image": "https://www.reuters.com/resizer/v2/4YVHVJZ7E5KQPB2HZ3E3TL7ZPA.jpg?auth=c99a01cf7999ae0c5dd8d0a99311927301eb8c57b395103c771cddc7c686e9e6&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/asia-pacific/chinas-new-home-prices-fall-again-september-recovery-stays-elusive-2026-10-19/",
+                "source": "Reuters",
+                "date": "2026-10-19T02:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "From Amsterdam to Australia; has a sharemarket bubble popped again?",
                 "desc": "The dotcom sharemarket bubble's bursting coincided with the flop of a Dutch company's IPO. Will an Aussie company's failed IPO be a marker for the bursting of the AI sharemarket bubble?",
                 "image": "https://www.interest.co.nz/sites/default/files/2026-10/drew-beamer-Hk6E4UxjmGo-unsplash%20%281%29.jpg",
@@ -542,99 +632,99 @@
                 "source": "Yahoo",
                 "date": "2026-10-18T02:44:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Modular refineries key to Nigeria’s fuel security - Rainoil",
-                "desc": "Rainoil's MD, Emmanuel Omuojine, says modular refineries are key to Nigeria's fuel security, warning against over-reliance on a single supply source.",
-                "image": "https://cdn.punchng.com/wp-content/uploads/2025/05/08042307/Rainoil.jpg",
-                "url": "https://punchng.com/modular-refineries-key-to-nigerias-fuel-security-rainoil/",
-                "source": "Punch Newspapers",
-                "date": "2026-10-17T23:45:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI Is Building A Humanoid Robot, But The Body Isn't The Real Challenge",
-                "desc": "With Tesla and XPENG already working on humanoids, OpenAI CEO Sam Altman says creating the 'brain' is more difficult than building the robots themselves.",
-                "image": "https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/l-intro-1791892991.jpg",
-                "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
-                "source": "Engadget",
-                "date": "2026-10-17T23:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Beyond the numbers: Why finance leaders must become forces for alignment",
-                "desc": "The hardest challenges facing organizations today rarely arrive labeled as finance problems. They appear as delayed projects, competing priorities, stalled...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/10/18/139870.webp",
-                "url": "https://mb.com.ph/2026/10/17/beyond-the-numbers-why-finance-leaders-must-become-forces-for-alignment",
-                "source": "Manila Bulletin",
-                "date": "2026-10-17T23:44:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wife surprises Ned Okonkwo with birthday bash",
-                "desc": "Ichechi, wife of real estate entrepreneur Kennedy Okonkwo, throws him a surprise 49th birthday party in Lekki, Lagos, attended by friends and associates.",
-                "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/17213134/WhatsApp-Image-2026-10-17-at-18.22.47_1792269094-1080x630.webp",
-                "url": "https://punchng.com/wife-surprises-ned-okonkwo-with-birthday-bash/",
-                "source": "Punch Newspapers",
-                "date": "2026-10-17T23:37:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Victorian opposition promises to immediately scrap ban on gas hot water, appliances",
-                "desc": "Victoria’s opposition has vowed to scrap Labor’s gas appliance ban within 100 days of winning the upcoming election, amid claims the contentious ban adds $15,000 alone to new home builds.",
-                "image": "https://content.api.news/v3/images/bin/7ab229bf895e2ed384fa702c4e9e5b48",
-                "url": "https://www.news.com.au/national/victoria/politics/victorian-opposition-promises-to-scrap-laborimposed-ban-on-gas-hot-water-appliances/news-story/cd653b0aefb48acc573434de63d4eefc",
-                "source": "News.com.au",
-                "date": "2026-10-17T23:35:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Five Key Market Events Next Week: Jensen Huang's GTC Keynote, Cancer Vaccine Data, and Big Tech Earnings",
-                "desc": "Global markets face a dense slate of earnings releases and major industry events next week. Nvidia CEO Jensen Huang will deliver a keynote at the GTC…",
-                "image": "https://img.biggo.com/5i1Nt6D5wMeuPR3jet9BKKB4jH000CMN3nrIn3XSHH0/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2IyODAxODlmLTkxYmQtNDY3My05MGNiLTE4OTk0OGZiYTRlZV8xNzkyMjgwNDA1X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/b280189f-91bd-4673-90cb-189948fba4ee",
-                "source": "BigGo Finance",
-                "date": "2026-10-17T23:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Turning scrap into community gold",
-                "desc": "IPOH: It's a faulty refrigerator that any homeowner would be glad to discard.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/18/4167225.jpg",
-                "url": "https://www.thestar.com.my/news/nation/2026/10/18/turning-scrap-into-community-gold",
-                "source": "The Star",
-                "date": "2026-10-17T23:32:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why I chose entertainment over becoming a soldier",
-                "desc": "Dancer and content creator, Joy Ogbonna, aka Afroblueriss, reveals why she chose a career in entertainment despite her mother’s wish for her to be a soldie",
-                "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/17215349/Joy-Afroblueriss_1792270429-1200x630.webp",
-                "url": "https://punchng.com/why-i-chose-entertainment-over-becoming-soldier-afroblueriss/",
-                "source": "Punch Newspapers",
-                "date": "2026-10-17T23:32:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "refinery in Pukekohe turns waste oil into reusable base oil",
-                "desc": "Kiwi company Glide has opened New Zealand’s first oil re-refinery, as it looks to transform the country’s waste oil industry from burning to recycling. The...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/ZQKZAYL23ZBGZKTHEVOB2NEXOU.jpg?auth=8221e39da35328a7544241cc9eccb47c2a51352b1d55cf2ad04da59406be4f1c&width=1200&height=675&quality=70&focal=974%2C540&smart=false",
-                "url": "https://www.nzherald.co.nz/business/companies/manufacturing/glide-oil-re-refinery-turns-waste-oil-into-reusable-base-oil/premium/SZ5PK4X7UJHLLDOL66ROPOBHHM/",
-                "source": "NZ Herald",
-                "date": "2026-10-17T23:31:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'France, truly, is on the brink' and days away from a make-or-break moment in its debt crisis",
-                "desc": "\"France could be forced to seek assistance from the International Monetary Fund and to pray for it from the European Central Bank — a humiliation for the world’s seventh-biggest economy.\"",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300080884-e1792273156275.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/10/17/france-debt-crisis-budget-deficit-bond-yields-spread-protests-riots/",
-                "source": "Fortune",
-                "date": "2026-10-17T23:28:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Seal M2 opens pre-downloads ahead of October 22 launch",
+                "desc": "ⓒ Playwith KoreaPlaywith Korea announced that pre-downloading for its new MMORPG, Seal M2, will begin on October 19 at 11:00 AM for mobile and PC platforms ahead of its official launch on October 22.",
+                "image": "https://static.invenglobal.com/upload/image/2026/10/19/i1792378625495369.jpeg",
+                "url": "https://www.invenglobal.com/articles/27345/seal-m2-opens-pre-downloads-ahead-of-october-22-launch",
+                "source": "Inven Global",
+                "date": "2026-10-19T02:58:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Worth the hype’: Adore Beauty slashes 30% off in Adore Frenzy offer",
+                "desc": "If there was ever a time to truly treat yourself, it’s now.",
+                "image": "https://content.api.news/v3/images/bin/f478b10dc35ef9fa27bce8e00ece5337",
+                "url": "https://www.news.com.au/checkout/sales-and-deals/adore-beauty-adore-frenzy-sale-best-deals/news-story/0bd1cb0c058b97d5cfeaefc4ea49c759",
+                "source": "News.com.au",
+                "date": "2026-10-19T02:55:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Degree Robotic Arm, Launch as Early as Next Year — BigGo Finance",
+                "desc": "Apple is developing a home AI device that identifies users by voice and automatically rotates its screen 360 degrees. Known internally by the code…",
+                "image": "https://img.biggo.com/GckuhBgCafK0fQKjyB5J2DyrJCzruFnORYKm7lIlFgo/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzY2N2EwOWY0LWM2ZDYtNDg1NS1iZjQ5LWEzYjJiZjZiZDUxYV8xNzkyMzc4Nzk4X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/667a09f4-c6d6-4855-bf49-a3b2bf6bd51a",
+                "source": "BigGo Finance",
+                "date": "2026-10-19T02:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lunosoft officially launches 'Soul Legion: Idle RPG'",
+                "desc": "ⓒ LunosoftLunosoft Inc. (hereinafter Lunosoft) announced on the 19th that it officially released the mobile action RPG Soul Legion: Idle RPG (hereinafter Soul Legion).",
+                "image": "https://static.invenglobal.com/upload/image/2026/10/19/i1792378207418478.png",
+                "url": "https://www.invenglobal.com/articles/27343/lunosoft-officially-launches-soul-legion-idle-rpg",
+                "source": "Inven Global",
+                "date": "2026-10-19T02:53:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Acer Nitro QHD monitor hits 30-day low price with Newegg deal - a smart, cost-effective pick for high fps gaming",
+                "desc": "This Acer Nitro gaming monitor is a great pick for high FPS QHD gaming if you're looking to spend well under $200.",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/10/acer-nitro-gaming-monitor-deal.jpg",
+                "url": "https://www.pcguide.com/deals/acer-nitro-qhd-monitor-hits-30-day-low-price-with-newegg-deal-a-smart-cost-effective-pick-for-high-fps-gaming/",
+                "source": "PC Guide",
+                "date": "2026-10-19T02:52:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A remake of the GTA VI release trailer, filmed in GTA V, has been released - a curvy replacement was found for Lucia",
+                "desc": "A remake of the GTA VI release trailer, filmed in GTA V, has been released - a curvy replacement was found for Lucia",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1727756/media-c29b6a819ad78ac6e8500770f22e444e0d6ea734db4ed55c1568452bd7741251.png",
+                "url": "https://ixbt.games/en/news/2026/10/19/vysel-remeik-reliznogo-treilera-gta-vi-sniatyi-v-gta-v-dlia-lusii-nasli-figuristuiu-zamenu.html",
+                "source": "iXBT.games",
+                "date": "2026-10-19T02:52:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Domestic Industry Players' United Victory & Real-World Growth Pains",
+                "desc": "In the global competitive landscape of the relevant industry, Chinese manufacturers have secured a leading position in production scale and market coverage, while South Korean counterparts have successfully captured substantial lucrative profits through optimized operational strategies and value-added business layouts. This distinct market pattern highlights the differentiated development paths of Asian manufacturing powerhouses, reflecting how regional industrial players leverage their core advantages to dominate respective segments: Chinese manufacturers excel at scaling up production capacity to meet massive global market demand, whereas South Korean manufacturers focus on high-margin revenue generation to harvest handsome economic returns. This industry dynamic has become a key research focus for global manufacturing analysts, revealing the diverse competitive logics behind the growth of leading Asian manufacturing entities.",
+                "image": "https://img.36krcdn.com/hsossms/20261019/v2_7c5ba29b4c764c5c91a6aa0f2c855c26@5091053@ai_oswg818827oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+                "url": "https://eu.36kr.com/en/p/4032124785971584",
+                "source": "36Kr",
+                "date": "2026-10-19T02:52:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OPPO's latest mid-tier phone has a 7,400mAh battery",
+                "desc": "The OPPO A7 Pro 5G is big on battery.",
+                "image": "https://r3.whistleout.com.au/public/images/articles/2026/10/oppo_a7_pro_5g.jpg?w=1200&h=630&fit=fill&fill=blur",
+                "url": "https://www.whistleout.com.au/MobilePhones/News/OPPO-A7-Pro-5G-Australia",
+                "source": "WhistleOut",
+                "date": "2026-10-19T02:52:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Skoda offers free 3D-printable parts for your car",
+                "desc": "Don’t like your car? Soon you may be able to just print a new one.",
+                "image": "https://content.api.news/v3/images/bin/f4d1bd2ba3feb196d3b127f9aa29ac79",
+                "url": "https://www.news.com.au/technology/motoring/on-the-road/skoda-lets-drivers-3dprint-custom-car-parts-at-home-for-free/news-story/53f5048cd2a127c84a2cb1667209c8db",
+                "source": "News.com.au",
+                "date": "2026-10-19T02:51:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hacker voices38 explained why he was absent and cracked Denuvo games less often",
+                "desc": "It seems that Denuvo's lawyers could not scare the hacker.",
+                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1727757/media-47469d2c6d694e4d994b66e462c111c7593b4a500123dabe0b4e0009e28e3b9c.png",
+                "url": "https://ixbt.games/en/news/2026/10/19/xaker-voices38-obieiasnil-pocemu-otsutstvoval-i-reze-vzlamyval-igry-s-denuvo.html",
+                "source": "iXBT.games",
+                "date": "2026-10-19T02:47:09Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Sandisk says it has Meta's exclusive VR Glasses storage deal, but names no capacity or price",
                 "desc": "Sandisk says it is the exclusive provider of flash storage for Meta VR Glasses when they launch in spring 2027, and it names no capacity and no price.",
@@ -1174,99 +1264,99 @@
                 "source": "Cricinfo",
                 "date": "2026-10-18T02:14:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The Call of Duty: Modern Warfare 4 campaign started surprisingly well - the game was not crushed, but praised",
-                "desc": "The new installment of the franchise managed to please many.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1727352/media-b6c17268755978764b5fed28fe6240053927dccc9e0e10dbd08b79c86117284d.png",
-                "url": "https://ixbt.games/en/news/2026/10/18/kampaniia-call-of-duty-modern-warfare-4-startovala-na-udivlenie-xoroso-igru-ne-razgromili-a-poxvalili.html",
-                "source": "iXBT.games",
-                "date": "2026-10-17T23:31:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "25 Wild Things Only The Ultra Wealthy Can Buy",
-                "desc": "Discover the secret luxury purchases only the ultra-rich can access. From exclusive items to hidden services, see what money really buys.",
-                "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/14/21/thumb/UVPqTIUHo.jpg?crop=2400:1257;0,3%26downsize=1250:*",
-                "url": "https://www.buzzfeed.com/lizmrichardson/wild-things-rich-people-buy",
-                "source": "BuzzFeed",
-                "date": "2026-10-17T23:31:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These Samsung Galaxy Tablets Are In Their Last Year Of Software Support",
-                "desc": "Samsung's latest software update commitment for its tablets is great, but older devices can't take advantage of it.",
-                "image": "https://s.yimg.com/lo/mysterio/api/787c926a2cefc5e8b9e6eb15fe2b366715dabc09c76b3f43d608daa95a3b7535/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_100%2Fd3f33ac45ddbb4392e5050b3d1a5ef38.jpg",
-                "url": "https://tech.yahoo.com/computing/articles/samsung-galaxy-tablets-last-software-233000171.html",
-                "source": "Yahoo Tech",
-                "date": "2026-10-17T23:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These Samsung Galaxy Tablets Are In Their Last Year Of Software Support",
-                "desc": "If you're rocking an older Samsung tablet, you'll want to know about the final software release coming to you soon.",
-                "image": "https://www.engadget.com/img/gallery/these-samsung-galaxy-tablets-are-in-their-last-year-of-software-support/l-intro-1791837850.jpg",
-                "url": "https://www.engadget.com/2284679/samsung-galaxy-tablets-last-year-software-support/",
-                "source": "Engadget",
-                "date": "2026-10-17T23:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia Launches RTX Spark AI Laptops in Korea, Starting at 5.8 Million Won",
-                "desc": "Nvidia is targeting a new market with RTX Spark, a system-on-chip (SoC) designed for artif",
-                "image": "https://cdn.thelec.net/news/photo/202610/14677_14948_4433.jpg",
-                "url": "https://www.thelec.net/news/articleView.html?idxno=14677",
-                "source": "THE ELEC, Korea Electronics Industry Media",
-                "date": "2026-10-17T23:21:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Qualcomm Sees Humanoids as Highly Advanced Cars",
-                "desc": "Qualcomm is stepping up its entry into the semiconductor market for humanoid robots, drawi",
-                "image": "https://cdn.thelec.net/news/photo/202610/14673_14945_544.jpg",
-                "url": "https://www.thelec.net/news/articleView.html?idxno=14673",
-                "source": "THE ELEC, Korea Electronics Industry Media",
-                "date": "2026-10-17T23:21:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Intel to Launch Razor Lake AX Robotics SoC in 2028",
-                "desc": "Intel plans to launch Razor Lake AX, a new system-on-chip (SoC) designed for robotics appl",
-                "image": "https://cdn.thelec.net/news/photo/202610/14667_14938_2721.jpg",
-                "url": "https://www.thelec.net/news/articleView.html?idxno=14667",
-                "source": "THE ELEC, Korea Electronics Industry Media",
-                "date": "2026-10-17T23:21:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Intel Unveils AI Inference Software Optimized for Xeon CPUs",
-                "desc": "Intel on Oct. 16 unveiled Intel Inference Microservice, software designed to maximize arti",
-                "image": "https://cdn.thelec.net/news/photo/202610/14663_14934_5836.png",
-                "url": "https://www.thelec.net/news/articleView.html?idxno=14663",
-                "source": "THE ELEC, Korea Electronics Industry Media",
-                "date": "2026-10-17T23:21:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Every New Feature Added To Amazfit Watches In 2026 (So Far)",
-                "desc": "You can spend less time setting up your Amazfit watch and get more detail about your workouts, thanks to features added in recent updates.",
-                "image": "https://www.bgr.com/img/gallery/every-new-feature-added-to-amazfit-watches-in-2026-so-far/l-intro-1791900860.jpg",
-                "url": "https://www.bgr.com/2285236/new-features-added-amazfit-watches-update/",
-                "source": "BGR",
-                "date": "2026-10-17T23:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Developer Cancels Steam Demo After AI Copycat Concerns",
-                "desc": "The developer behind Russian roulette anime game Drunken Goddess Reflux has canceled its plans for a public Steam demo, citing concerns over potential AI copycats.",
-                "image": "https://assets-prd.ignimgs.com/2026/10/17/drunken-goddess-reflux-1792277336624.png?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
-                "source": "IGN",
-                "date": "2026-10-17T23:00:23Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "The Global South is wiring up for an electric future",
+                "desc": "The US and Israeli war against Iran has been the big energy story in 2026, but the quiet retooling of power grids from Lagos to Manila may prove to be of greater significance in the long run.",
+                "image": "https://www.reuters.com/resizer/v2/SPSWBGHWSZN75F334DDLTTBXEU.jpg?auth=c02c55a57604a22d13660ef2f5d57d25a7d2a4b4ed658c33d8758cfdcbfaff07&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/commentary/reuters-open-interest/global-south-is-wiring-up-an-electric-future-2026-10-19/",
+                "source": "Reuters",
+                "date": "2026-10-19T03:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ADB chief warns of high inflation in Asia amid uncertainty",
+                "desc": "BANGKOK —Inflation in the Asia-Pacific region may persist and worsen amid global uncertainty, Asian Development Bank President Masato Kanda has warned.",
+                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/10/19/140024.webp",
+                "url": "https://mb.com.ph/2026/10/19/adb-chief-warms-of-high-inflation-in-asia-amid-uncertainty",
+                "source": "Manila Bulletin",
+                "date": "2026-10-19T02:58:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Millions may be forced to move as climate change hits South Asia: UN",
+                "desc": "Climate change is forcing people from their homes across South Asia, but AI and government action could limit the damage, the UN migration chief told AFP.",
+                "image": "https://image.vietnamnews.vn/uploadvnnews/Article/2026/10/19/538762_138.jpg",
+                "url": "https://vietnamnews.vn/world/1802299/millions-may-be-forced-to-move-as-climate-change-hits-south-asia-un.html",
+                "source": "vietnamnews.vn",
+                "date": "2026-10-19T02:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says",
+                "desc": "Russian President Vladimir Putin has proposed a summit next month with US ​President Donald Trump and Chinese leader Xi Jinping to negotiate an ‌end to the four-year-old Ukraine conflict that would favour Moscow, the Wall Street Journal reported on Sunday, citing people familiar with the discussions.",
+                "image": "https://www.reuters.com/resizer/v2/LCSMUPWGOJPT5M4BXWOMIHM73U.jpg?auth=8eadbe1b0f886d85dc1072838fb4788342e18ea51841d32c91c0af9c4d922e5f&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/china/putin-proposes-summit-with-trump-xi-discuss-ukraine-deal-wsj-says-2026-10-19/",
+                "source": "Reuters",
+                "date": "2026-10-19T02:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Week in Pictures: Haze in South-east Asia; protests in Europe",
+                "desc": "Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9f36506d969e1198a8ca3b2d47c10926ae61fc5f9c911e3fcda7b066f2718b44?w=1200",
+                "url": "https://www.straitstimes.com/multimedia/photos/the-week-in-pictures-haze-in-south-east-asia-protests-in-europe",
+                "source": "The Straits Times",
+                "date": "2026-10-19T02:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘You reach a tipping point’: New Zealand’s strained healthcare system at centre of election battle",
+                "desc": "With care shortfalls biting across the country, the National-led coalition has been accused of letting chronic underfunding worsen",
+                "image": "https://i.guim.co.uk/img/media/c9beb7509e77625989f46134fe7bb4fc4c0fd266/1034_0_5168_4135/master/5168.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92d8f9f9f6b964b2398354d817f6dda0",
+                "url": "https://www.theguardian.com/world/2026/oct/19/new-zealand-election-strained-healthcare-system",
+                "source": "The Guardian",
+                "date": "2026-10-19T02:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Grass fire at Canadian military base kills , critically injures soldiers",
+                "desc": "Grass fire at CFB Wainwright during live-fire training kills 4, injures 19 critically, prompting massive emergency response and investigation.",
+                "image": "https://th-i.thgim.com/public/incoming/sbujbp/article71602000.ece/alternates/LANDSCAPE_1200/Canada_Wainwright_Fire_77164.jpg",
+                "url": "https://www.thehindu.com/news/international/grass-fire-at-canadian-military-base-kills-4-soldiers-critically-injures-19-other-people/article71601996.ece",
+                "source": "The Hindu",
+                "date": "2026-10-19T02:46:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Immigration authorities return Indian national to Oregon jail over crash that killed newlywed couple",
+                "desc": "US authorities have transferred 32-year-old Indian national Rajinder Kumar to state custody in Oregon to face prosecution over a November 2025",
+                "image": "https://static.toiimg.com/thumb/msid-135038254,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/us/us-immigration-authorities-return-indian-national-to-oregon-jail-over-crash-that-killed-newlywed-couple/articleshow/135038219.cms",
+                "source": "The Times of India",
+                "date": "2026-10-19T02:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "pilot's alleged 'terror' plans were thwarted",
+                "desc": "During the attack in the cockpit, Smit Machchhar says he calmed himself and said: \"You can't die like this.\"",
+                "image": "https://live-production.wcms.abc-cdn.net.au/7079e6cf69ff7a2b2b15b202c5096411?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-10-19/inside-flydubai-cockpit-copilot-alleged-terror-plot/107281782",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-10-19T02:45:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Troubles Bill needs to 'build confidence' among victims",
+                "desc": "MPs will begin a debate on the Northern Ireland Troubles Bill this week.",
+                "image": "https://www.rte.ie/images/001e4f6e-1600.jpg",
+                "url": "https://www.rte.ie/news/regional/2026/1019/1595906-ni-troubles-bill/",
+                "source": "RTE.ie",
+                "date": "2026-10-19T02:41:54Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "French 'lycée' protests spread to Quebec as Montreal students take to streets in solidarity",
                 "desc": "French high school students have rallied for weeks, calling for the government to improve learning conditions and address a decade-long staffing shortage. Quebec students are also growing unhappy with their learning conditions, citing the rising cost of living, unpaid internships, low government funding in public schools and high tuition fees for university students.",
@@ -1806,98 +1896,8 @@
                 "source": "Reuters",
                 "date": "2026-10-18T03:18:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Stampede kills at least 17 people at religious festival in India",
-                "desc": "A police official says an announcement outside a pavilion after it started raining resulted in the crowd \"rushing forward\" and people falling on the ground.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/134f735b4ead2627f4227442a5883d62?impolicy=wcms_watermark_news&cropH=629&cropW=1118&xPos=29&yPos=0&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-10-18/india-stampede-kolkata-hindu-festival/107280156",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-10-17T23:43:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Covering AI is a journalistic imperative, and a fast moving target",
-                "desc": "Brett Neely, one of NPR’s editors who oversees coverage of artificial intelligence, talks about how the topic is now part of every reporter's beat - and how the pace of transformation impacts coverage choices.This episode was produced by Gabriel Sanchez, with engineering by Damian Herring. Our director is Vincent Acovino. It was edited by Adam Raney.  Our executive producer is Courtney Dorning.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F78%2Fb26b61244726aec9965c809142f1%2F5d0e4e2b-8278-4658-8edc-6ce66df737d9.jpg",
-                "url": "https://www.npr.org/2026/10/17/nx-s1-6006834/covering-ai-is-a-journalistic-imperative-and-a-fast-moving-target",
-                "source": "NPR",
-                "date": "2026-10-17T23:32:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'France, truly, is on the brink' and days away from a make-or-break moment in its debt crisis",
-                "desc": "\"France could be forced to seek assistance from the International Monetary Fund and to pray for it from the European Central Bank — a humiliation for the world’s seventh-biggest economy.\"",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300080884-e1792273156275.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/10/17/france-debt-crisis-budget-deficit-bond-yields-spread-protests-riots/",
-                "source": "Fortune",
-                "date": "2026-10-17T23:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-                "desc": "Forces intercepted and destroyed four drones over Saudi Arabia’s Riyadh, Eastern Province and southern region.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad0f89f0355-1792080031.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help",
-                "source": "Al Jazeera",
-                "date": "2026-10-17T23:26:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
-                "desc": "Hurricane warning in effect from Manzanillo to Cabo Corrientes as storm moves toward Pacific coast",
-                "image": "https://i.guim.co.uk/img/media/a78115f167c62cf861f81f58446e1b9e6c266ea1/0_0_5417_4333/master/5417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ce51725219594c1e7a3148a0583ca97",
-                "url": "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico",
-                "source": "The Guardian",
-                "date": "2026-10-17T23:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Magen David Adom unveils 96 new ambulances to mark 96 years",
-                "desc": "Donated by supporters from seven countries, the new vehicles will join MDA's fleet of approximately 2,000 ambulances, expanding emergency medical coverage across Israel and helping reduce response times",
-                "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/r1xHgZKZhfl/r1xHgZKZhfl_94_0_1840_1035_0_large.jpg",
-                "url": "https://www.ynetnews.com/health_science/article/rkm11gkz3ge",
-                "source": "Ynetnews",
-                "date": "2026-10-17T23:15:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China’s durian ambitions: A threat to Malaysia’s growing market?",
-                "desc": "The East Asian nation's push to cultivate durians at home could reshape the market, but climate challenges and rising demand may keep South-East Asian suppliers in a strong position.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/18/4167310.jpg",
-                "url": "https://www.thestar.com.my/news/focus/2026/10/18/chinas-durian-ambitions-a-threat-to-malaysias-growing-market",
-                "source": "The Star",
-                "date": "2026-10-17T23:14:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "As durian rivals grow, Malaysia banks on quality",
-                "desc": "Malaysia's reputation for premium-quality durians could be its biggest advantage in an increasingly competitive global market.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/18/4167315.jpeg",
-                "url": "https://www.thestar.com.my/news/focus/2026/10/18/as-durian-rivals-grow-malaysia-banks-on-quality",
-                "source": "The Star",
-                "date": "2026-10-17T23:04:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sexual choking becoming normalised among young people, experts warn",
-                "desc": "Warning: This story discusses sexual violence Choking during sex has become so commonplace that some young women no longer consider it particularly rough, a...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/LTEP6YWUPJAEDM7WEYYJ3PWB4I.jpg?auth=0f9b48e15e1d62c93a21c5b430ad236f4203167624f708fc1924f158f17b352c&width=1200&height=675&quality=70&focal=970%2C637&smart=false",
-                "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/sexual-choking-becoming-normalised-among-young-people-experts-warn/2MILC34OOFGQTI5CEQTBHRAEDY/",
-                "source": "NZ Herald",
-                "date": "2026-10-17T23:01:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK Army Lists Minimum Age and Fitness Rules for Foreigners Joining as Infantry Soldiers",
-                "desc": "The UK Army has outlined the eligibility criteria for foreign nationals interested in infantry soldier roles, including key requirements applicants must meet.",
-                "image": "https://cdn.legit.ng/images/1200x675/d3d5afa7cee0738e.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1736702-uk-army-lists-minimum-age-fitness-rules-foreigners-join-infantry-soldiers/",
-                "source": "Legit.ng",
-                "date": "2026-10-17T22:59:20Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-19T07:36:55.003694Z"
+    "lastGlobalSync": "2026-10-19T15:00:24.251406Z"
 }
