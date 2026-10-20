@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Heineken pursues flamboyant businessman Peter Matsimbe for R42.8m",
+                "desc": "Beverage giant seeks judgment over unpaid invoices and personal suretyship",
+                "image": "https://www.sundaytimes.timeslive.co.za/resizer/v2/IKOQYTKLQBEX7IFHFZBEKCIASQ.webp?smart=true&auth=a702fd981c0d1da91b9dddedf0976623540359ca0a201e42f8067954c5336588&width=1200&height=630",
+                "url": "https://www.sundaytimes.timeslive.co.za/news/2026-10-20-heineken-pursues-flamboyant-businessman-peter-matsimbe-for-r428m/",
+                "source": "TimesLIVE",
+                "date": "2026-10-20T02:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Reopening Colne line 'a no-brainer' or 'insanely expensive'?",
+                "desc": "A campaign to reopen a railway line closed for more than 50 years is building up steam, say supporters.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7db8/live/6dc24290-cbb6-11f1-9a39-31b474234113.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/ck9dz07d381go",
+                "source": "BBC",
+                "date": "2026-10-20T02:24:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "German chancellor urges businesses to embrace AI with Nvidia support",
+                "desc": "Nvidia announced planned investments in four German startups as Chancellor Friedrich Merz urged businesses to embrace AI at an industry summit in Berlin.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108434885-1792455835867-gettyimages-2301021969-invest_in_germany-18_atfdwl1f.jpeg?v=1792455875&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+                "source": "CNBC",
+                "date": "2026-10-20T02:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RBA rate hike warning: Decades of rising rates, economist says",
+                "desc": "Frustrated mortgage holders face decades of further rate hike, a leading economist warns, as the RBA loses patience with its fight against inflation.",
+                "image": "https://content.api.news/v3/images/bin/17e644adcc12e1ccc757fefd0268125f",
+                "url": "https://www.news.com.au/finance/economy/interest-rates/australian-mortgage-holders-face-higher-interest-rates-for-decades-amid-stubborn-inflation-battle/news-story/b2d8a4713dc6b6661e4a3c88126ee49e",
+                "source": "News.com.au",
+                "date": "2026-10-20T02:14:44Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Singapore Airlines, Scoot offer discounts on 380,000 air tickets to Asia, Europe",
+                "desc": "Singapore Airlines and budget carrier Scoot will offer discounts on more than 380,000 tickets that cover popular tourism destinations from Asia to Europe such as Bangkok, Hangzhou, London, Los Angeles and Madrid. - VnExpress International",
+                "image": "https://vcdn1-english.vnecdn.net/2026/10/19/21179211816541811792118182-179-3439-6618-1792394409.png?w=680&h=0&q=100&dpr=1&fit=crop&s=_SVT90auTjx-3JVnsCYyng",
+                "url": "https://e.vnexpress.net/news/travel/singapore-airlines-scoot-offer-discounts-on-380-000-air-tickets-to-asia-europe-5134128.html",
+                "source": "VnExpress International",
+                "date": "2026-10-20T02:13:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Micron union in Taiwan to launch strike as bonus dispute escalates",
+                "desc": "TAIPEI, Oct ⁠20 (Reuters) - A union representing Micron Technology workers in Taoyuan, Taiwan, said ⁠it would launch a strike on Thursday to coincide with ‌a mediation meeting between the US chipmaker and another collective representing workers at its Taichung operations, escalating a dispute over employee bonuses.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/20/4170740.jpg",
+                "url": "https://www.thestar.com.my/tech/tech-news/2026/10/20/micron-union-in-taiwan-to-launch-strike-as-bonus-dispute-escalates",
+                "source": "The Star",
+                "date": "2026-10-20T02:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shares Drop as Oil Prices Rise, AI Earnings in Focus",
+                "desc": "Shares in Europe slip again as oil prices hit five-month highs and AI company earnings draw investor attention. Key indexes and currencies update.",
+                "image": "https://www.globalbankingandfinance.com/i/cloud-1dbfdfed-54f0-4eb3-a57b-c6f4bdc692db/width=1200,height=630,quality=80,format=auto,fit=cover/",
+                "url": "https://www.globalbankingandfinance.com/asian-shares-tumble-oil-rises-markets-await-ai-sector/",
+                "source": "Global Banking & Finance Review",
+                "date": "2026-10-20T02:12:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Asian shares tumble, oil rises as markets await AI sector results",
+                "desc": "TOKYO: Asian stocks retreated broadly on Tuesday while oil rose as geopolitical risks rattled sentiment ahead of key results from AI bellwether companies.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/20/4170739.png",
+                "url": "https://www.thestar.com.my/business/business-news/2026/10/20/asian-shares-tumble-oil-rises-as-markets-await-ai-sector-results",
+                "source": "The Star",
+                "date": "2026-10-20T02:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shares slide again as oil stays high; AI earnings in focus",
+                "desc": "European shares fell for the second straight day on Tuesday, as ‌another rise in crude oil prices kept risk sentiment in check, while investor focus honed in on results from key AI bellwether companies later this week.",
+                "image": "https://www.reuters.com/resizer/v2/72SENL4WZBLYJEWNEVYDT2WJZU.jpg?auth=571b60a52292e066a7478bb5ed1fd99035c568b83260320b2ca657b0e1e58fd8&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-20/",
+                "source": "Reuters",
+                "date": "2026-10-20T02:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Depreciation of petroleum exploration expenditure in Tanzania: an analysis of Commissioner General (TRA) v Beach Petroleum (Tanzania) Limited",
+                "desc": "Explore the Court of Appeal of Tanzania's decision in Commissioner General (TRA) v Beach Petroleum (Tanzania) Limited and its implications for depreciation allowances, petroleum exploration expenditure, and tax compliance in Tanzania's oil and gas sector.",
+                "image": "https://www.dentons.com/-/media/images/website/background-images/gpof/aerial/istock-1324636009.ashx",
+                "url": "https://www.dentons.com/en/insights/articles/2026/october/20/depreciation-of-petroleum-exploration-expenditure-in-tanzania",
+                "source": "Dentons",
+                "date": "2026-10-20T02:07:34Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "West Auckland gastropub The Attic to close its doors after 17 years",
                 "desc": "Popular West Auckland gastropub The Attic will close its doors this weekend after 17 years in business. The family-owned bar and restaurant in New Lynn is at...",
                 "image": "https://www.nzherald.co.nz/resizer/v2/HXHY3LRRYJD2HDN6X4ZDYK4WKM.jpg?auth=cd82f12690dcbfd5f12a0416f32dda1024c1f328213fb115e3a309049e6ebe49&width=1200&height=675&quality=70&focal=647%2C286&smart=false",
@@ -542,99 +632,99 @@
                 "source": "Crude Oil Prices Today | OilPrice.com",
                 "date": "2026-10-18T19:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "A transformer-enhanced U-Net with FiLM-driven clinical conditioning for multi-task breast ultrasound lesion analysis",
-                "desc": "Breast cancer remains one of the leading causes of cancer-related mortality among women worldwide. Early and accurate detection of breast lesions using non-invasive imaging techniques is crucial for improving timely diagnosis, treatment outcomes, and patient prognosis. This study aims to develop and evaluate hybrid deep learning models for breast-lesion segmentation and classification in ultrasound images using patient-level cross-validation. Challenges such as low contrast, imaging artifacts, and irregular lesion morphology can limit accurate diagnosis, highlighting the need for advanced deep learning approaches for reliable breast-lesion analysis. Recent developments in deep learning, particularly hybrid architectures that combine convolutional and transformer representations, have shown promise in addressing these constraints. We present three Hybrid Deep Learning (HDL) models. Three complementary deep learning models were evaluated for breast lesion classification and segmentation using the Breast-Lesions-USG dataset. Model 1 employed DoubleHeadUNet with a ResNet-34 backbone, Model 2 combined a Swin V2 Transformer with a U-Net decoder, and Model 3 integrated a Hybrid Transformer-FiLM U-Net to incorporate clinical metadata. Patient-level five-fold cross-validation with strict patient separation and nested hyperparameter selection was employed. Model 1 achieved the highest accuracy (82.94%) and AUC (87.70%), while Model 3 demonstrated the highest malignant recall (81.63%) and strongest segmentation performance (Dice: 0.901; IoU: 0.825). Model 2 achieved an accuracy of 79.76% and an AUC of 87.54%. Statistical analysis indicated that most accuracy differences were not significant, supporting the complementary strengths of the three models rather than identifying a universally superior approach. Comparisons with previous studies were considered indicative due to differences in datasets and evaluation protocols.",
-                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-                "url": "https://www.nature.com/articles/s41598-026-74951-0?error=cookies_not_supported&code=97f526a7-2823-40d7-8c66-0ec48795db98",
-                "source": "Nature",
-                "date": "2026-10-18T13:46:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trade Setup for October 19: Top 15 things to know before the opening bell",
-                "desc": "Going ahead, the 23,300–23,350 zone is expected to act as immediate resistance. This is followed by 23,500, a crucial hurdle. On downside, immediate support is placed in the 22,900–23,000 range, followed by 22,800, which remains a key support level.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261017031010_sensex_nifty-marketup_sensexup-Niftyup.jpg",
-                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/trade-setup-for-october-19-top-15-things-to-know-before-the-opening-bell-14054826.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-10-18T13:42:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "£30,000 Stolen Gold Jewellery Found Stuffed Inside a Lidl Bag After Rapid Police Pursuit",
-                "desc": "A stolen gold jewellery haul worth over £30,000 was recovered inside an ordinary Lidl carrier bag just five hours after a dramatic smash-and-grab raid.",
-                "image": "https://www.collinruggnews.com/wp-content/uploads/2026/10/cover-30000-stolen-gold-jewellery-found-stuffed-inside-a-lid-1280x720-U1PS8.webp",
-                "url": "https://cristinaiglesias.com/newsday/30000-stolen-gold-jewellery-found-stuffed-inside-a-lidl-bag-after-rapid-police-pursuit/",
-                "source": "cristinaiglesias.com",
-                "date": "2026-10-18T13:40:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Parle Mango Bite-Flavoured Toothpaste Goes Viral; Internet Reacts",
-                "desc": "Oral care brand Perfora has teamed up with Parle to launch a limited-edition Mango Bite-inspired toothpaste.",
-                "image": "https://c.ndtvimg.com/2026-10/v9167df_mango-bite-toothpaste_625x300_18_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-                "url": "https://food.ndtv.com/news/parle-mango-bite-flavoured-toothpaste-goes-viral-internet-reacts-12202251",
-                "source": "NDTV Food",
-                "date": "2026-10-18T13:36:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tesla's New Roadster Is Running A Banned Formula 1 Trick From 1978",
-                "desc": "The new Tesla Roadster's suction fans borrow the trick behind the Brabham BT46B, the 1978 Formula 1 fan car that won once and was then banned.",
-                "image": "https://dmarge.com/wp-content/uploads/2026/10/tesla-roadster-brabham-bt46b-1.jpg",
-                "url": "https://dmarge.com/cars/tesla-roadster-brabham-bt46b-formula-1-fan-car",
-                "source": "DMARGE",
-                "date": "2026-10-18T13:36:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "$200 No Deposit Bonus Codes & 200 Free Spins Real Money Announces By BitStarz 2026 Exclusive No Deposit Bonus Casinos and Free Spins Promo Code.",
-                "desc": "No Deposit Bonus Casinos Codes And Free Spins 2026 BitStarz Announced $200 No Deposit Bonus Codes & 200 Free Spins Real Money offers, highlights best casino bonuses, promo codes details. Check eligibility and withdrawal requirements before claiming.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/18/1265026.png",
-                "url": "https://www.manilatimes.net/2026/10/18/tmt-newswire/globenewswire/200-no-deposit-bonus-codes-200-free-spins-real-money-announces-by-bitstarz-2026-exclusive-no-deposit-bonus-casinos-and-free-spins-promo-code/2448164",
-                "source": "The Manila Times",
-                "date": "2026-10-18T13:35:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Accenture looks to sell its China business, turns to JPMorgan for help",
-                "desc": "Accenture is exploring a potential sale of its China business for up to $1.5 billion and has hired JPMorgan to assess its options after receiving unsolicited interest from buyers.",
-                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/the-new-structure-will-be-implemented-as-part-of-the-companys-june-compensation-cycle-and-applies-t-191657749-16x9.jpg?VersionId=WQY_uMladFmQ.CJZCv7N8Az.iUq0GYUl",
-                "url": "https://www.indiatoday.in/technology/news/story/accenture-looks-to-sell-its-china-business-turns-to-jpmorgan-for-help-3020274-2026-10-18",
-                "source": "India Today",
-                "date": "2026-10-18T13:34:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What to know before year-end",
-                "desc": "If you're considering a year-end Roth conversion for 2026, there are some key things to know, experts say.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108404214-1791911787677-gettyimages-2263848647-dsc02969.jpeg?v=1791911809&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
-                "source": "CNBC",
-                "date": "2026-10-18T13:30:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
-                "desc": "The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year",
-                "image": "https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0febd2f8692eef6ecd233dd9e7cb3d09",
-                "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
-                "source": "The Guardian",
-                "date": "2026-10-18T13:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Broadcom Crashed From $495 To $328 - I'm Buying The Sell-Off",
-                "desc": "Broadcom's custom silicon and software segments position it to benefit from capital-constrained AI infrastructure spending. Read why AVGO stock is a Strong Buy.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1643360144/image_1643360144.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4955041-broadcom-crashed-from-495-to-328-im-buying-the-sell-off",
-                "source": "Seeking Alpha",
-                "date": "2026-10-18T13:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "1U bus compressor with VCA Drive",
+                "desc": "Solid State Logic launches Bus Comp Classic, a 1U SSL Bus Compressor with THAT 2181 VCAs, Variable VCA Drive and a true stereo external side-chain.",
+                "image": "https://mixdownmag.com.au/wp-content/uploads/2026/10/Mixdown-header-image-edits.pdf-18.jpg",
+                "url": "https://mixdownmag.com.au/news/solid-state-logic-brings-its-classic-bus-compressor-back-in-1u-with-bus-comp-classic/",
+                "source": "Mixdown Magazine",
+                "date": "2026-10-20T02:27:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dell Unveils Two Rugged Laptops for Industrial Use",
+                "desc": "Dell Technologies has introduced two next-generation rugged laptops designed for industria",
+                "image": "https://cdn.thelec.net/news/photo/202610/14719_14997_1430.jpg",
+                "url": "https://www.thelec.net/news/articleView.html?idxno=14719",
+                "source": "www.thelec.net",
+                "date": "2026-10-20T02:25:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xiaomi 18 Pro vs Xiaomi 18 Fold: Which Flagship to Buy in 2026?",
+                "desc": "Xiaomi 18 Pro vs Xiaomi 18 Fold: the Fold costs ¥5,000 more for 74% more screen, but the Pro has the bigger main sensor, 200MP zoom and larger battery.",
+                "image": "https://memeburn.com/wp-content/uploads/2026/10/Xiaomi-18-Pro-vs-Xiaomi-18-Fold-Which-to-Buy-in-2026.jpg",
+                "url": "https://memeburn.com/xiaomi-18-pro-vs-xiaomi-18-fold/",
+                "source": "Memeburn",
+                "date": "2026-10-20T02:12:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fish Them All!, a Japanese fishing action game about catching 100 million fish, gets Steam demo",
+                "desc": "Fish Them All is a chaotic incremental fishing game by Japanese indie developer Piisu.",
+                "image": "https://automaton-media.com/en/wp-content/uploads/2026/10/20241226-73975-002.jpg",
+                "url": "https://automaton-media.com/en/news/fish-them-all-a-japanese-fishing-action-game-about-catching-100-million-fish-gets-steam-demo/",
+                "source": "AUTOMATON",
+                "date": "2026-10-20T02:11:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICANN testing tech to let law enforcement access non-public WHOIS info",
+                "desc": "Single sign-on to help address imminent threats to life, critical infrastructure, or kids",
+                "image": "https://image.theregister.com/5304041.jpg?imageId=5304041&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036",
+                "source": "The Register",
+                "date": "2026-10-20T02:11:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox Strategy Manager Says Studios Avoiding AI Are \"Planning for a Fake Future\"",
+                "desc": "Brandon Stirrup, a senior business strategy manager at Xbox, has stirred up quite a debate after posting on X that the games industry is dragging its feet on AI. Over the weekend, Stirrup shared a rough football game he says he \"vibe coded\" in about three hours of active work, despite never...",
+                "image": "https://www.techpowerup.com/img/9USbYJ5AmC9RgLAK.jpg",
+                "url": "https://www.techpowerup.com/353897/xbox-strategy-manager-says-studios-avoiding-ai-are-planning-for-a-fake-future",
+                "source": "TechPowerUp",
+                "date": "2026-10-20T02:09:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Fixed Point Digital Signal Processor Market Is Projected to G",
+                "desc": "The Business Research Company",
+                "image": "https://natlawreview.com/themes/custom/nlr_theme/favicon.ico",
+                "url": "https://natlawreview.com/press-releases/fixed-point-digital-signal-processor-market-projected-grow-rapidly-87-cagr",
+                "source": "The National Law Review",
+                "date": "2026-10-20T02:06:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pusheen's Place review: A charming cat game",
+                "desc": "Discover if Pusheen's Place on Apple Arcade is the charming cat collecting game you've been waiting for, despite its quirks.",
+                "image": "https://cassette.sphdigital.com.sg/image/hardwarezone/d4a1345d4f7ef62d1fd085e317a604e0cb6a859da96a0d47a33b6f000a3ffdd8",
+                "url": "https://www.hardwarezone.com.sg/entertainment/gaming/apple-arcade-pusheen-place-game-review",
+                "source": "HardwareZone Singapore",
+                "date": "2026-10-20T02:06:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oris ProPilot Calibre 111 Winds Up 10 Days of Power Inside a Slimmer Case for $10,400",
+                "desc": "Oris has redesigned its ProPilot Calibre 111 with a slimmer 43mm case, a 10-day power reserve, and new dials, priced at AUD $10,400.",
+                "image": "https://manofmany.com/wp-content/uploads/2026/10/Oris-ProPilot-Calibre-111-Ref-01-111-7808-4164-07-8-20-04LC-Images-5.jpg",
+                "url": "https://manofmany.com/watches/oris-propilot-calibre-111-2026",
+                "source": "Man of Many",
+                "date": "2026-10-20T02:00:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Murata Develops World’s Smallest 008004-inch Size (0.25mm × 0.125mm) NTC Thermistor for Space-Constrained Temperature Sensing",
+                "desc": "Murata Develops World’s Smallest 008004-inch Size (0.25mm × 0.125mm) NTC Thermistor for Space-Constrained Temperature Sensing Murata Manufacturing Co., Ltd.",
+                "image": "https://www.afp.com/themes/custom/afp9/assets/images/favicon_afp.com_201120.ico",
+                "url": "https://www.afp.com/en/infos/murata-develops-worlds-smallest-008004-inch-size-025mm-0125mm-ntc-thermistor-space",
+                "source": "AFP.com",
+                "date": "2026-10-20T02:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Xbox Manager Admits AI Use, Built Game in 3 Hrs",
                 "desc": "Xbox strategy manager Brandon Stirrup says Microsoft uses AI and built a playable game in 3 hours with Unreal Engine and MCP tools.",
@@ -1174,99 +1264,99 @@
                 "source": "Games Press",
                 "date": "2026-10-18T18:56:15Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "AI-Generated Content Can Plant Fake Memories, Researchers Say",
-                "desc": "Human memory is suggestible, and AI is making it worse.",
-                "image": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2238403181-1200x675.jpg",
-                "url": "https://gizmodo.com/ai-generated-content-can-plant-fake-memories-researchers-say-2000826459",
-                "source": "Gizmodo",
-                "date": "2026-10-18T13:39:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
-                "desc": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery challenges established quantum theories and hints at exotic quasiparticles that scientists have dubbed potential \"super-Fermions.\"",
-                "image": "https://www.sciencedaily.com/images/1920/ultracold-cesium-atoms-locked-into-hidden-ordered-state.webp",
-                "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
-                "source": "Science Daily",
-                "date": "2026-10-18T13:38:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "XRP NFT creator highlights rising trend of phys...",
-                "desc": "Kaj Leroy, creator of the first major XRP NFT collection, reveals a growing market shift from digital NFTs to physical trading cards in the Web3 gaming space. He explains that tangible assets like physical cards appeal more to mainstream users who want something they can hold, predicting a boom similar to the 1990s Pokémon craze. This hybrid model, combining blockchain with real-world products, is attracting institutional interest and is expected to expand with major brands entering the space. Leroy also notes that developing blockchain trading card games is complex, giving early projects a strategic advantage as the market grows.",
-                "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/a083f89c33853374064b5188d590aa3af35e21f567e648245072c4157d4430b1-en.webp",
-                "url": "https://pluang.com/en/news-feed/pionir-nft-xrp-tunjuk-bull-run-yang-terlewat",
-                "source": "Pluang",
-                "date": "2026-10-18T13:34:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "It's Tracking What You Watch",
-                "desc": "The company behind your TV tracks what you watch every second and uses it to make money from your data, but you can limit this.",
-                "image": "https://www.engadget.com/img/gallery/your-smart-tv-has-one-big-problem-its-tracking-what-you-watch/l-intro-1791909131.jpg",
-                "url": "https://www.engadget.com/2285490/one-problem-smart-tv-tracking-what-you-watch/",
-                "source": "Engadget",
-                "date": "2026-10-18T13:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OnePlus 15 vs Galaxy S26 Ultra: Battery Wins, Brand Leaves",
-                "desc": "OnePlus 15 vs Galaxy S26 Ultra: the OnePlus lasts 56% longer in testing, but OnePlus has left the US and Europe. Here is what that means for price and updates.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/10/OnePlus-15-vs-Galaxy-S26-Ultra-Battery-Wins-Brand-Leaves.jpg",
-                "url": "https://memeburn.com/oneplus-15-vs-galaxy-s26-ultra/",
-                "source": "Memeburn",
-                "date": "2026-10-18T13:25:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport — two pallets disappear, distributor seeks explanations but met with zero answers",
-                "desc": "This missing shipment could probably be the last one for quite some time, too.",
-                "image": "https://cdn.mos.cms.futurecdn.net/g6GuNaVQYV63v7z4CrSphL-2000-80.jpg",
-                "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers",
-                "source": "Tom's Hardware",
-                "date": "2026-10-18T13:24:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport",
-                "desc": "Brazilian electronics and IT distributor Oderço claims that two pallets of Zotac RTX 5090 GPUs have arrived at the airport but has since completely disappeared.",
-                "image": "https://s.yimg.com/lo/mysterio/api/0f4d4c374b20368dd4a0f7a56352ebfbddb692dc16d5801e99546be01fb36a26/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_hardware_319%2F93f4be7d4f13bb11cd29bc5484836299.jpg",
-                "url": "https://tech.yahoo.com/computing/articles/nvidia-rtx-5090-shipment-worth-132423203.html",
-                "source": "Yahoo Tech",
-                "date": "2026-10-18T13:24:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Co-op firefighting simulator Rescue Ops: Wildfire releases early 2027 with Steam demo now available",
-                "desc": "Game developer Exkee has announced that its Rescue Ops: Wildfire, will officially launch for PC via Steam in early 2027, demo now available.",
-                "image": "https://gamesbeat.com/wp-content/uploads/2026/10/Rescue-Ops.jpg",
-                "url": "https://gamesbeat.com/co-op-firefighting-simulator-rescue-ops-wildfire-releases-early-2027-steam-demo-available/",
-                "source": "GamesBeat",
-                "date": "2026-10-18T13:15:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These Singaporean siblings make bags. Their biggest lesson? Stop trying to do everything",
-                "desc": "There's a particular kind of consumerism that makes you feel as though your perfectly functional belongings are somehow inadequate. Your backpack carries your laptop, water bottle and gym clothes just fine, but does it have military-grade fabric? A suspended laptop compartment? Materials so technical they sound as though they belong on a spacecraft?Enter Rework, a bag brand founded by Singaporean...",
-                "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Oct2026/181026_bag_ww.jpg?itok=xVeloSFv",
-                "url": "https://www.asiaone.com/lifestyle/these-singaporean-siblings-make-bags-their-biggest-lesson-stop-trying-do-everything",
-                "source": "AsiaOne.com",
-                "date": "2026-10-18T13:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How To Use Your Windows PC To Make And Receive Phone Calls",
-                "desc": "The Phone Link tool in Windows is a great way to make calls from your desktop or laptop, as long as your phone is nearby.",
-                "image": "https://www.engadget.com/img/gallery/how-to-use-your-windows-pc-to-make-and-receive-phone-calls/l-intro-1791904099.jpg",
-                "url": "https://www.engadget.com/2285327/how-to-use-windows-pc-make-receive-phone-calls/",
-                "source": "Engadget",
-                "date": "2026-10-18T13:15:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Singapore national water agency investigates TikTok clip of youths fishing at Marina Bay Sands",
+                "desc": "SINGAPORE, Oct 20 — The national water agency PUB is investigating after two youths were allegedly seen fishing in the waters near Marina Bay Sands (MBS).In a video shared on...",
+                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/20/369378.jpg",
+                "url": "https://www.malaymail.com/news/singapore/2026/10/20/singapore-national-water-agency-investigates-tiktok-clip-of-youths-fishing-at-marina-bay-sands/239818",
+                "source": "Malay Mail",
+                "date": "2026-10-20T02:28:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zelenskyy accuses US of delaying Patriot missile shipment",
+                "desc": "Ukrainian President Volodymyr Zelenskyy has accused the United States of delaying deliveries of air defense missiles already paid for by European allies, as relations between Washington and Kyiv deteriorate.",
+                "image": "https://static.dw.com/image/79672196_6.jpg",
+                "url": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951",
+                "source": "DW.com",
+                "date": "2026-10-20T02:18:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'It smells like charred earth': BBC at Indonesia fire epicentre causing Singapore and Malaysia haze crisis",
+                "desc": "As wildfires continue to smother the region in toxic smog, the BBC travels to ground zero in Indonesian Borneo.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a81c/live/8a7ac040-cc26-11f1-b436-bbfd221b7fa6.jpg",
+                "url": "https://www.bbc.com/news/live/c6y93098e795t",
+                "source": "BBC",
+                "date": "2026-10-20T02:18:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India asks its nationals in Italy to exercise caution, avoid crowded areas amid protests",
+                "desc": "India embassy advises caution for Indians in Italy amid protests; provides emergency contacts and emphasizes avoiding crowds.",
+                "image": "https://th-i.thgim.com/public/incoming/rkpqnc/article71603153.ece/alternates/LANDSCAPE_1200/2026-10-18T190248Z_792733592_RC27U98R5E1R_RTRMADP_3_ITALY-PROTEST.JPG",
+                "url": "https://www.thehindu.com/news/international/india-asks-its-nationals-in-italy-to-exercise-caution-avoid-crowded-areas-amid-protests/article71603147.ece",
+                "source": "The Hindu",
+                "date": "2026-10-20T02:18:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prolonged haze exposure could hurt agriculture, fisheries sectors, says Malaysia’s Johor government",
+                "desc": "Malaysia's Johor state authorities stressed that the government viewed the haze seriously, and would continue monitoring its potential impact on the agriculture and agrofood sector.",
+                "image": "https://asianews.network/wp-content/uploads/2026/10/AFP__20260910__C7VB4KE__v1__MidRes__SingaporeMalaysiaIndonesiaHazeEnvironmentHealth-1.jpg",
+                "url": "https://asianews.network/prolonged-haze-exposure-could-hurt-agriculture-fisheries-sectors-says-malaysias-johor-government/",
+                "source": "Asia News Network",
+                "date": "2026-10-20T02:18:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Budget 2027: Gig workers welcome aid to ease costs, boost earnings",
+                "desc": "MELAKA, Oct 20 — E-hailing drivers and delivery riders have welcomed the welfare measures announced under Budget 2027, saying the initiatives will ease operating costs, improve...",
+                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/20/369376.jpg",
+                "url": "https://www.malaymail.com/news/malaysia/2026/10/20/budget-2027-gig-workers-welcome-aid-to-ease-costs-boost-earnings/239817",
+                "source": "Malay Mail",
+                "date": "2026-10-20T02:15:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philippines leads push for ASEAN-wide abolition of death penalty",
+                "desc": "This was part of a ministerial-level discussion on Friday attended by Justice Undersecretary Raul Vasquez as the Philippine representative and facilitated by former Philippine President and Pampanga Rep. Gloria Macapagal-Arroyo.",
+                "image": "https://asianews.network/wp-content/uploads/2026/10/AFP__20260721__C2PU2MV__v1__MidRes__PhilippinesAsean.jpg",
+                "url": "https://asianews.network/philippines-leads-push-for-asean-wide-abolition-of-death-penalty/",
+                "source": "Asia News Network",
+                "date": "2026-10-20T02:04:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SIM Academy Examines How Working Adults Can Build New Skills for a Changing Workplace",
+                "desc": "SINGAPORE – Media OutReach Newswire – 20 October 2026 – Singapore's workforce is undergoing significant change as automation, artificial intelligence (AI), sustainability,...",
+                "image": "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png",
+                "url": "https://www.malaymail.com/news/money/mediaoutreach/2026/10/20/sim-academy-examines-how-working-adults-can-build-new-skills-for-a-changing-workplace/495049",
+                "source": "Malay Mail",
+                "date": "2026-10-20T02:00:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Earth’s driest desert is covered in wildflowers right now",
+                "desc": "Spring has finally arrived in the Southern Hemisphere and, in Chile, even the desert is blossoming.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/18/4168168.jpg",
+                "url": "https://www.thestar.com.my/lifestyle/living/2026/10/19/earths-driest-desert-is-covered-in-wildflowers-right-now",
+                "source": "The Star",
+                "date": "2026-10-20T02:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Swedish bank SEB to pay fine due to lax money laundering controls",
+                "desc": "Swedish bank SEB to pay $33 million due to lax money laundering controls",
+                "image": "https://www.oreanda-news.com/aimg/101x16000/1603304/head_0.jpg",
+                "url": "https://www.oreanda-news.com/en/finansy/swedish-bank-seb-to-pay-fine-due-to-lax-money-laundering-controls/article1603304/",
+                "source": "ИА Ореанда-Новости",
+                "date": "2026-10-20T01:58:55Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Somalia Warns Media Against Propaganda for Militant Groups",
                 "desc": "Ministry cites press, anti-terrorism laws, says violators face legal action",
@@ -1806,98 +1896,8 @@
                 "source": "Blueprint Newspapers",
                 "date": "2026-10-18T19:09:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Albanian PM says protests pose threat to EU membership, not government",
-                "desc": "Albanian ​Prime Minister Edi Rama on Sunday rejected calls to step down and said street protests, which continued for ‌a sixth day, were a threat not to his government but to Albania's hopes of joining the European Union.",
-                "image": "https://www.reuters.com/resizer/v2/6DI5556ZEZPADDLQKE5GMSMYLI.jpg?auth=6289d38168e47714a6a265a8dac484604a5530aa115408fb23ea30b5512a1106&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/",
-                "source": "Reuters",
-                "date": "2026-10-18T13:47:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Botswana's president on UN \"Correct the Map\" resolution",
-                "desc": "The recently adopted United Nations resolution on correcting the map concerns more than choosing the",
-                "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/10/8504268_1792330396003_a_FB.jpg",
-                "url": "https://www.bastillepost.com/global/article/6265236-botswanas-president-on-un-correct-the-map-resolution",
-                "source": "巴士的報",
-                "date": "2026-10-18T13:47:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-                "desc": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f795/live/26bf0220-cacb-11f1-b5ff-6fb710f59c84.jpg",
-                "url": "https://www.bbc.com/news/articles/cv70pxe5j90eo",
-                "source": "BBC",
-                "date": "2026-10-18T13:47:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-                "desc": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f795/live/26bf0220-cacb-11f1-b5ff-6fb710f59c84.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo",
-                "source": "BBC",
-                "date": "2026-10-18T13:47:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "French police arrest at least 1,800 as nationwide protests continue",
-                "desc": "President Macron to hold emergency meeting with senior government officials before addressing the nation",
-                "image": "https://www.theglobeandmail.com/resizer/v2/ZPZYBUMD7NFZ5PND7XFC4SUH6U.jpg?auth=23a5151607ea617ccaf8bcac469c2f629ad31ef7af3485e6f78c7ddc1519234a&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/article-french-protest-police-arrest/",
-                "source": "The Globe and Mail",
-                "date": "2026-10-18T13:43:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Two killed, 11 injured after ute ploughs through US soccer match",
-                "desc": "Two people have been killed and 11 others were injured after a ute ploughed through a soccer match in the US.",
-                "image": "https://static.ffx.io/images/$zoom_1.092%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_23%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/ba35ab5dacab088181d49c841cab3d0720e975585c7fc1892cbd8592cb0a0c36",
-                "url": "https://www.nine.com.au/world-news/usa/two-killed-11-injured-after-truck-ploughs-through-us-soccer-match-20261018-p616ia.html",
-                "source": "Nine.com.au",
-                "date": "2026-10-18T13:38:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France says Israel must ‘stop these acts of terror’ following attack on EU diplomats",
-                "desc": "Video footage of the incident in Taybeh, north of Jerusalem, showed settlers confronting a convoy of diplomats.",
-                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/18/GettyImages-2298431727-scaled.jpg",
-                "url": "https://www.politico.eu/article/france-calls-on-israel-to-arrest-perpetrators-of-attack-on-eu-diplomats/",
-                "source": "POLITICO.eu",
-                "date": "2026-10-18T13:36:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenyan Business Owners Face Losses From Customer Cancellations Over Ebola Fears",
-                "desc": "Kenya’s imported Ebola cases and travel advisories trigger anxiety and cancellations, raising concern for hotels and operators ahead of the festive peak season.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/e4a4e86be1738c16.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/business-economy/economy/643594-kenyan-businesses-face-losses-ebola-fears-travel-advisories-lucrative-festive-season/",
-                "source": "Tuko News",
-                "date": "2026-10-18T13:34:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Global South deserves a stronger voice in global affairs",
-                "desc": "Vice President Professor Jane Naana Opoku-Agyemang has called on countries in the Global South to push for a more representative and equitable multilateral",
-                "image": "https://www.citinewsroom.com/wp-content/uploads/2026/09/JANE.jpeg",
-                "url": "https://www.citinewsroom.com/2026/10/global-south-deserves-a-stronger-voice-in-global-affairs-prof-opoku-agyemang/",
-                "source": "CitiNewsroom.com",
-                "date": "2026-10-18T13:29:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump is wearing his authoritarian mask with increasing confidence",
-                "desc": "The US President is preparing for a loss - and a gleeful descent into anarchy for his final, combative act",
-                "image": "https://inews.co.uk/wp-content/uploads/2026/10/SEI_317188159.jpg?crop=0px,26px,1920px,1085px&resize=1200,675",
-                "url": "https://inews.co.uk/news/world/trump-wearing-authoritarian-mask-increasing-confidence-4834769",
-                "source": "The i Paper",
-                "date": "2026-10-18T13:29:04Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-20T09:39:29.786067Z"
+    "lastGlobalSync": "2026-10-20T14:30:36.428308Z"
 }
