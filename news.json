@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Veggie Thursdays and vegan surprises! How Ghent became a plant-based paradise",
+                "desc": "In 2014, 13% of the population of this Belgian city described themselves as flexitarian. This year, 83% did. Here is how everyone was convinced to eat their greens – and love them",
+                "image": "https://i.guim.co.uk/img/media/5b336be97c03abce81a36f0b0f050097f040847a/894_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc872855b07ab186c2c7cccec14ec6f9",
+                "url": "https://www.theguardian.com/food/2026/oct/21/veggie-thursdays-vegan-surprises-ghent-plant-based-paradise",
+                "source": "The Guardian",
+                "date": "2026-10-21T05:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan Major Banks Accelerating Shift to IC Chip Verification",
+                "desc": "Tokyo, Oct. 21 (Jiji Press)--Major Japanese banks are increasingly shifting their identity verification method…",
+                "image": "https://www.nippon.com/en/ncommon/contents/news/3091951/3091951.jpg",
+                "url": "https://www.nippon.com/en/news/yjj2026102000942/",
+                "source": "nippon.com",
+                "date": "2026-10-21T05:39:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan Major Banks Accelerating Shift to IC Chip Verification",
+                "desc": "Tokyo, Oct. 21 (Jiji Press)--Major Japanese banks are increasingly shifting their identity verification method…",
+                "image": "https://www.nippon.com/en/ncommon/contents/news/3091951/3091951.jpg",
+                "url": "https://www.nippon.com/en/news/yjj2026102000942/japan-major-banks-accelerating-shift-to-ic-chip-verification.html",
+                "source": "nippon.com",
+                "date": "2026-10-21T05:39:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Greece tourism: August 2026 arrivals up 2.6%, with foreign visitors leading growth",
+                "desc": "Arrivals reached 7.43 million and overnight stays 34.69 million, with short-stay rentals up 5.2%, compared with just 1.5% for hotels and campsites.",
+                "image": "https://images.euronews.com/articles/stories/09/95/99/45/1200x675_cmsv2_6a4b8fbb-a184-59ae-889e-01540d3e8222-9959945.jpg",
+                "url": "https://www.euronews.com/2026/10/21/greece-tourism-august-2026-arrivals-up-26-with-foreign-visitors-leading-growth",
+                "source": "Euronews.com",
+                "date": "2026-10-21T05:30:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Missed reversal in IT stocks? Jefferies gives 3 ideas with up to 50% re-rating potential",
+                "desc": "Jefferies sees further valuation upside in Indian IT stocks despite a muted sector growth outlook. Infosys and TCS offer over 20% rerating potential, while Sagility could deliver more than 50% in a best-case scenario. The brokerage raised target prices for Infosys and TCS, citing scope for growth expectations to stabilise.",
+                "image": "https://img.etimg.com/thumb/msid-135083112,width-1200,height-900,imgsize-2051594,overlay-etmarkets/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/markets/stocks/news/missed-reversal-in-it-stocks-jefferies-gives-3-ideas-with-up-to-50-re-rating-potential/articleshow/135083074.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-10-21T05:30:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Adaptive multi-scale YOLOv8s framework for defect detection in photovoltaic facilities",
+                "desc": "Photovoltaic (PV) modules are widely used in building-integrated photovoltaic systems and renewable energy infrastructure. Accurate defect detection is essential for improving the reliability, energy efficiency, and sustainable operation of PV systems. However, existing deep learning-based inspection methods still suffer from missed detections, imprecise localisation of small defects, and limited robustness under complex operating conditions due to variations in defect scales and background interference. This study proposes an adaptive multi-scale attention-enhanced YOLOv8s framework (AMA-YOLOv8s) for intelligent PV module defect detection. Compared with the baseline YOLOv8s, the proposed framework incorporates three newly designed modules specifically developed for PV defect detection: the Adaptive Bottleneck Attention Mechanism (ABAM), Multi-scale Adaptive Fusion Module (MSAFM), and Adaptive Pooling Fusion Module (APFM). ABAM is introduced to enhance defect-related feature representation and suppress irrelevant background information, whereas MSAFM and APFM are designed to strengthen multi-scale feature fusion and improve the detection of small and irregular defects. In addition, a comprehensive PV defect dataset was constructed by integrating publicly available images, field-collected samples, and data augmentation strategies. Experimental results show that AMA-YOLOv8s achieves a precision of 93.2%, an F1-score of 92.7%, and an mAP@0.5 of 93.5% on the current evaluation dataset. Compared with the YOLOv8s baseline, the AMA-YOLOv8s provides incremental improvements in detection performance while maintaining a comparable real-time inference speed. Its overall performance is competitive with the evaluated detectors, although recent lightweight YOLO variants retain advantages in some individual metrics and computational complexity. These results demonstrate the practical effectiveness of the proposed coordinated attention and multi-scale feature-fusion design for PV defect detection.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-76816-y?error=cookies_not_supported&code=2191c79b-80b3-4df4-ae5e-3171c674939a",
+                "source": "Nature",
+                "date": "2026-10-21T05:27:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indonesia stock exchange chief defends MSCI after ex-minister alleges Singapore interference",
+                "desc": "MSCI considering downgrading Indonesia from “emerging market” to “standalone market” status in 2027. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/2afb6afffb24aff79fc129f73af7c6aeda576683d16a71960406f19e3457bbda?w=1200",
+                "url": "https://www.straitstimes.com/asia/se-asia/indonesia-stock-exchange-chief-defends-msci-after-ex-minister-alleges-singapore-interference",
+                "source": "The Straits Times",
+                "date": "2026-10-21T05:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jersey's low carbon heating scheme extended until 2030",
+                "desc": "Officials say people can receive up to £9,000 to help with installation costs for new heating.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5e31/live/1358f200-cc8c-11f1-bed8-c51b95c602ec.jpg",
+                "url": "https://www.bbc.com/news/articles/cw1467v0gdlyo",
+                "source": "BBC",
+                "date": "2026-10-21T05:24:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What to know about critical PHP vulnerability threatening Internet",
+                "desc": "Wordpress, MediaWiki and e-commerce platforms are potentially at risk.",
+                "image": "https://s.yimg.com/lo/mysterio/api/ecef977f8c897dabcf040ddb50a54ae76d069864eac60589bf3e34d100382d27/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fchron_hearst_841%2Fcab6c8b4cb2910c4a781cf2099a6b7e5.jpg",
+                "url": "https://tech.yahoo.com/cybersecurity/articles/know-critical-php-vulnerability-threatening-052457041.html",
+                "source": "Yahoo Tech",
+                "date": "2026-10-21T05:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stocks to jump; oil up on lack of US-Iran progress",
+                "desc": "Welcome back to the City AM liveblog for your top news, updates and analysis from the FTSE 100 and other UK markets.",
+                "image": "https://www.cityam.com/wp-content/uploads/2026/07/oil-prices-hormuz-strait.jpg",
+                "url": "https://www.cityam.com/ftse-100-live-stocks-to-jump-oil-tips-over-110-on-lack-of-us-iran-progress/",
+                "source": "City AM",
+                "date": "2026-10-21T05:23:42Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Elon Musk wants to merge Tesla and SpaceX",
                 "desc": "Elon Musk says the companies have taken preliminary steps towards sealing what would rank as the largest corporate tie-up of all time.",
                 "image": "https://static.ffx.io/images/$zoom_0.1441%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/00ac93ef6e6fa87b834a73551658c353703cef06",
@@ -542,99 +632,99 @@
                 "source": "Dentons",
                 "date": "2026-10-20T02:07:34Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "West Auckland gastropub The Attic to close its doors after 17 years",
-                "desc": "Popular West Auckland gastropub The Attic will close its doors this weekend after 17 years in business. The family-owned bar and restaurant in New Lynn is at...",
-                "image": "https://www.nzherald.co.nz/resizer/v2/HXHY3LRRYJD2HDN6X4ZDYK4WKM.jpg?auth=cd82f12690dcbfd5f12a0416f32dda1024c1f328213fb115e3a309049e6ebe49&width=1200&height=675&quality=70&focal=647%2C286&smart=false",
-                "url": "https://www.nzherald.co.nz/business/west-auckland-gastropub-the-attic-to-close-its-doors-after-17-years/XBOSG6WNOFGC3HS2T6XRZHKG6A/",
-                "source": "NZ Herald",
-                "date": "2026-10-19T21:35:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Velocity Frequent Flyer’s huge new partnership",
-                "desc": "Virgin Australia has announced a huge partnership with an Aussie cashback rewards platform in a move that could help boost more of its loyalty program members.",
-                "image": "https://content.api.news/v3/images/bin/96fce7de01233613b20d59a789bbc80e",
-                "url": "https://www.news.com.au/travel/travel-stories/velocity-frequent-flyers-huge-new-partnership/news-story/5be11c31eb4b914bd26b7d178bfffe1a",
-                "source": "News.com.au",
-                "date": "2026-10-19T21:34:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pay now, argue later: English Court restrains attempt to freeze letter of credit payment",
-                "desc": "The English High Court granted a final mandatory anti-suit injunction (“ASI”) requiring Société Nationale de Raffinage (“SONARA”), the buyer under a sale contract with Trafigura PTE Ltd (“Trafigura”), to discontinue foreign proceedings that sought to suspend payment under an irrevocable letter of credit (“LC”). SONARA relied on a carve-out in an exclusive jurisdiction clause in favour of the English High Court permitting “conservatory, interlocutory or interim actions in any court”.",
-                "image": "https://www.stephensonharwood.com/media/ef2hwvk1/adobestock_1227726463.jpeg?width=1200&height=630&format=webp&quality=85&v=1dc476bea55b330",
-                "url": "https://www.stephensonharwood.com/insights/pay-now-argue-later-english-court-restrains-attempt-to-freeze-letter-of-credit-payment/",
-                "source": "Stephenson Harwood",
-                "date": "2026-10-19T21:33:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-                "desc": "Does anyone else hear that ticking sound?",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-                "source": "The Verge",
-                "date": "2026-10-19T21:28:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Omaha drivers report gas station supply issues across the metro; Pillen signs EO to help",
-                "desc": "First Alert 6 has received multiple reports from viewers that gas stations in the metro are out of gas.",
-                "image": "https://gray-wowt-prod.gtv-cdn.com/resizer/v2/EZFWHQLBKJDABEGMA3THWAQDIU.jpg?auth=9aecdcc3f10862fb97703df1700fe96caf80b31f2eb27fc902bec140a1dde6f7&width=1200&height=600&smart=false&focal=559%2C935",
-                "url": "https://www.wowt.com/2026/10/19/omaha-drivers-report-gas-station-supply-issues-across-metro/",
-                "source": "WOWT",
-                "date": "2026-10-19T21:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Urgent recall of over 600 products as popular item sold to Irish shoppers in The Works recalled over 'chemical risk'",
-                "desc": "AN URGENT warning has been issued to Irish shoppers as The Works has recalled batches of balloons.\nThe Competition and Consumer Protection...",
-                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/09/productrecall-JS1034303680.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-                "url": "https://www.thesun.ie/news/17790686/irish-product-the-works-urgent-recall-chemical-risk/",
-                "source": "The Irish Sun",
-                "date": "2026-10-19T21:27:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GLP-1 injections recalled nationwide. See affected products",
-                "desc": "These GLP-1 injections have been recalled nationwide. Here's the affected medication and reasoning behind the recall.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/19/USAT/92334554007-getty-images-1216205233.jpg?crop=2120,1193,x0,y141&width=2120&height=1193&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/10/19/glp-1-injections-nationwide-recall/92332991007/",
-                "source": "USA Today",
-                "date": "2026-10-19T21:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Treasury trims borrowing as yields climb ahead of rate decision",
-                "desc": "The Marcos administration slightly fell short of its ₱55-billion fundraising target as borrowing costs rose amid expectations that the Bangko Sentral ng...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/10/19/140251.webp",
-                "url": "https://mb.com.ph/2026/10/19/treasury-trims-borrowing-as-yields-climb-ahead-of-rate-decision",
-                "source": "Manila Bulletin",
-                "date": "2026-10-19T21:25:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Investors buying unsold Toronto condos at 40% discount to original selling price, report finds",
-                "desc": "Six bulk buyers in the Toronto region bought 339 units in the most recent quarter, or 45% of new condo purchases, Urbanation report says",
-                "image": "https://www.theglobeandmail.com/resizer/v2/DQRX4T672NDT3MTH7SL5RZ26CU.JPG?auth=4a06485c513f7a1bf35ecdc61ab4f4b728fb93a48049156087e2a453b3a63a5a&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-investors-buying-toronto-region-condos-at-discount-urbanation-report/",
-                "source": "The Globe and Mail",
-                "date": "2026-10-19T21:23:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nvidia CEO Jensen Huang warns Germany is falling behind in AI race",
-                "desc": "German Chancellor Friedrich Merz and Huang are set to unveil a joint AI pact intended to speed up the integration of AI products across German industry.View on euronews",
-                "image": "https://s.yimg.com/lo/mysterio/api/da7beea46db850a0f7ec85c22c27d61cef23739a4c9f7b4e0e4fd8a3700d6d7f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_sg_articles_551%2Ffa1ad9ebba30d6eeaf95fc1b25dbed40.jpg",
-                "url": "https://sg.news.yahoo.com/nvidia-ceo-jensen-huang-warns-211222497.html",
-                "source": "Yahoo News Singapore",
-                "date": "2026-10-19T21:12:22Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Garmin Edge 1060 Cycling GPS Hands-On: Everything You Need to Know!",
+                "desc": "Everything you need to know about the Garmin Edge 1060, based on initial real-world ride data and hands-on thoughts!",
+                "image": "https://media.dcrainmaker.com/images/2026/10/1060YT1.jpg",
+                "url": "https://www.dcrainmaker.com/2026/10/garmin-edge-1060-cycling-gps-full-hands-on-details.html",
+                "source": "DC Rainmaker",
+                "date": "2026-10-21T05:40:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NYT Pips hints, answers for October 21, 2026",
+                "desc": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
+                "image": "https://helios-i.mashable.com/imagery/articles/013xLTcWyRPWDh2kXwgzkDe/hero-image.fill.size_1200x675.v1792560262.jpg",
+                "url": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-october-21-2026",
+                "source": "Mashable",
+                "date": "2026-10-21T05:37:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Based Conversation and Screen Recognition — BigGo Finance",
+                "desc": "Apple will begin offering its Gemini-based generative AI voice assistant \"Siri AI\" in Korean starting next week. Apple Korea held a demonstration on…",
+                "image": "https://img.biggo.com/8fEe7YarFtmRncyaEpjYtRavggcvKRczjV_B_ru64uI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2FiMzQ2MDFlLTZiZDctNDUzNy1hOGY5LTA5YTg0NGRkMjUzOV8xNzkyNTYxMjU0X2RlZmF1bHQud2VicA.jpg",
+                "url": "https://finance.biggo.com/news/ab34601e-6bd7-4537-a8f9-09a844dd2539",
+                "source": "BigGo Finance",
+                "date": "2026-10-21T05:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple iPhone 17 Pro price drops to Rs 72,050 on Flipkart with exchange offer",
+                "desc": "The Apple iPhone 17 Pro (256GB) is available at an effective price of Rs 72,050 on Flipkart with an eligible iPhone 16 Pro exchange and HDFC Bank discount.",
+                "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260210150230_iphone17pro.jpg",
+                "url": "https://www.moneycontrol.com/technology/apple-iphone-17-pro-price-drops-to-rs-72-050-on-flipkart-with-exchange-offer-article-14056490.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-10-21T05:29:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What to know about critical PHP vulnerability threatening Internet",
+                "desc": "Wordpress, MediaWiki and e-commerce platforms are potentially at risk.",
+                "image": "https://s.yimg.com/lo/mysterio/api/ecef977f8c897dabcf040ddb50a54ae76d069864eac60589bf3e34d100382d27/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fchron_hearst_841%2Fcab6c8b4cb2910c4a781cf2099a6b7e5.jpg",
+                "url": "https://tech.yahoo.com/cybersecurity/articles/know-critical-php-vulnerability-threatening-052457041.html",
+                "source": "Yahoo Tech",
+                "date": "2026-10-21T05:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HPE to test AI and high performance computing on the Moon",
+                "desc": "Hewlett Packard Enterprise (HPE), an American multinational business information technology company, plans to send its Spaceborne Computer 4 module to the Moon, where it will run artificial intelligen…",
+                "image": "https://w.media/wp-content/uploads/2026/10/FullMoon2010-1024x973.jpg",
+                "url": "https://w.media/hpe-to-test-ai-and-high-performance-computing-on-the-moon/",
+                "source": "W.Media",
+                "date": "2026-10-21T05:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Skyrim one-in-a-million dragon glitch sees player's wedding crashed",
+                "desc": "This Wedding Crashers reboot is weird 🐲",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt778f2266f95cab21/6ad74e90d0562815391674c3/skyrimdragonwedding.png",
+                "url": "https://www.gamingbible.com/news/skyrim-dragon-glitch-crashes-players-wedding-421846-20261020",
+                "source": "GAMINGbible",
+                "date": "2026-10-21T05:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spotify introduces paid memberships and tiered perks for podcasters",
+                "desc": "Spotify has launched Memberships, a way for podcast creators to earn recurring revenue from their most engaged fans. The feature began rolling out on…",
+                "image": "https://erp.adgully.com/artical_image/c558a954b3c30996a63f82390638f223.jpeg",
+                "url": "https://www.adgully.com/post/22561/spotify-introduces-paid-memberships-and-tiered-perks-for-podcasters",
+                "source": "Adgully",
+                "date": "2026-10-21T04:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation 5 Jailbreak Reveals PS5 Console Can Natively Play PS2 Discs All Along",
+                "desc": "Following the recent jailbreak the PlayStation 5, community developers have discovered that the console could read PS2 discs all along.",
+                "image": "https://geekculture.co/wp-content/uploads/2024/09/Feature-Playstation-30-Anniv.jpg",
+                "url": "https://geekculture.co/playstation-5-jailbreak-reveals-ps5-console-can-natively-play-ps2-discs-all-along/",
+                "source": "Geek Culture",
+                "date": "2026-10-21T04:57:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+                "desc": "PHP2Shell involves two critical PHP RCE flaws rated CVSS 9.2, with emergency fixes scheduled following a disclosure leak.",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1700-nu-rw-lo-l85-e365/php2shell.jpg",
+                "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+                "source": "The Hacker News",
+                "date": "2026-10-21T04:57:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "‘Worth It’: Beauty Writer Tests Panasonic Ionic Hair Straightener",
                 "desc": "Once you find your perfect straightener, chances are it will stay with you for a long, long time.",
@@ -1174,99 +1264,99 @@
                 "source": "AFP.com",
                 "date": "2026-10-20T02:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Manager Admits AI Use, Built Game in 3 Hrs",
-                "desc": "Xbox strategy manager Brandon Stirrup says Microsoft uses AI and built a playable game in 3 hours with Unreal Engine and MCP tools.",
-                "image": "https://tech-insider.org/wp-content/uploads/2026/10/xbox-manager-ai-game-3-hours-2026-gen.webp",
-                "url": "https://tech-insider.org/xbox-manager-ai-game-3-hours-2026/",
-                "source": "https://tech-insider.org/",
-                "date": "2026-10-19T21:25:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Android Users Find Google Is Quietly Linking Your Phone Number To Different Accounts",
-                "desc": "Google says this automated system is for security, and can be disabled. If left alone, it'll connect your number to any logged-in account.",
-                "image": "https://www.bgr.com/img/gallery/android-users-find-google-is-quietly-linking-your-phone-number-to-different-accounts/l-intro-1792435658.jpg",
-                "url": "https://www.bgr.com/2290803/google-quietly-linking-phone-number-accounts-android/",
-                "source": "BGR",
-                "date": "2026-10-19T21:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone Satellite Provider Confirms Deal with Android-Focused Skylo",
-                "desc": "Skylo, which offers the satellite messaging on Google Pixel and Verizon's eligible devices, wants to tap the satellite network from Globalstar, which Amazon is acquiring.",
-                "image": "https://i.pcmag.com/imagery/articles/04iicbCzLfXoTPxntMLyPwP-1.fit_lim.size_1200x630.v1792441363.jpg",
-                "url": "https://www.pcmag.com/news/iphone-satellite-provider-confirms-deal-with-android-focused-skylo",
-                "source": "PCMag",
-                "date": "2026-10-19T21:14:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone Satellite Provider Confirms Deal with Android-Focused Skylo",
-                "desc": "Skylo, which offers the satellite messaging on Google Pixel and Verizon's eligible devices, wants to tap the satellite network from Globalstar, which Amazon is acquiring.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/i/iphone-sat/iphone-satellite-provider-confirms-deal-with-android-focused_naeq.1200.jpg",
-                "url": "https://au.pcmag.com/networking/120526/iphone-satellite-provider-confirms-deal-with-android-focused-skylo",
-                "source": "PCMag Australia",
-                "date": "2026-10-19T21:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EFF's Privacy Badger Anti-Tracking Extension Expands to Safari",
-                "desc": "The Electronic Frontier Foundation (EFF) today announced the launch of Privacy Badger for Safari on macOS.",
-                "image": "https://images.macrumors.com/t/EeiPx7r-BVkWiZXHcO_ztsvj8NU=/1600x/article-new/2026/10/eff-privacy-badger-safari.jpg",
-                "url": "https://www.macrumors.com/2026/10/19/eff-privacy-badger-safari/",
-                "source": "MacRumors",
-                "date": "2026-10-19T21:10:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 Devs at Rockstar Had Freedom to Add Cool Features Like RDR2's Horse Balls",
-                "desc": "Rockstar Games gave the GTA 6 developers so much freedom to add cool details that not even the studio's top executives are aware of everything in the game.",
-                "image": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls",
-                "source": "IGN",
-                "date": "2026-10-19T21:06:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hackers Turn AOMEI Update Servers Into Malware Channels",
-                "desc": "A backup and recovery software's update logic was weaponized to push malware from attacker-controlled servers in short bursts of time, researchers found.\nWithout",
-                "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/hackers-turn-aomei-update-servers-into-malware-channels-image_large-10-a-33147.jpg",
-                "url": "https://www.bankinfosecurity.com/hackers-turn-aomei-update-servers-into-malware-channels-a-33147",
-                "source": "BankInfoSecurity",
-                "date": "2026-10-19T21:01:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I freed up 10GB of storage by replacing 5 Google apps with smaller alternatives",
-                "desc": "YouTube Music is the biggest offender",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/10/google-pixel-phone-with-red-and-blue-wallpaper-and-apps-on-the-home-screen.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/i-recovered-10gb-storage-after-i-replaced-these-5-google-apps-with-alternatives/",
-                "source": "Android Police",
-                "date": "2026-10-19T21:00:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Series X will offer identical graphics to the base PS5 in Grand Theft Auto VI",
-                "desc": "A comparison of current console prices and specifications in 2026 showed that the base PlayStation 5 costs $150 less than the Xbox Series X and will provide absolutely identical graphics quality in Grand Theft Auto VI.",
-                "image": "https://gamegpu.com/images/1_2026/NEWS/Q4/okt/20/wp5g8mwp5g8mwp_gpu.webp#joomlaImage://local-images/1_2026/NEWS/Q4/okt/20/wp5g8mwp5g8mwp_gpu.webp?width=1920&height=1080",
-                "url": "https://en.gamegpu.com/news/igry/xbox-series-x-predlozhit-identichnuyu-s-bazovoj-ps5-grafiku-v-grand-theft-auto-vi",
-                "source": "GameGPU",
-                "date": "2026-10-19T20:48:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GALAX Prepares GeForce RTX 5090 HOF with Swarovski Crystals",
-                "desc": "GALAX has officially teased its GeForce RTX 5090 Hall of Fame Edition GPU, featuring unique details with Swarovski crystals. What the company originally showcased at Computex 2026 now appears to be a product scheduled for launch on October 22. The GeForce RTX 5090 HOF maintains the distinctive...",
-                "image": "https://www.techpowerup.com/img/lY9h7OQtGy9fsBov.jpg",
-                "url": "https://www.techpowerup.com/353883/galax-prepares-geforce-rtx-5090-hof-with-swarovski-crystals",
-                "source": "TechPowerUp",
-                "date": "2026-10-19T20:47:06Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Veggie Thursdays and vegan surprises! How Ghent became a plant-based paradise",
+                "desc": "In 2014, 13% of the population of this Belgian city described themselves as flexitarian. This year, 83% did. Here is how everyone was convinced to eat their greens – and love them",
+                "image": "https://i.guim.co.uk/img/media/5b336be97c03abce81a36f0b0f050097f040847a/894_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc872855b07ab186c2c7cccec14ec6f9",
+                "url": "https://www.theguardian.com/food/2026/oct/21/veggie-thursdays-vegan-surprises-ghent-plant-based-paradise",
+                "source": "The Guardian",
+                "date": "2026-10-21T05:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa: Anglicans Will Advocate to Protect Oceans As 'Lungs of the Earth' At the United Nations Biodiversity COP17",
+                "desc": "An Anglican delegation will attend the United Nations Convention on Biological Diversity (UNCBD) COP17 in Yerevan, Armenia. They will call for justice for oceans, just finance for those most at risk and a cleaner agricultural system, acknowledging Indigenous wisdom.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202610210043.html",
+                "source": "allAfrica.com",
+                "date": "2026-10-21T05:38:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "France announces nightly curfews 'for as long as necessary' : NPR",
+                "desc": "Fresh curfews were being imposed across the city centers of Paris and Lyon on Tuesday after the first quiet night since France's most destructive rioting in years.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2Fcd%2F4dfd57f244ba9085398efe36fded%2Fap26293462231845.jpg",
+                "url": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
+                "source": "NPR",
+                "date": "2026-10-21T05:37:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Multiple vessels respond after ferry catches fire off Merak, Indonesia",
+                "desc": "A Ro-Pax ferry operated by Indonesian state-owned entity ASDP caught fire while approaching Merak Port in Banten province on Tuesday, October 20.",
+                "image": "https://media.assettype.com/bairdmaritime%2F2026-10-21%2Fkerni03a%2Ff2e11827_37cc_42a6_9fdf_a149ab81f098.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                "url": "https://www.bairdmaritime.com/security/incidents/accidents/batumandi-ferry-fire-merak-evacuation",
+                "source": "Baird Maritime",
+                "date": "2026-10-21T05:36:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sudanese drone attack on market kills more than 150 people",
+                "desc": "Sudan's civil war has spilled over into disputed territory, causing mass casualties along its border with South Sudan.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/4dc1261aecf060eab16b36d712b469c0?impolicy=wcms_watermark_news&cropH=2295&cropW=4080&xPos=0&yPos=382&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-10-21/deadly-sudanese-drone-attack-amiet-market-abyei/107291466",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-10-21T05:34:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran to Pakistan’s army chief: No talks with Washington before our demands are met",
+                "desc": "Iran has informed Pakistan’s Army Chief that it will not engage in talks with Washington until its demands are fulfilled, emphasizing its firm stance despite mediation efforts by Pakistan.",
+                "image": "https://assets.maestronewsroom.com/media/shared/wires/ap/20261020/d34dd1194c8a-Iran_War_21857--1b5b2.jpg",
+                "url": "https://www.arabnews.com/world/iran-to-pakistans-army-chief-no-talks-with-washington-before-our-demands-are-met-3007469",
+                "source": "Arab News",
+                "date": "2026-10-21T05:27:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Europe passes the Ukraine hat",
+                "desc": "Presented by Amazon By GERARDO FORTUNA with ZOYA SHEFTALOVICH and MAX GRIERA PRESENTED BY Send tips here | Follow us @gerardofortuna @NicholasVinocur @GabrielGavin | Listen to Playbook and view in …",
+                "image": "https://www.politico.eu/wp-content/uploads/2025/02/04/Brussels-Playbook.png",
+                "url": "https://www.politico.eu/newsletter/brussels-playbook/europe-passes-the-ukraine-hat/",
+                "source": "POLITICO.eu",
+                "date": "2026-10-21T05:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Video Claims To Show Luxury Goods Looted In France Riots Being Sold Cheaply On Streets",
+                "desc": "The suspected looting has also extended to online resale platforms, with listings believed to contain stolen luxury goods reportedly appearing on Vinted, a popular second-hand marketplace.",
+                "image": "https://c.ndtvimg.com/2026-10/q6vm6c2g_luxury-goods_625x300_21_October_26.jpeg",
+                "url": "https://www.ndtv.com/world-news/france-riots-video-claims-to-show-looted-luxury-goods-including-designer-bags-being-sold-cheaply-on-streets-12213575",
+                "source": "NDTV",
+                "date": "2026-10-21T05:25:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "brewed Boag's beers come off production line as brewer exits home state",
+                "desc": "The Tasmanian brewery has been operating longer than the state has had electricity, but now, the state icon will be brewed elsewhere.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/ff04e1313458c678d710d38ee1baf161?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-10-21/tas-boags-launceston-last-beers-on-production-line/107282468",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-10-21T05:25:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thai FM urges China to keep tourist warnings proportionate to situation",
+                "desc": "Thailand’s foreign minister has urged the Chinese Embassy to ensure its travel warnings are proportionate to the situation and avoid causing unnecessary panic, following a recent warning to Chinese nationals about suspected kidnapping schemes involving fake job offers and alleged trafficking to the Thai-Myanmar border. Deputy Prime Minister and Foreign Minister Sihasak Phuangketkeow made the […]",
+                "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/10/855422105_1413207017126307_7453214129171457992_n.jpg",
+                "url": "https://www.khaosodenglish.com/news/2026/10/21/thai-fm-urges-china-to-keep-tourist-warnings-proportionate-to-situation/",
+                "source": "Khaosod English",
+                "date": "2026-10-21T05:24:36Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Vessel with Dangote refinery equipment arrives in Lamu",
                 "desc": "A second vessel from China delivered 154 pieces of heavy construction equipment to Lamu for the Dangote East Africa refinery and petrochemical complex.",
@@ -1806,98 +1896,8 @@
                 "source": "ИА Ореанда-Новости",
                 "date": "2026-10-20T01:58:55Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Somalia Warns Media Against Propaganda for Militant Groups",
-                "desc": "Ministry cites press, anti-terrorism laws, says violators face legal action",
-                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgr5pViZM7QIiEJKUhacv8lX3FZgLxHd4tNS9q",
-                "url": "https://www.dawan.africa/news/somalia-warns-media-against-propaganda-for-militant-groups",
-                "source": "Dawan Africa",
-                "date": "2026-10-19T21:36:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Scott Jennings Ruthlessly Chewed Out On-Air With 1 Spectacular Katie Zacharia Diss",
-                "desc": "“You should be above this,” a Democratic strategist told MAGA-friendly Scott Jennings during a tongue-lashing on CNN.",
-                "image": "https://img.huffingtonpost.com/asset/6ad64f691c00005f6c265b35.png?cache=EgjCnFD7YX&ops=1200_630",
-                "url": "https://www.huffpost.com/entry/scott-jennings-katie-zacharia-diss_n_6ad62dd4e4b05d72fd929199",
-                "source": "HuffPost",
-                "date": "2026-10-19T21:33:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Germany Drops Boeing MQ-28 Ghost Bat Rapid Procurement Plan",
-                "desc": "A broader competition for Germany’s CCA requirement is now likely to extend into the next decade. A broader competition for Germany’s CCA requirement is now likely to extend into the next decade.",
-                "image": "https://www.twz.com/wp-content/uploads/2026/10/MQ-28-AND-F-35.jpg?w=1200",
-                "url": "https://www.twz.com/air/germany-drops-boeing-mq-28-ghost-bat-rapid-procurement-plan",
-                "source": "TWZ",
-                "date": "2026-10-19T21:32:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France announces curfews as government grapples with unrest",
-                "desc": "The government vowed to restore order amid accusations of failing to anticipate and respond to the violence, as officials sought to quell public anger.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/10/39caf6da-00f7-4b31-be28-ff299251d1d5-EPA-France-Protest-20102026.webp",
-                "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/20/france-announces-curfews-as-government-grapples-with-unrest",
-                "source": "Free Malaysia Today",
-                "date": "2026-10-19T21:30:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-                "desc": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg",
-                "url": "https://www.bbc.com/news/articles/ck87ze7wl4qno",
-                "source": "BBC",
-                "date": "2026-10-19T21:30:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Close up your borders'",
-                "desc": "US President Donald Trump on Monday again blamed immigration for protests and violence that have rocked France in recent days, urging Europe and French President Emmanuel Macron to tighten borders.",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/AFP__20260902__2293211242__v1__MidRes__PresidentTrumpMeetsWithTravelExecutivesInTheO.jpg",
-                "url": "https://www.vanguardngr.com/2026/10/close-up-your-borders-trump-blames-french-unrest-on-immigration/",
-                "source": "Vanguard News",
-                "date": "2026-10-19T21:26:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-                "desc": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8d92/live/581e2ba0-cbfe-11f1-a0c1-e5a096ec3cfb.jpg",
-                "url": "https://www.bbc.com/news/articles/cx30ez03djyqo",
-                "source": "BBC",
-                "date": "2026-10-19T21:14:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ten Years After Arbitration, South China Sea Rules Tested",
-                "desc": "A decade ago the Philippines won a legal victory invalidating China's sweeping claims in the South China Sea, but China has intensified its efforts to",
-                "image": "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg",
-                "url": "https://www.miragenews.com/ten-years-after-arbitration-south-china-sea-1762966/",
-                "source": "Mirage News",
-                "date": "2026-10-19T21:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘I have never felt anything so painful in my life’: Irish caught in French riots",
-                "desc": "An Irish student protester and a Limoges resident share experiences of street violence and tear gas in France",
-                "image": "https://www.irishtimes.com/resizer/v2/3CGSCPU37FHHLGESVXJQTIRGDQ.jpg?smart=true&auth=9e228bf037e285a76cf03e6f9f25d7fb6800354be7e9a69b9510a7324f16c934&width=1200&height=630",
-                "url": "https://www.irishtimes.com/world/europe/2026/10/19/it-was-like-having-tabasco-poured-in-my-eyes-irish-caught-in-french-riots-recall-chaos/",
-                "source": "The Irish Times",
-                "date": "2026-10-19T21:11:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eye-Popping Total Trump Wants to Cash Out of White House Exposed",
-                "desc": "The president is dead set on a jaw-dropping amount, his longtime biographer alleged.",
-                "image": "https://media.thedailybeast.com/resizer/v2/U7JH3VLEA5ERPCU4ILZ3K5GKNQ.JPG?auth=e9160dd824cc7c035289447d809822b72587101dd63476c6dbe3ea7c5a35ae58&width=1200&height=630&focal=996%2C561",
-                "url": "https://www.thedailybeast.com/eye-popping-total-trump-wants-to-cash-out-of-white-house",
-                "source": "The Daily Beast",
-                "date": "2026-10-19T21:09:59Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-21T12:27:36.829991Z"
+    "lastGlobalSync": "2026-10-21T17:40:38.720298Z"
 }
