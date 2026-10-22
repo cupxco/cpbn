@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Stock Market Today, Oct. 21: Airline Shares Rise After United Issues Stronger Revenue Guidance",
+                "desc": "American Airlines climbed alongside sector peers on Oct. 21, 2026, as United's upbeat outlook reignited investor appetite for the group.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4e61e6ee6bfdb1377a43f80cc8b1c942fc0d8fa9-1200x800.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-today-oct-21-airline-shares-rise-after-united-issues-stronger-revenue-guidance/",
+                "source": "The Motley Fool",
+                "date": "2026-10-21T21:36:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IBM Stock Jumps After Posting Bounce-Back Quarter",
+                "desc": "IBM stock jumped after the tech giant reported third-quarter results that handily beat Wall Street expectations.",
+                "image": "https://www.investors.com/wp-content/uploads/2017/10/stock-IBM-02-shutter.jpg",
+                "url": "https://www.investors.com/news/technology/ibm-stock-q3-2026-earnings-ibm-news/",
+                "source": "Investor's Business Daily",
+                "date": "2026-10-21T21:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tesla roars back as profits beat expectations",
+                "desc": "Elon Musk’s company records strong demand for its vehicles and European sales continue their recovery",
+                "image": "https://www.thetimes.com/imageserver/image/16d2ce05-834f-40c4-86d6-b7e92fd1b50b.jpg?strip=all&format=webp&crop=5282px%2C2971px%2C0px%2C390px&resize=1200",
+                "url": "https://www.thetimes.com/business/companies-markets/article/tesla-profits-beat-expectations-gl2xfcncb",
+                "source": "The Times",
+                "date": "2026-10-21T21:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Walmart launches tools for AI agents to shop for customers",
+                "desc": "Walmart on Wednesday intrduced new tools that will allow artificial intelligence agents to shop and complete ​transactions for customers, as the retailer seeks to position ‌itself in the growing use of AI-powered assistants in online commerce.",
+                "image": "https://www.reuters.com/resizer/v2/FNV7BWA2URPP7CUWSZPAGTU2AQ.jpg?auth=86b3f41341c84252369b29d6e50bfd18dd5d40b5d85b233f7490b8ec51392d48&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
+                "source": "Reuters",
+                "date": "2026-10-21T21:29:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta's Muse AI agent achieves strong growth, company introduces new shares to power investments",
+                "desc": "Meta introduced new non-voting shares on ​Wednesday in a move that would help fund the social media giant's costly AI expansion, as it reported strong growth of its consumer ‌AI agent app Muse.",
+                "image": "https://www.reuters.com/resizer/v2/5KVTQ2N7HFJQRMESHSLSKCHPNE.jpg?auth=b77c4238b27d89d649327ddb51416202dc892d0e6cfb1bae5a25c1ed1a8f0d27&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21/",
+                "source": "Reuters",
+                "date": "2026-10-21T21:23:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Crypto Market Today, Oct. 21: Bitcoin Rebounds on Tech Rally",
+                "desc": "Today, Oct. 21, 2026, Bitcoin pushed back above $84,000, the OCC moved forward with stablecoin rules, and Solana launched a major network upgrade.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa3f885889017d89ccb5e9170d65a7cc17a70d7da-2121x1414.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/coverage/stock-market-today/2026/10/21/crypto-market-today-oct-21-bitcoin-rebounds-on-tech-rally/",
+                "source": "The Motley Fool",
+                "date": "2026-10-21T21:21:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Node.js fixes its own and inherited security vulnerabilities",
+                "desc": "New releases for Node.js 22.x, 24.x and 26.x fix high-severity vulnerabilities and protect against compromised eMudhra certificates.",
+                "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/6/8/8/9/shutterstock_2033447216-267e128890ac87b3.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+                "url": "https://www.heise.de/en/news/Node-js-fixes-its-own-and-inherited-security-vulnerabilities-11496143.html",
+                "source": "heise online",
+                "date": "2026-10-21T21:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flapping Airplanes raises $1B at $6B valuation - TechCrunch",
+                "desc": "AI startup Flapping Airplanes announced a $1 billion Series A round co-led by Index and Lux, reportedly at a $6 billion valuation.",
+                "image": "https://cdn-cabinet.ua.news/uploads/images/flapping_airplanes_raises_1b_at_6b_valua_1792616743917.webp",
+                "url": "https://ua.news/en/technologies/shi-startap-flapping-airplanes-zaluchiv-1-mlrd-za-otsinki-u-6-mlrd-techcrunch",
+                "source": "UA.NEWS",
+                "date": "2026-10-21T21:17:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meta spent $9.89 billion on child safety lawsuit settlement",
+                "desc": "Meta spent $9.89 billion on part of a child safety lawsuit settlement in the United States, while reporting $64.60 billion in quarterly revenue.",
+                "image": "https://cdn-cabinet.ua.news/uploads/images/meta_spent_989bn_on_child_safety_settlem_1792616451674.webp",
+                "url": "https://ua.news/en/technologies/meta-vitratila-9-89-mlrd-na-vreguliuvannia-pozovu-pro-bezpeku-ditei-the-verge",
+                "source": "UA.NEWS",
+                "date": "2026-10-21T21:17:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anthropic, music publishers square off on 'fair use' defense in AI copyright case",
+                "desc": "Anthropic urged ‌a judge in California on Wednesday to rule that the AI company's use of millions of song lyrics to train its chatbot Claude is protected as \"fair use\" under US copyright law, as it seeks to scuttle a lawsuit brought by Universal Music Group and other music ​publishers.",
+                "image": "https://www.reuters.com/resizer/v2/NPHH7KSA7VISZHR6S6RAPYY4YU.jpg?auth=7de4bed8614017c848e17c8dae5c3c7391763e081daa67a17e8aef2ecdcd236d&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/legal/legalindustry/anthropic-music-labels-make-key-arguments-ai-training-case-2026-10-21/",
+                "source": "Reuters",
+                "date": "2026-10-21T21:17:07Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "UK's FTSE 100 ticks higher on energy boost; hot inflation report limits gains",
                 "desc": "Oct 21 (Reuters) - Britain's FTSE 100 edged higher on Wednesday, supported by gains in oil majors and financial stocks, though hotter-than-expected inflation reinforced expectations of a Bank of England interest rate hike, limiting the index's upside. The blue-chip FTSE 100 index rose 0.1% to 10,752.88 points, after two sessions of declines in a row. The midcap FTSE 250 was up 0.3%.",
                 "image": "https://live.euronext.com/favicon.ico",
@@ -542,99 +632,99 @@
                 "source": "POLITICO.eu",
                 "date": "2026-10-20T18:26:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ex-OpenAI executive builds $1.5 billion AI manufacturing startup Arda",
-                "desc": "Former OpenAI executive Bob McGrew is launching Arda at a $1.5 billion.",
-                "image": "https://image.cnbcfm.com/api/v1/image/107234139-1683045666002-gettyimages-1393983549-_dsc1598-denoiseai-standard.jpeg?v=1683122081&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
-                "source": "CNBC",
-                "date": "2026-10-20T13:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX (SPCX) Q3 2026 earnings report: Live updates",
-                "desc": "Follow SpaceX’s Q3 2026 earnings live, with updates on revenue, Starlink, AI spending, Starship, guidance and SPCX stock.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108432660-1792419718910-gettyimages-2283937543-260703_dcfairbrand_199.jpeg?v=1792419742&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
-                "source": "CNBC",
-                "date": "2026-10-20T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US housing starts fall to one of the worst paces since pandemic",
-                "desc": "New US residential construction declined in September to a four-month low and building permits for single-family homes slid, highlighting a struggling housing market.",
-                "image": "https://assets.theedgemarkets.com/20ushousing471499862_20261020205748_Bloomberg.jpg",
-                "url": "https://theedgemalaysia.com/node/822580",
-                "source": "The Edge Malaysia",
-                "date": "2026-10-20T12:59:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "€620k Ferrari and three Lamborghinis among vehicles seized by Revenue last year",
-                "desc": "Trucks and other vehicles with a combined value of €15.6m were seized over tax, fuel and smuggling issues",
-                "image": "https://www.irishtimes.com/resizer/v2/FERAMPSDMBE6HJQOTBIFNGOZJE.jpg?smart=true&auth=5e14859a9c649f9bfb082b8ecda871ff29fcf23211c67d7fd94bc72dd2e0f759&width=1200&height=630",
-                "url": "https://www.irishtimes.com/crime-law/2026/10/20/ferraris-and-lamborghinis-among-vehicles-seized-by-revenue-last-year/",
-                "source": "The Irish Times",
-                "date": "2026-10-20T12:58:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wait, Was Elon's \"Flying Car\" Just an Empty Shell?",
-                "desc": "Elon Musk has a history of misleading stunts, so it's unreasonable to wonder if his \"flying\" Roadster isn't all what it seems.",
-                "image": "https://futurism.com/wp-content/uploads/2026/10/elon-flying-car-empty-shell.jpg?w=1200",
-                "url": "https://futurism.com/advanced-transport/elon-flying-car-empty-shell",
-                "source": "Futurism",
-                "date": "2026-10-20T12:58:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Waymo To Launch Autonomous Ride",
-                "desc": "Waymo set to introduce a fully autonomous ride-hailing service in Madrid in 2027, its first in Spain, using electric Jaguar I-PACE vehicles.",
-                "image": "https://www.globalbankingandfinance.com/i/cloud-9e4bc133-bb65-4e45-b629-3cf1c4b9c7b9/width=1200,height=630,quality=80,format=auto,fit=cover/",
-                "url": "https://www.globalbankingandfinance.com/waymo-launch-autonomous-ride-hailing-madrid-next-year/",
-                "source": "Global Banking & Finance Review",
-                "date": "2026-10-20T12:56:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Power outage hits Google Cloud services disrupting UK banks",
-                "desc": "A power outage at a Google Cloud data centre in London caused serious network disruptions to its services Tuesday, the US tech giant said. The issue has since been \"mitigated\" for \"most\" customers, it added later.",
-                "image": "https://images.euronews.com/articles/stories/09/95/28/81/1200x675_cmsv2_523eb3cf-7bf2-5ab5-b179-3081a273e0f2-9952881.jpg",
-                "url": "https://www.euronews.com/2026/10/20/power-outage-hits-google-cloud-services-disrupting-uk-banks",
-                "source": "Euronews.com",
-                "date": "2026-10-20T12:56:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Shares down again as oil stays high; AI earnings in focus",
-                "desc": "Oct 20 : European shares fell and US stocks were set for a lower opening on Tuesday as another rise in crude oil prices kept risk sentiment in check, while investors homed in on results from AI bellwether companies later this week. The pan-European STOXX 600 slid 0.7 per cent after dropping close to 1 per ce",
-                "image": "https://dam.mediacorp.sg/image/upload/s--VGxngqjk--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-20T125555Z_1_LYNXMPEM9J12S_RTROPTP_3_EUROPE-STOCKS.JPG?itok=fk94guMo",
-                "url": "https://www.channelnewsasia.com/business/shares-down-again-oil-stays-high-ai-earnings-in-focus-6474216",
-                "source": "CNA",
-                "date": "2026-10-20T12:55:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TVS Ntorq 150 New Green Colour Launch Soon - Arrives At Dealer Showroom",
-                "desc": "Ahead of Diwali, TVS is set to launch a new Black-Green colour with Ntorq 150 and units have started to reach showrooms before launch.",
-                "image": "https://www.rushlane.com/wp-content/uploads/2026/10/new-tvs-ntorq-150-green-colour.jpg",
-                "url": "https://www.rushlane.com/tvs-ntorq-150-new-green-colour-launch-soon-arrives-at-dealer-showroom-12559044.html",
-                "source": "RushLane",
-                "date": "2026-10-20T12:55:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tesla Earnings Spotlight SpaceX Merger Talk. See What Musk, Analysts Say.",
-                "desc": "Wall Street analysts offer up their views about a potential Tesla-SpaceX merger, while CEO Elon Musk praises the two companies.",
-                "image": "https://www.investors.com/wp-content/uploads/2023/06/Stock-teslafrontnose-01-adobe.jpg",
-                "url": "https://www.investors.com/news/tesla-spacex-merger-ai-artificial-intelligence-tech/",
-                "source": "Investor's Business Daily",
-                "date": "2026-10-20T12:55:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "NASA Tests RS-25 Engine for Future Artemis Missions",
+                "desc": "2 min read\n\t\nNASA conducts a hot fire of RS-25 engine No. 10001 on the Fred Haise Test Stand at NASA's",
+                "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024",
+                "url": "https://www.miragenews.com/nasa-tests-rs-25-engine-for-future-artemis-1764491/",
+                "source": "Mirage News",
+                "date": "2026-10-21T21:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Music's New Look is Now Live on Apple's Website",
+                "desc": "As spotted by Hidde Collee, the Apple Music page on Apple's website now has the updated branding that Apple officially introduced earlier today.",
+                "image": "https://images.macrumors.com/t/s3vCy8a3oBZkGhbtYnSo7UODU0E=/1600x/article-new/2026/10/Apple-Music-New-Logo-on-Website.jpg",
+                "url": "https://www.macrumors.com/2026/10/21/apple-music-website-rebranded/",
+                "source": "MacRumors",
+                "date": "2026-10-21T21:24:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mchose Launches $69 R9 Wireless Gaming Headphones With AI Noise Cancelling Mic and Lightweight Design",
+                "desc": "Mchose has officially launched its latest set of affordable wireless gaming headphones, the R9, which retail for $69, but have a pre-order discount of $49. The Mchose R9 headphones focus on a balance of price, sound quality, and comfort, with a lightweight design that comes in at 235 g, a...",
+                "image": "https://www.techpowerup.com/img/T30OLK6gfm3LAkZC.jpg",
+                "url": "https://www.techpowerup.com/353972/mchose-launches-usd-69-r9-wireless-gaming-headphones-with-ai-noise-cancelling-mic-and-lightweight-design",
+                "source": "TechPowerUp",
+                "date": "2026-10-21T21:20:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple’s iPhone Duo Should Get Reachability Accessibility in an Upcoming Update",
+                "desc": "The $1,999 foldable phone is harder to use for left-handed people and those with smaller hands.",
+                "image": "https://www.cnet.com/wp-content/uploads/sites/2/P1001714.jpeg",
+                "url": "https://www.cnet.com/tech/mobile/apples-iphone-duo-reachability-accessibility-upcoming-update/",
+                "source": "CNET",
+                "date": "2026-10-21T21:16:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "University of Toronto Expert on What's Real",
+                "desc": "University of Toronto researcher Aviad Levis explains why AI deepfakes are harder to spot, how Canadians can avoid scams and what it means for trust.",
+                "image": "https://torontoguardian.com/wp-content/uploads/2026/10/pexels-cottonbro-5473956.jpg",
+                "url": "https://torontoguardian.com/2026/10/ai-deepfakes-how-to-spot-fake-images-videos/",
+                "source": "Toronto Guardian",
+                "date": "2026-10-21T21:11:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Broken Ranks Goes Global on Android - New International Servers and Full Cross-Platform Play Now Live",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Broken-Ranks-Goes-Global-on-Android---New-International-Servers-and-Fu",
+                "source": "Games Press",
+                "date": "2026-10-21T21:08:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Now the internet is passing the sniff test",
+                "desc": "New technology will enable smells to be recreated thousands of miles away using the web and could enhance video games and medical diagnoses",
+                "image": "https://www.thetimes.com/imageserver/image/49c06d70-d7fa-4e1d-ad0f-558740e622ff.jpg?strip=all&format=webp&crop=5340px%2C3004px%2C660px%2C96px&resize=1200",
+                "url": "https://www.thetimes.com/comment/the-times-view/article/internet-passing-sniff-test-89v5rswbl",
+                "source": "The Times",
+                "date": "2026-10-21T21:03:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Garmin releases major update to popular smartwatch with over a dozen improvements",
+                "desc": "Garmin has issued a new update for its Venu 4 smartwatch. Rolling out globally on its Beta Program, Beta 19.15 is said to contain 23 changes and improvements, including 14 bug fixes.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/venu-4-1915-update-release-kv.jpg",
+                "url": "https://www.notebookcheck.net/Garmin-releases-major-update-to-popular-smartwatch-with-over-a-dozen-improvements.1430490.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-10-21T21:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Watch Ben Gravy Learn to Ride an E-Foil (and Give His Van Away)",
+                "desc": "Riding a foil board is exceedingly hard to learn. Ben Gravy gave it a go, and he fared about as well as you'd expect. Then, he gave his iconic van away.",
+                "image": "https://www.theinertia.com/wp-content/themes/theinertia-zero/assets/favicon/favicon-96x96.png",
+                "url": "https://www.theinertia.com/surf/watch-ben-gravy-learn-to-ride-an-e-foil-and-give-his-van-away/",
+                "source": "The Inertia",
+                "date": "2026-10-21T21:02:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "You need to learn web development before trying to build desktop or mobile apps",
+                "desc": "Learning web first unlocks many skills for the other two platforms.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/react-code-in-vs-code.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/learn-web-development-before-desktop-or-mobile-apps/",
+                "source": "How-To Geek",
+                "date": "2026-10-21T21:00:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "DJI Osmo Pocket 4P Pearl White",
                 "desc": "The DJI Osmo Pocket 4P Pearl White is now available in Malaysia, featuring a mica-infused pearlescent finish alongside the same 1-inch CMOS sensor and dual lenses.",
@@ -1174,99 +1264,99 @@
                 "source": "How-To Geek",
                 "date": "2026-10-20T18:20:43Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Final Fantasy Resonance Review - Close To Classic Final Fantasy",
-                "desc": "While Final Fantasy Resonance doesn't hit the same high notes as some classic Final Fantasy games, it still forges its own path.",
-                "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/ff-resonance-big-crystal-aura.jpg?w=1600&h=900&fit=crop",
-                "url": "https://screenrant.com/final-fantasy-resonance-review/",
-                "source": "ScreenRant",
-                "date": "2026-10-20T13:00:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TextNow's $150 Moto G Play Is Customized for Kids and Pairs Up With a $20 Monthly Plan",
-                "desc": "The lower-cost phone has a parent portal for managing calls and texts, checking the phone’s location and enabling games.",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/Yello-TextNow-box-and-phone-compressed.jpg",
-                "url": "https://www.cnet.com/tech/mobile/textnows-150-moto-g-play-is-customized-for-kids-and-pairs-up-with-a-20-monthly-plan/",
-                "source": "CNET",
-                "date": "2026-10-20T13:00:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Added receptor helps CAR T cells stay in bone marrow in cancer mouse models",
-                "desc": "By turning a patient's own immune cells into stronger cancer-fighting cells, CAR T-cell therapy has transformed how some blood cancers are treated. But it's been harder to extend this approach to solid tumors, including cancer that has spread to the bone.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-find-ways.jpg",
-                "url": "https://phys.org/news/2026-10-added-receptor-car-cells-stay.html",
-                "source": "Phys.org",
-                "date": "2026-10-20T13:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ex-OpenAI executive builds $1.5 billion AI manufacturing startup Arda",
-                "desc": "Former OpenAI executive Bob McGrew is launching Arda at a $1.5 billion.",
-                "image": "https://image.cnbcfm.com/api/v1/image/107234139-1683045666002-gettyimages-1393983549-_dsc1598-denoiseai-standard.jpeg?v=1683122081&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
-                "source": "CNBC",
-                "date": "2026-10-20T13:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ASUS Zenbook 14 Arrives in Canada with Ceraluminum Design and OLED Visuals",
-                "desc": "Premium Ceraluminum™ design, OLED visuals, and a choice of Snapdragon, Intel, and AMD processors bring portable performance to more Canadian usersKEY POINTS The art of portability: Ceraluminum™ lids in Arctic Blue or Komodo Coral, depending on configuration, and a lightweight design starting at 1.10kg make it easy to work and connect anywhereIntelligence in every interaction: A choice of Snapdragon® X, Intel® Core™ Ultra Series 3, and AMD Ryzen™ AI processors brings efficient performance and up",
-                "image": "https://s.yimg.com/lo/mysterio/api/f6d519d94f47b4affa6b350748ddfd85786940e6bd854cee6c79fcc2e9943585/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F1ac53f0842405da507ebbaa87e6d5bc2.png",
-                "url": "https://finance.yahoo.com/technology/articles/asus-zenbook-14-arrives-canada-130000401.html",
-                "source": "Yahoo Finance",
-                "date": "2026-10-20T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nintendo Switch Sports Resort",
-                "desc": "Nintendo Switch Sports Resort (Switch 2) Review – 8/10: Nintendo Switch Sports Resort delivers a capable compilation of quick-hit sports minigames that can be easily enjoyed regardless of how many people are holding Joy-Cons. - Game Informer",
-                "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/10/19/b2d438f9/ns2_nintendoswitchsportsresort_scrn_14.jpg.webp",
-                "url": "https://gameinformer.com/review/nintendo-switch-sports-resort/still-in-motion",
-                "source": "Game Informer",
-                "date": "2026-10-20T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Critical Token Guard Auth Bypass Fixed in Laravel 13.29 and 12.68",
-                "desc": "A critical auth bypass in Laravel's token API guard let attackers log in as other users on MySQL and MariaDB. Update to 12.68.0 or 13.29.0.",
-                "image": "https://laravelnews.s3.amazonaws.com/featured-images/laravel-token-guard-auth-bypass-featured.png",
-                "url": "https://laravel-news.com/laravel-token-guard-auth-bypass",
-                "source": "Laravel News",
-                "date": "2026-10-20T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New LF Research Survey Shows Generative AI Cuts Open Source Coding Time in Half, but 25% of Incoming Pull Requests are Considered AI Slop",
-                "desc": "All Things Open 2026 – The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced a new research report, Navigating Open Source Software Development in the Generative AI Era: Challenges and Opportunities for Project Communities, exploring how GenAI is reshaping OSS development. Published by LF Research with sponsorship from Red Hat, the world's leading provider of open source solutions, and additional support from Futurewei, OpenSSF and LF AI &",
-                "image": "https://s.yimg.com/lo/mysterio/api/8f137023179afea5541358f2dc2ae0f576177872db749d53567cb670799190c0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F568fc912c707d7fae90de24a02190eee.jpg",
-                "url": "https://finance.yahoo.com/technology/ai/articles/lf-research-survey-shows-generative-130000945.html",
-                "source": "Yahoo Finance",
-                "date": "2026-10-20T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Antigravity just halved the price of its drone - by swapping its headset for wristwatch control",
-                "desc": "What it’s like to try the $800 Antigravity A1 Follow Me set, with watch and ring controllers instead of an FPV headset.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-antigravity-a1-sean-hollister-1.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-                "url": "https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control",
-                "source": "The Verge",
-                "date": "2026-10-20T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Final Fantasy Resonance review",
-                "desc": "Square Enix returns with new 2D-HD RPG Final Fantasy Resonance — out now on all major platforms. Read Empire's review.",
-                "image": "https://images.bauerhosting.com/celebrity/sites/42/2026/10/Final-Fantasy-Resonance-3.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
-                "url": "https://www.empireonline.com/gaming/reviews/final-fantasy-resonance/",
-                "source": "Empire",
-                "date": "2026-10-20T13:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Wild fish are a precious resource-here's how aquaculture can bolster food security",
+                "desc": "Small fish such as sardinella are an affordable source of protein and essential nutrients for millions of people across West Africa.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/wild-fish-are-a-precio.jpg",
+                "url": "https://phys.org/news/2026-10-wild-fish-precious-resource-aquaculture.html",
+                "source": "Phys.org",
+                "date": "2026-10-21T21:20:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Putin agrees to resume talks on Ukraine war with Kyiv and Washington, Kremlin says",
+                "desc": "Russian President Vladimir Putin agrees to resume US-mediated peace talks with Ukraine as soon as next month, following a meeting with US envoy Steve Witkoff.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/7ec50d0917635df96ca2cb5d6520e1b5?impolicy=wcms_watermark_news&cropH=2524&cropW=4487&xPos=0&yPos=53&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-10-22/putin-agrees-to-resume-three-way-talks-on-ukraine-war/107294994",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-10-21T21:17:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Carney says he'll hold Palestinian Authority 'to account' on elections",
+                "desc": "Prime Minister Mark Carney said he will be holding the Palestinian National Authority to account on its commitment to hold elections.",
+                "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/doug-ford0784.ph_305878387.jpg",
+                "url": "https://nationalpost.com/news/carney-says-canada-is-holding-the-palestinian-authority-to-account-on-elections-commitment",
+                "source": "National Post",
+                "date": "2026-10-21T21:14:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pope will not need further cancer treatment, doctors say",
+                "desc": "Medics indicate pontiff’s tumour had not spread, but doubts remain about planned trip to South America next month",
+                "image": "https://i.guim.co.uk/img/media/852a55925e208f589ba2e3abf9701df2fbbeb4a1/388_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0c48a8e912fcdd4f5a1d55ab4c89557",
+                "url": "https://www.theguardian.com/world/2026/oct/21/pope-leo-further-lung-cancer-treatment-doctors-vatican",
+                "source": "The Guardian",
+                "date": "2026-10-21T21:14:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US orders some embassy staff to leave Saudi Arabia as drone debris kills two near oilfield; Indian national among injured",
+                "desc": "The move comes as Saudi Arabia confirmed that two people were killed after debris from an intercepted drone fell near the Shaybah oilfield. | World News",
+                "image": "https://www.hindustantimes.com/ht-img/img/2026/10/21/1600x900/logo/saudi_attack_1792615189710_lmue_1792615189840_hcIY_25681bd7-3e36-41a1-bfd6-37fe97fb2ce7_pacy.JPG",
+                "url": "https://www.hindustantimes.com/world-news/indian-national-among-injured-as-drone-debris-kills-two-near-saudi-oilfield-us-orders-embassy-staff-to-leave-101792615045231.html",
+                "source": "Hindustan Times",
+                "date": "2026-10-21T21:13:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Drug menace next target, says Union home minister Amit Shah; eyes 2029 deadline",
+                "desc": "NEW DELHI: Stating that peace had been established in the country’s three primary hotspots — Jammu & Kashmir, the Northeast region and areas affected by",
+                "image": "https://static.toiimg.com/thumb/msid-135100686,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/india/drug-menace-next-target-says-union-home-minister-amit-shah-eyes-2029-deadline/articleshow/135100416.cms",
+                "source": "The Times of India",
+                "date": "2026-10-21T21:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stick Run creator Otto Manuel dies after setting himself on fire",
+                "desc": "An influencer who created the popular multiplayer game Stick Run has died aged 30 after reportedly setting themselves on fire during a livestream video.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/145988408.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/10/21/world-news/stick-run-creator-otto-manuel-dies-after-setting-himself-on-fire/",
+                "source": "New York Post",
+                "date": "2026-10-21T21:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "See Super Typhoon Champi’s giant eye as it swirls across the Pacific",
+                "desc": "At one point Wednesday, the eye was wider than the state of Rhode Island.",
+                "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/U475BHFPOBGVZBATSEGHJHF6HU.jpg&w=1440",
+                "url": "https://www.washingtonpost.com/weather/2026/10/21/see-super-typhoon-champis-giant-eye-it-swirls-across-pacific/",
+                "source": "The Washington Post",
+                "date": "2026-10-21T21:07:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "African Union targets digital ID, infrastructure gaps to advance single market",
+                "desc": "African Union ministers will review digital ID and DPI gaps as private infrastructure investment grows and questions persist over governance, service delivery.",
+                "image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2026/09/25134200/africa-digital-connectivity-scaled.jpg",
+                "url": "https://www.biometricupdate.com/202610/african-union-targets-digital-id-infrastructure-gaps-to-advance-single-market",
+                "source": "Biometric Update",
+                "date": "2026-10-21T21:04:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US orders departure of some embassy staff and families from Saudi Arabia amid Houthi threat",
+                "desc": "The US State Department ordered the departure of non-essential staff and family members at its US Embassy in Riyadh, a move that comes amid intensifying strikes on Saudi Arabia by the Iranian-allied Houthi militia in Yemen.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263973348.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/10/21/politics/us-orders-departure-embassy-staff-saudi-arabia",
+                "source": "CNN",
+                "date": "2026-10-21T21:01:03Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Lagos: Man dies while rescuing toddler from a well",
                 "desc": "A man has died while attempting to rescue a toddler who fell into a domestic well at Abule Egba, Lagos State, while the child’s body remains unrecovered.",
@@ -1806,98 +1896,8 @@
                 "source": "BBC",
                 "date": "2026-10-20T18:15:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Horror and disbelief after lawmaker attacked in rural Australia",
-                "desc": "WANGARATTA (Australia), Oct 20 — A rural Australian town felt a mix of horror and disbelief today after a highly respected lawmaker was gravely injured in what looked to be a...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/20/369457.jpg",
-                "url": "https://www.malaymail.com/news/world/2026/10/20/horror-and-disbelief-after-lawmaker-attacked-in-rural-australia/239830",
-                "source": "Malay Mail",
-                "date": "2026-10-20T13:00:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Akmal defamed Teresa with personal attacks over halal issue, says court",
-                "desc": "Judicial Commissioner Isa Aziz Ibrahim says the Umno Youth chief had no factual basis to accuse the DAP MP of undermining national harmony.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/09/28df059e-akmal-saleh-fmt-resize-220925-1.webp",
-                "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/20/akmal-defamed-teresa-with-personal-attacks-over-halal-issue-says-court",
-                "source": "Free Malaysia Today",
-                "date": "2026-10-20T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "We Explored Uganda With ADCCE 2026, From Lake Victoria to Murchison Falls | See Photos",
-                "desc": "ADCCE 2026 in Uganda brought together African events and hospitality professionals to discuss promoting Destination Africa, attracting international celebrations and strengthening Uganda’s event-ready hospitality ecosystem. - 'Fúnmilọ́lá Sanya. October 20, 2026",
-                "image": "https://www.bellanaija.com/wp-content/uploads/2026/10/B5A4137-1000x600.jpg",
-                "url": "https://www.bellanaija.com/2026/10/adcce-2026-uganda-conference-recap/",
-                "source": "BellaNaija",
-                "date": "2026-10-20T12:56:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "More Pioruns in the Polish Army",
-                "desc": "The Armament Agency is finalising the execution of a multi-year contract for the supply of Polish Piorun man-portable air-defence systems, and in the coming months, it will begin another, significantly larger agreement under the SAFE instrument.",
-                "image": "https://cdn.defence24.pl/2026/10/04/1920x1080px/DXfDcP0b0mNXz5UvPyIaGjM1n5YrqFuUYqmjBlBv.wh3j.jpg",
-                "url": "https://defence24.com/armed-forces/more-pioruns-in-the-polish-army",
-                "source": "Defence24.com",
-                "date": "2026-10-20T12:56:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yemen: Maps show 10 years of changing control",
-                "desc": "A decade of war has shifted Yemen’s front lines, but the Houthis still hold Sanaa, and no side controls the country.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/INTERACTIVE-Yemen_Map_Dated-1792050740.gif?resize=1200%2C630",
-                "url": "https://www.aljazeera.com/news/2026/10/20/yemen-maps-show-10-years-of-changing-control",
-                "source": "Al Jazeera",
-                "date": "2026-10-20T12:56:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "France and Germany Push \"Hard Tool\" on China Trade, But Europe's Internal Reforms Still Missing",
-                "desc": "French President Emmanuel Macron and German Chancellor Friedrich Merz sent a joint letter in early October to European Commission President Ursula von…",
-                "image": "https://img.biggo.com/UIBkrllao1oKDmWBqqQ20SzQG3TCFAs0u4j6Nfg4fJE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzBmOGQyZDMzLTAzNTMtNGU4NS1iM2Y5LTgzNjBkM2E2MDQ2MV8xNzkyNTAxMzIzX2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/0f8d2d33-0353-4e85-b3f9-8360d3a60461",
-                "source": "BigGo Finance",
-                "date": "2026-10-20T12:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Job expert gives salary and benefit breakdown of South African local politicians",
-                "desc": "South African content creator Boni Xaba’s breakdown of a ward councillor’s payslip sparks debate over politicians’ salaries and take-home pay. TUKO.co.ke",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/81e70b2c9751a79b.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/world/africa/643815-job-expert-salary-benefit-breakdown-south-african-local-politicians/",
-                "source": "Tuko News",
-                "date": "2026-10-20T12:54:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Zealand Lists 6 Occupations Excluded From Its Skilled Residence Pathways",
-                "desc": "New Zealand has adjusted its immigration framework by rolling out specific regulatory updates that impact foreign nationals planning to settle in the country.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/0c68824232e5690b.jpeg?v=1",
-                "url": "https://yen.com.gh/people/314154-new-zealand-lists-6-occupations-excluded-skilled-residence-pathways/",
-                "source": "Yen News",
-                "date": "2026-10-20T12:52:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Agile Dynamics signs international partnerships at Global Digital Forum in Moscow",
-                "desc": "International management consultancy firm Agile Dynamics has used the Global Digital Forum in Moscow to move forward with partnerships on Cuban biotech capital, sovereign Spanish AI, digital sovereig",
-                "image": "https://www.consultancy.eu/illustrations/news/spotlight/2026-10-20-124858370-Agile_Dynamics_signs_international_partnerships_at_Global_Digital_Forum_in_Moscow.jpg?webp",
-                "url": "https://www.consultancy.eu/news/14506/agile-dynamics-signs-international-partnerships-at-global-digital-forum-in-moscow",
-                "source": "Consultancy.eu",
-                "date": "2026-10-20T12:52:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Europe is preparing for direct talks with Putin, FT reports. One possible proposal: Russia gets Donbas, Ukraine gets NATO membership.",
-                "desc": "European leaders are rethinking their approach to the Kremlin, Financial Times foreign affairs columnist Gideon Rachman writes. More politicians in the European Union now agree that negotiations with Vladimir Putin should not remain the exclusive prerogative of the United States. European countries could soon open their own talks with the Kremlin. Channels of communication are already in place, he says.",
-                "image": "https://meduza.io/imgly/share/1792500755/en/feature/2026/10/20/europe-is-preparing-for-direct-talks-with-putin-ft-reports-one-possible-proposal-russia-gets-donbas-ukraine-gets-nato-membership",
-                "url": "https://meduza.io/en/feature/2026/10/20/europe-is-preparing-for-direct-talks-with-putin-ft-reports-one-possible-proposal-russia-gets-donbas-ukraine-gets-nato-membership",
-                "source": "Meduza",
-                "date": "2026-10-20T12:52:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-22T04:28:46.008615Z"
+    "lastGlobalSync": "2026-10-22T09:39:48.130486Z"
 }
