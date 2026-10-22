@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "UK's FTSE 100 ticks higher on energy boost; hot inflation report limits gains",
+                "desc": "Oct 21 (Reuters) - Britain's FTSE 100 edged higher on Wednesday, supported by gains in oil majors and financial stocks, though hotter-than-expected inflation reinforced expectations of a Bank of England interest rate hike, limiting the index's upside. The blue-chip FTSE 100 index rose 0.1% to 10,752.88 points, after two sessions of declines in a row. The midcap FTSE 250 was up 0.3%.",
+                "image": "https://live.euronext.com/favicon.ico",
+                "url": "https://live.euronext.com/en/financial-news/uks-ftse-100-ticks-higher-energy-boost-hot-inflation-report-limits-gains",
+                "source": "Euronext Markets: Real-time Stock Market Data | live",
+                "date": "2026-10-21T16:28:22Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "A system-based abstraction hierarchy framework for seismic risk assessment of urban transportation networks",
+                "desc": "Urban transportation networks are critical infrastructure for post-earthquake emergency response, making proactive seismic risk assessment essential. However, existing frameworks often examine transportation components, interdependencies, and cascading effects separately, making it difficult to integrate them into a unified seismic-risk framework for transportation systems. This study introduces the Urban Transportation System Abstraction Hierarchy (UTSAH), a directed graph–based framework integrating abstraction hierarchy theory with network analysis across five hierarchical levels. Within this framework, UTSAH identifies dominant risk drivers and critical transmission chokepoints within a unified hierarchical structure, enabling simultaneous diagnosis of where risk originates and how it propagates. By determining weighted interdependencies among 131 transportation-specific parameters spanning physical, functional, social, governance, economic, and environmental dimensions, UTSAH provides a unified multi-dimensional assessment of seismic risk propagation and cascading effects in urban transportation networks. Based on graph-based analysis, interventions are classified into three strategic objectives: (i) mitigating cascading effects by seismic retrofitting of vulnerable bridges and tunnels and strengthening construction quality control and periodic inspections; (ii) preserving system connectivity by maintaining emergency transportation network continuity and enhancing route redundancy; and (iii) strengthening vulnerable high-level goals by improving accessibility to critical service centers such as hospitals and fire stations. Overall, UTSAH provides a system-oriented decision-support tool for identifying and classifying candidate seismic risk mitigation strategies in urban transportation networks.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-77116-1?error=cookies_not_supported&code=7fb928e1-049a-4b49-b89a-1cbd4b567739",
+                "source": "Nature",
+                "date": "2026-10-21T16:27:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Is It Too Late to Buy Nvidia Stock?",
+                "desc": "Nvidia stock has soared more than 1,000% throughout the artificial intelligence (AI) revolution.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891809%2Fnvidia-headquarters-with-nvidia-sign-in-front-39.png&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/10/21/is-it-too-late-to-buy-nvidia-stock/",
+                "source": "The Motley Fool",
+                "date": "2026-10-21T16:27:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prediction: Coca-Cola Stock Is Going to Soar After Oct. 27",
+                "desc": "If investors are worried about an AI bubble, a reliable stock like Coca-Cola could be a perfect fit.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891186%2Fko-1.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/10/21/prediction-coca-cola-stock-is-going-to-soar-aft/",
+                "source": "The Motley Fool",
+                "date": "2026-10-21T16:27:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OCC finalizes stablecoin rule with narrow payment-of-interest prohibition",
+                "desc": "While the final rule includes positive steps, ABA disagrees with the OCC’s decision to move away from its position on stablecoin yield.",
+                "image": "https://bankingjournal.aba.com/wp-content/uploads/2025/04/OCC-seal-scaled.jpg",
+                "url": "https://bankingjournal.aba.com/2026/10/occ-finalizes-stablecoin-rule-with-narrow-payment-of-interest-prohibition/",
+                "source": "ABA Banking Journal",
+                "date": "2026-10-21T16:24:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Netflix Touts International Success Amid Content Leadership Shake-Up",
+                "desc": "As Netflix reshuffles it's senior leadership in the U.S., international success likely to limit reverberations across the globe.",
+                "image": "https://variety.com/wp-content/uploads/2026/10/L_401_Unit_00241.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/global/netflix-international-success-leadership-shake-up-1236918627/",
+                "source": "Variety",
+                "date": "2026-10-21T16:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India rate panel flags more hikes but wary of aggressive cycle, minutes show",
+                "desc": "Members of India's rate-setting panel indicated that further rate hikes may be needed to curb inflation but stopped short of endorsing an aggressive tightening cycle over risks to economic growth, minutes of the committee's meeting released ​on Wednesday showed.",
+                "image": "https://www.reuters.com/resizer/v2/7N6AGPFWPZNMJM5GKH7NEMXSHY.jpg?auth=3d141145d69b9e2ed0ab37a1f840003529d83f0792a2a4301b560db473ef555e&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/india/india-rate-panel-flags-more-hikes-wary-aggressive-cycle-minutes-show-2026-10-21/",
+                "source": "Reuters",
+                "date": "2026-10-21T16:19:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A costly sentence for investors: ‘I just don’t want to miss this one’",
+                "desc": "A stock with outsized growth potential can still make for a lousy investment",
+                "image": "https://www.theglobeandmail.com/resizer/v2/VMXM4OCYN5DMLICGIXVMGN5BHA.jpg?auth=7a3dda276a14b021cc39a9cd34c0fa9cd4f32fefee5df2b5f035e139c4db905c&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-a-costly-sentence-for-investors-i-just-dont-want-to-miss-this-one/",
+                "source": "The Globe and Mail",
+                "date": "2026-10-21T16:19:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Morgan Stanley likes Western Digital, TeraWulf, Williams",
+                "desc": "Morgan Stanley expects a handful of stocks that are reporting quarterly results soon to see big gains. Here's the list",
+                "image": "https://image.cnbcfm.com/api/v1/image/108442411-1792596945522-gettyimages-2262159982-pekiaridis-notitle260220_npyWr.jpeg?v=1792597063&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/21/morgan-stanley-western-digital-terawulf-williams.html",
+                "source": "CNBC",
+                "date": "2026-10-21T16:19:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Toyota recalls over 105,000 vehicles. See the affected model",
+                "desc": "According to Toyota, the vehicles have a faulty fuel tube connection near the fuel tank that may disconnect and leak fuel.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/21/USAT/92361665007-getty-images-2259561116.jpg?crop=1023,576,x0,y68&width=1023&height=576&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/cars/recalls/2026/10/21/toyota-recalls-vehicles-land-cruiser-hybrid/92347344007/",
+                "source": "USA Today",
+                "date": "2026-10-21T16:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Novo's CagriSema Delivered 25% Weight Loss in Women. Could It Help Turn Around the Beaten-Down Stock?",
                 "desc": "Its leading investigational drug demonstrated relatively high levels of weight loss in a late-stage clinical trial.",
                 "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5415c76678016a01d887d758f8b46ec4abbad9af-788x443.jpg&w=1200&op=resize",
@@ -542,99 +632,99 @@
                 "source": "Investor's Business Daily",
                 "date": "2026-10-20T12:55:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'Black box' cover sees big cut in car insurance costs",
-                "desc": "Some younger and more inexperienced drivers could reduce their car insurance premiums nearly sixfold by opting for telematics - or so called 'black box' cover - according to new research.",
-                "image": "https://www.rte.ie/images/002533d3-1600.jpg",
-                "url": "https://www.rte.ie/news/business/2026/1020/1596099-black-box-cover-sees-big-cut-in-car-insurance-costs/",
-                "source": "RTE.ie",
-                "date": "2026-10-20T10:08:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "French 10-year government bond spread vs Germany highest since 2012",
-                "desc": "On Tuesday, the yield on the French government bond rose to more than 150 basis points above the comparable German bond, considered the European benchmark of creditworthiness.",
-                "image": "https://img.lemde.fr/2026/02/25/0/0/1500/1000/1440/960/60/0/c4672f4_upload-1-ujmazdjtr0fc-frame-841.jpg",
-                "url": "https://www.lemonde.fr/en/economy/article/2026/10/20/french-10-year-government-bond-spread-vs-germany-highest-since-2012_6759634_19.html",
-                "source": "Le Monde.fr",
-                "date": "2026-10-20T10:07:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gulf Keystone, ShaMaran agree $601 million oil merger",
-                "desc": "Oct 20 (Reuters) - Gulf Keystone Petroleum said on Tuesday it would merge with Norway's ShaMaran Petroleum in a $601 million all-share 50-50 deal, creating one of the largest producers in Iraq's oil-rich Kurdistan region. Here are some details from the statement: • ShaMaran shareholders to receive 0.07533958 Gulf Keystone share for each ShaMaran share held, with Gulf Keystone shareholders to receive a $50 million special dividend",
-                "image": "https://live.euronext.com/favicon.ico",
-                "url": "https://live.euronext.com/en/financial-news/gulf-keystone-shamaran-agree-601-million-oil-merger",
-                "source": "Euronext Markets: Real-time Stock Market Data | live",
-                "date": "2026-10-20T10:04:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GCash celebrates 22nd birthday with nationwide 'pasalamat' blowout",
-                "desc": "Birthdays are often about sharing what you have, whether it is food for family and friends, a free treat for someone who needs it, or a little something for...",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/10/20/140492.webp",
-                "url": "https://mb.com.ph/2026/10/20/gcash-celebrates-22nd-birthday-with-nationwide-pasalamat-blowout",
-                "source": "Manila Bulletin",
-                "date": "2026-10-20T10:04:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Deutsche Bank sees fourth consecutive BSP rate hike",
-                "desc": "Frankfurt-based Deutsche Bank AG predicts that the Bangko Sentral ng Pilipinas (BSP) is likely to raise its key interest rate to 5.25 percent on Thursday, Oct....",
-                "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/10/20/140396.webp",
-                "url": "https://mb.com.ph/2026/10/20/deutsche-bank-sees-fourth-consecutive-bsp-rate-hike",
-                "source": "Manila Bulletin",
-                "date": "2026-10-20T10:04:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "German regulator fines Nomura over Commerzbank disclosure breaches",
-                "desc": "Oct 20 (Reuters) - German financial regulator Bafin said on Tuesday it had fined Japanese investment firm Nomura Holdings €320,000 ($359,000) for failing to disclose voting rights in Commerzbank as UniCredit built its stake in the German lender. • The regulator said Nomura did not submit voting rights notifications relating to Commerzbank in May and June",
-                "image": "https://live.euronext.com/favicon.ico",
-                "url": "https://live.euronext.com/en/financial-news/german-regulator-fines-nomura-over-commerzbank-disclosure-breaches",
-                "source": "Euronext Markets: Real-time Stock Market Data | live",
-                "date": "2026-10-20T10:01:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Walmart rolls out new bundle combining Walmart+, Sam’s Club Plus",
-                "desc": "The new $120 annual membership bundle gives shoppers access to both Walmart+ and Sam’s Club Plus for nearly $100 less than buying the two programs separately.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/04/0/0/Walmart.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/retail/walmart-rolls-out-new-bundle-combining-walmart-sams-club-plus",
-                "source": "Fox Business",
-                "date": "2026-10-20T10:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ontario public-sector unions push province for workplace AI safeguards",
-                "desc": "Local bargaining units are being told to investigate how AI is showing up in workplaces and to identify potential risks.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/10/JP-EDITED.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/12107810/ontario-public-sector-unions-workplace-ai-safeguards/",
-                "source": "Global News",
-                "date": "2026-10-20T10:00:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Walmart launches Walmart+, Sam's Club Plus joint membership",
-                "desc": "Walmart is now offering a joint membership with Sam's Club for $120 per year as the retailer further leans into convenience.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108433445-1792431701517-Sams_Wal.jpg?v=1792431788&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
-                "source": "CNBC",
-                "date": "2026-10-20T10:00:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX, Anthropic plan to share wealth with the public amid concern AI could trigger job losses",
-                "desc": "Elon Musk pledged SpaceX shares to every American child, a day after Anthropic announced plans to allocate 5% of its equity to the public.",
-                "image": "https://ca-times.brightspotcdn.com/dims4/default/dc9c1ae/2147483647/strip/true/crop/5388x2829+0+382/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F2f%2Feabd2aa8446486f312a95397c8ed%2Fmusk-twitter-46898.jpg",
-                "url": "https://www.latimes.com/business/story/2026-10-20/spacex-anthropic-plan-to-share-wealth-with-public-amid-concern-ai-could-trigger-job-losses",
-                "source": "Los Angeles Times",
-                "date": "2026-10-20T10:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "DJI Osmo Pocket 4P Pearl White",
+                "desc": "The DJI Osmo Pocket 4P Pearl White is now available in Malaysia, featuring a mica-infused pearlescent finish alongside the same 1-inch CMOS sensor and dual lenses.",
+                "image": "https://cdn.pokde.net/wp-content/uploads/2026/10/22002626/osmopocket4ppearlwhitecover.jpg",
+                "url": "https://pokde.net/gadget/camera/dji-osmo-pocket-4p-pearl-white",
+                "source": "Pokde.Net",
+                "date": "2026-10-21T16:28:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Large-scale single crystals printed layer by layer",
+                "desc": "A 3D-printing method has made single crystals of metals and alloys in complex shapes and up to one metre in length, as needed for advanced technological applications.",
+                "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03257-y/d41586-026-03257-y_53883112.jpg",
+                "url": "https://www.nature.com/articles/d41586-026-03257-y?error=cookies_not_supported&code=e197ce5b-18e3-42f1-a746-e0d56a5c2e3f",
+                "source": "Nature",
+                "date": "2026-10-21T16:24:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The personality test grows up: Bettermind relaunches with a Mind Blueprint, five minutes a day and an eight-week clock",
+                "desc": "HOUSTON, Oct. 21, 2026 (GLOBE NEWSWIRE) -- For most of the past decade, finding out what kind of person you are online has meant forty tick-box ...",
+                "image": "https://ml.globenewswire.com/Resource/Download/e95ac7b9-b5b1-4c5d-a155-9e62f5bcc921/bettermind.jpg",
+                "url": "https://markets.businessinsider.com/news/stocks/the-personality-test-grows-up-bettermind-relaunches-with-a-mind-blueprint-five-minutes-a-day-and-an-eight-week-clock-1036649930",
+                "source": "markets.businessinsider.com",
+                "date": "2026-10-21T16:17:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Inversion and NASA Plan to Unlock Interplanetary Aerocapture MB edits",
+                "desc": "Using a planet’s atmosphere to secure a satellite’s place in orbit, a process known as “aerocapture”, has been the dream of flight engineers for decades. The only problem? It’s really hard to actually do. It requires control systems, thermal management, and orbital mechanics to all coordinate in a dance that allows a spacecraft to not just slow down while passing by another planet (or moon in some cases) but to start to orbit it without the use of lots of additional propellant. For now, that remains a dream, but a recent NASA contract to a California start-up called Inversion is another step towards making it a reality.",
+                "image": "https://www.universetoday.com/article_images/Arc_Aerocapture_Hero_Image_20261021_160720.jpg",
+                "url": "https://www.universetoday.com/articles/how-inversion-and-nasa-plan-to-unlock-interplanetary-aerocapture-mb-edits",
+                "source": "Universe Today",
+                "date": "2026-10-21T16:12:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Technics Introduces SL-1210MKX Professional DJ Turntable with Improved Isolation and Expanded Pitch Control",
+                "desc": "Technics has announced the SL-1210MKX, a new flagship professional DJ turntable positioned above the SL-1210MK7. Developed with input from working DJs and sound engineers, the design combines a heavier chassis and redesigned isolation feet with new ±4% and ±50% pitch ranges. Scheduled for January 2027 availability, the turntable brings the brand’s continuing direct-drive development into focus for demanding club, festival, and touring applications.",
+                "image": "https://cdn.xingosoftware.com/audioxpress/images/fetch/dpr_1/https%3A%2F%2Faudioxpress.com%2Fassets%2Fupload%2Fimages%2F1%2F20261021180244_Technics-MKX-Lifestyle-01-261007-TWeb.jpg",
+                "url": "https://audioxpress.com/news/technics-introduces-sl-mkx-professional-dj-turntable-with-improved-isolation-and-expanded-pitch-control",
+                "source": "audioXpress",
+                "date": "2026-10-21T16:11:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony's PlayStation Pulse Headset Arrives On November 19 For $100",
+                "desc": "Pre-orders open on October 29.",
+                "image": "https://www.engadget.com/img/gallery/sonys-playstation-pulse-headset-arrives-on-november-19-for-100/l-intro-1792598917.jpg",
+                "url": "https://www.engadget.com/2293077/sonys-playstation-pulse-headset-arrives-on-november-19-for-dollar100/",
+                "source": "Engadget",
+                "date": "2026-10-21T16:09:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mobile Giving Out Free iPads For One Day Only",
+                "desc": "In an unusual move, T-Mobile appears to be giving out free iPad A16s for one day only next week, with qualifying service plan.",
+                "image": "https://i0.wp.com/tmo.report/wp-content/uploads/2026/10/tmobileipada16featured.png?fit=1280%2C720&ssl=1",
+                "url": "https://tmo.report/2026/10/t-mobile-is-giving-away-free-ipad-a16s-for-one-day-only/",
+                "source": "The Mobile Report",
+                "date": "2026-10-21T16:07:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to play DMZ solo in Modern Warfare 4",
+                "desc": "A guide explaining how to play Modern Warfare 4's DMZ mode solo, rather than teaming up with random players.",
+                "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/modern-warfare-4-dmz-solo-how-to-play-header.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.polygon.com/mw4-modern-warfare-4-dmz-solo-how-to-play/",
+                "source": "Polygon.com",
+                "date": "2026-10-21T16:07:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Music's New Look Officially Announced",
+                "desc": "Following the introduction of a new Apple Music logo and app icon earlier this month, Apple today officially introduced Apple Music's new brand identity.",
+                "image": "https://images.macrumors.com/t/qrcZvlFK5Z34YPJLqdEWRUQR0BM=/1600x/article-new/2026/10/Apple-Music-New-Branding.jpg",
+                "url": "https://www.macrumors.com/2026/10/21/apple-music-new-look-announced/",
+                "source": "MacRumors",
+                "date": "2026-10-21T16:06:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jansen 'in the driving seat' to start for Ireland in November",
+                "desc": "Tom Daly believes his former Connacht team-mate Sean Jansen is next in line to start at number 8 for Ireland, after injuries to Caelan Doris and Jack Conan",
+                "image": "https://www.rte.ie/images/0024addd.jpg",
+                "url": "https://www.rte.ie/video/id/37826/",
+                "source": "RTE.ie",
+                "date": "2026-10-21T16:06:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Polar Expands Partnership with Crusoe in Norway with New 40MW AI Infrastructure Development",
                 "desc": "DRA01 facility now live and powering Crusoe Cloud, as partnership expands into DRA02 to support continued growth of AI infrastructure in Europe",
@@ -1174,99 +1264,99 @@
                 "source": "Empire",
                 "date": "2026-10-20T13:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google Pixel 10 Pro XL No Longer Comes With a Premium Price Tag as Amazon Cuts Hundreds Off",
-                "desc": "At its current price of $849, the 256GB Google Pixel 10 Pro XL is actually cheaper than the Pixel 10 Pro with same storage.",
-                "image": "https://gizmodo.com/app/uploads/2026/10/pixel-10-pro-xl-1200x675.jpg",
-                "url": "https://gizmodo.com/google-pixel-10-pro-xl-no-longer-comes-with-a-premium-price-tag-as-amazon-cuts-hundreds-off-2000827971",
-                "source": "Gizmodo",
-                "date": "2026-10-20T10:11:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pokemon GO Pikachu event at Changi Airport",
-                "desc": "Pokemon Go Pikachu event at Changi Airport marks Pokemon’s 30th anniversary in Singapore with stamp rally, parades and battles. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/57803c666c80781f0bd47a1bc9a550d96c3dde95dbe68708fff64c2d7367b0d6?w=1200",
-                "url": "https://www.straitstimes.com/singapore/sparks-fly-as-special-pikachu-goes-live-at-changi-airport",
-                "source": "The Straits Times",
-                "date": "2026-10-20T10:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The devs behind JDM: Japanese Drift Master are back with a demon-slaying driving game",
-                "desc": "JDM: Ph4ntom Driver blends Japanese folklore and, of course, slippy rear tyres",
-                "image": "https://www.topgear.com/sites/default/files/images/news-article/2026/10/6715a61ff2587fdb734ec2a514ebcec8/JDM%20Ph4ntom%20Driver.jpg?w=1280&h=720",
-                "url": "https://www.topgear.com/car-news/gaming/devs-behind-jdm-japanese-drift-master-are-back-a-demon-slaying-driving-game",
-                "source": "Top Gear",
-                "date": "2026-10-20T10:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Galaxy S27 phones with Exynos modems said to be more power efficient",
-                "desc": "The Galaxy S27 and S28 series could bring major connectivity improvements with Samsung's new, highly efficient M-series 5G modems.",
-                "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Galaxy-S26-FE-Exynos-2500.jpg",
-                "url": "https://www.sammobile.com/news/galaxy-s27-plus-exynos-m2700-modem-more-power-efficient/",
-                "source": "SamMobile",
-                "date": "2026-10-20T10:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MVX: London Launches Free Steam Next Fest Demo Alongside New Trailer",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/MVX-London-Launches-Free-Steam-Next-Fest-Demo-Alongside-New-Trailer",
-                "source": "Games Press",
-                "date": "2026-10-20T10:07:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "10 Movies To Watch While Waiting for ‘Grand Theft Auto VI’",
-                "desc": "There's not long to go until GTA 6 comes out, with crime movies like Scarface, Bonnie and Clyde, and Drive all being worth a watch while you wait.",
-                "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/grand-theft-auto-vi_-an-extended-look-2026-poster.jpg?w=1600&h=900&fit=crop",
-                "url": "https://collider.com/movies-like-gta-6-watch-while-waiting/",
-                "source": "Collider",
-                "date": "2026-10-20T10:06:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Limits iPhone Duo Orders to 2 Per Customer Amid Long Delivery Waits",
-                "desc": "It’s unclear whether the purchase limit is new, but it appears to have been implemented to combat resellers, some of whom are listing the foldable on eBay for up to $5,000.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/news/a/apple-limi/apple-limits-iphone-duo-orders-to-2-per-customer-amid-long-d_3h91.1200.jpg",
-                "url": "https://au.pcmag.com/mobile-phones/120529/apple-limits-iphone-duo-orders-to-2-per-customer-to-battle-long-delivery",
-                "source": "PCMag Australia",
-                "date": "2026-10-20T10:05:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NVIDIA's Faster DLSS 5 Model Gets Extracted From NBA 2K27, Modders Report Up to 90% Gains",
-                "desc": "NVIDIA shipped its faster DLSS 5 Neural Rendering model with NBA 2K27 on October 16, and it didn't take modders long to pull it out and test it elsewhere. Renan Maniero on X extracted the new 310.9.16.0 build of the DLL. That lets people inject it into games that don't officially support DLSS 5...",
-                "image": "https://www.techpowerup.com/img/XAGC8BxlIZMRF93W.jpg",
-                "url": "https://www.techpowerup.com/353905/nvidias-faster-dlss-5-model-gets-extracted-from-nba-2k27-modders-report-up-to-90-gains",
-                "source": "TechPowerUp",
-                "date": "2026-10-20T10:04:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FuRyu’s retro liminal space shooter ANOMALITH surpasses 120,000 Steam Wishlists ahead of release",
-                "desc": "Japanese developer FuRyu celebrates 120,000 Steam Wishlists for its upcoming third-person shooting game ANOMALTIH.",
-                "image": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261020-74019-header.jpg",
-                "url": "https://automaton-media.com/en/news/furyus-retro-liminal-space-shooter-anomalith-surpasses-120000-steam-wishlists-ahead-of-release/",
-                "source": "AUTOMATON",
-                "date": "2026-10-20T10:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WEMADE Celebrates Legend of YMIR's First Anniversary with Major Content Roadmap and New Assassin Class",
-                "desc": "WEMADE Celebrates Legend of YMIR's First Anniversary with Major Content Roadmap and New Assassin Class",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/20/1267755.jpg",
-                "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/pr-newswire/wemade-celebrates-legend-of-ymirs-first-anniversary-with-major-content-roadmap-and-new-assassin-class/2449496",
-                "source": "The Manila Times",
-                "date": "2026-10-20T10:02:34Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Lagos: Man dies while rescuing toddler from a well",
+                "desc": "A man has died while attempting to rescue a toddler who fell into a domestic well at Abule Egba, Lagos State, while the child’s body remains unrecovered.",
+                "image": "https://www.graphic.com.gh/images/2026/Oct/21/LAGOS.jpg",
+                "url": "https://www.graphic.com.gh/news/general-news/lagos-man-dies-while-rescuing-toddler-from-a-well.html",
+                "source": "Graphic Online",
+                "date": "2026-10-21T16:28:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Greta Thunberg urged Paris mobilization before protests turned violent",
+                "desc": "Greta Thunberg advocated for Paris protests and called on followers to mobilize days before France student protests turned violent, a new investigation reveals.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/greta-thunberg-flotilla.jpeg",
+                "url": "https://www.foxnews.com/politics/greta-thunberg-joins-paris-protests-underscoring-radical-three-way-alliance",
+                "source": "Fox News",
+                "date": "2026-10-21T16:28:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Explosion injures four people in Greek capital",
+                "desc": "Two police officers and two ​members of the public were injured ‌in an explosion at a building in central Athens, Greek police said on Wednesday.",
+                "image": "https://www.reuters.com/resizer/v2/7RK3GUFR2NKVXCS6ZDYIBO5MNM.jpg?auth=2f92acabeab4892b9a880cf352d93f9d536e975ed6ccd9c1a6f69078e6b32cf2&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/explosion-injures-four-greek-capital-2026-10-21/",
+                "source": "Reuters",
+                "date": "2026-10-21T16:27:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South African Cousins Turn Abandoned Limpopo School into Academy, Earn Praise",
+                "desc": "Three South African cousins turn an abandoned school into an agricultural academy in Limpopo, training over 20k workers, creating jobs and boosting the local economy",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/b0d866f744b7fe1a.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/world/africa/644012-south-african-cousins-turn-abandoned-limpopo-school-academy-earn-praise/",
+                "source": "Tuko News",
+                "date": "2026-10-21T16:27:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "German court calls Google’s aerial imagery ‘spying’, Google will appeal",
+                "desc": "‘Nobody must accept the worldwide publication of aerial images of their property without their consent,’ a German court said of Google Earth.",
+                "image": "https://media.thenextweb.com/2026/10/google-earth-icon-3d-blue.jpg",
+                "url": "https://thenextweb.com/news/google-aerial-imagery-spying-german-court",
+                "source": "The Next Web",
+                "date": "2026-10-21T16:27:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenya seals $160 million conservation finance deal",
+                "desc": "Kenya's government and a group of donors have signed a $160 million conservation programme aimed at protecting 173,000 square km of some of the most complex and least disturbed natural environments...",
+                "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-21T163837Z_1_LYNXMPEM9K1O5_RTROPTP_4_KENYA-NATURE-FINANCE.JPG",
+                "url": "https://www.marketscreener.com/news/kenya-seals-160-million-conservation-finance-deal-ce785cd9da8ff125",
+                "source": "marketscreener.com",
+                "date": "2026-10-21T16:26:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kenya seals $160 million conservation finance deal",
+                "desc": "By Marc Jones LONDON, Oct 21 (Reuters) - Kenya's government and a group of donors have signed a $160 million conservation programme aimed at protecting 173,000 square km (17.3 million hectares) of",
+                "image": "https://s.yimg.com/lo/mysterio/api/725d17ed1b0163b1a2988e3910cfedfdf7b6770880eb589bccf5a164d8ff62fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0b071ec0b06303af9e1536d7d9b352ef.jpg",
+                "url": "https://sg.news.yahoo.com/kenya-seals-160-million-conservation-162648705.html",
+                "source": "Yahoo News Singapore",
+                "date": "2026-10-21T16:26:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google DeepMind Engineer Resigns in Protest of Pentagon Contract",
+                "desc": "Research engineer Sofia Liguori stepped down from DeepMind due to current military contracts — not speculative fears of an AI apocalypse.",
+                "image": "https://theintercept.com/wp-content/uploads/2026/10/signal-2026-10-19-14-44-27-891_002-e1792527188294.jpg?fit=1200%2C600&w=1200&h=800",
+                "url": "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/",
+                "source": "The Intercept",
+                "date": "2026-10-21T16:25:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NFWF Announces $35.5 Million in Grants to Accelerate Recovery of Endangered and Threatened Species",
+                "desc": "New program targets the final hurdles to species recovery across the nation, while also supporting conservation on working lands shared by wildlife, farmers, ranchers, foresters and other landowners.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/22/1270833.jpg",
+                "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/nfwf-announces-355-million-in-grants-to-accelerate-recovery-of-endangered-and-threatened-species/2451090",
+                "source": "The Manila Times",
+                "date": "2026-10-21T16:23:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cameroon's Eseka rail disaster survivors still waiting for justice, 10 years on",
+                "desc": "A decade after Cameroon’s deadliest rail disaster killed 79 people and injured more than 500, survivors are still living with serious injuries, some compensation remains unpaid and an appeal against…",
+                "image": "https://s.rfi.fr/media/display/7c94b2c2-ccfa-11f1-b3d1-4dd8ac2cf3bf/w:1280/p:16x9/AP16296707809075.jpg",
+                "url": "https://www.rfi.fr/en/africa/20261021-cameroon-s-eseka-rail-disaster-survivors-still-waiting-for-justice-10-years-on",
+                "source": "RFI",
+                "date": "2026-10-21T16:22:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump envoy Witkoff meets Putin for Ukraine war talks",
                 "desc": "The visit came a day after Steve Witkoff met Ukrainian President Volodymyr Zelensky.",
@@ -1806,98 +1896,8 @@
                 "source": "Meduza",
                 "date": "2026-10-20T12:52:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "US Places 11 African Countries on Level 4 ‘Do Not Travel’ Advisory List",
-                "desc": "The US State Department places 11 African countries under Level 4 'Do Not Travel' warnings, citing terrorism, conflict, kidnapping and healthcare access.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/ea50c9549ec14f33.jpeg?v=1",
-                "url": "https://yen.com.gh/world/314130-us-places-11-african-countries-level-4-travel-advisory-list/",
-                "source": "Yen News",
-                "date": "2026-10-20T10:09:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hichilema tasks Great Lakes region to rely on own mechanisms in addressing their challenges",
-                "desc": "LUSAKA: ZAMBIAN President Hakainde Hichilema has underscored the importance of unity and solidarity among countries in the Great Lakes Region in seeking solutions to the conflicts affecting the region, while investing more in economic growth, trade and self-reliance through the effective use of their natural resources. President Hichilema made the call on October 19, 2026, …",
-                "image": "https://dailynews.co.tz/wp-content/uploads/2026/10/MHE.-HICHILEMA-NCHI-ZA-UKANDA-WA-MAZIWA-MAKUU-ZIIMARISHE-UCHUMI-NA-KUTATUA-MIGOGORO-YAKE-YENYE-1.jpg",
-                "url": "https://dailynews.co.tz/hichilema-tasks-great-lakes-region-to-rely-on-own-mechanisms-in-addressing-their-challenges/",
-                "source": "Daily News",
-                "date": "2026-10-20T10:09:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gaming for positive change",
-                "desc": "Checkpoint Game Jam invites Southeast Asian developers to create games promoting digital resilience and preventing violent extremism, with finals in Tokyo.",
-                "image": "https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2026/10/game-jam-unicri-2026.jpg",
-                "url": "https://unric.org/en/checkpoint-video-game-jam-2026-southeast-asia/",
-                "source": "Unric",
-                "date": "2026-10-20T10:07:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PN deregistration a reminder to lead fairly, says Muhyiddin",
-                "desc": "In a swipe at PAS, the Bersatu president says parties leading coalitions shouldn't abuse their positions to pursue their own interests.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/04/ff7a053f-muhyiddin-yassin-fmt-040424.webp",
-                "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/20/pn-deregistration-a-reminder-to-lead-fairly-says-muhyiddin",
-                "source": "Free Malaysia Today",
-                "date": "2026-10-20T10:06:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan ministry asks University of Tokyo to review president selection",
-                "desc": "TOKYO (Kyodo) -- Japan's education ministry on Tuesday asked the University of Tokyo to review the selection process of its next president, who placed",
-                "image": "https://cdn.mainichi.jp/vol1/2026/10/20/20261020p2g00m0na033000p/0c10.jpg?1",
-                "url": "https://mainichi.jp/english/articles/20261020/p2g/00m/0na/034000c",
-                "source": "毎日新聞",
-                "date": "2026-10-20T10:02:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Engineering Africa’s Built Environment",
-                "desc": "Stefanutti Stocks is reshaping Southern Africa’s construction landscape through multidisciplinary expertise, digital innovation, and sustainable infrastructure solutions. Russell Crawford, CEO, tells us more.",
-                "image": "https://www.construction-outlook.com/wp-content/uploads/Stefanutti-Stocks-SHARE-CO.webp",
-                "url": "https://www.construction-outlook.com/contracting/stefanutti-stocks-re-engineering-africas-built-environment",
-                "source": "Construction Outlook",
-                "date": "2026-10-20T10:02:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Woman says Russell Brand dragged her into bar toilet and raped her, court hears",
-                "desc": "Brand, once one of Britain's most high-profile broadcasters and the former husband of US singer Katy Perry, is on trial facing three counts of rape, three of sexual assault and one of ​indecent assault against six women between 1999 and 2009.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/20/4171159.JPG",
-                "url": "https://www.thestar.com.my/lifestyle/entertainment/2026/10/20/woman-says-russell-brand-dragged-her-into-bar-toilet-and-raped-her-court-hears",
-                "source": "The Star",
-                "date": "2026-10-20T10:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Europe Braces for a Russian Winter",
-                "desc": "Vladimir Putin is now determined to escalate, not only against Ukraine but also against the Europeans who have done so much to keep Kyiv in the fight.",
-                "image": "https://s.yimg.com/lo/mysterio/api/2a1a1a0fdd52ed782aa4c17380ccace7d6938d71aa7397171b6f5e45f85b7c3e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F4f54764978a1c0fe0a149b03389d5059.jpg",
-                "url": "https://www.yahoo.com/news/world/articles/europe-braces-russian-winter-100000686.html",
-                "source": "Yahoo",
-                "date": "2026-10-20T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "East San Fernando Valley light rail line gets underway - five years behind schedule.",
-                "desc": "Construction on Metro's East San Fernando Valley light rail project will begin this week. Service is targeted for 2032.",
-                "image": "https://ca-times.brightspotcdn.com/dims4/default/6d675bf/2147483647/strip/true/crop/5853x3073+0+415/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe5%2F66%2F53d697ad4044803231b87b8e2d60%2F1566183-me-metro-0066-rb.jpg",
-                "url": "https://www.latimes.com/california/story/2026-10-20/east-san-fernando-valley-light-rail-line-gets-underway-five-years-behind-schedule",
-                "source": "Los Angeles Times",
-                "date": "2026-10-20T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fleeing the frontline: Yemeni families cross Red Sea to Djibouti as Houthi conflict rages",
-                "desc": "Their overland routes to safety blocked off, several thousand people have boarded boats to escape gunfire, bombing and a dire humanitarian situation",
-                "image": "https://i.guim.co.uk/img/media/ec7f1efa1e3a7dce4e0fae2f242d696e0c24bfd9/439_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71c92d84028188fd8c5287b481f34c12",
-                "url": "https://www.theguardian.com/world/2026/oct/20/families-cross-red-sea-to-djibouti-houthi-conflict-yemen",
-                "source": "The Guardian",
-                "date": "2026-10-20T10:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-21T23:57:26.826429Z"
+    "lastGlobalSync": "2026-10-22T04:28:46.008615Z"
 }
