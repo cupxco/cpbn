@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "What’s likely to move the market",
+                "desc": "The Nasdaq Composite dropped 2.6% on Thursday as worries over spending on artificial intelligence ramped up.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108360595-17889738102026-09-09t170419z_900859241_rc2tfnaldyl5_rtrmadp_0_apple-event.jpeg?v=1788973858&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/22/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+                "source": "CNBC",
+                "date": "2026-10-22T23:26:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rising gold prices aren’t stopping Diwali shoppers, but they’re changing what they buy",
+                "desc": "As gold prices continue to increase, shoppers are buying smaller jewellery items and making more cautious spending decisions ahead of Diwali.",
+                "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/10/22/Screenshot-2026-10-22-191955.png",
+                "url": "https://toronto.citynews.ca/2026/10/22/rising-gold-prices-arent-stopping-diwali-shoppers-but-theyre-changing-what-they-buy/",
+                "source": "CityNews Toronto",
+                "date": "2026-10-22T23:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Not fit to run this country’: Prominent accountant unleashes on Albo and Chalmers in brutal rant",
+                "desc": "A Sydney accounting boss has gone scorched-earth on the federal government in a viral video, admitting she even took to Google to find out how to sack the Prime Minister.",
+                "image": "https://content.api.news/v3/images/bin/8c4bef498f1646cebecd8cc1b69cf10b",
+                "url": "https://www.news.com.au/finance/economy/australian-economy/not-fit-to-run-this-country-prominent-accountant-unleashes-on-albo-and-chalmers-in-brutal-rant/news-story/705889124e630dfb4082ee521e0a7406",
+                "source": "News.com.au",
+                "date": "2026-10-22T23:11:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Retire with more in EPF by starting younger",
+                "desc": "PETALING JAYA: Malaysians who start saving under the Employees Provident Fund (EPF) at 18 could accumulate about RM45,000 more by the time they retire, compared with those who begin at 25.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/23/4175984.jpg",
+                "url": "https://www.thestar.com.my/news/nation/2026/10/23/retire-with-more-in-epf-by-starting-younger",
+                "source": "The Star",
+                "date": "2026-10-22T23:09:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Grid operator says lights will stay on this winter after concerns",
+                "desc": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo",
+                "source": "BBC",
+                "date": "2026-10-22T23:04:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Grid operator says lights will stay on this winter after concerns",
+                "desc": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
+                "url": "https://www.bbc.com/news/articles/cmy56q2n1veqo",
+                "source": "BBC",
+                "date": "2026-10-22T23:04:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Whether on wheels or the grid, it's all about chemistry and cost",
+                "desc": "Lithium turned the battery industry from powering torches to running the country, and an ever increasing share of the world’s car industry. And it's still rapidly evolving.",
+                "image": "https://reneweconomy.com.au/wp-content/uploads/2026/06/CATLs-Xiamen-Energy-Storage-Validation-Research-Institute-Environment-Reliability-Laboratory.jpg",
+                "url": "https://reneweconomy.com.au/batteries-and-cells-whether-on-wheels-or-the-grid-its-all-about-chemistry-and-cost/",
+                "source": "Renew Economy",
+                "date": "2026-10-22T23:03:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FlashChange Rallies Industry Players to Examine the Realities of Building Crypto in Nigeria",
+                "desc": "Nigeria’s cryptocurrency industry faces a defining question: how can a country with strong grassroots adoption of digital assets create an environment where legitimate businesses can thrive, attract investment and compete globally?",
+                "image": "https://nigeriacommunicationsweek.com.ng/media-proxy/uploads/flashchange-logo.png",
+                "url": "https://www.nigeriacommunicationsweek.com.ng/2026/10/22/flashchange-rallies-industry-players-to-examine-the-realities-of-building-crypto-in-nigeria",
+                "source": "Nigeria Communications Week",
+                "date": "2026-10-22T23:02:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Australian",
+                "desc": "No Cookies | The Australian",
+                "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
+                "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
+                "source": "The Australian",
+                "date": "2026-10-22T23:02:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Girls at risk of being left behind in AI careers - report",
+                "desc": "Just over one in four girls surveyed in single-sex schools currently have access to Computer Science at Leaving Certificate level, according to new research.",
+                "image": "https://www.rte.ie/images/0025387d-1600.jpg",
+                "url": "https://www.rte.ie/news/business/2026/1023/1596515-ai-careers-survey/",
+                "source": "RTE.ie",
+                "date": "2026-10-22T23:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Taiwan Semiconductor and ASML Are Incredible, but 1 of These Monopoly Chip Stocks Is Far Safer.",
                 "desc": "Both stocks are dominating their respective industries.",
                 "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891663%2Fperson-holding-a-microchip.jpg&w=1200&op=resize",
@@ -542,99 +632,99 @@
                 "source": "Reuters",
                 "date": "2026-10-21T21:17:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "UK's FTSE 100 ticks higher on energy boost; hot inflation report limits gains",
-                "desc": "Oct 21 (Reuters) - Britain's FTSE 100 edged higher on Wednesday, supported by gains in oil majors and financial stocks, though hotter-than-expected inflation reinforced expectations of a Bank of England interest rate hike, limiting the index's upside. The blue-chip FTSE 100 index rose 0.1% to 10,752.88 points, after two sessions of declines in a row. The midcap FTSE 250 was up 0.3%.",
-                "image": "https://live.euronext.com/favicon.ico",
-                "url": "https://live.euronext.com/en/financial-news/uks-ftse-100-ticks-higher-energy-boost-hot-inflation-report-limits-gains",
-                "source": "Euronext Markets: Real-time Stock Market Data | live",
-                "date": "2026-10-21T16:28:22Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "A system-based abstraction hierarchy framework for seismic risk assessment of urban transportation networks",
-                "desc": "Urban transportation networks are critical infrastructure for post-earthquake emergency response, making proactive seismic risk assessment essential. However, existing frameworks often examine transportation components, interdependencies, and cascading effects separately, making it difficult to integrate them into a unified seismic-risk framework for transportation systems. This study introduces the Urban Transportation System Abstraction Hierarchy (UTSAH), a directed graph–based framework integrating abstraction hierarchy theory with network analysis across five hierarchical levels. Within this framework, UTSAH identifies dominant risk drivers and critical transmission chokepoints within a unified hierarchical structure, enabling simultaneous diagnosis of where risk originates and how it propagates. By determining weighted interdependencies among 131 transportation-specific parameters spanning physical, functional, social, governance, economic, and environmental dimensions, UTSAH provides a unified multi-dimensional assessment of seismic risk propagation and cascading effects in urban transportation networks. Based on graph-based analysis, interventions are classified into three strategic objectives: (i) mitigating cascading effects by seismic retrofitting of vulnerable bridges and tunnels and strengthening construction quality control and periodic inspections; (ii) preserving system connectivity by maintaining emergency transportation network continuity and enhancing route redundancy; and (iii) strengthening vulnerable high-level goals by improving accessibility to critical service centers such as hospitals and fire stations. Overall, UTSAH provides a system-oriented decision-support tool for identifying and classifying candidate seismic risk mitigation strategies in urban transportation networks.",
-                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-                "url": "https://www.nature.com/articles/s41598-026-77116-1?error=cookies_not_supported&code=7fb928e1-049a-4b49-b89a-1cbd4b567739",
-                "source": "Nature",
-                "date": "2026-10-21T16:27:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is It Too Late to Buy Nvidia Stock?",
-                "desc": "Nvidia stock has soared more than 1,000% throughout the artificial intelligence (AI) revolution.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891809%2Fnvidia-headquarters-with-nvidia-sign-in-front-39.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/10/21/is-it-too-late-to-buy-nvidia-stock/",
-                "source": "The Motley Fool",
-                "date": "2026-10-21T16:27:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prediction: Coca-Cola Stock Is Going to Soar After Oct. 27",
-                "desc": "If investors are worried about an AI bubble, a reliable stock like Coca-Cola could be a perfect fit.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891186%2Fko-1.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/10/21/prediction-coca-cola-stock-is-going-to-soar-aft/",
-                "source": "The Motley Fool",
-                "date": "2026-10-21T16:27:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OCC finalizes stablecoin rule with narrow payment-of-interest prohibition",
-                "desc": "While the final rule includes positive steps, ABA disagrees with the OCC’s decision to move away from its position on stablecoin yield.",
-                "image": "https://bankingjournal.aba.com/wp-content/uploads/2025/04/OCC-seal-scaled.jpg",
-                "url": "https://bankingjournal.aba.com/2026/10/occ-finalizes-stablecoin-rule-with-narrow-payment-of-interest-prohibition/",
-                "source": "ABA Banking Journal",
-                "date": "2026-10-21T16:24:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Netflix Touts International Success Amid Content Leadership Shake-Up",
-                "desc": "As Netflix reshuffles it's senior leadership in the U.S., international success likely to limit reverberations across the globe.",
-                "image": "https://variety.com/wp-content/uploads/2026/10/L_401_Unit_00241.jpg?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/tv/global/netflix-international-success-leadership-shake-up-1236918627/",
-                "source": "Variety",
-                "date": "2026-10-21T16:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India rate panel flags more hikes but wary of aggressive cycle, minutes show",
-                "desc": "Members of India's rate-setting panel indicated that further rate hikes may be needed to curb inflation but stopped short of endorsing an aggressive tightening cycle over risks to economic growth, minutes of the committee's meeting released ​on Wednesday showed.",
-                "image": "https://www.reuters.com/resizer/v2/7N6AGPFWPZNMJM5GKH7NEMXSHY.jpg?auth=3d141145d69b9e2ed0ab37a1f840003529d83f0792a2a4301b560db473ef555e&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/india/india-rate-panel-flags-more-hikes-wary-aggressive-cycle-minutes-show-2026-10-21/",
-                "source": "Reuters",
-                "date": "2026-10-21T16:19:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A costly sentence for investors: ‘I just don’t want to miss this one’",
-                "desc": "A stock with outsized growth potential can still make for a lousy investment",
-                "image": "https://www.theglobeandmail.com/resizer/v2/VMXM4OCYN5DMLICGIXVMGN5BHA.jpg?auth=7a3dda276a14b021cc39a9cd34c0fa9cd4f32fefee5df2b5f035e139c4db905c&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-a-costly-sentence-for-investors-i-just-dont-want-to-miss-this-one/",
-                "source": "The Globe and Mail",
-                "date": "2026-10-21T16:19:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Morgan Stanley likes Western Digital, TeraWulf, Williams",
-                "desc": "Morgan Stanley expects a handful of stocks that are reporting quarterly results soon to see big gains. Here's the list",
-                "image": "https://image.cnbcfm.com/api/v1/image/108442411-1792596945522-gettyimages-2262159982-pekiaridis-notitle260220_npyWr.jpeg?v=1792597063&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/21/morgan-stanley-western-digital-terawulf-williams.html",
-                "source": "CNBC",
-                "date": "2026-10-21T16:19:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Toyota recalls over 105,000 vehicles. See the affected model",
-                "desc": "According to Toyota, the vehicles have a faulty fuel tube connection near the fuel tank that may disconnect and leak fuel.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/21/USAT/92361665007-getty-images-2259561116.jpg?crop=1023,576,x0,y68&width=1023&height=576&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/cars/recalls/2026/10/21/toyota-recalls-vehicles-land-cruiser-hybrid/92347344007/",
-                "source": "USA Today",
-                "date": "2026-10-21T16:19:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Call of Duty promises a return to form - but can it compete with GTA?",
+                "desc": "Modern Warfare 4 faces an uphill battle after last year's Call of Duty missed the mark with fans.",
+                "image": "https://s.yimg.com/lo/mysterio/api/0ea28bb36165c36207496ad01e5bd413e293caeb0139a549b08eb79bb54045c8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd90aa812d67498119c37e5f6ea3cdc29.png",
+                "url": "https://sg.news.yahoo.com/call-duty-promises-return-form-232053875.html",
+                "source": "Yahoo News Singapore",
+                "date": "2026-10-22T23:20:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Call of Duty promises a return to form - but can it compete with GTA?",
+                "desc": "Modern Warfare 4 faces an uphill battle after last year's Call of Duty missed the mark with fans.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eeb0/live/6cedc790-cc92-11f1-94e6-edd4c60b2e1d.png",
+                "url": "https://www.bbc.co.uk/news/articles/cm369kkg92x6o",
+                "source": "BBC",
+                "date": "2026-10-22T23:20:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WhatsApp expands its testing of scheduled messages to iOS",
+                "desc": "Android beta testers got the feature last week. Earlier this month, WhatsApp started testing scheduled messages with some beta testers on Android, after...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/whatsapp-scheduled-messages-ios/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/whatsapp_expands_its_testing_of_scheduled_messages_to_ios-news-75175.php",
+                "source": "GSMArena.com",
+                "date": "2026-10-22T23:05:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple bets iPhone Duo can remake foldable market as sales begin",
+                "desc": "It is betting the device can do for the small foldables market what the iPhone did for smartphones Read more at The Business Times.",
+                "image": "https://cassette.sphdigital.com.sg/image/businesstimes/3071a79e9006b3f97287af4c3278e5ef74fa8bce2febe396f0d0c288396ad297?w=1200&f=webp",
+                "url": "https://www.businesstimes.com.sg/companies-markets/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin",
+                "source": "The Business Times",
+                "date": "2026-10-22T23:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This upgrade kit is SRAM’s cheapest route into AXS for riders with Eagle 90 and 70 drivetrains",
+                "desc": "The GX Eagle AXS Transmission Upgrade Kit swaps your mechanical derailleur’s body for an AXS one, reusing the cage, chain and cassette you already own",
+                "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/318d0652-4412-4eb7-8f20-cbe8663fa112/thumbnails/8a66a068-75cc-40e4-aa2e-86c8abfcdf2a.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+                "url": "https://www.bikeradar.com/features/first-look-friday/sram-gx-eagle-axs-transmission-upgrade-kit",
+                "source": "BikeRadar",
+                "date": "2026-10-22T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NYT Strands hints and answers for Friday, October 23 (game #964)",
+                "desc": "Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.",
+                "image": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
+                "url": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-23-october-2026",
+                "source": "TechRadar",
+                "date": "2026-10-22T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+                "desc": "After a report that Microsoft’s Xbox Helix might cost $1,800, The Verge explores the possibilities.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23516635/adbenedetto_220508_5192_0047.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+                "source": "The Verge",
+                "date": "2026-10-22T23:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Part of the city’s DNA’: Former BioWare writer reflects on company's impact on Edmonton",
+                "desc": "Videogame developer BioWare announced Wednesday it will be closing its doors after operating in Edmonton for more than 30 years. BioWare produced numerous popular game franchises such as Mass Effect and Baldur's Gate.",
+                "image": "https://i.cbc.ca/ais/8b6954d0-bef9-493a-96d1-f33de42dfa8e,1792688749828/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C330%2C6593%2C3708%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/canada/edmonton/bioware-ea-shut-down-edmonton-9.7391839",
+                "source": "CBC",
+                "date": "2026-10-22T22:52:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TCL C8L - I Was So Wrong About This Brand",
+                "desc": "Before this review, I knew very little about TCL TVs.\nIn my mind, because I'd seen them selling for significantly lower prices than other so-called premiu",
+                "image": "https://www.newstalkzb.co.nz/media/31snnjhl/tcl-c8l-2.jpg?rmode=crop&v=1dd62e45c27f150&height=395&width=635&quality=95&scale=both",
+                "url": "https://www.newstalkzb.co.nz/lifestyle/technology/tcl-c8l-i-was-so-wrong-about-this-brand/",
+                "source": "Newstalk ZB",
+                "date": "2026-10-22T22:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple ordered to allow third-party app stores in Australia",
+                "desc": "Alternative payment systems must also be supported, court rules.",
+                "image": "https://ia.acs.org.au/content/dam/ia/article/images/2026/apple%20app%20store%20icon%20closeup%20shutterstock.jpg",
+                "url": "https://ia.acs.org.au/article/2026/apple-ordered-to-allow-third-party-app-stores-in-australia.html",
+                "source": "Information Age | ACS",
+                "date": "2026-10-22T22:48:02Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Casio Resurrects Its Underrated Everyday Watch with Subtle Updates",
                 "desc": "The slim, automotive-inspired timepiece will be even more appealing to fans this time around.",
@@ -1174,99 +1264,99 @@
                 "source": "How-To Geek",
                 "date": "2026-10-21T21:00:16Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "DJI Osmo Pocket 4P Pearl White",
-                "desc": "The DJI Osmo Pocket 4P Pearl White is now available in Malaysia, featuring a mica-infused pearlescent finish alongside the same 1-inch CMOS sensor and dual lenses.",
-                "image": "https://cdn.pokde.net/wp-content/uploads/2026/10/22002626/osmopocket4ppearlwhitecover.jpg",
-                "url": "https://pokde.net/gadget/camera/dji-osmo-pocket-4p-pearl-white",
-                "source": "Pokde.Net",
-                "date": "2026-10-21T16:28:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Large-scale single crystals printed layer by layer",
-                "desc": "A 3D-printing method has made single crystals of metals and alloys in complex shapes and up to one metre in length, as needed for advanced technological applications.",
-                "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03257-y/d41586-026-03257-y_53883112.jpg",
-                "url": "https://www.nature.com/articles/d41586-026-03257-y?error=cookies_not_supported&code=e197ce5b-18e3-42f1-a746-e0d56a5c2e3f",
-                "source": "Nature",
-                "date": "2026-10-21T16:24:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The personality test grows up: Bettermind relaunches with a Mind Blueprint, five minutes a day and an eight-week clock",
-                "desc": "HOUSTON, Oct. 21, 2026 (GLOBE NEWSWIRE) -- For most of the past decade, finding out what kind of person you are online has meant forty tick-box ...",
-                "image": "https://ml.globenewswire.com/Resource/Download/e95ac7b9-b5b1-4c5d-a155-9e62f5bcc921/bettermind.jpg",
-                "url": "https://markets.businessinsider.com/news/stocks/the-personality-test-grows-up-bettermind-relaunches-with-a-mind-blueprint-five-minutes-a-day-and-an-eight-week-clock-1036649930",
-                "source": "markets.businessinsider.com",
-                "date": "2026-10-21T16:17:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Inversion and NASA Plan to Unlock Interplanetary Aerocapture MB edits",
-                "desc": "Using a planet’s atmosphere to secure a satellite’s place in orbit, a process known as “aerocapture”, has been the dream of flight engineers for decades. The only problem? It’s really hard to actually do. It requires control systems, thermal management, and orbital mechanics to all coordinate in a dance that allows a spacecraft to not just slow down while passing by another planet (or moon in some cases) but to start to orbit it without the use of lots of additional propellant. For now, that remains a dream, but a recent NASA contract to a California start-up called Inversion is another step towards making it a reality.",
-                "image": "https://www.universetoday.com/article_images/Arc_Aerocapture_Hero_Image_20261021_160720.jpg",
-                "url": "https://www.universetoday.com/articles/how-inversion-and-nasa-plan-to-unlock-interplanetary-aerocapture-mb-edits",
-                "source": "Universe Today",
-                "date": "2026-10-21T16:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Technics Introduces SL-1210MKX Professional DJ Turntable with Improved Isolation and Expanded Pitch Control",
-                "desc": "Technics has announced the SL-1210MKX, a new flagship professional DJ turntable positioned above the SL-1210MK7. Developed with input from working DJs and sound engineers, the design combines a heavier chassis and redesigned isolation feet with new ±4% and ±50% pitch ranges. Scheduled for January 2027 availability, the turntable brings the brand’s continuing direct-drive development into focus for demanding club, festival, and touring applications.",
-                "image": "https://cdn.xingosoftware.com/audioxpress/images/fetch/dpr_1/https%3A%2F%2Faudioxpress.com%2Fassets%2Fupload%2Fimages%2F1%2F20261021180244_Technics-MKX-Lifestyle-01-261007-TWeb.jpg",
-                "url": "https://audioxpress.com/news/technics-introduces-sl-mkx-professional-dj-turntable-with-improved-isolation-and-expanded-pitch-control",
-                "source": "audioXpress",
-                "date": "2026-10-21T16:11:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony's PlayStation Pulse Headset Arrives On November 19 For $100",
-                "desc": "Pre-orders open on October 29.",
-                "image": "https://www.engadget.com/img/gallery/sonys-playstation-pulse-headset-arrives-on-november-19-for-100/l-intro-1792598917.jpg",
-                "url": "https://www.engadget.com/2293077/sonys-playstation-pulse-headset-arrives-on-november-19-for-dollar100/",
-                "source": "Engadget",
-                "date": "2026-10-21T16:09:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mobile Giving Out Free iPads For One Day Only",
-                "desc": "In an unusual move, T-Mobile appears to be giving out free iPad A16s for one day only next week, with qualifying service plan.",
-                "image": "https://i0.wp.com/tmo.report/wp-content/uploads/2026/10/tmobileipada16featured.png?fit=1280%2C720&ssl=1",
-                "url": "https://tmo.report/2026/10/t-mobile-is-giving-away-free-ipad-a16s-for-one-day-only/",
-                "source": "The Mobile Report",
-                "date": "2026-10-21T16:07:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to play DMZ solo in Modern Warfare 4",
-                "desc": "A guide explaining how to play Modern Warfare 4's DMZ mode solo, rather than teaming up with random players.",
-                "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/modern-warfare-4-dmz-solo-how-to-play-header.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.polygon.com/mw4-modern-warfare-4-dmz-solo-how-to-play/",
-                "source": "Polygon.com",
-                "date": "2026-10-21T16:07:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Music's New Look Officially Announced",
-                "desc": "Following the introduction of a new Apple Music logo and app icon earlier this month, Apple today officially introduced Apple Music's new brand identity.",
-                "image": "https://images.macrumors.com/t/qrcZvlFK5Z34YPJLqdEWRUQR0BM=/1600x/article-new/2026/10/Apple-Music-New-Branding.jpg",
-                "url": "https://www.macrumors.com/2026/10/21/apple-music-new-look-announced/",
-                "source": "MacRumors",
-                "date": "2026-10-21T16:06:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jansen 'in the driving seat' to start for Ireland in November",
-                "desc": "Tom Daly believes his former Connacht team-mate Sean Jansen is next in line to start at number 8 for Ireland, after injuries to Caelan Doris and Jack Conan",
-                "image": "https://www.rte.ie/images/0024addd.jpg",
-                "url": "https://www.rte.ie/video/id/37826/",
-                "source": "RTE.ie",
-                "date": "2026-10-21T16:06:32Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Scorched sanctuaries: The race to save Borneo’s orangutans from fires",
+                "desc": "Environmental science and conservation news",
+                "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/22223758/55.jpg",
+                "url": "https://news.mongabay.com/2026/10/scorched-sanctuaries-the-race-to-save-borneos-orangutans-from-fires/",
+                "source": "news - Mongabay",
+                "date": "2026-10-22T23:26:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa in Demand: How the Continent Is Advancing Its Interests in a Competitive World",
+                "desc": "Global and rising powers will need to engage with Africa’s priorities and agency in order to secure the continent’s increasingly attractive partnerships.",
+                "image": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJpbWFnZXMvQWZyaWNhLUlNRi1Xb3JsZC1CYW5rLUdldHR5SW1hZ2VzLTIyOTk3MjM5NTkuanBnIn0=",
+                "url": "https://carnegieendowment.org/research/2026/10/africa-diplomacy-foreign-policy-african-interests-critical-minerals",
+                "source": "Carnegie Endowment for International Peace",
+                "date": "2026-10-22T23:23:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+                "desc": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0c74/live/1831c620-ce40-11f1-9a39-31b474234113.jpg",
+                "url": "https://www.bbc.com/news/articles/c63r5xpezz51o",
+                "source": "BBC",
+                "date": "2026-10-22T23:20:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Private care investment needs monitoring, regulator says",
+                "desc": "US investors are buying up UK care homes - a situation regulators say they are \"watching carefully\" in case it threatens plans for a National Care Service.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2666/live/d07c6a50-ce31-11f1-9f18-490cec60aa0f.png",
+                "url": "https://www.bbc.com/news/articles/cke8r6543gplo",
+                "source": "BBC",
+                "date": "2026-10-22T23:20:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How Hezbollah Is Preventing Its Disarmament, Again",
+                "desc": "Hezbollah supporters blocked roads in Beirut and protested the Lebanese government’s attempts to assert sovereignty on October 16 and 17.",
+                "image": "https://understandingwar.org/wp-content/uploads/2025/08/25-290-0720ISW20Iran20Update20Special20Report-1_65.jpg",
+                "url": "https://understandingwar.org/research/middle-east/how-hezbollah-is-preventing-its-disarmament-again/",
+                "source": "Institute for the Study of War",
+                "date": "2026-10-22T23:18:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'He put it back': Trump says Ukraine's Starlink access restored, stays silent on Musk",
+                "desc": "US President Donald Trump has said Elon Musk has restored Ukraine's access to Starlink internet services after restrictions disrupted the connectivity",
+                "image": "https://static.toiimg.com/thumb/msid-135130040,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/us/he-put-it-back-trump-says-ukraines-starlink-access-restored-stays-silent-on-musk/articleshow/135130030.cms",
+                "source": "The Times of India",
+                "date": "2026-10-22T23:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Christians Flee Drones Amid War in Khartoum",
+                "desc": "Christians in Khartoum have long been a minority. Amid the war, they have faced the same dangers from both their Muslim neighbors and drones.",
+                "image": "https://persecution.org/wp-content/uploads/2025/06/Sudan-1.jpg",
+                "url": "https://persecution.org/2026/10/22/christians-flee-drones-amid-war-in-khartoum/",
+                "source": "International Christian Concern",
+                "date": "2026-10-22T23:17:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I'll never speak to him unless it's to give evidence, Thomas Markle's son vows after unearthing child sex abuse images",
+                "desc": "THOMAS Markle Snr’s son has vowed never to speak to his father again after claiming to have discovered a grim stash of child sex abuse...",
+                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/10/newspress-collage-qm6n3t04e-1792704731468.jpg?quality=90&strip=all&1792714402&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.ie/news/17808911/thomas-markle-jr-vows-never-speak-to-father/",
+                "source": "The Irish Sun",
+                "date": "2026-10-22T23:17:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Western diplomats tell BBC of life in war-time Moscow",
+                "desc": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0791/live/d5705ef0-ce21-11f1-906e-e3128518d85d.png",
+                "url": "https://www.bbc.com/news/articles/cj75p1xr7p7vo",
+                "source": "BBC",
+                "date": "2026-10-22T23:16:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+                "desc": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0791/live/d5705ef0-ce21-11f1-906e-e3128518d85d.png",
+                "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo",
+                "source": "BBC",
+                "date": "2026-10-22T23:16:20Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "ICC Wins EU Parliament’s Sakharov Prize",
                 "desc": "The European Parliament on October 22, 2026, awarded the Sakharov Prize for Freedom of Thought to the International Criminal Court (ICC) and its officials.",
@@ -1806,98 +1896,8 @@
                 "source": "CNN",
                 "date": "2026-10-21T21:01:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Lagos: Man dies while rescuing toddler from a well",
-                "desc": "A man has died while attempting to rescue a toddler who fell into a domestic well at Abule Egba, Lagos State, while the child’s body remains unrecovered.",
-                "image": "https://www.graphic.com.gh/images/2026/Oct/21/LAGOS.jpg",
-                "url": "https://www.graphic.com.gh/news/general-news/lagos-man-dies-while-rescuing-toddler-from-a-well.html",
-                "source": "Graphic Online",
-                "date": "2026-10-21T16:28:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Greta Thunberg urged Paris mobilization before protests turned violent",
-                "desc": "Greta Thunberg advocated for Paris protests and called on followers to mobilize days before France student protests turned violent, a new investigation reveals.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/greta-thunberg-flotilla.jpeg",
-                "url": "https://www.foxnews.com/politics/greta-thunberg-joins-paris-protests-underscoring-radical-three-way-alliance",
-                "source": "Fox News",
-                "date": "2026-10-21T16:28:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Explosion injures four people in Greek capital",
-                "desc": "Two police officers and two ​members of the public were injured ‌in an explosion at a building in central Athens, Greek police said on Wednesday.",
-                "image": "https://www.reuters.com/resizer/v2/7RK3GUFR2NKVXCS6ZDYIBO5MNM.jpg?auth=2f92acabeab4892b9a880cf352d93f9d536e975ed6ccd9c1a6f69078e6b32cf2&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/explosion-injures-four-greek-capital-2026-10-21/",
-                "source": "Reuters",
-                "date": "2026-10-21T16:27:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South African Cousins Turn Abandoned Limpopo School into Academy, Earn Praise",
-                "desc": "Three South African cousins turn an abandoned school into an agricultural academy in Limpopo, training over 20k workers, creating jobs and boosting the local economy",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/b0d866f744b7fe1a.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/world/africa/644012-south-african-cousins-turn-abandoned-limpopo-school-academy-earn-praise/",
-                "source": "Tuko News",
-                "date": "2026-10-21T16:27:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "German court calls Google’s aerial imagery ‘spying’, Google will appeal",
-                "desc": "‘Nobody must accept the worldwide publication of aerial images of their property without their consent,’ a German court said of Google Earth.",
-                "image": "https://media.thenextweb.com/2026/10/google-earth-icon-3d-blue.jpg",
-                "url": "https://thenextweb.com/news/google-aerial-imagery-spying-german-court",
-                "source": "The Next Web",
-                "date": "2026-10-21T16:27:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya seals $160 million conservation finance deal",
-                "desc": "Kenya's government and a group of donors have signed a $160 million conservation programme aimed at protecting 173,000 square km of some of the most complex and least disturbed natural environments...",
-                "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-21T163837Z_1_LYNXMPEM9K1O5_RTROPTP_4_KENYA-NATURE-FINANCE.JPG",
-                "url": "https://www.marketscreener.com/news/kenya-seals-160-million-conservation-finance-deal-ce785cd9da8ff125",
-                "source": "marketscreener.com",
-                "date": "2026-10-21T16:26:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya seals $160 million conservation finance deal",
-                "desc": "By Marc Jones LONDON, Oct 21 (Reuters) - Kenya's government and a group of donors have signed a $160 million conservation programme aimed at protecting 173,000 square km (17.3 million hectares) of",
-                "image": "https://s.yimg.com/lo/mysterio/api/725d17ed1b0163b1a2988e3910cfedfdf7b6770880eb589bccf5a164d8ff62fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0b071ec0b06303af9e1536d7d9b352ef.jpg",
-                "url": "https://sg.news.yahoo.com/kenya-seals-160-million-conservation-162648705.html",
-                "source": "Yahoo News Singapore",
-                "date": "2026-10-21T16:26:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google DeepMind Engineer Resigns in Protest of Pentagon Contract",
-                "desc": "Research engineer Sofia Liguori stepped down from DeepMind due to current military contracts — not speculative fears of an AI apocalypse.",
-                "image": "https://theintercept.com/wp-content/uploads/2026/10/signal-2026-10-19-14-44-27-891_002-e1792527188294.jpg?fit=1200%2C600&w=1200&h=800",
-                "url": "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/",
-                "source": "The Intercept",
-                "date": "2026-10-21T16:25:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NFWF Announces $35.5 Million in Grants to Accelerate Recovery of Endangered and Threatened Species",
-                "desc": "New program targets the final hurdles to species recovery across the nation, while also supporting conservation on working lands shared by wildlife, farmers, ranchers, foresters and other landowners.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/22/1270833.jpg",
-                "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/nfwf-announces-355-million-in-grants-to-accelerate-recovery-of-endangered-and-threatened-species/2451090",
-                "source": "The Manila Times",
-                "date": "2026-10-21T16:23:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cameroon's Eseka rail disaster survivors still waiting for justice, 10 years on",
-                "desc": "A decade after Cameroon’s deadliest rail disaster killed 79 people and injured more than 500, survivors are still living with serious injuries, some compensation remains unpaid and an appeal against…",
-                "image": "https://s.rfi.fr/media/display/7c94b2c2-ccfa-11f1-b3d1-4dd8ac2cf3bf/w:1280/p:16x9/AP16296707809075.jpg",
-                "url": "https://www.rfi.fr/en/africa/20261021-cameroon-s-eseka-rail-disaster-survivors-still-waiting-for-justice-10-years-on",
-                "source": "RFI",
-                "date": "2026-10-21T16:22:39Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-23T05:57:45.128427Z"
+    "lastGlobalSync": "2026-10-23T11:28:32.197119Z"
 }
