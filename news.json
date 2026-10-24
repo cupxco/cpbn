@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher",
+                "desc": "Soaring oil tanker rates are adding as much as $40 per barrel to transportation costs, disrupting global crude trade and increasing pressure on fuel prices.",
+                "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_ki5euwavog.jpg",
+                "url": "https://oilprice.com/Energy/Energy-General/The-Hidden-40-Per-Barrel-Cost-Driving-Oil-Prices-Higher.html",
+                "source": "Crude Oil Prices Today | OilPrice.com",
+                "date": "2026-10-23T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+                "desc": "Anthropic claims AI will shift how work gets done and labor demand – but some experts are skeptical of the vision",
+                "image": "https://i.guim.co.uk/img/media/7f1d891b55886b1bfb45b0cdd3e7df3e842cbdce/0_31_3364_2691/master/3364.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=812dc06a4109b602c9bb68825ce5ca3a",
+                "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+                "source": "The Guardian",
+                "date": "2026-10-23T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Micron Stock Leads Chip Rebound. Dip Buyers Must Buckle Up as AI Chaos Swirls.",
+                "desc": "Micron stock is rising Friday, leading a rebound in chip stocks into the end of a volatile week. While buy-the-dip calls continue, AI sentiment remains volatile.",
+                "image": "https://images.barrons.com/im-26090407/social",
+                "url": "https://www.barrons.com/articles/micron-stock-price-chip-rebound-dip-buyers-0d707a5c",
+                "source": "Barron's",
+                "date": "2026-10-23T13:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Darden, Brinker stocks rise ahead of restaurant earnings",
+                "desc": "Shares of companies with multiple restaurant brands like Brinker and Darden are outperforming single-chain stocks like McDonald's and Chipotle.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108076000-1734123208010-gettyimages-2189819267-075a6882_jpeqlhef.jpeg?v=1767052318&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html",
+                "source": "CNBC",
+                "date": "2026-10-23T13:55:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RBI Governor Sanjay Malhotra At NDTV World Summit",
+                "desc": "The government has mandated the RBI to keep inflation at 4 per cent, with a 2 per cent margin on either side.",
+                "image": "https://c.ndtvimg.com/2026-10/rfnfo68s_rbi-governor-_625x300_23_October_26.jpeg",
+                "url": "https://www.ndtv.com/india-news/ndtv-world-summit-2026-high-inflation-is-like-tax-on-everyone-rbi-governor-sanjay-malhotra-at-ndtv-world-summit-12226387",
+                "source": "NDTV",
+                "date": "2026-10-23T13:54:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Sudan, Ethiopia and Rwanda rank among world's fastest-growing economies in 2026, outpacing Nigeria, South Africa, China and the US",
+                "desc": "South Sudan, Ethiopia and Rwanda rank among the worlds fastest-growing economies in 2026, with projected growth rates exceeding those of Africas economic heavyweights, including Nigeria, South Africa and Egypt, as well as global powers such as the United States and China. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/nd9ktkpTURBXy85ZmRkZmY1YTJjMjgzMTE4OTM5NGM1NjBlNTE5MGQ1MS5qcGeSlQMAOs0MwM0HLJMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/south-sudan-ethiopia-and-rwanda-rank-among-worlds-fastest-growing-economies-in-2026/j7ftp5b",
+                "source": "Business Insider Africa",
+                "date": "2026-10-23T13:53:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "American Express Falls 3% Despite Q3 Beat and Higher Profit Floor; Visa and Mastercard Slip",
+                "desc": "American Express just raised its profit floor and reported a clean earnings beat, yet shareholders are selling hard while Visa and Mastercard barely flinch. Something in the fine print is spooking investors, and the answer comes down to one revenue line and a tax rate that may not repeat.",
+                "image": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry4-Lvv.jpg",
+                "url": "https://247wallst.com/investing/2026/10/23/american-express-falls-3-despite-q3-beat-and-higher-profit-floor-visa-and-mastercard-slip/",
+                "source": "24/7 Wall St.",
+                "date": "2026-10-23T13:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK government to make unprecedented intervention in setting of water bills",
+                "desc": "Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’",
+                "image": "https://i.guim.co.uk/img/media/6e6d4ee22eab5275b653a66fe8a910a8b070e716/363_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcb67b3b045a68c91f6428d5a8711bfd",
+                "url": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
+                "source": "The Guardian",
+                "date": "2026-10-23T13:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "30 Days, 12-Month FSD [2026]",
+                "desc": "Tesla cancelled Cybertruck reservations in Australia and NZ. See the Cybertruck Australia refund timeline, the 12-month FSD offer and what it means.",
+                "image": "https://tech-insider.org/wp-content/uploads/2026/10/cybertruck-anz-refund-30-days-12-month-fsd-offer-2026-gen.webp",
+                "url": "https://tech-insider.org/cybertruck-anz-refund-30-days-12-month-fsd-offer-2026/",
+                "source": "https://tech-insider.org/",
+                "date": "2026-10-23T13:50:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bloom Energy Q3 Earnings: 3 Key Takeaways for Long-Term Investors",
+                "desc": "Non-GAAP operating margin expanded to 23.1% as revenue growth vastly outpaced expense growth, a sign of pricing power amid surging demand.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/earnings/takeaways/2026/10/23/bloom-energy-q3-earnings-3-key-takeaways-for-long-term-investors/",
+                "source": "The Motley Fool",
+                "date": "2026-10-23T13:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Jensen Huang, robot ducks and neocloud distress",
                 "desc": "The word on the ground from Nvidia's German showpiece conference.",
                 "image": "https://image.cnbcfm.com/api/v1/image/108450923-1792750261614-gettyimages-2300714363-GERMANY_NVIDIA.jpeg?v=1792750317&w=1920&h=1080",
@@ -542,99 +632,99 @@
                 "source": "24/7 Wall St.",
                 "date": "2026-10-22T12:45:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Retired Woking decorator's Pokémon cards sell for £1.5m",
-                "desc": "He says he found treasure in his attic where the collection had been stored for 15 years.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e244/live/5f3cdc30-ce22-11f1-9a39-31b474234113.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
-                "source": "BBC",
-                "date": "2026-10-22T10:13:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Retired Woking decorator's Pokémon cards sell for £1.5m",
-                "desc": "He says he found treasure in his attic where the collection had been stored for 15 years.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b9d5/live/f05841f0-cdfa-11f1-97f7-a7674fb562de.jpg",
-                "url": "https://www.bbc.com/news/articles/cvp8gy1zwxxwo",
-                "source": "BBC",
-                "date": "2026-10-22T10:13:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Markets sell off worldwide as further conflict looms in the Middle East and Elon Musk cuts capex guidance",
-                "desc": "High oil prices are bad for Asia, which imports most of its fuel.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2298610079-e1792663648776.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/10/22/markets-sell-off-worldwide-further-conflict-looms-middle-east-elon-musk-cuts-capex-guidance/",
-                "source": "Fortune",
-                "date": "2026-10-22T10:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
-                "desc": "Company says deal will keep its chief executive living in California even if state brings in one-off billionaire tax",
-                "image": "https://i.guim.co.uk/img/media/0bd6c2aa77aaa503245e7564ad9c884f2244ffdc/840_0_4229_3383/master/4229.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=115e2672a7066ea0cfdba8a5c5c74c22",
-                "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
-                "source": "The Guardian",
-                "date": "2026-10-22T10:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show",
-                "desc": "For years, the UAE has been associated with relatively affordable fuel. But a surge in global oil prices has changed the picture.",
-                "image": "https://c.ndtvimg.com/2026-10/0je88e0k_india-vs-uae_625x300_22_October_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-                "url": "https://www.ndtv.com/business-news/petrol-diesel-cheaper-india-than-uae-dubai-what-numbers-show-12219842",
-                "source": "NDTV",
-                "date": "2026-10-22T10:08:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grabbing a bargain: Japan's claw machines cash in on inflation",
-                "desc": "With one eye on her baby in a pushchair, Minae Kamata operates an arcade machine in a Tokyo suburb, manipulating a claw to grab not a stuffed toy but a pack of toilet paper.",
-                "image": "https://s.france24.com/media/display/178f0e2a-ce00-11f1-88ff-97baf3e9dd31/w:1280/p:16x9/b48ed766434b215668af41660c8f85c9fb1afc82.jpg",
-                "url": "https://www.france24.com/en/live-news/20261022-grabbing-a-bargain-japan-s-claw-machines-cash-in-on-inflation",
-                "source": "France 24",
-                "date": "2026-10-22T10:05:22Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Iceland boss tells Labour: I didn’t join the benefits party",
-                "desc": "Lord Walker says Government’s ambitions for public services are ‘out of sync’ with its attitude towards welfare",
-                "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/10/22/TELEMMGLPICT000474902550_17926609671950_trans_NvBQzQNjv4Bq9Re1CDZeaTX4x61iiIHL0DxeC2qsTPRyX0wH_IEoCCo.jpeg?impolicy=OG-Standard",
-                "url": "https://www.telegraph.co.uk/politics/2026/10/22/iceland-boss-tells-labour-i-didnt-join-the-benefits-party/",
-                "source": "The Telegraph",
-                "date": "2026-10-22T10:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Should You Buy GE Vernova Stock With $1,000 Right Now?",
-                "desc": "This amazing growth story isn't a matter of lucky timing or rooted in mere wishful thinking.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891261%2Fthinking-man-at-a-desk-reviewing-paperwork.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/10/22/should-you-buy-ge-vernova-stock-with-1000-right-no/",
-                "source": "The Motley Fool",
-                "date": "2026-10-22T10:04:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Africa nears $610 million deal to buy ArcelorMittal South Africa",
-                "desc": "The transaction is expected to be completed by the end of 2026",
-                "image": "https://gmk.center/wp-content/uploads/2026/06/shutterstock_2021194112-1.jpg",
-                "url": "https://gmk.center/en/news/south-africa-nears-610-million-deal-to-buy-arcelormittal-south-africa/",
-                "source": "GMK Center",
-                "date": "2026-10-22T10:03:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sainsbury's raises profit outlook but sales growth slowdown hits shares",
-                "desc": "By James Davey LONDON, Oct 22 (Reuters) - Sainsbury's, Britain's second-biggest supermarket group, followed industry leader Tesco in upgrading the lower end of its full-year profit outlook on Thursday, but slower sales growth in its second quarter sent its shares down 4%. Sainsbury's publsihed its first-half results two weeks after media reports that it held merger talks with smaller rival Morrisons earlier this year but walked away.",
-                "image": "https://live.euronext.com/favicon.ico",
-                "url": "https://live.euronext.com/en/financial-news/sainsburys-raises-profit-outlook-sales-growth-slowdown-hits-shares",
-                "source": "Euronext Markets: Real-time Stock Market Data | live",
-                "date": "2026-10-22T10:03:04Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Save an extra 10% on cycling kit in the Sigma Sports Warehouse Sale with our special code",
+                "desc": "Grab yourself a bargain for Shimano Dura-Ace R9270 Di2, a carbon Trek Domane, carbon wheels and more in Sigma Sports’ latest sale",
+                "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/2b1863dd-5cc1-4b19-a516-f9823463ccdc/thumbnails/6725d31b-91af-473e-959a-c35397f5f708.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+                "url": "https://www.bikeradar.com/bikeradar-bargains/sigma-sports-sale",
+                "source": "BikeRadar",
+                "date": "2026-10-23T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple revives the original iPod as an Apple Music easter egg",
+                "desc": "Apple Music has an interactive virtual iPod on its 404 page with songs from the early 2000s, appearing as the iPod hits its 25th anniversary.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&strip=all&crop=12.805685249999%2C11.686014773698%2C68.258630720705%2C70.949974447181&w=1200",
+                "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
+                "source": "The Verge",
+                "date": "2026-10-23T13:58:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IGS to hold free webinar on taking vertical farming projects to commercial scale",
+                "desc": "Intelligent Growth Solutions (IGS) will host a webinar on October 27 at 3:00 PM UK time, looking at how vertical farming projects gain the investor, partner and customer backing needed to…",
+                "image": "https://www.verticalfarmdaily.com/remote/https/agfstorage.blob.core.windows.net/misc/VFD_com/2025/05/09/IGS.jpg?preset=OgImage",
+                "url": "https://www.verticalfarmdaily.com/article/9886065/igs-to-hold-free-webinar-on-taking-vertical-farming-projects-to-commercial-scale/",
+                "source": "Vertical Farm Daily",
+                "date": "2026-10-23T13:58:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "vivo Y600 carrier listing reveals key specs ahead of launch",
+                "desc": "There's a big battery upgrade compared to the Y500. vivo has already confirmed that the Y600 will launch in China on October 30, with pre-orders opening on...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-y600-carrier-listing/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/vivo_y600_carrier_listing_reveals_key_specs_ahead_of_launch-news-75186.php",
+                "source": "GSMArena.com",
+                "date": "2026-10-23T13:56:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Report: Arkane Studios has until November 13 to find a buyer [Update]",
+                "desc": "Arkane Studios, which Xbox announced plans to divest in July, faces a November 13 deadline in the consultation process surrounding its proposed closure…",
+                "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Arkane-Lyon-Deadline_10-23-26.jpg",
+                "url": "https://www.gematsu.com/2026/10/report-arkane-studios-has-until-november-13-to-find-a-buyer",
+                "source": "Gematsu",
+                "date": "2026-10-23T13:55:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xbox announces new way to play games without Game Pass; here's how much cloud gaming will cost",
+                "desc": "Xbox has introduced a new way for players to access cloud gaming without a Game Pass subscription.",
+                "image": "https://static.toiimg.com/thumb/msid-135148025,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/technology/gaming/xbox-announces-new-way-to-play-games-without-game-pass-heres-how-much-cloud-gaming-will-cost/articleshow/135147977.cms",
+                "source": "The Times of India",
+                "date": "2026-10-23T13:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GameMaker to make its \"next-generation runtime\" GMRT free for commercial use in January 2027",
+                "desc": "\"As GMRT continues to roll out in beta across platforms, we are widening the scope of what we provide to developers,\" says head of GameMaker Russell Kay",
+                "image": "https://assetsio.gnwcdn.com/GMRT-Hero2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027",
+                "source": "GamesIndustry.biz",
+                "date": "2026-10-23T13:52:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "8BitDo Ushers in the Next-Generation of Ultimate, Launching the 8BitDo Ultimate 3E Controller for XBOX",
+                "desc": "Game Outlet Europe, an independent distributor of video games and gaming accessories, announced today that leading gaming hardware brand 8BitDo has begun shipping their most advanced XBOX controller yet, with the Ultimate 3E Controller for XBOX available across the UK and Europe starting today....",
+                "image": "https://www.techpowerup.com/img/HPUIFmgGDaeMOHTZ.jpg",
+                "url": "https://www.techpowerup.com/354064/8bitdo-ushers-in-the-next-generation-of-ultimate-launching-the-8bitdo-ultimate-3e-controller-for-xbox",
+                "source": "TechPowerUp",
+                "date": "2026-10-23T13:52:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best Shark deal: Save $20 on the Shark UltraCyclone Pet Pro Plus",
+                "desc": "As of Oct. 23, the Shark UltraCyclone Pet Pro Plus cordless handheld vacuum has returned to its lowest-ever price of $79.99 at Amazon, 20% off its MSRP.",
+                "image": "https://helios-i.mashable.com/imagery/articles/01dVpDYbFChos4zNlK0N9mM/hero-image.fill.size_1200x675.v1792749676.jpg",
+                "url": "https://mashable.com/tech/oct-23-shark-ultracyclone-pet-pro-plus-cordless-handheld-vacuum-deal",
+                "source": "Mashable",
+                "date": "2026-10-23T13:50:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spotify launches native in-car app on Android Automotive in Audi models",
+                "desc": "The Spotify native Audi app brings phone-free playback to select cars. See supported models, account options, driving limits, and what to check next.",
+                "image": "https://www.online-tech-tips.com/wp-content/uploads/2026/10/spotify-native-in-car-app-android-automotive-audi-featured.webp",
+                "url": "https://www.online-tech-tips.com/spotify-native-in-car-app-android-automotive-audi/",
+                "source": "Online Tech Tips",
+                "date": "2026-10-23T13:46:38Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Call of Duty: Modern Warfare 4",
                 "desc": "Infinity Ward's Multiplayer boss weighs in on Call of Duty: Modern Warfare 4 matchmaking.",
@@ -1174,99 +1264,99 @@
                 "source": "9to5Mac",
                 "date": "2026-10-22T12:28:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Retired Woking decorator's Pokémon cards sell for £1.5m",
-                "desc": "He says he found treasure in his attic where the collection had been stored for 15 years.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9d5/live/f05841f0-cdfa-11f1-97f7-a7674fb562de.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
-                "source": "BBC",
-                "date": "2026-10-22T10:13:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Retired Woking decorator's Pokémon cards sell for £1.5m",
-                "desc": "He says he found treasure in his attic where the collection had been stored for 15 years.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b9d5/live/f05841f0-cdfa-11f1-97f7-a7674fb562de.jpg",
-                "url": "https://www.bbc.com/news/articles/cvp8gy1zwxxwo",
-                "source": "BBC",
-                "date": "2026-10-22T10:13:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Redmi K100 launch date, camera and battery confirmed: What to expect from Xiaomi's new smartphone",
-                "desc": "New Delhi, Oct. 22 -- Xiaomi has announced the key specifications of the Redmi K100 ahead of its China launch on 28 October 2026. The phone will have a 50 MP main rear camera, an in-display fingerprint sensor and IP68 dust and water resistance. Redmi has also shown the handset in a new Firefly Gree…",
-                "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-                "url": "https://www.tradingview.com/news/moodys:382204de6e6ab:0-redmi-k100-launch-date-camera-and-battery-confirmed-what-to-expect-from-xiaomi-s-new-smartphone/",
-                "source": "TradingView",
-                "date": "2026-10-22T10:11:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Recreate the Apollo Guidance Computer",
-                "desc": "Commercial aircraft avionics engineer Michael Newton built an accurate Apollo DSKY replica using modern technology and techniques.",
-                "image": "https://www.raspberrypi.com/app/uploads/2026/10/Recreate-Apollo-–-main-image-Large-835x1024.jpeg",
-                "url": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
-                "source": "Raspberry Pi",
-                "date": "2026-10-22T10:06:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cheapest Sony PS5 Pulse gaming headset comes with directional 3D audio",
-                "desc": "Sony’s cheapest planar magnetic PS5 headset yet has a release date and a price that undercuts the Pulse Elite. Something had to give, of course, but the main premium features made the cut.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Sony-Pulse-headset-with-PS-Link.jpg",
-                "url": "https://www.notebookcheck.net/Cheapest-Sony-PS5-Pulse-gaming-headset-comes-with-directional-3D-audio.1431068.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-10-22T10:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From the Anime to the Game - Free Update Brings Edgerunners 2 Content and More to Cyberpunk 2077!",
-                "desc": "The free Edgerunners 2 Update to Cyberpunk 2077 is available now, with content inspired by the second installment of the hit anime series now streaming on Netflix",
-                "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/EN_CP77_ER2_badge2.5_16x9-8659829d0e6e5766ee9c.jpg",
-                "url": "https://news.xbox.com/en-us/2026/10/22/cyberpunk-2077-edgerunners-2-update/",
-                "source": "XBOX Wire",
-                "date": "2026-10-22T10:03:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
-                "desc": "After testing multiple models, I’m convinced voice control belongs on the family calendar. Greenlight’s Family Hub shows why.",
-                "image": "https://media.wired.com/photos/6ad907aa141b637f559fb800/191:100/w_1280,c_limit/Greenlight%20Family%20Hub%20102026%20top%20art%20SOURCE%20Greenlight.jpg",
-                "url": "https://www.wired.com/story/greenlight-hub-voice-assistant-feature/",
-                "source": "WIRED",
-                "date": "2026-10-22T10:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Narrow-linewidth, piezoelectrically tunable photonic integrated blue laser",
-                "desc": "Frequency-agile lasers operating in the ultraviolet–blue spectral range (360–480 nm) are necessary for a wide range of technologies, including free-space and underwater optical communications, optical atomic clocks, and Rydberg-atom-based quantum computing. Integrated lasers offer a compelling platform for these applications in a compact, robust form factor but remain challenging to realize in this wavelength range. Here we report a photonic integrated blue laser operating at 461 nm, which simultaneously achieves frequency agility and low phase noise. This implementation is based on the hybrid integration of a gallium-nitride-based laser diode, which is self-injection locked to a high-Q microresonator fabricated on a low-loss silicon nitride photonic platform with a propagation loss of ~0.4 dB cm−1. The laser exhibits a sub-30-kHz linewidth and delivers over 1 mW of optical output power. In addition, aluminium nitride piezoelectric actuators are monolithically integrated onto the photonic circuitry to enable the high-speed modulation of refractive index and allow laser frequency tuning. This enables mode-hop-free laser linear frequency chirps up to 900 MHz at repetition rates up to 1 MHz, with tuning nonlinearity below 2%. We showcase the potential applications of this integrated laser in underwater communication and coherent aerosol sensing experiments. Combining a gallium nitride laser diode with a high-Q silicon nitride microresonator results in a low-noise integrated blue laser.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41566-026-02040-9/MediaObjects/41566_2026_2040_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41566-026-02040-9?error=cookies_not_supported&code=e24d57d7-eeb4-4a91-bdcb-463a7e192587",
-                "source": "Nature",
-                "date": "2026-10-22T10:00:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Atari Is Officially Pulling Support for the Atari VCS",
-                "desc": "\"We recognise that this is unwelcome news\" - It's official! Atari is sunsetting the Atari VCS. Initially teased during E3 2017 under the name 'Ataribox', the...",
-                "image": "https://images.timeextension.com/45602e7843b7d/1280x720.jpg",
-                "url": "https://www.timeextension.com/news/2026/10/atari-is-officially-pulling-support-for-the-atari-vcs",
-                "source": "Time Extension",
-                "date": "2026-10-22T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-                "desc": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-                "image": "https://media.wired.com/photos/6ad92806649bdf60df6fd54f/191:100/w_1280,c_limit/Science_Hugging%20Face%E2%80%99s%20Powerful%20New%20DNA%20Model%20Is%20Small%20Enough%20to%20Run%20on%20a%20Laptop_v1.jpg",
-                "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-                "source": "WIRED",
-                "date": "2026-10-22T10:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "At Least 852 Migrants Dead or Missing in Three Months, EU Rights Agency Reports",
+                "desc": "At least 852 people died or went missing while trying to reach Europe by sea between July and September 2026, according to a new report from the European Union Agency for Fundamental Rights.",
+                "image": "https://eutoday.net/wp-content/uploads/2023/07/migrants-italy-1024x682.jpeg",
+                "url": "https://eutoday.net/eu-fra-852-migrants-dead-missing-third-quarter-2026/",
+                "source": "EU Today",
+                "date": "2026-10-23T13:58:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria Seeks New Africa Engagement Anchored On Strategic Autonomy, Investment",
+                "desc": "Enikanolaiye said Africa’s new engagement model was grounded on sovereignty, commitment to African priorities, mutual respect and shared prosperity.",
+                "image": "https://nannews.ng/wp-content/uploads/2026/10/0bbf1407-07c1-4abe-8e28-6852a9cb322d.webp",
+                "url": "https://nannews.ng/nigeria-seeks-new-africa-engagement-anchored-on-strategic-autonomy-investment/",
+                "source": "News Agency of Nigeria",
+                "date": "2026-10-23T13:57:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
+                "desc": "Facilities are being built in many countries, but Finland is the first to licence its underground storage facility.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6adb53d4c3480-1792758740.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository",
+                "source": "Al Jazeera",
+                "date": "2026-10-23T13:54:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi Arabia Lists 3 Categories of Foreigners Eligible for Special Talent Residency",
+                "desc": "Saudi Arabia has announced three eligible categories for its special talent residency, offering high-calibre foreign professionals a pathway to long-term residency.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/973d9f791d9f4d74.jpeg?v=1",
+                "url": "https://yen.com.gh/people/314379-saudi-arabia-lists-3-categories-foreigners-eligible-special-talent-residency/",
+                "source": "Yen News",
+                "date": "2026-10-23T13:54:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How El Niño could push up your mortgage and grocery bills",
+                "desc": "A Pacific climate event has far reaching effects.",
+                "image": "https://images.theconversation.com/files/767533/original/file-20261021-50-kfvjwu.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C4000%2C2000&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/how-el-nino-could-push-up-your-mortgage-and-grocery-bills-294378",
+                "source": "The Conversation",
+                "date": "2026-10-23T13:54:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+                "desc": "Romanian President Nicusor Dan accused Russia of escalating its attacks on NATO's eastern flank.",
+                "image": "https://www.reuters.com/resizer/v2/EOYZ6L2YDFIU7DDDCKVN4LMF3Q.jpg?auth=6b7007ff0d421bb274afe3a8091ce204ec2e5ed478af0b2aed70ec011ffdfc44&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/romania-blames-russia-drone-that-sinks-cargo-ship-1-killed-3-missing-2026-10-23/",
+                "source": "Reuters",
+                "date": "2026-10-23T13:53:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Expert Suggests BRICS Lower VAT To Boost Mutual Trade",
+                "desc": "Anupam Mishra has urged BRICS countries to harmonise value-added tax (VAT) rates to stimulate mutual trade.",
+                "image": "https://nannews.ng/wp-content/uploads/2025/05/cropped-NAN-animated-logo-2-1-32x32.gif",
+                "url": "https://nannews.ng/expert-suggests-brics-lower-vat-to-boost-mutual-trade/",
+                "source": "News Agency of Nigeria",
+                "date": "2026-10-23T13:52:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Woman at centre of Cornell University rape inquiry in 'constant fear', lawyer says",
+                "desc": "The woman, known anonymously as Jane Doe, alleged she was drugged and raped by several men on Cornell's campus.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a622/live/735d40d0-cec0-11f1-ae9c-0303957c36f8.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c6x295kp2pr1o",
+                "source": "BBC",
+                "date": "2026-10-23T13:52:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Woman at centre of Cornell University rape inquiry in 'constant fear', lawyer says",
+                "desc": "The woman, known anonymously as Jane Doe, alleged she was drugged and raped by several men on Cornell's campus.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a622/live/735d40d0-cec0-11f1-ae9c-0303957c36f8.jpg",
+                "url": "https://www.bbc.com/news/articles/c6x295kp2pr1o",
+                "source": "BBC",
+                "date": "2026-10-23T13:52:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fifth UK–West and Central Francophone Africa Trade and Investment Forum (WCAF V): African Development Bank Group and UK Export Finance sign Memorandum of Understanding (MOU) to mobilise financing for",
+                "desc": "The African Development Bank Group (AfDB) (www.AfDB.org) and UK Export Finance (UKEF), the United Kingdom’s export credit agency, have signed a Memorandum of Understanding to strengthen cooperation on co-financing projects across Africa and mobilise additional resources for",
+                "image": "https://www.africa-newsroom.com/files/thumb/20cd033da1ec852/600/418",
+                "url": "https://africa.com/apo/fifth-ukwest-and-central-francophone-africa-trade-and-investment-forum-wcaf-v-african-development-bank-group-and-uk-export-finance-sign-memorandum-of-understanding-mou-to-mobilise-financing-for-africa",
+                "source": "Africa.com",
+                "date": "2026-10-23T13:52:29Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Top ICC official urges EU to act ‘as soon as possible’ on US sanctions",
                 "desc": "Osvaldo Zavala Giler said a “lack of clarity” from Brussels was leaving companies and NGOs in the dark after the White House imposed sweeping sanctions on the International Criminal Court.",
@@ -1806,98 +1896,8 @@
                 "source": "Yahoo",
                 "date": "2026-10-22T12:46:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "What France’s winter of discontent means for global governance",
-                "desc": "This article is authored by Gunwant Singh, scholar, international relations and security studies, Jawaharlal Nehru University, New Delhi.",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/10/22/1600x900/logo/FRANCE-SOCIAL-DEMO-222_1792387017261_V0HX_1792663970564_oXst_b079210d-d104-4c89-945a-e6e58f20ae8f_s8sT.jpg",
-                "url": "https://www.hindustantimes.com/ht-insight/international-affairs/what-france-s-winter-of-discontent-means-for-global-governance-101792663794239.html",
-                "source": "Hindustan Times",
-                "date": "2026-10-22T10:13:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
-                "desc": "The U.S. and Israel are preparing plans for a possible attack on Iran in early November, after the U.S. midterm elections, a person briefed on war planning told NPR. Iran said it is prepared.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2F98%2F9041826c489783e12ef6068beb87%2Fgettyimages-2300727417.jpg",
-                "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
-                "source": "NPR",
-                "date": "2026-10-22T10:12:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK MP Vows to Halt Immigration from Third World Countries, Lists 3 African Nations",
-                "desc": "Rupert Lowe says admits he plans a 'red list' banning civilian immigration from eight named countries, with plans to deport migrants and abolish the refugee system.",
-                "image": "https://cdn.yen.com.gh/images/1200x675/1f51fa462ba26ca4.jpeg?v=1",
-                "url": "https://yen.com.gh/world/314271-uk-mp-vows-halt-immigration-world-countries-lists-3-african-nations/",
-                "source": "Yen News",
-                "date": "2026-10-22T10:11:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU Parliament awards Sakharov Prize to ICC in rebuke of US sanctions",
-                "desc": "The European Parliament awards the Sakharov Prize to the International Criminal Court in a show of support after the US imposed sanctions on the institution.",
-                "image": "https://images.euronews.com/articles/stories/09/96/29/01/1200x675_cmsv2_256d4243-7d2a-5247-8e2b-5f3f1f70a9e7-9962901.jpg",
-                "url": "https://www.euronews.com/2026/10/22/eu-parliament-awards-sakharov-prize-to-icc-in-rebuke-of-us-sanctions",
-                "source": "Euronews.com",
-                "date": "2026-10-22T10:11:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TSH Resources denies involvement in Indonesia haze, reports 274 hotspots",
-                "desc": "KUALA LUMPUR: TSH Resources Bhd said its Indonesian operations have not contributed to the recent transboundary haze, despite detecting 274 hotspots within its estate boundaries between January and Oct 21, 2026.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/22/4175448.png",
-                "url": "https://www.thestar.com.my/business/business-news/2026/10/22/tsh-resources-denies-involvement-in-indonesia-haze-reports-274-hotspots",
-                "source": "The Star",
-                "date": "2026-10-22T10:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Six European destinations included in ‘Best of the World’ selection for 2027",
-                "desc": "National Geographic has curated its list of 25 must-visit places for 2027, with six destinations in Europe making the cut, including the Tricity area in Poland and Vestland in Norway.",
-                "image": "https://images.euronews.com/articles/stories/09/96/20/45/1200x675_cmsv2_5ea9ed23-6e03-5f28-97bc-57c8ee65c0c5-9962045.jpg",
-                "url": "https://www.euronews.com/2026/10/22/six-european-destinations-included-in-best-of-the-world-selection-for-2027",
-                "source": "Euronews.com",
-                "date": "2026-10-22T10:10:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sakharov Prize won by the International Criminal Court (ICC)",
-                "desc": "The EU has announced the International Criminal Court as the winner of this year's Sakharov Prize. The annual prize is awarded to individuals and organizations for their work in supporting human rights and democracy.",
-                "image": "https://static.dw.com/image/79731368_6.jpg",
-                "url": "https://www.dw.com/en/eus-sakharov-prize-won-by-the-international-criminal-court/a-79730914",
-                "source": "DW.com",
-                "date": "2026-10-22T10:10:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Son of Aung San Suu Kyi speaks to her for first time in five years in dramatic breakthrough",
-                "desc": "Kim Aris spoke to his 81-year-old mother for 20 minutes on the phone, the first time they have had any contact for five years, and said she ‘sounded strong’",
-                "image": "https://static.independent.co.uk/2026/10/20/08/2026-10-19T135029Z_1422108732_RC2D6OAV8B5Z_RTRMADP_3_MYANMAR-POLITICS.JPG?trim=81,124,69,95&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/asia/southeast-asia/aung-san-suu-kyi-breakthrough-son-kim-aris-telephone-b3071330.html",
-                "source": "The Independent",
-                "date": "2026-10-22T10:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "EU Advocate General backs energy windfall levy against legal challenges",
-                "desc": "EU and global regulatory and policy monitoring, fact-checking, legal documents, policy positions, business, finance, digital transformation, security, sustainability.",
-                "image": "https://ieu-monitoring.com/wp-content/uploads//2023/11/ieu-logo-neu-150x150.png",
-                "url": "https://ieu-monitoring.com/editorial/eu-advocate-general-backs-energy-windfall-levy-against-legal-challenges/1252879?utm_source=ieu-portal",
-                "source": "INSIGHT EU MONITORING",
-                "date": "2026-10-22T10:09:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malta Offers 2 Types of Residency Schemes to Foreigners, Explains Features",
-                "desc": "Malta has announced two types of residency schemes that are open to foreigners. The government also explained what visitors should know about the residency types.",
-                "image": "https://cdn.legit.ng/images/1200x675/de000e8bcde81f9e.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1737372-malta-offers-2-residency-schemes-foreigners-what-know/",
-                "source": "Legit News",
-                "date": "2026-10-22T10:09:11Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-23T23:00:25.650999Z"
+    "lastGlobalSync": "2026-10-24T02:00:17.498594Z"
 }
