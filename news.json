@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "After previous day's slump, trading is quieter among AI shares",
+                "desc": "Big AI stocks were mixed on Friday, a day after the biggest decline in the Nasdaq Composite Index in four months, giving investors a welcome respite ​as they look forward to more information on Anthropic's forthcoming IPO and a further wave of earnings over the next week.",
+                "image": "https://www.reuters.com/resizer/v2/IB5NA5OZN5IDPCY2TKWS6XO4AQ.jpg?auth=978295e0cf63eb67704de1193463b54105758baef8508cb88fac8dfd61df392e&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/business/after-previous-days-slump-trading-is-quieter-among-ai-shares-2026-10-23/",
+                "source": "Reuters",
+                "date": "2026-10-23T19:34:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICE wants robot dogs. Boston Dynamics' workers urge company to 'cancel the sale'",
+                "desc": "Dozens of employees at Boston Dynamics have petitioned the company to stop the sale of its robot dogs to U.S. Immigration and Customs Enforcement.",
+                "image": "https://media.wbur.org/wp/2024/06/Dancing_Robots_Tech_21020745272999-1000x667.jpg",
+                "url": "https://www.wbur.org/news/2026/10/23/boston-dynamics-employees-petition-dhs",
+                "source": "WBUR",
+                "date": "2026-10-23T19:34:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Not Starlink. Not Starship. Not Grok. $561 Million of SpaceX's $4.4 Billion Profit Came From an Unexpected Source.",
+                "desc": "Space Exploration Technologies reported a surprise profit in the third quarter, but not all of it came from rockets or artificial intelligence (AI).",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892251%2Fgettyimages-2151542518-1400x933-5064d69.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/10/23/not-starlink-not-starship-not-grok-561-million-of/",
+                "source": "The Motley Fool",
+                "date": "2026-10-23T19:33:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stock Market Faces Major Risks Next Week Amid AI Trade Weakness and Earnings Season",
+                "desc": "The stock market faces major risks next week as the AI trade weakens, with 163 S&P 500 earnings announcements, a Federal Reserve meeting and inflation data",
+                "image": "https://assets.staticimg.com/@kudos/runtime/0.6.18/assets/og-ea52b6f9440e857c.jpg",
+                "url": "https://www.kucoin.com/news/flash/stock-market-faces-major-risks-next-week-amid-ai-trade-weakness-and-earnings-season",
+                "source": "KuCoin",
+                "date": "2026-10-23T19:24:02Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Microsoft AI tool diagnoses complex cases twice as well as doctors",
+                "desc": "Microsoft's new medical AI diagnosis tool uses an orchestrator AI approach to diagnose patients step by step, proving more than twice as accurate as general physicians on complex cases.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/0/0/nvidia-ai-healthcare.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/markets/microsoft-says-its-ai-tool-outperforms-generalist-doctors-complex-diagnoses",
+                "source": "Fox Business",
+                "date": "2026-10-23T19:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tata Sons AGM deadline nears as Tata Trusts deadlock clouds voting",
+                "desc": "Tata Sons is currently observing the situation involving its majority owners, Tata Trusts, regarding governance issues. The annual general meeting (AGM) deadlines are approaching and require shareholder majority for resolutions. Important changes in trustee roles could affect voting dynamics significantly. Legal experts suggest focusing on regulatory clarity to facilitate successful AGM execution. Clear representation and consensus among the trusts are critical for passing necessary resolutions.",
+                "image": "https://img.etimg.com/thumb/msid-135154604,width-1200,height-900,imgsize-45652,overlay-economictimes/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-agm-deadline-nears-as-tata-trusts-deadlock-clouds-voting/articleshow/135154520.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-10-23T19:18:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CEO Mark Zuckerberg Keeps Winning With Meta's AI Moves and Muse Launch",
+                "desc": "CEO Mark Zuckerberg's risky AI bets and layoffs are showing signs of paying off after the success of Meta's Muse launch. Big questions still loom.",
+                "image": "https://i.insider.com/6adba62bab741a2ebdf10d45?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/ceo-mark-zuckerberg-keeps-winning-meta-ai-moves-muse-launch-2026-10",
+                "source": "Business Insider",
+                "date": "2026-10-23T19:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple nears Nvidia market cap ahead of Nov. 2 earnings",
+                "desc": "Apple stock is trading near record highs and closing in on Nvidia's market cap. Portfolio manager Jeff Kilburg explains what's driving the rally and why he thinks the momentum could continue.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108448886-17927081362026-10-22t222259z_1523125459_rc2m8oap0agx_rtrmadp_0_apple-iphone-australia.jpeg?v=1792708201&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/23/apple-nvidia-market-cap-earnings.html",
+                "source": "CNBC",
+                "date": "2026-10-23T19:07:32Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Loblaw CEO apologizes to 2 million shoppers for personal data hack, offers free credit monitoring",
+                "desc": "The CEO of Canada’s largest grocery retailer is apologizing to about two million shoppers for a data breach earlier this year.",
+                "image": "https://i.cbc.ca/ais/1.2527791,1391802525000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/business/loblaw-data-breach-apology-9.7393626",
+                "source": "CBC",
+                "date": "2026-10-23T19:07:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI Details Training Containment Overhaul After September Model Incident",
+                "desc": "OpenAI published a detailed account on October 23, 2026, of how it hardened the environments it uses to train and evaluate frontier models, disclosing a standing policy of training frontier models with no internet access...",
+                "image": "https://www.unite.ai/wp-content/uploads/2026/10/openai-details-training-containment-overhaul-after-september-model-incident.jpg",
+                "url": "https://www.unite.ai/openai-details-training-containment-overhaul-after-september-model-incident/",
+                "source": "Unite.AI",
+                "date": "2026-10-23T19:07:13Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher",
                 "desc": "Soaring oil tanker rates are adding as much as $40 per barrel to transportation costs, disrupting global crude trade and increasing pressure on fuel prices.",
                 "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_ki5euwavog.jpg",
@@ -542,99 +632,99 @@
                 "source": "The Hollywood Reporter",
                 "date": "2026-10-22T17:38:19Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Barclays To Cut 5,000 Jobs In AI-Driven Efficiency Push",
-                "desc": "British banking giant Barclays has announced plans to cut about 5,000 jobs, representing roughly five per cent of its global workforce, by the end of 2026 as",
-                "image": "https://leadership.ng/wp-content/uploads/2026/10/images-2026-10-22T122254.166.jpg",
-                "url": "https://leadership.ng/barclays-to-cut-5000-jobs-in-ai-driven-efficiency-push/",
-                "source": "LEADERSHIP Newspapers",
-                "date": "2026-10-22T12:57:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold, silver pressured despite lower yields as Hormuz attacks send crude higher - Kitco AM Report",
-                "desc": "(Kitco NewsWire) – Spot gold and silver prices were sharply lower in early U.S. trading Thursday, as renewed attacks on commercial shipping in the Strait of Hormuz and rising Middle East tensions pushed crude oil prices higher, reinforcing inflation concerns and expectations for additional Federal Reserve tightening. Precious metals failed to benefit from lower Treasury yields and defensive demand as the prospect of persistently elevated interest rates continued to weigh on bullion. At the latest verified morning price reading, spot gold was near $4,086.90 an ounce, down $53.40, or 1.29%, while spot silver was near $55.790, down $2.070, or 3.57%.The latest U.S. labor-market figures provided another indication of economic resilience despite high borrowing costs and weakening housing activity. Weekly initial jobless claims declined by 6,000 to a seasonally adjusted 194,000 in the week ended Oct. 17, below expectations of approximately 200,000 and down from the previous week's upwardly revised 200,000. The four-week moving average fell by 1,000 to 197,750. Continuing claims increased by 25,000 to 1.728 million in the week ended Oct. 10, while the insured unemployment rate remained unchanged at 1.1%. The decline in new claims suggests layoffs remain limited, although rising continuing claims indicate that unemployed workers may be taking longer to find new jobs.Market positioning continues to favor an October pause followed by additional monetary tightening before year-end. Traders assign a high probability to no change at the Fed's Oct. 27-28 meeting, while the likelihood of a 25-basis-point increase in December remains around 86%. Thursday's stronger-than-expected jobless claims reinforced the view that the labor market has not weakened enough to force an immediate change in policy, while rising energy prices are intensifying concerns about the inflation outlook. Treasury yields nevertheless declined as renewed selling in technology stocks and escalating Middle East tensions supported demand for government bonds. The benchmark 10-year Treasury yield fell toward the 5.0% area, providing some relief from recent highs, although gold remained under selling pressure. The decline underscores the continuing importance of Fed rate expectations and portfolio positioning relative to traditional safe-haven demand.The Federal Reserve remains in its premeeting communications blackout, leaving incoming data as the principal influence on interest rate expectations. Thursday's remaining calendar includes the Conference Board's September leading economic index and the Kansas City Fed manufacturing survey. Friday brings preliminary October manufacturing and services purchasing managers' indexes at 9:45 a.m. EDT, followed by the final University of Michigan consumer sentiment survey at 10 a.m. EDT. Next week's Oct. 27-28 Fed meeting and the Oct. 29 personal consumption expenditures inflation report will be major tests of December tightening expectations. Softer activity figures and easing inflation expectations could reduce pressure on Treasury yields and provide support for gold, while resilient employment and persistent cost increases would reinforce expectations for additional monetary tightening.The Strait of Hormuz and U.S.-Iran situation deteriorated further Thursday following reports of another series of attacks on commercial shipping and continuing threats against U.S. military assets in the region. Iran claimed that seven oil tankers were damaged or caught fire overnight after being struck or encountering naval mines in the waterway, although the full extent of the incidents has not been independently confirmed. Iran's Revolutionary Guard renewed warnings that U.S. bases could be targeted if American forces continue assisting commercial shipping through the strait. Washington has increased its military presence in the region, while diplomatic efforts to resume formal negotiations remain stalled. Tehran continues to offer a conditional reopening of the shipping corridor in exchange for concessions that include ending the U.S. blockade of Iranian ports, but no agreement has been reached. Renewed Houthi attacks against Saudi Arabian infrastructure have added to concerns about regional escalation and the security of alternative energy-export routes.The latest escalation pushed Brent crude above $112.00 a barrel, its highest level since May, while WTI approached $100.00. The rise in energy prices underscores the continuing risk that renewed disruptions to Gulf shipping could intensify global inflation pressure. For gold, the heightened geopolitical uncertainty supports defensive demand, but the accompanying rise in crude oil prices strengthens the case for restrictive U.S. monetary policy, offsetting some of bullion's safe-haven appeal. Silver has come under greater selling pressure as higher borrowing costs and concerns about industrial activity compound the impact of weakness in gold.Global risk sentiment deteriorated before the U.S. open, with technology stocks leading declines amid renewed concerns about artificial intelligence investment, financing costs and corporate valuations. U.S. stock index futures pointed to a weaker opening, with Nasdaq futures underperforming after a brief midweek recovery. European equities were also lower as investors assessed elevated energy costs, persistent fiscal uncertainty in France and the prospect of restrictive monetary policy. Asian equity markets weakened, reflecting renewed pressure on technology shares and concerns about the impact of high energy prices on corporate earnings. Government bonds found support as investors reduced exposure to equities, while the combination of falling bond yields and rising crude prices highlighted the competing influences of slowing growth and persistent inflation.The key outside markets see Nymex WTI crude oil prices higher and trading near $99.95 a barrel, while Brent crude was near $112.41. The yield on the benchmark 10-year U.S. Treasury note is trading near the 5.0% area. The U.S. dollar remains comparatively firm against major currencies, with continuing expectations for restrictive Fed policy limiting the benefit to gold from lower bond yields. (Kitco Global Index shows how much of today's gold move is the dollar versus the gold market itself.)Technically, spot gold bulls' next upside price objective is to push prices back above the $4,124.25 to $4,143.48 resistance zone, with a sustained recovery through that area needed to ease near-term selling pressure. Bears' next near-term downside price objective is a break below the $4,079.00 to $4,068.00 support zone, with deeper downside targets at $4,058.00 and then $4,038.00. First resistance is seen at $4,124.25 and then at $4,143.48. First support is seen at $4,079.00 and then at $4,068.00.Spot silver bulls' next upside price objective is to drive prices back above the $56.920 to $57.390 resistance zone, with a sustained move through that area needed to reverse the recent breakdown. The next downside price objective for the bears is a break below $56.340, with deeper downside targets at $55.410 and then $54.750. First resistance is seen at $56.920 and then at $57.390. Next support is seen at $56.340 and then at $55.410.See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.",
-                "image": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0&left=0&width=1024&height=576&scale_width=1920&token=0d9da6ca319ebd6ec3558a5a67daf43aac0dbad78ed3a55760c605840c32fcf3",
-                "url": "https://www.kitco.com/news/article/2026-10-22/gold-silver-pressured-despite-lower-yields-hormuz-attacks-send-crude-higher",
-                "source": "Kitco",
-                "date": "2026-10-22T12:57:13Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "China's Ford Ranger Rival Looks Tough With Ironman 4x4 Accessories",
-                "desc": "Coming to the Australian market in 2027, the Chery Stockman - rival to the Ford Ranger - recently unveiled a partnership with off-road outfitter Ironman 4x4.",
-                "image": "https://www.carscoops.com/img/gallery/chinas-ford-ranger-rival-looks-tough-with-ironman-4x4-accessories/l-intro-1792673614.jpg",
-                "url": "https://www.carscoops.com/2293935/chery-stockman-ironman-accessories/",
-                "source": "CarScoops",
-                "date": "2026-10-22T12:56:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "International investors give Ireland the thumbs up, ignoring corporate tax warnings",
-                "desc": "‘Markets are pricing today’s tax windfall, not tomorrow’s risks’, warns fiscal council",
-                "image": "https://www.irishtimes.com/resizer/v2/H4T2MS6BQZFBXK66H3ABO4POWU.jpg?smart=true&auth=0f1cfcb6102b21709a469ee785b7faa0ed29873db27c74e320decf2edbda6331&width=1200&height=630",
-                "url": "https://www.irishtimes.com/your-money/2026/10/22/international-investors-give-ireland-the-thumbs-up-ignoring-corporate-tax-warnings/",
-                "source": "The Irish Times",
-                "date": "2026-10-22T12:54:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready",
-                "desc": "Tesla is manufacturing humanoid robots while still working out how to make them useful, reliable, and durable enough for customers.﻿",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings",
-                "source": "The Verge",
-                "date": "2026-10-22T12:53:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GST reforms to be rolled out in phases from Nov 1",
-                "desc": "Goods and Services Tax (GST) reforms aimed at easing compliance for businesses will be rolled out in phases starting November 1, while changes requiring amendments to the law are",
-                "image": "https://im.rediff.com/money/2025/sep/12gst-consumer.jpg",
-                "url": "https://m.rediff.com/news/commentary/2026/oct/22/gst-reforms-to-be-rolled-out-in-phases-from-nov-1/ae9686539ba6c1b54c4ad1bc3e249c89",
-                "source": "Rediff",
-                "date": "2026-10-22T12:50:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GST reforms to be rolled out in phases from Nov 1",
-                "desc": "Goods and Services Tax (GST) reforms aimed at easing compliance for businesses will be rolled out in phases starting November 1, while changes requiring amendments to the law are",
-                "image": "https://im.rediff.com/money/2025/sep/12gst-consumer.jpg",
-                "url": "https://www.rediff.com/news/commentary/2026/oct/22/gst-reforms-to-be-rolled-out-in-phases-from-nov-1/ae9686539ba6c1b54c4ad1bc3e249c89",
-                "source": "Rediff",
-                "date": "2026-10-22T12:50:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amex Travel Adds Airbnb Bookings, New $250 Platinum Credit",
-                "desc": "AmexTravel.com adds 1 million Airbnb listings, plus new ways to use your Platinum card’s $600 credit and unlock an extra $250.",
-                "image": "https://upgradedpoints.com/wp-content/uploads/2026/10/Juan-Ruiz-Airbnb-Turks-Caicos.jpg",
-                "url": "https://upgradedpoints.com/news/amex-travel-airbnb-bookings-platinum-credits/",
-                "source": "Upgraded Points",
-                "date": "2026-10-22T12:49:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta Platforms beat the Street. Here's why analysts are bullish on the stock",
-                "desc": "Meta posted third-quarter financial results postmarket Wednesday. Afterward, analysts said there is a lot to like about the Instagram parent's stock.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108437183-1792499708895-gettyimages-2299615607-AFP_D39K34J.jpeg?v=1792499729&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/22/meta-platforms-beat-the-street-heres-why-analysts-are-bullish-on-the-stock.html",
-                "source": "CNBC",
-                "date": "2026-10-22T12:48:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ASML Vs. Taiwan Semiconductor: Who Can More Fully Satisfy AI Demand?",
-                "desc": "Both ASML and TSMC say AI demand outstrips everything they can build, but each company is betting on a different strategy to close that gap. One controls the scarcest tool in chipmaking while the other controls the fabs, the nodes, and the packaging, so figuring out which has the faster path to more supply changes the investment case entirely.",
-                "image": "https://247wallst.com/wp-content/uploads/2019/01/imageforentry11-y5i.jpg",
-                "url": "https://247wallst.com/investing/2026/10/22/asml-vs-taiwan-semiconductor-who-can-more-fully-satisfy-ai-demand/",
-                "source": "24/7 Wall St.",
-                "date": "2026-10-22T12:45:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "On Warhammer TV this week - Devastation and drybrushing",
+                "desc": "Enjoy lore, painting challenges, and episode two of Arkanaut.",
+                "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/whplus-oct20-2-share-nqkocmwgay.jpg",
+                "url": "https://www.warhammer-community.com/en-gb/articles/thujy0zv/on-warhammer-tv-this-week-devastation-and-drybrushing/",
+                "source": "Warhammer Community",
+                "date": "2026-10-23T19:28:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Call of Duty' seeks to win back fans with warfare spectacle",
+                "desc": "The latest instalment in the \"Call of Duty\" video game franchise, arriving Friday, brings back the high-adrenaline action that fuelled its success in an effort to revitalise a series that has been losing momentum.",
+                "image": "https://www.enca.com/sites/default/files/styles/large/public/afp/2026-10/doc-D46Y3WG-%40photo0.jpg.webp?itok=U8IRtut1",
+                "url": "https://www.enca.com/lifestyle/call-duty-seeks-win-back-fans-warfare-spectacle",
+                "source": "eNCA",
+                "date": "2026-10-23T19:21:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung extends its Certified Re-Newed program to Amazon US",
+                "desc": "These phones are refurbished by Samsung specialists using genuine parts and are given a new IMEI and a 1-year limited warranty.",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/amazon-us-samsung-certified-re-newed-program/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/samsung_extends_its_certified_renewed_program_to_amazon_us-news-75189.php",
+                "source": "GSMArena.com",
+                "date": "2026-10-23T19:21:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Potatoes could be the secret to better plant-based meat, say food scientists",
+                "desc": "Potatoes could hold the key to making better gluten-free plant-based meat, according to a new study.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/potatoes-could-be-the.jpg",
+                "url": "https://phys.org/news/2026-10-potatoes-secret-based-meat-food.html",
+                "source": "Phys.org",
+                "date": "2026-10-23T19:20:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Elder Scrolls Online adds Skyrim content and solo dungeons to its base game",
+                "desc": "ESO’s new season adds Greymoor and Wolfhunter to the base game, with two redesigned solo dungeons now live and Markarth following on November 9.",
+                "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_2b797e150cbb9ad7eec9d9089e79df4adc21e797.1920x1080.jpg",
+                "url": "https://mixed-news.com/en/elder-scrolls-online-greymoor-free-solo-dungeons/",
+                "source": "MIXED Reality News",
+                "date": "2026-10-23T19:09:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Check out two new commercials for Zelda Ocarina of Time Remake (UPDATE)",
+                "desc": "Spoilers (?) ahead!",
+                "image": "https://gonintendo.com/attachments/image/87641/file/medium-0e8752e1815621cb035dafbb601ffef8.jpg",
+                "url": "https://gonintendo.com/contents/66171-check-out-two-new-commercials-for-zelda-ocarina-of-time-remake-update",
+                "source": "GoNintendo",
+                "date": "2026-10-23T19:06:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Music has a fully functional iPod Easter Egg",
+                "desc": "You can listen to samples of a bunch of songs on a virtual iPod on the Apple Music website.",
+                "image": "https://helios-i.mashable.com/imagery/articles/03Fxfgvh0WxDoU4DUTpLL2Q/hero-image.fill.size_1200x675.v1792772888.jpg",
+                "url": "https://mashable.com/tech/apple-music-ipod-easter-egg",
+                "source": "Mashable",
+                "date": "2026-10-23T19:05:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple’s iPhone Duo Launch Kicks Off Crucial Stretch for the Stock",
+                "desc": "Apple’s foldable iPhone goes on sale ahead of an expected touchscreen MacBook launch and fiscal fourth-quarter earnings.",
+                "image": "https://images.barrons.com/im-81358289/social",
+                "url": "https://www.barrons.com/articles/apple-stock-iphone-duo-launch-earnings-dc12a261",
+                "source": "Barron's",
+                "date": "2026-10-23T19:03:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Restaurant review: Picture-perfect Kinsale pub nails its seafood but shortcuts hurt it elsewhere",
+                "desc": "Donal Crosbie obviously knows how to cook and, when he nails it, he does so with aplomb",
+                "image": "https://www.irishexaminer.com/cms_media/module_img/10534/5267237_2_org_LC_20bulman_2006.jpg",
+                "url": "https://www.irishexaminer.com/food/arid-41927114.html",
+                "source": "Irish Examiner",
+                "date": "2026-10-23T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+                "desc": "BlackX bootkit exploits unrevoked Secure Boot binaries on Windows devices after attackers gain admin access to Central Asian diplomatic networks.",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1700-nu-rw-lo-l85-e365/uefi.jpg",
+                "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+                "source": "The Hacker News",
+                "date": "2026-10-23T18:50:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Save an extra 10% on cycling kit in the Sigma Sports Warehouse Sale with our special code",
                 "desc": "Grab yourself a bargain for Shimano Dura-Ace R9270 Di2, a carbon Trek Domane, carbon wheels and more in Sigma Sports’ latest sale",
@@ -1174,99 +1264,99 @@
                 "source": "Nintendo Life",
                 "date": "2026-10-22T17:45:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Helix Console Price Reportedly Estimated",
-                "desc": "Xbox is also reportedly planning a Game Pass overhaul and more layoffs in the coming months.",
-                "image": "https://cdn.80.lv/api/upload/meta/50726/images/6ada063e767e7/contain_1200x630.jpg",
-                "url": "https://80.lv/articles/xbox-helix-console-price-reportedly-estimated-handheld-planned-for-2027",
-                "source": "80 Level",
-                "date": "2026-10-22T12:55:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OPPO Find X10 Series Launches Globally with True-to-Life Imaging and All-Round Flagship Upgrades",
-                "desc": "SHENZHEN, CHINA – Media OutReach Newswire – 22 October 2026 – Leading global smart device brand OPPO today announced",
-                "image": "https://pix.xpr.media/p/eyJzIjoiNWExZGJhNzYtNTZmMi00MGRkLTgyZjEtYmFlOWE1M2QyZDhjIiwiYyI6ImMzNGY2NWRlLTdiZjUtNDVkYi1iYWMzLTljZmM4MDdhMTExZCIsInYiOjF9.iJyF8CkDw4rNNzJm2zmJFwTKOKk4rkZDaUXHxvGgOB8.gif",
-                "url": "https://www.usatoday.com/press-release/story/52015/oppo-find-x10-series-launches-globally-with-true-to-life-imaging-and-all-round-flagship-upgrades/",
-                "source": "USA Today",
-                "date": "2026-10-22T12:48:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I Asked Gemini to Run My Googlebook. It Told Me to Do It Myself",
-                "desc": "Google's new Android laptops promise a seamless partnership with your phone and AI that gets things done. After a week with the Asus Googlebook 14, I'm still waiting on both.",
-                "image": "https://sm.pcmag.com/t/pcmag_au/opinion/i/i-asked-ge/i-asked-gemini-to-run-my-googlebook-it-told-me-to-do-it-myse_z3gk.1200.jpg",
-                "url": "https://au.pcmag.com/laptops/120501/i-asked-gemini-to-run-my-googlebook-it-told-me-to-do-it-myself",
-                "source": "PCMag Australia",
-                "date": "2026-10-22T12:48:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Best portable power station deal: Save $50.01 on Anker Solix C300",
-                "desc": "Get the best portable power station deal. Save 20% on the Anker Solix C300 at Amazon.",
-                "image": "https://helios-i.mashable.com/imagery/articles/02Ia7w7aoJXNw6ZsfZiJSjr/hero-image.fill.size_1200x675.v1792653307.png",
-                "url": "https://mashable.com/tech/oct-22-anker-solix-c300-power-station-deal",
-                "source": "Mashable",
-                "date": "2026-10-22T12:46:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Class Of '63: 63 Years On Novices' Hurdle (GBB Race)",
-                "desc": "Get the Class Of '63: 63 Years On Novices' Hurdle (GBB Race) result for the 12:17 Carlisle. View full result with expert form, analysis, positions, beaten margins and returned odds.",
-                "image": "https://www.sportinglife.com/favicon-16x16.png",
-                "url": "https://www.sportinglife.com/racing/results/2026-10-22/carlisle/945341/class-of-63-63-years-on-novices-hurdle-gbb-race",
-                "source": "Sporting Life",
-                "date": "2026-10-22T12:45:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Templafy Launches Templafy Team, Enabling Professionals to Build and Share Their Own Document Agents",
-                "desc": "New offering turns company knowledge, templates and best practices into customizable AI agents for creating professional, business-ready presentations",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/22/1272185.png",
-                "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/templafy-launches-templafy-team-enabling-professionals-to-build-and-share-their-own-document-agents/2451842",
-                "source": "The Manila Times",
-                "date": "2026-10-22T12:38:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Top 10 Phones With Most Powerful Batteries, Charging Speed and Their Prices in Kenya 2026",
-                "desc": "Find out the top 10 Kenyan smartphones by battery capacity, with prices ranging from KSh 18,000 to KSh 62,000. Ranking based on mAh, (Wh) and charging power.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/0ce9a8bd5a459a35.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/business-economy/technology/644116-list-top-10-phones-powerful-batteries-charging-speed-prices-kenya-2026/",
-                "source": "Tuko News",
-                "date": "2026-10-22T12:37:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sherlock Holmes Went Bug Hunting on Smartphones - Crushed in Time Released on iOS and Android",
-                "desc": "The absurd quest from the creators of There Is No Game has arrived on mobile devices.",
-                "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1729492/18c71fa5-b79e-4ff5-b18d-c56b9f6ee600.jpg",
-                "url": "https://ixbt.games/en/news/2026/10/22/serlok-xolms-otpravilsia-lovit-bagi-na-smartfonax-crushed-in-time-vysla-na-ios-i-android.html",
-                "source": "iXBT.games",
-                "date": "2026-10-22T12:34:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "vivo Y600 to debut next week with a 10,000mAh battery",
-                "desc": "It is rumored to use a Dimensity 7300e chipset. Earlier this month, the vivo Y600 appeared on the Google Play Console, and vivo has now confirmed its...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-y600-china-launch/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/vivo_y600_to_debut_next_week_with_a_10000mah_battery-news-75161.php",
-                "source": "GSMArena.com",
-                "date": "2026-10-22T12:31:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple says developers are showing 'incredible' support for the iPhone Duo",
-                "desc": "One of the major issues raised by early reviews of the iPhone Duo is limited support by third-party apps. As...",
-                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-says-developers-are-showing-incredible-support-for-the-iPhone-Duo.jpg?quality=82&strip=all&resize=1200,628",
-                "url": "https://9to5mac.com/2026/10/22/apple-says-developers-are-showing-incredible-support-for-the-iphone-duo/",
-                "source": "9to5Mac",
-                "date": "2026-10-22T12:28:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Macron condemns racism after one killed in ‘terrorist’ shooting near Paris",
+                "desc": "Gunman opens fire from car in Trappes and Verrière, killing one and injuring five others, including a 12-year-old girl",
+                "image": "https://i.guim.co.uk/img/media/ed52b753a2b75c6d81fae075e1edfac4bc26ed44/438_0_4377_3502/master/4377.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2eb3676372cfa5c4f0fbe03e7d71af9a",
+                "url": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
+                "source": "The Guardian",
+                "date": "2026-10-23T19:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Deadly shooting outside Paris a ‘terrorist attack’, say police",
+                "desc": "French President Emmanuel Macron described the shootings as a “racist terrorist attack” and warned of the pressure on the nation due to weeks of unrest.",
+                "image": "https://static.ffx.io/images/$zoom_0.4063699155794321%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_3/t_crop_custom/q_86%2Cf_auto/0c35e57b550718cb210221aa54dfdd81385767a0",
+                "url": "https://www.smh.com.au/world/europe/deadly-shooting-outside-paris-a-terrorist-attack-say-police-20261024-p6188o.html",
+                "source": "SMH.com.au",
+                "date": "2026-10-23T19:34:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Deadly shooting outside Paris a ‘terrorist attack’, say police",
+                "desc": "French President Emmanuel Macron described the shootings as a “racist terrorist attack” and warned of the pressure on the nation due to weeks of unrest.",
+                "image": "https://static.ffx.io/images/$zoom_0.4063699155794321%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_3/t_crop_custom/q_86%2Cf_auto/0c35e57b550718cb210221aa54dfdd81385767a0",
+                "url": "https://www.theage.com.au/world/europe/deadly-shooting-outside-paris-a-terrorist-attack-say-police-20261024-p6188o.html",
+                "source": "The Age",
+                "date": "2026-10-23T19:34:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Algeria reportedly blocks $219 million fertiliser trade with France as Emmanuel Macron’s support for Morocco deepens economic confrontation",
+                "desc": "Algeria has reportedly halted a $219 million urea trade with France as Emmanuel Macron’s support for Morocco over Western Sahara deepens bilateral tensions. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/WRMktkpTURBXy80OWU5MzFkNjI0OTVmN2ZhZTM2MjhhZDQxM2Y2NTJhZS5qcGeSlQPNAd0NzQzQzQc1kwXNBLDNAnY",
+                "url": "https://africa.businessinsider.com/local/markets/algeria-reportedly-blocks-dollar219-million-fertiliser-trade-with-france-as-emmanuel/g6gtrgx",
+                "source": "Business Insider Africa",
+                "date": "2026-10-23T19:27:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada Announces 1 Category of People Qualified to Apply for IT Jobs Paying up to $106,386",
+                "desc": "CSIS is hiring IT Analysts in Canada for permanent roles paying up to $106,386, in eight specialisms; recent graduates may apply, but citizenship is required.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/ce9f8aa3f33e088a.jpeg?v=1",
+                "url": "https://yen.com.gh/world/314407-canada-announces-1-category-people-qualified-apply-jobs-paying-106386/",
+                "source": "Yen News",
+                "date": "2026-10-23T19:26:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Melania Trump 'brokers ceasefire' in Russian",
+                "desc": "The White House announces the US first lady helped broker a local ceasefire on humanitarian grounds in the Ukrainian town as Washington sends mixed messages on Starshield.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/6168b73348c24e9c350b89e4ec5147ec?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=67&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-10-24/ukraine-latest/107304160",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-10-23T19:24:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"Face the Nation with Margaret Brennan\" guests for Oct. 25, 2026",
+                "desc": "This week's guests include Attorney General Todd Blanche, GOP Sen. Thom Tillis, Democratic Rep. Jason Crow and Texas Democratic gubernatorial candidate Gina Hinojosa.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/10/08b19e4f-441a-4c48-9420-0feb776cb2c0/thumbnail/1200x630/55ed2e6550ee885a85b4ed771080501f/gettyimages-2298620453.jpg",
+                "url": "https://www.cbsnews.com/news/face-the-nation-guests-10-25-2026/",
+                "source": "CBS News",
+                "date": "2026-10-23T19:24:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Utah man indicted for threatening to blow up synagogue",
+                "desc": "Authorities say they found six pipe bombs in the suspect’s residence.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743323",
+                "url": "https://www.jpost.com/diaspora/antisemitism/article-912673",
+                "source": "The Jerusalem Post",
+                "date": "2026-10-23T19:20:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Carney says 'direct casualties' are result of Ukraine's restricted access to Musk's Starshield",
+                "desc": "Prime Minister Mark Carney on Friday criticized a decision to restrict Ukraine's access to Elon Musk's military-grade satellite network, saying the move is costing lives.",
+                "image": "https://i.cbc.ca/ais/97efe338-ff94-4643-8a3a-8fe67edb1188,1792782306986/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C652%2C7857%2C4419%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/politics/carney-zelenskyy-trump-starlink-9.7393553",
+                "source": "CBC",
+                "date": "2026-10-23T19:16:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Macron says Paris suburb shooting that killed one person was terrorist and racist act",
+                "desc": "A gunman killed one person and wounded ‌five others, including a 12-year-old girl, in a shooting in a Paris suburb that French President Emmanuel Macron described as a \"terrorist and racist\" attack.",
+                "image": "https://www.reuters.com/resizer/v2/ZFYNYKZCBNN2ZNAWGD74236EGY.jpg?auth=f4cd3bb9dadb44b737e904c72ee67ddccbcf455564c08b76509110685f793fa0&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/least-two-injured-shooting-street-near-paris-bfm-reports-2026-10-23/",
+                "source": "Reuters",
+                "date": "2026-10-23T19:15:47Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "At Least 852 Migrants Dead or Missing in Three Months, EU Rights Agency Reports",
                 "desc": "At least 852 people died or went missing while trying to reach Europe by sea between July and September 2026, according to a new report from the European Union Agency for Fundamental Rights.",
@@ -1806,98 +1896,8 @@
                 "source": "CBS News",
                 "date": "2026-10-22T17:43:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Gulf nations brace for possible return to all-out war between US and Iran",
-                "desc": "The volatility around the Israeli and US midterm elections is fueling fears of renewed US-Israeli strikes on Iran in a short and intensive military campaign to push Tehran into concessions, with Iran vowing a devastating response against the Gulf nations.",
-                "image": "https://images.euronews.com/articles/stories/09/96/33/18/1200x675_cmsv2_e1796297-2346-5303-8fed-0b8b536c0c1e-9963318.jpg",
-                "url": "https://www.euronews.com/2026/10/22/gulf-nations-brace-for-possible-return-to-all-out-war-between-us-and-iran",
-                "source": "Euronews.com",
-                "date": "2026-10-22T12:58:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Democrats use Trump's ballroom and other projects in attack ads",
-                "desc": "At least $1.8 million in Democratic ads have invoked Trump’s ballroom and other projects.",
-                "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NAEYMTVQEBJPSBNMYJQUHVK5ZI.JPG&w=1440",
-                "url": "https://www.washingtonpost.com/politics/2026/10/22/democrats-use-trump-ballroom-other-projects-attack-ads/",
-                "source": "The Washington Post",
-                "date": "2026-10-22T12:56:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malaysia Announces 3 Key Benefits for Foreigners Holding a Residence Pass",
-                "desc": "The Malaysian government has mentioned three key benefits for foreign nationals with a residence pass. Other features were also explained in the guidelines.",
-                "image": "https://cdn.legit.ng/images/1200x675/be0107e073b133a2.jpeg?v=1",
-                "url": "https://www.legit.ng/people/1737403-malaysia-lists-3-key-benefits-foreigners-holding-a-residence-pass/",
-                "source": "Legit News",
-                "date": "2026-10-22T12:56:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN expert urges Indonesia to reconsider involvement in Trump's Gaza board",
-                "desc": "Indonesia should reconsider its involvement ‌in US President Donald Trump's Gaza peace plan because it is being shaped by Israel and the US and lacks a Palestinian voice, the United Nations special rapporteur on human rights in the occupied Palestinian territories told Reuters on Thursday.",
-                "image": "https://www.reuters.com/resizer/v2/FJHLUKJPCNKGLJHSKGORHAEVWA.jpg?auth=bc900b4886c110d561e00d8f6fde036cf2254a12c279b15b6df211e6793b3e67&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/asia-pacific/un-expert-urges-indonesia-reconsider-involvement-trumps-gaza-board-2026-10-22/",
-                "source": "Reuters",
-                "date": "2026-10-22T12:55:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DIARY-Political and General News Events from October 22",
-                "desc": "Read more about DIARY-Political and General News Events from October 22 on Devdiscourse",
-                "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_11_6036339.jpg&width=920&format=jpeg",
-                "url": "https://www.devdiscourse.com/article/international/3996483-diary-political-and-general-news-events-from-october-22",
-                "source": "Devdiscourse",
-                "date": "2026-10-22T12:52:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "International Criminal Court wins EU's 2026 Sakharov prize",
-                "desc": "The International Criminal Court and its officials won the ​EU's 2026 Sakharov human rights prize, European Parliament President ‌Roberta Metsola said on Thursday, less than two weeks after former ICC Judge Navi Pillay was awarded the Nobel Peace Prize.",
-                "image": "https://www.reuters.com/resizer/v2/3NPRGKRC3NKPZPHX43TKFBXUU4.jpg?auth=1eba9bd096db5d691d9b02f62d1553c909f73ec0ee7bd30cab176e3e8db2119e&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/international-criminal-court-wins-eus-2026-sakharov-prize-2026-10-22/",
-                "source": "Reuters",
-                "date": "2026-10-22T12:51:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lithuania Deploys US-Made Mobile Radars to Boost NATO Air Dominance",
-                "desc": "Lithuania has begun fielding the US-made AN/TPS-77 Multi-Role Radars to integrate them into the collective NATO air defense network.",
-                "image": "https://thedefensepost.com/wp-content/uploads/2026/10/tps-77-MRR-2.jpg.pc-adaptive.1280.medium.jpg",
-                "url": "https://thedefensepost.com/2026/10/22/lithuania-nato-mobile-radars-us/",
-                "source": "The Defense Post",
-                "date": "2026-10-22T12:51:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran says 7 ships have been struck in Strait of Hormuz, Saudis intercept drones in airspace",
-                "desc": "Seven oil tankers caught fire or were damaged in the Strait of Hormuz overnight after being hit by Iran or striking naval mines, Tehran said Thursday, a markedly high number as tensions rise over concerns about a return to all-out war.",
-                "image": "https://i.cbc.ca/ais/725b246a-6714-4879-a708-74e7a2000405,1792670565583/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C106%2C5900%2C3318%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/mideast-hormuz-saudi-arabia-attacks-9.7391297",
-                "source": "CBC",
-                "date": "2026-10-22T12:50:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Storm Austen: Weather warnings adjusted as Ireland braces for powerful storm",
-                "desc": "Met Éireann has issued a number of status orange weather warnings for intense rain and wind from 7pm on Thursday to Friday morning",
-                "image": "https://www.irishtimes.com/resizer/v2/ETEN44Z6RBBGJJEX3YRFRLJXDY.JPG?smart=true&auth=fb1ab2d94383d05c08a78b5837fbc2257716b57e9e833b18440a7721af6bdfae&width=1200&height=630",
-                "url": "https://www.irishtimes.com/environment/2026/10/22/storm-austen-orange-warnings-issued-by-met-eireann-as-ireland-cork-dublin-braces-for-torrential-rain-and-wind/",
-                "source": "The Irish Times",
-                "date": "2026-10-22T12:46:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I visited Utah in the winter for the first time and made 4 mistakes I won't repeat",
-                "desc": "From Salt Lake City to Park City, I spent three days exploring Utah's Silicon Slopes in winter. I made mistakes when booking, packing, and spending.",
-                "image": "https://s.yimg.com/lo/mysterio/api/e01026cba9ddb87f4fa98bbbbef1407a43b62157a4ea70973aefe5e53dd05dc4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F1a71b71031fc6a37d843b86875ffcec1.jpg",
-                "url": "https://travel.yahoo.com/advice/travel-tips/articles/visited-utah-winter-first-time-124602589.html",
-                "source": "Yahoo",
-                "date": "2026-10-22T12:46:02Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-24T02:00:17.498594Z"
+    "lastGlobalSync": "2026-10-24T07:36:38.146205Z"
 }
