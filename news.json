@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "India's Asian Paints misses quarterly profit view as high costs weigh",
+                "desc": "India's Asian Paints Ltd reported a second-quarter profit rise that missed estimates on Thursday, as rising expenses ​and intensifying competition weighed.",
+                "image": "https://www.reuters.com/resizer/v2/34XGINCFARNR5I5ONU3VAEUAJU.jpg?auth=e6e33dbb495caed825eb05acd20ac978e62c3dceced09e77a947b010f6c7c376&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/india/indias-asian-paints-misses-quarterly-profit-view-high-costs-weigh-2026-10-29/",
+                "source": "Reuters",
+                "date": "2026-10-29T09:21:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New evidence links Singapore palm oil giant to Indonesian deforesters, despite denials",
+                "desc": "Two environmental groups have uncovered operational, commercial, personnel and logistical links between First Resources and Indonesian suppliers accused of forest destruction. It’s not the first time the company has obscured its supply chain.",
+                "image": "https://media.icij.org/uploads/2026/10/deforestation.jpg",
+                "url": "https://www.icij.org/investigations/deforestation-inc/new-evidence-links-singapore-palm-oil-giant-to-indonesian-deforesters-despite-denials/",
+                "source": "International Consortium of Investigative Journalists - ICIJ",
+                "date": "2026-10-29T09:20:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cornell Professor: Mathematicians Need 'Rizz' in AI Era",
+                "desc": "Mathematicians need to develop their oft-neglected social skills as AI does the solving legwork, a top professor at Cornell said.",
+                "image": "https://i.insider.com/6ae2403bca24d51c5f89fe7e?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/cornell-professor-steven-strogatz-mathematicians-need-rizz-ai-era-2026-10",
+                "source": "Business Insider",
+                "date": "2026-10-29T09:20:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "North American stocks indexes fall at open as Alphabet results reignite AI spending fears",
+                "desc": "Tech, mining stocks weigh on TSX",
+                "image": "https://www.theglobeandmail.com/resizer/v2/2X4WXPG4NFEBPJFFGQ5W72B43E.JPG?auth=bb77ed4bb79a15f63c8f5394a44ff29683e4df2a1cbd21bbb708db6c87ad2137&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-nasdaq-futures-slide-as-mixed-big-tech-results-test-ai-trade/",
+                "source": "The Globe and Mail",
+                "date": "2026-10-29T09:19:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Daniel's Art Supplies closing after 42 years in Chinatown",
+                "desc": "Daniel Choi, the owner of Daniel's Art Supplies, says the Toronto building he partly leases has been sold and renovations are coming.",
+                "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/10/29/Daniels-Art-Supplies-Toronto-e1793254726734.jpg",
+                "url": "https://toronto.citynews.ca/2026/10/29/daniels-art-supplies-store-in-chinatown-toronto-closing/",
+                "source": "CityNews Toronto",
+                "date": "2026-10-29T09:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ambuja Cements Q2 Results: Net profit tanks 90% YoY to Rs 114 crore on tax reversal effect; revenue rises 10%",
+                "desc": "Ambuja Cements Q2 Results: The company reported a 90% year-on-year decline in Q2 FY27 net profit to Rs 114 crore due to a Rs 1,697 crore income tax provision reversal in the year-ago quarter. Revenue rose 10% to Rs 6,113 crore. Shareholders also approved the proposed amalgamation of ACC and Orient Cement with Ambuja, with completion expected in FY27, subject to approvals.",
+                "image": "https://img.etimg.com/thumb/msid-135298918,width-1200,height-900,imgsize-233164,overlay-etmarkets/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-q2-results-net-profit-tanks-90-yoy-to-rs-114-crore-revenue-rises-10/articleshow/135298817.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-10-29T09:13:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why is market rallying today? Sensex jumps 900 points, Nifty above 22,900. 6 key factors behind Rs 5 lakh crore gains",
+                "desc": "The Indian stock market saw a vibrant uptick as both Sensex and Nifty surged over 1.1%, attributed to the Federal Reserve's decision to maintain interest rates. Renewed interest from foreign investors was evident, with net purchases of Indian equities totaling approximately Rs 872 crore on Wednesday. Optimism surrounding potential reductions in long-term capital gains tax also fostered positive market sentiment.",
+                "image": "https://img.etimg.com/thumb/msid-135291665,width-1200,height-900,imgsize-217526,overlay-etmarkets/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-600-points-nifty-nears-22900-6-key-factors-behind-rs-3-lakh-crore-gains/articleshow/135291603.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-10-29T09:10:46Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Microsoft's Copilot, Office Boss Shakes up Units, Tightens RTO Rules",
+                "desc": "Microsoft's head of the Copilot platform, AI agents, and now Office is making good on his promise to reshape how his teams work.",
+                "image": "https://i.insider.com/6adfafffab741a2ebdf117f1?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/microsoft-copilot-office-boss-flattens-teams-tightens-rto-trules-2026-10",
+                "source": "Business Insider",
+                "date": "2026-10-29T09:10:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Before the Bell: What every Canadian investor needs to know today",
+                "desc": "A look at Thursday morning’s market action",
+                "image": "https://www.theglobeandmail.com/resizer/v2/AV5KD3CBPBD43FUJPMX4EJTCHI.JPG?auth=cd152d605cfc96c7b8fed8803a4e241ce1b0b17fbedcdd053d293424cbae4e1f&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-before-the-bell-what-every-canadian-investor-needs-to-know-today-1591/",
+                "source": "The Globe and Mail",
+                "date": "2026-10-29T09:09:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How 2 Wellington Investors Are Picking AI Winners and Losers",
+                "desc": "It's getting more expensive to build AI infrastructure, even as more money funnels in. Two professional investors explain who will benefit.",
+                "image": "https://i.insider.com/6ae28e2d3ae265b597b033d0?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/ai-winners-and-losers-higher-cost-borrowing-2026-10",
+                "source": "Business Insider",
+                "date": "2026-10-29T09:07:30Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Consumers are mincemeat, but the RBA keeps raising the heat",
                 "desc": "Our most successful retailers can attest that the cost-of-living crisis is getting worse by the day – even before further rate rises hit consumers.",
                 "image": "https://static.ffx.io/images/$zoom_0.19067338854879365%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_12/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/6dc4685bdf1d3d26f89b4e43266fc615762a8e2d",
@@ -542,99 +632,99 @@
                 "source": "Asia News Network",
                 "date": "2026-10-28T01:30:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "NIST issues roadmap for transition to post-quantum encryption standards",
-                "desc": "The report aims to help organizations take the standards already set out by NIST and create a plan for implementing them, in alignment with the Trump ad...",
-                "image": "https://cdn.nextgov.com/media/img/cd/2026/10/27/GettyImages_1407086191/open-graph.jpg",
-                "url": "https://www.nextgov.com/cybersecurity/2026/10/nist-issues-roadmap-transition-post-quantum-encryption-standards/416841/?oref=ng-homepage-river",
-                "source": "Nextgov/FCW",
-                "date": "2026-10-27T18:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "First Guardian collapse: Richard was dealing with a terminal diagnosis when his $221,000 retirement fund vanished",
-                "desc": "The 53-year-old Perth man was diagnosed with a rare kind of terminal pancreatic cancer in 2025. Just three weeks later, he discovered his superannuation had been wiped out.",
-                "image": "https://static.ffx.io/images/$zoom_0.4753%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_35%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/6c57bf9bf839983c4c7ee16736a865bab4ee4fc77f5e470c7c625ea437c5e032",
-                "url": "https://www.nine.com.au/australia-news/first-guardian-collapse-interprac-sale-richard-orr-interview-20261028-p618yf.html",
-                "source": "Nine.com.au",
-                "date": "2026-10-27T18:44:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gorilla Is Still Down 16% in 2026: Did GRRR Stock Just Find a Bottom?",
-                "desc": "Gorilla Technology's stock bounced hard after signing a letter of intent for its first U.S. data center, but the company's operating losses are growing and its biggest deal terms remain undisclosed. Here is what separates a genuine turning point from a temporary lift.",
-                "image": "https://247wallst.com/wp-content/uploads/2026/08/shutterstock_2752789185.jpg",
-                "url": "https://247wallst.com/investing/2026/10/27/gorilla-is-still-down-16-in-2026-did-grrr-stock-just-find-a-bottom/",
-                "source": "24/7 Wall St.",
-                "date": "2026-10-27T18:41:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Daily Lotto results: Tuesday, 27 October 2026",
-                "desc": "A R500 000 jackpot is up for grabs tonight! Here are your winning Daily Lotto results for 27 October 2026.",
-                "image": "https://media.citizen.co.za/wp-content/uploads/2026/10/Daily-Lotto-results-Tuesday-27-October-2026.jpg",
-                "url": "https://www.citizen.co.za/lotto/daily-lotto-results-tuesday-27-october-2026/",
-                "source": "The Citizen",
-                "date": "2026-10-27T18:41:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon memo shows AI coding guidelines, how it tackles tokenmaxxing",
-                "desc": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
-                "source": "CNBC",
-                "date": "2026-10-27T18:41:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Landline switchover could cut people off in emergency, minister warned",
-                "desc": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cce/live/f32ec320-d22f-11f1-a1ed-ffd83ae54f7c.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o",
-                "source": "BBC",
-                "date": "2026-10-27T18:40:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Landline switchover could cut people off in emergency, minister warned",
-                "desc": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1cce/live/f32ec320-d22f-11f1-a1ed-ffd83ae54f7c.jpg",
-                "url": "https://www.bbc.com/news/articles/c6x29g1nlr51o",
-                "source": "BBC",
-                "date": "2026-10-27T18:40:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Unclaimed $40M Lotto Max ticket expires Wednesday, OLG says",
-                "desc": "An unclaimed Lotto Max ticket worth $40 million will expire Wednesday, the Ontario Lottery and Gaming Corporation says.",
-                "image": "https://globalnews.ca/wp-content/uploads/2025/09/56dbb795efc847982fb495222ecc00816ba2dd64a1bfc14dbd98badf8b5ce41c.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/12123023/lotto-max-october-28-winning-ticket/",
-                "source": "Global News",
-                "date": "2026-10-27T18:38:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Meta equity raise signals continued support for AI spending: analysts",
-                "desc": "Analysts viewed Meta Platforms Inc (NASDAQ:META, XETRA:FB2A, SIX:FB) plan to raise up to $100 billion in equity as a prudent way to fund AI expansion, but...",
-                "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzEwXC8yMDIzLTAyLTAxLTE2LTM0LTIwLTFlMGQ3ZGJkMGE3OTIyYjRkMjBkZDhkYjU1ZDMxNDJmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
-                "url": "https://www.proactiveinvestors.com/companies/news/1100790/meta-equity-raise-signals-continued-support-for-ai-spending-analysts-1100790.html",
-                "source": "Proactive financial news",
-                "date": "2026-10-27T18:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Breakfast briefing: Economic issues coming to a head",
-                "desc": "US data reinforces diverging economic drivers; Chinese sentiment low; Beijing rushes out large-scale monetary support; airlines taxed much harder by card processors; UST 10yr at 4.99%; gold firm but oil eases; NZ$1 = 56.9 USc; TWI-5 = 60.7",
-                "image": "https://www.interest.co.nz/sites/default/files/2024-03/Breakfast2_Loop.gif",
-                "url": "https://www.interest.co.nz/economy/140847/us-data-reinforces-diverging-economic-drivers-chinese-sentiment-low-beijing-rushes",
-                "source": "Interest.co.nz",
-                "date": "2026-10-27T18:32:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games",
+                "desc": "Phantom Blade Zero's first day on Steam has been big, but it's nowhere close to Black Myth: Wukong's highs.",
+                "image": "https://assetsio.gnwcdn.com/phantom-blade-zero-hammer-attack-screen-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
+                "source": "Eurogamer.net",
+                "date": "2026-10-29T09:26:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nikon Z-mount 120-300mm f/2.8 professional sports lens available to order from today, as full specifications are released",
+                "desc": "Nikon told us it was working on the Nikon Z 120-300mm f/2.8 TC VR S back in May – and now the full details and pricing are released ahead of it actually going on sale in November",
+                "image": "https://s.yimg.com/lo/mysterio/api/4bb8fded25c5dbc9d6047550857c6e9f40bae02a92fd3bce4a2f047b863f9cd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdigital_camera_world_590%2F7b9ce6f8399ab36da634c49fca2dc6c6.jpg",
+                "url": "https://tech.yahoo.com/cameras/articles/nikon-z-mount-120-300mm-092606852.html",
+                "source": "Yahoo Tech",
+                "date": "2026-10-29T09:26:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DIP CHASE - 1v5 Asymmetric Deduction Battle Game - Now Available",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/DIP-CHASE-1v5-Asymmetric-Deduction-Battle-Game-Now-Available",
+                "source": "Games Press",
+                "date": "2026-10-29T09:24:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Voltage-Driven Blisters Give 2D Nanochannels Their Ionic Memory",
+                "desc": "Researchers directly imaged voltage-driven blistering in two-dimensional nanochannels and linked those structural changes to ionic conductance, hysteresis, and memory. Their experiments and modeling show that osmotic and electrostatic forces can drive different blister responses, helping explain why nominally similar nanofluidic devices behave differently.",
+                "image": "https://www.azom.com/images/news/ImageForNews_65982_17932656537546986.png",
+                "url": "https://www.azom.com/news.aspx?newsID=65982",
+                "source": "AZoM",
+                "date": "2026-10-29T09:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "blockia launches October 30: build with friends online",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/blockia-launches-October-30-build-with-friends-online",
+                "source": "Games Press",
+                "date": "2026-10-29T09:19:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Final days of Toada Brava’s Kickstarter campaign",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/pl/Final-days-of-Toada-Bravas-Kickstarter-campaign",
+                "source": "Games Press",
+                "date": "2026-10-29T09:19:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Final days of Toada Brava’s Kickstarter campaign",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/it/Final-days-of-Toada-Bravas-Kickstarter-campaign",
+                "source": "Games Press",
+                "date": "2026-10-29T09:19:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "KRICT Global Forum Explores the Future of Self-Driving Labs Powered by AI and Data",
+                "desc": "Artificial intelligence (AI) is transforming the paradigm of scientific research, moving beyond simply analyzing research data to proposing experimental conditions, learning from experimental results, and designing subsequent experiments. Particularly in materials science and chemistry, where vast amounts of data are generated and analyzed, the self-driving laboratory (SDL)—which integrates materials data, AI, and experimental automation—is emerging as a promising approach to future scientif",
+                "image": "https://media.newswise.com/pio/articles/857573/6ae305279199b_1_Group_Photo_of_Forum_Participants_857573.jpg",
+                "url": "https://www.newswise.com/articles/krict-global-forum-explores-the-future-of-self-driving-labs-powered-by-ai-and-data",
+                "source": "Newswise",
+                "date": "2026-10-29T09:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Put ChatGPT, Claude, and Gemini to work for $79",
+                "desc": "Get ChatPlayground AI Unlimited lifetime access for $79 (reg. $619), with 20-plus models, side-by-side comparisons, PDF chat, and image generation.",
+                "image": "https://helios-i.mashable.com/imagery/articles/06uFPk9Z7g90Oise9ZVuECt/hero-image.fill.size_1200x675.v1793002983.jpg",
+                "url": "https://mashable.com/tech/oct-29-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
+                "source": "Mashable",
+                "date": "2026-10-29T09:11:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "POCHA MOONLIGHT: SORT PUZZLE OUT NOW ON iOS AND ANDROID",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/en-GB/POCHA-MOONLIGHT-SORT-PUZZLE-OUT-NOW-ON-iOS-AND-ANDROID",
+                "source": "Games Press",
+                "date": "2026-10-29T09:09:26Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Atom Processor Observes Unpredicted Slowdown in 2D Quantum Magnet Dynamics",
                 "desc": "Pasqal's 256-qubit neutral-atom processor observed an unexpected slowdown in a 2D quantum magnet's dynamics, diverging from classical simulations. This research, detailed in a preprint, explores the relaxation landscape of a 2D transverse-field Ising model, uncovering three distinct physical behaviors including a previously unpredicted relaxation slowdown at intermediate field strengths. The study highlights the quantum processor's ability to explore non-equilibrium condensed-matter regimes beyond the limits of classical tensor-network simulations.",
@@ -1174,99 +1264,99 @@
                 "source": "Notebookcheck",
                 "date": "2026-10-28T00:49:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Everything Apple announced so far: M6 MacBook Pro, M6 iMac, and an OLED iPad mini",
-                "desc": "Apple announced the 14-inch MacBook Pro and iMac with M6, its new chip built for on-device AI. Here's what's new, what it costs, and when it ships.",
-                "image": "https://helios-i.mashable.com/imagery/articles/01beWnTNQebDhwmzLXzc06N/hero-image.fill.size_1200x675.v1793124709.jpg",
-                "url": "https://mashable.com/tech/everything-announced-m6-macbook-event",
-                "source": "Mashable",
-                "date": "2026-10-27T18:45:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Motorola Deal: Get a Free Smartwatch and Earbuds When You Buy a Razr",
-                "desc": "The Razr is our favorite budget foldable phone. Motorola is adding in extra gifts with purchase for this October deal.",
-                "image": "https://media.wired.com/photos/6ae0eec7a5839fc652c5a3e9/191:100/w_1280,c_limit/Motorola%20October%202026%20Deal%20102026%20top%20art%20SOURCE%20motorola.jpg",
-                "url": "https://www.wired.com/story/motorola-razr-deal-october-2026/",
-                "source": "WIRED",
-                "date": "2026-10-27T18:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ASUS Launches New Commercial Laptop Starting at NT$44,900; Liao Yixiang Says Prices to Rise Nearly 10% in Second Half, With Another 5% Room in First Half of Next Year - BigGo Finance",
-                "desc": "ASUS unveiled its commercial laptop, the ASUS ExpertBook A7, on the 27th, with a suggested retail price starting at NT$44,900 (approximately $1,400).…",
-                "image": "https://img.biggo.com/jvGaie6gHVTanSOsXRwSHWTcXfmgmLik93Shh8-KgLs/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2luZm9fY2FyZC8yMDI2LTEwLzUxMGJhYjcxLWIwYmYtNGI1MC05NDhhLThjOTcyZDFlMWY3MV8xNzkzMTI4MTgwX2RlZmF1bHQud2VicA.jpg",
-                "url": "https://finance.biggo.com/news/510bab71-b0bf-4b50-948a-8c972d1e1f71",
-                "source": "BigGo Finance",
-                "date": "2026-10-27T18:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CH730N Takes Aim at the ANC Market With 75",
-                "desc": "Sony has launched the WH-CH730N, a £99 (approximately $130) over-ear headphone that brings active noise cancellation, a 10-band app equalizer and up…",
-                "image": "https://img.biggo.com/cIJiu0Cus_zoeJbcYnfKOdazUZUWzZsef_xk_5nsJG8/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzBlYzZhYTcxLTJiMzQtNGI0Ny05NWU5LTUyNTc5YzRiOWU1NF8xNzkzMTI4NjgzX2RlZmF1bHQud2VicA.jpg",
-                "url": "https://finance.biggo.com/news/0ec6aa71-2b34-4b47-95e9-52579c4b9e54",
-                "source": "BigGo Finance",
-                "date": "2026-10-27T18:35:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thermaltake Introduces the Arcus 380 TG ARGB Mid-Tower Chassis for Panoramic Showcase Builds",
-                "desc": "Thermaltake, a leading PC DIY brand for premium hardware solutions, releases the Arcus 380 TG ARGB Mid-Tower Chassis, designed to showcase high-performance hardware through its distinctive panoramic design. A one-piece curved tempered glass panel creates an expansive view of the interior, while...",
-                "image": "https://www.techpowerup.com/img/EhUKBgQ02uaIJOdY.jpg",
-                "url": "https://www.techpowerup.com/354185/thermaltake-introduces-the-arcus-380-tg-argb-mid-tower-chassis-for-panoramic-showcase-builds",
-                "source": "TechPowerUp",
-                "date": "2026-10-27T18:34:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iOS 27.2 adds hidden SynthID watermark to AI images",
-                "desc": "iOS 27.2 adds an invisible SynthID watermark to Image Playground images and some AI-edited photos. Here’s how it works and how to check.",
-                "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/SynthID.jpg.webp",
-                "url": "https://www.cultofmac.com/news/ios-27-2-synthid-watermark-ai-images",
-                "source": "Cult of Mac",
-                "date": "2026-10-27T18:32:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Foxconn Insider Claims Apple Relaxed Quality Checks - And Defective iPhones May Have Shipped",
-                "desc": "iPhone Duo foldable screen cracks reported near the fold days after launch, with Apple acknowledging limited units affected but no confirmed cause yet.",
-                "image": "https://s.yimg.com/lo/mysterio/api/8ce87afc541b1ef88a86c2eff9066c4778bed7f9e659ba9952fe435249095f9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2Fe75f7edaa1305f4c22afa84f51f608ca.jpg",
-                "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/foxconn-insider-claims-apple-relaxed-183159355.html",
-                "source": "Yahoo Tech",
-                "date": "2026-10-27T18:31:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iOS 27.2 adds hidden SynthID watermark to AI images",
-                "desc": "iOS 27.2 adds an invisible SynthID watermark to Image Playground images and some AI-edited photos. Here’s how it works and how to check.",
-                "image": "https://s.yimg.com/lo/mysterio/api/b90faefda25ddfca70fdbf5790e1c3a07fdff3ad9f9c94ac1cf15c16e1d68e20/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcult_of_mac_917%2F89b29804170dc4f0a885f11e57f9b4b4.jpg",
-                "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/ios-27-2-adds-hidden-183131394.html",
-                "source": "Yahoo Tech",
-                "date": "2026-10-27T18:31:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung's next foldable leaks in official-looking renders",
-                "desc": "It will become official on October 29. A few days ago a leaked image gave us our first look at Samsung's next foldable smartphone, the W27. This will be...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-w27-leaked-renders/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/samsungs_next_foldable_leaks_in_officiallooking_renders-news-75227.php",
-                "source": "GSMArena.com",
-                "date": "2026-10-27T18:31:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Infinix’s new midrange gaming smartphone with liquid cooling now available in more markets",
-                "desc": "The Infinix GT 50 Pro is now officially available in India. The smartphone features a 144 Hz AMOLED display, a Dimensity 8400 Ultimate chipset, and a large 6,500 mAh battery with 45 W wired and 30 W wireless charging. Plus, it is equipped with a HydroFlow liquid cooling system.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GT50-Product-page-Desktop_1_-2_01.jpeg",
-                "url": "https://www.notebookcheck.net/Infinix-s-new-midrange-gaming-smartphone-with-liquid-cooling-now-available-in-more-markets.1435008.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-10-27T18:31:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Russia says 'battlefield situation' will determine when Ukraine peace talks begin",
+                "desc": "Kremlin aide Yuri Ushakov also ruled out European participation in the upcoming Abu Dhabi meeting.",
+                "image": "https://assets.kyivindependent.com/content/images/2026/10/GettyImages-2293189088_20261029-091929.jpg",
+                "url": "https://kyivindependent.com/russia-says-battlefield-situation-will-determine-when-ukraine-peace-talks-begin/",
+                "source": "The Kyiv Independent",
+                "date": "2026-10-29T09:24:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "4 Countries Offering Work Opportunities to Foreigners in 2026: How Nigerians Can Apply",
+                "desc": "Work opportunities for Nigerians in 2026 across the EU, Canada, Ireland and Germany: visa routes, eligibility requirements and application steps.",
+                "image": "https://cdn.legit.ng/images/1200x675/c98dae55e88d7d8d.jpeg?v=1",
+                "url": "https://www.legit.ng/business-economy/industry/1738490-4-countries-offering-work-opportunities-foreigners-2026-how-nigerians-apply/",
+                "source": "Legit News",
+                "date": "2026-10-29T09:24:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Agroecology offers Tanzania a path to higher yields, climate resilience",
+                "desc": "FARMERS in Tanzania are showing that agroecology can raise crop yields, cut production costs and strengthen resilience to climate change, according to a new ActionAid study that calls for greater publ...",
+                "image": "https://ippmedia.co.tz/storage/post-feature-images/52b2dbd7-fd48-4338-a1c5-28236781c53c.jpg",
+                "url": "https://ippmedia.co.tz/the-guardian/news/local-news/read/agroecology-offers-tanzania-a-path-to-higher-yields-climate-resilience-2026-10-29-121959",
+                "source": "https://ippmedia.co.tz/",
+                "date": "2026-10-29T09:19:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israeli minister seeks arrest of Arab party leaders",
+                "desc": "Israel's far-right national security minister has called for the arrest of Israeli Arab leaders whose parties made strong gains in this week's election, citing unproven accusations of foreign funding.",
+                "image": "https://www.rte.ie/images/0025402a-1600.jpg",
+                "url": "https://www.rte.ie/news/2026/1029/1597180-israeli-minister-seeks-arrest-of-arab-party-leaders/",
+                "source": "RTE.ie",
+                "date": "2026-10-29T09:18:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia Increases Work and Holiday Visa Places for Citizens of 1 Country",
+                "desc": "Australia raises Uruguay’s subclass 462 visa cap to 1,500 from 1 July 2026 as record demand pushes Working Holiday Maker processing to around three months.",
+                "image": "https://cdn.legit.ng/images/1200x675/9bf15042060f652e.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1738482-australia-increases-work-holiday-visa-places-citizens-1-countries/",
+                "source": "Legit News",
+                "date": "2026-10-29T09:18:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran plans to disrupt US midterm elections - Telegraph",
+                "desc": "Iran is preparing to disrupt the US midterm elections after attempting to interfere in Israel’s vote, The Telegraph reported on Thursday, citing Iranian officials who said their goal was to deepen political divisions in both countries.",
+                "image": "https://i.iranintl.com/images/rdk9umy0/production/8109a998dc7228c4c34d80f002a5de63e9499afc-5500x3667.jpg?rect=0,390,5500,2888&w=1200&h=630&q=66&fit=max&auto=format",
+                "url": "https://www.iranintl.com/en/202610295364",
+                "source": "Iran International",
+                "date": "2026-10-29T09:17:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia on lockdown as Moscow hit by massive '600 drone attack' overnight",
+                "desc": "Moscow's airspace was closed, and flights were forced to turn back as massive waves of Ukrainian UAVs triggered explosions across the region.",
+                "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7208981.jpg",
+                "url": "https://www.express.co.uk/news/world/2261382/russia-lockdown-massive-drone-attack-moscow",
+                "source": "Daily Express",
+                "date": "2026-10-29T09:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Qatar Lists 4 Countries Whose Citizens Qualify for Immediate Tourist Visa",
+                "desc": "Qatar has released a list of countries whose citizens are eligible for an immediate tourist visa. It also shared the cost of the special tourist visa.",
+                "image": "https://cdn.legit.ng/images/1200x675/62530b7b5cb7d190.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1738484-qatar-lists-4-countries-citizens-qualify-immediate-tourist-visa/",
+                "source": "Legit News",
+                "date": "2026-10-29T09:14:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hong Kong government partially to blame for Wang Fuk Court fire, report finds",
+                "desc": "Hong Kong's chief executive announces the findings of a months-long investigation into the Wang Fuk Court apartment fire that killed 168 people last year.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/4960b6ecfbb478765bfb81bf2f993315?impolicy=wcms_watermark_news&cropH=2808&cropW=4992&xPos=0&yPos=116&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-10-29/hong-kong-wang-fuk-court-fire-disaster-report/107325160",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-10-29T09:13:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa: TSC President Arrives in Moscow At Head of Sudan's Delegation to Third Russia-Africa Summit",
+                "desc": "Moscow (SUNA) - President of the Transitional Sovereignty Council (TSC) and Commander-in-Chief of the Armed Forces, General Abdel-Fattah Al-Burhan, arrived in the Russian capital, Moscow, at the head of the Republic of Sudan's delegation participating in the Third Russia-Africa Summit.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202610290197.html",
+                "source": "allAfrica.com",
+                "date": "2026-10-29T09:12:31Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "High-speed train crash kills at least 68 people in Spain",
                 "desc": "Survivors described harrowing scenes of passengers being thrown into the air, trapped in the wreckage and smashing windows to get out.",
@@ -1806,98 +1896,8 @@
                 "source": "Maritime Gateway",
                 "date": "2026-10-28T01:36:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Israel election turnout highest in 50 years as voting continues",
-                "desc": "Voting numbers by 6pm local time had exceeded the number of all votes in 2022 elections.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae0b1d16ef6f-1793110481.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues",
-                "source": "Al Jazeera",
-                "date": "2026-10-27T18:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Afghanistan Ranks Second-Worst Globally in Rule of Law Index",
-                "desc": "Afghanistan has been ranked the worst-performing country in South Asia and the second-worst worldwide in the rule of law, ahead of only Venezuela, according to an index released by the World Justice Project on Tuesday.",
-                "image": "https://kabulnow.com/wp-content/uploads/2026/09/AFP__20211106__9R64XP__v1__MidRes__AfghanistanSocietyPeopleFoodDistribution.jpg",
-                "url": "https://kabulnow.com/2026/10/afghanistan-ranks-second-worst-globally-in-rule-of-law-index/",
-                "source": "KabulNow",
-                "date": "2026-10-27T18:44:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ghanaian twins and US woman plead guilty to romance scams",
-                "desc": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1bbe/live/217282b0-d22d-11f1-b441-2b33b063138f.png",
-                "url": "https://www.bbc.com/news/articles/cwz0vg2j442lo",
-                "source": "BBC",
-                "date": "2026-10-27T18:43:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Germany solidarity campaign launched in support of Sahrawi people’s struggle",
-                "desc": "Berlin (Germany), 27 October 2026 (SPS) – The German solidarity movement with the Sahrawi people has launched nationwide solidarity weeks in support of their legitimate struggle for freedom and independence, marking the 51st anniversary of Morocco’s invasion of Western Sahara in 1975.",
-                "image": "https://www.spsrasd.info/sites/default/files/styles/social_large/public/2026-10/ec4ff3da-5b74-48c3-8cfe-62a92db21775.jpeg?h=4de69ae3&itok=voyJmewt",
-                "url": "https://www.spsrasd.info/en/2026/10/27/18558.html",
-                "source": "وكالة الأنباء الصحراوية",
-                "date": "2026-10-27T18:43:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
-                "desc": "Andre Janones built a WhatsApp army of nearly 11 million subscribers. Did it help Lula win?",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6adfd21a-1793053210.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil",
-                "source": "Al Jazeera",
-                "date": "2026-10-27T18:41:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brazil's Flávio Bolsonaro headed to the U.S. after losing election, sources say",
-                "desc": "Brazilian Senator Flávio Bolsonaro has left the country for the United States after losing Sunday's presidential election and refusing ‌to comply with a Supreme Court order to hand over his passports, two sources said.",
-                "image": "https://i.cbc.ca/ais/aff36e56-24a4-4eda-b79e-4ceced417f35,1793125326088/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C82%2C2659%2C1495%29%3BResize%3D620",
-                "url": "https://www.cbc.ca/news/world/brazil-bolsonaro-us-election-loss-9.7398364",
-                "source": "CBC",
-                "date": "2026-10-27T18:35:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What is a 'declaration of war' and when was it last made",
-                "desc": "A declaration of war is an ancient diplomatic ritual in which one party announces a complete cessation of peaceful relations, a break in direct diplomatic ties, and the commencement of hostilities. It is so ancient that it is mentioned in the Old",
-                "image": "https://news.inbox.eu/w/img/a8/cf/a8cf4743fbe294447a.webp",
-                "url": "https://news.inbox.eu/150x9kc-what-is-a-declaration-of-war-and-when-was-it-last-made?language=en",
-                "source": "Inbox.eu",
-                "date": "2026-10-27T18:34:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brazil's Flavio Bolsonaro headed to U.S. after losing election, sources say",
-                "desc": "Flavio Bolsonaro heads to the U.S. after losing Brazil’s election amid passport deadline drama and broader tensions with Lula’s government.",
-                "image": "https://th-i.thgim.com/public/incoming/4ilmtc/article71633176.ece/alternates/LANDSCAPE_1200/2026-10-26T021129Z_274404486_RC2PAOAD09NF_RTRMADP_3_BRAZIL-ELECTION.JPG",
-                "url": "https://www.thehindu.com/news/international/brazilsflavio-bolsonaro-headed-to-us-after-losing-election-sources-say/article71633165.ece",
-                "source": "The Hindu",
-                "date": "2026-10-27T18:31:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Egypt’s FM discusses water security, development financing with UN, EIB officials",
-                "desc": "Egyptian Foreign Minister Badr Abdelatty held separate meetings in Cairo on Tuesday with UN Special Envoy on Water Retno Marsudi and European Investment Bank (EIB) Vice-President Gelsomina Vigliotti to discuss water security, preparations for the 2026 UN Water Conference and expanded development financing in Egypt. Abdelatty met Marsudi on the sidelines of",
-                "image": "https://images.dailynewsegypt.com/2026/10/868076909_1583881663030044_3760537198720078783_n.jpeg",
-                "url": "https://www.dailynewsegypt.com/2026/10/27/egypts-fm-discusses-water-security-development-financing-with-un-eib-officials/",
-                "source": "Daily News Egypt",
-                "date": "2026-10-27T18:31:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UN nuclear watchdog chief urges Iran to grant access",
-                "desc": "IAEA chief Rafael Grossi urged Iran during a UN Security Council meeting on Tuesday to grant immediate access to his agency so it can verify the Islamic republic's nuclear materials.",
-                "image": "https://s.france24.com/media/display/7ff85a06-d234-11f1-a6ac-a7bbbeea0b20/w:1280/p:16x9/b6e7bd2a7bef366170cea173e343d581af6a5731.jpg",
-                "url": "https://www.france24.com/en/live-news/20261027-un-nuclear-watchdog-chief-urges-iran-to-grant-access",
-                "source": "France 24",
-                "date": "2026-10-27T18:30:36Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-29T16:26:20.041256Z"
+    "lastGlobalSync": "2026-10-29T21:27:06.647881Z"
 }
