@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "What to know about keeping your coin safe",
+                "desc": "The Binance hack of $6.3 billion, the largest crypto theft ever, is a wake-up call for investors to understand how coin is guarded and the risk of losing it.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108491975-1793452126817-gettyimages-2248692610-nodes001.jpeg?v=1793452141&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
+                "source": "CNBC",
+                "date": "2026-10-31T13:58:40Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Kim Jong Un's cyber army: How North Korea's hackers steal billions for regime",
+                "desc": "North Korea has built a billion-dollar cyberwar machine that allows it to target global financial institutions, steal cryptocurrency and generate revenue",
+                "image": "https://static.toiimg.com/thumb/msid-135403167,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/rest-of-world/kim-jong-uns-cyber-army-how-north-koreas-hackers-steal-billions-for-regime/articleshow/135403098.cms",
+                "source": "The Times of India",
+                "date": "2026-10-31T13:57:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "OpenAI Cuts Funding Target Amid Meta, Microsoft Offerings, Anthropic IPO",
+                "desc": "OpenAI is now seeking to raise $20 billion at a $1.25 trillion valuation. Meta, Microsoft just raised funds while the Anthropic IPO looms.",
+                "image": "https://www.investors.com/wp-content/uploads/2023/11/Stock-SamAltman-openai-01-shutt.jpg",
+                "url": "https://www.investors.com/news/technology/openai-cuts-funding-target-amid-meta-microsoft-offerings-anthropic-ipo/",
+                "source": "Investor's Business Daily",
+                "date": "2026-10-31T13:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saturday Lotto Draw 4725: West Aussie becomes instant multi-millionaire in epic division one win",
+                "desc": "One lucky resident has just hit the jackpot, boosting their bank account balance by an eye-watering $6.6 million.",
+                "image": "https://images.perthnow.com.au/publication/C-23098577/971f282c44806cbb7e9a8cf2795f6e2b31636983-16x9-x0y0w620h349.jpg?imwidth=1200",
+                "url": "https://www.perthnow.com.au/lifestyle/lotto/saturday-lotto-draw-4725-west-aussie-becomes-instant-multi-millionaire-in-epic-division-one-win-c-23098577",
+                "source": "PerthNow",
+                "date": "2026-10-31T13:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Peso Slide Lifts Philippine Sovereign Debt to Record P19.66 Trillion",
+                "desc": "Philippine national government debt hit a record P19.66 trillion at the end of September, up 0.27% from August and 12.63% from a year earlier,…",
+                "image": "https://img.biggo.com/oP-wrcYjEy_zuGlLBeD_JFnu3R7QsQuIhzkUFfsvf5U/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzg1NTZkODgwLWY1OTUtNDEzNS1iN2ZhLTYwMGYyNmFiOWQ2Ml8xNzkzNDU1MDczX2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/8556d880-f595-4135-b7fa-600f26ab9d62",
+                "source": "BigGo Finance",
+                "date": "2026-10-31T13:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bute House protested by environmental campaigners",
+                "desc": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b14/live/e53f9f80-d52e-11f1-866a-b522399149a0.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o",
+                "source": "BBC",
+                "date": "2026-10-31T13:41:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK renter, 52, shares a home with three others because living alone costs more than rent",
+                "desc": "\"It's given me a bit of breathing space.\"",
+                "image": "https://s.yimg.com/lo/mysterio/api/f1806fec9cfc1600745b046b83c4e67ac595ee88c648d9115429fe020ba42942/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fe3b6844de7a7d5b9e191e70bb97851d3.jpg",
+                "url": "https://www.yahoo.com/news/world/articles/uk-renter-52-shares-home-133900145.html",
+                "source": "Yahoo",
+                "date": "2026-10-31T13:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Binance Starts Shopping for Stolen Coins as Ethena Ships $24M in ENA",
+                "desc": "Binance is buying back tokens stolen in its $6.3B hack as Ethena-labeled wallets send 128.63M ENA. Reserve expects RSR repurchased by Monday.",
+                "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/10/ena-transfers.png",
+                "url": "https://news.bitcoin.com/market-updates/binance-buys-back-stolen-tokens-ethena-ena/",
+                "source": "Bitcoin News",
+                "date": "2026-10-31T13:30:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft’s AI Boom Has A Cost (NASDAQ:MSFT)",
+                "desc": "Microsoft’s AI flywheel boosts Azure and Foundry growth, but rising AI CapEx pressures cash flow. Discover more about MSFT in this article.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1452542412/image_1452542412.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4960589-microsoft-ai-boom-has-a-cost",
+                "source": "Seeking Alpha",
+                "date": "2026-10-31T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wall Street braces for market volatility as Democrats eye control of Congress in US midterm elections",
+                "desc": "Wall Street is preparing for potential volatility in stocks and bonds as US midterm elections could shift congressional control",
+                "image": "https://images.moneycontrol.com/static-mcnews/2025/03/20250310154947_us-stocks-wall-street.jpg",
+                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/wall-street-braces-for-market-volatility-as-democrats-eye-control-of-congress-in-us-midterm-elections-14065116.html",
+                "source": "Moneycontrol.com",
+                "date": "2026-10-31T13:27:16Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Is the AI boom cracking? Wall Street's tech sell-off raises questions over what comes next",
                 "desc": "A sharp sell-off in technology stocks, concerns over slowing core businesses and rising AI-related expenditure have prompted Wall Street investors to question whether the returns from the artificial intelligence boom will justify the scale of investment.",
                 "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261031104838_AI-Chip-investment-Amid-Market-crash-nasdaq.png",
@@ -542,99 +632,99 @@
                 "source": "The Times",
                 "date": "2026-10-30T11:01:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Labour's new £5,950 VED car tax charge from April 2027",
-                "desc": "Labour and Chancellor John Healey is set to introduce new Vehicle Excise Duty (VED) car tax bands on road users within a matter of months.",
-                "image": "https://hermes.media.transform.aol.com/4bcb83a02ad3c50802b62de2484ba0b4b300f3d6/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/30/8b9f1303-31d1-3bea-9b3c-4dcce018c12a/260eb7eb-7764-4339-b048-0422c527db25.jpg",
-                "url": "https://www.aol.co.uk/articles/labours-5-950-ved-car-074200000.html",
-                "source": "AOL.co.uk",
-                "date": "2026-10-30T07:43:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Foxconn hopes to own 50% of the global AI server market within a couple years",
-                "desc": "Foxconn's chairman told CNBC that AI demand remains strong as the company eyes U.S. expansion and a larger share of the global AI server market.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108237155-1764929679332-gettyimages-2209931430-AA_16042025_2178636.jpeg?v=1776753930&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
-                "source": "CNBC",
-                "date": "2026-10-30T07:43:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cork entrepreneur and northside project feature on TV shows",
-                "desc": "The stirring story of a Cork man’s successful business career is told on one show while NCE is in the spotlight in another.",
-                "image": "https://www.echolive.ie/cms_media/module_img/10552/5276007_3_org_Copy_20of_204_20-390.jpg",
-                "url": "https://www.echolive.ie/corklives/arid-41930754.html",
-                "source": "echo live",
-                "date": "2026-10-30T07:33:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "\"IDBI Bank Handed To Us In Bad Shape\": Nirmala Sitharaman Hits Back At Rahul Gandhi",
-                "desc": "The response came a day after Rahul Gandhi opposed the government's decision to sell IDBI Bank to Canadian company Fairfax and expressed support for the bank's employees.",
-                "image": "https://c.ndtvimg.com/2026-10/435280hs_rahul-nirmala_625x300_30_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-                "url": "https://www.ndtv.com/india-news/idbi-bank-handed-to-us-in-bad-shape-nirmala-sitharaman-hits-back-at-rahul-gandhi-12257779",
-                "source": "NDTV",
-                "date": "2026-10-30T07:27:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'I sent a message into the group chat, and it just erupted': Cork Lotto syndicate wins €5.6m",
-                "desc": "The group claimed the jackpot prize after purchasing a Quick Pick ticket during a shopping trip in Mahon Point",
-                "image": "https://www.irishexaminer.com/cms_media/module_img/10552/5276460_10_org_Lotto_20balls.jpg",
-                "url": "https://www.irishexaminer.com/news/munster/arid-41930919.html",
-                "source": "Irish Examiner",
-                "date": "2026-10-30T07:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tin-lead perovskite solar cell reaches 25.86% in Groningen-led study",
-                "desc": "An ethylenediamine treatment of the cell surface has lifted tin-lead perovskite cells from 18.11% to 25.86%, as researchers at the University of Groningen have reported.",
-                "image": "https://img-cdn.publive.online/fit-in/1200x675/solarbytes/media/media_files/2026/10/30/2026-10-30-universityofgroningen-gks-1200w-2026-10-30-12-35-52.jpg",
-                "url": "https://solarbytes.info/emea-bytes/university-of-groningen-tin-lead-perovskite-solar-cell-25-86-efficiency-12767467",
-                "source": "Solarbytes",
-                "date": "2026-10-30T07:19:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Driver parks car halfway in Clementi carpark lot",
-                "desc": "A driver's selfish parking in Clementi sparked outrage, spurring a witness to share the incident with Stomp.",
-                "image": "https://cassette.sphdigital.com.sg/image/stomp/7474e8d715f49dee3480b72747f38e84a61aff358e76fc374b23d77d32c50db7?t=og",
-                "url": "https://www.stomp.sg/singapore-seen/driver-parks-halfway-clementi-lot-he-owns-carpark-returns-10-min-later-after-visiting-bakery",
-                "source": "Stomp Singapore",
-                "date": "2026-10-30T07:19:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KLIA passengers told to expect traffic congestion during MotoGP",
-                "desc": "KUALA LUMPUR: Malaysia Airlines has advised passengers using Kuala Lumpur International Airport (KLIA) between Friday (Oct 30) and Sunday to expect higher traffic congestion during the Malaysian Motorcycle Grand Prix (MotoGP).",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/30/4188350.jpg",
-                "url": "https://www.thestar.com.my/news/nation/2026/10/30/klia-passengers-told-to-expect-traffic-congestion-during-motogp",
-                "source": "The Star",
-                "date": "2026-10-30T07:19:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Elite North Korean hackers’ blamed for $6.3bn Binance heist - business live",
-                "desc": "Blockchain intelligence firm TRM says North Korea’s TraderTraitor hacking unit is responsible for the largest crypto theft on record",
-                "image": "https://i.guim.co.uk/img/media/c88d8154f76fef59b24c916cab7348652d9f113c/481_0_4070_3256/master/4070.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=10860848b9ed5bb27829c20d7b32815d",
-                "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-                "source": "The Guardian",
-                "date": "2026-10-30T07:19:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Utenos Trikotažas Reports Revenue Growth, Own-Brand Sales Increase by One-Fifth",
-                "desc": "SBA Group textile manufacturer Utenos Trikotažas reported revenue of EUR 15.3 million for the first nine months of 2026, up 2.4% year on year. Sales of its own apparel brand, UTENOS, increased by 21.3%. In the third quarter alone, the company's revenue grew by 17.2%, while operating profit more than tripled compared with the same period last year.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/30/1284549.png",
-                "url": "https://www.manilatimes.net/2026/10/30/tmt-newswire/globenewswire/utenos-trikotaas-reports-revenue-growth-own-brand-sales-increase-by-one-fifth/2458023",
-                "source": "The Manila Times",
-                "date": "2026-10-30T07:17:01Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "5 Linux distros that give you a reason to leave Windows",
+                "desc": "Distros that beat Windows at its own game.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/stood-up-surface-pro-6-with-ultramarine-linux.jpeg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/linux-distros-replace-windows/",
+                "source": "MakeUseOf",
+                "date": "2026-10-31T14:01:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lifetime Access to Babbel’s Linguist-Curated Lessons Is 47% Off",
+                "desc": "Practice useful topics such as dining, directions, and shopping before your next trip. This offer includes all 14 languages for $159 with code LEARN, which makes lifetime access $140 off!",
+                "image": "https://i.pcmag.com/imagery/articles/06VyKihlEhT61r2DSQSplXv-1.fit_lim.size_1200x630.v1793202448.png",
+                "url": "https://www.pcmag.com/deals/lifetime-access-to-babbels-linguist-curated-lessons-is-47-off",
+                "source": "PCMag",
+                "date": "2026-10-31T14:00:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Modern Warfare 2 new-gen ports could be imminent after Australian ratings released",
+                "desc": "GTA and Modern Warfare 2 at the same time? Count. Me. IN!",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltf88bbd6fc04638b6/6ae5e6b55b563979b8fee827/MW2_New_Gen_Ports.jpg",
+                "url": "https://www.gamingbible.com/news/modern-warfare-2-new-gen-ports-ratings-released-021209-20261031",
+                "source": "GAMINGbible",
+                "date": "2026-10-31T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The 1969 Mercury Park Lane Was a Near-Lincoln at a Lower Price",
+                "desc": "While offering a lot of the same equipment and features as the Lincoln Continental, the 1968 Mercury Park Lane cost two-thirds the price.",
+                "image": "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/10/1968-Mercury-Park-Lane-3.jpg",
+                "url": "https://journal.classiccars.com/2026/10/31/the-1969-mercury-park-lane-was-a-near-lincoln-at-a-lower-price/",
+                "source": "The ClassicCars.com Journal",
+                "date": "2026-10-31T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I took two iPhones on vacation. The Duo won me over.",
+                "desc": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+                "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+                "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+                "source": "TechCrunch",
+                "date": "2026-10-31T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Silent Hill: Townfall adds new Hard difficulty in latest update",
+                "desc": "Silent Hill: Townfall's latest patch adds a new Hard difficulty, rebalances every mode, and makes enemies’ hearing sharper the higher you go.",
+                "image": "https://assetsio.gnwcdn.com/Silent-Hill-Townfall-Door-Dial-Date-Puzzle---Header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update",
+                "source": "Eurogamer.net",
+                "date": "2026-10-31T13:53:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CDs Are Back, But They Come With A Modern Problem",
+                "desc": "With CD sales on the rise again, collectors are finding new challenges to enjoying their favorite tunes in the modern audio landscape.",
+                "image": "https://www.engadget.com/img/gallery/cds-are-back-but-they-come-with-a-modern-problem/l-intro-1793122691.jpg",
+                "url": "https://www.engadget.com/2298767/cds-are-back-modern-listening-complicated/",
+                "source": "Engadget",
+                "date": "2026-10-31T13:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jacksepticeye Joins Hitman World of Assassination As Elusive Target",
+                "desc": "Hitman World of Assassination has a new interesting Elusive Target added to the game, as Jacksepticeye becomes the latest target.",
+                "image": "https://bleedingcool.com/wp-content/uploads/2026/10/Hitman-WOA-Jacksepticeye-7-2000x1125.jpg",
+                "url": "https://bleedingcool.com/games/jacksepticeye-joins-hitman-world-of-assassination-as-elusive-target/",
+                "source": "Bleeding Cool News",
+                "date": "2026-10-31T13:43:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Crimson Desert Enhanced gets three new storylines with Charting the Unknown; here’s what’s new for players",
+                "desc": "Crimson Desert Enhanced has received its Charting the Unknown expansion.",
+                "image": "https://static.toiimg.com/thumb/msid-135402806,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/technology/gaming/crimson-desert-enhanced-gets-three-new-storylines-with-charting-the-unknown-heres-whats-new-for-players/articleshow/135402678.cms",
+                "source": "The Times of India",
+                "date": "2026-10-31T13:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EA reportedly chose Star Wars Battlefront 3 over Mass Effect, killing BioWare’s final game in the process",
+                "desc": "In a new report by Bloomberg, their sources claim that when given the choice between investing in the next Mass Effect or Star Wars: Battlefront game, it cancelled the former in favor of the latter",
+                "image": "https://cdn.mos.cms.futurecdn.net/KSdx25VrnWxMV8aJ9xxWwV-1920-80.jpg",
+                "url": "https://www.windowscentral.com/gaming/ea-reportedly-chose-star-wars-battlefront-3-over-mass-effect-killing-biowares-final-game-in-the-process",
+                "source": "Windows Central",
+                "date": "2026-10-31T13:38:23Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Microsoft Veteran Engineer Explains Windows 11 Task Manager Lag Under Heavy CPU Load, Saying It’s “Hard To Fix A Runaway System From Within That Same System”",
                 "desc": "When your CPU maxes out, the very tool you need to rescue it gets stuck in the same traffic, and a Microsoft veteran explains why",
@@ -1174,99 +1264,99 @@
                 "source": "MIXED News",
                 "date": "2026-10-30T10:56:59Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "A new Casio G-Shock Gravitymaster pilot watch with a fabric strap is on the way",
-                "desc": "Casio is gearing up to expand its G-Shock Gravitymaster lineup with a new pilot watch that trades the usual resin strap for a rugged fabric alternative. The GWR-B3000SC-1A has surfaced at a Vietnamese retailer ahead of its expected December debut.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-G-Shock-Gravitymaster-GWR-B3000SC-1A-featured.jpg",
-                "url": "https://www.notebookcheck.net/A-new-Casio-G-Shock-Gravitymaster-pilot-watch-with-a-fabric-strap-is-on-the-way.1437132.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-10-30T07:39:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gears of War: E-Day Reportedly Sold Over 400K Copies Across Console and PC a Month After Day-One Game Pass Launch",
-                "desc": "Analysts say more players likely accessed the title using Xbox's service than actually purchasing a copy.",
-                "image": "https://sm.ign.com/t/ign_za/news/g/gears-of-w/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-c_b9z9.1200.jpg",
-                "url": "https://za.ign.com/gears-of-war-e-day/244391/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game",
-                "source": "IGN Africa",
-                "date": "2026-10-30T07:25:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Galaxy Buds On gets US pricing and release date",
-                "desc": "After launching first in Korea, Samsung has brought its first pair of clip-on earbuds to the US. The Galaxy Buds On cost less than the Galaxy Buds 4 Pro and will be available to buy in November.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-Buds-On-featured.jpg.jpg",
-                "url": "https://www.notebookcheck.net/Samsung-Galaxy-Buds-On-gets-US-pricing-and-release-date.1437549.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-10-30T07:21:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Forza Motorsport Director and Turn 10 Boss Dan Greenawalt Retiring From Microsoft After 27 Years",
-                "desc": "He oversaw eight Motorsport games and built Turn 10 from scratch.",
-                "image": "https://sm.ign.com/t/ign_za/news/f/forza-moto/forza-motorsport-director-and-turn-10-boss-dan-greenawalt-re_8rj7.1200.jpg",
-                "url": "https://za.ign.com/forza-motorsport/244368/forza-motorsport-director-and-turn-10-boss-dan-greenawalt-retiring-from-microsoft-after-27-years",
-                "source": "IGN Africa",
-                "date": "2026-10-30T07:18:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Garena Free Fire India vs Free Fire Max: Gameplay, graphics, device support and account rules compared",
-                "desc": "Garena now offers Indian players two Free Fire apps. Here is how Free Fire India and Free Fire Max compare on gameplay, modes, visuals, hardware needs, accounts and play limits.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261028065826_Screenshot_20261028_112354_Free-Fire-India.jpg",
-                "url": "https://www.moneycontrol.com/technology/garena-free-fire-india-vs-free-fire-max-gameplay-graphics-device-support-and-account-rules-compared-article-14064368.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-10-30T07:17:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NVIDIA's RTX 5080 24 GB Could Arrive As Early As December With 50% More VRAM, As 16 GB Models Already Sell For Over $2,000",
-                "desc": "NVIDIA seems to have finalized the launch timeframe of its next big RTX 50 launch: the 24 GB GeForce RTX 5080 graphics card.",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/RTX-5080-24-GB.jpg",
-                "url": "https://wccftech.com/nvidia-geforce-rtx-5080-24-gb-available-next-few-months-replaces-16-gb-5080/",
-                "source": "Wccftech",
-                "date": "2026-10-30T07:15:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ATK Reveals Affordable RS8 Air HE and Neo Mechanical Aluminium Gaming Keyboards",
-                "desc": "ATK, the brand behind several affordable high-performance gaming peripherals, has just announced the new RS8 series gaming keyboards in both mechanical and Hall effect flavors. The RS8 Air is a $99.98 Hall effect keyboard that will launch with a discount bringing the price down to $74.89, while...",
-                "image": "https://www.techpowerup.com/img/LebE9ABE0Z6nYaZ5.jpg",
-                "url": "https://www.techpowerup.com/354303/atk-reveals-affordable-rs8-air-he-and-neo-mechanical-aluminium-gaming-keyboards",
-                "source": "TechPowerUp",
-                "date": "2026-10-30T07:13:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Elder Scrolls 6 Is Reportedly Subtitled 'Sentinel,' New Story Details Revealed Ahead of Rumored Announcement",
-                "desc": "Closer than ever.",
-                "image": "https://sm.ign.com/t/ign_za/news/t/the-elder-/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-sto_ktu4.1200.jpg",
-                "url": "https://za.ign.com/the-elder-scrolls-6/244367/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-story-details-revealed-ahead-of-rumored-ann",
-                "source": "IGN Africa",
-                "date": "2026-10-30T07:10:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Nokia 2360 Flip is a dual-display feature phone with an SOS button",
-                "desc": "The device supports Family Assist, but only offers 2G connectivity. HMD has unveiled the Nokia 2360 Flip, its latest feature phone with a clamshell design...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/10/nokia-2360-flip-2g-ofic/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/the_nokia_2360_flip_is_a_dualdisplay_feature_phone_with_an_sos_button-news-75278.php",
-                "source": "GSMArena.com",
-                "date": "2026-10-30T07:02:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vaastavya Residence / Space Agency",
-                "desc": "Completed in 2024 in Bengaluru, India. Images by Shamanth Patil J. On a compact urban plot, Vaastavya transforms the limitations of a dense neighborhood into an opportunity to explore vertical living, controlled...",
-                "image": "https://images.adsttc.com/media/images/6adf/421b/3271/8400/01d0/ea04/large_jpg/SJP7440.jpg?1793016383",
-                "url": "https://www.archdaily.com/1187510/vaastavya-residence-space-agency",
-                "source": "ArchDaily",
-                "date": "2026-10-30T07:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Iron Age iron bars discovered in Austria are llnked to Danube River shipwreck",
+                "desc": "Iron Age iron bars found in Austria's Danube River may be from a shipwreck that's over 2,000 years old. The 500-bar collection is the largest of its kind in Europe.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/AUSTRIA-IRON-AGE-BAR-RECOVERY-ANCIENT-SWORD-HISTORY-DISCOVERY-ARCHAEOLOGY-1.jpg",
+                "url": "https://www.foxnews.com/travel/ancient-rusty-treasure-emerges-river-enough-iron-forge-500-swords",
+                "source": "Fox News",
+                "date": "2026-10-31T14:00:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nicki Minaj and Donald Trump: A MAGA Timeline",
+                "desc": "How did the rapper and the president get so close? Here's a full look at what led to this",
+                "image": "https://www.rollingstone.com/wp-content/uploads/2026/10/trump-and-nicki-timeline.jpg?w=1600&h=900&crop=1",
+                "url": "https://www.rollingstone.com/music/music-features/nicki-minaj-donald-trump-timeline-1235650624/",
+                "source": "Rolling Stone",
+                "date": "2026-10-31T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Days away from a national verdict on Trump 2.0, we check in with nine voters across the political spectrum",
+                "desc": "Millions will vote to decide which party controls Congress – which will have a huge impact on Trump’s final years in office",
+                "image": "https://i.guim.co.uk/img/media/cb1bc4c2a49b5d826cf940f38063e6d7e57ec19f/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=554d0848a274e002eb33da5c478bfd09",
+                "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth",
+                "source": "The Guardian",
+                "date": "2026-10-31T13:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somali pirates hijack Iranian fishing vessel",
+                "desc": "Pirates have hijacked an Iranian fishing boat off Somalia’s Puntland coast, the third Iranian vessel seized since July amid a resurgence in Somali piracy.",
+                "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/576838572.jpeg?itok=G7IqQIgd",
+                "url": "https://www.newarab.com/news/somali-pirates-hijack-iranian-fishing-vessel",
+                "source": "The New Arab",
+                "date": "2026-10-31T13:57:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Issues Tougher Deadline Rules for Green Card Applicants From November 2026",
+                "desc": "USCIS ends weekend extensions for birthday-based filing deadlines, affecting green card applicants and foreign workers from 23 October 2026 under new rules.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/16cb4b3af38b3f37.jpeg?v=1",
+                "url": "https://yen.com.gh/world/us/314835-us-issues-tougher-deadline-rules-green-card-applicants-november-2026/",
+                "source": "Yen News",
+                "date": "2026-10-31T13:55:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "10 Fairytale Cities In North America You Can Visit Right Now That Feel Like Europe",
+                "desc": "Want a fairytale European vacation without the jet lag? Explore 10 cities in North America offering cobblestone streets, historic charm, and old-world vibes. (158 characters)",
+                "image": "https://www.traveloffpath.com/wp-content/uploads/2026/10/Photo-taken-in-Old-Quebec.jpg",
+                "url": "https://www.traveloffpath.com/10-fairytale-cities-in-north-america-you-can-visit-right-now-that-feel-like-europe/",
+                "source": "Travel Off Path",
+                "date": "2026-10-31T13:53:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Track Hiring for Foreign Workers in 20 Occupations Facing Severe Shortages",
+                "desc": "Luxembourg announced fast-track hiring for foreign workers in 20 occupations officially classified as facing severe shortage to address its growing needs.",
+                "image": "https://cdn.tuko.co.ke/images/1200x675/81387e324391d2e2.jpeg?v=1",
+                "url": "https://www.tuko.co.ke/world/645186-luxembourg-opens-fast-track-hiring-foreign-workers-20-occupations-facing-severe-shortages/",
+                "source": "Tuko News",
+                "date": "2026-10-31T13:47:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Top 10 Countries Nigerians Can Explore for Jobs Abroad in 2026, Visa Options Listed",
+                "desc": "Explore 10 countries seeking foreign workers in 2026, with in-demand jobs and visa pathways for Nigerians across healthcare, technology, construction and more.",
+                "image": "https://cdn.legit.ng/images/1200x675/50625f4f0c700fe1.jpeg?v=1",
+                "url": "https://www.legit.ng/business-economy/industry/1738899-top-10-countries-nigerians-explore-jobs-2026-visa-options-listed/",
+                "source": "Legit News",
+                "date": "2026-10-31T13:45:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Araghchi says Vance's letter could open door to talks, rules out meeting with US",
+                "desc": "On the nuclear issue, Araghchi said Tehran is in the \"second phase\" of reviewing proposals from mediators, according to Al Jazeera.",
+                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728671",
+                "url": "https://www.jpost.com/middle-east/iran-news/article-913396",
+                "source": "The Jerusalem Post",
+                "date": "2026-10-31T13:43:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Zimbabweans marry Batswana to be granted citizenship in Gaborone",
+                "desc": "Zimbabweans are now marrying Batswana in large numbers to acquire citizenship in Gaborone",
+                "image": "https://i0.wp.com/tanzaniatimes.net/wp-content/uploads/2026/10/botswana-zimbabwe.jpg?fit=1170%2C618&ssl=1",
+                "url": "https://tanzaniatimes.net/zimbabweans-rush-to-marry-batswana-as-means-of-getting-citizenship-in-gaborone/",
+                "source": "The Tanzania Times",
+                "date": "2026-10-31T13:41:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Muslim Advocacy Group Encourages Early Turnout Ahead of Tuesday’s Midterms in US",
                 "desc": "IQNA – The United States’ largest Muslim civil rights and advocacy organization is calling on voters to make use of the remaining early voting window before deadlines close for Tuesday's midterm elections.",
@@ -1806,98 +1896,8 @@
                 "source": "Ecofin Agency",
                 "date": "2026-10-30T11:02:13Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Court orders Erin Patterson never to be released from prison for mushroom poisonings",
-                "desc": "An Australian appeals court has ordered triple-murderer Erin Patterson to never be released from prison because of the “shocking criminality” involved in poisoning four of her estranged husband’s relatives with death cap mushrooms",
-                "image": "https://i.abcnewsfe.com/a/37c0249d-6e90-4397-8bdc-ff557d447d53/wirestory_4721489445371b9eb1c24eba030c3c13_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/International/wireStory/australian-court-orders-erin-patterson-released-prison-mushroom-137690738",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-10-30T07:42:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Muhyiddin says agreement to support Anwar on key parliamentary votes unrelated to Melaka polls",
-                "desc": "Six Bersatu lawmakers signed the agreement committing to support Prime Minister Anwar Ibrahim’s unity government, where PH is the largest coalition, through to the end of the current parliamentary term.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--cJS9mgX_--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/30/csa.jpg?itok=pvFdPi-U",
-                "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-muhyiddin-bersatu-6505911",
-                "source": "CNA",
-                "date": "2026-10-30T07:42:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aid deliveries and evacuations under way in Russian-held town of Oleshky",
-                "desc": "Aid convoy sets off for Russian-held town of Oleshky in Ukraine",
-                "image": "https://www.irishtimes.com/resizer/v2/BCPLFEP7WTX2UK7WUBZDXFXOXU.jpg?smart=true&auth=33f49e1a175d1f4abb7167e33094e0eb8c9e749ec99199a82a49c09c199a30ed&width=1200&height=630",
-                "url": "https://www.irishtimes.com/world/europe/2026/10/30/us-tells-europeans-to-cool-their-rhetoric-on-russia/",
-                "source": "The Irish Times",
-                "date": "2026-10-30T07:41:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Korea to prosecute students cheating with smart glasses",
-                "desc": "SEOUL: South Korea will file criminal complaints against students caught cheating on a national university entrance exam with smart glasses and toughen penalties for their use, a government official told AFP Friday (Oct 30).",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/10/30/4188374.jpg",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/30/south-korea-to-prosecute-students-cheating-with-smart-glasses",
-                "source": "The Star",
-                "date": "2026-10-30T07:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sesame seeds: crop prospects remain bleak",
-                "desc": "NEW DELHI. India’s kharif harvest yields a significantly smaller sesame seed crop. The market remains tense. Prices are on the rise.",
-                "image": "https://www.mundus-agri.eu/images/news/cache/36469_square_medium.jpeg",
-                "url": "https://www.mundus-agri.eu/news/sesame-seeds-crop-prospects-remain-bleak.n38303.html",
-                "source": "Mundus Agri",
-                "date": "2026-10-30T07:38:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Netanyahu bloc first but without majority as Arab parties hold balance of power in Israel election",
-                "desc": "The result means Israel is now set to face a lengthy and likely tricky period of negotiations as party leaders work to form a government.",
-                "image": "https://images.euronews.com/articles/stories/09/97/28/31/1200x675_cmsv2_3e88cb49-4a37-5347-b297-60a11bf275b7-9972831.jpg",
-                "url": "https://www.euronews.com/2026/10/30/netanyahu-bloc-emerges-ahead-in-israeli-election-but-fails-to-secure-majority",
-                "source": "Euronews.com",
-                "date": "2026-10-30T07:31:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CBD COP17: Nigeria deploys BIOFIN, Net-Zero Plan to link biodiversity with national investments",
-                "desc": "Nigeria says it is using initiatives such as the Biodiversity Finance Initiative (BIOFIN) and the National Net-Zero Nature-Positive Implementation Plan to integrate biodiversity priorities into national planning, financing and investment decisions.",
-                "image": "https://media.premiumtimesng.com/wp-content/files/2026/10/WhatsApp-Image-2026-10-29-at-6.16.00-PM.jpeg",
-                "url": "https://www.premiumtimesng.com/business/business-news/921490-cbd-cop17-nigeria-deploys-biofin-net-zero-plan-to-link-biodiversity-with-national-investments.html",
-                "source": "Premium Times Nigeria",
-                "date": "2026-10-30T07:28:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chad: France and Chad Rebuild Military Ties With Planned Air Force Training",
-                "desc": "Two French fighter jets and a transport aircraft will soon make a stopover in Chad and carry out \"training activities\", the French army has said, as the two countries seek to rebuild ties.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202610300170.html",
-                "source": "allAfrica.com",
-                "date": "2026-10-30T07:27:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Qatari mediators return to Tehran to push for US-Iran deal, official says",
-                "desc": "Qatari mediators returned to Tehran on Friday as part ​of efforts to reach a deal ‌between the US and Iran, an official briefed on the talks told Reuters.",
-                "image": "https://www.reuters.com/resizer/v2/QJYAA6BJGRP3RGJN5WVQ27C4OM.jpg?auth=3ec0f54275913e982bcade14db92d76c1ec14085a4c3185660ca86a3d4f27752&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/middle-east/qatari-mediators-return-tehran-push-us-iran-deal-official-says-2026-10-30/",
-                "source": "Reuters",
-                "date": "2026-10-30T07:25:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Qatari mediators return to Tehran to push for US-Iran deal, official says",
-                "desc": "Oct 30 (Reuters) - Qatari mediators returned to Tehran on Friday as part of efforts to reach a deal between the US and Iran, an official briefed on the talks told Reuters.The mediation talks have been coordinated with the US, the official said.Qatar presented a draft peace plan to Iran on Sunday, according to an official briefed on negotiations. But a senior Iranian official dismissed the proposals as unacceptable and said Tehran would maintain its nuclear position.",
-                "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-10/2026-10-30T070943Z_1_LYNXNPEM9T0ER_RTROPTP_3_IRAN-CRISIS-RUSSIA-QATAR-PEZESHKIAN.JPG?h=c9f93661&itok=9MwE55XN",
-                "url": "https://www.al-monitor.com/originals/2026/10/qatari-mediators-return-tehran-push-us-iran-deal-official-says",
-                "source": "Al-Monitor",
-                "date": "2026-10-30T07:24:59Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-10-31T22:51:04.591501Z"
+    "lastGlobalSync": "2026-11-01T02:02:30.017127Z"
 }
