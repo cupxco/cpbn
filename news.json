@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+                "desc": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+                "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675",
+                "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+                "source": "TechCrunch",
+                "date": "2026-11-05T15:40:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Drops on AI stocks erase Wall Street’s rally",
+                "desc": "More drops for AI chip stocks are dragging the U.S. market lower, even as much of Wall Street rises following strong profit reports from other companies.",
+                "image": "https://www.bnnbloomberg.ca/resizer/v2/DID4WDPA6RBJTKBJE6UZEOCD3A.jpg?smart=true&auth=a2cea06768bae5f498f6db5503565f0f7d57b01646e0368a3c00dd49e8a8d9d5&width=1200&height=630",
+                "url": "https://www.bnnbloomberg.ca/markets/2026/11/05/world-shares-mostly-gain-after-us-midterm-elections-as-ai-related-stocks-sink/",
+                "source": "BNN Bloomberg",
+                "date": "2026-11-05T15:38:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elon Musk loses billions as AI and data centre shares fall after midterms",
+                "desc": "Tesla and SpaceX shares drop 9 per cent in early trading over fears that Democrat victory will slow down developments",
+                "image": "https://www.thetimes.com/imageserver/image/6d711f2d-6030-464f-a86d-fda042a83c81.jpg?strip=all&format=webp&crop=5220px%2C2936px%2C0px%2C319px&resize=1200",
+                "url": "https://www.thetimes.com/business/companies-markets/article/elon-musk-ai-data-centre-midterms-9zkr3bg9v",
+                "source": "The Times",
+                "date": "2026-11-05T15:35:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ottawa gas prices set for another major drop Friday",
+                "desc": "According to En-Pro's Roger McKnight, the price of gasoline is projected to drop seven cents per litre on Friday, Nov. 6.",
+                "image": "https://ottawa.citynews.ca/wp-content/blogs.dir/sites/4/2026/08/0c21bf8dd01926c4723f19421b2e09c20086842775b177fdc3e4ce9150991c02.jpg",
+                "url": "https://ottawa.citynews.ca/2026/11/05/ottawa-gas-prices-november/",
+                "source": "CityNews Ottawa",
+                "date": "2026-11-05T15:35:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia Stock Is Below $200. What History Suggests Is the Floor.",
+                "desc": "Nvidia stock has hit a three-month low. Here's where its record suggests the slide should stop.",
+                "image": "https://images.barrons.com/im-45207932/social",
+                "url": "https://www.barrons.com/articles/nvidia-stock-price-floor-0fb3b5dd",
+                "source": "Barron's",
+                "date": "2026-11-05T15:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Expedia CEO says AI agents aren't changing booking habits - yet",
+                "desc": "Expedia CEO Ariane Gorin told CNBC that AI agents present an exciting time for the travel industry but that they haven't yet impacted bookings.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108526068-1793889632169-gettyimages-2270855893-IMF_WORLD_BANK.jpeg?v=1793889686&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
+                "source": "CNBC",
+                "date": "2026-11-05T15:34:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Europe cyber attacks a timely lesson for Malaysia’s food supply chain, says expert",
+                "desc": "KUALA LUMPUR: The cyber attacks that hit Europe by exploiting refrigeration management system vulnerabilities and spoiling thousands of tonnes of fresh food products should serve as a lesson for Malaysia's domestic ecosystem, according to an expert.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/11/05/4199138.jpg",
+                "url": "https://www.thestar.com.my/news/nation/2026/11/05/europe-cyber-attacks-a-timely-lesson-for-malaysias-food-supply-chain-says-expert",
+                "source": "The Star",
+                "date": "2026-11-05T15:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tech stocks plunge 4.5% over worries about AI and midterms",
+                "desc": "Shares in technology companies dropped sharply Thursday, compounding recent declines that have sparked concerns about the durability of the artificial intelligence boom that has driven much of recent U.S. economic growth.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-Nasdaq-ch-1005-abf86d.jpg",
+                "url": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650",
+                "source": "NBC News",
+                "date": "2026-11-05T15:32:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "It Turns Out Binance's $6 Billion Hack Happened Because Its Employees Were Vibe Coding",
+                "desc": "Binance has revealed the elaborate scheme hackers used to steal billions of dollars worth of cryptocurrency.",
+                "image": "https://futurism.com/wp-content/uploads/2026/11/binance-heist-vibe-coding-employee-ai.jpg?w=1200",
+                "url": "https://futurism.com/future-society/binance-heist-vibe-code-ai",
+                "source": "Futurism",
+                "date": "2026-11-05T15:31:13Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "John Deere Announces Iowa Plant Closures, Production Moves Through 2029",
+                "desc": "John Deere plans to close two Iowa manufacturing plants, shifting equipment production to other facilities as part of a broader restructuring of its manufacturing operations.",
+                "image": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=bigiron.jpg",
+                "url": "https://www.dtnpf.com/agriculture/web/ag/equipment/article/2026/11/04/john-deere-announces-iowa-plant-2029",
+                "source": "DTN Progressive Farmer",
+                "date": "2026-11-05T15:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Titan Q2 results: Net profit more than doubles to Rs 2,393 crore, beats estimates",
                 "desc": "The company's total income rose 14% to Rs 21,430 crore in Q2FY27 as compared to Rs 18,837 crore a year ago",
                 "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251103125554_titan.jpg",
@@ -542,99 +632,99 @@
                 "source": "Seeking Alpha",
                 "date": "2026-11-04T03:15:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Toyota Hilux SR5 Limited review: accessory all areas",
-                "desc": "It's been a big year for Toyota Hilux: the 50th anniversary of the model in NZ and a new 9th-generation model (it's more like 8.5, to be honest) launched.",
-                "image": "https://www.drivencarguide.co.nz/media/2mlpyfvp/20261014_144120.jpg?v=1dd6c314c075850",
-                "url": "https://www.drivencarguide.co.nz/reviews/toyota-hilux-sr5-limited-review-accessory-all-areas/",
-                "source": "Driven Car Guide",
-                "date": "2026-11-03T19:20:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Douglas Dynamics outlines 2026 net sales of $770M-$805M and adjusted EPS of $3-$3.40 as it raises the lower end of guidance",
-                "desc": "Douglas Dynamics Q3 2026 earnings: record sales, higher guidance, and 2027 growth signals.",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/news/4663944-douglas-dynamics-outlines-2026-net-sales-of-770m-805m-and-adjusted-eps-of-3-3_40-as-it-raises",
-                "source": "Seeking Alpha",
-                "date": "2026-11-03T19:17:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gartner raises 2026 adjusted EPS outlook to at or above $14.65 while targeting EBITDA at or above $1.615B",
-                "desc": "Gartner Q3 2026 earnings insights: raised guidance, accelerating contract value growth, and AI demand, alongside risks to near-term growth.",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/news/4663941-gartner-raises-2026-adjusted-eps-outlook-to-at-or-above-14_65-while-targeting-ebitda-at-or",
-                "source": "Seeking Alpha",
-                "date": "2026-11-03T19:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fake job interview sparked crypto heist",
-                "desc": "Binance has released a report into one of the biggest financial heists in history, detailing how hackers tricked their employees.",
-                "image": "https://static.ffx.io/images/$zoom_0.3905646555741984%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_22/t_crop_custom/q_86%2Cf_auto/5300539bf7cf2202afe2bc1cf6a44c827a3a24b6",
-                "url": "https://www.smh.com.au/business/markets/the-fake-job-interview-that-helped-spark-a-9-billion-heist-20261104-p61b5i.html",
-                "source": "SMH.com.au",
-                "date": "2026-11-03T19:16:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Enlight Renewable Energy Ltd (ENLT) Q3 2026 Earnings Call Transcript",
-                "desc": "Enlight Renewable Energy Ltd (ENLT) Q3 2026 Earnings Call November 3, 2026 8:00 AM ESTCompany ParticipantsLimor Megen - Director of Investor RelationsAdi...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4961724-enlight-renewable-energy-ltd-enlt-q3-2026-earnings-call-transcript",
-                "source": "Seeking Alpha",
-                "date": "2026-11-03T19:16:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Intesa Sanpaolo S.p.A. (ISNPY) Q3 2026 Earnings Call Transcript",
-                "desc": "Intesa Sanpaolo S.p.A. (ISNPY) Q3 2026 Earnings Call November 3, 2026 9:00 AM ESTCompany ParticipantsCarlo Messina - MD, CEO, GM & Executive...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4961562-intesa-sanpaolo-s-p-a-isnpy-q3-2026-earnings-call-transcript",
-                "source": "Seeking Alpha",
-                "date": "2026-11-03T19:16:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hyperscalers Are Bleeding Cash And Losing Altitude",
-                "desc": "Hyperscaler capex spending is driving U.S. GDP growth via unprecedented AI infrastructure outlays. Read full analysis here.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2237865421/image_2237865421.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4961689-hyperscalers-are-bleeding-cash-and-losing-altitude",
-                "source": "Seeking Alpha",
-                "date": "2026-11-03T19:12:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FDI in Europe: the EU readies itself for a harmonised screening regime",
-                "desc": "On 14 October 2026, the European Commission (“EC”) published its sixth annual report on foreign direct investment (“FDI”) screening in the EU, covering 2025 (the “Report”).",
-                "image": "https://www.eversheds-sutherland.com/dist/EvershedsSutherland/9926d34899d3188d5fed.ico",
-                "url": "https://www.eversheds-sutherland.com/et/estonia/insights/fdi-in-europe-the-eu-readies-itself-for-a-harmonised-screening-regime",
-                "source": "Eversheds Sutherland",
-                "date": "2026-11-03T19:11:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fintiri Seeks Canadian Partnership, Plans To Sponsor 120 Adamawa Students For Master’s Degrees",
-                "desc": "Adamawa State Governor, Ahmadu Fintiri, has sought stronger collaboration with the Canadian Government in education, science and technology,",
-                "image": "https://tvcnews.tv/wp-content/uploads/2026/11/IMG-20261103-WA0131.jpg",
-                "url": "https://www.tvcnews.tv/fintiri-seeks-canadian-partnership-plans-to-sponsor-120-adamawa-students-for-masters-degrees/",
-                "source": "TVC News",
-                "date": "2026-11-03T19:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hawke's Bay vegetable growers on the hunt for higher value crops after McCain closure",
-                "desc": "A group of Hawke's Bay vegetable farmers are trying to work out what to grow after a feasibility study found they should avoid a McCain-style large scale model again.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--VXNFOvb_--/t_tohu-badge-facebook/f_auto/q_auto/4JFQ0Z5_MCAIN_GROWERS_3_jfif",
-                "url": "https://www.rnz.co.nz/news/business/2325419/hawke-s-bay-vegetable-growers-on-the-hunt-for-higher-value-crops-after-mccain-closure",
-                "source": "RNZ",
-                "date": "2026-11-03T19:05:20Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Some AI agents use personal information to upsell wealthier individuals",
+                "desc": "Increasingly, people are asking personal artificial intelligence (AI) agents powered by models from companies like OpenAI, Anthropic and Google to recommend goods and services to purchase, such as flights and health insurance. ...",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-agents-1.jpg",
+                "url": "https://techxplore.com/news/2026-11-ai-agents-personal-upsell-wealthier.html",
+                "source": "Tech Xplore",
+                "date": "2026-11-05T15:40:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HP puts the spotlight on the HyperX OMEN MAX 16 gaming laptop at HyperX Center Stage event",
+                "desc": "HP Philippines recently held the HyperX Center Stage event, and it put the spotlight on the HyperX OMEN MAX 16 gaming laptop.",
+                "image": "https://www.ungeek.ph/wp-content/uploads/2026/11/hp-hyperx-philippines-laptop.webp",
+                "url": "https://www.ungeek.ph/2026/11/hp-puts-the-spotlight-on-the-hyperx-omen-max-16-gaming-laptop-at-hyperx-center-stage-event/",
+                "source": "UnGeek",
+                "date": "2026-11-05T15:38:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Serica Ref. 8315-03 Golden Green",
+                "desc": "The new Serica Ref. 8315-03 Golden Green brings a rich olive enamel dial and striking two-tone ceramic bezel to the brand’s distinctive GMT",
+                "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Serica-Travel-Chronometer-Ref-8315-Golden-Green-Feature.jpg",
+                "url": "https://timeandtidewatches.com/serica-ref8315-03-golden-green-introducing/",
+                "source": "Time+Tide Watches",
+                "date": "2026-11-05T15:37:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "YouTube rolls out app redesign without Subscriptions tab",
+                "desc": "YouTube is now rolling out its app redesign on Android and iOS which removes the dedicated Subscriptions tab from the app.",
+                "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/youtube-app-redesign-subs.jpg?quality=82&strip=all&resize=1200,628",
+                "url": "https://9to5google.com/2026/11/05/youtube-app-redesign-subscriptions-tab/",
+                "source": "9to5Google",
+                "date": "2026-11-05T15:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"Hela: of Mice & Magic tells its tale: New Story Deep Dive Released, Full Adventure Playable via Cross",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Hela-of-Mice-Magic-tells-its-tale-New-Story-Deep-Dive-Released-Full-Ad",
+                "source": "Games Press",
+                "date": "2026-11-05T15:32:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Vault Is Open! PAYDAY: Aces High is Now Available on Meta Quest, SteamVR, and Steam Frame",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/The-Vault-Is-Open-PAYDAY-Aces-High-is-Now-Available-on-Meta-Quest-Stea",
+                "source": "Games Press",
+                "date": "2026-11-05T15:32:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SURVIVE 60 - A ONE-FINGER SPACE SURVIVAL CHALLENGE NOW PLAYABLE ON TOSS, ONEPLAY AND WEB",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/SURVIVE-60-A-ONE-FINGER-SPACE-SURVIVAL-CHALLENGE-NOW-PLAYABLE-ON-TOSS-",
+                "source": "Games Press",
+                "date": "2026-11-05T15:32:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "My router shows who's on my Wi-Fi, but this free app tells me who's been there",
+                "desc": "A self-hosted watchdog for your network.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/netalertx-1.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/my-router-shows-whos-on-wifi-but-this-free-app-tells-me-whos-been-there/",
+                "source": "MakeUseOf",
+                "date": "2026-11-05T15:30:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI is breaking locked-down game consoles, and manufacturers can't stop it",
+                "desc": "AI is helping developers jailbreak consoles, mash up games, and run software that Nintendo, Sony, and Microsoft never intended.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/playstation-5-1.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/ai-is-breaking-locked-down-game-consoles-and-manufacturers-cant-stop-it/",
+                "source": "How-To Geek",
+                "date": "2026-11-05T15:30:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+                "desc": "OpenSSH 10.6p2 fixes a critical password bypass allowing access to key-only accounts on affected Alpine Linux servers using long passwords.",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1700-nu-rw-lo-l85-e365/ssh-linux.jpg",
+                "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+                "source": "The Hacker News",
+                "date": "2026-11-05T15:30:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "GTA 6's final marketing push is here - and this is what it looks like",
                 "desc": "For months, fans have been wondering what Rockstar's final marketing push for GTA 6 would look like. Now it's here – and this article offers a glimpse of the worldwide promotional campaign.",
@@ -1174,99 +1264,99 @@
                 "source": "9to5Mac",
                 "date": "2026-11-04T02:43:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Developers can now create advanced 'app skills' for Siri AI",
-                "desc": "Apple today announced a major new Siri AI initiative for third-party developers, allowing any app to create Siri AI integrations...",
-                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Siri-AI-Beta-macOS-27-Top-Features.jpg?quality=82&strip=all&resize=1200,628",
-                "url": "https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai/",
-                "source": "9to5Mac",
-                "date": "2026-11-03T19:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chinese Videostrong botnet hit Android TV boxes in Australia: researchers",
-                "desc": "Google boots Shenzhen-based vendor behind XPCE botnet.",
-                "image": "https://i.nextmedia.com.au/News/XCPE_malware.png",
-                "url": "https://www.itnews.com.au/news/chinese-videostrong-botnet-hit-android-tv-boxes-in-australia-researchers-630083",
-                "source": "iTnews",
-                "date": "2026-11-03T19:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 Preload and Global Release Times Confirmed by Rockstar Games",
-                "desc": "Rockstar Games has confirmed the GTA 6 preload and global release times, as well as the install size of the game.",
-                "image": "https://assets-prd.ignimgs.com/2026/11/03/image001-1-1793719333110.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
-                "source": "IGN",
-                "date": "2026-11-03T19:22:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Another Ring-Sized Casio Watch Has Hit the Market",
-                "desc": "The CRW-002 is a miniaturized version of the company's A168 digital watch, complete with a working stopwatch and LED backlight.",
-                "image": "https://gizmodo.com/app/uploads/2026/11/Casio-CRW-002-lifestyle-1200x675.jpg",
-                "url": "https://gizmodo.com/casio-watch-ring-crw-002-2000834539",
-                "source": "Gizmodo",
-                "date": "2026-11-03T19:20:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches",
-                "desc": "GTA 6 is mere weeks away from launch, and to celebrate, Xbox is bringing the wildlife of Leonida to players’ living rooms with a one-of-a-kind console.",
-                "image": "https://assets-prd.ignimgs.com/2026/11/03/xbox-series-x-bite-alligator-console-sweepstakes-1793733499952.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches",
-                "source": "IGN",
-                "date": "2026-11-03T19:20:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone Duo Gets Reachability in iOS 27.3 Beta",
-                "desc": "With today's iOS 27.3 beta, Apple expanded Reachability to the iPhone Duo.",
-                "image": "https://images.macrumors.com/t/gPDnWfVxrPKV1-btVSWLa9tWtdM=/2000x/article-new/2026/11/ios-27-3-reachability-duo.jpg",
-                "url": "https://www.macrumors.com/2026/11/03/iphone-duo-reachability-ios-27-3/",
-                "source": "MacRumors",
-                "date": "2026-11-03T19:19:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iOS 27.3 expands Siri AI with many new capabilities across Apple apps",
-                "desc": "iOS 27.3 has just entered beta testing and includes major new features for Siri AI across iPhone, iPad and Mac....",
-                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all&resize=1200,628",
-                "url": "https://9to5mac.com/2026/11/03/ios-27-3-expands-siri-ai-with-many-new-capabilities-across-apple-apps/",
-                "source": "9to5Mac",
-                "date": "2026-11-03T19:19:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'The Elder Scrolls 6' Title Revealed",
-                "desc": "Bethesda Game Studios has officially revealed the subtitle and logo for “The Elder Scrolls 6.”",
-                "image": "https://variety.com/wp-content/uploads/2019/06/dragons-elder-scrolls-online.png?w=1000&h=563&crop=1",
-                "url": "https://variety.com/2026/gaming/news/gaming-news-roundup-november-2-1236937743/",
-                "source": "Variety",
-                "date": "2026-11-03T19:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Intel Might Discontinue the Arc B580 to Prioritize Higher-Margin Arc Pro Cards",
-                "desc": "Leaker Haze2K1 says on X that Intel might put the Arc B580 on the end-of-life (EOL) list. Apparently, Intel wants to prioritize workstation and AI inference cards like the Arc Pro B50, which are reportedly selling really well and carry higher margins. Intel hasn't confirmed anything, and Haze2K1...",
-                "image": "https://www.techpowerup.com/img/dj3FofIiBSdUs2Qf.jpg",
-                "url": "https://www.techpowerup.com/354440/intel-might-discontinue-the-arc-b580-to-prioritize-higher-margin-arc-pro-cards",
-                "source": "TechPowerUp",
-                "date": "2026-11-03T19:15:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Windows 11 Optimizations Bring Up to 40% Faster Multitasking to 8 GB PCs",
-                "desc": "Microsoft today released a series of optimizations for Windows 11 PCs running on 8 GB of system RAM, promising significant improvements for those with smaller RAM capacities. Especially in the age of RAM shortages, Windows 11 is getting an update that might be most beneficial for those with lower...",
-                "image": "https://www.techpowerup.com/img/TUil0h22tbC6HuFO.jpg",
-                "url": "https://www.techpowerup.com/354441/windows-11-optimizations-bring-up-to-40-faster-multitasking-to-8-gb-pcs",
-                "source": "TechPowerUp",
-                "date": "2026-11-03T19:10:26Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Tiny island in the pacific is the most searched ‘wish list’ destination",
+                "desc": "It seems we’ve got islands on our mind, but not always in our travel plans with new global data revealing which destinations people are Googling the most without necessarily making the trip.",
+                "image": "https://static.ffx.io/images/$zoom_0.4993%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/61fafdf8244abdf0dc985721319d7d659d7d4db7629df6b24ec2624aa28a9a5d",
+                "url": "https://www.nine.com.au/travel/international/most-searched-wish-list-destinations-south-pacific-islands-new-study-pictures-20261105-p61ahg.html",
+                "source": "Nine.com.au",
+                "date": "2026-11-05T15:40:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russell Brand claimed to have ‘armour of God’ during rape trial",
+                "desc": "Brand and his wife continued to record a Christian podcast during trial, detailing their thoughts on faith and justice",
+                "image": "https://www.irishtimes.com/resizer/v2/K7BFFHGJAA7MUIFVYPXXQWYRXA.jpg?smart=true&auth=c372323c15da442a3caac8a59b0bd61bc8962d9f1a6db8eec75743d8d23a429e&width=1200&height=630",
+                "url": "https://www.irishtimes.com/world/uk/2026/11/05/russell-brand-claimed-to-have-armour-of-god-during-rape-trial/",
+                "source": "The Irish Times",
+                "date": "2026-11-05T15:38:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mother, daughter found dead after suspected grizzly attack",
+                "desc": "A mother and daughter were found dead after a suspected grizzly bear attack. Officials are using DNA testing to identify the bear.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/05/USAT/92623288007-getty-images-74187674.jpg?crop=2999,1687,x0,y326&width=2999&height=1687&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/news/world/2026/11/05/mother-daughter-grizzly-bear-attack/92622685007/",
+                "source": "USA Today",
+                "date": "2026-11-05T15:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russell Brand convicted of rape and sexual assault",
+                "desc": "Brand, 51, denied the charges and testified that he was obsessed with sex as a young man and once led a promiscuous life but had never forced anyone to do something against their will.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-05T143210Z_1657368105_RC2K1OA6B1GW_RTRMADP_3_BRITAIN-COURT-BRAND-1024x685.jpg",
+                "url": "https://www.pbs.org/newshour/world/russell-brand-convicted-of-rape-and-sexual-assault",
+                "source": "PBS",
+                "date": "2026-11-05T15:31:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump’s diesel deal with Putin in shambles after Russian tankers turn away from US due to sanctions",
+                "desc": "It comes as the US leader suffered a disastrous defeat at midterm elections this week",
+                "image": "https://static.independent.co.uk/2026/10/17/04/2026-10-17T012836Z_455791147_RC2R7GACNKD8_RTRMADP_3_USA-TRUMP-SANCTIONS.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.independent.co.uk/news/world/europe/trump-diesel-deal-russia-ukraine-putin-b3079589.html",
+                "source": "The Independent",
+                "date": "2026-11-05T15:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Security Camera Captures the Terrifying Moment a Hotel Window Frame Gives Way Behind a Young Mother as Her Boyfriend Stands Frozen in Shock",
+                "desc": "Renata Rebeca Negrão Saldanha dos Santos, mother of two children, died very early Tuesday morning when an aluminum window frame fell behind her on the seventh floor of a hotel… The post Security Camer...",
+                "image": "https://s.yimg.com/lo/mysterio/api/308467b60c63974475147db14463608f76bb8130caaf75dc30924b6ff160f6ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwhere_is_the_buzz_814%2Fe5c77f2ab802cbec3ab0473aae236a78.jpg",
+                "url": "https://www.yahoo.com/news/world/articles/security-camera-captures-terrifying-moment-152900034.html",
+                "source": "Yahoo",
+                "date": "2026-11-05T15:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aer Lingus plane among 27 flights hit by bomb hoaxes",
+                "desc": "Hoax bomb threats affected at least 27 flights around Europe today from Ireland to Bulgaria, forcing some to make unplanned landings and prompting fighter jets to escort or intercept others.",
+                "image": "https://www.rte.ie/images/00254a3a-1600.jpg",
+                "url": "https://www.rte.ie/news/europe/2026/1105/1598073-europe-flight-threats/",
+                "source": "RTE.ie",
+                "date": "2026-11-05T15:27:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Melania Ceasefire’ Gave Russia Excellent Cover to Reinforce Troops",
+                "desc": "The Kremlin says Russia broke no rules but the Ukrainians probably did.",
+                "image": "https://static.kyivpost.com/storage/2026/09/22/31cfb8744fb36ac4f014a216e1949ba7.jpg?w=1200&q=90&f=jpg",
+                "url": "https://www.kyivpost.com/post/89254",
+                "source": "Kyiv Post",
+                "date": "2026-11-05T15:26:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Canada Lists 5 Categories of People Who Cannot Be a Passport Application Reference",
+                "desc": "Canada has clarified who can serve as a reference for an adult passport applicant, naming five barred family groups. The details have sparked massive attention.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/fc0c2048a04ac03c.jpeg?v=1",
+                "url": "https://yen.com.gh/people/315165-canada-lists-5-categories-people-a-passport-application-reference/",
+                "source": "Yen News",
+                "date": "2026-11-05T15:26:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Putin met Iranian security council chief Rezaei in Moscow",
+                "desc": "Russian ‌President Vladimir Putin met Iranian ​security council ​chief Mohsen Rezaei ⁠at the ​Kremlin, the president's ​office said on Thursday.",
+                "image": "https://www.reuters.com/resizer/v2/YPA2MH4HSBOCLIWGAZHIGFAHMA.jpg?auth=d3c93d9337d130c0fb1a5fbe841396105a0b55fc76dc54802f31af16682a1317&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/middle-east/putin-met-iranian-security-council-chief-rezaei-moscow-2026-11-05/",
+                "source": "Reuters",
+                "date": "2026-11-05T15:26:18Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Who Is Jon Ossoff, Democrat Senator Dubbed As The 'Next Barack Obama’?",
                 "desc": "Jon Ossoff started the electoral campaign as the only Senate Democrat running for reelection in a state that voted for Trump in 2024.",
@@ -1806,98 +1896,8 @@
                 "source": "Fijivillage",
                 "date": "2026-11-04T03:23:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Wildfire smoke, conflict, and conversion: Asian Laudato Si’ groups compare notes in Philippines",
-                "desc": "Leaders from Myanmar, South Korea, Timor-Leste, Indonesia, and the Philippines shared their work and adopted the movement’s plan for 2027–2030.",
-                "image": "https://res.cloudinary.com/ewtn/image/upload/c_fill,w_3840,h_2160,g_auto/f_auto/q_80/v1/ewtn-news/en/WhatsApp_Image_2026-10-29_at_13.39.17_iuwan3.jpg?_a=BAVMn6E70",
-                "url": "https://www.catholicworldreport.com/2026/11/03/wildfire-smoke-conflict-and-conversion-asian-laudato-si-groups-compare-notes-in-philippines/",
-                "source": "Catholic World Report",
-                "date": "2026-11-03T19:18:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK doubles ILR waiting period to 10 years for most migrants",
-                "desc": "The United Kingdom Government has announced plans to double the standard qualifying period for migrants seeking Indefinite Leave to Remain (ILR) from five",
-                "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/09/14125622/UK.png",
-                "url": "https://thenationonlineng.net/uk-doubles-ilr-waiting-period-to-10-years-for-most-migrants/",
-                "source": "The Nation Newspaper",
-                "date": "2026-11-03T19:11:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Monusco’s mandate must not be renewed",
-                "desc": "The United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO), along with its predecessor, MONUC, represents one of the longest, most expensive, and structurally complex peacekeeping operations in the history of international diplomacy. Established with the overarching objective of stabilizing eastern Congo, protecting civilian populations, and assisting the Government of […]",
-                "image": "https://panafricanreview.com/wp-content/uploads/2026/11/Image.png",
-                "url": "https://panafricanreview.com/the-case-against-mandate-renewal-how-has-monusco-failed-to-stabilize-the-democratic-republic-of-the-congo/",
-                "source": "Pan African Review",
-                "date": "2026-11-03T19:11:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump says U.S. cutting $3.8 billion annual security assistance to Israel",
-                "desc": "Trump says U.S. will end $3.8B annual Israel security aid, citing autonomy and Netanyahu plan, amid backlash and political context.",
-                "image": "https://th-i.thgim.com/public/incoming/6zxlmx/article71652124.ece/alternates/LANDSCAPE_1200/AP10_29_2026_000008A.jpg",
-                "url": "https://www.thehindu.com/news/international/trump-says-us-cutting-38-billion-annual-security-assistance-to-israel/article71662755.ece",
-                "source": "The Hindu",
-                "date": "2026-11-03T19:10:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Midterm Election Live Results 2026",
-                "desc": "Follow the results of the 2026 US midterm elections and who controls the House and Senate, updated as races are called.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/4e9486d7d195472cb16b60e4ac767ff6?impolicy=wcms_watermark_news&cropH=900&cropW=1600&xPos=0&yPos=83&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-11-04/us-midterm-election-results-2026/107235570",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-11-03T19:10:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-                "desc": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aea2303-1793729283.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis",
-                "source": "Al Jazeera",
-                "date": "2026-11-03T19:09:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Get-there-itis: Expert spots crucial error before Learjet crash in Florida",
-                "desc": "A Learjet 60 crashed in Florida after encountering severe weather during its journey from Texas to the Bahamas. Experts are examining storm avoidance, icing and a climb attempt, while investigators have yet to determine the cause.",
-                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/florida-crash-030344493-16x9_0.png?VersionId=irJhEUgekD4s4nP3jKzwwWkXMdPCN_MT",
-                "url": "https://www.indiatoday.in/world/us-news/story/florida-learjet-crash-storm-icing-climb-attempt-and-get-there-itis-under-scrutiny-3031801-2026-11-04",
-                "source": "India Today",
-                "date": "2026-11-03T19:09:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Civil Society Groups Urge NASS To Pass Alcohol Control Bill, Cite Child Exposure, Rising Health Risks",
-                "desc": "Civil society organisations have called on the National Assembly to urgently pass the National Alcohol Control Bill, 2026, warning that increasing exposure of children and young people to alcohol is worsening public health and socio-economic challenges in Nigeria. The groups, under the auspices of the Nigeria Civil Society Convening on Alcohol Policy Advocacy Action, on...",
-                "image": "https://independent.ng/wp-content/uploads/2026/11/IMG-20261103-WA0089.jpg",
-                "url": "https://independent.ng/civil-society-groups-urge-nass-to-pass-alcohol-control-bill-cite-child-exposure-rising-health-risks/",
-                "source": "Independent Newspaper Nigeria",
-                "date": "2026-11-03T19:09:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Voters Care About As US Midterms Go Underway",
-                "desc": "With polling data suggesting the Democratic Party is on track to capture a majority in the House of Representatives and perhaps even in the Senate, many left-leaning voters said they were hopeful about the results.",
-                "image": "https://c.ndtvimg.com/2026-10/uondveno_us-midterms-senate-reuters_625x300_27_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-                "url": "https://www.ndtv.com/world-news/what-voters-care-about-as-us-midterms-go-underway-12278990",
-                "source": "NDTV",
-                "date": "2026-11-03T19:06:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spanish football player dies following on-field collision",
-                "desc": "Tenerife forward Jesús de Miguel was challenging for the ball near midfield on Tuesday when he was struck in the chest by FC Andorra goalkeeper Jesús Owono.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fc-tenerife-forward-jesus-de-miguel-is-carried-on-a-stretche-BCJU7HZK6VG37IFWOSQTOF3MCA.png?auth=16d0707e84c313cdf6a6d3a1ed0c3665ec7e47f1d82d2c0742a635bebff6e610&quality=70&width=600&height=315&focal=898%2C398",
-                "url": "https://www.1news.co.nz/2026/11/04/spanish-football-player-dies-following-on-field-collision/",
-                "source": "1News",
-                "date": "2026-11-03T19:02:27Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-05T23:31:38.930529Z"
+    "lastGlobalSync": "2026-11-06T03:40:56.862709Z"
 }
