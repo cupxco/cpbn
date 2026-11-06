@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Ro launches healthcare research unit, plans to offer data to drugmakers",
+                "desc": "Telehealth firm Ro announced on Friday it is launching a healthcare research lab powered ​by artificial intelligence to study patient outcomes and potentially ‌offer insights to drugmakers.",
+                "image": "https://www.reuters.com/resizer/v2/OXASP6YUYZLSVG3TVE6FXS3S2Y.jpg?auth=0c8f68250fe14c96627e13bc2ed109a581d9e863b55a4809390e1751c3fc1468&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/legal/litigation/ro-launches-healthcare-research-unit-plans-offer-data-drugmakers-2026-11-06/",
+                "source": "Reuters",
+                "date": "2026-11-06T11:27:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple's predictive text restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds",
+                "desc": "Apple has an undisclosed multilingual gray list of tens of thousands of words and phrases that its iOS keyboard will not autocomplete or swipe-type, a researcher said on Friday.",
+                "image": "https://www.reuters.com/resizer/v2/E2ZPFJK3LVKPDC2AGM5LBEZCVE.jpg?auth=01872f3670c30aa28a6641a24b80f3e05f5355751e6aa97dead8863b52d4df56&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/business/retail-consumer/apples-predictive-text-restrictions-include-dictator-trump-sleepy-joe-researcher-2026-11-06/",
+                "source": "Reuters",
+                "date": "2026-11-06T11:25:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PR firm Drury appoints Cathal Barry as chief executive",
+                "desc": "The current head of the agency’s financial communications unit will take over from Anne-Marie Curran in January",
+                "image": "https://www.irishtimes.com/resizer/v2/IS7FGWGRQ5HT7IXOLNMBXQDTOM.jpg?smart=true&auth=d3bd6d60e9f133c1b8b71d5dd518c8203293f07be1809dfdd50d8ffae9344254&width=1200&height=630",
+                "url": "https://www.irishtimes.com/business/2026/11/06/pr-firm-drury-appoints-cathal-barry-as-chief-executive/",
+                "source": "The Irish Times",
+                "date": "2026-11-06T11:25:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ING reportedly seeks buyers for data center loans",
+                "desc": "ING is reportedly seeking bids for about $500 million across 12 data center loans, including debt tied to a New Mexico Stargate site.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108355111-1787834785359-gettyimages-2292235029-dji_20260826152250_0043_d_o63c17gu.jpeg?v=1787834843&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/11/06/ing-ai-data-center-loans-debt.html",
+                "source": "CNBC",
+                "date": "2026-11-06T11:24:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HP WXP named a Strong Performer in Forrester Wave 2026",
+                "desc": "The platform provides visibility across 5.56 million active devices and processes more than 100 million IT events annually.",
+                "image": "https://www.engineering.com/wp-content/uploads/2024/11/HP_logo.png",
+                "url": "https://www.engineering.com/hp-wxp-named-a-strong-performer-in-forrester-wave-2026/",
+                "source": "Engineering.com",
+                "date": "2026-11-06T11:20:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bharti Airtel reclaims No. 2 spot among India's most valuable companies, overtakes Jio Platforms",
+                "desc": "Bharti Airtel has reclaimed its position as India's second-most valuable listed company, overtaking Jio Platforms with a market capitalisation of Rs 13.15 lakh crore. The development follows a 31% year-on-year rise in Q2 net profit and comes amid a strong rally in benchmark indices for a seventh consecutive session.",
+                "image": "https://img.etimg.com/thumb/msid-135605494,width-1200,height-900,imgsize-156177,overlay-etmarkets/articleshow.jpg",
+                "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtel-reclaims-no-2-spot-among-indias-most-valuable-companies-overtakes-jio-platforms-reliance-at-top-spot/articleshow/135605274.cms?from=mdr",
+                "source": "The Economic Times",
+                "date": "2026-11-06T11:20:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "North Korea's army of world-class hackers is secret weapon that took down Binance",
+                "desc": "North Korea rewards its top hackers, tasked with heists like the Binance crypto hack that netted a cool $6.3 billion, with perks such as a spacious apartment in the capital of Pyongyang and huge hard currency awards.",
+                "image": "https://www.reuters.com/resizer/v2/ZC4D5XDHLNJWRHCJWUUJQO7KMY.jpg?auth=03e8c0f1c03c551282be91247864bd55691508fcb7be992ea6b870c34d38e78b&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/asia-pacific/north-koreas-army-world-class-hackers-is-secret-weapon-that-took-down-binance-2026-11-06/",
+                "source": "Reuters",
+                "date": "2026-11-06T11:18:10Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "M1 and Doctor Anywhere hit by data breaches; personal information compromised",
+                "desc": "M1 said no financial or banking information was compromised, while Doctor Anywhere said clinical records were not affected.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--Q9oykNMg--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/06/m1_da_comp.jpg?itok=L-L7tPYj",
+                "url": "https://www.channelnewsasia.com/singapore/doctor-anywhere-data-breach-6530871",
+                "source": "CNA",
+                "date": "2026-11-06T11:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Novo Nordisk Owns The Oral Weight Loss Market At 7.8x Operating Income",
+                "desc": "Novo Nordisk earns a Strong Buy on strong Q3 results, Wegovy pill growth, and value upside. Click here to read an analysis of NVO stock now.",
+                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1831176133/image_1831176133.jpg?io=getty-c-w1536",
+                "url": "https://seekingalpha.com/article/4963900-novo-nordisk-owns-the-oral-weight-loss-market-at-7-8x-operating-income",
+                "source": "Seeking Alpha",
+                "date": "2026-11-06T11:16:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why Amazon and Other AI Data Center Stocks are Post-Midterm Winners",
+                "desc": "A forced slowdown on AI spending could prove beneficial for the hyperscalers and enable them to shore up their balance sheets.",
+                "image": "https://images.barrons.com/im-40551345/social",
+                "url": "https://www.barrons.com/articles/ai-data-center-stocks-midterm-winners-4f30313c",
+                "source": "Barron's",
+                "date": "2026-11-06T11:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Angel One overtakes Zerodha in NSE active investors, now the second-largest broker behind Groww",
                 "desc": "The last time there was a change in the pecking order among the top three brokers was in October 2023, when Groww overtook Zerodha to become the country's largest broker by active investors.",
                 "image": "https://images.moneycontrol.com/static-mcnews/2025/12/20251211062825_Ambarish-Kenghe-Group-CEO-Angel-One.jpeg",
@@ -542,99 +632,99 @@
                 "source": "CNBC",
                 "date": "2026-11-04T21:38:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Budget 2027: FICCI seeks removal of LTCG tax on listed securities, suggests STT hike",
-                "desc": "FICCI has urged the government to restore the LTCG tax exemption on listed securities in the 2027-28 Budget, suggesting a higher STT on delivery trades to offset the revenue loss, alongside changes to TDS, business-loss provisions and tax dispute resolution.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261104140640_LTCG-Exemption-Financial-Still-Life.png",
-                "url": "https://www.moneycontrol.com/news/business/economy/budget-2027-ficci-seeks-removal-of-ltcg-tax-on-listed-securities-suggests-stt-hike-14070122.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-11-04T14:08:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tesla (TSLA) Shares Underperform as Record Q2 Revenue Is Overshadowed by Margin Pressure",
-                "desc": "Polen Capital, an investment management company, released its “5Perspectives Large Growth Strategy” Q3 2026 investor letter. The letter can be downloaded here. In Q3 2026, the Polen 5Perspectives Large Growth Composite returned 0.0%, trailing the Russell 1000 Growth Index’s 0.9%. The quarter saw heightened market volatility, particularly among AI equities, driven by concerns over hyperscaler […]",
-                "image": "https://s.yimg.com/lo/mysterio/api/b1c17d37a1ba712b69b617cf0f367ad954b6e919586ec727ce1b98869f767baf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F2f1bf47b64f185ad29af8e89f576d5c3.jpg",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-shares-underperform-record-140501071.html",
-                "source": "Yahoo Finance",
-                "date": "2026-11-04T14:05:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Recycling centre booking system trial set up",
-                "desc": "Plymouth City Council says the aim of the scheme is to reduce traffic queues at sites.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da4a/live/43667150-d84b-11f1-b870-55415e6a9944.png",
-                "url": "https://www.bbc.co.uk/news/articles/c63r5e85wl1vo",
-                "source": "BBC",
-                "date": "2026-11-04T14:04:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Recycling centre booking system trial set up",
-                "desc": "Plymouth City Council says the aim of the scheme is to reduce traffic queues at sites.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/da4a/live/43667150-d84b-11f1-b870-55415e6a9944.png",
-                "url": "https://www.bbc.com/news/articles/c63r5e85wl1vo",
-                "source": "BBC",
-                "date": "2026-11-04T14:04:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aker ASA (AKAAF) Q3 2026 Earnings Call Transcript",
-                "desc": "Aker ASA (AKAAF) Q3 2026 Earnings Call November 4, 2026 3:00 AM ESTCompany ParticipantsCecilie Langum BeckerØyvind Eriksen - President & CEOSvein...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4962042-aker-asa-akaaf-q3-2026-earnings-call-transcript",
-                "source": "Seeking Alpha",
-                "date": "2026-11-04T14:04:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sublime strawberries and great grapefruit among Australia’s best-value fruit and veg for November",
-                "desc": "‘Tons of mangoes’ are also coming through, with more stone fruit on the way towards the end of the month",
-                "image": "https://i.guim.co.uk/img/media/b0c78dc92ff04ac070f63dbafaf2305341c3e7a8/295_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e2c072501af94ea76f10d546b37e8ff",
-                "url": "https://www.theguardian.com/food/2026/nov/04/australia-best-value-fruit-and-veg-vegetables-november",
-                "source": "The Guardian",
-                "date": "2026-11-04T14:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Olive Garden set to open in Waterloo this spring",
-                "desc": "Job postings online show the group is looking hire for positions at a location in Waterloo at The Boardwalk.",
-                "image": "https://kitchener.citynews.ca/wp-content/blogs.dir/sites/3/2025/07/7ab358a61c52b07e820f6f0e9f2135bef38538a1de5d2545b395e9e42aff3215-e1793800708949.jpg",
-                "url": "https://kitchener.citynews.ca/2026/11/04/olive-garden-set-to-open-in-waterloo-this-spring/",
-                "source": "CityNews Kitchener",
-                "date": "2026-11-04T14:01:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Essential workers struggle to afford vast majority of rental listings, report reveals",
-                "desc": "Anglicare's annual Rental Affordability Snapshot has revealed key occupations, including retail workers, social workers and cleaners, can afford fewer than 1 per cent of rental listings.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/eb91666c5df2e0577a9e7b403d8d830d?impolicy=wcms_watermark_news&cropH=4608&cropW=8192&xPos=0&yPos=219&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-11-05/essential-workers-priced-out-of-rental-market/107346978",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-11-04T14:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tokyo man steals a $292,000 watch and flees the store, then anonymously returns it 3 days later with an apology note",
-                "desc": "When an item is stolen, the thief usually doesn’t return that item, much less with an apology note. One case in London ended with the thief being unsuccessful because the victim happened to be a triat...",
-                "image": "https://s.yimg.com/lo/mysterio/api/47017e05116922bf408006ce186b6a64297a673048690da00022d72abee2c2ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_mary_sue_427%2F8feba9909a964579854f2b12026ec53c.jpg",
-                "url": "https://www.yahoo.com/news/world/articles/tokyo-man-steals-292-000-140000421.html",
-                "source": "Yahoo",
-                "date": "2026-11-04T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cramer Flags Rotation Away From Magnificent Seven as Broadcom, Micron Carry the Tape",
-                "desc": "CNBC's Jim Cramer said technology leadership is broadening beyond the Magnificent Seven, with Nvidia, Microsoft, Alphabet and Meta struggling to…",
-                "image": "https://img.biggo.com/6oFaX4QyKJ7dKqnSZqBamgMdw6juooz0EHuQBboOHa0/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2FiMWM1ZTI4LTBhZjktNGE5Zi04YzlmLWI5YzYyYzVkYThiN18xNzkzODAxMDA2X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/ab1c5e28-0af9-4a9f-8c9f-b9c62c5da8b7",
-                "source": "BigGo Finance",
-                "date": "2026-11-04T13:56:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Realsee Takes Spatial Experiences to the Next Level with Space HDR and Continued Innovation",
+                "desc": "Combining professional LiDAR hardware, intelligent software and immersive imaging, Realsee is making spatial digitization more realistic, accessible and practical across industries.",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/06/1295849.png",
+                "url": "https://www.manilatimes.net/2026/11/06/tmt-newswire/globenewswire/realsee-takes-spatial-experiences-to-the-next-level-with-space-hdr-and-continued-innovation/2463975",
+                "source": "The Manila Times",
+                "date": "2026-11-06T11:30:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Audiences don't trust creators to come clean about brand deals",
+                "desc": "Influencers have a trust gap with their audiences around brand deals, but there are ways they can make sponsored content work better.",
+                "image": "https://i.insider.com/6aecb07c308912814ed7140e?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/audiences-dont-trust-creators-disclose-brand-deals-2026-11",
+                "source": "Business Insider",
+                "date": "2026-11-06T11:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "INIU's Rugged 10000 Power Bank Is Built for the Places You Can't Plug In",
+                "desc": "This compact charger is tough enough to endure the outdoors and advanced enough to charge two devices with serious speed.",
+                "image": "https://gizmodo.com/app/uploads/2026/11/INIU-RG10000Black--1200x675.jpg",
+                "url": "https://gizmodo.com/inius-rugged-10000-power-bank-is-built-for-the-places-you-cant-plug-in-2000833533",
+                "source": "Gizmodo",
+                "date": "2026-11-06T11:25:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AutoFull Unveils the C3 Pro Series: The Gaming Chair to Start With",
+                "desc": "AutoFull, a leading esports peripherals brand, announced the launch of the C3 Pro Series, a new line of gaming chairs designed for a new generation of gamers. Guided by the idea of \"The Gaming Chair to Start With,\" the series combines distinctive gaming aesthetics, adjustable lumbar support, and...",
+                "image": "https://www.techpowerup.com/img/Tk3FzNFDGt25ZFx0.jpg",
+                "url": "https://www.techpowerup.com/354535/autofull-unveils-the-c3-pro-series-the-gaming-chair-to-start-with",
+                "source": "TechPowerUp",
+                "date": "2026-11-06T11:25:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Last chance to grab this affordable TP-Link Wi-Fi 7 router deal, with coverage up to 2,600 sq. ft.",
+                "desc": "The TP-Link Archer BE270 will only set you back $143.99 with this Amazon deal, but hurry, as there are less than 24 hours left in this offer.",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/11/TP-Link-BE5000-Archer-BE270.png",
+                "url": "https://www.pcguide.com/deals/last-chance-to-grab-this-affordable-tp-link-wi-fi-7-router-deal-with-coverage-up-to-2600-sq-ft/",
+                "source": "PC Guide",
+                "date": "2026-11-06T11:24:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ASUS Announces the XG Core Radeon RX 9060 XT LP 16GB GDDR6",
+                "desc": "ASUS today announced the XG Core Radeon RX 9060 XT LP 16GB GDDR6, a compact external graphics solution that adds discrete graphics to compatible laptops, gaming handhelds and mini PCs through USB4 connectivity. Powered by AMD RDNA 4 architecture, it pairs 16 GB of GDDR6 memory with support for...",
+                "image": "https://www.techpowerup.com/img/BNU3vTb8N6QoD4oH.jpg",
+                "url": "https://www.techpowerup.com/354534/asus-announces-the-xg-core-radeon-rx-9060-xt-lp-16gb-gddr6",
+                "source": "TechPowerUp",
+                "date": "2026-11-06T11:20:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Early Deals Now Live on Gaming, Tech, and More",
+                "desc": "Best Buy's early Black Friday sale is now live, and includes deals on TVs, smartwatches, gaming PCs, video game consoles, and more. From November 6-19, Best Buy will also be featuring plenty of limited time \"Doorbuster\" deals, several of which are now live across this weekend.",
+                "image": "https://assets-prd.ignimgs.com/2026/11/06/best-buy-black-friday-ign-2026-1793963879110.png?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/best-buy-early-black-friday-sale-is-now-live-including-deals-on-gaming-tech-and-more",
+                "source": "IGN",
+                "date": "2026-11-06T11:19:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New PS Plus Perks Revealed, Includes Discounts and Free Trials",
+                "desc": "Available in the UK, France, and Germany - Sony has revealed a new slate of perks for having an active PS Plus membership at any tier. In addition to what it...",
+                "image": "https://images.pushsquare.com/43e45290f224c/1280x720.jpg",
+                "url": "https://www.pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials",
+                "source": "Push Square",
+                "date": "2026-11-06T11:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Acer's Swift 16 AI laptop drops below $1,000 before Black Friday - with Intel's latest CPU and a gorgeous 3K OLED touchscreen",
+                "desc": "With a Core Ultra X7 358H processor, OLED touchscreen, and long battery life, Acer's Swift 16 AI is a great buy.",
+                "image": "https://cdn.mos.cms.futurecdn.net/coiLM95hQ8nMj4mD5xTUXn-1920-80.jpg",
+                "url": "https://www.windowscentral.com/hardware/acer/swift-16-ai-drops-3k-oled-touch",
+                "source": "Windows Central",
+                "date": "2026-11-06T11:13:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Atlas Conquest, a free-to-play card battler with a hex-grid board, announced for Steam",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Atlas-Conquest-a-free-to-play-card-battler-with-a-hex-grid-board-annou",
+                "source": "Games Press",
+                "date": "2026-11-06T11:13:09Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Huawei Launches ¥8,580 Fully Wireless FreeBuds SE 5 MAX With 52dB ANC and LDAC Support",
                 "desc": "Huawei Japan will roll out its HUAWEI FreeBuds SE 5 MAX fully wireless earbuds at ¥8,580 (approximately $54), with the white model launching November…",
@@ -1174,99 +1264,99 @@
                 "source": "Tech Xplore",
                 "date": "2026-11-04T21:20:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Exopolis, InnTale's new world, premieres on YouTube on 5 November",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-                "url": "https://www.gamespress.com/en-GB/Exopolis-InnTales-new-world-premieres-on-YouTube-on-5-November",
-                "source": "Games Press",
-                "date": "2026-11-04T14:06:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pokémon Pokopia Expansion Pass-Part 2: Dazzling Decorations Available 9 December",
-                "desc": "The Pokémon Pokopia Expansion Pass—Part 2: Dazzling Decorations paid DLC arrives 9 December, 2026.",
-                "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-pokopia/2026/11/04/pokemon-pokopia-169-en.png",
-                "url": "https://www.pokemon.com/uk/news/pokemon-pokopia-expansion-pass-part-2-dazzling-decorations-available-9-december",
-                "source": "Pokemon.com",
-                "date": "2026-11-04T14:06:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "XBOX Announces Its Wildest Console... In The Belly Of A Gator",
-                "desc": "The work is by McCann London",
-                "image": "https://img2.storyblok.com/560x300/f/102932/1240x697/ee15192d77/xbox-series-x-bite.jpg",
-                "url": "https://creative.salon/articles/work/xbox-series-x-bite-mccann",
-                "source": "Creative Salon",
-                "date": "2026-11-04T14:04:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Inch Foldable Tablet Has a Laptop Problem",
-                "desc": "Samsung's foldable tablet rumor points to a 17-inch display in 2026, but existing foldable laptops expose the challenges of software, weight and price.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/11/Samsungs-17Inch-Foldable-Tablet-Has-a-Laptop-Problem.jpg",
-                "url": "https://memeburn.com/samsungs-17-inch-foldable-tablet-has-a-laptop-problem/",
-                "source": "Memeburn",
-                "date": "2026-11-04T14:03:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lords of the Fallen II Showcases Combat Overhaul in Latest Episode of ‘Lifting the Veil’",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/12/111951-0a13c54f/LOTF2_OfficialKeyArt_16x9.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=f32d2ad912092dd59eec7f74b67c32a7f7325d70baa043b9ae118c2e0de31140",
-                "url": "https://www.gamespress.com/en-US/Lords-of-the-Fallen-II-Showcases-Combat-Overhaul-in-Latest-Episode-of-",
-                "source": "Games Press",
-                "date": "2026-11-04T14:01:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "’Em Up Gunboat God Blasts onto Nintendo Switch & Mobile on November 17th\"",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/04/131020-225a8bd9/1920_x_1080.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=b9c87da58ec25f030071bfa4831ef46f56114d2af991d9739ab05a6094b539ff",
-                "url": "https://www.gamespress.com/en-US/Vibrant-Shoot-Em-Up-Gunboat-God-Blasts-onto-Nintendo-Switch-Mobile-on-",
-                "source": "Games Press",
-                "date": "2026-11-04T14:01:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Color Kinetics Introduces ActiveBeam Adjustable Beam Technology",
-                "desc": "Color Kinetics introduces ActiveBeam, a technology that allows lighting professionals to adjust beam angles from 12 to 60 degrees without moving parts.",
-                "image": "https://ravepubs.com/wp-content/uploads/2026/11/Color-Kinetics-ActiveBeam-800x400.webp",
-                "url": "https://ravepubs.com/color-kinetics-activebeam-adjustable-beam-technology/",
-                "source": "rAVe [PUBS]",
-                "date": "2026-11-04T14:00:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6 Preload Date and File Size for PS5 and Xbox",
-                "desc": "GTA 6 preload opens November 10 on PS5 and Xbox Series X|S and needs up to 212GB. Start times, storage checks and what to do if it stalls.",
-                "image": "https://storage.ghost.io/c/c1/a6/c1a6d111-d951-41ad-a392-c1e841210b93/content/images/size/w1200/2026/11/GTA-6-1.png",
-                "url": "https://www.techloy.com/gta-6-preload-date-ps5-xbox/",
-                "source": "Techloy",
-                "date": "2026-11-04T14:00:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Audemars Piguet Expands Its Supersonnerie Collection with Three New RO and Code 11.59 Models",
-                "desc": "Two 42mm Royal Oak models and a smoked-sapphire Code 11.59 bring different aesthetic expressions to AP’s patented Supersonnerie technology.",
-                "image": "https://monochrome-watches.com/app/uploads/2026/11/2026-Audemars-Piguet-Code-11-59-and-Royal-Oak-Supersonnerie-models-10.jpg",
-                "url": "https://monochrome-watches.com/audemars-piguet-expands-its-supersonnerie-collection-with-three-new-royal-oak-and-code-11-59-models/",
-                "source": "Monochrome Watches",
-                "date": "2026-11-04T14:00:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google's AI Overviews Botched My Own Work. Here Are 8 Ways I Get Around Them",
-                "desc": "After Google's Gemini-powered AI incorrectly summarized an article I'd written, I went in search of ways to limit AI Overviews from appearing in my search results.",
-                "image": "https://i.pcmag.com/imagery/articles/00RUsYMMjOrQuDH65jpZumz-16.fit_lim.size_1200x630.v1793733411.jpg",
-                "url": "https://www.pcmag.com/explainers/googles-ai-overviews-botched-my-own-work-here-are-8-ways-i-get-around-them",
-                "source": "PCMag",
-                "date": "2026-11-04T14:00:12Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Dangote Wins Initial Legal Battle Over $16 Billion Kenya Refinery",
+                "desc": "Kenya's Public-Private Partnership Committee dismissed a challenge to the legal status of Dangote's planned Lamu refinery, ruling that the",
+                "image": "https://www.ecofinagency.com/media/k2/items/cache/345c1b1ee822abb32421ceb5aba5d6c8_S.jpg",
+                "url": "https://www.ecofinagency.com/news-industry/0611-60572-dangote-wins-initial-legal-battle-over-16-billion-kenya-refinery",
+                "source": "Ecofin Agency",
+                "date": "2026-11-06T11:32:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Horror as 'woman gang raped after police lock husband in separate hotel room'",
+                "desc": "The men allegedly approached them under the pretext of carrying out an investigation before taking them to a hotel in the Faza Gat area.",
+                "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7221426.jpg",
+                "url": "https://www.express.co.uk/news/world/2263866/horror-woman-gang-raped-police-pakistan",
+                "source": "Daily Express",
+                "date": "2026-11-06T11:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fare will increase by 10%, and benefits may be revised: what is being prepared for passengers in Latvia",
+                "desc": "In Latvia, several options for financing public transport for 2027–2030 are being considered, as previously reported by",
+                "image": "https://news.inbox.eu/w/img/15/0c/150c6eaaa591ffb76d.webp",
+                "url": "https://news.inbox.eu/150ynn2-fare-will-increase-by-10-and-benefits-may-be-revised-what-is-being-prepared-for-passengers-in-latvia?language=en",
+                "source": "Inbox.eu",
+                "date": "2026-11-06T11:31:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FIS 2026 highlights: AI investment moves from experimentation to business value as Romania looks to build on its tech base",
+                "desc": "Foreign Investors Summit - Artificial intelligence is rapidly moving beyond experimentation, forcing companies to think more carefully about business value, costs, trust and the",
+                "image": "https://business-review.eu/wp-content/uploads/2026/11/Screenshot-2026-11-06-132255.jpg",
+                "url": "https://business-review.eu/business-review-events/fis/fis-2026-highlights-ai-investment-moves-from-experimentation-to-business-value-as-romania-looks-to-build-on-its-tech-base-302831",
+                "source": "Business Review",
+                "date": "2026-11-06T11:31:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘You'll know soon enough’ - Trump hints at fresh war with Iran",
+                "desc": "United States President Donald Trump said on Thursday that the US will soon take a decision on whether to go back to war with Iran. The war, which the…",
+                "image": "https://dailypost.ng/cms-api/media/file/Trump%20(6).jpg",
+                "url": "https://dailypost.ng/2026/11/06/trump-hints-on-resumption-of-war-with-iran/",
+                "source": "Daily Post Nigeria",
+                "date": "2026-11-06T11:30:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Triple amputee Craig Wood breaks down how he set two world records during 7,500-mile solo Pacific voyage",
+                "desc": "British Army veteran and triple amputee, Craig Wood, shared that he ‘found his freedom on the ocean’",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltb5d92757ac1ee045/blt1205466a0d170fe3/6aedb963b3dbd235641bea5b/Craig-Wood-breaks-down-how-he-set-two-world-records-during-7_500-mile-solo-Pacific-voyage.jpg?crop=1200,675,x0,y0",
+                "url": "https://www.uniladtech.com/news/craig-wood-set-two-world-records-solo-pacific-ocean-voyage-034758-20261105",
+                "source": "UNILAD Tech",
+                "date": "2026-11-06T11:29:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tundu Lissu escapes treason conviction, found guilty of incitement",
+                "desc": "The three-judge panel in Dar es Salaam ruled that prosecutors failed to prove a key element of the treason charge against the Chadema chairman.",
+                "image": "https://cdn.radioafrica.digital/image/2026/11/2e0e43d3-c563-4ce2-bd02-75c49202a3aa.webp?1793969931224",
+                "url": "https://www.the-star.co.ke/news/africa/2026-11-06-tundu-lissu-escapes-treason-conviction",
+                "source": "The Star, Kenya",
+                "date": "2026-11-06T11:28:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oman Opens Website To Allow Jobseekers To Apply for Jobs in Four Steps",
+                "desc": "Oman's Ministry of Labour launches an online portal for private-sector jobs and training. Thiqa login, no documents and four steps to apply in three minutes.",
+                "image": "https://cdn.yen.com.gh/images/1200x675/4039e905fad39f77.jpeg?v=1",
+                "url": "https://yen.com.gh/world/315221-oman-opens-website-jobseekers-apply-jobs-steps/",
+                "source": "Yen News",
+                "date": "2026-11-06T11:27:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Africa Expands Digital Travel Authorization for Indian Tourists",
+                "desc": "South Africa expands its ETA system, simplifying online travel authorization for Indian families, groups and eligible international visitors.",
+                "image": "https://pimwp.s3-accelerate.amazonaws.com/2026/11/South-Africa-Makes-Travel-Easier-for-Indian-Travellers-with-Expanded-Electronic-Travel-Authorization.webp",
+                "url": "https://www.passionateinmarketing.com/south-africa-makes-travel-easier-for-indian-travellers-with-expanded-electronic-travel-authorization/",
+                "source": "Passionate In Marketing",
+                "date": "2026-11-06T11:27:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Switzerland removes Alisher Usmanov from sanctions list",
+                "desc": "Six weeks after the EU, Switzerland has also lifted its sanctions on Alisher Usmanov. A ruling by Germany's Federal Court of Justice, now made public, gives his lawsuit against the Council of the EU fresh momentum.",
+                "image": "https://www.finews.ch/images/news/2026/11/usmanow.jpg",
+                "url": "https://www.finews.com/news/english-news/74349-alisher-usmanov-switzerland-lifts-sanctions-federal-court-of-justice-eu-council-lawsuit",
+                "source": "finews.com",
+                "date": "2026-11-06T11:26:15Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "With control of Congress, here’s how Democrats could stop Trump’s war in Iran",
                 "desc": "The Democrats’ sweeping victory in the US midterm elections puts them in a stronger position to interfere with President Donald Trump’s agenda. This includes hi",
@@ -1806,98 +1896,8 @@
                 "source": "The Kyiv Independent",
                 "date": "2026-11-04T21:21:54Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Latvia Launches Interceptor Against Drone Incursion",
-                "desc": "Latvian forces launched a Blaze interceptor to track an unidentified drone that entered the country’s airspace.",
-                "image": "https://thedefensepost.com/wp-content/uploads/2022/03/NRM54LV5Z5D6DGKWAPOWBDVV6A.jpg",
-                "url": "https://thedefensepost.com/2026/11/04/latvia-interceptor-drone-incursion/",
-                "source": "The Defense Post",
-                "date": "2026-11-04T14:08:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Norway, Finland, Poland Expand Civilian Military Training Amid Russian Threat",
-                "desc": "From armed reservists in Oslo to shooting lessons in Polish schools, Russia’s neighbors are preparing civilians for a potential conflict through expanded military training and civil defense programs.",
-                "image": "https://static.kyivpost.com/storage/2026/10/08/61578202255d66821e75090acc2cd82a.jpg?w=1200&q=90&f=jpg",
-                "url": "https://www.kyivpost.com/post/89134",
-                "source": "Kyiv Post",
-                "date": "2026-11-04T14:03:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kemi Badenoch says Africans should apologise for slavery. She should read a history book",
-                "desc": "Enslavement’s devastating impact on Caribbean and African nations means that cross-diasporic solidarity has become central in addressing its legacy",
-                "image": "https://i.guim.co.uk/img/media/6a7af3630dfcd889a7966c80580751b3099997d3/0_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c9f11c7fe65ebdb61321b358094346a",
-                "url": "https://www.theguardian.com/news/2026/nov/04/kemi-badenoch-says-africans-should-apologise-for-slavery-she-should-read-a-history-book",
-                "source": "The Guardian",
-                "date": "2026-11-04T14:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Javits Frimpong: Mother flies from Ghana to the US to seek justice",
-                "desc": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbb9/live/c954f440-d84f-11f1-b710-b15e87d8ef65.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego",
-                "source": "BBC",
-                "date": "2026-11-04T14:01:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mother flies from Ghana to the US to seek justice",
-                "desc": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/dbb9/live/c954f440-d84f-11f1-b710-b15e87d8ef65.jpg",
-                "url": "https://www.bbc.com/news/articles/cq62yjnmg4ego",
-                "source": "BBC",
-                "date": "2026-11-04T14:01:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US Lists Requirements Applicants Must Meet to Get a 10",
-                "desc": "The United States has outlined the conditions applicants must meet to qualify for a 10-year American passport. Here are the eligibility requirements.",
-                "image": "https://cdn.tuko.co.ke/images/1200x675/0881018d4fbf6eb6.jpeg?v=1",
-                "url": "https://www.tuko.co.ke/world/us/645636-us-lists-requirements-applicants-meet-a-10-year-american-passport/",
-                "source": "Tuko News",
-                "date": "2026-11-04T14:01:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Slurring Trump makes stunning admission on Fox News after devastating night of midterms losses: ‘They finally got it’",
-                "desc": "President Donald Trump called into Fox News as Democrats seized back control of House and Senate on historic night and struck an unusually reflective tone, even complimenting his opponents",
-                "image": "https://static.independent.co.uk/2026/11/04/4/07/GettyImages-2303038743.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-midterm-elections-fox-news-interview-b3078776.html",
-                "source": "The Independent",
-                "date": "2026-11-04T14:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Turkmenistan, UN-Habitat discuss cooperation program for 2027-2031",
-                "desc": "BAKU, Azerbaijan, November 4. Turkmenistan and the United Nations Human Settlements Programme (UN-Habitat) discussed preparations for a country cooperation program for 2027–2031 on November 4…",
-                "image": "https://www.trend.az/media/2026/11/04/tm_un-habitat.jpg",
-                "url": "https://www.trend.az/casia/turkmenistan/4242969.html",
-                "source": "Trend News Agency",
-                "date": "2026-11-04T14:00:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "People Started to Take Cold Showers in an Experiment, And a Strange Thing Happened",
-                "desc": "If you're not used to cold showers, they're not exactly for the faint of heart.",
-                "image": "https://www.sciencealert.com/images/2026/11/cold-shower.jpg",
-                "url": "https://www.sciencealert.com/people-started-to-take-cold-showers-in-an-experiment-and-a-strange-thing-happened",
-                "source": "ScienceAlert",
-                "date": "2026-11-04T14:00:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russians in the EU: the closer to the front line, the tighter the rules",
-                "desc": "The closer an EU country is to Russia, and the more bitter its history with Moscow, the harder it has become for Russians to enter, live or buy property there. Lithuania, Poland and Bulgaria show how far apart the rules have drifted.",
-                "image": "https://voxeurop.eu/wp-content/uploads/2026/10/beelzebub_putin__oleksy_kustovsky.jpg",
-                "url": "https://voxeurop.eu/en/russians-citizens-europe-rules/",
-                "source": "Voxeurop",
-                "date": "2026-11-04T14:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-06T18:30:39.739133Z"
+    "lastGlobalSync": "2026-11-06T23:32:06.276561Z"
 }
