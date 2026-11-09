@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "DARPA wants AI to find hidden flaws in digital markets that adversaries could exploit to wreak economic havoc",
+                "desc": "DARPA is studying how the rules governing online markets could be manipulated to cause disruption, rather than just how their systems could be hacked.",
+                "image": "https://s.yimg.com/lo/mysterio/api/e62802d885c9ebbec8398d4981cd9fecb72186aa893a3faa556546fe552afccb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F7923770eb374643b2a969286408879d1.jpg",
+                "url": "https://www.yahoo.com/news/us/articles/darpa-wants-ai-hidden-flaws-140001995.html",
+                "source": "Yahoo",
+                "date": "2026-11-08T14:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poppi founders launch Jetty to take on Gatorade",
+                "desc": "Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108527169-1793902848646-FamilyShot_260916_Jetty_Launch_Photoshoot31432_BYH_1_1.png?v=1793902929&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+                "source": "CNBC",
+                "date": "2026-11-08T14:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poppi founder launches hydration startup Jetty",
+                "desc": "Poppi founder Allison Ellsworth's new hydration beverage company Jetty is betting on shoppers wanting flavor and functional drinks over plain, regular water.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108533499-1793983219585-251105_HYDRATION_v4.png?v=1794007036&w=1920&h=1080",
+                "url": "https://www.cnbc.com/make-it/2026/11/08/poppi-founder-jetty-hydration.html",
+                "source": "CNBC",
+                "date": "2026-11-08T14:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pentagon Research Arms Thinks Hackers Could Break Electronic Markets",
+                "desc": "DARPA is studying how the rules governing online markets could be manipulated to cause disruption, rather than just how their systems could be hacked.",
+                "image": "https://i.insider.com/6aee1d2feaa5e46dca227b58?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+                "source": "Business Insider",
+                "date": "2026-11-08T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anthropic secures $3.4 billion generator deal for AI data centers: FT",
+                "desc": "The deal included the engineering and construction capabilities needed to install generators, the report said, citing a person familiar with the matter.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108463869-17930177542026-10-22t132021z_138782045_rc2b6oa41zev_rtrmadp_0_energy-europe-batteries.jpeg?v=1793017796&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html",
+                "source": "CNBC",
+                "date": "2026-11-08T13:50:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "House Republicans demand Jensen Huang answer China espionage ties",
+                "desc": "House Republicans demand answers from Nvidia CEO Jensen Huang about his reported relationship with a Chinese intelligence asset amid national security concerns.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/0/0/nvidia-jensen-huang.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/politics/house-republicans-demand-answers-from-nvidia-ceo-over-reported-chinese-spy-ties",
+                "source": "Fox Business",
+                "date": "2026-11-08T13:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Binance names new CFO days after $6.3 billion cryptocurrency hack",
+                "desc": "Binance names Justin Yek as its new CFO following a $6.3 billion cryptocurrency hack, saying the leadership transition was planned months before the cyberattack.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/changpeng-zhao-binance-6-billion-hack.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/fox-news-tech/binance-names-new-cfo-days-cryptocurrency-hack",
+                "source": "Fox Business",
+                "date": "2026-11-08T13:42:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Bitcoin Hovers Near $76,000 as ETF Outflows Hit $1.28 Billion and Shorts Pile Up",
+                "desc": "Bitcoin traded just below $76,000 on Sunday, Nov. 8, as analysts pointed to a possible short squeeze building in derivatives markets. Michaël van de…",
+                "image": "https://img.biggo.com/RhZ6zvMm-bob9fjP86CFBPLsxinUlbHJCPNN-c1P8kw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzMzMTQ3NDcxLWIyYmUtNGMxOS1iZjIzLTYxZjJlODJiNGIyY18xNzk0MTQ1MTU0X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/33147471-b2be-4c19-bf23-61f2e82b4b2c",
+                "source": "BigGo Finance",
+                "date": "2026-11-08T13:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China US$300 dating app ‘marriage-or-refund’ guarantee sparks intense online buzz",
+                "desc": "BEIJING: In China's competitive dating market, a new matchmaking start-up is staking its revenue on a bold wager: find true love, or get every penny back.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/11/08/4202430.jpg",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/08/china-us300-dating-app-marriage-or-refund-guarantee-sparks-intense-online-buzz",
+                "source": "The Star",
+                "date": "2026-11-08T13:31:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ottawa's proposed ban on $150 bank transfer fees could save Canadians moving RRSPs, TFSAs and RESPs",
+                "desc": "Draft rules would stop banks from charging $50 to $150 per account when you transfer an RRSP, TFSA or RESP to a competitor",
+                "image": "https://s.yimg.com/lo/mysterio/api/2bd06a5b457eb40f0d6c376430e81b4cdf5fdb50c1828870c436a0600d8401ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoney_ca_594%2F608134331f8b5a0457b60ff6371feb44.jpg",
+                "url": "https://ca.finance.yahoo.com/news/ottawas-proposed-ban-150-bank-133000413.html",
+                "source": "Yahoo! Finance Canada",
+                "date": "2026-11-08T13:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "GAA star welcomes first child with adorable Irish name",
                 "desc": "Armagh's Joe McElroy and his wife, Aoife McKenna, have welcomed their first child, and mum and dad are on cloud nine.",
                 "image": "https://evoke.ie/wp-content/uploads/2026/11/baby-3.jpg",
@@ -542,99 +632,99 @@
                 "source": "VnExpress International",
                 "date": "2026-11-07T08:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Hyundai Bayon vs Volkswagen Taigun: Which SUV Suits Your Needs More?",
-                "desc": "Can the feature loaded Hyundai Bayon steal the thunder from every enthusiast’s favourite, Volkswagen Taigun? Let’s find out!",
-                "image": "https://stimg2.cardekho.com/images/carNewsimages/userimages/36933/1794025871552/GeneralNew.jpg",
-                "url": "https://www.cardekho.com/news/general/hyundai-bayon-vs-volkswagen-taigun-which-suv-suits-your-needs-more-36934.htm",
-                "source": "CarDekho",
-                "date": "2026-11-07T04:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chery’s boxy Jetour R700 SUV to share platform with 892-HP G700 to debut November 27",
-                "desc": "The boxy Jetour R700 previews Chery’s next large off-road SUV, with an octagonal rear storage box and a reported platform link to the G700.",
-                "image": "https://carnewschina.com/wp-content/uploads/2026/11/1200x0_autohomecar__chxpwgrt916aepk_aakhcxnnj5o043-large.jpeg",
-                "url": "https://carnewschina.com/2026/11/07/cherys-boxy-jetour-r700-suv-to-share-platform-with-892-hp-g700-to-debut-november-27/",
-                "source": "CarNewsChina.com",
-                "date": "2026-11-07T04:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Muhurat Trading 2026 Diwali stocks to buy for upto 109% upside: BSE, Adani Power, HFCL, TechM - SAMCO's 10 shares",
-                "desc": "Samco Wealth recommends 10 stocks across sectors for Samvat 2083, emphasizing diversification after a volatile year. Picks include Azad Engineering, Adani Power, HFCL, Tech Mahindra, BSE, L&T Technology Services, Tips Music, TVS Motor, Sansera Engineering and MCX.",
-                "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Diwali_Muhurat_Trading__10_Stocks_Rising_179402542_1794025438459_IgOr_1794025438616_wDkG_a1217e26-3dec-4b94-b05e-8c03879f7874_wWC0.png",
-                "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-diwali-stocks-to-buy-for-upto-109-upside-bse-adani-power-hfcl-techm-samcos-10-shares-list-11794024034171.html",
-                "source": "Livemint",
-                "date": "2026-11-07T04:29:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "D-Street just 5% away from highs with a 10% bounce from lows",
-                "desc": "The rupee has shown a significant recovery, closing at 93.90 this week, its best level since April. Recent drops in oil prices have alleviated inflation concerns and supported the local currency. Simultaneously, foreign portfolio investors have made substantial net purchases in Indian equities, contributing to market stability. Indian equity indices have also rallied over 10% from recent lows, showing strong earnings.",
-                "image": "https://img.etimg.com/thumb/msid-135626433,width-1200,height-900,imgsize-206644,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-st-just-5-away-from-highs-with-a-10-bounce-from-lows/articleshow/135626278.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-11-07T04:27:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DBV Technologies Stock: Down 55% Since April, Yet My $42 Fair Value Still Holds (DBVT)",
-                "desc": "DBV Technologies offers speculative upside despite recent declines. Read here to know why DBVT stock is rated Speculative Strong Buy.",
-                "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1597473987/image_1597473987.jpg?io=getty-c-w1536",
-                "url": "https://seekingalpha.com/article/4964484-dbv-technologies-down-55-percent-since-april-yet-my-42-fair-value-still-holds",
-                "source": "Seeking Alpha",
-                "date": "2026-11-07T04:24:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chartist Talk: Can Nifty’s rally continue? Sudeep Shah advises partial profit booking, picks 3 Muhurat stocks",
-                "desc": "Technically, 24,750–24,800 is an important support zone. As long as Nifty sustains above 24,750, the bullish outlook remains intact, said Sudeep Shah of SBI Securities.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251025213936_Sudeep_ShahSBI.jpg",
-                "url": "https://www.moneycontrol.com/news/business/markets/chartist-talk-can-nifty-s-rally-continue-sudeep-shah-advises-partial-profit-booking-picks-3-muhurat-stocks-14074019.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-11-07T04:18:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mega Millions winning numbers for Nov. 6: $505M jackpot",
-                "desc": "The Mega Millions jackpot is $505 million for Friday’s drawing, with a $213.3 million cash option.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/05/USAT/92632696007-20260915-t-223641-z-720648848-mt-1-usatoday-29827880-rtrmadp-3-megamillionsslipsontuesdayapril-282026-1.JPG?crop=4031,2268,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/lottery/2026/11/06/mega-millions-winning-numbers-nov-6-2026/92631831007/",
-                "source": "USA Today",
-                "date": "2026-11-07T04:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
-                "desc": "Police in Oakland, California, are investigating the theft of six pallets of NVIDIA hardware worth $11.4 million that were bound for Fort Worth, Texas, the Bay Area News Group reports. A truck carrying a food transportation company's logo picked up the cargo in Oakland on August 29 as planned,...",
-                "image": "https://www.techpowerup.com/img/FFc4bMpQDE3aFrks.jpg",
-                "url": "https://www.techpowerup.com/354551/six-pallets-of-nvidia-hardware-worth-usd-11-4-million-stolen-on-the-way-to-texas",
-                "source": "TechPowerUp",
-                "date": "2026-11-07T04:13:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Integrated clinical, biochemical, cardiac imaging, and transcriptional changes under MEK inhibition in complicated Noonan syndrome",
-                "desc": "Hypertrophic cardiomyopathy (HCM) is a major contributor to morbidity and mortality in Noonan syndrome (NS), with a high risk of heart failure and arrhythmias. Lymphatic dysplasia represents another clinically significant manifestation often associated with significant morbidity. Emerging evidence suggests that MEK inhibitors may target these severe complications. Seven pediatric patients with molecularly confirmed NS and severe, treatment-refractory HCM and/or lymphatic effusions received oral trametinib treatment under compassionate use. Clinical, biochemical, and echocardiographic parameters were longitudinally assessed to evaluate efficacy and safety. Transcriptomic analysis of RAS/MAPK pathway-related gene expression was performed in a subset of patients at baseline, one week after treatment initiation, and during prolonged therapy. Trametinib treatment was maintained at doses ranging from 0.0075 to 0.033 mg/kg/day for 3–45 months. All patients showed a rapid decrease in NT-proBNP levels, followed by significant reductions in interventricular septal thickness and, when present, left ventricular outflow tract obstruction. In patients with lymphatic dysplasia, trametinib was associated with sustained reduction of pleural effusions and improved respiratory status. Treatment discontinuation led to progressive clinical and biochemical worsening, with improvement after reintroduction, when performed. Transcriptomic analysis demonstrated early modulation of RAS/MAPK pathway signatures in most patients. Adverse events were mild (grade 1), predominantly dermatological, and manageable with dose adjustments. These findings provide additional clinical and molecular evidence supporting trametinib treatment as a targeted therapeutic strategy for cardiac and lymphatic manifestations in NS. Prospective studies are needed to define long-term safety, optimal dosing, and treatment duration of MEK inhibition in NS and other RASopathies.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41431-026-02260-1/MediaObjects/41431_2026_2260_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41431-026-02260-1?error=cookies_not_supported&code=4acdf9d6-fbfc-45b1-a4e2-9477da0392ea",
-                "source": "Nature",
-                "date": "2026-11-07T04:11:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Alliance Française Lagos positions membership as gateway to global opportunities",
-                "desc": "In an era where professional advancement hinges heavily on strategic relationships, Alliance Française Lagos has called on Nigerian professionals, corporate",
-                "image": "https://cdn.businessday.ng/wp-content/uploads/2026/11/1002672711.jpg",
-                "url": "https://businessday.ng/bd-weekender/article/alliance-francaise-lagos-positions-membership-as-gateway-to-global-opportunities/",
-                "source": "Business News Nigeria",
-                "date": "2026-11-07T04:04:04Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Please stop plugging these devices into your monitor’s USB ports. It's not meant for that",
+                "desc": "Your monitor’s USB ports aren’t broken, you’re just using them wrong.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/07/close-up-of-a-black-usb-flash-drive-connected-to-monitor.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/avoid-plugging-these-devices-into-monitor-usb-ports/",
+                "source": "MakeUseOf",
+                "date": "2026-11-08T14:00:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Your Galaxy phone has 6 secret “Labs” menus with features Samsung doesn’t show you",
+                "desc": "Developer options aren't limited to system settings, at least on Samsung Galaxy phones.",
+                "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/pxl_20261106_115945107.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.howtogeek.com/your-galaxy-phone-has-secret-labs-menus-with-features-samsung-doesnt-show-you/",
+                "source": "How-To Geek",
+                "date": "2026-11-08T14:00:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "\"I have a fundamental problem with a bike that costs five figures\" - how Marin is challenging mountain biking's biggest brands",
+                "desc": "How swapping complex suspension layouts for classic lines, and focusing on handling and affordability helped Marin Bikes turn its fortunes around",
+                "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/be3a23e0-419a-4341-aacb-bf87c2b9f009/thumbnails/13b7c4f8-85d6-46eb-a93f-9c068bb5faa4.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+                "url": "https://www.bikeradar.com/features/long-reads/how-marin-is-challenging-mountain-bikings-big-brands",
+                "source": "BikeRadar",
+                "date": "2026-11-08T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Android tablets are back, but are they for you?",
+                "desc": "Android tablets have always been a bit of a touchy subject, but it’s abundantly clear that the form factor is...",
+                "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-tablets-amazon-lenovo-redmagic.jpg?quality=82&strip=all&resize=1200,628",
+                "url": "https://9to5google.com/2026/11/08/android-tablets-are-back-poll/",
+                "source": "9to5Google",
+                "date": "2026-11-08T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The RAM shortage is forcing Microsoft to optimize Windows 11",
+                "desc": "Windows 11 is becoming leaner, Discord is using less memory, and developers are talking about optimization again. The world is healing.",
+                "image": "https://s.yimg.com/lo/mysterio/api/c59ae5c2c7ce646bb1db9f67192d9ca4ff673cad0f49ecef16c6c689f81aea12/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwindows_central_293%2F29c92af3e084228264cd35b4607e27c6.png",
+                "url": "https://tech.yahoo.com/computing/articles/ram-shortage-forcing-microsoft-optimize-140000354.html",
+                "source": "Yahoo Tech",
+                "date": "2026-11-08T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Five Reasons Why 2026 Is The Best Time Ever To Be An Xbox Series X|S Owner",
+                "desc": "The two consoles are celebrating their sixth anniversary on November 10th - We've got a lot of anniversaries taking place over the next few weeks, including ...",
+                "image": "https://images.purexbox.com/7d7680457d236/1280x720.jpg",
+                "url": "https://www.purexbox.com/features/five-reasons-why-2026-is-the-best-time-ever-to-be-an-xbox-series-xs-owner",
+                "source": "Pure Xbox",
+                "date": "2026-11-08T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Windows 11 is using less RAM, Discord is ditching Electron, and optimization matters again. The world is healing.",
+                "desc": "As memory prices surge and PC sales struggle, software companies are suddenly rediscovering the value of optimization.",
+                "image": "https://cdn.mos.cms.futurecdn.net/iTJrAgprT4Mv8yNyHPjrsK-2448-80.jpg",
+                "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-is-using-less-ram-discord-is-ditching-electron-and-optimization-matters-again-the-world-is-healing",
+                "source": "Windows Central",
+                "date": "2026-11-08T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xiaomi works its magic: Spectacular battery life in our review of its new flagship tablet",
+                "desc": "Xiaomi Pad 9 Pro Max review: A 13.3-inch 3.4K display meets raw power. The new Xring O3 3nm processor, 16 GB of RAM and HyperOS 4 deliver maximum performance. A clever feature: USB-C DP-In turns Xiaomi's lightweight 645g premium tablet into an external monitor and graphics tablet. A 12,000 mAh battery and 120W fast charging round out this powerhouse. High-end tech.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Xiaomi/Pad_9_Pro_Max/IMG_20261022_095809.jpg",
+                "url": "https://www.notebookcheck.net/Xiaomi-works-its-magic-Spectacular-battery-life-in-our-review-of-its-new-flagship-tablet.1438202.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-11-08T13:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Can A Hacker Really Do Anything With Your IP Address?",
+                "desc": "Your IP address can give away your rough location and internet provider. Here’s what a hacker can do with that and whether IPv6 puts your network at risk.",
+                "image": "https://www.engadget.com/img/gallery/can-a-hacker-really-do-anything-with-your-ip-address/l-intro-1793723874.jpg",
+                "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+                "source": "Engadget",
+                "date": "2026-11-08T13:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rockstar Games is preparing 55 difficult challenges for players in Grand Theft Auto VI.",
+                "desc": "An Xbox database leak has revealed the structure of 55 achievements in Grand Theft Auto VI, with a final reward of 1000 Gamerscore.",
+                "image": "https://gamegpu.com/images/1_2026/NEWS/Q4/nov/8/1794144795124.webp#joomlaImage://local-images/1_2026/NEWS/Q4/nov/8/1794144795124.webp?width=2752&height=1536",
+                "url": "https://en.gamegpu.com/news/igry/rockstar-games-gotovit-55-slozhnykh-ispytanij-dlya-igrokov-v-grand-theft-auto-vi",
+                "source": "GameGPU",
+                "date": "2026-11-08T13:36:02Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "A 55-Year-Old Math Problem Was Solved-This Time by Humans",
                 "desc": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
@@ -1174,99 +1264,99 @@
                 "source": "Digital Reviews Network",
                 "date": "2026-11-07T08:02:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
-                "desc": "Now, that's a marathon.",
-                "image": "https://sm.ign.com/t/ign_ap/news/w/world-of-w/world-of-warcraft-forever-world-first-level-60-character-hit_gwra.1200.jpg",
-                "url": "https://sea.ign.com/world-of-warcraft-forever/251659/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
-                "source": "IGN Southeast Asia",
-                "date": "2026-11-07T04:01:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A WoW Forever Player Has Already Hit Level 60",
-                "desc": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
-                "image": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "url": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
-                "source": "IGN",
-                "date": "2026-11-07T03:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RedMagic flagship OLED tablet with Snapdragon chipset gets 1TB storage option in China",
-                "desc": "The RedMagic Gaming Tablet 5 Pro is the company's flagship Android tablet, released earlier this year. Its 16GB/1TB configuration will go on sale in China on November 9.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/redmagic-gaming-tablet-5-Pro-1TB-News.png",
-                "url": "https://www.notebookcheck.net/RedMagic-flagship-OLED-tablet-with-Snapdragon-chipset-gets-1TB-storage-option-in-China.1443778.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-11-07T03:07:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore photo booth craze: why Gen Z loves it",
-                "desc": "Why Singapore’s photo booth craze is making a comeback, from NeoPrints to self-photo studios, with Gen Z leading the trend. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/93371ac414592f8b50728ad88da8d40dc64a1fbecf0bdc7b1603585bf367de56?w=1200",
-                "url": "https://www.straitstimes.com/life/say-cheese-again-why-cant-gen-zs-get-enough-of-photobooths",
-                "source": "The Straits Times",
-                "date": "2026-11-07T03:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 photobooths to check out in Singapore",
-                "desc": "5 Singapore photo booths to check out, from Korean-style studios and walk-through rooms to themed self-service prints. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/348770eeb26cbee43371839f78e26679574415302d6577374a3726f673311087?w=1200",
-                "url": "https://www.straitstimes.com/life/strike-a-pose-5-trendiest-photobooths-in-singapore-to-check-out",
-                "source": "The Straits Times",
-                "date": "2026-11-07T03:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The lost art of going on a Sunday drive",
-                "desc": "The pleasure of a Sunday drive was never about the destination, but the quality time spent together on the way to it",
-                "image": "https://esquire.com.au/wp-content/uploads/2026/11/Drive-lead-tile.jpg",
-                "url": "https://esquire.com.au/lost-arts-sunday-drive/",
-                "source": "Esquire Australia",
-                "date": "2026-11-07T02:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung Galaxy S27 Ultra tipped to use Snapdragon processor despite overheating concerns",
-                "desc": "The Pro could get the non-Extreme Snapdragon 8 Elite Gen 6 SoC",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-back.JPG?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/samsung-galaxy-s27-ultra-tipped-use-snapdragon-processor-despite-overheating-concerns/",
-                "source": "Android Police",
-                "date": "2026-11-07T02:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "realme 16 Pro+ vs POCO X8 Pro: Which Extras Are Worth Paying for in 2026?",
-                "desc": "realme 16 Pro+ vs POCO X8 Pro compares eSIM, portrait zoom, selfie video, battery and owner reports to help you decide which extras deserve your money.",
-                "image": "https://memeburn.com/wp-content/uploads/2026/11/realme-16-Pro-vs-POCO-X8-Pro.jpg",
-                "url": "https://memeburn.com/realme-16-pro-vs-poco-x8-pro/",
-                "source": "Memeburn",
-                "date": "2026-11-07T02:24:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "External SSD for iPhone: 10Gbps Magnetic vs USB4 [2026]",
-                "desc": "External SSD for iPhone in 2026: compare 10Gbps magnetic M.2 cases, phone SSDs and Samsung P9 USB4 on speed, heat and price.",
-                "image": "https://tech-insider.org/wp-content/uploads/2026/11/external-ssd-for-iphone-magnetic-m2-case-vs-usb4-drive-2026-hi09.webp",
-                "url": "https://tech-insider.org/external-ssd-for-iphone-magnetic-m2-case-vs-usb4-drive-2026/",
-                "source": "https://tech-insider.org/",
-                "date": "2026-11-07T02:17:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ENDIX, the Fully Free, Digital Gaming Expo, Is Now Live With More Than 50 Games, World Premieres, Exclusive Trailers, and More",
-                "desc": "You can jump into this playable gaming event from November 6-8, 2026.",
-                "image": "https://sm.ign.com/t/ign_ap/news/e/endix-the-/endix-the-fully-free-digital-gaming-expo-is-now-live-with-mo_hsfw.1200.jpg",
-                "url": "https://sea.ign.com/endix/251645/endix-the-fully-free-digital-gaming-expo-is-now-live-with-more-than-50-games-world-premieres-exclusi",
-                "source": "IGN Southeast Asia",
-                "date": "2026-11-07T02:14:23Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "‘I was in a darker place than I’d ever been. ECT was my only hope’: how Ted Scheinman finally broke through his depression",
+                "desc": "The Smithsonian editor’s new book tracks decades of crippling mental tumult, culminating in a treatment steeped in controversy: electroconvulsive therapy. The results were more energising than he could have imagined",
+                "image": "https://i.guim.co.uk/img/media/0f4217031433e1c010a25d9d6a9ec83a47f439d1/781_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21d30b06cf4d1edf538f0978f808647d",
+                "url": "https://www.theguardian.com/society/2026/nov/08/ect-electroconvulsive-therapy-how-ted-scheinman-broke-through-depression",
+                "source": "The Guardian",
+                "date": "2026-11-08T14:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poland mourns victims of Krakow mass shooting as terrorism probe launched",
+                "desc": "The attack, which Poland's defense minister described as an \"act of terror,\" happened in Main Square, a major tourist hub in the heart of Krakow's Old Town.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/08/607f3e60-1727-43db-bec4-5ff31bb99f71/thumbnail/1200x630/8f85cabb2488a4d3cca7a95145e78c6e/gettyimages-2303660583.jpg",
+                "url": "https://www.cbsnews.com/news/poland-mourns-krakow-mass-shooting-victims-terrorism-probe/",
+                "source": "CBS News",
+                "date": "2026-11-08T13:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Does underwear really affect men's fertility?",
+                "desc": "There's long been debate over whether boxers or briefs are better for your manhood — and sperm quality. But a new study of 27,000 aims to settle this debate about drawers once and for all.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-oy1412xg5-1793732228330.jpg?quality=75&strip=all&1793714272&w=1200",
+                "url": "https://nypost.com/2026/11/08/health/boxers-or-briefs-does-underwear-really-affect-mens-fertility/",
+                "source": "New York Post",
+                "date": "2026-11-08T13:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Türkiye Lists 9 Categories of Foreigners Exempt From Salary Requirements For Work Permits",
+                "desc": "Türkiye has listed nine categories of foreigners exempt from certain employment, salary and financial requirements when applying for a work permit.",
+                "image": "https://cdn.legit.ng/images/1200x675/1a8ec28b350ea10c.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1740213-turkiye-lists-9-categories-foreigners-exempt-salary-requirements-work-permits/",
+                "source": "Legit News",
+                "date": "2026-11-08T13:55:56Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa Lead Researcher Consultancy 2026 – Apply for Security Research Opportunities",
+                "desc": "The Urgent Action Fund-Africa (UAF-Africa) Lead Researcher Consultancy 2026 presents an important opportunity for experienced African researchers, gender",
+                "image": "https://www.globalsouthopportunities.com/wp-content/uploads/2026/11/images-75.jpeg",
+                "url": "https://www.globalsouthopportunities.com/2026/11/08/africa-158/",
+                "source": "Global South Opportunities",
+                "date": "2026-11-08T13:54:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sudan detains ex-ruling party head Haroun wanted by ICC",
+                "desc": "Nov 8 () - Sudan's army has detained a former senior Islamist official from ousted strongman Omar ‌al-Bashir's era who is wanted by the ‌International Criminal Court, officials from his party said. Ah...",
+                "image": "https://s.yimg.com/lo/mysterio/api/d64d2fd1bb8096ea3fad1be4b5a15b632bdbc63bbc592f992fa2c915ddcfe496/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fbcb220298ba94d0adff374b5f8e3c75f.jpg",
+                "url": "https://sg.news.yahoo.com/sudan-detains-chairman-former-ruling-120739374.html",
+                "source": "Yahoo News Singapore",
+                "date": "2026-11-08T13:54:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What happens to Trump's dynasty? 'Beacon of hope' successor son Barron & the main star who will survive post",
+                "desc": "THE future of Donald Trump's family empire remains unclear after a crushing midterms defeat, with experts divided over whether his children can...",
+                "image": "https://www.thesun.co.uk/wp-content/uploads/2026/11/JL_DON-AND-DUSTED-OP.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.co.uk/news/40958582/barron-trump-dynasty-successor/",
+                "source": "The Sun",
+                "date": "2026-11-08T13:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "South Korea Announces New Residence Permits for Foreign Children, Sets 4 Work Conditions",
+                "desc": "South Korea has introduced new immigration rules allowing foreign children seeking legal recognition from Korean parents to obtain long-term stay permits.",
+                "image": "https://cdn.legit.ng/images/1200x675/5bcdd6b3d9ceb5e0.jpeg?v=1",
+                "url": "https://www.legit.ng/people/1740199-south-korea-announces-residence-permits-foreign-children-sets-4-work-conditions/",
+                "source": "Legit News",
+                "date": "2026-11-08T13:51:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Atlantic Chamber of Commerce Promotes Hiring Veterans to Fill Job Vacancies",
+                "desc": "The CEO of the Atlantic Chamber of Commerce is promoting the benefits of companies looking to veterans to help...",
+                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/11/Poppy-Pin-Earl-Noble.jpg",
+                "url": "https://vocm.com/2026/11/08/316054/",
+                "source": "VOCM",
+                "date": "2026-11-08T13:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "King leads solemn Remembrance service at Cenotaph",
+                "desc": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2837/live/b99276c0-db7b-11f1-b1f1-3be4e895d0fe.jpg",
+                "url": "https://www.bbc.com/news/articles/cqy8l0gyvvv2o",
+                "source": "BBC",
+                "date": "2026-11-08T13:49:07Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Remembrance Sunday: King leading two-minute silence",
                 "desc": "Andy Burnham leads the prime minister's procession, with Tory leader Kemi Badenoch alongside him. Former PMs, including Tony Blair and Boris Johnson, are also present.",
@@ -1806,98 +1896,8 @@
                 "source": "Tuko News",
                 "date": "2026-11-07T07:53:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Najib house arrest order clear, says Istana Negara",
-                "desc": "Malaysia’s King says Najib Razak house arrest pardon order is clear amid legal questions over its implementation. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/2515d682b506589727e1858fa903a9f1683040ff7126893180fbf23edebe1fd2?w=1200",
-                "url": "https://www.straitstimes.com/asia/se-asia/malaysias-king-affirms-royal-prerogative-on-ex-pm-najibs-house-arrest-warns-against-questioning",
-                "source": "The Straits Times",
-                "date": "2026-11-07T04:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US offers $20m reward for info on 'Iran's nuclear program': CENTCOM",
-                "desc": "Diplomatic efforts by mediators have been in full swing in an attempt to prevent any resumption of fighting",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/AFP__20261104__D6G26GL__v3__HighRes__IranUsIsraelWar-scaled-e1794025499723.jpg",
-                "url": "https://www.vanguardngr.com/2026/11/us-offers-20m-reward-for-info-on-irans-nuclear-program-centcom/",
-                "source": "Vanguard News",
-                "date": "2026-11-07T04:26:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
-                "desc": "Qatar's Prime Minister said the country's mediation efforts between the US and Iran were continuing to ​prevent the situation in the region from spiraling out ‌of control, Al Jazeera TV reported on Saturday.",
-                "image": "https://www.reuters.com/resizer/v2/ESYD77UO3FMBRLFUB26YJ7O32I.jpg?auth=c8f6ebd26bc207dce51a51b9c62033b6d94b7255025684193612f1a22415a345&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/middle-east/qatar-says-its-mediation-efforts-between-us-iran-continue-prevent-escalation-2026-11-07/",
-                "source": "Reuters",
-                "date": "2026-11-07T04:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator's proposals",
-                "desc": "U.S. conducts new strikes on Iran as Qatar-mediation efforts unfold amid stalled nuclear talks and escalating regional tensions.",
-                "image": "https://th-i.thgim.com/public/incoming/h97jzc/article71677291.ece/alternates/LANDSCAPE_1200/AP11_07_2026_000002B.jpg",
-                "url": "https://www.thehindu.com/news/international/us-military-carries-out-fresh-targeted-strikes-on-iran-as-tehran-weighs-mediators-proposals/article71677274.ece",
-                "source": "The Hindu",
-                "date": "2026-11-07T04:20:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Paraguay bank collapse sees president impeached, arrested",
-                "desc": "Pedro Alliana has become president of Paraguay following the impeachment of his predecessorSantiago Peña over a banking crisis that left almost half the country unable to access their accounts.",
-                "image": "https://www.rte.ie/images/00254cd6-1600.jpg",
-                "url": "https://www.rte.ie/news/world/2026/1107/1598335-paraguay-bank-collapse-sees-president-impeached-arrested/",
-                "source": "RTE.ie",
-                "date": "2026-11-07T04:18:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From the front row to the hot seat - what the midterms mean for Big Tech",
-                "desc": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-                "image": "https://techcrunch.com/wp-content/uploads/2026/11/SHAWN-THEW-Contributor-Getty.jpg?w=1024",
-                "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-                "source": "TechCrunch",
-                "date": "2026-11-07T04:16:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eisenkot has backing of 67 seats, but not yet allowed to form government",
-                "desc": "JTA - Yashar Party head Gadi Eisenkot inched closer to wresting the premiership from Benjamin Netanyahu on Thursday, as he secured",
-                "image": "https://www.sajr.co.za/wp-content/uploads/2026/11/Former-Israeli-military-chief-and-Yashar-party-leader-Gadi-Eisenkot-1200x630.jpeg",
-                "url": "https://www.sajr.co.za/eisenkot-has-backing-of-67-seats-but-not-yet-allowed-to-form-government/",
-                "source": "South African Jewish Report",
-                "date": "2026-11-07T04:15:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
-                "desc": "Even after a substantial evening meal, foods rich in sugar, fat or salt can continue to activate reward pathways in the brain",
-                "image": "https://cdn.radioafrica.digital/image/2026/11/73d0ab09-63e7-485b-a4b9-b98e0fa99203.webp?1794033204161",
-                "url": "https://www.the-star.co.ke/news/world/2026-11-07-tempted-by-snacks-before-bed-heres-why",
-                "source": "The Star, Kenya",
-                "date": "2026-11-07T04:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nashville, USA: Sebastian Ebert, 16, killed in tragic skateboarding accident",
-                "desc": "A community is grieving the loss of a 16-year-old boy after a tragic accident.",
-                "image": "https://images.thenightly.com.au/publication/C-23129210/001133c2a6d48ab99097ce380994d077244c8281-16x9-x1y0w2446h1376.webp?imwidth=1200",
-                "url": "https://thenightly.com.au/politics/world/nashville-usa-sebastian-ebert-16-killed-in-tragic-skateboarding-accident-c-23129210",
-                "source": "The Nightly",
-                "date": "2026-11-07T03:59:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Will attack without geographic limits': Iran's fresh warning to US after Trump's threats",
-                "desc": "An Iranian Army spokesperson said its armed forces were stronger than when the war began in February and could strike US bases outside the Middle East. | World News",
-                "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/US-PRESIDENT-TRUMP_1794021990648_jgcn_1794021990759_7TTY_60ac5456-c5a2-48d3-b1f0-53edb6ab719e_AgYn.jpg",
-                "url": "https://www.hindustantimes.com/world-news/will-attack-without-geographic-limits-irans-fresh-warning-to-us-after-trumps-threats-101794021484491.html",
-                "source": "Hindustan Times",
-                "date": "2026-11-07T03:58:52Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-08T22:30:35.224187Z"
+    "lastGlobalSync": "2026-11-09T02:01:14.755451Z"
 }
