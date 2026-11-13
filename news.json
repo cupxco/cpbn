@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Microsoft says attempts to fix global outage not going 'as expected'",
+                "desc": "Thousands of Microsoft users reported trouble accessing their email and connecting to work apps after a widespread outage hit Outlook and other services on Thursday. Reports of problems with Outlook, the company’s email client, climbed to about 130,000 on the outage tracking site Downdetector shortly after 1pm Eastern Time (18:00 GMT), with some users saying […]",
+                "image": "https://www.kbc.co.ke/wp-content/uploads/2026/11/skynews-microsoft-logo_6035472.jpg",
+                "url": "https://www.kbc.co.ke/microsoft-says-attempts-to-fix-global-outage-not-going-as-expected/",
+                "source": "KBC Digital",
+                "date": "2026-11-13T04:03:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
+                "desc": "CEO behind the meteoric rise of Nvidia stepped down after it was revealed he had an affair with an alleged Chinese spy",
+                "image": "https://i.guim.co.uk/img/media/ddea062f231e51eabed66481d5ba36e81630f60a/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d35493b2c9233cff8ea795a4c87fc149",
+                "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
+                "source": "The Guardian",
+                "date": "2026-11-13T04:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "If an AI Bubble Triggers a Bear Market, History Says This Is the Best Move Investors Can Make",
+                "desc": "Don't assume your portfolio is diversified.",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890020%2Fgettyimages-1371840452-1200x646-155feec.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/11/12/if-an-ai-bubble-triggers-a-bear-market-history-say/",
+                "source": "The Motley Fool",
+                "date": "2026-11-13T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Singapore court hands Chinese national 41 charges in relation to Nvidia chips case (update)",
+                "desc": "SINGAPORE: A fifth person has been hauled to court over the Nvidia chips case. Shi Bingzhe was handed 41 charges on Nov 13, all of which are for acquiring the benefits of criminal conduct.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/11/13/4210269.png",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/13/singapore-court-hands-chinese-national-41-charges-in-relation-to-nvidia-chips-case-update",
+                "source": "The Star",
+                "date": "2026-11-13T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FBI says US has seized $2.1b of cryptocurrency stolen from Binance",
+                "desc": "The theft of about US$6.3 billion (NZ$11.3 billion) from Binance last month was regarded as the biggest crypto heist in history.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/binance-security-incident-KJSHYEGE7VAFBHG3SAN7DYDKOQ.jpg?auth=148bcb695204b3722596a81095a3d7464ee2bc27350a03d6743203bb75e28b4a&quality=70&width=600&height=315&focal=4113%2C3098",
+                "url": "https://www.1news.co.nz/2026/11/13/fbi-says-us-has-seized-21b-of-cryptocurrency-stolen-from-binance/",
+                "source": "1News",
+                "date": "2026-11-13T03:58:01Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "As Nvidia reels from Huang's affairs, who stands to gain?",
+                "desc": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108211784-17604498902025-10-14t121921z_1221478754_rc2lega250jk_rtrmadp_0_amd-oracle-ai.jpeg?v=1760449905&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+                "source": "CNBC",
+                "date": "2026-11-13T03:58:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
+                "desc": "Earlier CRISPR treatments require removal of a participant’s cells, a complex and costly approach.",
+                "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03705-9/d41586-026-03705-9_53970020.jpg",
+                "url": "https://www.nature.com/articles/d41586-026-03705-9?error=cookies_not_supported&code=6465deef-62ff-463b-8fdf-8447db57afbe",
+                "source": "Nature",
+                "date": "2026-11-13T03:57:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft says attempts to fix global outage not going 'as expected'",
+                "desc": "Tens of thousands of users are affected by \"connectivity problems\" to their email, chats and AI.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63b5/live/cec821e0-df0c-11f1-85f2-ef21121affb9.jpg",
+                "url": "https://www.bbc.co.uk/news/live/cq5y10ge3dp3t",
+                "source": "BBC",
+                "date": "2026-11-13T03:57:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump Fills SEC, CFTC Seats With Four Picks as GOP's Confirmation Clock Runs Down",
+                "desc": "President Donald Trump nominated four people to fill vacancies at the SEC and CFTC: Steven Levine, a Republican, for the SEC seat vacated by crypto…",
+                "image": "https://img.biggo.com/5mTvX_pTwXq-uKf-T8pSAk3zHMFbqKMuXmv9A2BinMk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL3N0b2NrX2xpYnJhcnlfY292ZXJzLzIwMjYtMTEvMjkwODlhOWMtNDAwMC00M2EwLTgyMDgtMmU4MDk3NjJjYWJkXzE3OTQ1NDIxNjBfZGVmYXVsdC53ZWJw.jpg",
+                "url": "https://finance.biggo.com/news/29089a9c-4000-43a0-8208-2e809762cabd",
+                "source": "BigGo Finance",
+                "date": "2026-11-13T03:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3 Warren Buffett Stocks Just Closed at Record Highs. Here's the One I'd Still Buy Now.",
+                "desc": "Three stocks linked to the Oracle of Omaha hit records on the same day. Which one still deserves fresh money?",
+                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F832f0c1311579f8c1ee5c3823dece19858b56ba4-3000x2096.jpg&w=1200&op=resize",
+                "url": "https://www.fool.com/investing/2026/11/12/3-warren-buffett-stocks-just-closed-at-record-highs-here-s-the-one-i-d-still-buy-now/",
+                "source": "The Motley Fool",
+                "date": "2026-11-13T03:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "IMF reduces Mexico's flexible credit line to about $18 billion",
                 "desc": "The International Monetary Fund approved Mexico's request to reduce ​its flexible credit line, after ‌mid-term review, to approximately $18 billion from its prior $24 billion, Mexico's Finance Ministry said on ​Thursday.",
                 "image": "https://www.reuters.com/resizer/v2/EP2MIZQAURJAJOPSX3VQNIMN3Y.jpg?auth=012530f8e40451d3684a75bbd17c29559ea178e27a27bac9b356fec36cfadafd&height=1005&width=1920&quality=80&smart=true",
@@ -542,99 +632,99 @@
                 "source": "CNBC",
                 "date": "2026-11-11T10:03:29Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Government eyes opening common station by March 2028",
-                "desc": "The government plans to open the common station by March 2028.",
-                "image": "https://od2-image-api.abs-cbn.com/prod/2026111103114/bceb1f4ee26a9bc0c4fdfaff48300e316de22186fd44e2f76b505189f49249b9.jpg?w=1200&h=800",
-                "url": "https://www.abs-cbn.com/news/business/2026/11/11/government-eyes-opening-common-station-by-march-2028-1126",
-                "source": "ABS-CBN",
-                "date": "2026-11-11T03:34:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Korea fines 15 bond dealers 1.6 trillion won for collusion",
-                "desc": "South Korea's Fair ‌Trade Commission said on Wednesday that the regulator levied fines totalling 1.6 trillion ​won ($1.2 billion) on 15 domestic ​brokerage firms and banks for colluding ⁠at government bond auctions for more ​than three years.",
-                "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/legal/government/south-korea-fines-15-bond-dealers-16-trillion-won-collusion-2026-11-11/",
-                "source": "Reuters",
-                "date": "2026-11-11T03:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Old high school records suggest Alice Huang is 49, early Shanghai photos surface",
-                "desc": "Alice Huang’s old photos and early images from her time in Shanghai have circulated online after Nvidia chief executive Jensen Huang admitted to an extramarital affair with her.",
-                "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/3f3990c2ae0f20ff464e2b313ebffb7c/2026-11/AFP_D6VG2NQ.jpg",
-                "url": "https://www.thestandard.com.hk/finance/article/348140/Old-high-school-records-suggest-Alice-Huang-is-49-early-Shanghai-photos-surface",
-                "source": "The Standard (HK)",
-                "date": "2026-11-11T03:32:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "High Court awards boy RM30,000 over broken leg in religious class",
-                "desc": "Judge finds teacher liable for assault and battery and holds Yayasan Islam Terengganu vicariously liable for its employee’s actions.",
-                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/09/2717a29c-kompleks-mahkamah-kuala-terengganu-130924-4.webp",
-                "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/11/high-court-awards-boy-rm30-000-over-broken-leg-in-religious-class",
-                "source": "Free Malaysia Today",
-                "date": "2026-11-11T03:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Engineering a way out of chronic energy crisis",
-                "desc": "Engineering a way out of chronic energy crisis",
-                "image": "https://i.tribune.com.pk/media/images/NED-University1717868259-0/NED-University1717868259-0-640x480.webp",
-                "url": "https://tribune.com.pk/story/2639714/engineering-a-way-out-of-chronic-energy-crisis",
-                "source": "The Express Tribune",
-                "date": "2026-11-11T03:26:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US commerce secretary was sent secret memo on Nvidia CEO’s affair with Chinese spy: Report",
-                "desc": "US commerce secretary Howard Lutnick was sent a highly classified memo, overseen by secretary of State Marco Rubio, warning about Nvidia CEO Jensen",
-                "image": "https://static.toiimg.com/thumb/msid-135724560,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/us/us-commerce-secretary-was-sent-secret-memo-on-nvidia-ceos-affair-with-chinese-spy-report/articleshow/135724372.cms",
-                "source": "The Times of India",
-                "date": "2026-11-11T03:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "KTM X-Bow Arrow Debuts With Audi 2.0 L Engine - 280 Hp, USD 60k (Rs 56 Lakh)",
-                "desc": "In addition to the standard X-BOW Arrow, KTM is introducing a Black Limited Edition, with global production restricted to just 500 units",
-                "image": "https://www.rushlane.com/wp-content/uploads/2026/11/ktm-x-bow-arrow-revealed-with-audi-engine.jpg",
-                "url": "https://www.rushlane.com/ktm-x-bow-arrow-debuts-with-audi-2-0-l-engine-280-hp-usd-60k-rs-56-lakh-12560842.html",
-                "source": "RushLane",
-                "date": "2026-11-11T03:24:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New study shows COVID value-added tax cut significantly boosted private consumption",
-                "desc": "In summer 2020, the German federal government lowered value-added tax from 19% to 16% for half a year as part of its COVID economic stimulus package. A new study, recently published in the journal Review of Economic Studies, uses survey data, data on retail purchases and an economic model to show the extent to which this measure influenced private consumption. The study found that lower-wealth households, as well as younger and middle-aged households, particularly benefited, regardless of their level of financial literacy.",
-                "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/retail.jpg",
-                "url": "https://phys.org/news/2026-11-covid-added-tax-significantly-boosted.html",
-                "source": "Phys.org",
-                "date": "2026-11-11T03:20:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New eats: Azuthai gives Australian meat a Thai twist",
-                "desc": "Meat & Livestock Australia Lambassador Chef J Gamboa showcases the versatility of Australian meat with new dishes on Azuthai’s steakhouse menu.",
-                "image": "https://od2-image-api.abs-cbn.com/prod/20261109101152/5c2144e0b5f4a8a9f558aff6676e741c0795f99a3ebc4e1baec8b7bff0392966.jpg?w=1200&h=800",
-                "url": "https://www.abs-cbn.com/lifestyle/food-travel/2026/11/10/new-eats-azuthai-gives-australian-meat-a-thai-twist-1418",
-                "source": "ABS-CBN",
-                "date": "2026-11-11T03:15:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WestBridge Capital sees six investment team exits this year as it slows fresh bets",
-                "desc": "While WestBridge has also added at least two people to its investment team, including Chitranjan Jain and Aayush Kumar, among others, the departures appear to have outpaced additions as the firm slows fresh investments, sources told Moneycontrol.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2025/05/20250519130558_VC-firms-leaving-1.jpg",
-                "url": "https://www.moneycontrol.com/news/business/startup/westbridge-capital-sees-six-investment-team-exits-this-year-as-it-slows-fresh-bets-14072658.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-11-11T03:14:57Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Long-Time Linux Kernel Maintainer Inundated With AI-Generated Submissions Steps Down",
+                "desc": "It's been well documented that the rise of AI coding agents has resulted in an influx of new submissions to open-source and Linux projects. One recent study found that as much of 25% of new pull requests were reported to be \"AI slop.\" Maintainers of other projects, like Godot, have also lamented...",
+                "image": "https://www.techpowerup.com/img/QFj7NAH0V6C0wKjp.jpg",
+                "url": "https://www.techpowerup.com/354764/long-time-linux-kernel-maintainer-inundated-with-ai-generated-submissions-steps-down",
+                "source": "TechPowerUp",
+                "date": "2026-11-13T03:56:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Free App Turns Foldable iPhone \"Duo\" Into a Mini MacBook",
+                "desc": "A free app called \"DuoBook: Pocket Mac\" has launched on the App Store that lets users prop open Apple's foldable iPhone Duo and operate it like a…",
+                "image": "https://img.biggo.com/D6gMOcjL8c0uLbRESOBeKKF5CdWP0E58egj1ywH4L4w/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2U1Mzk2NzBmLWU5ZjEtNGIzYS1hMDk2LWViNjhjYjQ0OTc1NV8xNzk0NTQyNDUzX2RlZmF1bHQud2VicA.jpg",
+                "url": "https://finance.biggo.com/news/e539670f-e9f1-4b3a-a096-eb68cb449755",
+                "source": "BigGo Finance",
+                "date": "2026-11-13T03:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Whoop launches ‘Humans,’ a social network it says is built on verified heartbeats",
+                "desc": "Whoop, the fitness and wearable maker has launched Humans, a social network inside its app that it pitches as free of bots and AI-generated content as",
+                "image": "https://static.toiimg.com/thumb/msid-135788612,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/technology/tech-news/whoop-launches-humans-a-social-network-it-says-is-built-on-verified-heartbeats/articleshow/135788594.cms",
+                "source": "The Times of India",
+                "date": "2026-11-13T03:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Audient iD MK3 interfaces add RoomTune and onboard DSP",
+                "desc": "Audient’s third-gen iD interfaces add RoomTune monitor correction, onboard DSP FX and analogue tone shaping across four models.",
+                "image": "https://mixdownmag.com.au/wp-content/uploads/2026/11/Mixdown-header-image-edits.pdf-50.jpg",
+                "url": "https://mixdownmag.com.au/news/room-correction-comes-to-every-model-in-audients-redesigned-id-range/",
+                "source": "Mixdown Magazine",
+                "date": "2026-11-13T03:43:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Research advances quantum computing that harnesses speed of light",
+                "desc": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits.",
+                "image": "https://scx2.b-cdn.net/gfx/news/2026/purdue-professor-vladi.jpg",
+                "url": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
+                "source": "Phys.org",
+                "date": "2026-11-13T03:40:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TCL Fresh Air Gains Sensitive Choice Approval",
+                "desc": "TCL Fresh Air technology earns Sensitive Choice approval from the National Asthma Council Australia, bringing filtered ventilation to P7 air conditioners.",
+                "image": "https://i0.wp.com/www.digitalreviews.net/wp-content/uploads/2026/11/tcl-fresh-air-p7-sensitive-choice.jpg?fit=1200%2C628&ssl=1",
+                "url": "https://www.digitalreviews.net/news/industry-news/tcl-fresh-air-sensitive-choice-approval/",
+                "source": "Digital Reviews Network",
+                "date": "2026-11-13T03:36:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NYT Strands hints, answers for November 12, 2026",
+                "desc": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+                "image": "https://helios-i.mashable.com/imagery/articles/05XVX6vPIR8mgHHxh9VKyt2/hero-image.fill.size_1200x675.v1794408558.jpg",
+                "url": "https://mashable.com/entertainment/strands-nyt-hint-november-12-2026",
+                "source": "Mashable",
+                "date": "2026-11-13T03:31:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sony MDR-3R wired headphones priced at Php 3,999",
+                "desc": "Sony Philippines has revealed the official price of the MDR-3R wired headphones, which is at Php 3,999. It will be available from November 27 at Sony Centers and Sony Authorized Dealers nationwide. As a modern iteration of the Sony MDR-3 that was introduced alongside the Walkman TPS-L2 back in 1979, the MDR-3R retains the original […]",
+                "image": "https://unbox.ph/wp-content/uploads/2026/11/MDR-3R_ColourVari_InSituation_Earpadscustom_7_29_30_20260245-Large.jpeg",
+                "url": "https://unbox.ph/gadget/sony-mdr-3r-philippines-price/",
+                "source": "Unbox PH",
+                "date": "2026-11-13T03:27:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oppo confirms the Reno17 Pro's main camera and the chipsets powering it and the Reno17",
+                "desc": "The duo will become fully official on November 16. Oppo is fully unveiling the Reno17 and Reno17 Pro in China on November 16, and just yesterday the...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-series-chipsets-confirmed/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/oppo_confirms_the_reno17_pros_main_camera_and_the_chipsets_powering_it_and_the_reno17-news-75462.php",
+                "source": "GSMArena.com",
+                "date": "2026-11-13T03:13:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oppo releases 7,400mAh phone with 120Hz AMOLED display in Europe",
+                "desc": "The Oppo A7 Pro 5G is now on sale in Europe. The mid-range Android phone features a 7,400mAh battery, up to 80W wired charging, and a 120Hz AMOLED display.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/oppo-a7-pro-5g-europe-news.png",
+                "url": "https://www.notebookcheck.net/Oppo-releases-7-400mAh-phone-with-120Hz-AMOLED-display-in-Europe.1448976.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-11-13T03:12:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ableton Announces Live 13 with Step Sequencer, Drum Synth & ARA 2",
                 "desc": "Find the latest electronic music news, features, interviews, videos and podcasts from Beatportal - the reference for DJs and dance music artists.",
@@ -1174,99 +1264,99 @@
                 "source": "Tech Xplore",
                 "date": "2026-11-11T10:00:25Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Google's November Pixel Drop brings Gemini Intelligence to the Pixel 10",
-                "desc": "Gemini's call-making abilities have expanded too. Google's November Pixel Drop is starting to roll out, and it makes Gemini Intelligence available on the...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/11/google-november-pixel-drop/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/googles_november_pixel_drop_brings_gemini_intelligence_to_the_pixel_10-news-75430.php",
-                "source": "GSMArena.com",
-                "date": "2026-11-11T03:30:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft Monthly Patch Fixes 1,094 Flaws Including Outlook Zero",
-                "desc": "Microsoft released its November monthly security updates on Tuesday, addressing 1,094 CVEs, including 63 rated \"Critical,\" the highest severity level.…",
-                "image": "https://img.biggo.com/Wt8t1_ALRgb7UltsQJPl29QDSmq6DGtHDoNtZnGzRn4/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzA5NGE0OTNlLTBlMTMtNDgyYy1iYTdhLWY5ZmE1MmEzZTRmY18xNzk0MzY3ODc4X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/094a493e-0e13-482c-ba7a-f9fa52a3e4fc",
-                "source": "BigGo Finance",
-                "date": "2026-11-11T03:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Offshore powerboats head north to Marsden Cove for round two",
-                "desc": "Offshore powerboats race at Marsden Cove on 14 November, with two races from 11am, open pits and light winds.",
-                "image": "https://images.boatingnz.online/wp-content/uploads/2026/10/19143146/Asap-Couriers-27-before-the-racing-starts.jpg",
-                "url": "https://www.boatingnz.co.nz/2026/11/offshore-powerboats-head-north-to-marsden-cove-for-round-two/",
-                "source": "Boating New Zealand",
-                "date": "2026-11-11T03:15:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung could give Bixby Gemini-style autonomous agent powers with One UI 9.5",
-                "desc": "Bixby is getting one step closer to Gemini",
-                "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-z-flip-fold-phone-with-gemini-bixby-app-icons-ai-and-status-bar-with-message-and-share-shown.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.androidpolice.com/samsung-could-give-bixby-gemini-style-autonomous-agent-powers-one-ui-9-5-update/",
-                "source": "Android Police",
-                "date": "2026-11-11T03:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Eldritch Descent X Is Out Now on the Epic Games Store, Coming Soon to Steam",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/11/100853-b9079151/boxart_1x1_1080.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=897bec46c6b6cf17ad739905bd244743262433e9e5fb483726cbc207fea6130e",
-                "url": "https://www.gamespress.com/Eldritch-Descent-X-Is-Out-Now-on-the-Epic-Games-Store-Coming-Soon-to-S",
-                "source": "Games Press",
-                "date": "2026-11-11T03:12:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft patches 1,092 flaws as Outlook bug was hit",
-                "desc": "Outlook users face a live theft risk from one exploited flaw, while Microsoft's latest Patch Tuesday fixes 1,092 vulnerabilities overall.",
-                "image": "https://securitybrief.com.au/uploads/story/2026/11/11/compatible_urgent-email-app-security-breach-fix-story-324082.jpg",
-                "url": "https://securitybrief.com.au/story/microsoft-patches-1-092-flaws-as-outlook-bug-was-hit",
-                "source": "SecurityBrief Australia",
-                "date": "2026-11-11T03:00:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Comedy Luck My Life Shot with Blackmagic URSA Cine 17K 65",
-                "desc": "Singaporean comedy Luck My Life was shot with Blackmagic URSA Cine 17K 65 and PYXIS 12K cameras, completed in DaVinci Resolve Studio.",
-                "image": "https://content-technology.com/wp-content/uploads/2026/11/Luck-My-Life-3.png",
-                "url": "https://content-technology.com/asia-pacific-news/comedy-luck-my-life-shot-with-blackmagic-ursa-cine-17k-65/",
-                "source": "Content + Technology",
-                "date": "2026-11-11T03:00:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Upgrade Your Phone and Fly to Disney: OPPO Launches Epic 11.11 Maligayang PaskOPPO Sale",
-                "desc": "Upgrade your phone during the OPPO 11.11 Maligayang PaskOPPO Sale! Enjoy up to ₱8,000 off the Reno16 series & enter to win a ₱500K Hong Kong Disneyland trip.",
-                "image": "https://www.wazzup.ph/wp-content/uploads/2026/11/Upgrade-Your-Phone-and-Fly-to-Disney-OPPO-Launches-Epic-11.11-Maligayang-PaskOPPO-Sale-1.png",
-                "url": "https://www.wazzup.ph/oppo-11-11-sale-maligayang-paskoppo-disneyland-raffle/",
-                "source": "Wazzup.PH",
-                "date": "2026-11-11T02:59:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bridging ionic field strength disparity stabilizes high-voltage sodium-ion battery cathodes",
-                "desc": "A quantitative design strategy could improve the cycling stability of high-voltage sodium-ion batteries (SIBs) by mitigating ionic field strength disparities",
-                "image": "https://img.einnews.com/facebook/1246959/ionic-field-strength-compensati.png",
-                "url": "https://www.einpresswire.com/article/955933325/bridging-ionic-field-strength-disparity-stabilizes-high-voltage-sodium-ion-battery-cathodes",
-                "source": "EIN Presswire",
-                "date": "2026-11-11T02:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "End of an era: Apple Support Community forums to permanently close",
-                "desc": "Users visiting the Apple Support Community tonight were greeted with a message informing them that the platform will permanently shut down on November 20.",
-                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-support-forums.jpg?quality=82&strip=all&resize=1200,628",
-                "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
-                "source": "9to5Mac",
-                "date": "2026-11-11T02:49:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "28 Foreigners Detained in Bali Over Suspected Investment Scam",
+                "desc": "Just another WordPress site",
+                "image": "https://thebalitimes.com/wp-content/uploads/2026/11/IMG-20261112.jpeg",
+                "url": "https://thebalitimes.com/the-island/28-foreigners-detained-in-bali-over-suspected-investment-scam/",
+                "source": "The Bali Times",
+                "date": "2026-11-13T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This Week in Peace #150: November 13",
+                "desc": "This week, Ukraine leader describes first day of peace talks as “constructive.” Security council meets ahead of South Sudan Elections.",
+                "image": "https://i0.wp.com/peacenews.com/wp-content/uploads/2026/11/pexels-yfs-visuals-921252577-19965889-scaled.jpg?fit=2560%2C1728&ssl=1",
+                "url": "https://peacenews.com/this-week-in-peace-150-november-13/",
+                "source": "Peace News Network",
+                "date": "2026-11-13T04:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "One dead, four injured after gunman opens fire in Washington, DC",
+                "desc": "The gunman – who shot himself inside an apartment – was later identified by media outlets as 55-year-old doctor Matt Lambert, who had been in a dispute with property managers about black mould.",
+                "image": "https://static.ffx.io/images/$zoom_0.31980037772511416%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_143%2C$y_20/t_crop_custom/q_86%2Cf_auto/1b446e8ec7188bf205ff1d92805568efa96c6edd",
+                "url": "https://www.theage.com.au/world/north-america/five-shot-in-washington-dc-active-shooter-barricaded-inside-building-20261113-p61dtn.html",
+                "source": "The Age",
+                "date": "2026-11-13T03:56:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft outage hits Outlook and Teams worldwide",
+                "desc": "A Microsoft outage disrupted Outlook and Teams worldwide, with reports from scores of countries and territories.",
+                "image": "https://static.dw.com/image/79935547_6.jpg",
+                "url": "https://www.dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611",
+                "source": "DW.com",
+                "date": "2026-11-13T03:54:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Van Hollen to challenge Schumer for Senate majority leader : NPR",
+                "desc": "Van Hollen, a progressive from Maryland, said voters sent a clear message in the midterm elections — that they want \"change from the status quo.\"",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4811x2706+0+291/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2Fdd%2F332d58b44e4e9507fa1047877405%2Fgettyimages-2288943476.jpg",
+                "url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+                "source": "NPR",
+                "date": "2026-11-13T03:52:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia's Cummins says Khawaja '100 percent wrong' on 'Sandpapergate'",
+                "desc": "Pat Cummins on Friday said Usman Khawaja was \"100 percent wrong\" in claiming the whole team knew about Sandpapergate, prompting David Warner to accuse the Australia captain of throwing the former opener \"under the bus\".\"When he says we all knew, if by that he means we knew sandpaper was going out on the field, he's 100 percent wrong,\" Cummins said at a press conference lasting more than an  hour.",
+                "image": "https://s.yimg.com/lo/mysterio/api/ac9880345cca93cb6e7cdebb89f5b039dd71089bec3fc6cf49960f7d86b0fd95/lightyear_networkapi/resizefill_w768_h511%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.co.uk%2Fa17af6bcc57a9b256543f1cc0dfef5e3.jpg",
+                "url": "https://uk.sports.yahoo.com/news/australias-cummins-says-khawaja-100-035158402.html",
+                "source": "Yahoo",
+                "date": "2026-11-13T03:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Anwar ranked 13th in 2027 list of World's 500 Most Influential Muslims",
+                "desc": "PM recognised as one of the world's most outspoken heads of state.",
+                "image": "https://s.malaysiakini.com/i/OanwHfG9R9rY5vgueGrCd4njXSA=/1200x0/filters:strip_exif()/file/attachments/orphans/AnwarIbrahim3_831221.jpg",
+                "url": "https://www.malaysiakini.com/news/889010-anwar-ranked-13th-in-2027-list-of-worlds-500-most-influential-muslims",
+                "source": "Malaysiakini",
+                "date": "2026-11-13T03:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AIPA-47 to advance ASEAN unity, with Vietnam making active contributions",
+                "desc": "The 47th General Assembly of the ASEAN Inter-Parliamentary Assembly (AIPA) is expected to strengthen regional parliamentary cooperation amid global uncertainties, with Vietnam contributing four draft resolutions and continuing its active role in the organisation, AIPA Secretary-General Chem Widhya has said.",
+                "image": "https://media.vov.vn/sites/default/files/styles/og_image_en/public/2026-11/aipa-secretary-general-chem-widhya.jpg?v=1794541414",
+                "url": "https://english.vov.vn/en/politics/diplomacy/aipa-47-to-advance-asean-unity-with-vietnam-making-active-contributions-post1349855.vov",
+                "source": "VOV.VN",
+                "date": "2026-11-13T03:42:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine war briefing: Europe to join negotiations, says Kushner, as Putin warns against peace keepers",
+                "desc": "Jared Kushner says move will allow talks to address ‘broader postwar European security arrangements’; Putin refuses to soften territorial demands. What we know on day 1,724",
+                "image": "https://i.guim.co.uk/img/media/9275193db2b3e79a65eb9ec51a5b8de8db3a9b29/463_0_5701_4563/master/5701.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=57efa717f0c7ca00c7c197c3deb800f6",
+                "url": "https://www.theguardian.com/world/2026/nov/13/ukraine-war-briefing-europe-to-join-negotiations-says-kushner-as-putin-warns-against-peace-keepers",
+                "source": "The Guardian",
+                "date": "2026-11-13T03:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indigenous women leading the way",
+                "desc": "The achievements of Indigenous women are in the global spotlight, from federal, state and tribal elections in the United States, to climate negotiations now underway at COP31 in Türkiye, as well as in many other spheres.",
+                "image": "https://www.croakey.org/wp-content/uploads/2026/11/AIATSISPicture.png",
+                "url": "https://www.croakey.org/indigenous-women-leading-the-way/",
+                "source": "Croakey Health Media",
+                "date": "2026-11-13T03:39:27Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Museveni Warns East African Judges Against Blocking Development Projects",
                 "desc": "The President says injunctions that delay infrastructure investments and regional trade undermine economic transformation, urging the East African Court of Justice to prioritise commercial justice and integration.",
@@ -1806,98 +1896,8 @@
                 "source": "Reuters",
                 "date": "2026-11-11T10:07:38Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Kennedy family joins US lawsuits to block Trump’s ‘unlawful’ arch plan",
-                "desc": "Kennedy dynasty has filed a motion to stop Trump’s arch from obscuring JFK Eternal Flame and family gravesites.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af3bf76-1794359158.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan",
-                "source": "Al Jazeera",
-                "date": "2026-11-11T03:38:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mudenda fumes as MPs claim hotel benefits then skip Parliament",
-                "desc": "Speaker Jacob Mudenda has demanded a list of MPs benefiting from taxpayer-funded hotel accommodation while skipping parliamentary sessions.",
-                "image": "https://newzimlive.s3.eu-west-2.amazonaws.com/wp-content/uploads/2019/06/13200646/Jacob-Mudenda-.jpg",
-                "url": "https://www.newzimbabwe.com/mudenda-fumes-as-mps-book-hotel-accommodation-despite-skipping-parliamentary-sessions/",
-                "source": "NewZimbabwe.com",
-                "date": "2026-11-11T03:33:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vertical mesh-mediated fascial traction is associated with higher fascial closure rates than vacuum-assisted wound closure with mesh-mediated traction in open abdomen therapy",
-                "desc": "Open abdomen treatment (OAT) is a critical surgical strategy for managing severe intra-abdominal conditions. Early definitive fascial closure (DFC) reduces complications and mortality. While the vacuum-assisted wound closure with mesh-mediated fascial traction (VAWCM) technique is considered the current standard, novel methods such as vertical mesh-mediated fascial traction (VMMFT) with devices like Fasciotens® Abdomen offer a promising alternative. This retrospective, registry-based, propensity score–matched cohort study compared fascial closure outcomes between VAWCM and VMMFT in patients undergoing OAT, utilizing data from the European Hernia Society Open Abdomen Registry (2015–2024). Patients were matched based on sepsis at OAT initiation and initial fascial defect width. Statistical analyses included descriptive statistics, Chi-square and Mann–Whitney U tests, and logistic regression. Of 1119 OAT cases, 39 (3.5%) received VMMFT and 675 (60.3%) VAWCM. After matching, each cohort included 28 patients. In the matched cohorts, higher DFC rates were observed with VMMFT than with VAWCM in both the ITT-like (89.3% vs. 60.7%; p = .01) and PP-like analyses (100.0% vs. 69.6%; p = .01). Logistic regression in the matched cohort showed an association between VMMFT and higher odds of fascial closure (OR 5.39, 95% CI 1.31–22.25; p = .02), although the confidence interval was wide. ICU stay and ventilation duration were longer in the VMMFT group, while enteroatmospheric fistula occurred in 0% versus 10.7% of patients, respectively (p = .08). In this retrospective registry-based analysis, VMMFT was associated with higher fascial closure rates compared with VAWCM. Given the limited number of VMMFT cases, wide confidence intervals, and residual imbalance after propensity-score matching, these findings should be interpreted as observational, exploratory, and hypothesis-generating rather than confirmatory. Larger prospective studies using standardized treatment protocols are required to confirm this association. Trial registration: German Clinical Trials Register (DRKS00037753), registered on 2 June 2026.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-78639-3/MediaObjects/41598_2026_78639_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41598-026-78639-3?error=cookies_not_supported&code=04dfb83f-adff-4b47-a2ed-5b5a82bab604",
-                "source": "Nature",
-                "date": "2026-11-11T03:31:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pope says age, ill health cannot 'extinguish' his zeal",
-                "desc": "Pope Leo XIV vowed not to let illness or old age affect his zeal Tuesday, urging Argentines to \"go forth and be saints!\" and warning the young not to obsess ove",
-                "image": "https://od2-image-api.abs-cbn.com/prod/20261111011112/d57979b77c217f7a62c456e8639f664a6885c548f51b8d970ccdff9ebe7b5372.png?w=1200&h=800",
-                "url": "https://www.abs-cbn.com/news/world/2026/11/11/pope-says-age-ill-health-cannot-extinguish-his-zeal-0917",
-                "source": "ABS-CBN",
-                "date": "2026-11-11T03:30:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Flydubai expands European network with direct flights to Riga, Salzburg, Vilnius from December",
-                "desc": "Each destination will be served with three weekly flights from Terminal 3 at Dubai International",
-                "image": "https://media.zawya.com/prod/images/gm_preview/be39f78e593e-gettyimages-2191471227.jpg",
-                "url": "https://www.zawya.com/en/business/flydubai-expands-european-network-with-direct-flights-to-riga-salzburg-vilnius-from-december-2191322",
-                "source": "Zawya",
-                "date": "2026-11-11T03:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live: Ukraine, Russia hold second day of US-mediated talks in Abu Dhabi",
-                "desc": "Washington called for a \"new\" security framework on the first day of US-led talks between Ukraine and Russia in Abu Dhabi, as Ukrainian President Volodymyr Zelensky said he was \"happy\" with the changes…",
-                "image": "https://s.france24.com/media/display/467b32a0-dd77-11f1-9a39-5f54d898a954/w:1280/p:16x9/AP26314365694784.jpg",
-                "url": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi",
-                "source": "France 24",
-                "date": "2026-11-11T03:22:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A day after the rumours, the letter arrives: Bersatu rep Kamarudin out of Kelantan exco",
-                "desc": "KOTA BHARU, Nov 11 — Kelantan Bersatu chairman Datuk Kamarudin Md Nor has confirmed that he received a letter term...",
-                "image": "https://s.yimg.com/lo/mysterio/api/0163e86e9ce11a5d40a99680c662f5ba2ae70481fa5b502d5e2d3ac9ad55da2e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmmail.com.my%2F55ed1cc31ca2e5c32e33f00d90f6451f.jpg",
-                "url": "https://malaysia.news.yahoo.com/day-rumours-letter-arrives-bersatu-031449040.html",
-                "source": "Yahoo",
-                "date": "2026-11-11T03:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
-                "desc": "The TV presenter says he was once \"friendly\" with both David Walliams and Russell Brand, but was \"genuinely unaware of their conduct\".",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e955/live/1ca9a750-dd62-11f1-bbe9-135ba88862f9.jpg",
-                "url": "https://www.bbc.com/news/articles/cmwy9jl18840o",
-                "source": "BBC",
-                "date": "2026-11-11T03:13:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Voters Rejected Trump. Republicans Responded By Lurching To The Right.",
-                "desc": "As they elevate far-right leaders in Congress and the White House, Republicans reject the notion that their stinging midterm loss should push them closer to the center.",
-                "image": "https://s.yimg.com/lo/mysterio/api/2d735ba3b9e54205b4f6dde4458f9b1e7a2254973f75bf861c6e3f581bb01572/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F7b20a564ca7d06e46d1628056d75de2a.jpg",
-                "url": "https://sg.news.yahoo.com/voters-rejected-trump-republicans-responded-031315410.html",
-                "source": "Yahoo News Singapore",
-                "date": "2026-11-11T03:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hegseth Impeachment Effort Is Derailed by House Republicans",
-                "desc": "House Republicans banded together to shelve impeachment articles against Defense Secretary Pete Hegseth, who had earlier dismissed the charges as the work of a “disgruntled” G.O.P. congressman.",
-                "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10hegseth-congress-promo7p/10hegseth-congress-live-header530p-kpgw-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/live/2026/11/10/us/hegseth-impeachment-vote-house",
-                "source": "The New York Times",
-                "date": "2026-11-11T03:08:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-13T07:49:12.557311Z"
+    "lastGlobalSync": "2026-11-13T16:03:59.272305Z"
 }
