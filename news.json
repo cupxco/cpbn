@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Big Wall Street analyst calls Thursday like Nvidia",
+                "desc": "Here are the biggest calls on Wall Street on Thursday.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108228208-1763560713999-2025-11-04T144803Z_1031673352_RC2MPHA3TPV3_RTRMADP_3_GERMANY-TELEKOM-AI.JPG?v=1765301615&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/11/12/big-wall-street-analyst-calls-thursday-like-nvidia.html",
+                "source": "CNBC",
+                "date": "2026-11-12T12:58:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IQM puts uptime, scheduling at the heart of quantum-HPC integration",
+                "desc": "Germany’s LRZ showcases calibration, infrastructure, and workload management needed to operate quantum alongside classical systems",
+                "image": "https://media.datacenterdynamics.com/media/images/1000107258.2e16d0ba.fill-1200x630.jpg",
+                "url": "https://www.sdxcentral.com/news/iqm-puts-uptime-scheduling-at-the-heart-of-quantum-hpc-integration/",
+                "source": "SDxCentral",
+                "date": "2026-11-12T12:54:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Metro Bank up for sale, with billionaire investor in line for £420m windfall",
+                "desc": "Shares up 7% after announcement as Jaime Gilinski Bacal seeks exit three years after helping to rescue bank",
+                "image": "https://i.guim.co.uk/img/media/8dd2e9e59b6d92f8f011307fd95746c3cdabf54c/412_112_6540_5232/master/6540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=119358b8d094358a830b3ac7c0bd823d",
+                "url": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall",
+                "source": "The Guardian",
+                "date": "2026-11-12T12:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nebius Earnings, Revenue Top Estimates. But Neoclouds Sell Off Again.",
+                "desc": "Nebius stock rose after the AI-focused, cloud company reported a smaller-than-expected Q3 loss while revenue topped expectations.",
+                "image": "https://www.investors.com/wp-content/uploads/2025/09/Stock-NebiusHQbldg-company.jpg",
+                "url": "https://www.investors.com/news/technology/nebius-stock-q326-earnings-neoclouds-nbis/",
+                "source": "Investor's Business Daily",
+                "date": "2026-11-12T12:54:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fund Update: New $29.0M $JHX stock position opened by Swiss National Bank",
+                "desc": "Swiss National Bank has opened a new $29.0M position in $JHX, per a new SEC 13F filing. This disclos",
+                "image": "https://www.quiverquant.com/images/jhx_rect_new.png",
+                "url": "https://www.quiverquant.com/news/Fund+Update%3A+New+%2429.0M+%24JHX+stock+position+opened+by+Swiss+National+Bank",
+                "source": "Quiver Quantitative",
+                "date": "2026-11-12T12:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brazil inflation remains above goal despite softer-than-expected October reading",
+                "desc": "Consumer prices in Brazil rose less than expected in the 12 months ​through October but remained above the central bank's ‌target range, as policymakers vow to keep using high interest rates to rein in persistent inflation.",
+                "image": "https://www.reuters.com/resizer/v2/KHYAYDWN5RKORHMWZATLBE76YE.jpg?auth=9fd4fee745fc37dc1cbd2f980593eb44f005e42a59854ec7fff060c35e0f9ce7&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/americas/brazil-inflation-remains-above-goal-despite-softer-than-expected-october-reading-2026-11-12/",
+                "source": "Reuters",
+                "date": "2026-11-12T12:49:56Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Ken O’Flynn demands data on 347,000 foreign welfare recipients",
+                "desc": "'Elephant in the room'",
+                "image": "https://gript.ie/wp-content/uploads/2026/11/IMG_20261112_124030_960_x_540_pixel.png",
+                "url": "https://gript.ie/ken-oflynn-demands-data-on-347000-foreign-welfare-recipients/",
+                "source": "Gript",
+                "date": "2026-11-12T12:47:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Notice of Sale and Investment Solicitation Process re: Prairie Provident Resources et al",
+                "desc": "On October 27, 2026, the Court of King’s Bench of Alberta (the “Court”) granted an initial order under the Companies’ Creditors Arrangement Act, R.S.C. 1985, c. C-36 (“CCAA”), appointing Alvarez & Marsal Canada Inc. (“A&M”) as monitor of Prairie Provident Resources Canada Ltd. and Prairie Provident Resources Inc., and, subject to the ARIO (defined below),",
+                "image": "https://boereport.com/wp-content/uploads/2026/11/Alvarez-Marshal-Logo.png",
+                "url": "https://boereport.com/2026/11/12/notice-of-sale-and-investment-solicitation-process-re-prairie-provident-resources-et-al/",
+                "source": "BOE Report",
+                "date": "2026-11-12T12:45:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Autonomous Weapons Could Help Smaller NATO Armies Counter Russia",
+                "desc": "Autonomous weapons could help smaller NATO militaries offset Russia's manpower advantage by allowing fewer soldiers to wield greater combat power.",
+                "image": "https://i.insider.com/6aedad3e9270da3cc6668bbb?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/autonomous-weapons-help-smaller-nato-armies-counter-russia-2026-11",
+                "source": "Business Insider",
+                "date": "2026-11-12T12:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Page Industries Shares Tumble 13% as Raw Material Costs Weigh on Q2 Profit Growth",
+                "desc": "Page Industries shares fell 13% to 31,850 rupees, the lowest since April, after the Jockey and Speedo licensee posted second-quarter profit growth…",
+                "image": "https://img.biggo.com/R2jKZoHQXKteNDX48kLk4lF6JCix1g6ZsxzSMwvdacU/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzExOGY2YjM2LWFhM2EtNGMzYS04MzM5LWM0MDYwM2JiMmExZF8xNzk0NDg3MTU1X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/118f6b36-aa3a-4c3a-8339-c40603bb2a1d",
+                "source": "BigGo Finance",
+                "date": "2026-11-12T12:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "‘Tooth’ find in chocolate almond may be dental implant, lab tests suggest",
                 "desc": "A New Zealand Food Safety investigation has revealed what the suspected tooth-like item found in a chocolate almond was.",
                 "image": "https://www.newstalkzb.co.nz/media/nrfpaymo/ezgif-7801446653bd3709.jpg?rmode=crop&v=1dd72e699081070&height=395&width=635&quality=95&scale=both",
@@ -542,99 +632,99 @@
                 "source": "GMA Network",
                 "date": "2026-11-10T19:15:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ntel Bets on Travel eSIM to Expand Beyond Nigeria’s Telecom Market",
-                "desc": "Nigerian telecom operator NTEL is targeting international travellers with its WakaGo eSIM product after winning a European MV Network Operator competition.",
-                "image": "https://cdn.legit.ng/images/1200x675/62c21c7d86031fdd.jpeg?v=1",
-                "url": "https://www.legit.ng/business-economy/money/1740558-ntel-bets-travel-esim-expand-nigerias-telecom-market/",
-                "source": "Legit News",
-                "date": "2026-11-10T12:52:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthropic to raise $64bn in major stock market listing",
-                "desc": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
-                "source": "BBC",
-                "date": "2026-11-10T12:47:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anthropic to raise $64bn in major stock market listing",
-                "desc": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
-                "url": "https://www.bbc.com/news/articles/crpdgd723x2zo",
-                "source": "BBC",
-                "date": "2026-11-10T12:47:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Revolut granted licence to open bank in Israel",
-                "desc": "Fintech Revolut has been granted a conditional licence to establish a bank in Israel, the Israeli banking regulator said today.",
-                "image": "https://www.rte.ie/images/002533f0-1600.jpg",
-                "url": "https://www.rte.ie/news/business/2026/1110/1598671-revolut-granted-licence-to-open-bank-in-israel/",
-                "source": "RTE.ie",
-                "date": "2026-11-10T12:43:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil falls below $90 as Trump downplays Iran escalation",
-                "desc": "Oil prices extended losses from the previous session today after US President Donald Trump downplayed the need for additional military action against Iran, easing fears of sustained Middle East supply disruptions, with prospects of oversupply also in focus.",
-                "image": "https://www.rte.ie/images/00254c65-1600.jpg",
-                "url": "https://www.rte.ie/news/business/2026/1110/1598641-world-oil-prices/",
-                "source": "RTE.ie",
-                "date": "2026-11-10T12:43:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Philippines confirms data breaches involving 10 government agencies",
-                "desc": "Privacy regulator names DOJ, DICT, BIR and seven others as investigations continue",
-                "image": "https://media.assettype.com/gulfnews%2Fimport%2F2019%2F05%2F21%2F1.2100728_316804572_16adb3d5a5a_large.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://gulfnews.com/world/asia/philippines/philippines-confirms-data-breaches-involving-10-government-agencies-1.500742572",
-                "source": "Gulf News",
-                "date": "2026-11-10T12:43:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Honda reports robust results on the back of healthy motorcycle sales",
-                "desc": "Honda has reported a 66% rise in net profit for the first half of its fiscal year, driven by strong motorcycle sales",
-                "image": "https://i.abcnewsfe.com/a/fdfaabe3-192a-4edf-a39e-ec93302a6e37/wirestory_a28a6fc5b2158246b98bef3e7ceb3eb2_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/Business/wireStory/honda-reports-robust-results-back-healthy-motorcycle-sales-138004227",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-11-10T12:42:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Switzerland's Avaloq Enters US Wealth Market",
-                "desc": "FamilyWealthReport - Exclusive Intelligence for the family office community",
-                "image": "https://wealthbriefing.com/cms/images/app/Fintechfirms/Avaloq%20logo.jpeg",
-                "url": "https://www.familywealthreport.com/article.php/Switzerland%27s-Avaloq-Enters-US-Wealth-Market--------",
-                "source": "Family Wealth Report",
-                "date": "2026-11-10T12:41:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vital Healthcare Property Trust (VTHPF) Shareholder/Analyst Call Transcript",
-                "desc": "Vital Healthcare Property Trust (VTHPF) Shareholder/Analyst Call November 9, 2026 6:00 PM ESTCompany ParticipantsGraham StuartChris Adams - Chief Executive...",
-                "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-                "url": "https://seekingalpha.com/article/4965526-vital-healthcare-property-trust-vthpf-shareholder-analyst-call-transcript",
-                "source": "Seeking Alpha",
-                "date": "2026-11-10T12:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PILC: FSD Africa Partners Nigerian Pension Sector on $750m Infrastructure Fund",
-                "desc": "Nigeria’s Pension Industry Leadership Council (PILC) and UK-funded specialist development agency FSD Africa have signed an agreement to support the development of a proposed US$750 million infrastructure fund.",
-                "image": "https://techeconomy.ng/media-proxy/uploads/FSD%20Africa%20Partners%20Nigerian%20Pension%20Sector%20on%20$750m%20Infrastructure%20Fund-900x600.jpg",
-                "url": "https://techeconomy.ng/pilc-fsd-africa-partners-nigerian-pension-sector-on-750m-infrastructure-fund",
-                "source": "Techeconomy",
-                "date": "2026-11-10T12:39:45Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Fortnite Players Call on Epic to “Increase the Odds” of Finding Pirate Shop Token",
+                "desc": "Fortnite players are slamming Epic to improve the odds for the Pirate Shop Access Token in the current Treasure Hunters Mini Season.",
+                "image": "https://static.beebom.com/wp-content/uploads/2026/11/Increase-The-Odds-trends-to-increase-drop-rate-for-Fortnite-Pirate-Shop-Token.jpg",
+                "url": "https://beebom.com/fortnite-players-call-epic-to-increase-odds-finding-pirate-shop-token/",
+                "source": "Beebom",
+                "date": "2026-11-12T12:58:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Galaxy S27 wallpapers surface, hinting at possible color options",
+                "desc": "Samsung Galaxy S27 series wallpapers have surfaced, hinting at five possible color options for the upcoming flagship smartphones.",
+                "image": "https://www.sammobile.com/wp-content/uploads/2026/02/Galaxy-S26-Ultra-home-screen.jpg",
+                "url": "https://www.sammobile.com/news/galaxy-s27-wallpapers-surface-hinting-possible-color-options/",
+                "source": "SamMobile",
+                "date": "2026-11-12T12:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ardmore and Troy studios managing director Elaine Geraghty to step down",
+                "desc": "Industry veteran has headed television and film studios since 2020",
+                "image": "https://www.irishtimes.com/resizer/v2/YEEPYYSPVET2ZMFDHYHZMOD6UA.jpg?smart=true&auth=93978d565a70bd80ce0e40f3f4282377eef026a63202339f0af4a98b6554dc2c&width=1200&height=630",
+                "url": "https://www.irishtimes.com/business/work/2026/11/12/ardmore-and-troy-studios-managing-director-elaine-geraghty-to-step-down/",
+                "source": "The Irish Times",
+                "date": "2026-11-12T12:54:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PS5 and PS5 Pro Black Friday deals 2026: What to realistically expect",
+                "desc": "Wondering if the PS5 Slim or PS5 Pro will go on sale for Black Friday 2026? Here is what to realistically expect on console prices, bundles, games, and controllers.",
+                "image": "https://helios-i.mashable.com/imagery/articles/01hMJ2ZfO8F14H0JS1yLOnR/hero-image.fill.size_1200x675.v1794474860.jpg",
+                "url": "https://mashable.com/tech/ps5-ps5-pro-black-friday-deals-2026-what-to-expect",
+                "source": "Mashable",
+                "date": "2026-11-12T12:52:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oppo Reno 17 Pro launching soon with 200 MP main camera and three 50 MP cameras",
+                "desc": "With the Reno17 and Reno17 Pro, Oppo is launching two brand-new mid-range smartphones in just a few days that should be particularly interesting for photographers. Even the base model offers four 50 MP cameras, while the top model even comes with a 200 MP main camera.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Oppo-Reno17.jpg",
+                "url": "https://www.notebookcheck.net/Oppo-Reno-17-Pro-launching-soon-with-200-MP-main-camera-and-three-50-MP-cameras.1448859.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-11-12T12:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Ratchet & Clank: Ranger Rumble' to Leave App Store This Month",
+                "desc": "Sony is pulling the plug on a mobile spin-off of one of the PlayStation's best-known franchises before its worldwide launch.",
+                "image": "https://images.macrumors.com/t/XaYfzTRfAqK68-cYJy85ZPVs8LQ=/1600x/article-new/2026/11/rachet-clank-ranger-rumble.jpeg",
+                "url": "https://www.macrumors.com/2026/11/12/ratchet-clank-ranger-rumble-to-leave-app-store/",
+                "source": "MacRumors",
+                "date": "2026-11-12T12:51:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Researchers identify promising new immune target for treating endometriosis",
+                "desc": "Affecting 200 million women of reproductive age, endometriosis is a chronic inflammatory disease that causes pain, infertility, and increased ovarian cancer risk.",
+                "image": "https://www.news-medical.net/images/tags/TagImage-536-458490641214699061146-620x480.jpg",
+                "url": "https://www.news-medical.net/news/20261112/Researchers-identify-promising-new-immune-target-for-treating-endometriosis.aspx",
+                "source": "News-Medical",
+                "date": "2026-11-12T12:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘It’s more fun than work’: Meet the people booking time off to play GTA VI",
+                "desc": "Happy men’s mental health month",
+                "image": "https://images-prod.dazeddigital.com/759/0-219-759-506/azure/dazed-prod/1450/1/1451817.jpg",
+                "url": "https://www.dazeddigital.com/life-culture/article/71349/1/meet-the-legends-booking-time-off-work-to-play-grand-theft-auto-gta-vi",
+                "source": "Dazed",
+                "date": "2026-11-12T12:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Synology DSM CVE-2026-76954: Critical SQL Injection in the Auth API - Patch Now",
+                "desc": "Synology-SA-26:19 fixes CVE-2026-76954, a Critical 9.8 SQL injection in the DSM Auth API, and CVE-2026-85101, an 8.6 rsync authentication bypass. Upgrade now.",
+                "image": "https://www.rescana.com/post/img/synology-dsm-cve-2026-76954-sql-injection-patch-now-cover-v1.png",
+                "url": "https://www.rescana.com/post/synology-dsm-cve-2026-76954-sql-injection-patch-now",
+                "source": "Rescana",
+                "date": "2026-11-12T12:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "30% of iPhone Duo buyers may have returned it, but I don't think Apple should worry",
+                "desc": "A poll of 9to5Mac readers who were lucky enough to take delivery of their iPhone Duo in the first few...",
+                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/30-of-iPhone-Duo-buyers-may-have-returned-it-but-I-dont-think-Apple-should-worry.jpg?quality=82&strip=all&resize=1200,628",
+                "url": "https://9to5mac.com/2026/11/12/30-of-iphone-duo-buyers-may-have-returned-it-but-i-dont-think-apple-should-worry/",
+                "source": "9to5Mac",
+                "date": "2026-11-12T12:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Meta's personal AI assistant Muse arrives on Apple, Android smartwatches",
                 "desc": "Muse AI: Meta has started rolling out Muse AI assistant to Apple Watch and select Android smartwatches, allowing users to access it through voice, text and dictation without reaching for their phones",
@@ -1174,99 +1264,99 @@
                 "source": "Automation World",
                 "date": "2026-11-10T19:19:20Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The Original iPod Went on Sale 25 Years Ago Today",
-                "desc": "Apple's original iPod went on sale 25 years ago today, on November 10, 2001.",
-                "image": "https://images.macrumors.com/t/UmAJJ3eyMysC195UtLI4BJpTLmg=/1600x/article-new/2026/10/ipod.jpg",
-                "url": "https://www.macrumors.com/2026/11/10/original-ipod-went-on-sale-25-years-ago/",
-                "source": "MacRumors",
-                "date": "2026-11-10T12:54:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SAP patches four maximum-severity flaws, including Onapsis-found ICM2SHELL and PROXYGATE",
-                "desc": "SAP released 35 new security notes on its November 10 Patch Day, including four CVSS 10.0 flaws in NetWeaver AS ABAP, SAP Web Dispatcher and SAP Gateway. Onaps…",
-                "image": "https://mlq.ai/media/news_images/sap-patches-four-maximum-severity-flaws-including-onapsis-found-icm2shell-and-pr.jpg",
-                "url": "https://mlq.ai/news/sap-patches-four-maximum-severity-flaws-including-onapsis-found-icm2shell-and-proxygate/",
-                "source": "MLQ.ai",
-                "date": "2026-11-10T12:54:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Default Admin Password Let Researchers Remotely Control Cars From Two Automakers",
-                "desc": "Researchers exploited default admin credentials and authentication flaws at two automakers to remotely unlock cars, start engines, and access vehicle data.",
-                "image": "https://img.mezha.ua/mezha/images/doc/d/a/333930/da978dfd94ad3a09bdb1418324f25cda.jpeg?w=1200&q=85&stamp=1794309828",
-                "url": "https://mezha.ua/en/news/automakers-admin-password-317058/",
-                "source": "Mezha",
-                "date": "2026-11-10T12:53:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New $46M grant allows the University of Oxford and Boston Children’s Hospital to lead Genetic Medicines Hub within ARIA ecosystem",
-                "desc": "The University of Oxford and Boston Children’s Hospital, with collaboration from The Jackson Laboratory and N=1 Collaborative, have been selected to establish a new Genetic Medicines Hub, one of six research hubs within the Aligning Research to Impact Autism (ARIA) ecosystem.",
-                "image": "https://www.news-medical.net/images/news/ImageForNews_851152_17943142227482900.jpg",
-                "url": "https://www.news-medical.net/news/20261110/New-2446M-grant-allows-the-University-of-Oxford-and-Boston-Childrene28099s-Hospital-to-lead-Genetic-Medicines-Hub-within-ARIA-ecosystem.aspx",
-                "source": "News-Medical",
-                "date": "2026-11-10T12:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Heart surgeon reclaims collection record after gathering thousands of heart-shaped things",
-                "desc": "Heart surgeon Diana Reser (Switzerland) has reclaimed her record for the largest collection of heart-shaped items.",
-                "image": "https://www.guinnessworldrecords.com/news/2026/11/images/heart-collection-header-thumbnail.jpg",
-                "url": "https://www.guinnessworldrecords.com/news/2026/11/heart-surgeon-reclaims-collection-record-after-gathering-thousands-of-heart-shaped-things",
-                "source": "Guinness World Records",
-                "date": "2026-11-10T12:43:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "You can finally see, correct, and delete what Gemini remembers about you",
-                "desc": "A new Memory summary unveils Gemini's stored details with tools to inspect, correct, and selectively erase entries at will.",
-                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/google-gemini-voice-prompt-overlay-on-android.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.makeuseof.com/google-finally-lets-you-see-what-gemini-knows-about-you/",
-                "source": "MakeUseOf",
-                "date": "2026-11-10T12:43:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TP-Link WiFi 7 Router Is Back at Its Lowest Price Since Prime Day, With Black Friday Arriving Early on Amazon",
-                "desc": "Make sure you never lose connection with this deal.",
-                "image": "https://gizmodo.com/app/uploads/2026/11/tp-deal-1200x675.jpg",
-                "url": "https://gizmodo.com/tp-link-wifi-7-router-is-back-at-its-lowest-price-since-prime-day-with-black-friday-arriving-early-on-amazon-2000836976",
-                "source": "Gizmodo",
-                "date": "2026-11-10T12:40:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google DeepMind Uses AI Agents to Verify Signal’s Core Machine Code",
-                "desc": "Google DeepMind introduced AlphaProof Code on November 10, 2026, using teams of AI agents to produce machine-checked Lean proofs for specified security properties of Signal’s compiled libsignal code. The five-person rese...",
-                "image": "https://www.unite.ai/wp-content/uploads/2026/11/google-deepmind-ai-agents-verify-signal-core-machine-code.jpg",
-                "url": "https://www.unite.ai/google-deepmind-uses-ai-agents-to-verify-signals-core-machine-code/",
-                "source": "Unite.AI",
-                "date": "2026-11-10T12:37:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Social media posts twisted in AI phishing scams",
-                "desc": "AI phishing scams use your public social media posts to craft convincing spear phishing emails, a new study finds. Adjust your Instagram privacy settings to stay safe.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/senior-woman-reading-phone-worried.jpg",
-                "url": "https://www.foxnews.com/tech/ai-phishing-scams-turn-your-social-posts-against-you",
-                "source": "Fox News",
-                "date": "2026-11-10T12:33:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nintendo Shuts Down Switch 2 Jailbreak, Sending Hackers Back To Square One",
-                "desc": "The SmileBASIC exploit is no more",
-                "image": "https://kotaku.com/app/uploads/2026/11/switch-jail.jpg",
-                "url": "https://kotaku.com/nintendo-shuts-down-switch-2-jailbreak-smilebasic-r4-piracy-homebrew-2000755504",
-                "source": "Kotaku",
-                "date": "2026-11-10T12:33:09Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "India backs coordinated maritime patrolling near Malacca Strait amid vast surveillance needs",
+                "desc": "Speaking on the Malacca Strait Protocol during a special press briefing, the MEA Secretary noted that while India lies outside the narrow waterway itself, collaborative security frameworks are essential to effectively monitor the expansive maritime domain.",
+                "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261112125820-thumbnail-320x180-70.jpg",
+                "url": "https://www.aninews.in/news/world/asia/india-backs-coordinated-maritime-patrolling-near-malacca-strait-amid-vast-surveillance-needs20261112182846/",
+                "source": "ANI News",
+                "date": "2026-11-12T12:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somalia President Says Climate Finance is Obligation, not Charity, at COP31",
+                "desc": "Hassan Sheikh Mohamud urges developed nations to deliver on promises, cites drought and flood threats",
+                "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgxF9xRYaLAjcR6XLuMYUr9CbQszqavVFt8kSW",
+                "url": "https://www.dawan.africa/news/somalia-president-says-climate-finance-is-obligation-not-charity-at-cop31",
+                "source": "Dawan Africa",
+                "date": "2026-11-12T12:57:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AMECEA: New Book Explores How SCCs Shape Mission, Family Ministry, and Youth Formation in Eastern Africa",
+                "desc": "Sr. Jecinter Antoinette Okoth, FSSA\nSmall Christian Communities (SCCs) have become the engine of missionary outreach, family and marriage ministry, and youth formation in the Catholic Church in Eastern Africa, according to a new four-volume work by Maryknoll Missionary Fr. Joseph Graham Healey.\nThe new book, titled Small Christian Communities in Eastern Africa: History and Evaluation, traces SCCs in the nine countries of the Association of Member Episcopal Conferences in Eastern Africa (AMECEA): Eritrea, Ethiopia, Kenya, Malawi, South Sudan, Sudan, Tanzania, Uganda and Zambia, and covers the period from 1961 to 2026.\nAcross 20 chapters and some 2,130 pages, the book, which was launched on Friday, 16 October 2026, at the Maryknoll Society's headquarters in Ossining, New York, measures the communities' growth in numbers and in quality, tracks the rise of young people, and examines their place in a Synodal Church in Africa.\nAddressing participants who were present at the launch in person and those following virtually, the book's author, Fr. Healey, said the book had taken him 30 years to write, gathering stories from Maryknoll missionaries and countless Africans. With this vast outreach, the cleric emphasized, This is our book; it's not my book.\n“Today there are 195,000 SCCs in Eastern Africa,” the member of the Maryknoll Mission Society disclosed, describing the SCCs as the church in the neighbourhood. He explained further that, “In rural areas, they are families living in the same section of a village; in towns, they are neighbours sharing apartment complexes.”\nAfter 52 years of service in Africa, Fr. Healey said young adults have been among his greatest teachers, and the book devotes more than 200 pages to youth SCCs.\nHe stressed that the whole experience of SCCs is walking together, and emphasized the Spanish saying that runs through the book: se hace camino al andar, we create the path by walking.\nOn his part, Mr. Alloys Mogere Nyakundi, a Kenyan Catholic layperson who was present at the launch of the book in New York, offered living proof of the book's message.\nHe joined Kenyatta University in Nairobi, Kenya, in 2013 and graduated in 2017, during the long years when Maryknoll missionaries served as the university's Catholic chaplains.\nThe campus then had seven SCCs: one for lecturers and staff, several for residence students, and one for non-resident students. Each week members read and reflected on the coming Sunday's Gospel, but Nyakundi said the communities went well beyond Bible sharing.\nIt's through small Christian communities that we were able to understand the needs of different students, he said, noting that some students went a whole day without a meal. With this, every community held at least one charitable activity a semester, visiting orphans and prisoners, planting trees and reaching out to the marginalised.\nHe said the communities also answered a deep need for belonging among lonely students, and nurtured leaders. Seminarians and priests emerged from the Kenyatta University SCCs, and one former member is now a Member of Parliament in Kenya. The communities, he added, taught students to be truly synodal by giving them space to speak openly about their lives and to accompany one another.\nToday, Mr. Nyakundi coordinates an online young adult SCC that links young people in the United States, Pakistan, Indonesia, Uganda, Kenya and Tanzania. Members use social media to evangelise one another and learn across cultures, then carry their faith into climate and social justice projects at home, such as tree planting.\nThe new book is a resource that will be used over the years on SCCs in the AMECEA region. As the Catholic University of Eastern Africa (CUEA) intends to introduce a degree in SCCs, the book is expected to serve as a key text for this new degree programme\nThe four volumes, each about 450 to 500 pages, are available on Amazon in hardback, paperback, ebook and audiobook. The audiobook runs to more than 100 hours.",
+                "image": "https://communications.amecea.org/wp-content/uploads/2016/05/cropped-AMECEA-LOGO-32x32.jpg",
+                "url": "https://communications.amecea.org/index.php/2026/11/12/26088/",
+                "source": "AMECEA",
+                "date": "2026-11-12T12:56:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indian PM Modi to attend ASEAN summit in Manila from November 16 to 17",
+                "desc": "Indian Prime Minister ​Narendra Modi will visit ⁠the Philippines ​from November 16 ​to 17 to attend the summit of the ​Association of ​Southeast Asian Nations (ASEAN) in Manila, ‌India's ⁠foreign ministry said on Thursday.",
+                "image": "https://www.reuters.com/resizer/v2/EVSQENRYPRLMND3HP56TA76SHU.jpg?auth=7a1b099df439bdd3b378e2515f3e6e772c089c67df37a257eac38dcb06a50c9f&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/asia-pacific/indian-pm-modi-attend-asean-summit-manila-november-16-17-2026-11-12/",
+                "source": "Reuters",
+                "date": "2026-11-12T12:55:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PKFZ ready to open records, facilitate audits amid cooking oil traceability concerns",
+                "desc": "KUALA LUMPUR, Nov 12 — The Port Klang Free Zone (PKFZ) says it is prepared to provide relevant reports and f...",
+                "image": "https://s.yimg.com/lo/mysterio/api/3514ba3c36548cf01c4b23be896765f62584961fbed0d5e791a21539363cb46a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmmail.com.my%2F8c89a6d4f8141dfb1b0b01fcf9e30395.jpg",
+                "url": "https://malaysia.news.yahoo.com/pkfz-ready-open-records-facilitate-125537216.html",
+                "source": "Yahoo",
+                "date": "2026-11-12T12:55:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somalia repatriates 170 stranded migrants from Libya with EU support",
+                "desc": "Mogadishu (HOL) — Somali federal government welcomed home 170 migrants repatriated from Libya on Tuesday through a European Union-supported voluntary return program, allowing them to reunite with their families after months stranded in the North African country.",
+                "image": "https://www.hiiraan.com/uploads/2026/11/1794375680901840526_1474918321403919_454507754249877315_n.jpg",
+                "url": "https://www.hiiraan.com/news4/2026/Nov/206744/somalia_repatriates_170_stranded_migrants_from_libya_with_eu_support.aspx",
+                "source": "Hiiraan Online",
+                "date": "2026-11-12T12:54:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns",
+                "desc": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
+                "source": "BBC",
+                "date": "2026-11-12T12:54:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
+                "desc": "An Israeli airstrike targeting the Nasser Hospital in southern Gaza killed six people and wounded at least a dozen more, Gaza's Health Ministry said.",
+                "image": "https://i.cbc.ca/ais/3a840d87-433a-4cb1-a76b-562ca86638af,1794465518816/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C384%2C5500%2C3093%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/israeli-strike-on-gaza-hospital-kills-six-people-9.7418729",
+                "source": "CBC",
+                "date": "2026-11-12T12:50:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gcore and TengriAI to explore 100 MW AI data center in Kazakhstan",
+                "desc": "Phased project would give Central Asia large-scale GPU capacity run in the region",
+                "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
+                "url": "https://www.manilatimes.net/2026/11/12/tmt-newswire/pr-newswire/gcore-and-tengriai-to-explore-100-mw-ai-data-center-in-kazakhstan/2468485",
+                "source": "The Manila Times",
+                "date": "2026-11-12T12:49:08Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Death toll rises to eight after New York apartment block collapse",
+                "desc": "New York Mayor Zohran Mamdani said there were “no words for a loss of this magnitude” as rescuers continued to search the rubble for additional victims.",
+                "image": "https://static.ffx.io/images/$zoom_0.1819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/q_86%2Cf_auto/d5216bd849ebc84989203eac83d9878b8769bc40",
+                "url": "https://www.smh.com.au/world/north-america/new-york-apartment-block-collapses-killing-at-least-two-people-20261112-p61doa.html",
+                "source": "SMH.com.au",
+                "date": "2026-11-12T12:48:44Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Probe as four Ugandan pupils die in suspected poisoning",
                 "desc": "The head teacher of the school has been arrested to assist police investigations.",
@@ -1806,98 +1896,8 @@
                 "source": "Global News",
                 "date": "2026-11-10T19:17:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Congo sentences 66 soldiers to death for cowardice and mutiny after they allegedly fled fighting with rebels",
-                "desc": "A military court in the Democratic Republic of Congo has sentenced 66 soldiers to death for cowardice and mutiny after they allegedly fled fighting with rebels.",
-                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/10/c0a98c4b-97c6-402e-b1ba-f354d74454b8/thumbnail/1200x630/ddd440ec4a9d9357f347c7c49a18dcc1/gettyimages-2160246512.jpg",
-                "url": "https://www.cbsnews.com/news/congo-soldiers-death-sentence-execution-for-cowardice/",
-                "source": "CBS News",
-                "date": "2026-11-10T12:50:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
-                "desc": "Russia, Ukraine, and the United States held three-way talks in the United Arab Emirates to address the ongoing war",
-                "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
-                "url": "https://www.washingtonpost.com/world/2026/11/10/russia-ukraine-war-putin-zelenskyy-uae/f7f2e2f2-dcc4-11f1-912c-4fbb80d73f7f_story.html",
-                "source": "The Washington Post",
-                "date": "2026-11-10T12:50:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A healthcare system unravels as conflict mounts : NPR",
-                "desc": "Renewed fighting has pushed Ethiopia's healthcare system close to collapse: \"The whole emergency (room) was flooded with war trauma patients,\" one surgeon says of a brutal week in September.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3240x1823+0+169/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F92%2Faf5002f84593a7497146a3876186%2Ftigray-1.jpg",
-                "url": "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room",
-                "source": "NPR",
-                "date": "2026-11-10T12:48:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nearly half of Latvia's scientists and engineers are women",
-                "desc": "In 2025, there were 20.2 million scientists and engineers in the EU, of whom 8.2 million, or 41%, were women, according to Eurostat data published on November 10th.",
-                "image": "https://static.lsm.lv/media/2025/09/large/1/roa7.jpg",
-                "url": "https://eng.lsm.lv/article/society/education/10.11.2026-nearly-half-of-latvias-scientists-and-engineers-are-women.a671066/",
-                "source": "LSM",
-                "date": "2026-11-10T12:48:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cop31 may involve lots of talking about talking - but there are wins to be had",
-                "desc": "In this week’s newsletter: what to expect of the next two weeks. Plus, this week’s most important reads",
-                "image": "https://i.guim.co.uk/img/media/3267aa018069c9ae159cc58eeca3fb7cccb34f38/0_0_5318_4254/master/5318.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94100d526f37c2282f41a9fe31d00b0e",
-                "url": "https://www.theguardian.com/environment/2026/nov/10/cop31-will-involve-lots-of-talking-about-talking-but-there-are-wins-to-be-had",
-                "source": "The Guardian",
-                "date": "2026-11-10T12:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Jail for drug user who stole ambulance in Stoke",
-                "desc": "Marshall Leese went through red lights and was chased by police for two miles before stopping.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4e55/live/5084d360-8a8d-11f1-85ad-552e4e770d8f.png",
-                "url": "https://www.bbc.com/news/articles/ck98z82qzn65o",
-                "source": "BBC",
-                "date": "2026-11-10T12:46:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Men's club saved my life",
-                "desc": "Liam Powell encourages men who are struggling with their mental health to join Andy's Man Club.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7500/live/21770b20-dce4-11f1-a8e1-e3454837ffc6.jpg",
-                "url": "https://www.bbc.com/news/articles/c63elk8y4nq2o",
-                "source": "BBC",
-                "date": "2026-11-10T12:44:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Azerbaijani businessman Emin Agalarov pledges $99 million investment in Eswatini",
-                "desc": "Azerbaijani businessman Emin Agalarov, founder of the Sea Breeze development project and head of Agalarov Development, has announced plans to invest approximately $99 million in the economy of Eswatini, according to the Southern African kingdom's monarch, King Mswati III.",
-                "image": "https://www.azernews.az/media/2026/11/10/tif_turkic_investment_fund_loqo_logo.jpg",
-                "url": "https://www.azernews.az/business/267169.html",
-                "source": "AzerNews",
-                "date": "2026-11-10T12:43:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ethiopia Calls for Stronger Organization of African, Caribbean and Pacific States-European Union (OACPS–EU) Partnership at Second Joint Parliamentary Assembly",
-                "desc": "Ethiopia Calls for Stronger OACPS–EU Partnership at Second Joint Parliamentary Assembly H.E. Tiguist Fisseha, State Minister of Finance of Ethiopia, has called for a stronger, more balanced and results-oriented partnership between the Organization of African, Caribbean and Pacifi",
-                "image": "https://cdn.cms.africa.com/wp-content/uploads/2026/11/250-163.png",
-                "url": "https://africa.com/apo/ethiopia-calls-for-stronger-organization-of-african-caribbean-and-pacific-stateseuropean-union-oacpseu-partnership-at-second-joint-parliamentary-assembly",
-                "source": "Africa.com",
-                "date": "2026-11-10T12:42:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "We Can No Longer Afford It - Latvia May Freeze the Rail Baltica Project",
-                "desc": "According to him, the state is not ready to endlessly increase spending on the railway at the expense of other areas.",
-                "image": "https://news.inbox.eu/w/img/dc/f1/dcf12ee640a6d1b9a7.webp",
-                "url": "https://news.inbox.eu/150z5y2-we-can-no-longer-afford-it-latvia-may-freeze-the-rail-baltica-project?language=en",
-                "source": "Inbox.eu",
-                "date": "2026-11-10T12:42:28Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-12T19:47:12.761833Z"
+    "lastGlobalSync": "2026-11-13T00:58:56.679870Z"
 }
