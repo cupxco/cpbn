@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Copper wire upgrade blamed for US flights chaos",
+                "desc": "Cable repairs, not cyber attack, caused 17,000 cancelled flights, says transport secretary",
+                "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/11/14/TELEMMGLPICT000511651348_17946799612080_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
+                "url": "https://www.telegraph.co.uk/world-news/2026/11/14/work-remove-old-copper-wire-us-airspace-shutdown/",
+                "source": "The Telegraph",
+                "date": "2026-11-14T19:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New Greek restaurant 'exactly what Orillia has needed'",
+                "desc": "'It's a full restaurant, but fast food style,' says manager of the new Blue Olive Greek Kitchen that recently opened on Memorial Avenue",
+                "image": "https://www.vmcdn.ca/f/files/orilliamatters/images/food/20261113blueolivegreekkitchen.jpeg;w=1200;h=800;mode=crop",
+                "url": "https://www.orilliamatters.com/local-news/new-greek-restaurant-exactly-what-orillia-has-needed-13014583",
+                "source": "OrilliaMatters.com",
+                "date": "2026-11-14T19:35:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Evolutionary game driven adaptive sliding mode control for high-reliability PMSM Systems with d–q axis cooperative strategy under electrical parameter perturbation",
+                "desc": "Interior permanent magnet synchronous machines (IPMSMs) in high-power-density applications face simultaneous perturbation of stator resistance, d- and q-axis inductances and rotor flux linkage due to temperature rise, magnetic saturation and demagnetisation. Existing adaptive sliding mode control (ASMC) schemes treat the d-axis and q-axis current loops independently, leaving cross-axis coupling unaddressed and causing conservative gain selection, chattering and current ripple. We propose an evolutionary game driven adaptive sliding mode control (EG-ASMC) framework that recasts the two current loops as cooperating populations in an evolutionary game. Controller gains evolve online via a replicator dynamic whose fitness function couples tracking error, cross-axis coupling residual and torque smoothness. We prove that the cooperative game admits a unique evolutionary stable strategy coinciding with the Pareto-efficient gain pair, that the closed-loop system reaches the sliding manifold in fixed time with uniformly ultimately bounded tracking under simultaneous parameter perturbation, and that cooperative tuning attenuates chattering by a factor scaling with the cross-axis coupling strength. A finite-time disturbance observer is co-designed with its residual embedded into the game payoff. Monte Carlo simulations under five perturbation scenarios show that EG-ASMC reduces q-axis tracking RMSE by 41.6%, torque ripple by 36.7% and chattering index by 50.9% relative to non-singular fast terminal SMC. Hardware-in-the-loop verification on a 7.5 kW interior PMSM platform confirms real-time feasibility at 10 kHz. The per-cycle computational overhead of the replicator dynamic is approximately 7 microseconds, enabling deployment on cost-constrained embedded processors.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-79643-3?error=cookies_not_supported&code=24357d60-e914-4fa2-847c-536f122f1e4d",
+                "source": "Nature",
+                "date": "2026-11-14T19:25:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "SpaceX’s Starship to return to Earth after booster rocket’s fiery failure",
+                "desc": "SpaceX said its Starship spacecraft was “healthy” as it orbited the Earth and on track to return to its Texas launch site, where Elon Musk’s company was...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/EB2IIOW6A5HTNHXMJAPWFL2QEM.jpg?auth=cc68326d303440dca6583221bb1301cf07f9c704fade800016ca53a6a3ad80c1&width=1200&height=675&quality=70&focal=2819%2C1460&smart=false",
+                "url": "https://www.nzherald.co.nz/world/spacexs-starship-to-return-to-earth-after-booster-rockets-fiery-failure/K7ELPQJR7FBWNGWM4FSVGGFO74/",
+                "source": "NZ Herald",
+                "date": "2026-11-14T19:25:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Popular restaurant chain may rethink controversial service charge after customer backlash",
+                "desc": "Ford’s Garage president Billy Downs admitted the chain may reconsider a controversial 20% automatic service charge at select Florida restaurants. Franchisee president Marc Brown defended the mandatory fee, stating it raises employee pay and is disclosed to customers before ordering.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148740760.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/11/14/lifestyle/restaurant-chain-may-rethink-controversial-20-service-charge-in-some-venues-after-customer-pushback/",
+                "source": "New York Post",
+                "date": "2026-11-14T19:22:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lotto and Lotto Plus results: Saturday, 14 November 2026",
+                "desc": "Get the Lotto and Lotto Plus results as soon as they are drawn on The Citizen, so you can rest easy and check your tickets with confidence.",
+                "image": "https://media.citizen.co.za/wp-content/uploads/2026/11/Lotto-and-Lotto-Plus-results-Saturday.jpg",
+                "url": "https://www.citizen.co.za/lotto/lotto-and-lotto-plus-results-saturday-14-november-2026/",
+                "source": "The Citizen",
+                "date": "2026-11-14T19:12:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bernstein's Stacy Rasgon Cuts Nvidia to Market Perform, Says the Real Risk Is Life After Jensen Huang",
+                "desc": "Bernstein senior semiconductor analyst Stacy Rasgon downgraded Nvidia to market perform and halved his price target, not because near-term demand is…",
+                "image": "https://img.biggo.com/FsldaDJKSCzjMFTanK0kvHg9agx1w1eCvmpVhU6-e3M/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2NkOGE5MTcwMjYzYjc3MDRfMTc5NDY4NTM5N19jb3Zlci5qcGc.jpg",
+                "url": "https://finance.biggo.com/news/cd8a9170263b7704",
+                "source": "BigGo Finance",
+                "date": "2026-11-14T19:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BYD's Fang Cheng Bao Tai 9 Debuts Nov 19 With 1,000",
+                "desc": "BYD's Fang Cheng Bao will launch the Tai 9, its largest model, in China on November 19 after opening reservations November 9 with a deposit of about $…",
+                "image": "https://img.biggo.com/7WvklIEs6pKUb9ByiQ43r7Vm2rHbmj6xKAKFanI7PSE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzJhMWQyZTRmLTcwZDktNGVjYy05ZGUyLTdlNTQ0YmMwMmI3ZF8xNzk0NjgzMzM0X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/2a1d2e4f-70d9-4ecc-9de2-7e544bc02b7d",
+                "source": "BigGo Finance",
+                "date": "2026-11-14T19:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia's 'spying' scandal highlights espionage risks for Silicon Valley",
+                "desc": "Chinese economic espionage is in the spotlight after the downfall of Nvidia chief Jensen Huang, and former intelligence officials say the US is not doing enough to combat it.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/e99b6ab288f5cda0491185effae83e35?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=158&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-11-15/sex-spies-silicon-valley-nvidia-saga-highlights-risks-for-tech/107386438",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-11-14T19:01:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Flights at JFK, LaGuardia, and Newark delayed and canceled after nationwide ground stop",
+                "desc": "Thousands of travelers across the New York area are dealing the effects of a nationwide ground stop, with nearly 2,000 flights already canceled.",
+                "image": "https://cdn.abcotvs.com/dip/images/20040089_111426-wabc-laguardia-delays-cancellations-ap-img.jpg?w=1600",
+                "url": "https://abc7ny.com/post/faa-ground-stop-lifted-nyc-airports-facing-delays-cancellations-communication-issue/20039944/",
+                "source": "ABC7 New York",
+                "date": "2026-11-14T18:58:28Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Pune, Bengaluru, Mumbai: The Cities Right Behind Delhi In Pollution-Linked Health Insurance Claims",
                 "desc": "Pollution-linked health insurance claims have jumped 4.3 times in three years, and heart conditions, not lung illnesses, make up the biggest share, data from Policybazaar shows.",
                 "image": "https://c.ndtvimg.com/2026-11/bpbhj72g_v_625x300_14_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
@@ -542,99 +632,99 @@
                 "source": "LEADERSHIP Newspapers",
                 "date": "2026-11-13T10:04:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft says attempts to fix global outage not going 'as expected'",
-                "desc": "Thousands of Microsoft users reported trouble accessing their email and connecting to work apps after a widespread outage hit Outlook and other services on Thursday. Reports of problems with Outlook, the company’s email client, climbed to about 130,000 on the outage tracking site Downdetector shortly after 1pm Eastern Time (18:00 GMT), with some users saying […]",
-                "image": "https://www.kbc.co.ke/wp-content/uploads/2026/11/skynews-microsoft-logo_6035472.jpg",
-                "url": "https://www.kbc.co.ke/microsoft-says-attempts-to-fix-global-outage-not-going-as-expected/",
-                "source": "KBC Digital",
-                "date": "2026-11-13T04:03:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
-                "desc": "CEO behind the meteoric rise of Nvidia stepped down after it was revealed he had an affair with an alleged Chinese spy",
-                "image": "https://i.guim.co.uk/img/media/ddea062f231e51eabed66481d5ba36e81630f60a/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d35493b2c9233cff8ea795a4c87fc149",
-                "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
-                "source": "The Guardian",
-                "date": "2026-11-13T04:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "If an AI Bubble Triggers a Bear Market, History Says This Is the Best Move Investors Can Make",
-                "desc": "Don't assume your portfolio is diversified.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890020%2Fgettyimages-1371840452-1200x646-155feec.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/11/12/if-an-ai-bubble-triggers-a-bear-market-history-say/",
-                "source": "The Motley Fool",
-                "date": "2026-11-13T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore court hands Chinese national 41 charges in relation to Nvidia chips case (update)",
-                "desc": "SINGAPORE: A fifth person has been hauled to court over the Nvidia chips case. Shi Bingzhe was handed 41 charges on Nov 13, all of which are for acquiring the benefits of criminal conduct.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/11/13/4210269.png",
-                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/13/singapore-court-hands-chinese-national-41-charges-in-relation-to-nvidia-chips-case-update",
-                "source": "The Star",
-                "date": "2026-11-13T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FBI says US has seized $2.1b of cryptocurrency stolen from Binance",
-                "desc": "The theft of about US$6.3 billion (NZ$11.3 billion) from Binance last month was regarded as the biggest crypto heist in history.",
-                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/binance-security-incident-KJSHYEGE7VAFBHG3SAN7DYDKOQ.jpg?auth=148bcb695204b3722596a81095a3d7464ee2bc27350a03d6743203bb75e28b4a&quality=70&width=600&height=315&focal=4113%2C3098",
-                "url": "https://www.1news.co.nz/2026/11/13/fbi-says-us-has-seized-21b-of-cryptocurrency-stolen-from-binance/",
-                "source": "1News",
-                "date": "2026-11-13T03:58:01Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "As Nvidia reels from Huang's affairs, who stands to gain?",
-                "desc": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108211784-17604498902025-10-14t121921z_1221478754_rc2lega250jk_rtrmadp_0_amd-oracle-ai.jpeg?v=1760449905&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
-                "source": "CNBC",
-                "date": "2026-11-13T03:58:00Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
-                "desc": "Earlier CRISPR treatments require removal of a participant’s cells, a complex and costly approach.",
-                "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03705-9/d41586-026-03705-9_53970020.jpg",
-                "url": "https://www.nature.com/articles/d41586-026-03705-9?error=cookies_not_supported&code=6465deef-62ff-463b-8fdf-8447db57afbe",
-                "source": "Nature",
-                "date": "2026-11-13T03:57:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft says attempts to fix global outage not going 'as expected'",
-                "desc": "Tens of thousands of users are affected by \"connectivity problems\" to their email, chats and AI.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63b5/live/cec821e0-df0c-11f1-85f2-ef21121affb9.jpg",
-                "url": "https://www.bbc.co.uk/news/live/cq5y10ge3dp3t",
-                "source": "BBC",
-                "date": "2026-11-13T03:57:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump Fills SEC, CFTC Seats With Four Picks as GOP's Confirmation Clock Runs Down",
-                "desc": "President Donald Trump nominated four people to fill vacancies at the SEC and CFTC: Steven Levine, a Republican, for the SEC seat vacated by crypto…",
-                "image": "https://img.biggo.com/5mTvX_pTwXq-uKf-T8pSAk3zHMFbqKMuXmv9A2BinMk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL3N0b2NrX2xpYnJhcnlfY292ZXJzLzIwMjYtMTEvMjkwODlhOWMtNDAwMC00M2EwLTgyMDgtMmU4MDk3NjJjYWJkXzE3OTQ1NDIxNjBfZGVmYXVsdC53ZWJw.jpg",
-                "url": "https://finance.biggo.com/news/29089a9c-4000-43a0-8208-2e809762cabd",
-                "source": "BigGo Finance",
-                "date": "2026-11-13T03:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 Warren Buffett Stocks Just Closed at Record Highs. Here's the One I'd Still Buy Now.",
-                "desc": "Three stocks linked to the Oracle of Omaha hit records on the same day. Which one still deserves fresh money?",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F832f0c1311579f8c1ee5c3823dece19858b56ba4-3000x2096.jpg&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/11/12/3-warren-buffett-stocks-just-closed-at-record-highs-here-s-the-one-i-d-still-buy-now/",
-                "source": "The Motley Fool",
-                "date": "2026-11-13T03:52:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "‘Blood In Dish’ To Test And Fix Rare Diseases At Their Source",
+                "desc": "Researchers will develop a new gene therapy platform designed to correct hundreds of rare blood and immune disorders caused by single-letter DNA",
+                "image": "https://c.nationaltribune.com.au/wp-content/themes/news/images/news-image-default.jpg",
+                "url": "https://www.nationaltribune.com.au/blood-in-dish-to-test-and-fix-rare-diseases-at-their-source/",
+                "source": "The National Tribune",
+                "date": "2026-11-14T19:39:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft outage disrupts email-based pool chlorine monitoring, leaving hotel guests injured",
+                "desc": "Over a dozen guests at a theme park hotel in Germany were injured by excessive chlorine levels. According to local media reports, the incident was caused by a problem with the email-based system used to control chlorine dosing, which was affected by the Microsoft outage.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-11-14-at-19.55.35.png",
+                "url": "https://www.notebookcheck.net/Microsoft-outage-disrupts-email-based-pool-chlorine-monitoring-leaving-hotel-guests-injured.1450526.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-11-14T19:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Era CEO Elizabeth Dorman: Apple Hasn't Reinvented Itself in a Decade, and Couture Computing Will End the Black Rectangle",
+                "desc": "Design historian and Era co-founder Elizabeth Dorman argues that consumer hardware has collapsed into a monopoly of identical black-and-white devices,…",
+                "image": "https://img.biggo.com/Y1B8_KU8ybkUM7WFEpa768buzdeLrYdiSp1xwEZHcdM/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzc5MjUwNmRlZjE0MDU3NWJfMTc5NDY4NTIxOF9jb3Zlci5qcGc.jpg",
+                "url": "https://finance.biggo.com/news/792506def140575b",
+                "source": "BigGo Finance",
+                "date": "2026-11-14T19:08:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "5 Biggest Changes GTA Has Made Since The Original Vice City",
+                "desc": "\"Grand Theft Auto\" has come a long way since that arcade-style top down experience, and even further since \"Vice City.\" We'll track its biggest shifts.",
+                "image": "https://s.yimg.com/lo/mysterio/api/f6018d36eaae8d16dcd33f0c37c77f3b4976c4eda9426d01df93acfb96a27df0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsvg_articles_291%2Fc0c783db1c971f70c9a8ed5fc92bd4ca.jpg",
+                "url": "https://tech.yahoo.com/gaming/articles/5-biggest-changes-gta-made-190000087.html",
+                "source": "Yahoo Tech",
+                "date": "2026-11-14T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 Excellent Free Apple Watch Apps Every Owner Should Know About",
+                "desc": "Many iPhone apps charge a subscription for their Apple Watch component, but not all do if you know where to look.",
+                "image": "https://www.engadget.com/img/gallery/5-excellent-free-apple-watch-apps-every-owner-should-know-about/l-intro-1794320819.jpg",
+                "url": "https://www.engadget.com/2311959/free-apple-watch-apps/",
+                "source": "Engadget",
+                "date": "2026-11-14T19:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "I've tested four different versions of the LG C6, and it highlights a mistake that many TV buyers make",
+                "desc": "One size doesn't fit all reviews",
+                "image": "https://cdn.mos.cms.futurecdn.net/sLuVBkoTB252mNx2JdBxYf-1920-80.jpg",
+                "url": "https://www.whathifi.com/tv-home-cinema/televisions/ive-tested-four-different-versions-of-the-lg-c6-and-it-highlights-a-mistake-that-many-tv-buyers-make",
+                "source": "What Hi-Fi?",
+                "date": "2026-11-14T18:28:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple may launch three new iPhones in early 2027: iPhone 18, 18e and Air 2; what to expect",
+                "desc": "Apple may launch the iPhone 18, iPhone 18e and iPhone Air 2 in early 2027, potentially in March. Expected upgrades include the A20 chipset, better battery life, camera improvements and iOS 27. Prices in India could start at ₹79,900, though Apple has yet to confirm details.",
+                "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/iphone18a_1794464508969_BBQp_1794464526040_nfE7_9dcfa0c2-f142-45dc-b637-dde858550852_YS69_1794680561444_onL3_dd23f602-d3d1-4945-a20e-2dc9f334c0b8_zBWV.jpeg",
+                "url": "https://www.livemint.com/technology/apple-may-launch-three-new-iphones-in-early-2027-iphone-18-18e-and-air-2-what-to-expect-11794680056940.html",
+                "source": "Livemint",
+                "date": "2026-11-14T18:26:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "An Early Black Friday Deal So Good You’ll Want To Frame It: Take $500 off This Samsung Art TV",
+                "desc": "Want to make a striking addition to your living room before the holidays? Samsung's The Frame Pro is calling your name at Best Buy right now, where it's 25% off.",
+                "image": "https://i.pcmag.com/imagery/articles/07FS4z2dUWBrCB0oCALOeIh-1.fit_lim.size_1200x630.v1794599636.png",
+                "url": "https://www.pcmag.com/deals/early-black-friday-deal-take-500-off-samsung-art-tv-nov-14",
+                "source": "PCMag",
+                "date": "2026-11-14T18:15:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "HYPERCHARGE: Unboxed Brings Crossplay and Nine Major Updates to Switch Today",
+                "desc": "The update fans have been waiting for",
+                "image": "https://gonintendo.com/attachments/image/87610/file/medium-374a19e5f6ff943c2495554686e055e1.jpg",
+                "url": "https://www.gonintendo.com/contents/66146-hypercharge-unboxed-brings-crossplay-and-nine-major-updates-to-switch-today",
+                "source": "GoNintendo",
+                "date": "2026-11-14T18:01:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Amazon just dropped this 50-inch 4K smart TV to $180 ahead of Black Friday",
+                "desc": "Amazon slashed the price of this 50-inch Insignia 4K Fire TV to $179.99. Get built-in streaming, Alexa voice controls and $120 in savings.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/13/USAT/92762918007-insignia-tv-amazon-deal.png?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/shopping/deals/retailers/amazon/2026/11/14/insignia-f50-series-led-4k-uhd-smart-fire-tv-deal/92762215007/",
+                "source": "USA Today",
+                "date": "2026-11-14T18:01:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Astrotalk removed from Apple App Store? Company clarifies reason, updates on when app can be back",
                 "desc": "Astrotalk application has been delisted from Apple App Store since November 4, as per ﻿app-tracking platform StoreTally. The company has reportedly issued a notice.",
@@ -1174,99 +1264,99 @@
                 "source": "WIRED",
                 "date": "2026-11-13T10:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Long-Time Linux Kernel Maintainer Inundated With AI-Generated Submissions Steps Down",
-                "desc": "It's been well documented that the rise of AI coding agents has resulted in an influx of new submissions to open-source and Linux projects. One recent study found that as much of 25% of new pull requests were reported to be \"AI slop.\" Maintainers of other projects, like Godot, have also lamented...",
-                "image": "https://www.techpowerup.com/img/QFj7NAH0V6C0wKjp.jpg",
-                "url": "https://www.techpowerup.com/354764/long-time-linux-kernel-maintainer-inundated-with-ai-generated-submissions-steps-down",
-                "source": "TechPowerUp",
-                "date": "2026-11-13T03:56:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Free App Turns Foldable iPhone \"Duo\" Into a Mini MacBook",
-                "desc": "A free app called \"DuoBook: Pocket Mac\" has launched on the App Store that lets users prop open Apple's foldable iPhone Duo and operate it like a…",
-                "image": "https://img.biggo.com/D6gMOcjL8c0uLbRESOBeKKF5CdWP0E58egj1ywH4L4w/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2U1Mzk2NzBmLWU5ZjEtNGIzYS1hMDk2LWViNjhjYjQ0OTc1NV8xNzk0NTQyNDUzX2RlZmF1bHQud2VicA.jpg",
-                "url": "https://finance.biggo.com/news/e539670f-e9f1-4b3a-a096-eb68cb449755",
-                "source": "BigGo Finance",
-                "date": "2026-11-13T03:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Whoop launches ‘Humans,’ a social network it says is built on verified heartbeats",
-                "desc": "Whoop, the fitness and wearable maker has launched Humans, a social network inside its app that it pitches as free of bots and AI-generated content as",
-                "image": "https://static.toiimg.com/thumb/msid-135788612,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/tech-news/whoop-launches-humans-a-social-network-it-says-is-built-on-verified-heartbeats/articleshow/135788594.cms",
-                "source": "The Times of India",
-                "date": "2026-11-13T03:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Audient iD MK3 interfaces add RoomTune and onboard DSP",
-                "desc": "Audient’s third-gen iD interfaces add RoomTune monitor correction, onboard DSP FX and analogue tone shaping across four models.",
-                "image": "https://mixdownmag.com.au/wp-content/uploads/2026/11/Mixdown-header-image-edits.pdf-50.jpg",
-                "url": "https://mixdownmag.com.au/news/room-correction-comes-to-every-model-in-audients-redesigned-id-range/",
-                "source": "Mixdown Magazine",
-                "date": "2026-11-13T03:43:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Research advances quantum computing that harnesses speed of light",
-                "desc": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits.",
-                "image": "https://scx2.b-cdn.net/gfx/news/2026/purdue-professor-vladi.jpg",
-                "url": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
-                "source": "Phys.org",
-                "date": "2026-11-13T03:40:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "TCL Fresh Air Gains Sensitive Choice Approval",
-                "desc": "TCL Fresh Air technology earns Sensitive Choice approval from the National Asthma Council Australia, bringing filtered ventilation to P7 air conditioners.",
-                "image": "https://i0.wp.com/www.digitalreviews.net/wp-content/uploads/2026/11/tcl-fresh-air-p7-sensitive-choice.jpg?fit=1200%2C628&ssl=1",
-                "url": "https://www.digitalreviews.net/news/industry-news/tcl-fresh-air-sensitive-choice-approval/",
-                "source": "Digital Reviews Network",
-                "date": "2026-11-13T03:36:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NYT Strands hints, answers for November 12, 2026",
-                "desc": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
-                "image": "https://helios-i.mashable.com/imagery/articles/05XVX6vPIR8mgHHxh9VKyt2/hero-image.fill.size_1200x675.v1794408558.jpg",
-                "url": "https://mashable.com/entertainment/strands-nyt-hint-november-12-2026",
-                "source": "Mashable",
-                "date": "2026-11-13T03:31:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sony MDR-3R wired headphones priced at Php 3,999",
-                "desc": "Sony Philippines has revealed the official price of the MDR-3R wired headphones, which is at Php 3,999. It will be available from November 27 at Sony Centers and Sony Authorized Dealers nationwide. As a modern iteration of the Sony MDR-3 that was introduced alongside the Walkman TPS-L2 back in 1979, the MDR-3R retains the original […]",
-                "image": "https://unbox.ph/wp-content/uploads/2026/11/MDR-3R_ColourVari_InSituation_Earpadscustom_7_29_30_20260245-Large.jpeg",
-                "url": "https://unbox.ph/gadget/sony-mdr-3r-philippines-price/",
-                "source": "Unbox PH",
-                "date": "2026-11-13T03:27:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oppo confirms the Reno17 Pro's main camera and the chipsets powering it and the Reno17",
-                "desc": "The duo will become fully official on November 16. Oppo is fully unveiling the Reno17 and Reno17 Pro in China on November 16, and just yesterday the...",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-series-chipsets-confirmed/-952x498w6/gsmarena_000.jpg",
-                "url": "https://www.gsmarena.com/oppo_confirms_the_reno17_pros_main_camera_and_the_chipsets_powering_it_and_the_reno17-news-75462.php",
-                "source": "GSMArena.com",
-                "date": "2026-11-13T03:13:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oppo releases 7,400mAh phone with 120Hz AMOLED display in Europe",
-                "desc": "The Oppo A7 Pro 5G is now on sale in Europe. The mid-range Android phone features a 7,400mAh battery, up to 80W wired charging, and a 120Hz AMOLED display.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/oppo-a7-pro-5g-europe-news.png",
-                "url": "https://www.notebookcheck.net/Oppo-releases-7-400mAh-phone-with-120Hz-AMOLED-display-in-Europe.1448976.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-11-13T03:12:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Two children among eight dead in horror bus crash after ‘driver falls asleep at the wheel’ with 20 rushed to hospital",
+                "desc": "AT least eight people including two children have been killed after a bus crashed and overturned in Colombia.\nDozens were left injured in the...",
+                "image": "https://www.thesun.co.uk/wp-content/uploads/2026/11/crop-41025801.jpg?quality=90&strip=all&1794684739&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.co.uk/news/41025680/sleeping-driver-bus-crash-kills-eight/",
+                "source": "The Sun",
+                "date": "2026-11-14T19:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Thousands rally against COP31 as climate talks hit midpoint",
+                "desc": "The show of dissent comes as negotiators approach the crunch final week of global climate talks in Antalya. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/98de9585d51de994d29ea2e5443f873e93480a10f68f092126d7f486140d6be8?t=og",
+                "url": "https://www.straitstimes.com/world/middle-east/thousands-rally-against-cop31-as-climate-talks-hit-midpoint",
+                "source": "The Straits Times",
+                "date": "2026-11-14T19:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
+                "desc": "In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8ab157889-1794681621.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town",
+                "source": "Al Jazeera",
+                "date": "2026-11-14T19:24:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FAA ground stop live updates: 'Zero evidence of anything nefarious,' FAA head says",
+                "desc": "The DHS secretary said there were no indications of a cyberattack.",
+                "image": "https://i.abcnewsfe.com/a/98f50973-2d87-4a05-ae84-d793716ff53a/bedford-presser-rt-jt-261114_1794673426905_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-11-14T19:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pentagon Pete’s New Project Slammed as Brazen Self-Dealing",
+                "desc": "Pete Hegseth’s latest brainchild is accused of serving as a flagrant money-making scheme for billionaires.",
+                "image": "https://media.thedailybeast.com/resizer/v2/X74XMJVOLNG6RHDQLBUYOVAGUY.jpg?auth=75500dd1822b5d45b52135933b65c8af2a67d8b04501076680acf1fcfdf7ce05&width=1200&height=630&focal=1460%2C821",
+                "url": "https://www.thedailybeast.com/pentagon-pete-hegseths-new-project-slammed-as-brazen-self-dealing-in-lawsuit",
+                "source": "The Daily Beast",
+                "date": "2026-11-14T19:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Punishment Campaign",
+                "desc": "On the US midterms.",
+                "image": "https://newleftreview.org/blog-uploads/2026/11/for-grey.jpg",
+                "url": "https://newleftreview.org/sidecar/posts/punishment-campaign",
+                "source": "New Left Review",
+                "date": "2026-11-14T19:11:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
+                "desc": "Ukrainian President Volodymyr Zelenskyy said the United States had raised the possibility of a new security framework for Europe as part of efforts to end Russia’s war in Ukraine, warning that Moscow could use such discussions to weaken NATO and reshape the continent’s borders.",
+                "image": "https://i.cbc.ca/ais/0b445307-3812-446b-9e80-b62d4ecf585b,1794677219777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C271%2C4122%2C2318%29%3BResize%3D620",
+                "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273",
+                "source": "CBC",
+                "date": "2026-11-14T19:06:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+                "desc": "Philippine’s entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok",
+                "image": "https://i.guim.co.uk/img/media/e086ead12105dc2c27d05464ce6db1d81b380886/300_0_3206_2564/master/3206.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f4f4e1e33604925a109fe90d3f5e91e",
+                "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+                "source": "The Guardian",
+                "date": "2026-11-14T19:04:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran state TV says modified missile could reach US base in Britain",
+                "desc": "Iranian state television has warned that modified versions of the country's Khorramshahr ballistic missile could reach American military bases in Europe, explicitly naming RAF Fairford in Britain as a potential target.",
+                "image": "https://i.iranintl.com/images/rdk9umy0/production/ac8bf211c1d474e8cd42767b69b4a8b689f66502-800x450.jpg?rect=46,48,677,355&w=1200&h=630&q=66&fit=max&auto=format",
+                "url": "https://www.iranintl.com/en/202611141458",
+                "source": "Iran International",
+                "date": "2026-11-14T19:04:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Scientists Issue 'Words of Warning' After Strange Discovery in Danish Skeletons",
+                "desc": "There's something strange about some of the skeletons buried in monasteries in Denmark.",
+                "image": "https://www.sciencealert.com/images/2026/11/skeleton.jpg",
+                "url": "https://www.sciencealert.com/scientists-issue-words-of-warning-after-strange-discovery-in-danish-skeletons",
+                "source": "ScienceAlert",
+                "date": "2026-11-14T19:02:09Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
                 "desc": "The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.",
@@ -1806,98 +1896,8 @@
                 "source": "Diplomacy and Law",
                 "date": "2026-11-13T10:01:55Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "28 Foreigners Detained in Bali Over Suspected Investment Scam",
-                "desc": "Just another WordPress site",
-                "image": "https://thebalitimes.com/wp-content/uploads/2026/11/IMG-20261112.jpeg",
-                "url": "https://thebalitimes.com/the-island/28-foreigners-detained-in-bali-over-suspected-investment-scam/",
-                "source": "The Bali Times",
-                "date": "2026-11-13T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This Week in Peace #150: November 13",
-                "desc": "This week, Ukraine leader describes first day of peace talks as “constructive.” Security council meets ahead of South Sudan Elections.",
-                "image": "https://i0.wp.com/peacenews.com/wp-content/uploads/2026/11/pexels-yfs-visuals-921252577-19965889-scaled.jpg?fit=2560%2C1728&ssl=1",
-                "url": "https://peacenews.com/this-week-in-peace-150-november-13/",
-                "source": "Peace News Network",
-                "date": "2026-11-13T04:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "One dead, four injured after gunman opens fire in Washington, DC",
-                "desc": "The gunman – who shot himself inside an apartment – was later identified by media outlets as 55-year-old doctor Matt Lambert, who had been in a dispute with property managers about black mould.",
-                "image": "https://static.ffx.io/images/$zoom_0.31980037772511416%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_143%2C$y_20/t_crop_custom/q_86%2Cf_auto/1b446e8ec7188bf205ff1d92805568efa96c6edd",
-                "url": "https://www.theage.com.au/world/north-america/five-shot-in-washington-dc-active-shooter-barricaded-inside-building-20261113-p61dtn.html",
-                "source": "The Age",
-                "date": "2026-11-13T03:56:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft outage hits Outlook and Teams worldwide",
-                "desc": "A Microsoft outage disrupted Outlook and Teams worldwide, with reports from scores of countries and territories.",
-                "image": "https://static.dw.com/image/79935547_6.jpg",
-                "url": "https://www.dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611",
-                "source": "DW.com",
-                "date": "2026-11-13T03:54:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Van Hollen to challenge Schumer for Senate majority leader : NPR",
-                "desc": "Van Hollen, a progressive from Maryland, said voters sent a clear message in the midterm elections — that they want \"change from the status quo.\"",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4811x2706+0+291/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2Fdd%2F332d58b44e4e9507fa1047877405%2Fgettyimages-2288943476.jpg",
-                "url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
-                "source": "NPR",
-                "date": "2026-11-13T03:52:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia's Cummins says Khawaja '100 percent wrong' on 'Sandpapergate'",
-                "desc": "Pat Cummins on Friday said Usman Khawaja was \"100 percent wrong\" in claiming the whole team knew about Sandpapergate, prompting David Warner to accuse the Australia captain of throwing the former opener \"under the bus\".\"When he says we all knew, if by that he means we knew sandpaper was going out on the field, he's 100 percent wrong,\" Cummins said at a press conference lasting more than an  hour.",
-                "image": "https://s.yimg.com/lo/mysterio/api/ac9880345cca93cb6e7cdebb89f5b039dd71089bec3fc6cf49960f7d86b0fd95/lightyear_networkapi/resizefill_w768_h511%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.co.uk%2Fa17af6bcc57a9b256543f1cc0dfef5e3.jpg",
-                "url": "https://uk.sports.yahoo.com/news/australias-cummins-says-khawaja-100-035158402.html",
-                "source": "Yahoo",
-                "date": "2026-11-13T03:51:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anwar ranked 13th in 2027 list of World's 500 Most Influential Muslims",
-                "desc": "PM recognised as one of the world's most outspoken heads of state.",
-                "image": "https://s.malaysiakini.com/i/OanwHfG9R9rY5vgueGrCd4njXSA=/1200x0/filters:strip_exif()/file/attachments/orphans/AnwarIbrahim3_831221.jpg",
-                "url": "https://www.malaysiakini.com/news/889010-anwar-ranked-13th-in-2027-list-of-worlds-500-most-influential-muslims",
-                "source": "Malaysiakini",
-                "date": "2026-11-13T03:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AIPA-47 to advance ASEAN unity, with Vietnam making active contributions",
-                "desc": "The 47th General Assembly of the ASEAN Inter-Parliamentary Assembly (AIPA) is expected to strengthen regional parliamentary cooperation amid global uncertainties, with Vietnam contributing four draft resolutions and continuing its active role in the organisation, AIPA Secretary-General Chem Widhya has said.",
-                "image": "https://media.vov.vn/sites/default/files/styles/og_image_en/public/2026-11/aipa-secretary-general-chem-widhya.jpg?v=1794541414",
-                "url": "https://english.vov.vn/en/politics/diplomacy/aipa-47-to-advance-asean-unity-with-vietnam-making-active-contributions-post1349855.vov",
-                "source": "VOV.VN",
-                "date": "2026-11-13T03:42:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine war briefing: Europe to join negotiations, says Kushner, as Putin warns against peace keepers",
-                "desc": "Jared Kushner says move will allow talks to address ‘broader postwar European security arrangements’; Putin refuses to soften territorial demands. What we know on day 1,724",
-                "image": "https://i.guim.co.uk/img/media/9275193db2b3e79a65eb9ec51a5b8de8db3a9b29/463_0_5701_4563/master/5701.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=57efa717f0c7ca00c7c197c3deb800f6",
-                "url": "https://www.theguardian.com/world/2026/nov/13/ukraine-war-briefing-europe-to-join-negotiations-says-kushner-as-putin-warns-against-peace-keepers",
-                "source": "The Guardian",
-                "date": "2026-11-13T03:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indigenous women leading the way",
-                "desc": "The achievements of Indigenous women are in the global spotlight, from federal, state and tribal elections in the United States, to climate negotiations now underway at COP31 in Türkiye, as well as in many other spheres.",
-                "image": "https://www.croakey.org/wp-content/uploads/2026/11/AIATSISPicture.png",
-                "url": "https://www.croakey.org/indigenous-women-leading-the-way/",
-                "source": "Croakey Health Media",
-                "date": "2026-11-13T03:39:27Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-15T00:57:26.690850Z"
+    "lastGlobalSync": "2026-11-15T07:45:07.780809Z"
 }
