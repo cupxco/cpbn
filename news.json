@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Cursor Confirms Breach: Stolen Fireworks AI Key Let Hackers Poison Claude Code Extension for Up to 5,000 Users",
+                "desc": "Cursor disclosed that a leaked access key issued to vendor Fireworks AI allowed an attacker to copy coding agent traces from a shared storage bucket,…",
+                "image": "https://img.biggo.com/CIoEQj_Utax0YWQF20FE3w9GnGZ-QBKTzLVlERPP5Bw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzc3Nzc3MGY5LTE5ZjgtNGNmNi04YWM1LTNjYzU1MTM0NWVjN18xNzk0NzMxOTA1X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/777770f9-19f8-4cf6-8ac5-3cc551345ec7",
+                "source": "BigGo Finance",
+                "date": "2026-11-15T08:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Roast meat chef, 86, returns to work at People's Park",
+                "desc": "Cho Siew Wan, a roast meat chef with over 60 years of experience, has returned to work at 116 Shao La.",
+                "image": "https://cassette.sphdigital.com.sg/image/stomp/8f20c65d1d0e26c1ab8b08a00857905f9055e3a46e0811a5e7864572f8beb1c3?t=og",
+                "url": "https://www.stomp.sg/trending-now/roast-meat-chef-86-returns-work-after-closing-chinatown-stall-i-can-go-another-4-or-5-years",
+                "source": "Stomp Singapore",
+                "date": "2026-11-15T08:31:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Who is Alice Huang? An elusive woman at centre of Nvidia scandal",
+                "desc": "Questions remain about the Chinese businesswoman and her relationship with Nvidia’s chief executive.",
+                "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/in-this-image-taken-from-video-provided-by-tvbs-alice-huang-UJH7HI6PJNFVXFXNRV46PTI67Y.jpg?auth=d67739fdb85d675b278109fdda26fe227aab7602d43843515b6b87f9c9f7a13e&quality=70&width=600&height=315&focal=689%2C299",
+                "url": "https://www.1news.co.nz/2026/11/15/who-is-alice-huang-an-elusive-woman-at-centre-of-nvidia-scandal/",
+                "source": "1News",
+                "date": "2026-11-15T08:31:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jim Cramer Calls It An Insult To NVIDIA’s 49,000 Employees To Think The Company Is Nothing Without The “Guy With A Leather Jacket,” Doubles Down On Support For Interim CEO",
+                "desc": "CNBC’s Jim Cramer appeared on CNN to defend NVIDIA’s 49,000 employees and express greater confidence in interim CEO Colette Kress than former chief Jensen Huang",
+                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Jim-Cramer.jpg",
+                "url": "https://wccftech.com/jim-cramer-calls-it-insult-to-nvidia-employees-nothing-without-jensen-huang/",
+                "source": "Wccftech",
+                "date": "2026-11-15T08:26:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe",
+                "desc": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108547469-1794318020972-gettyimages-2303987004-AFP_D6ZC9G8.jpeg?v=1794318066&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+                "source": "CNBC",
+                "date": "2026-11-15T08:20:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "RTÉ not removing 'wholly inappropriate' David Walliams Late Late exchange",
+                "desc": "RTÉ is allowing what was roundly slammed as a 'wholly inappropriate' clip of David Walliams' appearance on The Late Late Show to remain on its platforms as",
+                "image": "https://extra.ie/wp-content/uploads/2025/10/david-walliams-late-late-feat.jpg",
+                "url": "https://extra.ie/2026/11/15/entertainment/celebrity/david-walliams-late-late",
+                "source": "Extra.ie",
+                "date": "2026-11-15T08:18:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UK store closures in November as Co-op and Post Office counters shut",
+                "desc": "A city-centre Co-op is among those yet to close this November. Is your high street affected?",
+                "image": "https://i2-prod.mirror.co.uk/article37871672.ece/ALTERNATES/s1200d/0_TG-Jones-former-WH-Smith-shop-store-closing-down-Westgate-Street-Ipswich-Suffolk-England-UK.jpg",
+                "url": "https://www.mirror.co.uk/news/uk-news/stores-closing-november-high-street-37871673",
+                "source": "The Mirror",
+                "date": "2026-11-15T08:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Debt collectors pursue claims linked to Lao Huo Tang",
+                "desc": "Debt collectors pursue more than $2m in alleged unpaid supplier claims linked to Lao Huo Tang Group in Singapore. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c6df4aabab36ddc01431dd054eee5bc17bcb648ad1c2c94a2ef7ed9b2a3751d0?t=og",
+                "url": "https://www.straitstimes.com/business/we-will-chase-them-down-debt-collectors-pursue-claims-exceeding-2m-linked-to-lao-huo-tang",
+                "source": "The Straits Times",
+                "date": "2026-11-15T08:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Japan has seen a sharp price drop on flagship RTX 5090 and RTX 5080 graphics cards.",
+                "desc": "In Japan, retail prices for NVIDIA GeForce RTX 5090 and RTX 5080 graphics cards have dropped by up to 22,38%, thanks to new stock arrivals and slowing demand amid high prices.",
+                "image": "https://gamegpu.com/images/1_2026/NEWS/Q4/nov/15/HXGF_g-XoAAEetr_gamegpu.webp#joomlaImage://local-images/1_2026/NEWS/Q4/nov/15/HXGF_g-XoAAEetr_gamegpu.webp?width=1920&height=1080",
+                "url": "https://en.gamegpu.com/news/zhelezo/v-yaponii-zafiksirovano-rezkoe-snizhenie-tsen-na-flagmanskie-videokarty-rtx-5090-i-rtx-5080",
+                "source": "GameGPU",
+                "date": "2026-11-15T08:14:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Air purifiers and winter pollution: Doctor shares how to choose one, from room size to filter type",
+                "desc": "Fine particles such as PM2.5 can affect respiratory and cardiovascular health. A correctly sized HEPA purifier can improve indoor air. | Health",
+                "image": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/Dyson_Air_Purifier_1735037897203_1794728119187_Fhv2_73fd5161-54e5-4066-b5ec-c07da5d0ea6e_Rtpd.png",
+                "url": "https://www.hindustantimes.com/lifestyle/health/air-purifiers-and-winter-pollution-doctor-shares-how-to-choose-one-from-room-size-to-filter-type-101794724850366.html",
+                "source": "Hindustan Times",
+                "date": "2026-11-15T08:10:47Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "SpaceX pulls off first-ever spaceship 'catch'",
                 "desc": "Elon Musk's SpaceX pulled off the first-ever \"catch\" of a spaceship, a technical feat that shows the feasibility of fully reusable rockets and brings affordable spaceflight one step closer to reality.",
                 "image": "https://www.rte.ie/images/002557b0-1600.jpg",
@@ -542,99 +632,99 @@
                 "source": "NZ Herald",
                 "date": "2026-11-13T21:06:43Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Cerebras shares surge as forecast raise, surprise profit ease AI spending worries",
-                "desc": "Cerebras Systems' shares gained more than 14% in early trading on Friday, after the ​chipmaker raised its annual sales forecast and posted a ‌surprise profit, indicating momentum in its challenge to Nvidia in the AI chip market.",
-                "image": "https://www.reuters.com/resizer/v2/IHNKV4CEPRKZDETS72JNRH2KKE.jpg?auth=ef14b0dd8b23e6048b2f4e932717f54dc1b89038e8aad6a2f6b4118ced47477c&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/technology/cerebras-shares-surge-profit-surprise-forecast-raise-ease-ai-spending-worries-2026-11-13/",
-                "source": "Reuters",
-                "date": "2026-11-13T14:39:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenyan banks expand MSME loan book by 30% to Ksh 424B",
-                "desc": "Local commercial banks increased their lending to Micro Small and Medium Enterprises by 30% in nine months of the year to hit Ksh 424.7 billion as credit cost fell.",
-                "image": "https://www.kbc.co.ke/wp-content/uploads/2023/06/Shilling-assets.jpg",
-                "url": "https://www.kbc.co.ke/kenyan-banks-expand-msme-loan-book-by-30-to-ksh-424b/",
-                "source": "KBC Digital",
-                "date": "2026-11-13T14:38:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX Starship Flight 15 live updates: Giant Starship stacked for launch and 1st-ever double catch landing",
-                "desc": "Follow live updates as SpaceX attempts its Starship Flight 15 test flight with first double landings.",
-                "image": "https://cdn.mos.cms.futurecdn.net/2fNABsUbgKPo4vjvsuDM9C-2500-80.jpg",
-                "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
-                "source": "Space",
-                "date": "2026-11-13T14:35:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kraken Parent Payward Posts 12% Q3 Revenue Decline, Buoyed by Tokenized Stocks and AI Businesses",
-                "desc": "Kraken parent company Payward reported total platform margin of $487 million in the third quarter, down 12% year-over-year, while adjusted EBITDA came…",
-                "image": "https://img.biggo.com/r91S6zAODaoAinthk8i8tNHOgAj1ool9vRWNwv3Lc0c/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2YzMDNhNWVmLWQ2N2UtNDE5MC05MDg4LTgzOTVlMjkxOWYwZV8xNzk0NTgwOTg2X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/f303a5ef-d67e-4190-9088-8395e2919f0e",
-                "source": "BigGo Finance",
-                "date": "2026-11-13T14:35:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bessent blames Lutnick for failing to blacklist firm at heart of Nvidia scandal",
-                "desc": "Four U.S. agencies favoured adding China-linked Megaspeed to Commerce Department’s entity list, Treasury Secretary says",
-                "image": "https://www.theglobeandmail.com/resizer/v2/ZQA5BFU25ZHG3HZFFHKFACDCJM.JPG?auth=42da8eb262a20eb947033587078a0accb0b5b2867e9dc1b4b416660361e54e21&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-scott-bessent-howard-lutnick-chip-export-controls-nvidia-scandal/",
-                "source": "The Globe and Mail",
-                "date": "2026-11-13T14:34:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth",
-                "desc": "Goldman Sachs expects the benchmark S&P 500 to climb to 8,700 points over the next 12 months, as more attractive valuations ​following a recent sharp selloff should help equities deliver positive ‌returns despite slower earnings growth.",
-                "image": "https://www.reuters.com/resizer/v2/JMJ7VK5GSNM7BA3DKSLXA4OQ3I.jpg?auth=1cbe2b0c422f2b514991214ac0c28c06b45e83a59da0bb73b5070e98c6e19a02&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/goldman-sachs-sees-sp-500-rising-8700-next-year-despite-slower-earnings-growth-2026-11-13/",
-                "source": "Reuters",
-                "date": "2026-11-13T14:31:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Judge orders cognitive checks on Hermès heir who says his fortune was stolen, sources say",
-                "desc": "The Paris judge investigating the missing fortune of Hermès heir Nicolas Puech, who says he was fleeced of his 6% stake ‌in the luxury company, has ordered an assessment of his cognitive abilities, two people with direct knowledge of the decision said.",
-                "image": "https://www.reuters.com/resizer/v2/TGRSFRYX45PU5CRAZOBTLZYJHQ.jpg?auth=446ccb22c7257750821f6c01748307b9e8b2bdc3429b5a997ce85e9926b397fd&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/retail-consumer/judge-orders-cognitive-checks-on-herms-heir-who-says-his-fortune-was-stolen-2026-11-13/",
-                "source": "Reuters",
-                "date": "2026-11-13T14:29:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Plans advanced for major upgrade of Limerick railway line",
-                "desc": "Iarnród Éireann has signed a contract with engineering firms Jacobs and AECOM to advance plans for a major upgrade of the railway between Limerick Colbert and Limerick Junction.",
-                "image": "https://www.rte.ie/images/00253663-1600.jpg",
-                "url": "https://www.rte.ie/news/regional/2026/1113/1599124-limerick-junction/",
-                "source": "RTE.ie",
-                "date": "2026-11-13T14:27:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Modeling the binding of fused pyrazole inhibitors to p38α MAP kinase using CorrEA-guided ensemble docking",
-                "desc": "Mitogen-activated protein kinase p38α is an established therapeutic target implicated in inflammatory signaling and a variety of human diseases, including autoimmune disorders, cancer, and neurodegenerative conditions. Fused pyrazoles constitute an important family of ATP-competitive p38α inhibitors, displaying considerable structural diversity and a wide range of inhibitory activities. However, accurately describing inhibitor recognition remains challenging because the ATP-binding site of p38α is inherently flexible and cannot be fully represented by a single receptor conformation. Here, we constructed structural models for a series of 50 fused pyrazole inhibitors, comprising 1H-pyrazolo[3,4-b]pyridin-6(7H)-one (PPO) and 1H-pyrazolo[3,4-d]pyridazine (PPz) derivatives, by combining molecular dynamics (MD) simulations, ensemble docking, and the CorrEA methodology. Representative receptor conformations extracted from MD trajectories were used in cross-docking calculations, and the experimental potencies of the series were then supplied to CorrEA as selection criteria to retain, for each inhibitor, a single receptor–ligand complex from among the available docking solutions. The resulting models were examined through ligand pose comparisons, interaction fingerprint analysis, and characterization of conformational changes within the binding site. The ensemble model successfully described all inhibitors while preserving the canonical interaction pattern of ATP-competitive protein kinase inhibitors, revealing that subtle rearrangements of multiple binding-site residues collectively account for the observed differences in inhibitory potency. These findings illustrate how explicit incorporation of receptor flexibility improves the structural interpretation of structure–activity relationships and provide a practical strategy for modeling ligand recognition in flexible protein targets.",
-                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-                "url": "https://www.nature.com/articles/s41598-026-79947-4?error=cookies_not_supported&code=9092a9a9-6544-423c-9d66-ce263585733f",
-                "source": "Nature",
-                "date": "2026-11-13T14:26:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Billionaire KoGuan vows to stop buying Nvidia after Huang exit",
-                "desc": "Billionaire investor and Nvidia Corp shareholder Leo KoGuan expressed support for Jensen Huang on Friday and said he won’t increase his stake in the tech company with someone else at the helm.",
-                "image": "https://assets.theedgemarkets.com/Nvidia_after_Huang_exit_Bloomberg_20261113221712_Bloomberg.jpg",
-                "url": "https://theedgemalaysia.com/node/825707",
-                "source": "The Edge Malaysia",
-                "date": "2026-11-13T14:22:55Z",
-                "priority": "MAJOR_ALERT"
             }
         ],
         "technology": [
+            {
+                "title": "I recently tested the flagship Dreame X50 Ultra Complete robot vacuum and was impressed by its cleaning capabilities — and it's $200 off in this early Black Friday deal",
+                "desc": "After testing the Dreame X50 Ultra Complete, I've recommended it to family and friends, and it's just had a $200 price drop for Black Friday deals.",
+                "image": "https://cdn.mos.cms.futurecdn.net/afPcHo5nMuX3fvetew6mC9-1920-80.jpg",
+                "url": "https://www.tomsguide.com/home/home-appliances/i-recently-tested-the-flagship-dreame-x50-ultra-complete-robot-vacuum-and-was-impressed-by-its-cleaning-capabilities-and-it-has-a-usd200-price-drop-in-the-early-black-friday-deals",
+                "source": "Tom's Guide",
+                "date": "2026-11-15T08:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Samsung launches affordable smartphone with 50MP triple camera and 6 years of software updates",
+                "desc": "Samsung has launched the Galaxy A18 4G in Singapore with a MediaTek Helio G99+ processor. The smartphone features a 6.7-inch 90Hz Super AMOLED display, a 5,000mAh battery and three rear cameras.",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/samsung-galaxy-a18-color-options-2.png",
+                "url": "https://www.notebookcheck.net/Samsung-launches-affordable-smartphone-with-50MP-triple-camera-and-6-years-of-software-updates.1450454.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-11-15T08:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stop doing sit-ups - a yoga instructor and strength and conditioning coach recommends this exercise to work the core, hip flexors, and back muscles",
+                "desc": "Here's why the boat pose might be the ab move you probably shouldn't skip",
+                "image": "https://cdn.mos.cms.futurecdn.net/dSpCX2AQLeTQqg24hNAqnC-1615-80.jpg",
+                "url": "https://www.tomsguide.com/wellness/workouts/stop-doing-sit-ups-a-yoga-instructor-and-strength-and-conditioning-coach-recommends-this-exercise-to-work-the-core-hip-flexors-and-back-muscles",
+                "source": "Tom's Guide",
+                "date": "2026-11-15T08:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Garmin smartwatch plummets to new low price in early Black Friday deal on Amazon",
+                "desc": "Grab yourself a great deal on the Garmin Venu X1 smartwatch for a lot less thanks to this Amazon deal.",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/11/Garmin-smartwatch-plummets-to-new-low-price-in-early-Black-Friday-deal-on-Amazon.jpg",
+                "url": "https://www.pcguide.com/deals/garmin-smartwatch-plummets-to-new-low-price-in-early-black-friday-deal-on-amazon/",
+                "source": "PC Guide",
+                "date": "2026-11-15T08:10:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NYT Strands Answers Today Nov. 15, 2026: Spangram and Hints for Puzzle #987 as Gotham Villains Rule the Board",
+                "desc": "The New York Times' Sunday Strands puzzle, No. 987, features five Batman villains and the spangram BATMANVILLAIN under the theme \"Foiled again!\".",
+                "image": "https://d.ibtimes.com.au/en/full/1892738/strands.jpg",
+                "url": "https://www.ibtimes.com.au/nyt-strands-hints-answers-batman-villains-november-15-2026-1878588",
+                "source": "International Business Times Australia",
+                "date": "2026-11-15T08:09:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Naughty Dog's Intergalactic The Heretic Prophet has entered final production.",
+                "desc": "Neil Druckmann has confirmed that the sci-fi action game Intergalactic: The Heretic Prophet is now fully playable and in the final stages of polish, combining the best gameplay and storytelling from Naughty Dog's previous series.",
+                "image": "https://gamegpu.com/images/1_2026/NEWS/Q4/nov/15/aginqgaginqgagin_gamegpu.webp#joomlaImage://local-images/1_2026/NEWS/Q4/nov/15/aginqgaginqgagin_gamegpu.webp?width=1920&height=1080",
+                "url": "https://en.gamegpu.com/news/igry/intergalactic-the-heretic-prophet-ot-naughty-dog-pereshla-na-finalnuyu-stadiyu-proizvodstva",
+                "source": "GameGPU",
+                "date": "2026-11-15T08:05:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Firefight Officially Announced For Winter 2026",
+                "desc": "Halo: Campaign Evolved fans, get ready to team up and take on waves of enemies as Firefight comes in free update.",
+                "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/halo-campaign-evolved.jpg?w=1600&h=900&fit=crop",
+                "url": "https://screenrant.com/halo-studio-preps-fans-for-massive-winter-update/",
+                "source": "ScreenRant",
+                "date": "2026-11-15T08:00:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Marvel’s Wolverine was 3 changes away from getting its formula bang on",
+                "desc": "That slog of a first act aside, there's quite a lot to like 😅",
+                "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt8797d90b9a90e82d/6af738d83a20bbe88d534911/wolverine.png",
+                "url": "https://www.gamingbible.com/news/platform/playstation/marvels-wolverine-3-changes-away-getting-formula-bang-on-137988-20261113",
+                "source": "GAMINGbible",
+                "date": "2026-11-15T08:00:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pokémon Center launches glass Fire, Water, and Thunder Stone replicas",
+                "desc": "Pokémon Center just launched faceted glass replicas of the Fire Stone, Water Stone, and Thunder Stone for $89.99 each. Here is what comes in the box.",
+                "image": "https://helios-i.mashable.com/imagery/articles/00RpafRV5qukJtO7msYYUGW/hero-image.fill.size_1200x675.v1794572092.png",
+                "url": "https://mashable.com/life/pokemon-center-evolution-stone-replicas-where-to-buy",
+                "source": "Mashable",
+                "date": "2026-11-15T08:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Valve has expanded support for AMD and NVIDIA in the new SteamOS 3.10 update.",
+                "desc": "Valve has released a benchmark build of SteamOS 3.10 Preview with HDMI 2.1 support for AMD graphics, Mesh Shader technology for NVIDIA RTX graphics cards, Linux kernel 7.3, and a number of fixes for portable consoles.",
+                "image": "https://gamegpu.com/images/1_2026/NEWS/Q4/nov/15/e_gloialgloialgloi_gamegpu.webp#joomlaImage://local-images/1_2026/NEWS/Q4/nov/15/e_gloialgloialgloi_gamegpu.webp?width=1920&height=1080",
+                "url": "https://en.gamegpu.com/news/zhelezo/valve-rasshirila-podderzhku-amd-i-nvidia-v-novom-obnovlenii-steamos-3-10",
+                "source": "GameGPU",
+                "date": "2026-11-15T07:49:56Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Fallout: New Vegas players cruise the Mojave in style thanks to free Halo crossover",
                 "desc": "Since Xbox owns both IPs, this could be an official collab one day...",
@@ -1174,99 +1264,99 @@
                 "source": "CNET",
                 "date": "2026-11-13T21:00:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Vulnerability Bulletins TLP WHITE: Critical Heap Corruption and Remote Code Execution Vulnerability in Apache HTTP/2 (CVE-2026-119618)",
-                "desc": "The Apache Software Foundation has fixed a critical vulnerability, tracked as CVE-2026-119618, in the mod_http2 module of the Apache HTTP Server.",
-                "image": "https://www.aha.org/themes/custom/aha/images/AHA-Logo.png",
-                "url": "https://www.aha.org/h-isac-green-reports/2026-11-13-vulnerability-bulletins-tlp-white-critical-heap-corruption-and-remote-code-execution",
-                "source": "American Hospital Association",
-                "date": "2026-11-13T14:41:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UFC Fans Get New Way to Follow Live Fights on Their iPhones",
-                "desc": "Apple Sports Adds UFC Coverage Ahead of UFC 334",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_182,w_5556,h_3125/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/mma_knockout/01m7an0jkzazr33hz6jm.jpg",
-                "url": "https://www.si.com/fannation/mma/news/ufc-fans-get-new-way-to-follow-live-fights-on-their-iphones",
-                "source": "Sports Illustrated",
-                "date": "2026-11-13T14:40:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grand Theft Auto 6 Needs 212GB of Space. Be Ready With These Black Friday SSD Upgrades",
-                "desc": "Get ready for the biggest game of the decade with a storage upgrade for your PS5.",
-                "image": "https://www.cnet.com/wp-content/uploads/sites/2/Three-SSDs-on-a-purple-background.jpg",
-                "url": "https://www.cnet.com/tech/gaming/grand-theft-auto-gta-6-ps5-xbox-ssd-black-friday-deals/",
-                "source": "CNET",
-                "date": "2026-11-13T14:38:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tactical adventure Guild Saga: Vanished Worlds launches on PS5 in May 2027",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2024/10/092158-ad10a11c/Guild_Saga_PNG72-05_(1).png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=80dd8da9ad727b152078073a4f0fbd026c03c02a12d91a306e3d7c78986956ff",
-                "url": "https://www.gamespress.com/Tactical-adventure-Guild-Saga-Vanished-Worlds-launches-on-PS5-in-May-2",
-                "source": "Games Press",
-                "date": "2026-11-13T14:37:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Tin Hearts Marches onto Meta Quest on December 3rd!",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/11/131347-0878034d/Christmas_TH_Keyart_16x9-4k.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=04331c13e16c262a3236a6242fe4280ad634f7d3e0df72922475740798a63de2",
-                "url": "https://www.gamespress.com/Tin-Hearts-Marches-onto-Meta-Quest-on-December-3rd",
-                "source": "Games Press",
-                "date": "2026-11-13T14:36:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Costco Black Friday 2026: See the ad and early deals",
-                "desc": "Costco’s Black Friday 2026 ad scans are out. Check the holiday dates, warehouse hours, and early member deals live right now on headphones and robot vacuums.",
-                "image": "https://helios-i.mashable.com/imagery/articles/05BN6buvXzOuNkD4THHRthe/hero-image.fill.size_1200x675.v1794498613.png",
-                "url": "https://mashable.com/tech/costco-black-friday-ad-scan-early-deals-2026",
-                "source": "Mashable",
-                "date": "2026-11-13T14:33:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Friday Debrief: SCSW Dry Bags, Bikepacking Scotland, New Feedback Tools, Forbidden Heathen, and More…",
-                "desc": "This week’s Debrief features the Forbidden Heathen, an Audax bag, new pumps and tools from Feedback Sports, events to follow, and more...",
-                "image": "https://bikepacking.com/wp-content/uploads/2026/11/Debrief-247_Main.jpg",
-                "url": "https://bikepacking.com/news/friday-debrief-247/",
-                "source": "BIKEPACKING.com",
-                "date": "2026-11-13T14:32:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "MEDIA ALERT: ‘Dreadline Express’ Lands Two Nominations at The Horror Game Awards 2026",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/09/281724-5ab08c40/dreadlineexpress_keyart.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=2bd09ed817fd710d24a09de5fa81e0da77b368fbf792c6cbe9fdb720ea823da4",
-                "url": "https://www.gamespress.com/MEDIA-ALERT-Dreadline-Express-Lands-Two-Nominations-at-The-Horror-Game",
-                "source": "Games Press",
-                "date": "2026-11-13T14:32:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Myth of Empires: Throne takes warfare to the skies with free Season 4 update launching 20 November",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/11/131234-bb43b0cb/920-430en.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=2dd8e386a042dcca2475c5c0fcc0a7ab96d33823b1f478bf25b8ba1bdcec71c3",
-                "url": "https://www.gamespress.com/Myth-of-Empires-Throne-takes-warfare-to-the-skies-with-free-Season-4-u",
-                "source": "Games Press",
-                "date": "2026-11-13T14:32:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Island Keeper Launches on PC via Steam on January 21, 2027",
-                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-                "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/11/131227-d89b7c5d/island_keeper_coming_gamepress.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=0ada6eaa82861d375d662b4427f8aaebc066ad8d68051bfe96f7e6fc89747795",
-                "url": "https://www.gamespress.com/en-US/Island-Keeper-Launches-on-PC-via-Steam-on-January-21-2027",
-                "source": "Games Press",
-                "date": "2026-11-13T14:32:07Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Japan to propose Asian version of IEA at AZEC summit",
+                "desc": "The Takaichi administration aims to strengthen Asia’s energy supply chains, whose vulnerability was exposed during the ongoing Middle East turmoil.",
+                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574128.jpg?v=3.1",
+                "url": "https://www.japantimes.co.jp/news/2026/11/15/japan/politics/japan-iea-asian-version/",
+                "source": "The Japan Times",
+                "date": "2026-11-15T08:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Yemeni government force retreats from strait in major setback in war against Houthis",
+                "desc": "Nov 15 - Yemeni government forces announced on Sunday they were withdrawing from the area near the Bab el-Mandeb Strait to focus on a defence of their main base in Aden, in a major setback for the Saudi-backed campaign against the Iran-aligned Houthis. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9c1737634b260f20b545973161e0b9f0672a79be8285d330f44a762465f8cfc7?t=og",
+                "url": "https://www.straitstimes.com/world/middle-east/yemen-government-forces-withdraw-from-area-near-bab-el-mandeb-strait-houthis-in-control",
+                "source": "The Straits Times",
+                "date": "2026-11-15T08:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From kidneys to body tissues: Desperate Iranians put organs up for sale as war drags on, claims report",
+                "desc": "Iran's worsening economic crisis is pushing some residents to desperate lengths, with people offering to sell multiple organs and body tissues, including",
+                "image": "https://static.toiimg.com/thumb/msid-135850943,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/world/middle-east/from-kidneys-to-body-tissues-desperate-iranians-put-organs-up-for-sale-as-war-drags-on/articleshow/135850867.cms",
+                "source": "The Times of India",
+                "date": "2026-11-15T08:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Deal With Them Their Way’: Baloch Liberation Army Appoints Ex-Pakistan Army Captain Rehman Gul As Commander-In-Chief",
+                "desc": "Rehman Gul’s elevation to the top post is being viewed by security observers as a calculated move by the insurgent group to leverage insider military expertise against Islamabad",
+                "image": "https://images.news18.com/ibnlive/uploads/2026/11/new-1-2026-11-90fba095e407cfc2b1c257699abc860a-1200x675.jpg",
+                "url": "https://www.news18.com/world/deal-with-them-their-way-baloch-liberation-army-appoints-former-pakistan-army-captain-rehman-gul-as-new-commander-in-chief-ws-klrt-10426374.html",
+                "source": "News18",
+                "date": "2026-11-15T08:25:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+                "desc": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg",
+                "url": "https://www.bbc.com/news/articles/cqrkg4r6mg7xo",
+                "source": "BBC",
+                "date": "2026-11-15T08:17:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+                "desc": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo",
+                "source": "BBC",
+                "date": "2026-11-15T08:17:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jordan sentences three men to death by hanging after deadly church attack",
+                "desc": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T072839Z_1337625626_RC2H9OAP3SJS_RTRMADP_3_JORDAN-CHURCH-1792845520.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack",
+                "source": "Al Jazeera",
+                "date": "2026-11-15T08:17:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dr M says Pejuang’s formation vindicated by political developments",
+                "desc": "Pejuang was founded in August 2020 by Dr Mahathir Mohamad and a group of associates after they were sacked or ousted from Bersatu.",
+                "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/04/287ec1df-tun-dr-mahathir-mohamad-fmt-interview-15.webp",
+                "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/15/dr-m-says-pejuang-s-formation-vindicated-by-political-developments",
+                "source": "Free Malaysia Today",
+                "date": "2026-11-15T08:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Macron urges unity as Francophonie summit opens in Cambodia",
+                "desc": "Leaders of French-speaking nations gathered in Phnom Penh as a row over who should lead the Francophonie and Congo’s threat to quit put pressure on Macron to broker consensus.",
+                "image": "https://static.dw.com/image/79951354_6.jpg",
+                "url": "https://www.dw.com/en/macron-urges-unity-as-francophonie-summit-opens-in-cambodia/a-79951201",
+                "source": "DW.com",
+                "date": "2026-11-15T08:15:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Deepen integration to navigate an uncertain world, PM Wong tells ASEAN leaders",
+                "desc": "MANILA - ASEAN can expect more turbulence and storms ahead in an increasingly uncertain world, but as long as the grouping remains cohesive and united, it can navigate its path forward and emerge stro...",
+                "image": "https://s.yimg.com/lo/mysterio/api/636c4d280e6e45902380135842c5c39611d7a311b162a6188dfdd6d9b08c425c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstraits_times_442%2F8575c7a285d966111f9c77043d38c42e",
+                "url": "https://sg.news.yahoo.com/deepen-integration-navigate-uncertain-world-081241517.html",
+                "source": "Yahoo News Singapore",
+                "date": "2026-11-15T08:12:41Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
                 "desc": "Fighting escalates in Yemen’s Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
@@ -1806,98 +1896,8 @@
                 "source": "BigGo Finance",
                 "date": "2026-11-13T21:11:09Z",
                 "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Sky News apologises to Kneecap over remarks",
-                "desc": "Sky News has apologised to Belfast rap trio Kneecap over \"unfounded\" remarks made by a contributor about the alleged use of legal action to silence criticism.",
-                "image": "https://www.rte.ie/images/0023cfa1-1600.jpg",
-                "url": "https://www.rte.ie/entertainment/2026/1113/1599126-sky-news-apologises-to-kneecap-over-remarks/",
-                "source": "RTE.ie",
-                "date": "2026-11-13T14:39:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vance considers pulling out of 2028 run for president",
-                "desc": "Trump’s deputy may sit out next White House race then seek comeback after end of unpopular Iran war",
-                "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/11/13/TELEMMGLPICT000511468131_17945766034410_trans_NvBQzQNjv4Bqq26TX-rkvwwXA2f8oBGFwmJoXaIvubr1VJ_EGf3sIxc.jpeg?impolicy=OG-Standard",
-                "url": "https://www.telegraph.co.uk/us/politics/2026/11/13/vance-considers-pulling-out-2028-run-president-election-war/",
-                "source": "The Telegraph",
-                "date": "2026-11-13T14:37:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The moment Zelensky came clean about conscription in Dublin",
-                "desc": "And he said European leaders had already raised the subject with him, saying: \"we have to think to how to find an instrument\" in order to \"send them back\".",
-                "image": "https://gript.ie/wp-content/uploads/2026/11/THUMBNAIL_-copy-2.jpg",
-                "url": "https://gript.ie/the-moment-zelensky-came-clean-about-conscription-in-dublin/",
-                "source": "Gript",
-                "date": "2026-11-13T14:36:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wife reveals horror of waking to being raped by stranger",
-                "desc": "A UK wife has bravely come forward to detail the horrific moments she realized her husband was drugging her to be raped by strangers.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148619609.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/11/13/us-news/wife-reveals-horror-of-waking-to-being-raped-by-stranger-as-husband-watched-and-filmed/",
-                "source": "New York Post",
-                "date": "2026-11-13T14:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New report calls for labour representation and social dialogue in Canada’s Seasonal Agricultural Worker Program",
-                "desc": "TORONTO, Nov. 13, 2026 (GLOBE NEWSWIRE) -- The International Union of Food, Agricultural, Hotel, Restaurant, Catering, Tobacco and Allied Workers’ Associations (IUF) and UFCW Canada have released a new report: A Voice at the Table: Advancing Decent Work Through Social Dialogue in Canada’s Seasonal Agricultural Worker Program.",
-                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/13/1307233.png",
-                "url": "https://www.manilatimes.net/2026/11/13/tmt-newswire/globenewswire/new-report-calls-for-labour-representation-and-social-dialogue-in-canadas-seasonal-agricultural-worker-program/2469709",
-                "source": "The Manila Times",
-                "date": "2026-11-13T14:35:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Bessent blames Lutnick for failing to blacklist firm at heart of Nvidia scandal",
-                "desc": "Four U.S. agencies favoured adding China-linked Megaspeed to Commerce Department’s entity list, Treasury Secretary says",
-                "image": "https://www.theglobeandmail.com/resizer/v2/ZQA5BFU25ZHG3HZFFHKFACDCJM.JPG?auth=42da8eb262a20eb947033587078a0accb0b5b2867e9dc1b4b416660361e54e21&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/business/article-scott-bessent-howard-lutnick-chip-export-controls-nvidia-scandal/",
-                "source": "The Globe and Mail",
-                "date": "2026-11-13T14:34:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Suicide car bombing at security checkpoint in Pakistan kills 5, injures 13",
-                "desc": "At least 5 people have been reported dead and 13 injured after a car bombing at a security checkpoint in Pakistan’s Balochistan province, a security",
-                "image": "https://static.toiimg.com/thumb/msid-135807070,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/world/pakistan/suicide-car-bombing-at-security-checkpoint-in-pakistan-kills-5-injures-13/articleshow/135806931.cms",
-                "source": "The Times of India",
-                "date": "2026-11-13T14:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Surprise US-Ukraine talks saw armed convoy transport Jared Kushner across Dublin",
-                "desc": "‘We weren’t aware of it,’ said Garda Commissioner of meeting between Volodymyr Zelenskiy and US envoys",
-                "image": "https://www.irishtimes.com/resizer/v2/NGUIMNESJR2AVHYXSGNQQXMHFE.jpg?smart=true&auth=f18896ea3e5963272fd17b8a5225d02c08eb08c3089b874c7106c1f5dee5e164&width=1200&height=630",
-                "url": "https://www.irishtimes.com/ireland/2026/11/13/garda-anti-drone-teams-and-snipers-sprang-into-action-for-surprise-us-ukraine-talks/",
-                "source": "The Irish Times",
-                "date": "2026-11-13T14:33:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine Has Already Struck 12 Russian Ballistic Missile Launchers, Defense Minister Reveals",
-                "desc": "Ukrainian Defense Minister Khmara says 12 Russian ballistic missile launchers have been struck inside Russia, disrupting Moscow's missile attacks.",
-                "image": "https://storage.united24media.com/og/b/1a/44e4c85a33e878450310cac5f8abb1ab.jpg",
-                "url": "https://united24media.com/war-in-ukraine/ukraine-has-already-struck-12-russian-ballistic-missile-launchers-defense-minister-reveals-24356",
-                "source": "UNITED24 Media",
-                "date": "2026-11-13T14:32:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine fires nearly 1,200 drones at Russia as U.S.-led talks consider wider European security",
-                "desc": "Kushner says Russia has agreed to include Europe in upcoming talks, after Moscow’s long insistence that the continent’s governments should be excluded",
-                "image": "https://www.theglobeandmail.com/resizer/v2/DO2GCN5GUNCYFAJC524CA33DPQ.jpg?auth=09d9677cb89d186c4b0e69492717c18d13d98d25439fb7a82f9c8e8e2c90ddc6&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/world/article-russia-ukraine-us-led-talks-european-security/",
-                "source": "The Globe and Mail",
-                "date": "2026-11-13T14:31:04Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-15T15:00:13.871186Z"
+    "lastGlobalSync": "2026-11-15T20:35:42.776092Z"
 }
