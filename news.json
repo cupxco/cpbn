@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "A hierarchical resilient tri-level energy management for islanded multi-energy system with risk-aware learning-in-the-loop RL algorithm",
+                "desc": "Coordinated energy management is crucial for the effective operation of integrated multi-energy systems (IMESs), which integrate water, heat, and electricity networks. The primary objectives of this coordination include reducing operational costs, minimizing hazards, and ensuring a reliable supply of energy. Traditional methodologies tend to address these objectives within a singular optimization framework, which often constrains their capacity to accommodate the distinct operational requirements associated with economic scheduling, vulnerability assessment, and service restoration. This study investigates the potential for enhancing system performance by dispersing these objectives into three interconnected decision-making tiers and coordinating their outputs throughout the operational phase. At the highest level, Particle Swarm Optimization (PSO) is utilized to facilitate operational decisions that improve energy supply and service restoration during disruptions. The intermediate level employs a sensitivity-based risk assessment to pinpoint vulnerable system components and evaluate their effects on operational performance. At the foundational level, resources pertaining to power, heat, water, storage, and energy conversion are scheduled through Mixed-Integer Linear Programming (MILP), which integrates resilience and risk outcomes as operational constraints and decision-making priorities. Furthermore, a Reinforcement Learning (RL) agent manages real-time operations by coordinating the outputs from these three levels, dynamically adjusting operational choices based on prevailing system conditions. This hierarchical flow of information enables resilience requirements and vulnerability assessments to inform economic scheduling without conflating all objectives into a single optimization problem. Simulations conducted on an IMES reveal that the proposed framework enhances energy supply during disruptions by 35.14% and reduces daily operating costs by 13.79% when compared to traditional benchmark approaches. These findings suggest that the proposed structure improves supply continuity and economic efficiency while effectively addressing operational vulnerabilities and network limitations.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-77395-8?error=cookies_not_supported&code=f7589356-a9e6-4ced-ac42-ab2bb6c9856a",
+                "source": "Nature",
+                "date": "2026-11-18T19:57:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fed minutes: Officials favored holding rates steady in October, but they see hikes ahead",
+                "desc": "Almost all members of the Federal Reserve favored raising interest rates in the future, even as they decided to hold rates steady in October, according to minutes from the central bank's last policy meeting released Wednesday.",
+                "image": "https://s.yimg.com/lo/mysterio/api/e271da7c6f9ba101287c63911445235d0a48a216829a793d08be1ec32461734d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F83a6869a-ae09-4fdd-aca6-554fe0c61f81",
+                "url": "https://finance.yahoo.com/economy/policy/article/fed-minutes-officials-favored-holding-rates-steady-in-october-but-they-see-hikes-ahead-195719301.html",
+                "source": "Yahoo Finance",
+                "date": "2026-11-18T19:57:19Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Genome-wide association analysis and genomics-assisted prediction of seed productivity traits in Spinach (Spinacia oleracea L.)",
+                "desc": "Understanding the genetic basis of reproductive traits can help improve spinach (Spinacia oleracea L.) seed productivity. We evaluated a diversity panel in Chimacum, Washington, during the 2023 season using genome-wide association analysis and genomic prediction. Analyses used 86,049 single-nucleotide polymorphisms, with 227 accessions for days to flowering and gender distribution and 195 for seed yield per female plant. The strongest associations were at SOVchr3_49591612, SOVchr2_3481334, and SOVchr3_1006345, with maximum − log₁₀(P) values of 11.95, 12.04, and 12.80, respectively. Positional candidates included SAP18 for flowering, a BURP domain-containing protein, and pollen-specific SF21 for yield, and a TPX2/importin domain-containing protein for gender distribution. Across 100 repeated holdouts, the highest reported mean predictive correlations were 0.636, 0.641, and 0.478 for the respective 20-, five-, and seven-marker panels. Because marker selection preceded resampling, these estimates describe predictive ability conditional on fixed panels rather than independent validation of marker discovery. Together, the associations, candidate annotations, and compact marker panels provide a focused framework for investigating reproductive timing, female seed productivity, and field gender balance, prioritizing genomic targets for fine mapping and marker validation in spinach breeding.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-80397-1?error=cookies_not_supported&code=388f8eb0-7309-4503-bfb6-9ef4f8fd8e4d",
+                "source": "Nature",
+                "date": "2026-11-18T19:57:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Waymo robotaxi ploughs through rail crossing barrier, trapped on tracks San Diego",
+                "desc": "A driverless car has been filmed narrowly avoiding disaster, reversing straight through a railway crossing barrier in San Diego, California.",
+                "image": "https://content.api.news/v3/images/bin/d8e532505476ab86c458a2fb96690463",
+                "url": "https://www.news.com.au/technology/motoring/motoring-news/dramatic-video-captures-waymo-robotaxi-trapped-on-train-tracks-ploughing-through-rail-barrier/news-story/571620ab193fd36765a9f4b4d1015f13",
+                "source": "News.com.au",
+                "date": "2026-11-18T19:56:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A benchmark for elevator fault diagnosis: Multi-level tasks from perception to diagnostic reasoning",
+                "desc": "Elevator fault diagnosis is a safety-critical problem that requires capabilities beyond isolated fault classification, including knowledge grounding and structured reasoning for maintenance support. In this work, we present a benchmark for elevator fault diagnosis and organize evaluation into three complementary task groups: (A) sensor-based fault detection and classification, (B) taxonomy-grounded fault classification and cause identification, and (C) reasoning with incomplete or constrained information. To enable reproducible comparison across heterogeneous model families, we standardize task definitions, input/output formats, and scoring protocols and report component-level predictive metrics. Experiments across representative language models show task-dependent performance: higher performance on one task does not necessarily transfer to another. The benchmark is a reproducible testbed for studying diagnostic-assistance methods, not a validation of safe operational deployment.",
+                "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0362972.g003&size=inline",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362972",
+                "source": "PLOS",
+                "date": "2026-11-18T19:53:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Misinformation-based preventive behaviors during the COVID-19 pandemic in Myanmar: A cross-sectional study",
+                "desc": "Widespread misinformation influenced public understanding of disease risk and preventive behaviors during the COVID-19 pandemic, particularly in low-resource and conflict-affected settings such as Myanmar. Although preventive behaviors were generally protective, some actions driven by misinformation may have been ineffective or harmful. Evidence on determinants of misinformation-based preventive behaviors remained limited. This study aimed to examine associations between misinformation-based preventive behaviors (MPB) and sociodemographic characteristics, information sources, social media use, and health belief factors in Myanmar. A cross-sectional online survey was conducted among adults residing in Myanmar, with data collected between March and May 2024. Participants were asked to retrospectively report their preventive behaviors during the COVID-19 pandemic period (2020–2022). Data were collected using a structured questionnaire adapted from previous COVID-19 studies. The outcome variable was misinformation-based preventive behaviors, categorized as low (0–2 behaviors) and high (3–4 behaviors) engagement. Independent variables included sociodemographic characteristics, information sources, social media platform use, and selected health belief variables based on the Health Belief Model (HBM). A total of 434 respondents were included in the analysis, of whom 106 (24.4%) reported high engagement in MPB. Use of social media platforms other than Facebook was associated with higher engagement (adjusted odds ratio [AOR] = 2.30, 95% confidence interval [CI]: 1.22–4.35). Participants reporting ≤3 hours and 4–6 hours of daily social media use had lower odds of MPB engagement compared with those reporting >6 hours (AOR = 0.46, 95% CI: 0.25–0.86; AOR = 0.48, 95% CI: 0.24–0.95, respectively). Higher self-efficacy was independently associated with greater engagement in MPB (AOR = 1.70, 95% CI: 1.03–2.82). MPB were more strongly associated with information environments and specific health beliefs than with sociodemographic characteristics alone. These findings underscore the importance of addressing misinformation and improving access to reliable health information to reduce engagement in non–evidence-based practices.",
+                "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0362976.t002&size=inline",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362976",
+                "source": "PLOS",
+                "date": "2026-11-18T19:53:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Neuroprotective therapy cleared for testing in acute MS relapses",
+                "desc": "Oculis is expanding the development of privosegtor, its experimental nerve-protecting therapy, to include the treatment of acute MS relapses.",
+                "image": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1240333879-1200x630-cropped-center-top.jpg",
+                "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/18/neuroprotective-therapy-cleared-testing-acute-ms-relapses/",
+                "source": "Multiple Sclerosis News Today",
+                "date": "2026-11-18T19:46:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI Is Breaking the Entire Structure of Software That Powers the World",
+                "desc": "Security researchers using AI found a critical exploit in Java, a widely popular programming language used by governments and corporations.",
+                "image": "https://futurism.com/wp-content/uploads/2026/11/ai-breaking-structures-software-power-world.jpg?w=1200",
+                "url": "https://futurism.com/artificial-intelligence/ai-breaking-software-powers-world",
+                "source": "Futurism",
+                "date": "2026-11-18T19:46:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold prices remain under pressure as Fed minutes show central bank committed to cooling inflation",
+                "desc": "(Kitco News) - Gold prices have dropped to session lows as the Federal Reserve remains firmly committed to raising interest rates to bring inflation down to its 2% target, according to the latest minutes of the central bank’s monetary policy meeting.Although the Federal Reserve left interest rates unchanged in October, the minutes showed that committee members see cooling persistent inflation as their top priority.“Most participants expected inflation to remain elevated in the near term but to decline over time toward 2 percent, reflecting the waning of tariff-related price effects, a reduction in energy prices’ contribution to inflation, and a moderation of the pressures associated with the AI buildout. The vast majority saw upside risks to this outlook, citing higher energy prices and continued supply constraints with regard to refined fuel products,” the minutes said.The gold market has been struggling to hold critical support levels as markets continue to expect the Federal Reserve to raise interest rates by year-end. On Wednesday, spot gold dropped below initial support at $3,800 an ounce and has continued to slide throughout the trading session. The precious metal last traded at $3,720.20 an ounce, down more than 3% on the day.Jeffrey Roach, Chief Economist at LPL Financial, said that the minutes contained no major surprises; however, he added that he expects Treasury yields to remain elevated and the U.S. dollar to stay strong, both of which will weigh on gold prices.“The Fed appears firmly committed to additional tightening, with the debate shifting from whether to raise rates to how dramatically. Since the inflation data will likely improve in November and December, the FOMC will hike by 25 basis points and will not likely feel the need to hike by a larger magnitude. That said, monetary policy will likely tighten further in Q1 next year,” he said.",
+                "image": "https://images.kitco.com/img/extract_0_51_1000_563,width_1200,enlarge,format_jpeg/icms/01204ca0-fbe3-4463-a3c7-924357e708f0.jpeg",
+                "url": "https://www.kitco.com/news/article/2026-11-18/gold-prices-remain-under-pressure-fed-minutes-show-central-bank-committed",
+                "source": "Kitco",
+                "date": "2026-11-18T19:43:05Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Investigation on influence of lateral pressure coefficient of surrounding rock on drilling energy",
+                "desc": "This study investigates the mechanism of drilling energy consumption under complex in-situ stress conditions. Drilling experiments were conducted on M15 mortar specimens under varying lateral pressure coefficients using a self-developed laboratory system. Results show that drilling velocity, rotation, and torque exhibit no clear regularity, while drilling work displays a “decrease–increase” V-shape trend centered at a coefficient of (1) A mechanical model of cutting under lateral pressure was established, indicating that drilling work is consistently higher than under isotropic pressure. The drilling work coefficient exhibits a piecewise functional relationship with the lateral pressure coefficient, with deviations up to 30% at a coefficient of (2) Experimental and theoretical results differ by 0.66%~8.76%. Unlike previous models assuming uniform confining pressure, this study reveals a nonlinear non-monotonic relationship between drilling work and lateral pressure coefficient (κ), and introduces a dimensionless coefficient (CE) to quantify the deviation from hydrostatic conditions. These findings provide a quantitative framework for drilling design and in-situ stress estimation. The results can be extended to vertical and inclined boreholes and are valuable for petroleum drilling, directional drilling, and in-situ stress measurement while drilling.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-77727-8?error=cookies_not_supported&code=6e91bdd7-e477-48cd-9025-dd4ea77eb771",
+                "source": "Nature",
+                "date": "2026-11-18T19:39:28Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "John Delaney secures legal costs from insurer for attending 2019 Oireachtas hearing",
                 "desc": "Former FAI boss also awarded costs of challenging corporate watchdog over access to his emails",
                 "image": "https://www.irishtimes.com/resizer/v2/VEUNXUHLQBOMJAVOFAYNGVUBI4.jpg?smart=true&auth=6ad3a77a678eb7a776ad29325a26da1a1e5e52d75a8ae50839dc177f581c7670&width=1200&height=630",
@@ -542,99 +632,99 @@
                 "source": "Yahoo Finance",
                 "date": "2026-11-16T21:25:51Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Monday air travel faces key test after FAA ground stop as possible cause emerges",
-                "desc": "Airlines face a Monday test after a nationwide FAA ground stop disrupted thousands of flights as investigators examine router problems in Arkansas and Texas.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/passengers-lined-up-at-airport.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/fox-news-air-space/monday-air-travel-faces-key-test-faa-ground-stop-possible-cause-emerges",
-                "source": "Fox Business",
-                "date": "2026-11-16T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donegal boy Seamie Sean brings festive cheer in new Christmas advert",
-                "desc": "A seven-year-old actor currently living in Rossnowlagh is bringing some festive humour to television screens across Ireland this Christmas - and he hopes Santa...",
-                "image": "https://i.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8xMVxcXC9zZXZlbi15ZWFyLW9sZC1zZWFtaWUtc2Vhbi1icmVubmFuLXdoby1jdXJyZW50bHktbGl2ZXMtaW4tcm9zc25vd2xhZ2gtY28uLWRvbmVnYWwtc3RhcnMtYXMtc2VhbmktaW4tdGhlLW5hdGlvbmFsLWRhaXJ5LWNvdW5jaWxzLWZpcnN0LWV2ZXItY2hyaXN0bWFzLWFkdmVydC0xMDI0eDU3Ni5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvc3RvcmFnZS5kb25lZ2FsZGFpbHkuY29tXFxcL3Byb2RcXFwvdXBsb2Fkc1xcXC8yMDI2XFxcLzAzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI0MWQxODMyMTQ0NTk0ZjQzYzY0YzQ2ZGY5OGEwMWI5YjYxODc2MTU1In0=/donegal-boy-seamie-sean-brings-festive-cheer-in-new-christmas-advert.jpg",
-                "url": "https://www.donegaldaily.com/news/donegal-boy-seamie-sean-brings-festive-cheer-in-new-christmas-advert-658285",
-                "source": "Donegal Daily",
-                "date": "2026-11-16T12:59:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "David Beckham takes legal action after his perfume was found in Poundland",
-                "desc": "David Beckham has launched legal action against the company tasked with selling his fragrance, after bottles of his aftershave were found in Poundland.",
-                "image": "https://content.api.news/v3/images/bin/2022c13184aff8a4c1c5da24ddf58a6a",
-                "url": "https://www.news.com.au/entertainment/celebrity-life/david-beckham-takes-legal-action-after-his-perfume-was-found-in-poundland/news-story/07b969d259da8d36c18ca8a72b9e6769",
-                "source": "News.com.au",
-                "date": "2026-11-16T12:57:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SEBI sets up panel led by NSE chief Ashish Chauhan to review IPO, fundraising rules",
-                "desc": "Sub-group to examine eligibility norms, promoter lock-ins, pricing, allotment and disclosure requirements for IPOs, FPOs, preferential issues and QIPs; aims to simplify regulations and reduce compliance burden.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260805041827_SEBI2.jpg",
-                "url": "https://www.moneycontrol.com/news/business/markets/sebi-sets-up-panel-led-by-nse-chief-ashish-chauhan-to-review-ipo-fundraising-rules-14081544.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-11-16T12:55:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Canadian inflation holds steady at 3.1% in October",
-                "desc": "Gas continues to drive headline inflation, with prices rising nearly 31% annually last month",
-                "image": "https://www.theglobeandmail.com/resizer/v2/IQFP4TOTGZAAHB44FTEGHWFJZM.JPG?auth=e8cc62d01e37abb24dfbac1cc17c2e7265ed47e42cff79ea024054fe86bb21e4&width=1200&height=800&quality=80&smart=true",
-                "url": "https://www.theglobeandmail.com/canada/article-canadian-inflation-expected-to-have-ticked-up-to-32-in-october/",
-                "source": "The Globe and Mail",
-                "date": "2026-11-16T12:54:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sterling poised for fifth daily drop as dollar rally continues",
-                "desc": "The pound fell for a fifth consecutive day on Monday as the dollar extended its rally and traders ​awaited British job growth and inflation data later in ‌the week to reassess their positions.",
-                "image": "https://www.reuters.com/resizer/v2/2DE45R7DNBOH3FMTJD7YPAZ264.jpg?auth=9e0a6cd43e33744aceccf82f02c59f2884cd41725cd1daacbc071aeb6558c4dc&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/uk/sterling-poised-fifth-daily-drop-dollar-rally-continues-2026-11-16/",
-                "source": "Reuters",
-                "date": "2026-11-16T12:49:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NGX Group acquires 10% strategic stake in Nairobi Securities Exchange",
-                "desc": "\"We remain focused on disciplined capital allocation and investments that deliver sustainable value to our shareholders over the long term\"",
-                "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/How-the-Nairobi-Securities-Exchange-NSE-Works-2026-11-16-622-1376x774-1.jpg",
-                "url": "https://www.vanguardngr.com/2026/11/ngx-group-acquires-10-strategic-stake-in-nairobi-securities-exchange/",
-                "source": "Vanguard News",
-                "date": "2026-11-16T12:49:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Stocks dip ahead of Nvidia earnings, Anthropic IPO",
-                "desc": "LONDON, Nov 16 : Global shares fell on Monday after a volatile week capped by the shock exit of Jensen Huang as Nvidia CEO, with the chipmaker's earnings and Anthropic's IPO this week set to test whether the AI-fuelled bull market still has further to run. Later in the week, US President Donald Trump is se",
-                "image": "https://dam.mediacorp.sg/image/upload/s--9S-TPVy9--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-16T013536Z_1_LYNXNPEMAF046_RTROPTP_3_GLOBAL-MARKETS.JPG?itok=fW6hPlID",
-                "url": "https://www.channelnewsasia.com/business/stocks-dip-ahead-nvidia-earnings-anthropic-ipo-6553841",
-                "source": "CNA",
-                "date": "2026-11-16T12:49:35Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Trump's Nvidia stake grew to as much as $62 million, Washington Post reports",
-                "desc": "US President Donald Trump's reported trades this year suggest he held between $13 million and $62 million in Nvidia stock ​as of the end of August, the Washington Post ‌reported on Monday, citing their review of his financial disclosures.",
-                "image": "https://www.reuters.com/resizer/v2/M34JNZLNVBL6ZLHZSFKDNO4MOI.jpg?auth=43e193c7b6f506a3fd9ace998bcc2ef91b9639bd930d828fd9fd76a2db6f8a71&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/china/trumps-nvidia-stake-grew-much-62-million-washington-post-reports-2026-11-16/",
-                "source": "Reuters",
-                "date": "2026-11-16T12:47:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From Posts to Penalties - Finfluencers Jurisdiction Summary",
-                "desc": "The rise of financial influencers, or \"finfluencers\", has transformed the way consumers access financial information and investment-related content.",
-                "image": "https://www.regulationtomorrow.com/wp-content/uploads/sites/12/2024/02/Blog-Network-Meta-Image_1.png",
-                "url": "https://www.regulationtomorrow.com/2026/11/from-posts-to-penalties-finfluencers-jurisdiction-summary/",
-                "source": "Global Regulation Tomorrow",
-                "date": "2026-11-16T12:47:03Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Wispr Flow Brings AI Meeting Notes to iPhone",
+                "desc": "Wispr Flow extends AI meeting capture to iPhone, connecting in-person conversations with desktop notes while retaining important recording and privacy limits.",
+                "image": "https://www.unite.ai/wp-content/uploads/2026/11/wispr-iphone-notetaker.jpg",
+                "url": "https://www.unite.ai/wispr-flow-notetaker-iphone-meeting-notes/",
+                "source": "Unite.AI",
+                "date": "2026-11-18T19:57:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NSW seeing 'exodus' of video game developers looking for better funding, support in other states",
+                "desc": "Screen NSW offers up to $30,000 per video game in state funding, but developers say it is not enough, and are leaving the state in search for better offers.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/ac866433e51425eaff81c678e7d94218?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=99&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-11-19/nsw-video-game-developers-leaving-for-more-funding-elsewhere/107390536",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-11-18T19:54:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New leaks detail next year's iPhone Pro redesign and iPhone Duo 2",
+                "desc": "Next year's fall iPhone lineup is expected to include 20th anniversary redesigned Pro models and an iPhone Duo 2. Here's what to expect.",
+                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&resize=1200,628",
+                "url": "https://9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2/",
+                "source": "9to5Mac",
+                "date": "2026-11-18T19:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New framework aims to create personalized genetic therapies for rare neurodevelopmental disorders",
+                "desc": "McGill University researchers have developed and tested a new way to facilitate the creation of personalized genetic therapies for children with rare neurodevelopmental disorders.",
+                "image": "https://www.news-medical.net/images/tags/TagImage-3347-458389964760995353448-620x480.jpg",
+                "url": "https://www.news-medical.net/news/20261118/New-framework-aims-to-create-personalized-genetic-therapies-for-rare-neurodevelopmental-disorders.aspx",
+                "source": "News-Medical",
+                "date": "2026-11-18T19:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "3 TV Settings You Should Change Before Playing GTA 6",
+                "desc": "\"Grand Theft Auto 6\" is making its grand video game debut, but before firing up your copy on PS5 or Xbox, make sure these TV settings are set correctly.",
+                "image": "https://www.bgr.com/img/gallery/3-tv-settings-you-should-change-before-playing-gta-6/l-intro-1795030708.jpg",
+                "url": "https://www.bgr.com/2320997/gta-6-change-tv-settings-before-playing/",
+                "source": "BGR",
+                "date": "2026-11-18T19:42:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation Network Reportedly Down for Many Just Hours Before GTA 6 Release",
+                "desc": "On the biggest day of the year for PS5 users, the PlayStation Network is suffering widespread outages around the globe.",
+                "image": "https://comicbook.com/wp-content/uploads/sites/4/2023/03/d598d005-ce7c-4219-aecd-7a1af7a8403a.png?w=1200",
+                "url": "https://comicbook.com/gaming/news/psn-playstation-network-down-gta-6-release/",
+                "source": "ComicBook.com",
+                "date": "2026-11-18T19:36:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6's Cops Will Remember You Thanks To The 'Heat' System",
+                "desc": "It’s a fun evolution of the iconic Wanted mechanic.",
+                "image": "https://www.engadget.com/img/gallery/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/l-intro-1795030355.jpg",
+                "url": "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/",
+                "source": "Engadget",
+                "date": "2026-11-18T19:34:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The ‘GTA 6’ Work Blackout Is Here",
+                "desc": "From taking sick days and vacation days to gaming at the office, many are going all out to embrace the franchise’s long-awaited release.",
+                "image": "https://media.wired.com/photos/6afde131962f4b78357718b8/191:100/w_1280,c_limit/GTA-Work-Blackout-Culture-2303488647.jpg",
+                "url": "https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
+                "source": "WIRED",
+                "date": "2026-11-18T19:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "European Society of Medicine Journal: Facts & Fees",
+                "desc": "The European Society of Medicine journal is Medical Research Archives: publisher, scope, fees, ISSN, and what the NLM Catalog lists, as checked 2026-11-18.",
+                "image": "https://casrai.org/api/og?title=European%20Society%20of%20Medicine%20Journal%3A%20Facts%20%26%20Fees&eyebrow=Guide&type=guide",
+                "url": "https://casrai.org/guides/european-society-of-medicine-journal",
+                "source": "CASRAI",
+                "date": "2026-11-18T19:31:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best Buy sells Blu-rays online and in-store again",
+                "desc": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey16-1152x648.jpg",
+                "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+                "source": "Ars Technica",
+                "date": "2026-11-18T19:31:17Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Audible Harnesses AI to Expand Features for Listeners",
                 "desc": "Audible reps say the new features will roll out first in the U.S., with plans to expand other territories.",
@@ -1174,99 +1264,99 @@
                 "source": "Mixonline",
                 "date": "2026-11-16T21:33:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "4NML Makes the Case for Luxury Denim With a Conscience",
-                "desc": "Anya Oleynik, 4NML founder and creative director, discusses her design process and the untapped potential of unconventional materials.",
-                "image": "https://wwd.com/wp-content/uploads/2026/11/4NML1.jpg?crop=0px%2C20px%2C2000px%2C1119px&resize=1000%2C563",
-                "url": "https://wwd.com/sourcing-journal/sj-denim/4nml-luxury-denim-with-a-conscience-candiani-appleskin-1239413048/",
-                "source": "WWD",
-                "date": "2026-11-16T13:02:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New camera sensor coming to the iPhone 20 Pro's main camera, says leaker",
-                "desc": "The biggest improvement to iPhone photo quality that Apple could make would be to give the device a larger sensor....",
-                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/09/Sensor-size.jpg?quality=82&strip=all&resize=1200,628",
-                "url": "https://9to5mac.com/2026/11/16/new-camera-sensor-coming-to-the-iphone-20-pros-main-camera-says-leaker/",
-                "source": "9to5Mac",
-                "date": "2026-11-16T13:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Unity announces new indie fellowship program with cash reward",
-                "desc": "Ten selected developers will receive $50,000 from Unity as well as 'resources, support, and networks' for the final leg of their development journey.",
-                "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta3a3f0f2f63d1948/6af776bbfa1c508cf9c747ad/unityfellowshipfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
-                "url": "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program",
-                "source": "Game Developer",
-                "date": "2026-11-16T13:01:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple TV Gets Ready to Show Video Podcasts, No Subscription Required",
-                "desc": "Apple says the new feature will bring video podcasts to over a billion devices, including smart TVs and streaming sticks.",
-                "image": "https://i.pcmag.com/imagery/articles/06KJvS6Ztkh8fJHKdHQ5v8Q-1.fit_lim.size_1200x630.v1794832723.jpg",
-                "url": "https://www.pcmag.com/news/apple-tv-gets-ready-to-show-video-podcasts-no-subscription-required",
-                "source": "PCMag",
-                "date": "2026-11-16T13:00:37Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Unity launches $50,000 grant for indie developers with no equity or repayment",
-                "desc": "Ten studios will be selected to receive the grant, in addition to direct support from Unity and expert guidance",
-                "image": "https://assetsio.gnwcdn.com/unity-fellowship.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
-                "source": "GamesIndustry.biz",
-                "date": "2026-11-16T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2",
-                "desc": "But no PS5 consoles included - Alongside its ongoing PS Store Black Friday sale and a new PS Plus promotion that goes live tomorrow, Sony has also detailed t...",
-                "image": "https://images.pushsquare.com/caee43ed6e6bb/1280x720.jpg",
-                "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2",
-                "source": "Push Square",
-                "date": "2026-11-16T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nintendo Store App Receives A Small But Worthwhile Update, Here Are The Patch Notes",
-                "desc": "Play activity improvements - Remember the dedicated Nintendo Store mobile app? Honestly, we sometimes forget about it too. But hey, Nintendo is still updatin...",
-                "image": "https://images.nintendolife.com/5efeca106ac23/1280x720.jpg",
-                "url": "https://www.nintendolife.com/news/2026/11/nintendo-store-app-receives-a-small-but-worthwhile-update-here-are-the-patch-notes",
-                "source": "Nintendo Life",
-                "date": "2026-11-16T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Piece Of PC History",
-                "desc": "Sony's 27-inch gaming monitor is a perfectly adequate display with one unique hook.",
-                "image": "https://www.engadget.com/img/gallery/sony-27-inch-gaming-monitor-with-dualsense-charging-hook-review-a-piece-of-pc-history/l-intro-1794404092.jpg",
-                "url": "https://www.engadget.com/2313601/sony-27-inch-gaming-monitor-with-dualsense-charging-hook-review/",
-                "source": "Engadget",
-                "date": "2026-11-16T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Greatest Grand Theft Auto Missions, Definitively Ranked",
-                "desc": "To mark the release of Grand Theft Auto VI this week, we ranked the game's best-ever missions, with help from a suite of Rockstar veterans.",
-                "image": "https://media.gq.com/photos/6af37fd4b69a79622f115d3b/16:9/w_1280,c_limit/1116-GTA-Missions-Lede.jpg",
-                "url": "https://www.gq.com/story/gta-best-missions-of-all-time",
-                "source": "GQ",
-                "date": "2026-11-16T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Marvell and Penguin Solutions aim to end the RAMpocalypse with photonic memory fabric",
-                "desc": "Appliances can share 16 TB of DRAM and half a terabyte of HBM across up to 16 systems",
-                "image": "https://image.theregister.com/253714.jpg?imageId=253714&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "url": "https://www.theregister.com/systems/2026/11/16/marvell-and-penguin-solutions-aim-to-end-the-rampocalypse-with-photonic-memory-fabric/5309921",
-                "source": "The Register",
-                "date": "2026-11-16T13:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Op-Ed | Late Means Never: The Hormuz Shock Exposed How Little Africa Grows for Itself",
+                "desc": "The Hormuz shock reached Africa's farm shops this year. Homegrown seed and inputs can blunt the next one.",
+                "image": "https://foodtank.com/wp-content/uploads/2026/11/Social-Image_-Example-3-1.png",
+                "url": "https://foodtank.com/news/2026/11/op-ed-late-means-never-the-hormuz-shock-exposed-how-little-africa-grows-for-itself/",
+                "source": "Food Tank",
+                "date": "2026-11-18T19:53:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US reissues security warnings to citizens in Bahrain, Saudi",
+                "desc": "US urges citizens in Bahrain and Saudi Arabia to stay vigilant after renewed attacks by Iran and its allies, including drone strikes and Gulf tensions.",
+                "image": "https://media.assettype.com/gulfnews%2F2026-10-25%2Fwf4mnduz%2FHUcGY7uXAAA0cEf.jpg?rect=0%2C28%2C427%2C224&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+                "url": "https://gulfnews.com/world/americas/us-reissues-security-warnings-to-citizens-in-bahrain-saudi-1.500752767",
+                "source": "Gulf News",
+                "date": "2026-11-18T19:51:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Liberia explores EgyptAir partnership for national airline",
+                "desc": "Liberia is exploring technical cooperation with EgyptAir (MS, Cairo International) to support the development of a national airline under a broader aviation deal signed...",
+                "image": "https://www.ch-aviation.com/images/stockPhotos/9440/dbe6e7f3c6afcca1c27c94e544188ffe20cf0071.jpg",
+                "url": "https://www.ch-aviation.com/news/174086-liberia-explores-egyptair-partnership-for-national-airline",
+                "source": "ch-aviation",
+                "date": "2026-11-18T19:50:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Strategy for Revitalizing Sudan’s Democratic Transition",
+                "desc": "On October 25, Sudan’s military dissolved a civilian-led transitional government that had been established following the April 2019 ouster of former President Omar al-Bashir. The coup ended a military-civilian power-sharing partnership that was meant to transition Sudan to democracy, with elections slated for 2023. The power grab prompted thousands to protest in the streets of...",
+                "image": "https://thesentry.org/wp-content/uploads/2026/08/logo-hero-banner-full.jpg",
+                "url": "https://thesentry.org/publications/strategy-revitalizing-sudans-democratic-transition/",
+                "source": "https://thesentry.org/",
+                "date": "2026-11-18T19:49:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russia gives stark response as France sends soldiers into Ukraine",
+                "desc": "Russia is responding forcefully to confirmation from France that it periodically sends military personnel into Ukraine to provide training and maintenance help with some of the weaponry it has supplied for the war.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149244841.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/11/18/world-news/russia-gives-stark-response-as-france-sends-soldiers-into-ukraine/",
+                "source": "New York Post",
+                "date": "2026-11-18T19:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says",
+                "desc": "The United States on Wednesday issued new Hezbollah-related sanctions targeting three people based in Lebanon, and three entities as part of a broader effort ​to shut down Iran's proxy networks, the Treasury Department said.",
+                "image": "https://www.reuters.com/resizer/v2/YKW2ZTXAYVNFRIPJU2TZJ37T6Y.jpg?auth=ea416c32665a702824f4e2b4c48496d1656c90fd43b7f181798c86997e1cbecb&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/middle-east/us-sanctions-hezbollah-linked-charity-push-against-irans-proxies-treasury-says-2026-11-18/",
+                "source": "Reuters",
+                "date": "2026-11-18T19:48:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cave discovery in China reveals surprising survival skills of Homo erectus",
+                "desc": "Teeth unearthed in two caves in China are shaking up what scientists know about an enigmatic human ancestor called Homo erectus.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/img2-karst-near-naxian.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/11/18/science/teeth-homo-erectus-china",
+                "source": "CNN",
+                "date": "2026-11-18T19:39:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia Expands Immi App to 52 Countries",
+                "desc": "The free Australian Immi App now lets visa applicants in 52 countries, including India and Vietnam, submit biometrics by smartphone.",
+                "image": "https://eiglaw.com/wp-content/uploads/2023/06/Australia-scaled.jpg",
+                "url": "https://eiglaw.com/australia-expands-immi-app-to-52-countries/",
+                "source": "Erickson Immigration Group",
+                "date": "2026-11-18T19:38:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sudan’s drone toll tops 1,630 civilians as strikes hit markets, hospitals and fuel sites, while 8.6 million people remain displaced inside the country",
+                "desc": "Drone strikes caused nearly three-quarters of Sudan’s 2,230 UN-confirmed civilian deaths this year, while attacks also hit power, fuel and health facilities. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/IOwktkpTURBXy80NzJhZTQ3NDI1YjI0Y2MyN2I2NmY2MTI3MTU0ZjVkMy5wbmeSlQMAIM0Dss0CFJMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/sudans-drone-toll-tops-1630-civilians-as-strikes-hit-markets-hospitals-and-fuel-sites/trphyps",
+                "source": "Business Insider Africa",
+                "date": "2026-11-18T19:34:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Europe Cooperation To Tackle Terrorism And Organised Crime",
+                "desc": "The Minister of Defence and Veteran Affairs, Hon. Kiryowa Kiwanuka, has called for stronger international partnerships and Africa-centred security cooperation to address the growing nexus between armed conflict, terrorism and organised crime. Mr Kiwanuka said lasting peace could only be achieved through strong state institutions, economic development and cooperation among countries, rather than relying solely…",
+                "image": "https://www.updf.go.ug/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-5.40.17-PM.jpeg",
+                "url": "https://www.updf.go.ug/diplomatic-partnership/uganda-calls-for-stronger-africa-europe-cooperation-to-tackle-terrorism-and-organised-crime/",
+                "source": "UPDF",
+                "date": "2026-11-18T19:30:36Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "With Francophone Africa at its Core, YouScribe Expands, Launches a Service for Self",
                 "desc": "YouScribe CEO Anne-Sophie Steinlein told Publishing Perspectives that the new service for self-published Francophone authors was a response yet again to structural challenges with the book supply chain in Africa.",
@@ -1806,98 +1896,8 @@
                 "source": "The Kyiv Independent",
                 "date": "2026-11-16T21:27:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Royal Navy Selects Ocean Infinity for $119M Atlantic Undersea Surveillance Program",
-                "desc": "The Royal Navy has selected Ocean Infinity Solutions for a $119-million investment aimed at strengthening undersea surveillance.",
-                "image": "https://thedefensepost.com/wp-content/uploads/2026/11/Ocean-Infinity-Atlantic-Net_resized-1000x563.png.jpeg",
-                "url": "https://thedefensepost.com/2026/11/16/royal-navy-ocean-infinity/",
-                "source": "The Defense Post",
-                "date": "2026-11-16T13:05:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ojukwu, Tijani, NCC boss Maida lead delegation as Nigeria re-elected to ITU council",
-                "desc": "Nigeria has been re-elected to the Council of the International Telecommunication Union, ITU, at the ongoing conference in Doha, Qatar, securing its…",
-                "image": "https://dailypost.ng/cms-api/media/file/624610.jpg",
-                "url": "https://dailypost.ng/2026/11/16/ojukwu-yakubu-bosun-nccs-maida-lead-delegation-as-nigeria-gets-re-elected-to-itu/",
-                "source": "Daily Post Nigeria",
-                "date": "2026-11-16T13:04:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Estonia Blames Russia for Foiled Threod Systems Arson Plot",
-                "desc": "Estonia says Russia’s GRU coordinated a foiled arson plot against Threod Systems, adding to a wave of sabotage across Central and Eastern Europe.",
-                "image": "https://storage.united24media.com/og/8/36/ce324ac2b3512fbf26308aa90e8c9368.jpg",
-                "url": "https://united24media.com/world/russia-plotted-to-torch-threod-systems-drone-factory-in-estonia-where-else-has-moscow-struck-24411",
-                "source": "UNITED24 Media",
-                "date": "2026-11-16T13:04:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Three US aircraft carriers operating in the Middle East",
-                "desc": "Three US aircraft carriers operating in the Middle East",
-                "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794861716688-0f84d213bca2a9cc.jpg",
-                "url": "https://www.arabnews.com/middle-east/three-us-aircraft-carriers-operating-in-the-middle-east-3012181",
-                "source": "Arab News",
-                "date": "2026-11-16T13:02:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Drone Attacks on Power Stations Plunge Sudan into Darkness",
-                "desc": "By Fatima EdamNovember 15, 2026Sudan’s power stations are being targeted in waves of drone attacks, resulting in power outages.Port Sudan, Sudan – Kamal Mohammed, 42, has spent years managing his diabetes. But prolonged power cuts in the al-Taqaddum neighbourhood of Port Sudan, where he lives, have made his life “catastrophic”, he says.Kamal relies on regular insulin injections to manage his diabetes, but unstable electricity supplies make it difficult for him to keep track of the doses he needs",
-                "image": "https://static.wixstatic.com/media/99d73a_feb4a95f64d549f58e75b2d7174cec04~mv2.webp/v1/fill/w_770,h_513,al_c,q_85/99d73a_feb4a95f64d549f58e75b2d7174cec04~mv2.webp",
-                "url": "https://www.genocidewatch.com/single-post/drone-attacks-on-power-stations-plunge-sudan-into-darkness",
-                "source": "Genocide Watch",
-                "date": "2026-11-16T12:56:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Suliman Carrim denied bail, remains in custody until 23 November",
-                "desc": "North West businessman Suliman Carrim will remain in custody after the Musina Magistrate's Court denied his bail application, citing concerns over omitted…",
-                "image": "https://images.newsteam.io/image/400/GbSdY1y2zcpsyWSstrYK7ZfXQbhQxmtxhsKkVD6Pfnb32tG8AGrk4StcN5Cgn4TMYKtoqAxpwfjmnWJsREieKjMQbYzsMB79o3aB6Dc4wJfocCMb1yMjypXu9ramRHbRjvkGZMuEC4mhYqeEaepu8",
-                "url": "https://mg.co.za/news/south-africa/2026-11-16-suliman-carrim-denied-bail-remains-in-custody-until-23-november/",
-                "source": "Mail & Guardian",
-                "date": "2026-11-16T12:53:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Houellebecq Saw This Coming",
-                "desc": "Michel Houellebecq’s novels are our age’s most profound and devastating studies in what it means to be godless.",
-                "image": "https://storage.ghost.io/c/65/af/65afbdb5-30bf-4286-acc4-9535069adb42/content/images/size/w1200/2026/11/AP17284636568040.jpg",
-                "url": "https://www.compactmag.com/article/houellebecq-saw-this-coming/",
-                "source": "Compact Mag",
-                "date": "2026-11-16T12:51:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "BRAC and Can't Wait to Learn",
-                "desc": "We talked with young people whose lives have been transformed by the work of the Yidan Prize laureates from South Asia to the Middle East and Africa.",
-                "image": "https://ssir.org/images/articles/winter-2027-supp-yidan-resilience-thumb-737x737.jpg",
-                "url": "https://ssir.org/articles/entry/yidan-prize-young-people-resilience",
-                "source": "Stanford Social Innovation Review",
-                "date": "2026-11-16T12:51:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Over 23 countries back action plan to tackle wildfire threat",
-                "desc": "Alongside the launch of the Antalya Action Plan, governments are highlighting action underway to tackle wildfire risks around the world",
-                "image": "https://i0.wp.com/tanzaniatimes.net/wp-content/uploads/2026/11/global-fire-threat-COP31.webp?fit=474%2C316&ssl=1",
-                "url": "https://tanzaniatimes.net/cop31-global-action-plan-to-tackle-escalating-wildfire-threats-now-backed-by-23-countries/",
-                "source": "The Tanzania Times",
-                "date": "2026-11-16T12:51:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya re-elected to ITU Council for 2027-2030 term",
-                "desc": "Kenya has been elected to the International Telecommunication Union (ITU) Council for a new four-year term after securing 136 votes.",
-                "image": "https://www.kbc.co.ke/wp-content/uploads/2026/11/ITU.jpeg",
-                "url": "https://www.kbc.co.ke/kenya-re-elected-to-itu-council-for-2027-2030-term/",
-                "source": "KBC Digital",
-                "date": "2026-11-16T12:47:45Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-19T00:44:07.683187Z"
+    "lastGlobalSync": "2026-11-19T07:59:53.145622Z"
 }
