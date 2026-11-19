@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "John Delaney secures legal costs from insurer for attending 2019 Oireachtas hearing",
+                "desc": "Former FAI boss also awarded costs of challenging corporate watchdog over access to his emails",
+                "image": "https://www.irishtimes.com/resizer/v2/VEUNXUHLQBOMJAVOFAYNGVUBI4.jpg?smart=true&auth=6ad3a77a678eb7a776ad29325a26da1a1e5e52d75a8ae50839dc177f581c7670&width=1200&height=630",
+                "url": "https://www.irishtimes.com/ireland/2026/11/18/john-delaney-secures-legal-costs-from-insurer-for-attending-2019-oireachtas-hearing/",
+                "source": "The Irish Times",
+                "date": "2026-11-18T12:41:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Waymo suspends all driverless taxi rides on freeways after ban in California",
+                "desc": "Waymo has temporarily stopped offering driverless taxi rides on freeways after California banned the vehicles from state freeways following recent traffic incidents.",
+                "image": "https://kubrick.htvapps.com/htv-prod/images/ca6b1227-b42b-4c36-8ee9-86605098a12f.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0649xh&resize=1200%3A*",
+                "url": "https://www.kcci.com/article/waymo-suspends-driverless-taxi-rides-freeways/74462814",
+                "source": "KCCI",
+                "date": "2026-11-18T12:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia’s Kress passes first test as board slams door on Huang",
+                "desc": "Nvidia’s interim CEO Colette Kress expressed confidence in the chipmaker’s business, leadership and staff and pledged to be “disciplined in how we commit capital,” seeking to reassure investors on the first earnings call since its co-founder Jensen Huang quit.",
+                "image": "https://www.bnnbloomberg.ca/resizer/v2/A6QAZ2XT2AHHMNPJGV2UTAQBPQ.jpg?smart=true&auth=fadfaf47b23a47a2a59a26c1988f41475b91ebf7a75205d786b872d23e943076&width=1200&height=630",
+                "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/18/business-as-usual-nvidias-kress-passes-first-test-as-board-slams-door-on-huang/",
+                "source": "BNN Bloomberg",
+                "date": "2026-11-18T12:39:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Minimizing data requirements for chemical and material property prediction via cluster-based training set selection",
+                "desc": "Machine learning is increasingly used to predict chemical and material properties, and when data are scarce, data acquisition is often necessary to support these efforts. Despite the practical advantages of minimizing acquisition costs, it remains unclear which data acquisition strategies are the most efficient across diverse property prediction tasks or what principled basis underlies their relative performance. Here we survey 100 space-filling and active learning algorithms across 60 property prediction tasks, finding that cluster-based training set selection consistently outperforms active learning when choosing from a predefined candidate library, a result that runs counter to prevailing practice and is robust to the dimensionality of material representations, the choice of fixed or learned representations, and training set size. A theoretical framework grounded in Gaussian process variance establishes cluster-based selection as the principled optimum in the low-data limit, providing a unified basis for understanding training set quality across contexts. Overall, this work establishes cluster-based training set selection as a broadly effective and principled strategy for data-efficient, machine-learning-enabled materials design. A survey of 100 algorithms across 60 chemical and materials property prediction tasks finds that cluster-based selection of training data outperforms active learning, and a theoretical framework establishes why this occurs in the low-data limit.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-026-01076-9/MediaObjects/43588_2026_1076_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s43588-026-01076-9?error=cookies_not_supported&code=b1c5b1b6-6155-426a-bacd-32c70d066a14",
+                "source": "Nature",
+                "date": "2026-11-18T12:39:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Unified sliding-mode control of a flexible excitation system with lightweight stator/rotor dual-channel damping injection",
+                "desc": "With the increasing penetration of renewable energy sources, power systems are increasingly exposed to broadband and strongly coupled disturbances. Under large disturbances, parameter perturbations, and operating-point variations, flexible excitation system (FES) may exhibit aggravated DC-link voltage fluctuations, sluggish excitation response, and insufficient damping of electromechanical oscillations. To address these issues, this paper proposes a unified sliding-mode control framework for a FES consisting of a three-level neutral-point-clamped voltage-source converter (NPC-VSC), a DC link, and a DC/DC excitation chopper. An adaptive-gain second-order sliding-mode (AG-SOSM) controller is introduced into the VSC outer loop to ensure finite-time convergence of the DC-link voltage and enhanced disturbance rejection. In the VSC current inner loop and the chopper control loop, band-pass-filter (BPF)-enhanced sliding surfaces are combined with the super-twisting algorithm (STA) to achieve fast tracking of the excitation variable with reduced chattering. In addition, lightweight stator-side reactive power damping and rotor-side damping-torque components are injected through the reference path, enabling coordinated dual-channel damping enhancement without modifying the main controller structure. Time-domain simulation results under network disturbances, mechanical-power perturbation, excitation-related parameter variations, and converter-current harmonic evaluation show that, compared with CES, PID-FES, and CSMC-FES benchmarks, the proposed strategy improves electromechanical damping, accelerates dynamic recovery, maintains DC-link voltage regulation, and reduces converter-current harmonic distortion.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-77162-9?error=cookies_not_supported&code=24833f16-5dec-46b6-97bf-32dd61d71968",
+                "source": "Nature",
+                "date": "2026-11-18T12:39:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "TRIM31 aggravated cerebral ischemic injury by inhibiting autophagosome-lysosome fusion through degradation of TLR9",
+                "desc": "Recent evidence has suggested that dysfunction of the autophagy-lysosome system was a crucial factor leading to neuronal damage, yet the underlying regulatory mechanisms remain unclear. Studies have reported that Toll like receptor 9 (TLR9) is required for autophagic flux. In our investigation, we observed that TLR9 was significantly upregulated and exerted a protective role through promoting the fusion of autophagosomes and lysosomes in the stroke models. Mechanistically, we found that tripartite motif-containing protein 31 (TRIM31) interacted with TLR9 and promoted the k48-linked polyubiquitination of TLR9, consequently facilitated its degradation in a proteasome-dependent pathway. Furthermore, TRIM31 led to impaired autophagosome-lysosome fusion in cerebral ischemic injury by negatively regulating TLR9. In conclusion, we identified TRIM31 as a novel E3 ubiquitin ligase for TLR9 degradation and provided a new therapeutic strategy to alleviate ischemic brain injury by enhancing autophagosome-lysosome fusion via TLR9.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41418-026-01910-7/MediaObjects/41418_2026_1910_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41418-026-01910-7?error=cookies_not_supported&code=51106ead-a882-4d0b-a24c-92a10285e46d",
+                "source": "Nature",
+                "date": "2026-11-18T12:38:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "XRP, Dogecoin and Solana Stabilize After Steep Selloff, but Recovery Remains Fragile",
+                "desc": "XRP, Dogecoin and Solana are attempting to stabilize after a sharp crypto selloff that pushed each well below recent highs. XRP fell under $1 for the…",
+                "image": "https://img.biggo.com/l4fVR9QtXzZTG6xjoXMiyTZ0yRHxcxYCgC1ITHniC8Y/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzAzYzQ4NzYxLTc0NGQtNDFkMy04MzZmLTI5ZmI3ZTI1MTBlMV8xNzk1MDA1ODc2X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/03c48761-744d-41d3-836f-29fb7e2510e1",
+                "source": "BigGo Finance",
+                "date": "2026-11-18T12:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "European Gas Slips as Full Storage Tanks Blunt Iran's Gulf Strikes",
+                "desc": "European natural gas prices edged lower on Wednesday, with the Dutch TTF front-month contract down 0.6% at 84.71 euros per megawatt-hour and the…",
+                "image": "https://img.biggo.com/Di33wIFc4fO0VZlqxeBGQQCdRbVVOobURZ_9VMB6Veg/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzI5MDk5ZDk3LWVmYWUtNDhiZS04MmQ3LTdjMDJiNjczOTJjYV8xNzk1MDA1NTAyX2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/29099d97-efae-48be-82d7-7c02b67392ca",
+                "source": "BigGo Finance",
+                "date": "2026-11-18T12:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Malaysia Tells Data Centers: Follow U.S. AI Chip Rules or Leave",
+                "desc": "Malaysia's trade minister warned data center operators they must accept U.S. licensing and due diligence rules for advanced AI chips or stop operating…",
+                "image": "https://img.biggo.com/mdddP3IFK1LfimpG_0TctuI7r9TOQ7c7t5C6C9ScKAQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzVlYTIxNmU3LTU4ZjYtNDViMy05ZTY4LTFhYmExNzM2ZDliOV8xNzk1MDA1NTY0X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/5ea216e7-58f6-45b3-9e68-1aba1736d9b9",
+                "source": "BigGo Finance",
+                "date": "2026-11-18T12:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Global Patent Filings Hit Record 3.9 Million in 2025; China Accounts for More Than Half of Increase",
+                "desc": "According to the World Intellectual Property Organization (WIPO), global patent filings in 2025 rose 6% year-on-year to about 3.9 million, a record…",
+                "image": "https://img.biggo.com/GqIFZiVmoq3vuwZ1E166thshJhNGcPW_jAqttZIIPpc/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2M0Nzk4MWM3LTFmNjctNGQ2Mi05YjI0LTY2NmNjNGFhOTQ2Y18xNzk1MDA1NzM2X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/c47981c7-1f67-4d62-9b24-666cc4aa946c",
+                "source": "BigGo Finance",
+                "date": "2026-11-18T12:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "CMB International Raises Sino Biopharmaceutical Target Price to HK$9 as Medical Insurance Expansion and BNT Partnership Fire Twin Growth Engines",
                 "desc": "Sino Biopharmaceutical has recently made simultaneous progress in the commercialization and internationalization of innovative drugs. On November 14,…",
                 "image": "https://img.biggo.com/OrHHZg463BVgPmMZtIwi6YZZrbGxpGcKAr4ForY3jOY/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzM1YjZjODRmLTE0MmYtNDU5YS1hODgyLWU5NmU5NTU2MjUwM18xNzk0OTgzNDQ0X2RlZmF1bHQuanBn.jpg",
@@ -542,99 +632,99 @@
                 "source": "Global Regulation Tomorrow",
                 "date": "2026-11-16T12:47:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Inside JLR’s failed BYD evidence seizure: Why its 553,850 USD penalty claim was rejected",
-                "desc": "A Dutch court rejected Jaguar Land Rover’s 553,850 USD penalty claim against BYD over an evidence seizure involving laptops and digital records.",
-                "image": "https://carnewschina.com/wp-content/uploads/2026/11/1400x1050_autohomecar__chxpv2rawiqatcn6ahs2nrmmuxe039-large-1500x896.jpg",
-                "url": "https://carnewschina.com/2026/11/16/inside-jlrs-failed-byd-evidence-seizure-why-its-553850-usd-penalty-claim-was-rejected/",
-                "source": "CarNewsChina.com",
-                "date": "2026-11-16T05:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil Prices Fall as Fears of a Global Supply Glut Return",
-                "desc": "Oil prices declined as recovering Middle Eastern exports and weakening demand fueled expectations of a global supply surplus despite continued shipping disruptions.",
-                "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-15_s46er1zdjg.jpg",
-                "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Fears-of-a-Global-Supply-Glut-Return.html",
-                "source": "Crude Oil Prices Today | OilPrice.com",
-                "date": "2026-11-16T05:25:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hong Kong Exchange Launches First \"Dim Sum Bond\" Index, a Step Toward Yuan Internationalization",
-                "desc": "Hong Kong Exchanges and Clearing (HKEX) on the 16th began offering Hong Kong's first index tracking \"dim sum bonds\" — yuan-denominated bonds issued…",
-                "image": "https://img.biggo.com/z0aGkbS9Zr0Q202DK_7TZJCVvfuBVC5iLFAjcmOAUy4/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL3N0b2NrX2xpYnJhcnlfY292ZXJzLzIwMjYtMTEvNjMzOWYyMjYtYTRjNS00MzUyLTlkYTgtNTRkOTQzYTA3N2U4XzE3OTQ4MDY4ODBfZGVmYXVsdC53ZWJw.jpg",
-                "url": "https://finance.biggo.com/news/6339f226-a4c5-4352-9da8-54d943a077e8",
-                "source": "BigGo Finance",
-                "date": "2026-11-16T05:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How Could a Router Lead to a Nationwide Ground Stop?",
-                "desc": "Aviation experts and federal officials said the network outage began after a new piece of networking equipment began flooding the rest of the system with data. The underlying cause is unclear.",
-                "image": "https://static01.nyt.com/images/2026/12/15/multimedia/15nat-WWK-router-gtqw/15nat-WWK-router-gtqw-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html",
-                "source": "The New York Times",
-                "date": "2026-11-16T05:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grandall adds two partners in Beijing, Fuzhou offices",
-                "desc": "Grandall Law Firm has hired senior partner Wang Zhu and partner Weng Qibiao for its Beijing and Fuzhou offices, respectively, strengthening its capabilities in IP, taxation, bankruptcy and restructuring",
-                "image": "https://cdn.law.asia/wp-content/uploads/2026/11/Grandall-adds-two-partners-in-Beijing-Fuzhou-offices-Wang-Zhu-Weng-Qibiao.jpg",
-                "url": "https://law.asia/grandall-law-firm-wang-zhu-weng-qibiao-china/",
-                "source": "Law.asia",
-                "date": "2026-11-16T05:24:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Affin Bank’s 3Q net profit down 22% as higher impairment provisions offset income growth",
-                "desc": "Affin Bank Bhd (KL:AFFIN) reported a 21.7% year-on-year decline in net profit to RM113.57 million for the third quarter ended Sept 30, 2026 (3QFY2026), as higher impairment allowances outweighed stronger income growth.",
-                "image": "https://assets.theedgemarkets.com/Menara_AFFIN_TRX_AFFIN_20260814132517_Affin_Bank_2.jpg",
-                "url": "https://theedgemalaysia.com/node/825891",
-                "source": "The Edge Malaysia",
-                "date": "2026-11-16T05:23:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India’s Rise: From Promise to Platform for Global Growth",
-                "desc": "India's growth is reshaping the global market and making it a strategic hub for technology and investment, for SAP especially. Read more.",
-                "image": "https://news.sap.com/wp-content/blogs.dir/1/files/2026/11/03/305805_GettyImages-2188557010_uncropped_F-e1793896640565.jpg",
-                "url": "https://news.sap.com/2026/11/india-promise-to-platform-global-growth/",
-                "source": "SAP News Center",
-                "date": "2026-11-16T05:18:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chery Tiggo 7 Patented In India - Harrier, XUV7XO Rival From JSW?",
-                "desc": "After patenting Tiggo 7L, Chery has now patented Tiggo 7 and it could launch in India under JSW to rival Tata Harrier and Mahindra XUV7XO.",
-                "image": "https://www.rushlane.com/wp-content/uploads/2026/11/chery-tiggo-7-patented-in-india-3.jpg",
-                "url": "https://www.rushlane.com/chery-tiggo-7-patented-in-india-harrier-xuv7xo-rival-from-jsw-12561286.html",
-                "source": "RushLane",
-                "date": "2026-11-16T05:16:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Zealand's elevated luxury offering in tune with LTC's expansion",
-                "desc": "NZ's burgeoning luxury hospitality market makes the destination ripe for growth for the Luxury Travel Collection, says the consortia's leaders",
-                "image": "https://latteluxurynews.com/wp-content/uploads/2026/11/J748141-1132x560-1.jpg",
-                "url": "https://latteluxurynews.com/2026/11/16/ltcs-expansion-in-nz-aligned-with-luxury-markets-growth/",
-                "source": "LATTE Luxury News",
-                "date": "2026-11-16T05:16:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Indonesia police raided Megaspeed in Nvidia chip probe early 2026",
-                "desc": "Indonesian police find empty server racks in raid linked to Nvidia chip probe at Megaspeed subsidiary. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/2b7f38e1332cb4883385a24a9e800ab0cdca186d62676039b471d5c8f255f549?t=og",
-                "url": "https://www.straitstimes.com/asia/se-asia/indonesian-police-find-empty-server-racks-during-raid-on-megaspeed-subsidiary",
-                "source": "The Straits Times",
-                "date": "2026-11-16T05:15:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Audible Harnesses AI to Expand Features for Listeners",
+                "desc": "Audible reps say the new features will roll out first in the U.S., with plans to expand other territories.",
+                "image": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-18-at-7.34.13-AM.png",
+                "url": "https://publishingperspectives.com/2026/11/audible-harnesses-ai-to-expand-features-for-listeners/",
+                "source": "Publishing Perspectives",
+                "date": "2026-11-18T12:43:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Singapore Street Racer Launches on PC - 149 Events, 24 Cars and a Whole Lot of Racing for Just $1.99",
+                "desc": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+                "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+                "url": "https://www.gamespress.com/Singapore-Street-Racer-Launches-on-PC-149-Events-24-Cars-and-a-Whole-L",
+                "source": "Games Press",
+                "date": "2026-11-18T12:35:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Renda and Nexalus launch liquid-cooled AI server",
+                "desc": "Renda and Nexalus launch liquid-cooled AI server. Nova8 delivers eight GPUs in 4U to facilities that were never built for liquid cooling",
+                "image": "https://aecmag.com/wp-content/uploads/2026/11/Renda-Nova8.jpg",
+                "url": "https://aecmag.com/workstations/renda-and-nexalus-launch-liquid-cooled-ai-server/",
+                "source": "AEC Magazine",
+                "date": "2026-11-18T12:34:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "What's New • Mezha",
+                "desc": "Samsung launches the One UI 9.5 beta for Galaxy S26 phones in six markets, introducing enhanced camera controls, Samsung Health features, App Lock, and accessibility improvements.",
+                "image": "https://img.mezha.ua/mezha/images/doc/c/1/335000/c19a65d92cb4518e4f89a1ffe16e1892.jpeg?w=1200&q=85&stamp=1795000999",
+                "url": "https://mezha.ua/en/news/one-ui-9-5-beta-for-galaxy-s26-317340/",
+                "source": "Mezha",
+                "date": "2026-11-18T12:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 Switches Sprint to L3, Saving Thumbs Globally",
+                "desc": "About time.",
+                "image": "https://sm.ign.com/t/ign_za/feature/g/gta-6-swit/gta-6-switches-sprint-to-l3-saving-thumbs-globally_esv4.1200.jpg",
+                "url": "https://za.ign.com/grand-theft-auto-vi/245771/gta-6-switches-sprint-to-l3-saving-thumbs-globally",
+                "source": "IGN Africa",
+                "date": "2026-11-18T12:31:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How GTA 6 Came Together at Rockstar North",
+                "desc": "\"I think it takes a lot of obstinance, really.\"",
+                "image": "https://sm.ign.com/t/ign_za/news/h/how-gta-6-/how-gta-6-came-together-at-rockstar-north_gg1j.1200.jpg",
+                "url": "https://za.ign.com/grand-theft-auto-vi/245773/how-gta-6-came-together-at-rockstar-north",
+                "source": "IGN Africa",
+                "date": "2026-11-18T12:31:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6: How The Ultimate Edition Content Works",
+                "desc": "The 100 dollar question answered.",
+                "image": "https://sm.ign.com/t/ign_za/news/g/gta-6-how-/gta-6-how-the-ultimate-edition-content-works_j2v3.1200.jpg",
+                "url": "https://za.ign.com/grand-theft-auto-vi/245769/gta-6-how-the-ultimate-edition-content-works",
+                "source": "IGN Africa",
+                "date": "2026-11-18T12:31:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6: 15 Minutes of First Mission Gameplay",
+                "desc": "Sea, land, and air action from Grand Theft Auto 6.",
+                "image": "https://sm.ign.com/t/ign_za/feature/g/gta-6-15-m/gta-6-15-minutes-of-first-mission-gameplay_pntd.1200.jpg",
+                "url": "https://za.ign.com/grand-theft-auto-vi/245775/gta-6-15-minutes-of-first-mission-gameplay",
+                "source": "IGN Africa",
+                "date": "2026-11-18T12:31:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6's Map Contains Areas That Could Be Used In The ‘Future,’ Says Rockstar",
+                "desc": "The studio also explained why you can't gamble in GTA 6 despite a casino being included on the map",
+                "image": "https://kotaku.com/app/uploads/2026/11/GTA-6-zoo-1200x675.jpg",
+                "url": "https://kotaku.com/gta-6s-map-contains-areas-that-could-be-used-in-the-future-says-rockstar-2000756338",
+                "source": "Kotaku",
+                "date": "2026-11-18T12:30:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Will GTA 6 have a 60 FPS or 40 FPS mode? Rockstar explains why it's locked at 30 FPS on PS5 and Xbox",
+                "desc": "If you were hoping for a performance mode in Grand Theft Auto 6, you will need to adjust your expectations. Rockstar Games has officially confirmed that the highly anticipated title is locked at 30 FPS across all current-generation consoles, including the powerful PS5 Pro. With no 60 FPS or 40 FPS modes available at launch, developers explain that the sheer complexity, AI density, and ray-traced visuals of Vice City are simply too demanding for current console hardware.",
+                "image": "https://www.clarin.com/img/2026/08/26/AG1l85Deq_2000x1500__1.jpg",
+                "url": "https://www.clarin.com/us-news/will-gta-6-have-60-fps-or-40-fps-mode-rockstar-explains-why-its-locked-at-30-fps-on-ps5-and-xbox_0_B8gAwQM2ZM.html",
+                "source": "Clarin.com",
+                "date": "2026-11-18T12:29:13Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Family Signs 'Do Not Disturb' Contract For GTA 6 Launch: 'He Won't Cook Meals'",
                 "desc": "GTA 6: The family drew up a written agreement specifically designed to manage the chaos of launch day.",
@@ -1174,99 +1264,99 @@
                 "source": "The Register",
                 "date": "2026-11-16T13:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6: Original Grand Theft Auto creators say they have not played the game before launch",
-                "desc": "Dave Jones and Brian Baglow, who worked on the 1997 original, told the BBC they are waiting for Grand Theft Auto 6 like everyone else, as pre-orders set new records.",
-                "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261110091029_GTA-6.jpg",
-                "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/technology/gta-6-original-grand-theft-auto-creators-say-they-have-not-played-the-game-before-launch-article-14080943.html",
-                "source": "Moneycontrol.com",
-                "date": "2026-11-16T05:27:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Optus, Vodafone users miss out as Telstra launches RCS",
-                "desc": "Australia's largest telco beginning support across Android, iOS.",
-                "image": "https://ia.acs.org.au/content/dam/ia/article/images/2026/telstra%20logo%20smartphone%20shutterstock.jpg",
-                "url": "https://ia.acs.org.au/article/2026/optus--vodafone-users-miss-out-as-telstra-launches-rcs.html",
-                "source": "Information Age | ACS",
-                "date": "2026-11-16T05:18:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Someone got Windows running on the iPhone Duo, and you can too",
-                "desc": "The Duo isn't even a month old.",
-                "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/windows-11-iphone-duo-featured.jpg?w=1600&h=900&fit=crop",
-                "url": "https://www.xda-developers.com/someone-got-windows-running-on-the-iphone-duo-and-you-can-too/",
-                "source": "XDA",
-                "date": "2026-11-16T05:18:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This souls-like RPG that parodies Dark Souls is now 80% off on Steam",
-                "desc": "Over The Moon’s Dark Souls parody, The Last Hero of Nostalgaia, casts you as a stick figure in a world literally fading into pixelation, plus a narrator who openly despises you. It’s 80% off until 29 November, its cheapest price ever, and runs even on a GTX 750 Ti.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/The-last-hero-of-nostalgaia.png",
-                "url": "https://www.notebookcheck.net/This-souls-like-RPG-that-parodies-Dark-Souls-is-now-80-off-on-Steam-its-all-time-low.1451072.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-11-16T05:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Integrating AI and Robotics for Persistent Materials Science Research Systems",
-                "desc": "Artificial intelligence for materials science is moving beyond isolated prediction and optimization toward integrated research systems that connect computation, experimentation and scientific reasoning.",
-                "image": "https://www.azom.com/images/news/ThumbForNews_66051_1794806933729364.jpg",
-                "url": "https://www.azom.com/news.aspx?newsID=66051",
-                "source": "AZoM",
-                "date": "2026-11-16T05:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Connecting Constellations: The Shift to Real-Time Space Operations",
-                "desc": "After years of development and demonstrations, optical communications are reshaping how the space industry approaches mission architectures. Kepler’s",
-                "image": "https://payloadspace.com/wp-content/uploads/2026/11/Kepler-Network-Hero-2x3-1.jpg",
-                "url": "https://payloadspace.com/connecting-constellations-the-shift-to-real-time-space-operations/",
-                "source": "Payload Space",
-                "date": "2026-11-16T05:08:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PS5 jailbreak progress made on latest firmware 14.22, days before GTA 6 release date",
-                "desc": "Sony may be monitoring a possible new exploit for PS5 firmware 14.22. A prolific homebrew developer says he achieved a game dump on the November 2nd console update. That’s the software version GTA 6 requires, but it’s uncertain if a compatible jailbreak will emerge in the coming weeks.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/PS5ConsoleJailbreakGTA6.jpg",
-                "url": "https://www.notebookcheck.net/PS5-jailbreak-progress-made-on-latest-firmware-14-22-days-before-GTA-6-release-date.1451238.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-11-16T05:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation Black Friday sale takes $100 off PS VR2 and more",
-                "desc": "PlayStation Black Friday deals include $100 off PS VR2, $20 off DualSense controllers and savings on Pulse audio, PS5 games and more.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/15/USAT/92798129007-pshero.png?crop=1999,1124,x0,y0&width=1999&height=1124&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/shopping/deals/black-friday/2026/11/16/playstation-black-friday-deals-video-games/92797098007/",
-                "source": "USA Today",
-                "date": "2026-11-16T05:04:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rockstar Could Have Avoided the GTA 6 Delays, but It Didn't Want to Make GTA 5.5",
-                "desc": "Rockstar has confirmed that it could have avoided the GTA 6 delays to 2026, but didn't want to rush development and release a “GTA 5.5.”",
-                "image": "https://static.beebom.com/wp-content/uploads/2026/11/GTA-6-Jason-and-Lucia-Image-with-GTA-5s-Michael.jpg",
-                "url": "https://beebom.com/rockstar-could-have-avoided-gta-6-delay/",
-                "source": "Beebom",
-                "date": "2026-11-16T04:59:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oppo Reno 17 Series Launch: Expected Price, Camera, Battery, Display And More; All You Need To Know",
-                "desc": "The Reno 17 is expected to sport a 6.56- or 6.57-inch flat 1.5K AMOLED/LTPS screen with a 144Hz refresh rate, while the Pro model may offer a more compact 6.32-inch AMOLED display featuring Gorilla Glass protection.",
-                "image": "https://c.ndtvimg.com/2026-11/l38vrjn4_oppo-_625x300_16_November_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-                "url": "https://www.ndtvprofit.com/technology/oppo-reno-17-series-launch-expected-price-camera-battery-display-and-more-all-you-need-to-know-12331833",
-                "source": "NDTV Profit",
-                "date": "2026-11-16T04:58:54Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "With Francophone Africa at its Core, YouScribe Expands, Launches a Service for Self",
+                "desc": "YouScribe CEO Anne-Sophie Steinlein told Publishing Perspectives that the new service for self-published Francophone authors was a response yet again to structural challenges with the book supply chain in Africa.",
+                "image": "https://publishingperspectives.com/wp-content/uploads/2030/06/Screen-Shot-2026-11-17-at-11.02.48-AM.png",
+                "url": "https://publishingperspectives.com/2026/11/with-francophone-africa-at-its-core-youscribe-expands-launches-a-service-for-self-published-authors/",
+                "source": "Publishing Perspectives",
+                "date": "2026-11-18T12:42:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Africa’s Water Security Ambitions Face a Defining Test at COP31",
+                "desc": "With a $30 billion annual financing gap, African governments face growing pressure to turn water investment priorities into projects that deliver results",
+                "image": "https://bantugazette.com/wp-content/uploads/2026/11/AU-Commissioner-Moses-Vilakati-.jpg",
+                "url": "https://bantugazette.com/africas-water-security-ambitions-face-a-defining-test-at-cop31/",
+                "source": "Bantu Gazette",
+                "date": "2026-11-18T12:40:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "1.4 billion euros for new anti-tank mines. The Bundeswehr is rebuilding its capabilities",
+                "desc": "The Bundeswehr plans to award a contract worth nearly €1.4 billion later this year to purchase and stockpile a new generation of Panzerabwehrverlegemine 3 (DM41) anti-tank mines. Deliveries of the mines, which will be manufactured by Dynamit Nobel Defence (DND), are expected to begin in 2028.",
+                "image": "https://cdn.defence24.pl/2026/11/16/1920x1080px/MJPFl5eoXEIbCMcELfTroA1FPnN4rQWU2TsN2pdS.ediz.jpg",
+                "url": "https://defence24.com/armed-forces/14-billion-euros-for-new-anti-tank-mines-the-bundeswehr-is-rebuilding-its-capabilities",
+                "source": "Defence24.com",
+                "date": "2026-11-18T12:40:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Emirati diplomat's bid to become UN Secretary-General faces opposition from 67 UK lawmakers over UAE's alleged role in one of Africa's most severe ongoing conflicts",
+                "desc": "A group of 67 British lawmakers has called on the UK government to block Emirati diplomat Lana Nusseibehs bid to become the next United Nations Secretary-General, arguing that allegations of the United Arab Emirates (UAE) support for Sudans paramilitary Rapid Support Forces (RSF) raise questions about her ability to lead the organisation impartially. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/0LRktkqTURBXy8wOGM1OGQ2NTFjMzgxYWNhYTIxMzdiYzZjZWVkMGY5MC5qcGVnkpUDABXNAqjNAX6TBc0EsM0Cdg",
+                "url": "https://africa.businessinsider.com/local/markets/emirati-diplomats-bid-to-become-un-secretary-general-faces-opposition-from-67-uk/mzglyn9",
+                "source": "Business Insider Africa",
+                "date": "2026-11-18T12:38:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mahama: Mob violence will not solve South Africa’s migration crisis",
+                "desc": "President John Dramani Mahama has condemned attacks on foreigners and mob violence in South Africa, saying vigilantism and the brutalisation of suspected",
+                "image": "https://www.citinewsroom.com/wp-content/uploads/2026/11/897310157_1288556996804020_6807344916069576603_n.jpg",
+                "url": "https://www.citinewsroom.com/2026/11/mahama-mob-violence-will-not-solve-south-africas-migration-crisis/",
+                "source": "CitiNewsroom.com",
+                "date": "2026-11-18T12:37:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICJ to rule on Rohingya genocide case: What to expect",
+                "desc": "The ICJ rules on The Gambia’s genocide case against Myanmar. Here’s what’s at stake for the Rohingya.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26105294013630-1794917671.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect",
+                "source": "Al Jazeera",
+                "date": "2026-11-18T12:37:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nigeria: COP31 - Six Billion Tonnes of Emissions From Burning Wood May Be Missing From Climate Reports - Report",
+                "desc": "Campaigners at COP31 say an accounting rule lets countries record emissions from wood-fired power as zero. They want bioenergy kept out of the summit's final decision.",
+                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+                "url": "https://allafrica.com/stories/202611180382.html",
+                "source": "allAfrica.com",
+                "date": "2026-11-18T12:37:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine's War Is About More Than Territory",
+                "desc": "Ukraine sees the war as existential, but its implications extend far beyond Europe, with India and Asia increasingly in the picture.",
+                "image": "https://stratnewsglobal.com/wp-content/uploads/2026/11/‘India-Could-Help-Stop-This-Warweb.jpg",
+                "url": "https://stratnewsglobal.com/the-gist/ukraines-war-is-about-more-than-territory/",
+                "source": "StratNews Global",
+                "date": "2026-11-18T12:36:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shared Prosperity Through Green Transition: Foreign Delegates Explore China's Path Rooted in History, Civilization and Ecological Practice",
+                "desc": "PR Newswire | ​BEIJING, Nov. 18, 2026 /PRNewswire/ -- A news report f",
+                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2026/11/favicon-wI5RhX.png",
+                "url": "https://macaubusiness.com/shared-prosperity-through-green-transition-foreign-delegates-explore-chinas-path-rooted-in-history-civilization-and-ecological-practice/",
+                "source": "Macau Business",
+                "date": "2026-11-18T12:30:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Boy who climbed Northampton telecoms tower is released",
+                "desc": "Northamptonshire Police confirm he will now face no further action.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2a75/live/b21fb1f0-e34b-11f1-99aa-0f40b013ad11.jpg",
+                "url": "https://www.bbc.com/news/articles/crn80y5nx188o",
+                "source": "BBC",
+                "date": "2026-11-18T12:29:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Teacher Who Had Baby With 12-Year-Old Student Jailed After CCTV Caught Her Abusing Him in Family Home",
                 "desc": "Naomi Tekea Craig was sentenced to eight years and six months in prison after pleading guilty to sexually abusing a pupil from age 12 and having his child.",
@@ -1806,98 +1896,8 @@
                 "source": "KBC Digital",
                 "date": "2026-11-16T12:47:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "What’s next for Europe in Ukraine talks",
-                "desc": "Presented by European Commission’s Directorate-General for Education, Youth, Sport and Culture By NICHOLAS VINOCUR with HANNE COKELAERE, GREGORIO SORGI and GERARDO FORTUNA PRESENTED BY Send tips he…",
-                "image": "https://www.politico.eu/wp-content/uploads/2025/02/04/Brussels-Playbook.png",
-                "url": "https://www.politico.eu/newsletter/brussels-playbook/whats-next-for-europe-in-ukraine-talks/",
-                "source": "POLITICO.eu",
-                "date": "2026-11-16T05:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda Taps Zambian Tour Operators to Market Gorillas, Wildlife ,Tourism Attractions",
-                "desc": "Tour operators from Uganda and Zambia are seeking to expand their businesses into each other's tourism markets through a joint marketing initiative aimed at increasing cross-border travel and boosting tourism revenue. Th...",
-                "image": "https://nilepost.co.ug/new_cms/wp-content/uploads/2026/11/17e8f1b6-7f3d-4acc-a406-5b4fdd127433.jpg",
-                "url": "https://nilepost.co.ug/news/387615/uganda-taps-zambian-tour-operators-to-market-gorillas-wildlife-tourism-attractions",
-                "source": "Nilepost",
-                "date": "2026-11-16T05:26:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "West Africa: Ecowas - Community Court to Hold 2026 Judicial Retreat",
-                "desc": "The Community Court of Justice, ECOWAS, will hold its 2026 Judicial Retreat from 16 to 20 November 2026 at Zuma Rock Resort, Niger State, Nigeria, under the theme: Consolidating Judicial Excellence: Strengthening Institutional Standards and Working Procedures for Timely and Quality Justice Delivery.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202611160074.html",
-                "source": "allAfrica.com",
-                "date": "2026-11-16T05:26:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Staggered age of consent becomes 'difficult' with smaller age gaps - chief victims advisor",
-                "desc": "It is worth having a conversation about a staggered age of consent for sex, says the chief victims advisor, but she also warns that there could be serious challenges in enforcing it.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--hRwTh6qR--/t_tohu-badge-facebook/f_auto/q_auto/4JTIVRV_NUQX3EXFRRFALNBOHKRNEQFMNU_avif",
-                "url": "https://www.rnz.co.nz/news/crime-and-justice/2631607/staggered-age-of-consent-becomes-difficult-with-smaller-age-gaps-chief-victims-advisor",
-                "source": "RNZ",
-                "date": "2026-11-16T05:25:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sudan: Drone Attacks Deepen Suffering of Women and Children, Sudan Activists Warn",
-                "desc": "Sudanese feminists and women's rights activists warn that the use of drones in Sudan's war is worsening the humanitarian and health crisis facing women and children. Attacks on populated areas, civilian infrastructure, and essential services are depriving civilians of their rights to life, security, food, and medical care. They warned of the escalating humanitarian and health consequences of the use of drones in the ongoing war in Sudan. They say attacks on populated areas, civilian facilities, and",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202611160051.html",
-                "source": "allAfrica.com",
-                "date": "2026-11-16T05:19:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thousands Of US Flights Cancelled, Delayed After Air Traffic Control System Failure",
-                "desc": "Thousands of US flights were cancelled or delayed on Sunday as the US air-traffic control system continued to recover from a techni",
-                "image": "https://tvcnews.tv/wp-content/uploads/2026/11/Flight.png",
-                "url": "https://www.tvcnews.tv/thousands-of-us-flights-cancelled-delayed-after-air-traffic-control-system-failure/",
-                "source": "TVC News",
-                "date": "2026-11-16T05:12:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PAC raises concerns over policy, project continuity after Loke resignation",
-                "desc": "KUALA LUMPUR, Nov 16 — The Public Accounts Committee (PAC) today expressed concern over the potential impact of Transport Minister Anthony Loke’s resignation on policy...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/11/16/374488.jpg",
-                "url": "https://www.malaymail.com/news/malaysia/2026/11/16/pac-raises-concerns-over-policy-project-continuity-after-loke-resignation/243463",
-                "source": "Malay Mail",
-                "date": "2026-11-16T05:09:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ethiopia and Sudan accuse each other of backing armed fighters as fears of a wider conflict grow",
-                "desc": "Tensions between Sudan and Ethiopia have escalated, with each country accusing the other of supporting armed groups that wage war within its borders",
-                "image": "https://static.independent.co.uk/2026/11/16/05/Sudan_Ethiopia_Explainer_29794.jpg?width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/sudan-ethiopia-african-cairo-african-union-b3085402.html",
-                "source": "The Independent",
-                "date": "2026-11-16T05:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "European ships ordered out as EU-Mauritania fishing deal expires",
-                "desc": "International, MNA | A fishing partnership agreement between Mauritania and the European Union giving European vessels access to the African nation's waters",
-                "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2025/12/opengraph-image.webp",
-                "url": "https://macaubusiness.com/european-ships-ordered-out-as-eu-mauritania-fishing-deal-expires/",
-                "source": "Macau Business",
-                "date": "2026-11-16T05:04:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spy scandal and midterm defeat heat up Trump's Asia visit",
-                "desc": "Trump will first visit Manila ​for meetings with Southeast Asian and regional leaders before jetting to Shenzhen for the Asia-Pacific Economic Cooperation forum, where he will hold three-way discussions with Xi and ‌Putin.",
-                "image": "https://www.reuters.com/resizer/v2/L7UZOZN22FM6ZENKHWVYLBHE6Q.jpg?auth=35a55c11ba345096a2c2f4f736d74db390268f154ee07b78c1ad0ebf4843b51f&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/china/spy-scandal-midterm-defeat-heat-up-trumps-asia-visit-2026-11-16/",
-                "source": "Reuters",
-                "date": "2026-11-16T05:04:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-18T18:25:06.207468Z"
+    "lastGlobalSync": "2026-11-19T00:44:07.683187Z"
 }
