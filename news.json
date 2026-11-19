@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Thursday’s analyst upgrades and downgrades",
+                "desc": "Inside the Market’s roundup of some of today’s key analyst actions",
+                "image": "https://www.theglobeandmail.com/resizer/v2/ZTVKI5FBFRAIBDML5OLBZ4TH5A.JPG?auth=ce9790a78a17d476d25f1d3abeed3c916e1735ffe383a4501fadadce0adc3089&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-thursdays-analyst-upgrades-and-downgrades-333/",
+                "source": "The Globe and Mail",
+                "date": "2026-11-19T11:47:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Airlines are dismantling premium class. Is it worth it?",
+                "desc": "Delta and United are unbundling premium cabins with cheaper basic fares. You keep the upscale seat but give up some familiar perks.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/13/USAT/92754392007-delta-one-suite-2.jpg?crop=1999,1126,x0,y103&width=1999&height=1126&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/travel/airline-news/2026/11/19/airlines-basic-business-class-passport-check/92729875007/",
+                "source": "USA Today",
+                "date": "2026-11-19T11:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold Price Forecast: Falling Stocks Fail to Lift Gold as Dollar Rises",
+                "desc": "Gold remains under pressure below $3,800 as the dollar stays strong, while the Dow-to-gold ratio’s rebound puts the $3,500–$3,600 support zone in focus.",
+                "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/gold-precious-metal-price-chart-02-1-1.jpg?width=1201",
+                "url": "https://www.fxempire.com/forecasts/article/gold-price-forecast-falling-stocks-fail-to-lift-gold-as-dollar-rises-1645680",
+                "source": "FXEmpire",
+                "date": "2026-11-19T11:45:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Deutsche Telekom invests 100 million euros in Mistral AI as a first step toward a German AI partnership",
+                "desc": "Deutsche Telekom's T.Capital Tech Fund has invested 100 million euros (about $110 million) in Mistral AI's Series D round, the German operator said on Nov. 19.…",
+                "image": "https://mlq.ai/media/news_images/deutsche-telekom-invests-100-million-euros-in-mistral-ai-as-a-first-step-toward-.jpg",
+                "url": "https://mlq.ai/news/deutsche-telekom-invests-100-million-euros-in-mistral-ai-as-a-first-step-toward-a-german-ai-partnership/",
+                "source": "MLQ.ai",
+                "date": "2026-11-19T11:43:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pos Malaysia proposes RM52.7mil disposal of marine vessel to Hong Kong firm",
+                "desc": "PETALING JAYA: Pos Malaysia Bhd, via its indirect wholly-owned subsidiary, PNSL Bhd, is proposing to dispose of a marine vessel to Hong Kong-based WYW Co Ltd for RM52.7mil.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/11/19/4221436.jpg",
+                "url": "https://www.thestar.com.my/business/business-news/2026/11/19/pos-malaysia-proposes-rm527mil-disposal-of-marine-vessel-to-hong-kong-firm",
+                "source": "The Star",
+                "date": "2026-11-19T11:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India Has A New Most Valuable Brand, And It Isn't HDFC Bank. Kantar 2026 Report Lists Top 10",
+                "desc": "Airtel has overtaken HDFC Bank to become India's most valuable brand for the first time, with a valuation of $43.2 billion, even as the country's top 100 brands lose value.",
+                "image": "https://c.ndtvimg.com/2026-11/qi31e11c_airetl_625x300_19_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+                "url": "https://www.ndtvprofit.com/india/india-has-a-new-most-valuable-brand-and-it-isnt-hdfc-bank-kantar-2026-report-lists-top-10-12349431",
+                "source": "NDTV Profit",
+                "date": "2026-11-19T11:38:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The US IPO market is bigger than ever, but not busier",
+                "desc": "Widely tipped to come roaring ​back in 2026 after years of sluggish activity, the US IPO market has proved a study ‌in contrasts, with fundraising shattering records while the number of companies going public stays well below historical highs.",
+                "image": "https://www.reuters.com/resizer/v2/L2VIYMCFGBIDNEMMWURAXBEBBE.jpg?auth=5c369a9928871b61a1cf83fad95484cb8472e7b3df0d2928a3ce517c72c26adf&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/legal/transactional/us-ipo-market-is-bigger-than-ever-not-busier-2026-11-19/",
+                "source": "Reuters",
+                "date": "2026-11-19T11:35:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AI agents to pay bills with AXS, Visa and Mastercard tie-up",
+                "desc": "AXS, Visa and Mastercard are set to let AI agents pay bills in Singapore, with security checks and biometric verification. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6566b47c6c08e04b4b2285fc69456eac07b0b059940504890b3159f2c51e6827?t=og",
+                "url": "https://www.straitstimes.com/tech/axs-visa-and-mastercard-partner-to-let-ai-agents-pay-bills-without-multiple-app-log-ins",
+                "source": "The Straits Times",
+                "date": "2026-11-19T11:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Proposed financial services cyber and AI guidance: messages for firms, boards and Senior Managers",
+                "desc": "Proposed financial services cyber and AI guidance: messages for firms, boards and Senior Managers",
+                "image": "https://edge.sitecorecloud.io/allenoveryllp1-aoshearmanwe0db-production-ecf3/media/project/aoshearman/aoshearman/blogs/images/on-investigations/padlocks-four-locked-one-unlocked-gettyimages-1365148937.jpg?h=1063&iar=0&w=1600",
+                "url": "https://www.aoshearman.com/en/insights/ao-shearman-on-investigations/ai-agent-attacks-and-the-uk-financial-regulators",
+                "source": "A&O Shearman",
+                "date": "2026-11-19T11:33:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BGC eats: Theo and Philo marks 16th year with first chocolate cafe",
+                "desc": "There's a new cafe in Bonifacio Global City, and it's built around chocolate.",
+                "image": "https://od2-image-api.abs-cbn.com/prod/2026111911114/a157e01dbf30712a4cfca818ac09116ca7c3cf0fb7a02eff2e41a72666f7f463.png?w=1200&h=800",
+                "url": "https://www.abs-cbn.com/lifestyle/food-travel/2026/11/19/bgc-eats-theo-and-philo-marks-16th-year-with-first-chocolate-cafe-1910",
+                "source": "ABS-CBN",
+                "date": "2026-11-19T11:28:35Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "In Ireland’s ‘no notions’ culture, how can a manager lead with and foster confidence?",
                 "desc": "Confidence building needs to be done within our more collaborative, relationship-focused and egalitarian workplaces",
                 "image": "https://www.irishtimes.com/resizer/v2/VIPEMPYHDNAQNGB63GCQB2KU5U.jpg?smart=true&auth=13ee279a3d72b05503142d8b91dd34c014ab4a76de295d369378ec062e8c18db&width=1200&height=630",
@@ -542,99 +632,99 @@
                 "source": "The Independent",
                 "date": "2026-11-17T13:18:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Bilston mum named Slimming World's woman of the year after losing 13st",
-                "desc": "Kay Lake, from Bilston, says the turning point came when her daughter booked her wedding date.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d28/live/2fddceb0-e207-11f1-99b6-a35a62fa4264.png",
-                "url": "https://www.bbc.co.uk/news/articles/crpdwn9qwwv0o",
-                "source": "BBC",
-                "date": "2026-11-17T06:36:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. agencies detail probe on Nvidia partner Megaspeed in 2024",
-                "desc": "The Commerce and Justice departments said in a joint statement that U.S. investigations into Megaspeed began in 2024.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108548786-1794383341968-gettyimages-2303986643-AFP_D6ZC9WF.jpeg?v=1794383419&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
-                "source": "CNBC",
-                "date": "2026-11-17T06:36:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Why did market rise today? Sensex jumps 427 pts, Nifty closes above 25,350 for first time since Middle East war began. 4 factors explained",
-                "desc": "Although Diwali has come to an end, the stock market is witnessing a remarkable surge. The gains in Sensex and Nifty are primarily driven by falling oil prices and ongoing purchases by foreign investors. Furthermore, the rupee is strengthening thanks to these capital infusions and a favorable outlook on commodity prices. Banking stocks are leading the charge, fostering a positive sentiment in the market.",
-                "image": "https://img.etimg.com/thumb/msid-135913678,width-1200,height-900,imgsize-218222,overlay-etmarkets/articleshow.jpg",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-700-pts-nifty-above-25450-as-explosive-rally-continues-4-factors-behind-todays-gains/articleshow/135913626.cms?from=mdr",
-                "source": "The Economic Times",
-                "date": "2026-11-17T06:30:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US releases details of Megaspeed probe, says investigation began in 2024",
-                "desc": "WASHINGTON (Nov 16): The US Commerce Department and Justice Department released information on Monday about Washington's investigation into Singapore-based cloud-computing company Megaspeed, Nvidia's Asia-Pacific partner, which the departments said began two years ago.",
-                "image": "https://assets.theedgemarkets.com/Megaspeed-AFP_20261115173420_APP.jpg",
-                "url": "https://theedgemalaysia.com/node/826098",
-                "source": "The Edge Malaysia",
-                "date": "2026-11-17T06:30:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FTSE 100 Live: Stocks slide as tech struggles persist; oil lower",
-                "desc": "Welcome back to the City AM liveblog for your top news, updates and analysis from the FTSE 100 and other UK markets.",
-                "image": "https://www.cityam.com/wp-content/uploads/2026/05/London-Stock-Exchange-investment-e1777905021491.jpg",
-                "url": "https://www.cityam.com/ftse-100-live-stocks-to-slide-after-asian-markets-fall-oil-lower/",
-                "source": "City AM",
-                "date": "2026-11-17T06:27:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US government's Department of Commerce and Department of Justice ‘break rule’, issue joint statement on MegaSpeed, the company at 'centre' of Nvidia founder Jensen Huang's 'romantic scandal'",
-                "desc": "For the first time, two US government departments -- US Department of Commerce and Department of Justice -- have issued a joint statement on MegaSpeed,",
-                "image": "https://static.toiimg.com/thumb/msid-135913624,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-governments-department-of-commerce-and-department-of-justice-break-rule-issue-joint-statement-on-megaspeed-the-company-at-centre-of-nvidia-founder-jensen-huangs-romantic-scandal/articleshow/135913596.cms",
-                "source": "The Times of India",
-                "date": "2026-11-17T06:26:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan’s most powerful supercomputer hit by unauthorized access",
-                "desc": "Potentially leaked data includes names, emails and authentication information used to connect to Fugaku and other services.",
-                "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574533.jpg?v=3.1",
-                "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/fugaku-unauthorized-access/",
-                "source": "The Japan Times",
-                "date": "2026-11-17T06:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kia Sorento Off To a Solid Start In India As Sales Cross 4.5k Since Launch",
-                "desc": "Already positioned as a premium, feature-rich SUV, Sorento is now backed by new initiatives aimed at making ownership even more rewarding",
-                "image": "https://www.rushlane.com/wp-content/uploads/2026/10/kia-sorento-review-2.jpg",
-                "url": "https://www.rushlane.com/kia-sorento-off-to-a-solid-start-in-india-as-sales-cross-4-5k-since-launch-12561339.html",
-                "source": "RushLane",
-                "date": "2026-11-17T06:22:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Finnish Iceye Oy launches €2 billion bid for Italian rocket maker Avio",
-                "desc": "Finnish satellite operator Iceye Oy announced ​on Tuesday an all-cash offer for Italian rocket ‌maker Avio to create an integrated space and defence group.",
-                "image": "https://www.reuters.com/resizer/v2/EXTPDGCKSBME7KKYGP7X4J6AFY.jpg?auth=f3d34774d703928cf82729cdd7efb82e2e953ebf3122c3283fc0a2e96b9993cb&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/aerospace-defense/finnish-iceye-oy-launches-bid-italian-rocket-maker-avio-2026-11-17/",
-                "source": "Reuters",
-                "date": "2026-11-17T06:22:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Unacceptable Royal Mail post delays continue across South East",
-                "desc": "MPs across Kent, Sussex and Surrey say their inboxes are full of complaints from constituents.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cca/live/19a8ed10-dcf7-11f1-93e1-3b657b665bcf.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cqkgjg77xkm4o",
-                "source": "BBC",
-                "date": "2026-11-17T06:13:26Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "GTA 6: World's costliest video game made for ₹9,300 cr+, beats new Avengers Doomsday, Ramayana’s combined budget",
+                "desc": "Grand Theft Auto VI is reported to be the world's most expensive video game ever made at a reported cost of $1 Billion. It is even costlier than world's most expensive film and India's Ramayana.",
+                "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/217107_1795089141686_Ejsd_1795089145293_cDKb_f7634b73-f91b-498a-a451-256584379f12_0DyF.jpg",
+                "url": "https://www.livemint.com/entertainment/gta-6-worlds-costliest-video-game-made-for-rs-9-300-cr-beats-new-avengers-doomsday-ramayana-s-combined-budget-11795082145214.html",
+                "source": "Livemint",
+                "date": "2026-11-19T11:53:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Obesity Journal: Scope, Metrics & Submission",
+                "desc": "Explore the Obesity journal profile, covering The Obesity Society's flagship scope, 4.9 Impact Factor, ScholarOne submission steps, and open access options.",
+                "image": "https://casrai.org/api/og?title=Obesity%20Journal%3A%20Scope%2C%20Metrics%20%26%20Submission&eyebrow=Guide&type=guide",
+                "url": "https://casrai.org/guides/obesity-journal",
+                "source": "CASRAI",
+                "date": "2026-11-19T11:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Round Up: Spare A Thought For These Games Launching On 'GTA 6 Day'",
+                "desc": "Wait, there are OTHER games?? - We interrupt your Grand Theft Auto 6 playtime to bring you the following announcement: there are more games launching today. ...",
+                "image": "https://images.nintendolife.com/6184a804374d8/1280x720.jpg",
+                "url": "https://www.nintendolife.com/news/2026/11/round-up-spare-a-thought-for-these-games-launching-on-gta-6-day",
+                "source": "Nintendo Life",
+                "date": "2026-11-19T11:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Steep rise in flu cases and hospitalisations amid vaccine shortage",
+                "desc": "Data shows cases up 40 per cent from 181 to 254 over the week covering November 9th to 15th",
+                "image": "https://www.irishtimes.com/resizer/v2/F7RJ7ASHNNFPRHRJUXJ4IKIPSY.jpg?smart=true&auth=4febaca715189bcf3de18ef6c09119d5f80e27bc7c13d4f4744519acc77e87e0&width=1200&height=630",
+                "url": "https://www.irishtimes.com/health/2026/11/19/steep-rise-in-flu-cases-and-hospitalisations-amid-vaccine-shortage/",
+                "source": "The Irish Times",
+                "date": "2026-11-19T11:44:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 cheat codes: Full list of cheats and how to unlock them all",
+                "desc": "With these GTA 6 cheats, you'll have plenty of fun in Vice City on both Xbox Series X/S and PS5. Here's a full list of cheat codes and how to unlock them.",
+                "image": "https://images.immediate.co.uk/production/volatile/sites/3/2026/11/gta-6-cheats-cheat-codes-c1006c5.jpg?resize=1200%2C630",
+                "url": "https://www.radiotimes.com/technology/gaming/gta-6-cheats-cheat-codes/",
+                "source": "Radio Times",
+                "date": "2026-11-19T11:36:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Grand Theft Auto VI' released after 13-year wait, selling over 17 million copies",
+                "desc": "The series lets players live out gangster fantasies, smash up cars and fight whoever they choose in a fictionalised US city populated by lowlifes, sex workers and thugs.",
+                "image": "https://images.euronews.com/articles/stories/09/99/92/68/1200x675_cmsv2_3fd31207-9d62-5424-8d95-96f53b6e33c7-9999268.jpg",
+                "url": "https://www.euronews.com/2026/11/19/grand-theft-auto-vi-released-after-13-year-wait-selling-over-17-million-copies",
+                "source": "Euronews.com",
+                "date": "2026-11-19T11:31:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Tower Obtains Au Assays up to 15.1 g/t and 8.06 g/t from Boulder and Bedrock Samples, Respectively, in the Middle of the Durand Stock on the Eastern Trajectories of the Blue Sky and Lightning Trends",
+                "desc": "Vancouver, British Columbia--(Newsfile Corp. - November 19, 2026) - Tower Resources Ltd. (TSXV: TWR) (\"Tower\" or the \"Company\") is pleased to report assay results from 38 grab samples1 of boulders and outcropping or subcropping bedrock collected on the Rabbit North property in October within a 400-m-wide corridor straddling the fertile ENE structural trend between the Blue Sky Zone (see Fig. 1) and the 1001-grain gold-in-till anomaly previously identified 800 m to the northeast near the center..",
+                "image": "https://s.yimg.com/lo/mysterio/api/d9f51677d2f6146f90d6a3d4d7a9b5593953e567d1a08d202ed8ca8df22eb717/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsfile_64%2Fa8b5cb1839985ec3a4d259487a47583b.jpg",
+                "url": "https://finance.yahoo.com/markets/commodities/articles/tower-obtains-au-assays-15-113000464.html",
+                "source": "Yahoo Finance",
+                "date": "2026-11-19T11:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best early Black Friday trading card deals 2026: Pokémon, Magic: The Gathering, Yu-Gi-Oh!, and more",
+                "desc": "Early Black Friday trading card bargains are still coming in strong, with major deals on Pokémon's 30th Celebration, MTG's Star Trek, Yu-Gi-Oh, and more.",
+                "image": "https://helios-i.mashable.com/imagery/articles/05AUPIZVim7yG822UvJVP3X/hero-image.fill.size_1200x675.v1795000654.jpg",
+                "url": "https://mashable.com/life/best-early-black-friday-trading-card-live-deals-2026",
+                "source": "Mashable",
+                "date": "2026-11-19T11:26:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Core 270K Plus With 32GB DDR5, Z890 Board and 1TB SSD for $1,079.99 — BigGo Finance",
+                "desc": "Newegg is offering an Intel desktop bundle built around the 24-core Core Ultra 7 270K Plus for $1,079.99, pairing the chip with 32GB of Corsair…",
+                "image": "https://img.biggo.com/pUTdYzS4N3GZMfZuvldK4XCctCaEUMPAe6kZ_09XnrM/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzllNjkwMWJhLWZjMTctNDllMS1iOTQ1LWVkMTNlNzdlMjU2M18xNzk1MDg3ODM5X2RlZmF1bHQud2VicA.jpg",
+                "url": "https://finance.biggo.com/news/9e6901ba-fc17-49e1-b945-ed13e77e2563",
+                "source": "BigGo Finance",
+                "date": "2026-11-19T11:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chart NOK/SEK Update: Choppy in broad range",
+                "desc": "Consolidation has given way to a push into congestion resistance within 1.0500 - 1.0550",
+                "image": "https://continuumeconomics.com/favicon.png",
+                "url": "https://continuumeconomics.com/a/8423cbb8/chart-noksek-update-choppy-in-broad-range-background-studies-under-pressure",
+                "source": "Continuum Economics",
+                "date": "2026-11-19T11:25:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Microsoft is killing off To Do, and some people don’t like what’s replacing it",
                 "desc": "Add \"Move to another app\" to your Microsoft To Do list.",
@@ -1174,99 +1264,99 @@
                 "source": "Business Insider",
                 "date": "2026-11-17T13:21:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "NBA 2K27 and GTA Vice City Team Up for a Massive Season 3 Crossover",
-                "desc": "Two of the biggest video game franchises in history are officially colliding. NBA 2K27 is teaming up with Rockstar Games...",
-                "image": "https://www.hot100fm.com.au/wp-content/uploads/sites/13/2026/11/20261117-nba2k-gta-feature.jpg",
-                "url": "https://www.hot100fm.com.au/trending/gaming/nba-2k27-and-gta-vice-city-team-up-for-a-massive-season-3-crossover/",
-                "source": "Hot100FM",
-                "date": "2026-11-17T06:39:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NBA 2K27 and GTA Vice City Team Up for a Massive Season 3 Crossover",
-                "desc": "Two of the biggest video game franchises in history are officially colliding. NBA 2K27 is teaming up with Rockstar Games...",
-                "image": "https://www.4ca.com.au/wp-content/uploads/sites/14/2026/11/20261117-nba2k-gta-feature.jpg",
-                "url": "https://www.4ca.com.au/trending/gaming/nba-2k27-and-gta-vice-city-team-up-for-a-massive-season-3-crossover/",
-                "source": "4CA",
-                "date": "2026-11-17T06:39:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Smartphones, TVs, refrigerators and daily essentials set to get costlier after Diwali as companies pass on rising input costs; handset prices have already risen over 40% this year",
-                "desc": "It’s time to prepare for a squeeze on your household budgets as companies prepare to hike prices with the Diwali festive season over.",
-                "image": "https://static.toiimg.com/thumb/msid-135913764,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/business/india-business/smartphones-tvs-refrigerators-and-daily-essentials-set-to-get-costlier-after-diwali-as-companies-pass-on-rising-input-costs-handset-prices-have-already-risen-over-40-this-year/articleshow/135913576.cms",
-                "source": "The Times of India",
-                "date": "2026-11-17T06:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Datacentrix strengthens data protection, cyber resilience expertise with three Rubrik Black Belt-qualified resources",
-                "desc": "Datacentrix is the only African Rubrik partner with more than one Black Belt-qualified resource.",
-                "image": "https://www.itweb.co.za/static/pictures/2026/11/Shawn-Marx-17Nov2026.jpg",
-                "url": "https://www.itweb.co.za/article/datacentrix-strengthens-data-protection-cyber-resilience-expertise-with-three-rubrik-black-belt-qualified-resources/KzQenMjy1le7Zd2r",
-                "source": "ITWeb",
-                "date": "2026-11-17T06:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple to let users face-unlock iPhone Duo, addressing key drawback",
-                "desc": "Apple Inc added the ability for iPhone Duo owners to unlock the device using facial recognition, addressing a key drawback of the company's first foldable smartphone.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/11/17/4216579.jpg",
-                "url": "https://www.thestar.com.my/tech/tech-news/2026/11/17/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback",
-                "source": "The Star",
-                "date": "2026-11-17T06:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DOOM: The Dark Ages Gets Endless 'Slaughter Mode' Update This November",
-                "desc": "DOOM: The Dark Ages | Revelations just got a massive, free update called Slaughter Mode. If you thought the base...",
-                "image": "https://www.4mk.com.au/wp-content/uploads/sites/16/2026/11/20261117-doom-feature.jpg",
-                "url": "https://www.4mk.com.au/trending/gaming/doom-the-dark-ages-gets-endless-slaughter-mode-update-this-november/",
-                "source": "4MK",
-                "date": "2026-11-17T06:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple to face trial over alleged iPhone repair restrictions in France",
-                "desc": "Apple is to stand trial in Paris in June 2027 on suspicion of having organised the planned obsolescence of various iPhone models by preventing repairs outside official outlets, a source close to the case told AFP on Tuesday.",
-                "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/09193944/screenshot-2026-09-09-at-1-26-36-pm-copy_1788979184-1200x630.webp",
-                "url": "https://punchng.com/apple-to-face-trial-over-alleged-iphone-repair-restrictions-in-france/",
-                "source": "Punch Newspapers",
-                "date": "2026-11-17T06:23:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DOOM: The Dark Ages Gets Endless 'Slaughter Mode' Update This November",
-                "desc": "DOOM: The Dark Ages | Revelations just got a massive, free update called Slaughter Mode. If you thought the base...",
-                "image": "https://www.4ca.com.au/wp-content/uploads/sites/14/2026/11/20261117-doom-feature.jpg",
-                "url": "https://www.4ca.com.au/trending/gaming/doom-the-dark-ages-gets-endless-slaughter-mode-update-this-november/",
-                "source": "4CA",
-                "date": "2026-11-17T06:14:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple faces Paris trial over iPhone planned obsolescence",
-                "desc": "Apple faces Paris trial over alleged planned obsolescence and repair restrictions on iPhones, according to a source. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/543ffda177f44199d76af7f282ac03399e8cf9835295a07126d1cad123768dac?t=og",
-                "url": "https://www.straitstimes.com/world/europe/apple-faces-paris-trial-over-alleged-planned-obsolescence-of-iphones-source",
-                "source": "The Straits Times",
-                "date": "2026-11-17T06:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Grand Theft Auto release could double New Zealand’s population on Thursday",
-                "desc": "Console gamers here are busy strategising how they can become Kiwis for the day and gain early access to the latest instalment of GTA",
-                "image": "https://www.irishtimes.com/resizer/v2/GPA2UKLORRIHHAMXY37C3X66II.jpg?smart=true&auth=56cb84cdc1f4ece81949b41d301bf84c579d5aa3dc10f30cf5d11cb8a57d9892&width=1200&height=630",
-                "url": "https://www.irishtimes.com/business/2026/11/17/grand-theft-auto-release-could-double-new-zealands-population-on-thursday/",
-                "source": "The Irish Times",
-                "date": "2026-11-17T06:01:20Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "Myanmar committed genocide in Rohingya massacres, UN court finds in historic verdict",
+                "desc": "The top United Nations court has ruled that thousands of killings and widespread sexual violence by Myanmar's security forces against the Rohingya Muslim minority population in 2017 amounted to state-sponsored genocide.",
+                "image": "https://live-production.wcms.abc-cdn.net.au/9d3b0423c08fc44797611f22473f0b2b?impolicy=wcms_watermark_news&cropH=2024&cropW=3599&xPos=0&yPos=188&width=862&height=485&imformat=generic",
+                "url": "https://www.abc.net.au/news/2026-11-19/myanmar-historic-genocide-verdict-at-un-court/107403108",
+                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+                "date": "2026-11-19T11:51:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+                "desc": "Trump threatens to ‘wipe out’ Iran in case of attack as Tehran’s capabilities remain unclear.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af2ed0732a1-1794305287_3edf2f-1795087558.jpg?resize=1200%2C630&quality=80",
+                "url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence",
+                "source": "Al Jazeera",
+                "date": "2026-11-19T11:48:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Brexit debate is back - and there are nerves about what happens next",
+                "desc": "Many of the names and arguments that defined the Brexit period are emerging again, as the debate over the UK being part of the EU is back on the agenda.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b26d/live/1a9739c0-e3ff-11f1-99a1-253766e7ad8b.jpg",
+                "url": "https://www.bbc.com/news/articles/cwy80x8pe4v3o",
+                "source": "BBC",
+                "date": "2026-11-19T11:48:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations",
+                "desc": "China's president said on Thursday the ​US should do the \"right thing\" on Taiwan to avoid major setbacks in Sino-American ties, according to Chinese ‌state news agency Xinhua, following talks between Xi Jinping and US President Donald Trump in Shenzhen.",
+                "image": "https://www.reuters.com/resizer/v2/XJMVIXUCFVJXPN2QDO5PYJQJBQ.jpg?auth=00470a340e25196fc9f6ccc119c251659ef927a42c01e5350a90fd48f65a6781&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/china/chinas-xi-says-us-should-do-right-thing-taiwan-avoid-setbacks-relations-2026-11-19/",
+                "source": "Reuters",
+                "date": "2026-11-19T11:46:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apec summit live: Russia threatens retaliation against Ukraine over bridge attacks, Putin says after talks with Trump and Xi",
+                "desc": "The Russian president makes statement in aftermath of strike on key bridge across Kerch strait",
+                "image": "https://i.guim.co.uk/img/media/b9460ba88d119dfb43ec66632c3103a260027cf6/637_0_4033_3226/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=88425714f097d986ff16b4c02e09def3",
+                "url": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china?page=with:block-6afeb59a8f08f06924ca4e0a",
+                "source": "The Guardian",
+                "date": "2026-11-19T11:46:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN could soon be leaderless as race to succeed Guterres stalls",
+                "desc": "More fundamentally, observers say, the stalemate exposes a decline in the veto-wielding ​powers' willingness to compromise, exacerbated by a US administration that increasingly sidelines the UN and is distracted by its own foreign entanglements.",
+                "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/19/antonio.png",
+                "url": "https://www.tbsnews.net/world/un-could-soon-be-leaderless-race-succeed-guterres-stalls-1607866",
+                "source": "The Business Standard",
+                "date": "2026-11-19T11:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
+                "desc": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg",
+                "url": "https://www.bbc.com/news/articles/c6174edpp5e8o",
+                "source": "BBC",
+                "date": "2026-11-19T11:43:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN top court finds Myanmar guilty of committing genocide against Rohingya minority",
+                "desc": "Myanmar committed genocide against the country’s long-persecuted Rohingya minority, the United Nations’ top court found Thursday, an unprecedented ruling that survivors of the atrocities have waited almost a decade to hear.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-859369300.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/11/19/asia/icj-myanmar-genocide-rohingya-ruling-intl-hnk",
+                "source": "CNN",
+                "date": "2026-11-19T11:39:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Top UN court finds Myanmar committed state-sponsored genocide against Muslim Rohingya",
+                "desc": "This marks the first time the International Court of Justice has found a state responsible for committing genocide.",
+                "image": "https://dam.mediacorp.sg/image/upload/s--jmF0xdGC--/c_crop,h_1125,w_2000,x_0,y_14/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/19/000_d7yj3ke_mod.jpg?itok=4oSfH635",
+                "url": "https://www.channelnewsasia.com/asia/un-top-court-rohingya-myanmar-genocide-ruling-6564491",
+                "source": "CNA",
+                "date": "2026-11-19T11:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Only 2 African countries make it to the list of the top 20 most recommended destinations for tourists to visit next year in a new report",
+                "desc": "The British Broadcasting Corporation (BBC) recently released the list of countries tourists should visit in 2027, and only two African countries, Ghana and Madagascar, were listed among the 20. | Business Insider Africa",
+                "image": "https://ocdn.eu/pulscms-transforms/1/c05ktkpTURBXy84ODc4MDY3ZjYxN2I2MDBmMmUwYzQ2YTMyMDE0Y2I3NC5qcGeSlQMAJc0EAM0CQJMFzQSwzQJ2",
+                "url": "https://africa.businessinsider.com/local/markets/only-2-african-countries-make-it-to-the-list-of-the-top-20-most-recommended/k77dxxv",
+                "source": "Business Insider Africa",
+                "date": "2026-11-19T11:30:32Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Xi, Trump, Putin pose for Apec photo ahead of first historic ‘world peace’ trilateral in Shenzhen",
                 "desc": "SHENZHEN, Nov 19 — The presidents of China, the United States and Russia posed for a photo with other Asia-Pacific leaders today ahead of their first trilateral summit, billed by...",
@@ -1806,98 +1896,8 @@
                 "source": "The Sun",
                 "date": "2026-11-17T13:27:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Victoria Derbyshire Clashes With Richard Tice Over His Previous Brexit Claims",
-                "desc": "Reform UK’s deputy leader said leaving the EU would cut red tape, grow the economy and bring down prices.",
-                "image": "https://img.huffingtonpost.com/asset/6afbf49418000040b294c4f6.jpeg?ops=1200_630",
-                "url": "https://www.huffingtonpost.co.uk/entry/victoria-derbyshire-clashes-richard-tice-brexit-claims_uk_6afbf422e4b04eba4d46f86a",
-                "source": "HuffPost UK",
-                "date": "2026-11-17T06:45:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Data centre could be built between Thurleigh and Milton Ernest",
-                "desc": "A public event on the plans for near Thurleigh and Milton Ernest will be held on 18 November.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/915d/live/621b5e90-de8a-11f1-b88b-3f1671ea859d.jpg",
-                "url": "https://www.bbc.com/news/articles/cmx27n7eyexgo",
-                "source": "BBC",
-                "date": "2026-11-17T06:45:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Data centre could be built between Thurleigh and Milton Ernest",
-                "desc": "A public event on the plans for near Thurleigh and Milton Ernest will be held on 18 November.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/915d/live/621b5e90-de8a-11f1-b88b-3f1671ea859d.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cmx27n7eyexgo",
-                "source": "BBC",
-                "date": "2026-11-17T06:45:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apec and Asean summits live: protests await Trump in Manila, as Xi greets leaders in Shenzhen",
-                "desc": "Taiwan on the agenda in China-Papua New Guinea bilateral; US president flies into Manila amid protests over scrapping of the US-led Pax Silica initiative",
-                "image": "https://i.guim.co.uk/img/media/2742fa0d7d18922acc45c4c369127994e03b759e/468_0_2357_1885/master/2357.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=851b35aee15f5b4086bee04468adc414",
-                "url": "https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news?page=with:block-6afbf6668f08d5d6e898f589",
-                "source": "The Guardian",
-                "date": "2026-11-17T06:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Japan scrambles jets after suspected Russian planes enter airspace, Tokyo says",
-                "desc": "Tokyo's announcement came hours after South Korea said it had deployed fighter jets and conducted tactical manoeuvres after several Russian military aircraft entered its air defence zone.",
-                "image": "https://images.euronews.com/articles/stories/09/99/54/72/1200x675_cmsv2_9c28940f-efbb-555c-bf66-1f9f9edecf3e-9995472.jpg",
-                "url": "https://www.euronews.com/2026/11/17/japan-scrambles-jets-after-suspected-russian-planes-enter-airspace-tokyo-says",
-                "source": "Euronews.com",
-                "date": "2026-11-17T06:44:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taiwan gov't welcomes efforts to promote regional cooperation as Trump arrives in Asia",
-                "desc": "Taiwan's government is closely watching United States President Donald Trump's Asian trip this week, during which he is expected to attend a Quad leaders' meeting and meet with Chinese and Russian leaders on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit, the Ministry of Foreign Affairs said Tuesday.",
-                "image": "https://imgcdn.cna.com.tw/Eng/WebEngPhotos/WebOg/600/2026/20261117/1024x538_023323762107.jpg",
-                "url": "https://focustaiwan.tw/politics/202611170013",
-                "source": "Focus Taiwan",
-                "date": "2026-11-17T06:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "United Nations Mission in South Sudan-supported (UNMISS) screening identifies 54 children among police recruits",
-                "desc": "At 13, Marko* should be in school, making friends, and dreaming about his future. Instead, amid insecurity and economic hardship, he saw joining the police as a way to earn money while also protecting his community. “I joined the training to get money and a gun to protect my comm",
-                "image": "https://cdn.cms.africa.com/wp-content/uploads/2026/11/250-150.jpg",
-                "url": "https://africa.com/apo/united-nations-mission-in-south-sudan-supported-screening-identifies-54-children-among-police-recruits",
-                "source": "Africa.com",
-                "date": "2026-11-17T06:43:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Kenya: Strengthening Strategic Leadership for Regional Security",
-                "desc": "Effective strategic leadership requires the ability to anticipate change, navigate complex security environments and build relationships that support collective action. These qualities formed the focus of the opening of the Strategic Leadership Programme at the International Peac",
-                "image": "https://cdn.cms.africa.com/wp-content/uploads/2026/11/250-290.png",
-                "url": "https://africa.com/apo/kenya-strengthening-strategic-leadership-for-regional-security",
-                "source": "Africa.com",
-                "date": "2026-11-17T06:43:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uncontested but under pressure: Hakeem Jeffries set to make history as first black US House speaker",
-                "desc": "WASHINGTON, Nov 17 — Hakeem Jeffries is poised to take a major step Wednesday toward becoming the first Black speaker of the US House of Representatives, as victorious Democrats...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/11/17/374644.jpg",
-                "url": "https://www.malaymail.com/news/world/2026/11/17/uncontested-but-under-pressure-hakeem-jeffries-set-to-make-history-as-first-black-us-house-speaker/243586",
-                "source": "Malay Mail",
-                "date": "2026-11-17T06:39:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What is Quad, what is on the Manila agenda, and why does the 2026 summit matter?",
-                "desc": "Quad Summit in Manila: World leaders to discuss security, supply chains, maritime routes, and a united Indo-Pacific, shaping global resilience and cooperation.",
-                "image": "https://th-i.thgim.com/public/incoming/wcrls3/article71710486.ece/alternates/LANDSCAPE_1200/2026-11-17T052751Z_536179175_RC2HPOAD4R5X_RTRMADP_3_ASEAN-SUMMIT.JPG",
-                "url": "https://www.thehindu.com/news/international/what-is-quad-manila-agenda-why-does-2026-summit-matter/article71710464.ece",
-                "source": "The Hindu",
-                "date": "2026-11-17T06:38:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-19T17:18:33.455110Z"
+    "lastGlobalSync": "2026-11-19T23:53:17.195709Z"
 }
