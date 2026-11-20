@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Intuit Earnings Beat Isn’t Enough to Boost the Stock",
+                "desc": "Intuit reports better-than-expected fiscal first-quarter earnings.",
+                "image": "https://images.barrons.com/im-18633876/social",
+                "url": "https://www.barrons.com/articles/intuit-earnings-stock-price-50cb5c01",
+                "source": "Barron's",
+                "date": "2026-11-20T10:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Major indexes keep sliding, on pace for their worst week in more than a year, as Anthropic fails to rekindle AI optimism",
+                "desc": "Anthropic down 6% a day after debut; Nasdaq gains for the year now completely wiped out",
+                "image": "https://www.theglobeandmail.com/resizer/v2/C6DBTVRAX5DQ5DUEPMRWB7LT3M.jpg?auth=da0d999ff0fad557ea31c2eb478ff24c8d991d3da9cbb92247ead6852d566e6d&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-us-futures-fall-after-sp-500-drops-for-six-straight-sessions-asia-set/",
+                "source": "The Globe and Mail",
+                "date": "2026-11-20T10:33:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "(GEO) Trading Strategy and Analysis",
+                "desc": "Trading Strategy and Analysis for Geodrill Limited Ordinary Shares (GEO) with Buy/Sell Signals",
+                "image": "https://content.canada.stocktradersdaily.com/chart-bucket/GEO-CA_LONG_lineChartGenerator_2026-11-20_10-32-50.png",
+                "url": "https://news.stocktradersdaily.com/canada/geo-trading-strategy-and-analysis_20261120_7fe3a5",
+                "source": "Stock Traders Daily",
+                "date": "2026-11-20T10:32:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A Porsche for your deposits? Welcome to banking in 2026",
+                "desc": "Financial institutions aren’t holding back when it comes to wooing new clients",
+                "image": "https://www.theglobeandmail.com/resizer/v2/F2VGJIBM4JBT7FCNHOF4ZIX3IE.JPG?auth=7a9f840ae40365ec01be8cc2ae2ae2f71e548ee403b31327b3fe736b3092d121&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/investing/personal-finance/retirement/article-a-porsche-for-your-deposits-welcome-to-banking-in-2026/",
+                "source": "The Globe and Mail",
+                "date": "2026-11-20T10:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cholesterol dysregulation contributes to hematopoietic failure in parn-mutant zebrafish with implications for dyskeratosis congenita",
+                "desc": "Germline mutations in PARN cause dyskeratosis congenita (DC), an inherited bone marrow failure syndrome characterized by multilineage cytopenia and progression to myeloid disease. The mechanisms underlying this malignant transformation have not been fully elucidated. Here we show, using a loss-of-function CRISPR-Cas9 zebrafish parn mutant, hematopoietic stem and progenitor (HSPC) expansion and reduced mature hematopoietic cells across various lineages. Cholesterol biosynthesis was transcriptionally activated; a finding recapitulated in patient-derived iPSCs with PARN mutations. Inhibiting cholesterol biosynthesis rescued HSPC expansion and anemia in parn mutants. Concurrent myeloid differentiation therapy or Wnt inhibition reduced HSPCs to varying degrees. We further demonstrate a role for activated Erk signaling in impairing erythrocyte differentiation and show robust rescue with trametinib treatment. Overall, our findings uncover unrecognized roles for Parn in regulating cholesterol metabolism and Erk signaling and provide preclinical evidence for targeting these pathways to restore hematopoiesis in DC. Researchers show that abnormal cholesterol metabolism and Erk signalling disrupt blood formation in a zebrafish model of dyskeratosis congenita, identifying potential therapeutic targets for restoring healthy hematopoiesis in this patient population.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-79105-4/MediaObjects/41467_2026_79105_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41467-026-79105-4?error=cookies_not_supported&code=d2f30024-ac05-4a1c-8d3e-a6731df2b65a",
+                "source": "Nature",
+                "date": "2026-11-20T10:29:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "System of agentic AI for the discovery of metal-organic frameworks",
+                "desc": "Generative models and machine learning promise accelerated material discovery in metal–organic frameworks (MOFs) for CO2 capture and water harvesting, but face substantial challenges in navigating vast chemical spaces while ensuring synthesizability. Here we present MOFGen, a system of agentic artificial intelligence (AI) comprising interconnected agents: a large language model that proposes MOF compositions, a diffusion model that generates crystal structures, quantum mechanical agents that optimize and filter candidates, and synthetic-feasibility agents guided by expert rules and machine learning. Trained on a broad set of experimentally reported MOFs and computational databases, MOFGen generated hundreds of thousands of MOF structures and synthesizable organic linkers. The uniqueness of our approach lies in its ability to generate large MOF structures with atomic precision, beyond the scale of conventional generative models limited to tens of atoms. This approach was validated through high-throughput experiments and the successful synthesis of four ‘AI-dreamt’ MOFs. An agentic AI system, MOFGen, is developed to accelerate the discovery of synthesizable metal–organic frameworks.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-026-01058-x/MediaObjects/43588_2026_1058_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s43588-026-01058-x?error=cookies_not_supported&code=17d3b63b-23dd-49fe-9842-194fa75fdcd9",
+                "source": "Nature",
+                "date": "2026-11-20T10:29:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Genome-wide association study identifies a functional myostatin variant increasing lean mass in humans",
+                "desc": "Muscle mass is central to physical function and metabolic health, but can decrease with disease, aging and weight loss interventions. As weight loss interventions become more widely used, agents that preserve or increase muscle mass are needed. To identify such therapeutic opportunities, we perform genome-wide association meta-analyses of arm, leg, trunk and total lean mass measured by dual-energy X-ray absorptiometry, a widely used method to estimate muscle mass. We identify 63 loci, including a rare missense variant in MSTN (p.Ile225Thr, rs143242500), which has the largest effect on leg lean mass (β = 0.28 SD [95% CI: 0.19, 0.37], P = 1.9 × 10-9). MSTN encodes myostatin, a negative regulator of skeletal muscle mass and a therapeutic target for muscle wasting disorders. Here, we identify a genome-wide significant association at MSTN in humans and characterize its functional consequences, providing genetic evidence that may inform the long-term systemic effects of myostatin inhibition. This large genome-wide meta-analysis identifies 63 genetic loci associated with lean mass, including a rare MSTN variant linked to greater muscle mass and strength, and provides insight into the long-term potential effects of myostatin inhibition.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-77766-9/MediaObjects/41467_2026_77766_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41467-026-77766-9?error=cookies_not_supported&code=4a99e723-c907-4464-af29-0d12f1db2f7e",
+                "source": "Nature",
+                "date": "2026-11-20T10:29:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mid-infrared supercontinuum generation in fluoride fibers: a comparative study",
+                "desc": "We present a comparative study of mid-infrared supercontinuum generation in fluoride optical fibers driven by a low-noise, Kerr-lens mode-locked Cr:​ZnS laser oscillator delivering ultrashort 35-fs pulses centered at 2300 nm. By investigating three commercial fluoride fibers with varying core geometries, numerical apertures, and chromatic dispersion profiles, we characterize how the magnitude of anomalous dispersion affects the dynamics of spectral broadening and the homogeneity of the supercontinuum. In fibers exhibiting high and steep anomalous dispersion, temporal pulse stretching triggers higher-order soliton fission, resulting in deeply modulated and fragmented spectra. However, combining a flat, near-zero anomalous dispersion profile with tighter spatial mode confinement supports efficient soliton dynamics and prevents early pulse walk-off. This results in the generation of a smooth, octave-spanning supercontinuum. Our experimental results, supported by numerical simulations based on the generalized nonlinear Schrödinger equation, demonstrate an ultrabroadband mid-infrared spectrum spanning 1600 nm to 5350 nm, with an average output power of 140 mW. These results highlight low-dispersion fluoride fibers pumped by femtosecond solid-state oscillators as a compact, robust platform for high-brightness, broadband mid-infrared light sources well-suited for molecular spectroscopy and trace-gas sensing.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-81003-0?error=cookies_not_supported&code=7f349141-d296-4fbb-b06e-a3a7ef5bdc6d",
+                "source": "Nature",
+                "date": "2026-11-20T10:29:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Singapore S$3bil money laundering case: Su Haijin, fugitive linked to probe to lose S$93mil in assets in UK",
+                "desc": "SINGAPORE: Two people linked to the largest case of money laundering in Singapore will have to surrender £55 million (S$93 million) worth of assets to the authorities in Britain.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/11/20/4223536.jpg",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/20/singapore-s3bil-money-laundering-case-su-haijin-fugitive-linked-to-probe-to-lose-s93mil-in-assets-in-uk",
+                "source": "The Star",
+                "date": "2026-11-20T10:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+                "desc": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing",
+                "image": "https://i.guim.co.uk/img/media/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e108196e90ed29a731e8a7ec890173bf",
+                "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+                "source": "The Guardian",
+                "date": "2026-11-20T10:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Why Aussie fruit and veg prices could climb higher as farmers consider quitting",
                 "desc": "Shoppers could soon face another supermarket headache as growers hit breaking point.",
                 "image": "https://static.ffx.io/images/$zoom_0.2628%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_144/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/e3798f385f9f41ca0401535cf1b00499eaf892d0c7261ddde01b4b11dbf13970",
@@ -542,99 +632,99 @@
                 "source": "BigGo Finance",
                 "date": "2026-11-18T12:35:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "CMB International Raises Sino Biopharmaceutical Target Price to HK$9 as Medical Insurance Expansion and BNT Partnership Fire Twin Growth Engines",
-                "desc": "Sino Biopharmaceutical has recently made simultaneous progress in the commercialization and internationalization of innovative drugs. On November 14,…",
-                "image": "https://img.biggo.com/OrHHZg463BVgPmMZtIwi6YZZrbGxpGcKAr4ForY3jOY/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzM1YjZjODRmLTE0MmYtNDU5YS1hODgyLWU5NmU5NTU2MjUwM18xNzk0OTgzNDQ0X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/35b6c84f-142f-459a-a882-e96e95562503",
-                "source": "BigGo Finance",
-                "date": "2026-11-18T06:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Gloucestershire lake training tomorrow's deep sea divers",
-                "desc": "DEEP will be training the next generation of saturation divers at their site in Gloucestershire.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66e7/live/0f1b9b20-dc5e-11f1-8fe6-5becaee5408f.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cw07371pp1pdo",
-                "source": "BBC",
-                "date": "2026-11-18T06:22:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Gloucestershire lake training tomorrow's deep sea divers",
-                "desc": "DEEP will be training the next generation of saturation divers at their site in Gloucestershire.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/66e7/live/0f1b9b20-dc5e-11f1-8fe6-5becaee5408f.jpg",
-                "url": "https://www.bbc.com/news/articles/cw07371pp1pdo",
-                "source": "BBC",
-                "date": "2026-11-18T06:22:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sheffield cafe owner frustrated by pavement licensing rules",
-                "desc": "Adam Heyes says he has been told to apply for planning permission for seating area outside his cafe.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/59d3/live/fa338e50-e1e1-11f1-9f14-b33806cfd783.png",
-                "url": "https://www.bbc.co.uk/news/articles/c8r4grz3wzg5o",
-                "source": "BBC",
-                "date": "2026-11-18T06:22:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US cybersecurity agency urges immediate patching of critical Oracle Java vulnerability",
-                "desc": "Organisations have also been urged to prioritise patching internet-facing systems, which may be more exposed to remote exploitation.",
-                "image": "https://asset.peoplematters.in/images/e77d8cef-729a-483e-a2a5-6f76089fb039.png",
-                "url": "https://www.peoplematters.in/news/ai-and-emerging-tech/us-cybersecurity-agency-urges-immediate-patching-of-critical-oracle-java-vulnerability-53412",
-                "source": "People Matters - HR News",
-                "date": "2026-11-18T06:16:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "year rail safety works begin at Sonning Cutting after landslips",
-                "desc": "Engineers are strengthening Sonning Cutting in Berkshire after a series of landslips.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7790/live/919edb20-e1ea-11f1-9f14-b33806cfd783.jpg",
-                "url": "https://www.bbc.com/news/articles/cmkgvn3qqlnzo",
-                "source": "BBC",
-                "date": "2026-11-18T06:12:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Surrey PCC warns about AI voice cloning scams ahead of Christmas",
-                "desc": "Lisa Townsend says scammers need just three seconds of a victim's voice to be able to replicate it.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/74d3/live/453e9d60-fac8-11f0-9951-335577236554.jpg",
-                "url": "https://www.bbc.com/news/articles/cr894x424021o",
-                "source": "BBC",
-                "date": "2026-11-18T06:12:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "E-bikes thrown into sea is a 'growing problem'",
-                "desc": "Harbour bosses say recovering the bikes can be risky, and their batteries are potentially harmful.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/39ac/live/fac2c800-e27b-11f1-bd1e-f9c53347c5a6.jpg",
-                "url": "https://www.bbc.com/news/articles/c6ly5nqynekyo",
-                "source": "BBC",
-                "date": "2026-11-18T06:11:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xero remains tight-lipped over cuts to New Zealand and Australian jobs",
-                "desc": "Software accounting firm Xero is refusing to answer questions about whether it is cutting its New Zealand and Australian workforces.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--4q3JKakU--/t_tohu-badge-facebook/f_auto/q_auto/4O3E1U5_image_crop_47686",
-                "url": "https://www.rnz.co.nz/news/business/2665129/xero-remains-tight-lipped-over-cuts-to-new-zealand-and-australian-jobs",
-                "source": "RNZ",
-                "date": "2026-11-18T06:11:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang",
-                "desc": "SAN FRANCISCO, Nov ⁠17 (Reuters) - Nvidia's interim CEO Colette Kress expressed confidence in the chipmaker's business, leadership and staff and pledged to be \"disciplined in how we commit capital,\" seeking to ⁠reassure investors on the first earnings call since its co-founder Jensen Huang quit.",
-                "image": "https://apicms.thestar.com.my/uploads/images/2026/11/18/4218806.jpg",
-                "url": "https://www.thestar.com.my/tech/tech-news/2026/11/18/039business-as-usual039-nvidia039s-kress-passes-first-test-as-board-slams-door-on-huang",
-                "source": "The Star",
-                "date": "2026-11-18T06:11:00Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Signal is Serious About Protecting Your Privacy",
+                "desc": "Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially capturing and storing your Signal data.",
+                "image": "https://signal.org/blog/images/protecting-your-privacy-opengraph.png",
+                "url": "https://signal.org/blog/protecting-your-privacy/",
+                "source": "Signal Messenger",
+                "date": "2026-11-20T10:30:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Genome-wide association study identifies a functional myostatin variant increasing lean mass in humans",
+                "desc": "Muscle mass is central to physical function and metabolic health, but can decrease with disease, aging and weight loss interventions. As weight loss interventions become more widely used, agents that preserve or increase muscle mass are needed. To identify such therapeutic opportunities, we perform genome-wide association meta-analyses of arm, leg, trunk and total lean mass measured by dual-energy X-ray absorptiometry, a widely used method to estimate muscle mass. We identify 63 loci, including a rare missense variant in MSTN (p.Ile225Thr, rs143242500), which has the largest effect on leg lean mass (β = 0.28 SD [95% CI: 0.19, 0.37], P = 1.9 × 10-9). MSTN encodes myostatin, a negative regulator of skeletal muscle mass and a therapeutic target for muscle wasting disorders. Here, we identify a genome-wide significant association at MSTN in humans and characterize its functional consequences, providing genetic evidence that may inform the long-term systemic effects of myostatin inhibition. This large genome-wide meta-analysis identifies 63 genetic loci associated with lean mass, including a rare MSTN variant linked to greater muscle mass and strength, and provides insight into the long-term potential effects of myostatin inhibition.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-77766-9/MediaObjects/41467_2026_77766_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41467-026-77766-9?error=cookies_not_supported&code=b21ce202-436c-42ac-8c14-6731ddfae7c5",
+                "source": "Nature",
+                "date": "2026-11-20T10:29:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukrainian Couple Raises $22,000 for the Military in Just 30 Minutes of GTA VI Launch Stream",
+                "desc": "Filip and Maria Tremba raised $22,000 for Ukraine’s Defense Forces in 30 minutes during a Vice City-themed GTA VI charity marathon livestream.",
+                "image": "https://storage.united24media.com/og/b/a1/b5314b0fd021eca2a676a2221b1c9a1b.png",
+                "url": "https://united24media.com/war-in-ukraine/ukrainian-couple-raises-22000-for-the-military-in-just-30-minutes-of-gta-vi-launch-stream-24554",
+                "source": "UNITED24 Media",
+                "date": "2026-11-20T10:29:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "OpenAI Brings 24/7 AI Agent Dots to Its $20 Plus Plan, Kicking Off Small",
+                "desc": "OpenAI is moving its personal AI agent Dots down from premium tiers starting at $100 a month to the $20-a-month ChatGPT Plus plan, initially opening…",
+                "image": "https://img.biggo.com/mFyrdtiInigOp37UcSs8f8FB33nji0sBhNCXDR6h4ik/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzZjYzdhYWYwLWVlM2UtNDcxZi04MGVlLTI4NjhiYWFhNGFkYl8xNzk1MTcwODE5X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/6cc7aaf0-ee3e-471f-80ee-2868baaa4adb",
+                "source": "BigGo Finance",
+                "date": "2026-11-20T10:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 Leaker Returns to Allegedly Release a Near-Complete Xbox Build, but Is Holding a Crucial File Back for Now",
+                "desc": "Cyberleek has returned for the launch of GTA 6 to allegedly release a near complete Xbox build of the game — and has threatened to release its executable in just days.",
+                "image": "https://assets-prd.ignimgs.com/2026/11/20/ultimate-edition-wyman-car-collection-01-1795168394633.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/cyberleek-returns-for-gta-6-launch-to-reportedly-release-a-near-complete-xbox-build-threatens-to-release-the-games-executable-in-days",
+                "source": "IGN",
+                "date": "2026-11-20T10:11:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A two-layer flat lens uses nanoscale pillars to guard against unwanted reflections",
+                "desc": "Researchers in the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have engineered an advancement in metasurface design and processing that now includes a built-in, intentionally designed antireflective coating—a potentially critical step toward greatly expanding the incorporation of metasurfaces into practical devices.",
+                "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-two-layer-metalens-f.jpg",
+                "url": "https://phys.org/news/2026-11-layer-flat-lens-nanoscale-pillars.html",
+                "source": "Phys.org",
+                "date": "2026-11-20T10:00:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Best early Black Friday Amazon device deals 2026: Save on Kindles, Fire TV Sticks, Echo speakers",
+                "desc": "Several staple Amazon devices are on sale ahead of Black Friday. Save on Alexa tablets, Echo devices, Fire TV Sticks, and Kindles.",
+                "image": "https://helios-i.mashable.com/imagery/articles/06eZ7i0Kivsk9n3HxpT0Pkc/hero-image.fill.size_1200x675.v1795091165.png",
+                "url": "https://mashable.com/tech/best-early-black-friday-amazon-device-live-deals-2026",
+                "source": "Mashable",
+                "date": "2026-11-20T10:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blue-Collar Workers Realize 'GTA 6' Is a Second Shift",
+                "desc": "'GTA 6' promises a raucous lifestyle where you can be a criminal. You can also paint a wall, patch up drywall, and install a deck.",
+                "image": "https://i.insider.com/6aff47da73f126f9eccb8762?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/gta-6-painting-roofing-drywall-blue-collar-jobs-2026-11",
+                "source": "Business Insider",
+                "date": "2026-11-20T10:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Singaporean YouTuber’s GTA VI 'contract' with wife goes viral online",
+                "desc": "Singaporean YouTuber Julian Tay’s GTA VI 'contract' was even mentioned on Jimmy Kimmel Live. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/088e020f8d7490e60df238c8e572046b5b4b591e905f7bba6b85211e3bb2fd09?t=og",
+                "url": "https://www.straitstimes.com/singapore/singaporean-youtubers-gta-vi-contract-with-wife-goes-viral-online-draws-jimmy-kimmel-mention",
+                "source": "The Straits Times",
+                "date": "2026-11-20T09:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From immersive RPGs to AI-powered games, creator-led innovation takes centre stage",
+                "desc": "Expanding its gaming ecosystem, Roblox has unveiled a fresh lineup of experiences across genres, alongside initiatives aimed at helping developers create,",
+                "image": "https://static.toiimg.com/thumb/msid-136021886,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+                "url": "https://timesofindia.indiatimes.com/life-style/spotlight/from-immersive-rpgs-to-ai-powered-games-creator-led-innovation-takes-centre-stage/articleshow/136021864.cms",
+                "source": "The Times of India",
+                "date": "2026-11-20T09:53:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "DTC2026 | World’s First Mass Production of Ultrahigh-Mobility Oxide Technology Paves the Way for a New Generation of Displays",
                 "desc": "SHENZHEN, China, Nov. 20, 2026 /PRNewswire/ -- TCL CSOT became the world's first to achieve mass production of ultrahigh-mobility oxide technology (electron mobility of ~50 cm² V⁻¹ s⁻¹) on an 8.6-generation line. The major technical breakthrough marks the first time...",
@@ -1174,99 +1264,99 @@
                 "source": "Clarin.com",
                 "date": "2026-11-18T12:29:13Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Family Signs 'Do Not Disturb' Contract For GTA 6 Launch: 'He Won't Cook Meals'",
-                "desc": "GTA 6: The family drew up a written agreement specifically designed to manage the chaos of launch day.",
-                "image": "https://c.ndtvimg.com/2026-11/q214cujs_gta-6_625x300_18_November_26.jpeg",
-                "url": "https://www.ndtv.com/offbeat/family-signs-do-not-disturb-contract-for-gta-6-launch-he-wont-cook-meals-12342614",
-                "source": "NDTV",
-                "date": "2026-11-18T06:24:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SingNet e-mail disrupted by configuration issue, not cyberattack",
-                "desc": "SingNet e-mail service disrupted by configuration issue, Singtel says no cyberattack was involved and service was restored by noon. Read more at straitstimes.com.",
-                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ebf977d6d938b3c600a28a86ac77a7f8e198ea7b0dd5db17043b0edfa63f49a3?t=og",
-                "url": "https://www.straitstimes.com/singapore/singnet-e-mail-service-disrupted-over-configuration-issues-no-cyberattack-singtel",
-                "source": "The Straits Times",
-                "date": "2026-11-18T06:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple Announces New Apple Maps Experience in India with 3D Landmarks, Faster Navigation, and More",
-                "desc": "A new Apple Maps experience in India has been announced with over 300 3D landmarks, faster navigation, and more.",
-                "image": "https://themobileindian.com/wp-content/uploads/2026/11/new-Apple-Maps-experience-in-India.jpg",
-                "url": "https://themobileindian.com/news/apple-announces-new-apple-maps-experience-in-india-with-3d-landmarks-faster-navigation-and-more",
-                "source": "The Mobile Indian",
-                "date": "2026-11-18T06:17:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Conda Clear Cache: conda clean Flags, Safe Order",
-                "desc": "Clear the conda cache with conda clean --all: what each flag removes, why --force-pkgs-dirs is excluded, and a dry-run-first order that protects environments.",
-                "image": "https://casrai.org/api/og?title=Conda%20Clear%20Cache%3A%20conda%20clean%20Flags%2C%20Safe%20Order&eyebrow=Guide&type=guide",
-                "url": "https://casrai.org/guides/conda-clear-cache",
-                "source": "CASRAI",
-                "date": "2026-11-18T06:16:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "OpenAI's AI model finds a way to bypass Apple's Lockdown Mode, report reveals",
-                "desc": "Early this month, OpenAI introduced GPT-6 with a critical cybersecurity rating. Now according to a new report, the model has uncovered around 35 security vulnerabilities across Apple products, including iPhones, Macs, iPads and Apple Watches.",
-                "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/openai-16543545-16x9.jpg?VersionId=r7mKM66nuOIi9hOUxUSCHaC_5f1ZZS8r",
-                "url": "https://www.indiatoday.in/technology/news/story/openais-ai-model-finds-a-way-to-bypass-apples-lockdown-mode-report-reveals-3041290-2026-11-18",
-                "source": "India Today",
-                "date": "2026-11-18T06:13:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Worcestershire wild swimmers bare all for 2027 charity calendar",
-                "desc": "The calendar has been created by members of the Broadfields swimming group in Worcestershire.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8109/live/abbb3a00-e332-11f1-aacd-7fbfb18e4701.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cmvg28ej3lxwo",
-                "source": "BBC",
-                "date": "2026-11-18T06:11:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Apple rolls out redesigned Maps in India with 3D landmarks, local guidance",
-                "desc": "Apple Maps users in India will get access to 3D views of landmarks, Look Around, augmented reality walking directions and enhanced voice guidance with references to local places",
-                "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/18/thumb/featurecrop/1200X628/1794981805-5712.jpg",
-                "url": "https://www.business-standard.com/technology/tech-news/apple-rolls-out-redesigned-maps-in-india-with-3d-landmarks-local-guidance-126111800350_1.html",
-                "source": "Business Standard",
-                "date": "2026-11-18T06:04:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘I’ve been on a downward slide since Covid. I work remotely and mostly only go out at night’",
-                "desc": "Tell Me About It: ‘My cousin came over recently, and I could see the confusion and worry on his face’",
-                "image": "https://www.irishtimes.com/resizer/v2/J4XDSMWNEZHSRGGAFQKTB6XNXY.jpg?smart=true&auth=7bdee4e2f48ca560295453591467b3ba61d36bbc287b85f3faec2596556917aa&width=1200&height=630",
-                "url": "https://www.irishtimes.com/health/your-wellness/2026/11/18/ive-been-on-a-downward-slide-since-covid-and-even-ai-wants-me-to-seek-outside-help/",
-                "source": "The Irish Times",
-                "date": "2026-11-18T06:04:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6’s custom PS5 Pro plates revealed, but Sony won’t sell you any - fans slam Rockstar",
-                "desc": "Rockstar has sent Heat players custom Vice City PS5 Pros with two limited-edition DualSense controllers and a physical copy of the game, packed in a fitted flight case. None of it is going on sale — and PS5 Pro owners have reason to be annoyed about that.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GTA-6-miami-heat.png",
-                "url": "https://www.notebookcheck.net/GTA-6-s-custom-PS5-Pro-plates-revealed-but-Sony-won-t-sell-you-any-fans-slam-Rockstar.1453227.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-11-18T06:03:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Telford patient's cancer care 'whirlwind' as trust leaps rankings",
-                "desc": "Shrewsbury and Telford Hospital NHS Trust has jumped from worst to fifth best for cancer diagnosis.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c7f6/live/9c10be60-e29a-11f1-8dda-8925a81c3da5.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/cwp9dngjkv8do",
-                "source": "BBC",
-                "date": "2026-11-18T06:01:55Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "'What does it mean?' Zelenskyy asks US to clarify Article 5-like guarantee",
+                "desc": "The promise to provide Ukraine with an Article 5-like security guarantee has sown confusion. Volodymyr Zelenskyy wants the US and Europe to clarify how they would respond in the event of a new Russian attack.",
+                "image": "https://images.euronews.com/articles/stories/10/00/13/02/1200x675_cmsv2_60e369c9-938a-522c-a760-6f371d78ce63-10001302.jpg",
+                "url": "https://www.euronews.com/2026/11/20/what-does-it-mean-zelenskyy-asks-us-to-clarify-article-5-like-guarantee",
+                "source": "Euronews.com",
+                "date": "2026-11-20T10:37:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Turkmenistan Solar Power Project Targets Remote Villages With $4.17 Million Grant",
+                "desc": "Turkmenistan solar power project will install up to ten mini-grids in remote villages, backed by a $4.17 million grant. Another 120 communities will be assessed.",
+                "image": "https://timesca.com/wp-content/uploads/2026/11/photo_2026-11-20_13-40-42.jpg",
+                "url": "https://timesca.com/turkmenistan-solar-power-project-remote-villages/",
+                "source": "The Times Of Central Asia",
+                "date": "2026-11-20T10:36:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "When The Iron Butterfly blew a kiss to The Donald",
+                "desc": "Guess who US president, Donald Trump met in the Philippines when he was in Manila earlier this week, before heading to China?  Imelda Marcos.  The wife of Ferdinand Marcos and",
+                "image": "https://im.rediff.com/news/2026/nov/20trump.jpg",
+                "url": "https://m.rediff.com/news/commentary/2026/nov/20/when-the-iron-butterfly-blew-a-kiss-to-the-donald/c934f9ca67a52e02d3ead13c808b5d94",
+                "source": "Rediff",
+                "date": "2026-11-20T10:32:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How eight European countries are tackling the housing crisis",
+                "desc": "House prices are soaring across Europe as supply falls short of demand. With three days of coordinated protests due to begin on Friday in several countries, governments are under growing pressure to make housing more affordable.",
+                "image": "https://images.euronews.com/articles/stories/09/98/62/51/1200x675_cmsv2_770c0526-0eaf-58fd-b7bf-7ca61e3ed71b-9986251.jpg",
+                "url": "https://www.euronews.com/2026/11/20/how-eight-european-countries-are-tackling-the-housing-crisis",
+                "source": "Euronews.com",
+                "date": "2026-11-20T10:32:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rikers Island to be closed ‘once and for all’: Mamdani aims to shutter jail in 2032",
+                "desc": "The effort marks the latest push to close the troubled jail complex, which has faced years of criticism over violence, deteriorating conditions and failures in caring for people with serious mental health and medical needs.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2305555616.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/11/20/us/mamdani-rikers-island-closure-delay",
+                "source": "CNN",
+                "date": "2026-11-20T10:30:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China's summit snub could strengthen Japan PM's standing at home",
+                "desc": "TOKYO: Japanese Prime Minister Sanae Takaichi got a cold reception in her first outing to China, but Beijing's \"blatant\" snub -- including a visibly scaled-down welcome -- could galvanise her conservative base, experts said on Friday (Nov 20).",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/11/20/4223551.jpg",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/20/china039s-summit-snub-could-strengthen-japan-pm039s-standing-at-home",
+                "source": "The Star",
+                "date": "2026-11-20T10:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "From the Archives to the Shadows: Boko hands Spy Agency to a Scholar of Secrets",
+                "desc": "President Duma Boko’s choice of Professor Lekoko Kenosi – an archivist, soldier and diplomat rather than a career securocrat – signals an attempt to civilise one of Botswana’s most feared institutions. Whether a man who built his life cataloguing the truth can reform an agency built on concealing it is the question now hanging over Gaborone. When President Duma Boko rose on 9 November to deliver his State of the Nation Address, the line that...",
+                "image": "https://weekendpost.co.bw/wp-content/uploads/2026/11/guy.jpg",
+                "url": "https://weekendpost.co.bw/from-the-archives-to-the-shadows-boko-hands-spy-agency-to-a-scholar-of-secrets/",
+                "source": "Weekend Post",
+                "date": "2026-11-20T10:29:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN Climate summit enters final phase",
+                "desc": "After nearly two weeks of negotiations, countries remain divided on how to fight global warming. A new draft declaration doesn't mention the phaseout of fossil fuels, the main drivers of climate change. DW has more.",
+                "image": "https://static.dw.com/image/79999578_6.jpg",
+                "url": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516",
+                "source": "DW.com",
+                "date": "2026-11-20T10:26:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Estonia to close border with Russia for at least six months",
+                "desc": "Estonia will close its ​border crossings with Russia for at least ‌six months from December 1 on security grounds, the Baltic country's government said on Friday.",
+                "image": "https://www.reuters.com/resizer/v2/YTCGI622XBOR5BG35TJNUVXJDQ.jpg?auth=57798785f22f939b6f25b1c08bd1916bf4fa2116828a76d341a04b2d63688e87&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/estonia-close-border-with-russia-least-six-months-2026-11-20/",
+                "source": "Reuters",
+                "date": "2026-11-20T10:26:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Singapore S$3bil money laundering case: Su Haijin, fugitive linked to probe to lose S$93mil in assets in UK",
+                "desc": "SINGAPORE: Two people linked to the largest case of money laundering in Singapore will have to surrender £55 million (S$93 million) worth of assets to the authorities in Britain.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/11/20/4223536.jpg",
+                "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/20/singapore-s3bil-money-laundering-case-su-haijin-fugitive-linked-to-probe-to-lose-s93mil-in-assets-in-uk",
+                "source": "The Star",
+                "date": "2026-11-20T10:24:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Energy ties with neighbours 'not a zero-sum game' even when each puts its own needs first: Tan See Leng",
                 "desc": "Energy cooperation can bring economies of scale and attract investment interest, says the Minister for Energy, Trade and Industry (Energy and Industry).",
@@ -1806,98 +1896,8 @@
                 "source": "BBC",
                 "date": "2026-11-18T12:29:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Teacher Who Had Baby With 12-Year-Old Student Jailed After CCTV Caught Her Abusing Him in Family Home",
-                "desc": "Naomi Tekea Craig was sentenced to eight years and six months in prison after pleading guilty to sexually abusing a pupil from age 12 and having his child.",
-                "image": "https://d.ibtimes.co.uk/en/full/1844794/naomi-craig.jpg",
-                "url": "https://www.ibtimes.co.uk/australian-music-teacher-jailed-abusing-pupil-1832993",
-                "source": "International Business Times UK",
-                "date": "2026-11-18T06:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Gloucestershire lake training tomorrow's deep sea divers",
-                "desc": "DEEP will be training the next generation of saturation divers at their site in Gloucestershire.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/66e7/live/0f1b9b20-dc5e-11f1-8fe6-5becaee5408f.jpg",
-                "url": "https://www.bbc.com/news/articles/cw07371pp1pdo",
-                "source": "BBC",
-                "date": "2026-11-18T06:22:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Teesside conservationists search for European eels in River Tees",
-                "desc": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55ec/live/b074fa60-df75-11f1-b441-2b33b063138f.jpg",
-                "url": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro",
-                "source": "BBC",
-                "date": "2026-11-18T06:19:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Uganda: Govt Launches Three-Week Vetting of Labour Recruitment Agencies Amid Unresolved Worker Complaints",
-                "desc": "The government has launched a three-week screening exercise targeting external labour recruitment agencies and pre-departure training institutions following revelations that only 172 of 1,012 complaints filed by Ugandans working abroad had been resolved.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202611180067.html",
-                "source": "allAfrica.com",
-                "date": "2026-11-18T06:17:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Democrats secure 56-seat Senate majority as Peltola wins Alaska",
-                "desc": "Democrat Mary Peltola has defeated Republican incumbent Dan Sullivan to win Alaska's United States Senate race, ending the last unresolved Senate contest in the 2026 midterm elections and expanding her party's majority in the chamber to 56 seats.",
-                "image": "https://cdn.punchng.com/wp-content/uploads/2026/11/18054912/GettyImages-2302985547_1794977352.webp",
-                "url": "https://punchng.com/democrats-secure-56-seat-senate-majority-as-peltola-wins-alaska/",
-                "source": "Punch Newspapers",
-                "date": "2026-11-18T06:17:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Malawi: Ben Phiri Calls for Food Self-Sufficiency in New WFP Partnership",
-                "desc": "Malawi must stop relying on donor support and focus on producing enough food to feed its own people, Local Government and Rural Development Minister Ben Phiri has said, as the government signed a new partnership with the United Nations World Food Programme (WFP) aimed at tackling hunger from the grassroots.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202611180077.html",
-                "source": "allAfrica.com",
-                "date": "2026-11-18T06:16:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Africa: Leaders Commit to Accelerate Action On Obesity Prevention and Control",
-                "desc": "Press Release - The Government of Spain and 20 other countries today joined the World Health Organization (WHO) and UNICEF to launch the global call to action on obesity, \"Bending the curve by 2030\". The participating governments committed to accelerate prevention, early intervention and care, and to reduce national obesity prevalence by 5% by 2030.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202611180069.html",
-                "source": "allAfrica.com",
-                "date": "2026-11-18T06:16:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Namibia's Uranium Wealth, Electricity Gap... Industry Leaders Discuss Expanding Access to Nuclear Technologies",
-                "desc": "For nearly five decades, Namibia has supplied uranium to the global nuclear industry, but questions remain at home about how this resource has improved the lives of ordinary Namibians.",
-                "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-                "url": "https://allafrica.com/stories/202611180059.html",
-                "source": "allAfrica.com",
-                "date": "2026-11-18T06:16:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Police shoot dead KL robbery suspect linked to 24 cases in hotel raid",
-                "desc": "KUALA LUMPUR — A wanted criminal linked to at least 24 robberies across the capital was shot dead after opening fire on a joint police strike team during a pre-dawn raid on a hotel in Chow Kit today (Nov 18).The operation unfolded around 2am when detectives from the Special Investigation Division (D9) of the Kuala Lumpur police contingent, supported by...",
-                "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Nov2026/kl%20police%20chief.jpg?itok=ZKQVCGz-",
-                "url": "https://www.asiaone.com/malaysia/police-shoot-dead-kl-robbery-suspect-linked-24-cases-hotel-raid",
-                "source": "AsiaOne.com",
-                "date": "2026-11-18T06:13:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "is treated sewage to blame?",
-                "desc": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0ad3/live/f181e450-e1c3-11f1-8a52-0b287ff76f43.jpg",
-                "url": "https://www.bbc.com/news/articles/cm752w35lkz3o",
-                "source": "BBC",
-                "date": "2026-11-18T06:12:44Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-20T16:00:05.383807Z"
+    "lastGlobalSync": "2026-11-20T22:37:37.081779Z"
 }
