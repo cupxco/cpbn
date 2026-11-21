@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Riemann Hypothesis: Anthropic researcher says Claude solved math’s greatest riddle",
+                "desc": "A researcher at AI company Anthropic said on Friday that he had used the firm’s Claude chatbot to prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years.",
+                "image": "https://content.api.news/v3/images/bin/4514fa98d12baa83806e47faad28c4df",
+                "url": "https://www.news.com.au/technology/online/internet/riemann-hypothesis-anthropic-researcher-says-claude-solved-maths-greatest-riddle/news-story/4d3d2827837b2b95dd7b4fd0ac13fd59",
+                "source": "News.com.au",
+                "date": "2026-11-20T23:47:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Capricor's Duchenne treatment fails to get FDA approval, shares sink",
+                "desc": "The US Food and Drug Administration declined to approve Capricor Therapeutics' experimental cell therapy for a fatal inherited disease that ​weakens muscle, the health regulator said on Friday, adding to a string ‌of regulatory setbacks for the biotech firm.",
+                "image": "https://www.reuters.com/resizer/v2/3DS5UTVT3VNTTEC3QBQHRI3YO4.jpg?auth=94b614a166c3fce9c10da5260194a0155aebb468ac5e56b5bf19b6cf38f6eab6&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/legal/litigation/us-fda-declines-approve-capricors-cell-therapy-duchenne-muscular-dystrophy-2026-11-20/",
+                "source": "Reuters",
+                "date": "2026-11-20T23:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+                "desc": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller",
+                "image": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5edeaf13f200c4f950da4fc630d80c08",
+                "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+                "source": "The Guardian",
+                "date": "2026-11-20T23:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Staples customers’ personal information compromised in website hack",
+                "desc": "The company said the hack happened between Nov. 1 and Nov. 5, during which the party had access to “certain customer personal information.”",
+                "image": "https://globalnews.ca/wp-content/uploads/2026/11/Staples-Canada-e1795217640249.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "url": "https://globalnews.ca/news/12160464/staples-print-hack/",
+                "source": "Global News",
+                "date": "2026-11-20T23:41:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nvidia’s Jensen Huang Called Public Humiliation a ‘Rite of Passage’ For Employees",
+                "desc": "Nvidia founder Jensen Huang reportedly spent decades publicly humiliating employees, making violent threats, and ridiculing people in front of their colleagues, sometimes calling the treatment a necessary part of working at the company.",
+                "image": "https://img.sfist.com/2026/11/GettyImages-2301014104.jpg",
+                "url": "https://sfist.com/2026/11/20/nvidias-jensen-huang-called-public-humiliation-a-rite-of-passage-for-employees/",
+                "source": "SFist",
+                "date": "2026-11-20T23:39:46Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Honda, Toyota to recall 1.6 million vehicles over Takata airbag rupture risk",
+                "desc": "There have been at least 28 deaths in the US stemming from defective Takata airbag inflators since 2009. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/58c9d23d580d159a8d6ecc04d6236b9bb3642e272ab2bf314375026ee10c0d70?t=og",
+                "url": "https://www.straitstimes.com/world/united-states/honda-to-recall-810000-us-vehicles-over-takata-air-bag-rupture-risk",
+                "source": "The Straits Times",
+                "date": "2026-11-20T23:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PHP 8.6: Things are gonna get a lot more strict around here",
+                "desc": "Like a parent disciplining a misbehaving child, PHP’s annual update clamps down on loose default behaviors to curb malicious hacker horseplay.",
+                "image": "https://image.theregister.com/5247128.jpg?imageId=5247128&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+                "url": "https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486",
+                "source": "The Register",
+                "date": "2026-11-20T23:28:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bell says enterprise customer data was stolen in ‘agentic’ cybersecurity incident",
+                "desc": "Company is notifying affected customers, says no highly-sensitive private information was compromised",
+                "image": "https://www.theglobeandmail.com/resizer/v2/I5KNZUYXIJETVGQDZIR4AAGM6U.JPG?auth=c47096a92712adcc41ea3b0982c0651264e7c5938a36491ae3e42194d23dc819&width=1200&height=800&quality=80&smart=true",
+                "url": "https://www.theglobeandmail.com/business/article-bell-cybersecurity-incident-customer-data/",
+                "source": "The Globe and Mail",
+                "date": "2026-11-20T23:27:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brixton Metals Announces Closing of Non-Brokered Private Placement for Gross Proceeds of $1 Million",
+                "desc": "NotfordistributiontoUnitedStatesNewswireServicesorfordisseminationintheUnitedStates",
+                "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/21/1319256.jpg",
+                "url": "https://www.manilatimes.net/2026/11/21/tmt-newswire/globenewswire/brixton-metals-announces-closing-of-non-brokered-private-placement-for-gross-proceeds-of-1-million/2475357",
+                "source": "The Manila Times",
+                "date": "2026-11-20T23:26:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mathematician says he and AI solved Riemann hypothesis - the field’s biggest outstanding challenge",
+                "desc": "Scholars say that the claim to have derived a proof for a landmark problem in mathematics will need rigorous checking.",
+                "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03812-7/d41586-026-03812-7_54003400.jpg",
+                "url": "https://www.nature.com/articles/d41586-026-03812-7?error=cookies_not_supported&code=5e781086-1fff-455b-8edf-298a47128395",
+                "source": "Nature",
+                "date": "2026-11-20T23:24:06Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Iran war has permanently reshaped energy priorities, IEA report says",
                 "desc": "The repercussions from the Iran war will \"leave lasting marks\" on the world's energy sector, said the Paris-based IEA, founded after the 1973-74 oil crisis.",
                 "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-20T075906Z_1055740571_RC2IROA72RPT_RTRMADP_3_CLIMATE-COP31-1024x683.jpg",
@@ -542,99 +632,99 @@
                 "source": "Business Insider Africa",
                 "date": "2026-11-19T05:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "A hierarchical resilient tri-level energy management for islanded multi-energy system with risk-aware learning-in-the-loop RL algorithm",
-                "desc": "Coordinated energy management is crucial for the effective operation of integrated multi-energy systems (IMESs), which integrate water, heat, and electricity networks. The primary objectives of this coordination include reducing operational costs, minimizing hazards, and ensuring a reliable supply of energy. Traditional methodologies tend to address these objectives within a singular optimization framework, which often constrains their capacity to accommodate the distinct operational requirements associated with economic scheduling, vulnerability assessment, and service restoration. This study investigates the potential for enhancing system performance by dispersing these objectives into three interconnected decision-making tiers and coordinating their outputs throughout the operational phase. At the highest level, Particle Swarm Optimization (PSO) is utilized to facilitate operational decisions that improve energy supply and service restoration during disruptions. The intermediate level employs a sensitivity-based risk assessment to pinpoint vulnerable system components and evaluate their effects on operational performance. At the foundational level, resources pertaining to power, heat, water, storage, and energy conversion are scheduled through Mixed-Integer Linear Programming (MILP), which integrates resilience and risk outcomes as operational constraints and decision-making priorities. Furthermore, a Reinforcement Learning (RL) agent manages real-time operations by coordinating the outputs from these three levels, dynamically adjusting operational choices based on prevailing system conditions. This hierarchical flow of information enables resilience requirements and vulnerability assessments to inform economic scheduling without conflating all objectives into a single optimization problem. Simulations conducted on an IMES reveal that the proposed framework enhances energy supply during disruptions by 35.14% and reduces daily operating costs by 13.79% when compared to traditional benchmark approaches. These findings suggest that the proposed structure improves supply continuity and economic efficiency while effectively addressing operational vulnerabilities and network limitations.",
-                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-                "url": "https://www.nature.com/articles/s41598-026-77395-8?error=cookies_not_supported&code=f7589356-a9e6-4ced-ac42-ab2bb6c9856a",
-                "source": "Nature",
-                "date": "2026-11-18T19:57:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fed minutes: Officials favored holding rates steady in October, but they see hikes ahead",
-                "desc": "Almost all members of the Federal Reserve favored raising interest rates in the future, even as they decided to hold rates steady in October, according to minutes from the central bank's last policy meeting released Wednesday.",
-                "image": "https://s.yimg.com/lo/mysterio/api/e271da7c6f9ba101287c63911445235d0a48a216829a793d08be1ec32461734d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F83a6869a-ae09-4fdd-aca6-554fe0c61f81",
-                "url": "https://finance.yahoo.com/economy/policy/article/fed-minutes-officials-favored-holding-rates-steady-in-october-but-they-see-hikes-ahead-195719301.html",
-                "source": "Yahoo Finance",
-                "date": "2026-11-18T19:57:19Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Genome-wide association analysis and genomics-assisted prediction of seed productivity traits in Spinach (Spinacia oleracea L.)",
-                "desc": "Understanding the genetic basis of reproductive traits can help improve spinach (Spinacia oleracea L.) seed productivity. We evaluated a diversity panel in Chimacum, Washington, during the 2023 season using genome-wide association analysis and genomic prediction. Analyses used 86,049 single-nucleotide polymorphisms, with 227 accessions for days to flowering and gender distribution and 195 for seed yield per female plant. The strongest associations were at SOVchr3_49591612, SOVchr2_3481334, and SOVchr3_1006345, with maximum − log₁₀(P) values of 11.95, 12.04, and 12.80, respectively. Positional candidates included SAP18 for flowering, a BURP domain-containing protein, and pollen-specific SF21 for yield, and a TPX2/importin domain-containing protein for gender distribution. Across 100 repeated holdouts, the highest reported mean predictive correlations were 0.636, 0.641, and 0.478 for the respective 20-, five-, and seven-marker panels. Because marker selection preceded resampling, these estimates describe predictive ability conditional on fixed panels rather than independent validation of marker discovery. Together, the associations, candidate annotations, and compact marker panels provide a focused framework for investigating reproductive timing, female seed productivity, and field gender balance, prioritizing genomic targets for fine mapping and marker validation in spinach breeding.",
-                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-                "url": "https://www.nature.com/articles/s41598-026-80397-1?error=cookies_not_supported&code=388f8eb0-7309-4503-bfb6-9ef4f8fd8e4d",
-                "source": "Nature",
-                "date": "2026-11-18T19:57:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Waymo robotaxi ploughs through rail crossing barrier, trapped on tracks San Diego",
-                "desc": "A driverless car has been filmed narrowly avoiding disaster, reversing straight through a railway crossing barrier in San Diego, California.",
-                "image": "https://content.api.news/v3/images/bin/d8e532505476ab86c458a2fb96690463",
-                "url": "https://www.news.com.au/technology/motoring/motoring-news/dramatic-video-captures-waymo-robotaxi-trapped-on-train-tracks-ploughing-through-rail-barrier/news-story/571620ab193fd36765a9f4b4d1015f13",
-                "source": "News.com.au",
-                "date": "2026-11-18T19:56:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A benchmark for elevator fault diagnosis: Multi-level tasks from perception to diagnostic reasoning",
-                "desc": "Elevator fault diagnosis is a safety-critical problem that requires capabilities beyond isolated fault classification, including knowledge grounding and structured reasoning for maintenance support. In this work, we present a benchmark for elevator fault diagnosis and organize evaluation into three complementary task groups: (A) sensor-based fault detection and classification, (B) taxonomy-grounded fault classification and cause identification, and (C) reasoning with incomplete or constrained information. To enable reproducible comparison across heterogeneous model families, we standardize task definitions, input/output formats, and scoring protocols and report component-level predictive metrics. Experiments across representative language models show task-dependent performance: higher performance on one task does not necessarily transfer to another. The benchmark is a reproducible testbed for studying diagnostic-assistance methods, not a validation of safe operational deployment.",
-                "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0362972.g003&size=inline",
-                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362972",
-                "source": "PLOS",
-                "date": "2026-11-18T19:53:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Misinformation-based preventive behaviors during the COVID-19 pandemic in Myanmar: A cross-sectional study",
-                "desc": "Widespread misinformation influenced public understanding of disease risk and preventive behaviors during the COVID-19 pandemic, particularly in low-resource and conflict-affected settings such as Myanmar. Although preventive behaviors were generally protective, some actions driven by misinformation may have been ineffective or harmful. Evidence on determinants of misinformation-based preventive behaviors remained limited. This study aimed to examine associations between misinformation-based preventive behaviors (MPB) and sociodemographic characteristics, information sources, social media use, and health belief factors in Myanmar. A cross-sectional online survey was conducted among adults residing in Myanmar, with data collected between March and May 2024. Participants were asked to retrospectively report their preventive behaviors during the COVID-19 pandemic period (2020–2022). Data were collected using a structured questionnaire adapted from previous COVID-19 studies. The outcome variable was misinformation-based preventive behaviors, categorized as low (0–2 behaviors) and high (3–4 behaviors) engagement. Independent variables included sociodemographic characteristics, information sources, social media platform use, and selected health belief variables based on the Health Belief Model (HBM). A total of 434 respondents were included in the analysis, of whom 106 (24.4%) reported high engagement in MPB. Use of social media platforms other than Facebook was associated with higher engagement (adjusted odds ratio [AOR] = 2.30, 95% confidence interval [CI]: 1.22–4.35). Participants reporting ≤3 hours and 4–6 hours of daily social media use had lower odds of MPB engagement compared with those reporting >6 hours (AOR = 0.46, 95% CI: 0.25–0.86; AOR = 0.48, 95% CI: 0.24–0.95, respectively). Higher self-efficacy was independently associated with greater engagement in MPB (AOR = 1.70, 95% CI: 1.03–2.82). MPB were more strongly associated with information environments and specific health beliefs than with sociodemographic characteristics alone. These findings underscore the importance of addressing misinformation and improving access to reliable health information to reduce engagement in non–evidence-based practices.",
-                "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0362976.t002&size=inline",
-                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362976",
-                "source": "PLOS",
-                "date": "2026-11-18T19:53:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Neuroprotective therapy cleared for testing in acute MS relapses",
-                "desc": "Oculis is expanding the development of privosegtor, its experimental nerve-protecting therapy, to include the treatment of acute MS relapses.",
-                "image": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1240333879-1200x630-cropped-center-top.jpg",
-                "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/18/neuroprotective-therapy-cleared-testing-acute-ms-relapses/",
-                "source": "Multiple Sclerosis News Today",
-                "date": "2026-11-18T19:46:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AI Is Breaking the Entire Structure of Software That Powers the World",
-                "desc": "Security researchers using AI found a critical exploit in Java, a widely popular programming language used by governments and corporations.",
-                "image": "https://futurism.com/wp-content/uploads/2026/11/ai-breaking-structures-software-power-world.jpg?w=1200",
-                "url": "https://futurism.com/artificial-intelligence/ai-breaking-software-powers-world",
-                "source": "Futurism",
-                "date": "2026-11-18T19:46:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Gold prices remain under pressure as Fed minutes show central bank committed to cooling inflation",
-                "desc": "(Kitco News) - Gold prices have dropped to session lows as the Federal Reserve remains firmly committed to raising interest rates to bring inflation down to its 2% target, according to the latest minutes of the central bank’s monetary policy meeting.Although the Federal Reserve left interest rates unchanged in October, the minutes showed that committee members see cooling persistent inflation as their top priority.“Most participants expected inflation to remain elevated in the near term but to decline over time toward 2 percent, reflecting the waning of tariff-related price effects, a reduction in energy prices’ contribution to inflation, and a moderation of the pressures associated with the AI buildout. The vast majority saw upside risks to this outlook, citing higher energy prices and continued supply constraints with regard to refined fuel products,” the minutes said.The gold market has been struggling to hold critical support levels as markets continue to expect the Federal Reserve to raise interest rates by year-end. On Wednesday, spot gold dropped below initial support at $3,800 an ounce and has continued to slide throughout the trading session. The precious metal last traded at $3,720.20 an ounce, down more than 3% on the day.Jeffrey Roach, Chief Economist at LPL Financial, said that the minutes contained no major surprises; however, he added that he expects Treasury yields to remain elevated and the U.S. dollar to stay strong, both of which will weigh on gold prices.“The Fed appears firmly committed to additional tightening, with the debate shifting from whether to raise rates to how dramatically. Since the inflation data will likely improve in November and December, the FOMC will hike by 25 basis points and will not likely feel the need to hike by a larger magnitude. That said, monetary policy will likely tighten further in Q1 next year,” he said.",
-                "image": "https://images.kitco.com/img/extract_0_51_1000_563,width_1200,enlarge,format_jpeg/icms/01204ca0-fbe3-4463-a3c7-924357e708f0.jpeg",
-                "url": "https://www.kitco.com/news/article/2026-11-18/gold-prices-remain-under-pressure-fed-minutes-show-central-bank-committed",
-                "source": "Kitco",
-                "date": "2026-11-18T19:43:05Z",
-                "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Investigation on influence of lateral pressure coefficient of surrounding rock on drilling energy",
-                "desc": "This study investigates the mechanism of drilling energy consumption under complex in-situ stress conditions. Drilling experiments were conducted on M15 mortar specimens under varying lateral pressure coefficients using a self-developed laboratory system. Results show that drilling velocity, rotation, and torque exhibit no clear regularity, while drilling work displays a “decrease–increase” V-shape trend centered at a coefficient of (1) A mechanical model of cutting under lateral pressure was established, indicating that drilling work is consistently higher than under isotropic pressure. The drilling work coefficient exhibits a piecewise functional relationship with the lateral pressure coefficient, with deviations up to 30% at a coefficient of (2) Experimental and theoretical results differ by 0.66%~8.76%. Unlike previous models assuming uniform confining pressure, this study reveals a nonlinear non-monotonic relationship between drilling work and lateral pressure coefficient (κ), and introduces a dimensionless coefficient (CE) to quantify the deviation from hydrostatic conditions. These findings provide a quantitative framework for drilling design and in-situ stress estimation. The results can be extended to vertical and inclined boreholes and are valuable for petroleum drilling, directional drilling, and in-situ stress measurement while drilling.",
-                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-                "url": "https://www.nature.com/articles/s41598-026-77727-8?error=cookies_not_supported&code=6e91bdd7-e477-48cd-9025-dd4ea77eb771",
-                "source": "Nature",
-                "date": "2026-11-18T19:39:28Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "Transformers Blokees Yearly Edition 2027 Revealed",
+                "desc": "Thanks to Dinobot Scorn and TFW User John Blokees we have our first look at the Blokees Yearly Edition for 2027. They are all clear plastic repaints of",
+                "image": "https://news.tfw2005.com/wp-content/uploads/sites/10/2026/11/BlokeesYearly1.jpg",
+                "url": "https://news.tfw2005.com/2026/11/20/blokees-yearly-edition-2027-revealed-579004",
+                "source": "TFW2005",
+                "date": "2026-11-20T23:44:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft’s latest PC Assist feature wants to sneak Bing in as your default search engine",
+                "desc": "PC Assist combines Get Help diagnostics with WebView2 links to Bing.",
+                "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/07/an-android-phone-showing-the-play-store-page-for-microsoft-bing.jpg?w=1600&h=900&fit=crop",
+                "url": "https://www.makeuseof.com/microsofts-latest-pc-assist-feature-wants-to-sneak-bing-in-as-your-default-browser/",
+                "source": "MakeUseOf",
+                "date": "2026-11-20T23:35:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Actor Who Plays Mandy in GTA 6 Excitedly Speaks Out After Character Goes Viral",
+                "desc": "Lexie Shoaibi, the actor who plays Mandy in GTA 6, is speaking out now that the game has been officially released worldwide.",
+                "image": "https://assets-prd.ignimgs.com/2026/11/20/mandy-actress-speaks-out-gta6-1795216516675.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "url": "https://www.ign.com/articles/actor-who-plays-mandy-in-gta-6-excitedly-speaks-out-after-character-goes-viral",
+                "source": "IGN",
+                "date": "2026-11-20T23:31:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The XMG Neo 16 delivers high-end gaming performance at under 40 dB(A)",
+                "desc": "High-end gaming laptops deliver excellent performance, but they usually get extremely loud in the process. The XMG Neo 16, by contrast, delivers nearly the full gaming performance of the RTX 5090 at under 40 dB(A).",
+                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/SCHENKER/XMG_Neo_16_E25_RTX_5090_Laptop/xmg_neo_16_e25_case_11.JPG",
+                "url": "https://www.notebookcheck.net/The-XMG-Neo-16-delivers-high-end-gaming-performance-at-under-40-dB-A.1455440.0.html",
+                "source": "Notebookcheck",
+                "date": "2026-11-20T23:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cops Are Pushing Extremely Corny",
+                "desc": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+                "image": "https://media.wired.com/photos/6b008734209518b1b255d3f5/191:100/w_1280,c_limit/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg",
+                "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+                "source": "WIRED",
+                "date": "2026-11-20T23:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 Players React After Exclusive Shops Greet Non-Ultimate Edition Buyers With Locked Doors",
+                "desc": "Window shopping.",
+                "image": "https://sm.ign.com/t/ign_ap/news/g/gta-6-play/gta-6-players-react-after-exclusive-shops-greet-non-ultimate_vg6c.1200.jpg",
+                "url": "https://sea.ign.com/grand-theft-auto-vi-rumored-title/252268/gta-6-players-react-after-exclusive-shops-greet-non-ultimate-edition-buyers-with-locked-doors",
+                "source": "IGN Southeast Asia",
+                "date": "2026-11-20T23:05:42Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA VI shatters records with US$3.8 billion sales",
+                "desc": "GTA VI shatters records with US$3.8 billion in first-day sales, becoming the biggest entertainment release ever. Read more at straitstimes.com.",
+                "image": "https://cassette.sphdigital.com.sg/image/straitstimes/573b5f9667cdd1fd390a81333905dbe63f06f5baced3501fad69ee63632a4cf4?t=og",
+                "url": "https://www.straitstimes.com/life/gta-vi-shatters-records-with-us3-8-billion-in-first-day-sales",
+                "source": "The Straits Times",
+                "date": "2026-11-20T23:04:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US police departments warn GTA VI users to ‘keep it in the game’",
+                "desc": "Although there is no definitive link between violent video games and behavior, departments take to social media",
+                "image": "https://i.guim.co.uk/img/media/589ef3157396f2a51452956b4b33336ffae07539/584_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e966834bd4477f233b3a99a722acc98",
+                "url": "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa",
+                "source": "The Guardian",
+                "date": "2026-11-20T23:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Google to shut down Nest app, Google Assistant on home devices",
+                "desc": "Google has some changes coming to its Nest and Google Home apps.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/20/USAT/92885319007-nest-doorbell-battery-colors-q-322-original.jpg?crop=4999,2812,x0,y22&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/tech/2026/11/20/google-shutting-down-nest-app-google-assistant/92882819007/",
+                "source": "USA Today",
+                "date": "2026-11-20T23:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Quote of the day by Nvidia co-founder Jensen Huang: \"The GPU won't destroy the CPU. Without the CPU, there's no computer\"",
+                "desc": "Although the graphics processing unit gained a lot of attention over the last decade, the humble CPU is now proving important too",
+                "image": "https://s.yimg.com/lo/mysterio/api/d4c1a771892a989b211076e3debd20758faa4f81904a0854e96d9d641a77b113/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2Ffba449153e3fef2e616bf7a28ab91a32.jpg",
+                "url": "https://tech.yahoo.com/computing/articles/quote-day-nvidia-co-founder-230000091.html",
+                "source": "Yahoo Tech",
+                "date": "2026-11-20T23:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Leaked Dummy Units Show Apple's iPhone Air 2 Gaining a Second Rear Camera",
                 "desc": "Dummy units for the iPhone Air 2 and iPhone 18 surfaced online on Nov. 20, months before an expected spring launch. The mockups show the slimline Air…",
@@ -1174,99 +1264,99 @@
                 "source": "The Guardian",
                 "date": "2026-11-19T05:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Wispr Flow Brings AI Meeting Notes to iPhone",
-                "desc": "Wispr Flow extends AI meeting capture to iPhone, connecting in-person conversations with desktop notes while retaining important recording and privacy limits.",
-                "image": "https://www.unite.ai/wp-content/uploads/2026/11/wispr-iphone-notetaker.jpg",
-                "url": "https://www.unite.ai/wispr-flow-notetaker-iphone-meeting-notes/",
-                "source": "Unite.AI",
-                "date": "2026-11-18T19:57:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NSW seeing 'exodus' of video game developers looking for better funding, support in other states",
-                "desc": "Screen NSW offers up to $30,000 per video game in state funding, but developers say it is not enough, and are leaving the state in search for better offers.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/ac866433e51425eaff81c678e7d94218?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=99&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-11-19/nsw-video-game-developers-leaving-for-more-funding-elsewhere/107390536",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-11-18T19:54:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New leaks detail next year's iPhone Pro redesign and iPhone Duo 2",
-                "desc": "Next year's fall iPhone lineup is expected to include 20th anniversary redesigned Pro models and an iPhone Duo 2. Here's what to expect.",
-                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&resize=1200,628",
-                "url": "https://9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2/",
-                "source": "9to5Mac",
-                "date": "2026-11-18T19:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New framework aims to create personalized genetic therapies for rare neurodevelopmental disorders",
-                "desc": "McGill University researchers have developed and tested a new way to facilitate the creation of personalized genetic therapies for children with rare neurodevelopmental disorders.",
-                "image": "https://www.news-medical.net/images/tags/TagImage-3347-458389964760995353448-620x480.jpg",
-                "url": "https://www.news-medical.net/news/20261118/New-framework-aims-to-create-personalized-genetic-therapies-for-rare-neurodevelopmental-disorders.aspx",
-                "source": "News-Medical",
-                "date": "2026-11-18T19:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "3 TV Settings You Should Change Before Playing GTA 6",
-                "desc": "\"Grand Theft Auto 6\" is making its grand video game debut, but before firing up your copy on PS5 or Xbox, make sure these TV settings are set correctly.",
-                "image": "https://www.bgr.com/img/gallery/3-tv-settings-you-should-change-before-playing-gta-6/l-intro-1795030708.jpg",
-                "url": "https://www.bgr.com/2320997/gta-6-change-tv-settings-before-playing/",
-                "source": "BGR",
-                "date": "2026-11-18T19:42:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation Network Reportedly Down for Many Just Hours Before GTA 6 Release",
-                "desc": "On the biggest day of the year for PS5 users, the PlayStation Network is suffering widespread outages around the globe.",
-                "image": "https://comicbook.com/wp-content/uploads/sites/4/2023/03/d598d005-ce7c-4219-aecd-7a1af7a8403a.png?w=1200",
-                "url": "https://comicbook.com/gaming/news/psn-playstation-network-down-gta-6-release/",
-                "source": "ComicBook.com",
-                "date": "2026-11-18T19:36:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA 6's Cops Will Remember You Thanks To The 'Heat' System",
-                "desc": "It’s a fun evolution of the iconic Wanted mechanic.",
-                "image": "https://www.engadget.com/img/gallery/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/l-intro-1795030355.jpg",
-                "url": "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/",
-                "source": "Engadget",
-                "date": "2026-11-18T19:34:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The ‘GTA 6’ Work Blackout Is Here",
-                "desc": "From taking sick days and vacation days to gaming at the office, many are going all out to embrace the franchise’s long-awaited release.",
-                "image": "https://media.wired.com/photos/6afde131962f4b78357718b8/191:100/w_1280,c_limit/GTA-Work-Blackout-Culture-2303488647.jpg",
-                "url": "https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
-                "source": "WIRED",
-                "date": "2026-11-18T19:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "European Society of Medicine Journal: Facts & Fees",
-                "desc": "The European Society of Medicine journal is Medical Research Archives: publisher, scope, fees, ISSN, and what the NLM Catalog lists, as checked 2026-11-18.",
-                "image": "https://casrai.org/api/og?title=European%20Society%20of%20Medicine%20Journal%3A%20Facts%20%26%20Fees&eyebrow=Guide&type=guide",
-                "url": "https://casrai.org/guides/european-society-of-medicine-journal",
-                "source": "CASRAI",
-                "date": "2026-11-18T19:31:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Best Buy sells Blu-rays online and in-store again",
-                "desc": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
-                "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey16-1152x648.jpg",
-                "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
-                "source": "Ars Technica",
-                "date": "2026-11-18T19:31:17Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "ElementUSA, Geophysx partner to advance Jamaica’s critical minerals sector",
+                "desc": "MOU builds on ElementUSA’s work to turn bauxite residue into critical minerals and pig iron.",
+                "image": "https://www.mining.com/wp-content/uploads/2026/11/bauxite-.jpg",
+                "url": "https://www.mining.com/elementusa-geophysx-partner-to-advance-jamaicas-critical-minerals-sector/",
+                "source": "Mining.com",
+                "date": "2026-11-20T23:45:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jonathan Rinderknecht Convicted of Starting 2025 Palisades Fire",
+                "desc": "Jonathan Rinderknecht has been convicted of starting the devastating 2025 fire in the Pacific Palisades.",
+                "image": "https://imagez.tmz.com/image/0b/16by9/2026/11/20/0b6ab148014d45a484ea5d1a65965d59_xl.jpg",
+                "url": "https://www.tmz.com/2026/11/20/jonathan-rinderknecht-found-guilty-palisades-fire/",
+                "source": "TMZ",
+                "date": "2026-11-20T23:39:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh",
+                "desc": "The Saudi-led coalition fighting Yemen's Iran-aligned Houthis said on Saturday it had intercepted and destroyed three ​ballistic missiles fired towards Riyadh, marking the second Houthi attack ‌on the Saudi capital in a few days, after its tallest skyscraper was struck on Thursday.",
+                "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+                "url": "https://www.reuters.com/world/middle-east/saudi-arabia-issues-two-riyadh-alerts-says-danger-has-passed-2026-11-20/",
+                "source": "Reuters",
+                "date": "2026-11-20T23:36:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sandpapergate: Aussie quick bowler Josh Hazlewood launches defiant defence of under",
+                "desc": "Australian fast bowler Josh Hazlewood has launched a passionate defence of under-fire test captain Pat Cummins as fallout from sandpapergate intensifies. A...",
+                "image": "https://www.nzherald.co.nz/resizer/v2/F6SFVLJW5NC4JEIAPNRLAKEXFA.jpg?auth=5a978cf2435c1dab7cf77ce36051c4e03c2c6a7e4410e3fee065518cc90c10a2&width=1200&height=675&quality=70&focal=1847%2C391&smart=false",
+                "url": "https://www.nzherald.co.nz/sport/sandpapergate-aussie-quick-josh-hazlewood-launces-defiant-defence-of-under-fire-captain-pat-cummins/AZHCJ3ZYEJAB7K4YGZ2JSVAVNE/",
+                "source": "NZ Herald",
+                "date": "2026-11-20T23:34:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump touts $17B in Asia deals after first-ever meeting with Xi and Putin",
+                "desc": "Trump met with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen, China.",
+                "image": "https://fox28savannah.com/resources/media2/16x9/5940/1320/0x310/90/2919f3af-7179-4eb7-b930-1c1333a9ddfb-GettyImages2306087314.jpg",
+                "url": "https://fox28savannah.com/news/nation-world/president-donald-trump-addresses-xi-putin-meeting-after-historic-trilateral-summit-asia-china-four-point-joint-declaration-refined-petroleum-nuclear-weapons-international-criminal-court-russia-ukraine-war-super-intelligence-taiwan-thailand",
+                "source": "WTGS",
+                "date": "2026-11-20T23:33:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shameless Russell Brand ‘sacks bust-up lawyer and considers appeal’ against rape conviction and sentence",
+                "desc": "RUSSELL Brand has reportedly sacked his lawyer and is considering launching an appeal after he was convicted of rape.\nThe disgraced comedian,...",
+                "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/11/jr-russell-brand-3.jpg?quality=90&strip=all&1795216984&w=1920&h=1080&crop=1",
+                "url": "https://www.thesun.ie/tvandshowbiz/17949043/russell-brand-fires-lawyer-appeal/",
+                "source": "The Irish Sun",
+                "date": "2026-11-20T23:29:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philippines pet dumping: Dead dogs and cats were meant to be cremated",
+                "desc": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4bc/live/7ab356d0-e4f5-11f1-a094-5fdc692f3e33.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo",
+                "source": "BBC",
+                "date": "2026-11-20T23:20:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philippines pet dumping: Dead dogs and cats were meant to be cremated",
+                "desc": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c4bc/live/7ab356d0-e4f5-11f1-a094-5fdc692f3e33.jpg",
+                "url": "https://www.bbc.com/news/articles/cmn502ek17yvo",
+                "source": "BBC",
+                "date": "2026-11-20T23:20:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+                "desc": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury",
+                "image": "https://i.guim.co.uk/img/media/9ac7a13c61ac09c8989f886adde8097c03d0fc03/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15afba37489152274b93983668526bce",
+                "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+                "source": "The Guardian",
+                "date": "2026-11-20T23:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+                "desc": "EU warns COP31 risks turning into a ‘fossil summit’ as critical climate commitments are omitted from the draft deal.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00c08d262a-1795211405.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime",
+                "source": "Al Jazeera",
+                "date": "2026-11-20T23:19:22Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Netherlands Joins Patria’s CAVS Program: 6×6 Armored Vehicle Cooperation Expands",
                 "desc": "In a statement by Finnish defense company Patria, it was announced that the Netherlands has joined the Common Armoured Vehicle System (CAVS) program.",
@@ -1806,98 +1896,8 @@
                 "source": "allAfrica.com",
                 "date": "2026-11-19T05:03:40Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Op-Ed | Late Means Never: The Hormuz Shock Exposed How Little Africa Grows for Itself",
-                "desc": "The Hormuz shock reached Africa's farm shops this year. Homegrown seed and inputs can blunt the next one.",
-                "image": "https://foodtank.com/wp-content/uploads/2026/11/Social-Image_-Example-3-1.png",
-                "url": "https://foodtank.com/news/2026/11/op-ed-late-means-never-the-hormuz-shock-exposed-how-little-africa-grows-for-itself/",
-                "source": "Food Tank",
-                "date": "2026-11-18T19:53:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US reissues security warnings to citizens in Bahrain, Saudi",
-                "desc": "US urges citizens in Bahrain and Saudi Arabia to stay vigilant after renewed attacks by Iran and its allies, including drone strikes and Gulf tensions.",
-                "image": "https://media.assettype.com/gulfnews%2F2026-10-25%2Fwf4mnduz%2FHUcGY7uXAAA0cEf.jpg?rect=0%2C28%2C427%2C224&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-                "url": "https://gulfnews.com/world/americas/us-reissues-security-warnings-to-citizens-in-bahrain-saudi-1.500752767",
-                "source": "Gulf News",
-                "date": "2026-11-18T19:51:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Liberia explores EgyptAir partnership for national airline",
-                "desc": "Liberia is exploring technical cooperation with EgyptAir (MS, Cairo International) to support the development of a national airline under a broader aviation deal signed...",
-                "image": "https://www.ch-aviation.com/images/stockPhotos/9440/dbe6e7f3c6afcca1c27c94e544188ffe20cf0071.jpg",
-                "url": "https://www.ch-aviation.com/news/174086-liberia-explores-egyptair-partnership-for-national-airline",
-                "source": "ch-aviation",
-                "date": "2026-11-18T19:50:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A Strategy for Revitalizing Sudan’s Democratic Transition",
-                "desc": "On October 25, Sudan’s military dissolved a civilian-led transitional government that had been established following the April 2019 ouster of former President Omar al-Bashir. The coup ended a military-civilian power-sharing partnership that was meant to transition Sudan to democracy, with elections slated for 2023. The power grab prompted thousands to protest in the streets of...",
-                "image": "https://thesentry.org/wp-content/uploads/2026/08/logo-hero-banner-full.jpg",
-                "url": "https://thesentry.org/publications/strategy-revitalizing-sudans-democratic-transition/",
-                "source": "https://thesentry.org/",
-                "date": "2026-11-18T19:49:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russia gives stark response as France sends soldiers into Ukraine",
-                "desc": "Russia is responding forcefully to confirmation from France that it periodically sends military personnel into Ukraine to provide training and maintenance help with some of the weaponry it has supplied for the war.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149244841.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/11/18/world-news/russia-gives-stark-response-as-france-sends-soldiers-into-ukraine/",
-                "source": "New York Post",
-                "date": "2026-11-18T19:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says",
-                "desc": "The United States on Wednesday issued new Hezbollah-related sanctions targeting three people based in Lebanon, and three entities as part of a broader effort ​to shut down Iran's proxy networks, the Treasury Department said.",
-                "image": "https://www.reuters.com/resizer/v2/YKW2ZTXAYVNFRIPJU2TZJ37T6Y.jpg?auth=ea416c32665a702824f4e2b4c48496d1656c90fd43b7f181798c86997e1cbecb&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/middle-east/us-sanctions-hezbollah-linked-charity-push-against-irans-proxies-treasury-says-2026-11-18/",
-                "source": "Reuters",
-                "date": "2026-11-18T19:48:32Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cave discovery in China reveals surprising survival skills of Homo erectus",
-                "desc": "Teeth unearthed in two caves in China are shaking up what scientists know about an enigmatic human ancestor called Homo erectus.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/img2-karst-near-naxian.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/11/18/science/teeth-homo-erectus-china",
-                "source": "CNN",
-                "date": "2026-11-18T19:39:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Australia Expands Immi App to 52 Countries",
-                "desc": "The free Australian Immi App now lets visa applicants in 52 countries, including India and Vietnam, submit biometrics by smartphone.",
-                "image": "https://eiglaw.com/wp-content/uploads/2023/06/Australia-scaled.jpg",
-                "url": "https://eiglaw.com/australia-expands-immi-app-to-52-countries/",
-                "source": "Erickson Immigration Group",
-                "date": "2026-11-18T19:38:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Sudan’s drone toll tops 1,630 civilians as strikes hit markets, hospitals and fuel sites, while 8.6 million people remain displaced inside the country",
-                "desc": "Drone strikes caused nearly three-quarters of Sudan’s 2,230 UN-confirmed civilian deaths this year, while attacks also hit power, fuel and health facilities. | Business Insider Africa",
-                "image": "https://ocdn.eu/pulscms-transforms/1/IOwktkpTURBXy80NzJhZTQ3NDI1YjI0Y2MyN2I2NmY2MTI3MTU0ZjVkMy5wbmeSlQMAIM0Dss0CFJMFzQSwzQJ2",
-                "url": "https://africa.businessinsider.com/local/markets/sudans-drone-toll-tops-1630-civilians-as-strikes-hit-markets-hospitals-and-fuel-sites/trphyps",
-                "source": "Business Insider Africa",
-                "date": "2026-11-18T19:34:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Europe Cooperation To Tackle Terrorism And Organised Crime",
-                "desc": "The Minister of Defence and Veteran Affairs, Hon. Kiryowa Kiwanuka, has called for stronger international partnerships and Africa-centred security cooperation to address the growing nexus between armed conflict, terrorism and organised crime. Mr Kiwanuka said lasting peace could only be achieved through strong state institutions, economic development and cooperation among countries, rather than relying solely…",
-                "image": "https://www.updf.go.ug/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-5.40.17-PM.jpeg",
-                "url": "https://www.updf.go.ug/diplomatic-partnership/uganda-calls-for-stronger-africa-europe-cooperation-to-tackle-terrorism-and-organised-crime/",
-                "source": "UPDF",
-                "date": "2026-11-18T19:30:36Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-21T03:31:04.048856Z"
+    "lastGlobalSync": "2026-11-21T11:49:20.287093Z"
 }
