@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Molecular locking of lithium ions for improved efficiency and stability of perovskite solar cells",
+                "desc": "The hole-transport material 2,2′,7,7′-tetrakis(N,N-di-p-methoxyphenyl-amine)-9,9′-spirobifluorene (Spiro-OMeTAD) is commonly used in perovskite solar cells but suffers from instabilities due to the hygroscopicity and lithium ion migration induced by additives, such as lithium bis(trifluoromethanesulfonyl)imide and 4-tert-butylpyridine (tBP), in its formulation. Here we show a molecular locking strategy by designing phosphonate-based molecules with extended cyano chains, enabling dual-site coordination with lithium ions to regulate ion mobility and stabilize the lithium bis(trifluoromethanesulfonyl)imide/tBP dopant environment. Meanwhile, the phosphonate-based molecule reduces tBP loss, enhances the thermomechanical robustness of the Spiro-OMeTAD matrix, mitigates dopant redistribution and stabilizes the interface. These coupled effects collectively improve device stability under illumination, thermal and electrical stresses. The optimized n–i–p perovskite solar cells achieve a champion efficiency of 26.73% and retain 95% of the initial efficiency after 1,000 h under maximum power point tracking (International Summit on Organic Photovoltaic Stability (ISOS)-L-1), 95% after 1,000 h at 85 °C (ISOS-L-2) and 91% after 1,600 h under 1.5 V bias (ISOS-V-1). Spiro-OMeTAD is a common hole-transporting material in n–i–p perovskite solar cells but suffers from instabilities caused by mobile lithium dopant ions. Pan et al. incorporate a molecular locking additive in Spiro-OMeTAD, enhancing both the efficiency and stability of devices.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02173-9/MediaObjects/41560_2026_2173_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41560-026-02173-9?error=cookies_not_supported&code=2eef6af5-8b9c-4d63-8761-6700b5fc5f46",
+                "source": "Nature",
+                "date": "2026-11-27T10:58:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Regulation of proton transference for stable and efficient reactive capture of CO2 from air",
+                "desc": "Direct air capture combined with electrosynthesis could turn atmospheric CO2 into fuels, but releasing tightly bound CO2 from capture liquids demands intense heat, and the resulting end-to-end energy burden exceeds 35 GJ per tonne of CO. Electrified reactive capture avoids thermal regeneration by feeding capture liquid directly into an electrolyser, yet reported systems remain energy-intensive and typically fail within 100 h. Here we show that these failures trace to proton management: too large a flux of protons crossing the membrane acidifies the cathode and degrades the catalyst, while too small a flux starves proton-driven in situ CO2 release, both favouring hydrogen evolution. We define the proton transference number ( $${{{t}}}_{{{\\rm{H}}}^{+}}$$ ), the fraction of ionic current carried by protons, as a quantitative descriptor linking ion transport to CO selectivity, carbon utilization and durability. Replacing oxygen evolution with gas-fed hydrogen oxidation at the anode maintains $${{{t}}}_{{{\\rm{H}}}^{+}}\\approx 1$$ , enabling 1,000 h of stable operation at ~1 V and 100 mA cm−2, and CO production from air at 22 GJ t−1 with >90% carbon utilization. Direct air capture integrated with electrosynthesis to produce fuels and chemicals is hindered by high energy consumption and limited operational lifetimes. Here the authors identify proton management as crucial for stability and achieve 1,000 h of stable operation by using gas-fed hydrogen oxidation at the anode, which maintains ideal ion transport and enhances CO production.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02158-8/MediaObjects/41560_2026_2158_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41560-026-02158-8?error=cookies_not_supported&code=13d4c3e8-ea2d-4362-9631-11807c7b5f4a",
+                "source": "Nature",
+                "date": "2026-11-27T10:58:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Time dotCom’s Afzal to relinquish all executive responsibilities",
+                "desc": "KUALA LUMPUR: Time dotCom Bhd's executive vice-chairman Afzal Abdul Rahim will relinquish all executive responsibilities and be redesignated as non-executive vice-chairman effective Dec 31, 2026.",
+                "image": "https://apicms.thestar.com.my/uploads/images/2026/11/27/4234976.png",
+                "url": "https://www.thestar.com.my/business/business-news/2026/11/27/time-dotcoms-afzal-to-relinquish-all-executive-responsibilities",
+                "source": "The Star",
+                "date": "2026-11-27T10:58:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Vision Loss from GLP-1 Use is Rare, However NL Optometrists Warn Not to Ignore Any Changes in Eyesight",
+                "desc": "The NL Association of Optometrists is urging those taking prescription GLP-1 drugs (like Ozempic and Wegovy am...",
+                "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/ozempic.jpg",
+                "url": "https://vocm.com/2026/11/27/nl-association-of-optometrists-says-vision-loss-from-glp-1-use-is-rare-however-any-vision-changes-should/",
+                "source": "VOCM",
+                "date": "2026-11-27T10:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sui DEX Bluefin to Shut Down Perpetual Futures on Dec. 4, Pivots to Spot and RWA",
+                "desc": "Bluefin, a decentralized exchange built on the Sui blockchain, will shut down its perpetual futures service, Bluefin Perps, on Dec. 4. The move aligns…",
+                "image": "https://img.biggo.com/RIHhJWErNl5wFopEPTBT0tZAyOHdJ0g-K-ksi3uI-tQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2Y4NDg0NGM2LTU2OGItNDczYi04OWIwLTM1NzI3YTNkYTkyNV8xNzk1Nzc3MjU0X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/f84844c6-568b-473b-89b0-35727a3da925",
+                "source": "BigGo Finance",
+                "date": "2026-11-27T10:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "German Unemployment Rises More Than Expected in November as Recovery Fails to Reach Labor Market",
+                "desc": "Germany's Federal Employment Agency reported that seasonally adjusted unemployment rose by 9,000 in November from the previous month to 3.025 million,…",
+                "image": "https://img.biggo.com/6N2j3JwowZediOL78fCJWfMCy-e_7wgt_g5Q9rbJvR4/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzFmNWI4YjE5LWNmYmUtNGZhYS1hMzUyLThlZGE2NWVhZGUyZF8xNzk1Nzc3MjY1X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/1f5b8b19-cfbe-4faa-a352-8eda65eade2d",
+                "source": "BigGo Finance",
+                "date": "2026-11-27T10:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Jet Fuel Surge From Iran War Triggers Wave of European Airline Collapses; Norse Atlantic Also Suspends Flights",
+                "desc": "Soaring jet fuel prices in the wake of the Iran war are pushing European low-cost carriers toward a wave of collapses. Norway's Norse Atlantic has…",
+                "image": "https://img.biggo.com/eZWa7S2icEQiNNMC5_bXCZ_6heC9U6s73st6h3ZrWtU/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzY4ODBlZjI0LWFiMzEtNDdhOC04YTUzLWY0ZjEyZWQ2OTA2M18xNzk1Nzc3MjQxX2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/6880ef24-ab31-47a8-8a53-f4f12ed69063",
+                "source": "BigGo Finance",
+                "date": "2026-11-27T10:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stock Market Highlights, Nov 27: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag",
+                "desc": "Sensex Today, Nifty 50 | Stock Market Highlights: Indian benchmark equity indices snapped their two-day winning streak on Friday, with the Sensex plunging 989.33 points, or 1.17 per cent, to 83,339.26 and the Nifty declining 277.30 points, or 1.07 per cent, to 25,607.20.",
+                "image": "https://bl-i.thgim.com/public/incoming/47v2wa/article71749193.ece/alternates/LANDSCAPE_1200/iStock-1944986665.jpg",
+                "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-27-november-2026/article71746210.ece",
+                "source": "BusinessLine",
+                "date": "2026-11-27T10:54:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions",
+                "desc": "Singapore is reviewing its procedures to prevent illicit semiconductor trading and will keep working with US authorities to address their concerns.",
+                "image": "https://s.yimg.com/lo/mysterio/api/2f80e7976f7f2797b909561de1deb52a1d9afb303d96302696001db74c780104/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F45de116c1e0a8b0d4f5feee18a6713da",
+                "url": "https://finance.yahoo.com/technology/ai/articles/singapore-reportedly-talks-us-retain-105414781.html",
+                "source": "Yahoo Finance",
+                "date": "2026-11-27T10:54:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "German unemployment rises more than expected in November",
+                "desc": "By Maria Martinez and Ludwig Burger BERLIN, Nov 27 (Reuters) - The number of unemployed people in Germany rose more than expected on a seasonally adjusted basis in November and was above the",
+                "image": "https://s.yimg.com/lo/mysterio/api/1f4056f5a8b1ae455c7e80e33ff7bf5ec8fd58e4954f593d25926ad827325e49/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3cf2475a8bfd2ca1dad1f54125fa83cc.jpg_up.jpg",
+                "url": "https://finance.yahoo.com/economy/articles/german-unemployment-rises-more-expected-085809093.html",
+                "source": "Yahoo Finance",
+                "date": "2026-11-27T10:53:44Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Mercedes-Benz plans new China JV for local auto part supplies",
                 "desc": "BEIJING, Nov 27 (Reuters) - Mercedes-Benz plans to set up a new joint venture in Beijing to procure passenger vehicle components for supply to its manufacturing venture with BAIC Motor, according to a filing with China's market regulator on Friday. Under the arrangement, Mercedes-Benz China will hold a 70% stake in the new company, while Beijing Benz, the German automaker's joint venture with BAIC, will own the remaining 30%, the filing showed. Both parties will jointly control the venture.",
                 "image": "https://live.euronext.com/favicon.ico",
@@ -542,99 +632,99 @@
                 "source": "ABC News & Headlines – Australian Broadcasting Corporation",
                 "date": "2026-11-25T07:47:53Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Petrobras seeks new corn ethanol opportunities after buying stake in producer",
-                "desc": "Brazilian oil company Petrobras will seek new opportunities in the ethanol industry, CEO Magda Chambriard said on Tuesday, a day after it agreed to buy a 42% stake in Brazil's third-largest corn ethanol producer.",
-                "image": "https://www.reuters.com/resizer/v2/KANYJHTUORLSJETWQLAANC3SZU.jpg?auth=4bf59ac380703d172a6b94f39abbf35304f02183550483d9055b22e3a753d8af&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/business/energy/petrobras-seek-more-corn-ethanol-deals-after-neomille-sources-say-2026-11-24/",
-                "source": "Reuters",
-                "date": "2026-11-24T22:27:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WIZE Buys Another ¥50 Million of Solana During Price Slump, Holdings Top 72,000 SOL",
-                "desc": "WIZE, listed on the Tokyo Stock Exchange Growth Market, acquired roughly ¥50 million (approximately $310,000) worth of Solana (SOL) over two days on…",
-                "image": "https://img.biggo.com/SlwWvMsP4h_Ml9w5_CxPlB6wPlY_76Nn2pQ9q1FOmvA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzY3MTg0Y2YxLTFkNmQtNDIwMi05N2QzLWI4OTRmYjczNzYyZV8xNzk1NTU5NDQxX2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/67184cf1-1d6d-4202-97d3-b894fb73762e",
-                "source": "BigGo Finance",
-                "date": "2026-11-24T22:27:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NASA Opens Competition for First Lunar Nuclear Reactor, 20",
-                "desc": "NASA on November 23 began soliciting private companies to develop and test the first-ever nuclear reactor for the lunar surface. The small fission…",
-                "image": "https://img.biggo.com/SaaEtaF-8t-FkMxAPvFGi9MOufhhqQe8PgCQAPZNkw8/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzM1NDAyY2M0LTU3ZjUtNGQ5ZS1iYjNjLTc2YWM5Yzk2ZDAyOV8xNzk1NTU5NTAxX2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/35402cc4-57f5-4d9e-bb3c-76ac9c96d029",
-                "source": "BigGo Finance",
-                "date": "2026-11-24T22:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "German and US GDP, US Core PCE in Focus as Markets Eye Twin Growth and Inflation Data on the 25th",
-                "desc": "On the 25th, Germany and the US will release their July-September GDP figures, followed by the US October Core PCE Price Index. US GDP is expected at…",
-                "image": "https://img.biggo.com/HoI8UBnEnHORJ2pea6lspTQlPpqHiyM83ea9jktLKmE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzUyZmE5NjhiLWEyODYtNDhhOC04YTNiLTc4MzA0Yjk1YTNmMF8xNzk1NTU5NDE1X2RlZmF1bHQuanBn.jpg",
-                "url": "https://finance.biggo.com/news/52fa968b-a286-48a8-8a3b-78304b95a3f0",
-                "source": "BigGo Finance",
-                "date": "2026-11-24T22:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "360WiSE® Advances a Connected Public Authority, Media and AI Readiness Ecosystem for the AI Era",
-                "desc": "“The next era of AI readiness is not simply about adopting artificial intelligence. It is about ensuring that the",
-                "image": "https://pix.xpr.media/p/eyJzIjoiYWI4ZDhmNjYtOTFlZC00ZWVkLTk5YTgtOTVkMjZhOTY3M2YyIiwiYyI6ImMzNGY2NWRlLTdiZjUtNDVkYi1iYWMzLTljZmM4MDdhMTExZCIsInYiOjF9.DiBXGI1kdRsjheEFL0RPfh86QleKvkd-ZgPvmHS2vO4.gif",
-                "url": "https://www.usatoday.com/press-release/story/60781/360wise-advances-a-connected-public-authority-media-and-ai-readiness-ecosystem-for-the-ai-era/",
-                "source": "USA Today",
-                "date": "2026-11-24T22:24:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "RNZ investigating potential cyber breach",
-                "desc": "RNZ is investigating what it believes to be a cyber breach of its own systems.",
-                "image": "https://media.rnztools.nz/rnz/image/upload/s--OP68SXyH--/t_tohu-badge-facebook/f_auto/q_auto/4OZP7O7_copyright_image_62359",
-                "url": "https://www.rnz.co.nz/news/politics/2770474/rnz-investigating-potential-cyber-breach",
-                "source": "RNZ",
-                "date": "2026-11-24T22:20:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Critical Manufacturing names UST an implementation partner in Southeast Asia",
-                "desc": "Industrial software company Critical Manufacturing is teaming up with UST to help manufacturers across Southeast Asia modernize their factory operations.",
-                "image": "https://www.consultancy.asia/illustrations/news/spotlight/2026-11-16-032253963-Critical_Manufacturing_names_UST_an_implementation_partner_in_Southeast_Asia.jpg?webp",
-                "url": "https://www.consultancy.asia/news/7136/critical-manufacturing-names-ust-an-implementation-partner-in-southeast-asia",
-                "source": "Consultancy.asia",
-                "date": "2026-11-24T22:17:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "I found 37 Black Friday tech deals actually worth shopping",
-                "desc": "Shop Black Friday tech deals on MacBooks, Bose headphones, TVs, and more, with discounts from Amazon, Woot, and other retailers.",
-                "image": "https://helios-i.mashable.com/imagery/articles/02E5BaIQ4rf5vagvA663IzD/hero-image.fill.size_1200x675.v1795556488.jpg",
-                "url": "https://mashable.com/tech/best-black-friday-tech-deals-2026-apple-dji-amazon-samsung",
-                "source": "Mashable",
-                "date": "2026-11-24T22:17:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "From Miss NZ pool parties to landmark sale: Mount's $20m beachfront block snapped up",
-                "desc": "Trophy estate sold after seven decades in same family., All things property, under OneRoof",
-                "image": "https://s.oneroof.co.nz/image/ff/48/ff48010fca9b5d02dd1fd43a4f691722.jpg?x-oss-process=image/quality,q_80",
-                "url": "https://www.oneroof.co.nz/news/from-miss-nz-pool-parties-to-landmark-sale-mounts-giant-beachfront-block-snapped-up-50615",
-                "source": "OneRoof",
-                "date": "2026-11-24T22:16:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Planned Character.AI data auction lacks necessary safeguards, state AGs say",
-                "desc": "A sale of bankrupt US chatbot developer Character.AI’s trove of personal data planned for Dec. 1 should not go ahead because the assets on the auction block include chat logs and other sensitive information and the plan lacks proper privacy safeguards, including for minors, according to a coalition of dozens of US state attorneys general.",
-                "image": "https://www.mlex.com/images/.png",
-                "url": "https://www.mlex.com/mlex/articles/2559475/planned-character-ai-data-auction-lacks-necessary-safeguards-state-ags-say",
-                "source": "MLex",
-                "date": "2026-11-24T22:14:27Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "MRI assessment of masseter muscle volume in temporomandibular joint anterior disc displacement",
+                "desc": "This study aimed to evaluate volumetric differences in the masseter muscle in individuals with anterior disc displacement of the temporomandibular joint (TMJ), with and without reduction, using magnetic resonance imaging (MRI). This retrospective cross-sectional study included MRI records of 279 individuals aged 18–69 years (median age: 24 years; Q1–Q3: 19–40 years). Participants were classified into three disc-status categories: normal disc position, anterior disc displacement with reduction (DDwR), and anterior disc displacement without reduction (DDwoR). Bilateral TMJs and their corresponding masseter muscles were evaluated, yielding 558 side-specific TMJ–masseter observations. Masseter muscle volumes were measured on coronal T2-weighted MRI images in the closed-mouth position using semi-automated segmentation with ITK-SNAP software by a blinded observer. Intraobserver and interobserver reliability were assessed using intraclass correlation coefficients (ICCs). Statistical analyses included the Shapiro–Wilk and Kruskal–Wallis tests, Mann–Whitney U tests with Bonferroni correction, and a linear mixed-effects model accounting for within-patient correlation between bilateral measurements. TMJ disc status was significantly associated with ipsilateral masseter muscle volume in the linear mixed-effects model after adjustment for age, sex, side, and within-patient correlation (F(2, 292.244) = 52.818, p < 0.001). Compared with TMJs showing disc displacement without reduction, masseter muscle volume was higher in TMJs with normal disc position (β = 2.018 cm3, 95% CI 1.628–2.409) and with disc displacement with reduction (β = 0.696 cm3, 95% CI 0.310–1.081). Exploratory sex-stratified analyses suggested differences in the patterns of association, while strong positive correlations between right and left masseter muscle volumes were observed across the examined subgroups. MRI-defined anterior disc displacement of the TMJ, particularly without reduction, was associated with lower masseter muscle volume. These findings demonstrate an association rather than a causal relationship and should be interpreted considering the retrospective design and unavailable functional or parafunctional clinical information.",
+                "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+                "url": "https://www.nature.com/articles/s41598-026-79080-2?error=cookies_not_supported&code=b2ae63d9-f8a7-4c8f-8d7f-74d9b84eda8a",
+                "source": "Nature",
+                "date": "2026-11-27T10:58:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Regulation of proton transference for stable and efficient reactive capture of CO2 from air",
+                "desc": "Direct air capture combined with electrosynthesis could turn atmospheric CO2 into fuels, but releasing tightly bound CO2 from capture liquids demands intense heat, and the resulting end-to-end energy burden exceeds 35 GJ per tonne of CO. Electrified reactive capture avoids thermal regeneration by feeding capture liquid directly into an electrolyser, yet reported systems remain energy-intensive and typically fail within 100 h. Here we show that these failures trace to proton management: too large a flux of protons crossing the membrane acidifies the cathode and degrades the catalyst, while too small a flux starves proton-driven in situ CO2 release, both favouring hydrogen evolution. We define the proton transference number ( $${{{t}}}_{{{\\rm{H}}}^{+}}$$ ), the fraction of ionic current carried by protons, as a quantitative descriptor linking ion transport to CO selectivity, carbon utilization and durability. Replacing oxygen evolution with gas-fed hydrogen oxidation at the anode maintains $${{{t}}}_{{{\\rm{H}}}^{+}}\\approx 1$$ , enabling 1,000 h of stable operation at ~1 V and 100 mA cm−2, and CO production from air at 22 GJ t−1 with >90% carbon utilization. Direct air capture integrated with electrosynthesis to produce fuels and chemicals is hindered by high energy consumption and limited operational lifetimes. Here the authors identify proton management as crucial for stability and achieve 1,000 h of stable operation by using gas-fed hydrogen oxidation at the anode, which maintains ideal ion transport and enhances CO production.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02158-8/MediaObjects/41560_2026_2158_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s41560-026-02158-8?error=cookies_not_supported&code=afa4ca38-697e-4c55-8335-17fa8dd78a4c",
+                "source": "Nature",
+                "date": "2026-11-27T10:58:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Deal: Amazon Germany drops the Galaxy S26 Ultra price even further",
+                "desc": "The phone was already discounted at the start of the Black Friday sales, now there is a second round of price cuts. In a way, the Samsung Galaxy S26 Ultra...",
+                "image": "https://fdn.gsmarena.com/imgroot/news/26/11/deals-uk-samsung-galaxy-s26-ultra/-952x498w6/gsmarena_000.jpg",
+                "url": "https://www.gsmarena.com/deal_amazon_germany_drops_the_galaxy_s26_ultra_price_even_further-news-75666.php",
+                "source": "GSMArena.com",
+                "date": "2026-11-27T10:57:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ZEISS Expands Software Portfolio for Automated Inspections and Connected Quality Processes",
+                "desc": "ZEISS is expanding its software portfolio for industrial quality assurance. The focus is on reducing manual inspection work and making more targeted use of existing quality data.",
+                "image": "https://www.azom.com/images/news/ImageForNews_66105_17957759028589898.jpg",
+                "url": "https://www.azom.com/news.aspx?newsID=66105",
+                "source": "AZoM",
+                "date": "2026-11-27T10:57:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Exploring nonlinear body oscillations for natural quadruped gaits",
+                "desc": "Animals’ body morphology shapes the gait patterns they can perform, where mechanical resonance reduces the need for active control. By tuning posture and muscle stiffness, they leverage their embodied intelligence to achieve effective gaits for different speeds. By contrast, most quadruped robots are not specifically designed to exploit mechanical resonance owing to the complexity of nonlinear dynamics and require dedicated locomotion controllers. To provide an alternative, we present a proof-of-concept framework making the nonlinear dynamics of a robot predictable in the design process and show how this knowledge can be leveraged such that multi-gait locomotion can emerge from nonlinear resonances—shaped by gravity, inertia and elasticity. Here we present the highly compliant quadruped robot eBert, on which we identify six nonlinear normal modes using our new theoretical tools and validate their existence in simulation and hardware. With black-box optimization to determine step length, simulations show how each nonlinear normal mode naturally develops into a distinct gait, manifesting different speeds, which also largely transfers to the robotic hardware. Our experiments show that eBert can exploit its mechanics to generate task-specific movements, which may serve as foundation for designing a new generation of agile and efficient robots leveraging embodied intelligence. Schmidt et al. demonstrate that nonlinear normal modes can be used to develop natural, multi-gait locomotion in a compliant quadruped robot, leveraging its inherent mechanics. The approach offers a design tool to shape embodied intelligence in robotics.",
+                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-026-01320-x/MediaObjects/42256_2026_1320_Fig1_HTML.png",
+                "url": "https://www.nature.com/articles/s42256-026-01320-x?error=cookies_not_supported&code=f3e32221-ae9c-4308-982d-3f34019da529",
+                "source": "Nature",
+                "date": "2026-11-27T10:51:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A few lucky customers bought the Galaxy S26 Ultra for just $130 before Amazon caught the pricing error",
+                "desc": "Amazon Japan accidentally slashed the Galaxy S26 Ultra's price by 92%, allowing a few lucky shoppers to grab it for just $130.",
+                "image": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-S26-Ultra-violet.jpg",
+                "url": "https://www.sammobile.com/news/few-lucky-customers-bought-galaxy-s26-ultra-130-usd-amazon-pricing-error/",
+                "source": "SamMobile",
+                "date": "2026-11-27T10:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Watch Prairie vs SSAC U13 2026",
+                "desc": "How to watch Prairie vs SSAC U13 2026 on FloHockey.",
+                "image": "https://d2779tscntxxsw.cloudfront.net/5b745f971ac02.png",
+                "url": "https://www.flohockey.tv/articles/16468369-how-to-watch-2026-prairie-storm-u13-vs-ssac-u13-aaa-hockey",
+                "source": "FloHockey",
+                "date": "2026-11-27T10:41:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Watch Richardson vs Martin 2026",
+                "desc": "How to watch Richardson vs Martin 2026 on FloHockey.",
+                "image": "https://d2779tscntxxsw.cloudfront.net/5b745f971ac02.png",
+                "url": "https://www.flohockey.tv/articles/16468225-how-to-watch-2026-richardson-prospects-vs-martin-prospects-hockey",
+                "source": "FloHockey",
+                "date": "2026-11-27T10:41:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "AirPods Max 2 Hit Their Lowest Price on Black Friday Itself",
+                "desc": "Apple's priciest headphones finally look like a reasonable gift this Christmas.",
+                "image": "https://gizmodo.com/app/uploads/2026/10/Apple-AirPods-Max-2-1200x675.jpg",
+                "url": "https://gizmodo.com/apple-says-no-amazon-doesnt-care-airpods-max-2-hit-their-lowest-price-on-black-friday-itself-2000846108",
+                "source": "Gizmodo",
+                "date": "2026-11-27T10:40:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Xiaomi 18 Pro Series arrives in PH with Back Display and Leica Dual-200MP Cameras",
+                "desc": "Xiaomi 18 Pro Series price in the Philippines: Check Xiaomi 18 Pro and Xiaomi 18 Pro Max prices, specs, features, and pre-order offers.",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0bsFvTsOmjzNyXkxXjiBXzUaHTRU3xVnFaUuj9Yywx0qMsGMTIyyIUxYI2NwZ8oCXBLj43jNYGzzdT7IcNiNWWQmBDjW6-ik4awDelucctKDUp_sUYJlAtByXEOC5jnWtbejurtDUVknp9A57uk_8XvZTK6mBkd0SwR2-kfUGObsMa0wEfDM9V0I6-BU/w1600/xiaomi-18-pro-series-price-philippines.jpg",
+                "url": "https://www.pinoymetrogeek.com/2026/11/xiaomi-18-pro-series-price-philippines.html",
+                "source": "Pinoy Metro Geek",
+                "date": "2026-11-27T10:39:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "HONOR Play20A review: An affordable secondary display experience",
                 "desc": "I think in a time when everything is expensive, it feels nice to be able to sit back and own something affordable, and functional to play some games with, to...",
@@ -1174,99 +1264,99 @@
                 "source": "BigGo Finance",
                 "date": "2026-11-25T07:05:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Church’s Texas Chicken Rolls Out Deals for Black Friday and Cyber Monday",
-                "desc": "Church’s Texas Chicken is giving guests some deal-icious reasons to trade turkey for chicken this holiday. Just in time for the holiday weekend, Church’s is serving up savings starting Nov. 25, with a...",
-                "image": "https://s.yimg.com/lo/mysterio/api/54293a1a50ddfd202f4ea70e75616c6f4d07a10c03475c6b3ed6cee79d2aec2f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fqsr_204%2F5ecc090aee54112fe2a2da9910a44a07.png_up.jpg",
-                "url": "https://www.yahoo.com/lifestyle/articles/church-texas-chicken-rolls-deals-222811324.html",
-                "source": "Yahoo",
-                "date": "2026-11-24T22:28:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WhatsApp future update: What will happen to your chats, photos and cloud backups?",
-                "desc": "One of the app’s biggest changes could be just around the corner.",
-                "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/04/21/17121878396253.jpeg",
-                "url": "https://www.marca.com/en/technology/2026/11/24/whatsapp-future-update-what-will-happen-to-your-chats-photos-and-cloud-backups.html",
-                "source": "MARCA",
-                "date": "2026-11-24T22:14:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Google Messages replacing old Gemini with new ‘tasks’ chat",
-                "desc": "Last week, Google announced that Gemini tasks is now available to free users in the US, along with an integration in Google Messages.",
-                "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&strip=all&resize=1200,628",
-                "url": "https://9to5google.com/2026/11/24/google-messages-gemini-tasks/",
-                "source": "9to5Google",
-                "date": "2026-11-24T22:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Sims 4 December Patch Official Q&A: More Free Items And Game Improvements",
-                "desc": "The Sims 4 December Patch is coming on December 1st, 2026 as part of the ongoing Quality of Life Updates. The Sims Team hosted a dedicated Discord Q&A",
-                "image": "https://simscommunity.info/wp-content/uploads/2026/11/Sims-4-December-Patch-QA-714499.jpg",
-                "url": "https://simscommunity.info/2026/11/24/the-sims-4-december-patch-26-qa/",
-                "source": "Sims Community",
-                "date": "2026-11-24T22:10:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'GTA 6' chapter 1 is so good that I'm afraid to move on to chapter 2",
-                "desc": "Why would I want to ruin the good vibes of the opening act of 'GTA 6' by moving on with the story?",
-                "image": "https://helios-i.mashable.com/imagery/articles/02IVg3DRRLggyOgDOrlKBgt/hero-image.fill.size_1200x675.v1795543618.jpg",
-                "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-chapter-1-so-good",
-                "source": "Mashable",
-                "date": "2026-11-24T22:10:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Yes, Despite What Some Say Online, There Are Thunderstorms In GTA 6",
-                "desc": "It seems like things weren't working properly for some people until a recent patch, though",
-                "image": "https://kotaku.com/app/uploads/2026/11/Lucia_Caminos_11.0j617-ylicowx.jpg",
-                "url": "https://kotaku.com/yes-despite-what-some-say-online-there-are-thunderstorms-in-gta-6-2001000112",
-                "source": "Kotaku",
-                "date": "2026-11-24T22:04:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Leak suggests the iPhone 18e will have a revamped rear camera design",
-                "desc": "Apple is apparently redesigning the camera array on the backside of the iPhone 18e.",
-                "image": "https://helios-i.mashable.com/imagery/articles/024Epru2G1C6OgeNO1ziate/hero-image.fill.size_1200x675.v1795556398.webp",
-                "url": "https://mashable.com/tech/iphone-18e-leaks-rear-camera-plateau-redesign",
-                "source": "Mashable",
-                "date": "2026-11-24T21:59:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "VAST Data Unveils VAST Takeoff, a Global Initiative To Launch, Scale and Support AI Cloud Providers",
-                "desc": "New launchpad offers cloud providers free access to VAST’s AI Operating System software and benefits to scale AI servicesRemote-First-Company | NEW YORK CITY, Nov. 24, 2026 (GLOBE NEWSWIRE) -- VAST Data, the AI Operating System company, today announced VAST Takeoff, the industry’s first and only AI cloud launchpad designed to help every cloud easily build scalable cloud offerings and robust data services for the next generation of AI applications. Supporting nearly 5 million GPUs, the VAST AI Op",
-                "image": "https://s.yimg.com/lo/mysterio/api/672fd952c92fd0de2e73324b0762e9c5d7131fd153c0cbe2c821484230270d2d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F598d0ebf3f038c06f3d20b61097c3c46.jpg",
-                "url": "https://finance.yahoo.com/technology/ai/articles/vast-data-unveils-vast-takeoff-215800787.html",
-                "source": "Yahoo Finance",
-                "date": "2026-11-24T21:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Black Friday Streaming Discounts Offered By Disney+, HBO Max, Paramount+, Peacock & More",
-                "desc": "Bargain-hunters looking for values in streaming around Black Friday will find several major providers all offering steeper-than-usual discounts.",
-                "image": "https://deadline.com/wp-content/uploads/2026/11/Streaming-Black-Friday-deals.jpg?w=1024",
-                "url": "https://deadline.com/2026/11/black-friday-streaming-deals-disney-hbo-max-paramount-peacock-1237231785/",
-                "source": "Deadline",
-                "date": "2026-11-24T21:49:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These are sharpest camera lenses we've ever lab tested, ranked and compared",
-                "desc": "They're so sharp you should really wear gloves while using them!",
-                "image": "https://cdn.mos.cms.futurecdn.net/85PXwoT9m8JB5JTV9XsMka-1376-80.jpg",
-                "url": "https://www.digitalcameraworld.com/cameras/lenses/these-are-sharpest-lenses-weve-ever-lab-tested-ranked-and-compared",
-                "source": "Digital Camera World",
-                "date": "2026-11-24T21:46:54Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "China-Africa Team Trains on Multi-Hazard Early Warning",
+                "desc": "The African Union and China held a five-day AI and GIS training workshop in Addis Ababa to strengthen disaster risk management.",
+                "image": "https://images.highwise.com/stories/443306-1795777089497.jpg",
+                "url": "https://wisevoter.com/world/2026/11/27/china-africa-ai-gis-early-warning-training",
+                "source": "Wisevoter",
+                "date": "2026-11-27T10:58:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China calls for protection of commercial shipping in Black Sea",
+                "desc": "China called for the protection of vessels and infrastructure in the Black Sea amid growing threats to global food and energy supplies.",
+                "image": "https://safety4sea.com/wp-content/uploads/2026/11/Screenshot-2026-11-27-122421-e1795775134888.png",
+                "url": "https://safety4sea.com/china-calls-for-protection-of-commercial-shipping-in-black-sea/",
+                "source": "safety4sea",
+                "date": "2026-11-27T10:57:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Indonesia: 22 Would-Be Russia Recruits Found at Guesthouse",
+                "desc": "Police in Bogor found 22 men told they would be sent to fight for Russia. A Balikpapan man is reported out of contact in Russia since April.",
+                "image": "https://stoprussianrecruiters.org/uploads/Indonesian_Police_conference_96b579c65d.jpg",
+                "url": "https://stoprussianrecruiters.org/news/indonesian-police-find-22-would-be-recruits-russia-bogor-guesthouse",
+                "source": "Stop Russian Recruiters",
+                "date": "2026-11-27T10:54:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran says it recovered two tankers allegedly seized by the US",
+                "desc": "Iran says it recovered two oil tankers allegedly seized by the US military, while Tehran also accused US forces of charging for safe passage through the Strait of Hormuz.",
+                "image": "https://cdn-cabinet.ua.news/uploads/images/iran_zaiavyv_pro_povernennia_dvokh_tanke_1795775780723.webp",
+                "url": "https://ua.news/en/dovkolo-svitu/iran-zaiaviv-shcho-povernuv-dva-tankeri-nibito-zakhopleni-ssha-anadolu-agency",
+                "source": "UA.NEWS",
+                "date": "2026-11-27T10:52:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "China tests makeshift floating bridges in amphibious landing drills near Taiwan",
+                "desc": "China is staging a weeks-long amphibious landing drill in the province facing Taiwan, testing a new floating bridge, satellite images and a report showed.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261127-Dacheng-Bay-rs-0cb3ea.jpg",
+                "url": "https://www.nbcnews.com/world/china/china-taiwan-floating-bridges-amphibious-landing-drills-rcna611530",
+                "source": "NBC News",
+                "date": "2026-11-27T10:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Somali Supreme Court judges refuse to return to work after ruling president’s term expired",
+                "desc": "Five Somali Supreme Court judges reject an order to return to work after ruling President Hassan Sheikh Mohamud’s term extension unlawful and his mandate expired.",
+                "image": "https://www.somaliguardian.com/wp-content/uploads/2026/11/10.jpg",
+                "url": "https://www.somaliguardian.com/news/somalia-news/somali-supreme-court-judges-refuse-return-work-president-term-expired/",
+                "source": "Somali Guardian",
+                "date": "2026-11-27T10:46:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mogging to whimsy: 10 of the most popular Gen Z and Gen Alpha slang words of 2026 - and what they mean",
+                "desc": "From mogging to whimsy and aura farming, here are the slang words and phrases that young people made trend this year – and how to define them, should they be unfamiliar to you.",
+                "image": "https://ychef.files.bbci.co.uk/624x351/p0pq3gj6.jpg",
+                "url": "https://www.bbc.com/culture/article/20261126-10-of-2026s-most-popular-gen-z-and-gen-a-words",
+                "source": "BBC",
+                "date": "2026-11-27T10:43:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
+                "desc": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/getty_68ae4c0709-1756253191.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks",
+                "source": "Al Jazeera",
+                "date": "2026-11-27T10:40:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uganda to withdraw troops from DR Congo's Lubero town amid diplomatic row",
+                "desc": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg",
+                "url": "https://www.bbc.com/news/articles/cq4gnj2ldkyzo",
+                "source": "BBC",
+                "date": "2026-11-27T10:39:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Uganda to withdraw troops from DR Congo's Lubero town amid diplomatic row",
+                "desc": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg",
+                "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo",
+                "source": "BBC",
+                "date": "2026-11-27T10:39:31Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "linked YouTube channel purge one of the largest in years",
                 "desc": "Google's purge of more than 19,000 Indonesian-linked YouTube channels following an investigation into \"coordinated influence operations\" in the country is one of the largest mass account terminations in years on the platform.",
@@ -1806,98 +1896,8 @@
                 "source": "Inside Higher Ed",
                 "date": "2026-11-25T08:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
-                "desc": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fe2e/live/12d46260-e85c-11f1-8f9c-6751d17fed73.jpg",
-                "url": "https://www.bbc.com/news/articles/c6808k8dxvgko",
-                "source": "BBC",
-                "date": "2026-11-24T22:30:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What is the holiday today: November 25, 2026",
-                "desc": "November 25, 2026 – Wednesday, the 329th day of the year. According to the Julian calendar, the date corresponds to November 12. Below is a selection of holidays, memorable dates, names and signs associated with this day.",
-                "image": "https://eia-media-production.s3.eu-north-1.amazonaws.com/eia/ingest/mk/u29eeca77d25c/hero.jpg",
-                "url": "https://eia.media/en/article/society/kakoy-segodnya-prazdnik-25-noyabrya-2026-goda",
-                "source": "eia.media",
-                "date": "2026-11-24T22:29:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nelson Afrofest celebrates African cultures",
-                "desc": "Nelson Afrofest celebrates African cultures",
-                "image": "https://k2.kere.co.nz/v2/resize/property?image=https%3A%2F%2Ff000.backblazeb2.com%2Ffile%2Fimages-nelson-app%2F2026%2F11%2F16jum1mwtsqk4d.jpg&width=1200&height=630&format=jpeg",
-                "url": "https://www.topsouthnow.co.nz/news/6b04b4262de48e000167eee8",
-                "source": "Top South Now",
-                "date": "2026-11-24T22:28:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Six dead, 14 injured at tourist hotspot in Vietnam",
-                "desc": "At least six people have died, and another 14 are injured after a restaurant collapsed following a gas explosion in Vietnam.",
-                "image": "https://content.api.news/v3/images/bin/8fbb6173aff4e7f1165b5a1f9a4bd73c",
-                "url": "https://www.news.com.au/travel/travel-updates/incidents/six-dead-14-injured-after-gas-explosion-at-popular-tourist-destination/news-story/7227ad24ccb9d509ac352d6e5f3cf4a5",
-                "source": "News.com.au",
-                "date": "2026-11-24T22:26:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump: I’ll pardon turkeys in my missile-proof ballroom",
-                "desc": "President made the announcement as he granted Freedom and Feathers a ‘full, absolute and unconditional pardon’",
-                "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/11/24/TELEMMGLPICT000512887094_17955502424000_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwauLYewjGO21NF-o1gxbkUI.jpeg?impolicy=OG-Standard",
-                "url": "https://www.telegraph.co.uk/us/news/2026/11/24/trump-pardon-turkeys-missile-proof-ballroom/",
-                "source": "The Telegraph",
-                "date": "2026-11-24T22:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Golden Retriever Puppy Sees Toddler Go Under In Pool - And Jumps In To Save Her",
-                "desc": "Tereza is a 5-month-old gold retriever puppy who lives in Brazil with her mom, Vanessa Miranda. Tereza has proven to be a loving and supportive member of the family.\nShe is also a hero.",
-                "image": "https://assets3.thrillist.com/v1/image/3211039/1200x675/crop;;webp=auto;jpeg_quality=85.jpg",
-                "url": "https://www.thedodo.com/daily-dodo/golden-retriever-puppy-sees-toddler-go-under-in-pool-and-jumps-in-to-save-her",
-                "source": "The Dodo",
-                "date": "2026-11-24T22:22:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "War of words erupts again as Canada official snaps ‘we don’t report to US’",
-                "desc": "Relations between the two neighbors have been strained by Trump’s trade war and threats to make Canada the 51st state",
-                "image": "https://static.independent.co.uk/2026/11/24/22/2306101344..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/canada-us-pentagon-nato-spending-b3091039.html",
-                "source": "The Independent",
-                "date": "2026-11-24T22:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "6 years after split, Akalis & BJP tie up for Punjab assembly polls",
-                "desc": "NEW DELHI: After six years of separation marked by AAP's rise in Punjab, BJP and Shiromani Akali Dal on Tuesday renewed their alliance ahead of assembly",
-                "image": "https://static.toiimg.com/thumb/msid-136142299,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-                "url": "https://timesofindia.indiatimes.com/india/6-years-after-split-akalis-bjp-tie-up-for-punjab-assembly-polls/articleshow/136142279.cms",
-                "source": "The Times of India",
-                "date": "2026-11-24T22:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Plastic Pollution Behemoth Begs for Solutions",
-                "desc": "The problems plastics create for the environment and public health are formidable and only worsening, a predicament laid out smartly in “The Problem With Plastic,” a clear, well-written volume on this important issue. BookShelf Editor Tom Henry lauds the book’s value for experts and newbies alike, and explores the potential for its solutions to the problem.",
-                "image": "https://www.sej.org/sites/default/files/SEJournalLogoSquare_11.png",
-                "url": "https://www.sej.org/publications/bookshelf/plastic-pollution-behemoth-begs-solutions",
-                "source": "SEJ.org",
-                "date": "2026-11-24T22:13:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "U.S. stockpile of bomb-making chemicals to be detonated in Iowa Wednesday",
-                "desc": "After a days of delays, the Army plans to detonate the nation’s entire stockpile of lead azide around 9 a.m. local time Wednesday.",
-                "image": "https://globalnews.ca/wp-content/uploads/2026/11/middleton-iowa.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "url": "https://globalnews.ca/news/12164876/iowa-planned-detonation-bomb-making-chemicals-army/",
-                "source": "Global News",
-                "date": "2026-11-24T22:11:45Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-27T14:24:46.640298Z"
+    "lastGlobalSync": "2026-11-27T22:58:56.673477Z"
 }
