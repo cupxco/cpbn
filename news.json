@@ -4,6 +4,96 @@
     "en": {
         "business": [
             {
+                "title": "Stock Market Today: Dow, Nasdaq Pop In Post-Holiday Trade; SanDisk Surges",
+                "desc": "Stock Market Today: The Dow Jones index and the Nasdaq composite rise in Friday's post-Thanksgiving session.",
+                "image": "https://www.investors.com/wp-content/uploads/2024/12/Stock-wallstreet-flags-30-adobe.jpg",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stock-anthropic-spacex-tesla/",
+                "source": "Investor's Business Daily",
+                "date": "2026-11-27T16:38:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "US Black Friday Kicks Off; Consumer Spending Seen Holding Firm Despite 3.7% Inflation",
+                "desc": "Black Friday sales, marking the start of the US year-end shopping season, began on November 27. The National Retail Federation (NRF) estimates that…",
+                "image": "https://img.biggo.com/NbreAPMuWHROZnzzUzgXLVaiYDt6cPRGAdfmTaFSG_c/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzk4NjA4NWZiLTkzNTItNGRiZC05ZDcxLTZjNDUwOGQ1N2U3ZF8xNzk1Nzk3Njk2X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/986085fb-9352-4dbd-9d71-6c4508d57e7d",
+                "source": "BigGo Finance",
+                "date": "2026-11-27T16:35:00Z",
+                "priority": "MAJOR_ALERT"
+            },
+            {
+                "title": "Solana puts an AI coding agent inside its browser",
+                "desc": "Solana has added a built-in AI coding agent to Solana Playground, its browser-based workspace for writing, compiling and deploying Solana programs…",
+                "image": "https://img.biggo.com/poZc6JHiOHzYRDfcWI-hJ79-xoP297HOTgn62sjzriw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2QzMmE2ODkwLTQ5OTItNDZlMC05MjI0LTlkMDA1MjBjYzA2Y18xNzk1Nzk3NTQ2X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/d32a6890-4992-46e0-9224-9d00520cc06c",
+                "source": "BigGo Finance",
+                "date": "2026-11-27T16:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Strategy Sends 83% of Fresh Capital to Preferred Buyback as Bitcoin Hovers Near $60K",
+                "desc": "Strategy Inc. directed 83.2% of $176.7 million in net proceeds from a mid-November share sale toward repurchasing its Stretch preferred stock,…",
+                "image": "https://img.biggo.com/5crAovvwHvk0YchmdS-KqQu8LnM24BcQl6ohMs5EaBI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzFhNDNiMDgxLWFhMzYtNDBkYy1iN2YzLWQwNGFkOTI4MmJhN18xNzk1Nzk3NTExX2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/1a43b081-aa36-40dc-b7f3-d04ad9282ba7",
+                "source": "BigGo Finance",
+                "date": "2026-11-27T16:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "John Magnier wants second judge to recuse from Maurice Regan anti-competition action",
+                "desc": "Construction magnate’s stud farm is claiming breach of competition law",
+                "image": "https://www.irishtimes.com/resizer/v2/VDAGBXJUPVTDXNFC5J6FTY3T4Y.jpg?smart=true&auth=3eb5736b90fe120aa9c5709b1bad368388ae23c5aa031651d666f40bcc9e10f9&width=1200&height=630",
+                "url": "https://www.irishtimes.com/business/2026/11/27/john-magnier-wants-second-judge-to-recuse-from-maurice-regan-anti-competition-action/",
+                "source": "The Irish Times",
+                "date": "2026-11-27T16:33:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Poundland founder Steve Smith warns retailer's time is limited",
+                "desc": "Steve Smith says watching Poundland's collapse is \"very frustrating\" and urges owners to find a buyer.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b8f6/live/d1afff70-ea58-11f1-89b9-f318b11567ea.png",
+                "url": "https://www.bbc.co.uk/news/articles/c893rd6gexreo",
+                "source": "BBC",
+                "date": "2026-11-27T16:27:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lula’s choice of Bradesco banker as Brazil’s finance minister lifts markets",
+                "desc": "Brazilian markets have rallied after President Luiz Inácio Lula da Silva confirmed that veteran banker Luiz Carlos Trabuco would lead his finance ministry in 2027, a move seen as a commitment to fiscal discipline",
+                "image": "https://i.abcnewsfe.com/a/538e700c-ccd0-46ef-a77f-073845c0892e/wirestory_5836b2ca098190540ff6669ebef01669_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/International/wireStory/lulas-choice-bradesco-banker-brazils-finance-minister-lifts-138482032",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-11-27T16:25:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Shiller CAPE Ratio Signals Risk of Further Stock Market Declines",
+                "desc": "The S&P 500 Shiller CAPE Ratio reached 36.44, more than twice its historical average, signaling potential risks for major US stock indexes.",
+                "image": "https://cdn.cwibc.co.id/media/images/2026/11/cE5tCfqasJ.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
+                "url": "https://cwibc.co.id/en/shiller-cape-market-decline",
+                "source": "cwibc.co.id",
+                "date": "2026-11-27T16:25:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "WhatsApp Adds Support For Travel eSIMs",
+                "desc": "Users will be able to buy the travel eSIM service directly through WhatsApp.",
+                "image": "https://www.engadget.com/img/gallery/whatsapp-adds-support-for-travel-esims/l-intro-1795796572.jpg",
+                "url": "https://www.engadget.com/2329553/whatsapp-adds-support-for-travel-esims/",
+                "source": "Engadget",
+                "date": "2026-11-27T16:24:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Timeline Mitopure sale offers 30% off cellular health supplements",
+                "desc": "Timeline’s Mitopure longevity gummies are 30% off for Black Friday. We break down Urolithin A, the research behind it and what to know before buying.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/27/USAT/92977516007-2026-packshots-fullsuite.png?crop=1079,607,x0,y0&width=1079&height=607&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/shopping/health-wellness/2026/11/27/timeline-longevity-supplement-black-friday-sale/92977320007/",
+                "source": "USA Today",
+                "date": "2026-11-27T16:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Molecular locking of lithium ions for improved efficiency and stability of perovskite solar cells",
                 "desc": "The hole-transport material 2,2′,7,7′-tetrakis(N,N-di-p-methoxyphenyl-amine)-9,9′-spirobifluorene (Spiro-OMeTAD) is commonly used in perovskite solar cells but suffers from instabilities due to the hygroscopicity and lithium ion migration induced by additives, such as lithium bis(trifluoromethanesulfonyl)imide and 4-tert-butylpyridine (tBP), in its formulation. Here we show a molecular locking strategy by designing phosphonate-based molecules with extended cyano chains, enabling dual-site coordination with lithium ions to regulate ion mobility and stabilize the lithium bis(trifluoromethanesulfonyl)imide/tBP dopant environment. Meanwhile, the phosphonate-based molecule reduces tBP loss, enhances the thermomechanical robustness of the Spiro-OMeTAD matrix, mitigates dopant redistribution and stabilizes the interface. These coupled effects collectively improve device stability under illumination, thermal and electrical stresses. The optimized n–i–p perovskite solar cells achieve a champion efficiency of 26.73% and retain 95% of the initial efficiency after 1,000 h under maximum power point tracking (International Summit on Organic Photovoltaic Stability (ISOS)-L-1), 95% after 1,000 h at 85 °C (ISOS-L-2) and 91% after 1,600 h under 1.5 V bias (ISOS-V-1). Spiro-OMeTAD is a common hole-transporting material in n–i–p perovskite solar cells but suffers from instabilities caused by mobile lithium dopant ions. Pan et al. incorporate a molecular locking additive in Spiro-OMeTAD, enhancing both the efficiency and stability of devices.",
                 "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02173-9/MediaObjects/41560_2026_2173_Fig1_HTML.png",
@@ -542,99 +632,99 @@
                 "source": "Business Insider",
                 "date": "2026-11-25T14:59:00Z",
                 "priority": "MAJOR_ALERT"
-            },
-            {
-                "title": "Maharashtra awards Adani company a contract to supply power using power from another Adani company",
-                "desc": "The government overruled objections from competitors that the group’s company would have access to advantageous information.",
-                "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/216699-lltefmtmur-1795433294.jpeg",
-                "url": "https://scroll.in/article/1097262/maharashtra-awards-adani-company-a-contract-to-supply-power-using-power-from-another-adani-company",
-                "source": "Scroll.in",
-                "date": "2026-11-25T08:13:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Companies linked to Huang Le reportedly used AI equipment in China as financing collateral",
-                "desc": "Companies linked to Chinese businesswoman Huang Le, with whom Jensen Huang, chief executive of US chip giant Nvidia, has had an extramarital affair, have reportedly used high-performance computing equipment intended for large artificial intelligence (AI) data centres in China as collateral to secure financing.",
-                "image": "https://cassette.sphdigital.com.sg/image/zaobao/e8964ea3ad586305e5c0b14b733cf657772abfef152779cae6dad6515d99e0a8",
-                "url": "https://www.zaobao.com.sg/en/news/china/companies-linked-huang-le-reportedly-used-ai-equipment-china-financing-collateral",
-                "source": "联合早报",
-                "date": "2026-11-25T08:10:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore Environment Council calls for fees on all types of packaging, building on drink containers scheme",
-                "desc": "The non-governmental organisation proposed imposing fees on producers and importers that place packaging on the Singapore market.",
-                "image": "https://dam.mediacorp.sg/image/upload/s--Cec3-dIi--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/03/04/istock-1932105790.jpg?itok=ModiZRGl",
-                "url": "https://www.channelnewsasia.com/singapore/fees-packaging-waste-singapore-environment-council-6580806",
-                "source": "CNA",
-                "date": "2026-11-25T08:09:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "SpaceX Could Fall Below $100 On A Tesla Bid, Gary Black Says - JPMorgan Sees The Same Deal As A Shortcut To The S&P 500",
-                "desc": "Black estimates a 25% premium would value Tesla at $481 per share and result in 52% dilution for SpaceX shareholders.",
-                "image": "https://s.yimg.com/lo/mysterio/api/aa2b2859cda15e40e8456913a89d9923c3ca9a7397a7b8b818c3471f95c3c8c4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Feaf746a90dc1f2bb1b2726517183dc95.jpg",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-could-fall-below-100-080708394.html",
-                "source": "Yahoo Finance",
-                "date": "2026-11-25T08:07:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Aeroplan offering up to 100% bonus on points purchases",
-                "desc": "From now till 11 December 2026, buy Aeroplan points with a bonus of up to 100%, or 1.7 cents each. Redeem Business Class to Australia/Japan at 52,500 points.",
-                "image": "https://milelion.com/wp-content/uploads/2025/01/aeroplan-sale-1.jpg",
-                "url": "https://milelion.com/2026/11/25/aeroplan-offering-up-to-100-bonus-on-points-purchases-2/",
-                "source": "The MileLion",
-                "date": "2026-11-25T08:03:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Exclusive: Meta and Amazon discuss ending Muse blockade; ads, search emerge as key issues",
-                "desc": "E-commerce giant blocked Meta's popular AI tool from its online store in September",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2296209094_cc3633-e1795590650418.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/",
-                "source": "Fortune",
-                "date": "2026-11-25T08:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Byrne Group looks beyond London as profits dip",
-                "desc": "Defence, energy and infrastructure underpin growth hopes",
-                "image": "https://www.constructionenquirer.com/wp-content/uploads/Screen-Shot-2013-10-17-at-12.36.33-600x414.png",
-                "url": "https://www.constructionenquirer.com/2026/11/25/byrne-group-looks-beyond-london-as-profits-dip/",
-                "source": "Construction Enquirer",
-                "date": "2026-11-25T07:56:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "London bus use spiralling down as 1.7 million fewer bus journeys made each day",
-                "desc": "Bus journeys in the capital fell by 56.7 million in the last year alone",
-                "image": "https://static.standard.co.uk/2026/11/24/15/2278689409..?trim=189,0,189,0&auto=webp&quality=75&width=1200",
-                "url": "https://www.standard.co.uk/news/transport/london-bus-passenger-journeys-transport-for-london-department-for-transport-b1306221.html",
-                "source": "London Evening Standard",
-                "date": "2026-11-25T07:51:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "British Airways BA239 declared an emergency over North Atlantic following oil drop",
-                "desc": "A British Airways Boeing 787-10 Dreamliner declared a mid-flight emergency over the North Atlantic on Tuesday night after experiencing an oil loss in one of its engines, ultimately continuing on to land safely in Boston. Flight BA239, operated by an aircraft with registration G-ZBLC, departed London Heathrow Airport on Tuesday evening at 19:10 GMT, taking […]",
-                "image": "https://airlive.net/wp-content/uploads/2026/11/BA239.jpg",
-                "url": "https://airlive.net/emergency/2026/11/25/british-airways-ba239-declared-an-emergency-over-north-atlantic-following-oil-drop/",
-                "source": "airlive",
-                "date": "2026-11-25T07:51:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Planned strike means NSW regional and interstate trains could be offline for a week from Friday",
-                "desc": "NSW regional and interstate passenger train services are set to be suspended for a week due to industrial action, with the rail network operator warning major disruptions to freight services will also affect supply chains.",
-                "image": "https://live-production.wcms.abc-cdn.net.au/49be19d3e8f67cbba3bee44b0d4873eb?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=13&width=862&height=485&imformat=generic",
-                "url": "https://www.abc.net.au/news/2026-11-25/train-disruptions-nsw-strike-planned/107425948",
-                "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-                "date": "2026-11-25T07:47:53Z",
-                "priority": "STANDARD"
             }
         ],
         "technology": [
+            {
+                "title": "The Klingon Bird-of-Prey’s design was inspired by antique radios and body builders.",
+                "desc": "According to Oscar-winning visual effects supervisor Bill George who helped design the Klingon Bird-of-Prey for Star Trek III while working in Industrial Light & Magic’s model shop, the ship’s forward swept wings were inspired by a sketch of a body builder in a flexing pose, while the mechanism that allowed the wings to raise and lower was copied from a variable capacitor tuner inside a decades-old radio.\n[Media: https://www.youtube.com/watch?v=j2DLXle8naI]",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ilmbird.jpg?quality=90&strip=all&crop=0%2C10.721472415238%2C100%2C78.557055169524&w=1200",
+                "url": "https://www.theverge.com/tech/1044098/industrial-light-magic-bill-george-star-trek-klingon-bird-of-prey-model-design",
+                "source": "The Verge",
+                "date": "2026-11-27T16:39:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "One week on, here's the impact GTA 6's launch had on the industry so far",
+                "desc": "Data shows record drops in live service audience, largely unchanged Steam figures, and a tempting, dangerous lesson in premium pricing",
+                "image": "https://assetsio.gnwcdn.com/gta-6-logo-outline.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "url": "https://www.gamesindustry.biz/one-week-on-heres-the-impact-gta-6s-launch-had-on-the-industry-so-far",
+                "source": "GamesIndustry.biz",
+                "date": "2026-11-27T16:38:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Edovia's Screens 5.10.6 Turns Folded iPhone Duo Into a Pocket",
+                "desc": "Edovia released Screens 5.10.6 on November 25 for iOS, iPadOS and visionOS, adding a Laptop Mode that splits a half-folded iPhone Duo into a remote…",
+                "image": "https://img.biggo.com/628Se5rt3U_iPAjgC5Pdvsrz-Ye_J0BQdfBQOT1B6Ek/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzdhZTBlZjcwLWJmZDUtNDkzMC05NDIwLWU4YmQ1ZjAxZDllNF8xNzk1Nzk3NTM5X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/7ae0ef70-bfd5-4930-9420-e8bd5f01d9e4",
+                "source": "BigGo Finance",
+                "date": "2026-11-27T16:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "GTA 6 Lands on PlayStation Cloud Streaming as Sony Ties Access to $19.99 Premium Tier",
+                "desc": "Sony's U.S. PlayStation Store now lists Grand Theft Auto VI as playable through cloud streaming on PS5 and the PlayStation Portal, available to…",
+                "image": "https://img.biggo.com/GdxtIBHnNRg4UXqKd0y--IwRSBrBMUQQSP7B8e-tyPg/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzljY2UyMGZiLTEwMjAtNDQ1OC04YWU5LTdkZDg1MTAxNjVlNF8xNzk1Nzk3NTU0X2RlZmF1bHQuanBn.jpg",
+                "url": "https://finance.biggo.com/news/9cce20fb-1020-4458-8ae9-7dd8510165e4",
+                "source": "BigGo Finance",
+                "date": "2026-11-27T16:35:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5 best side missions and where to find them",
+                "desc": "Bigfoot, bizarre strawberry farms and cryptocurrency stunts. GTA 6's strangest side missions are some of its most entertaining. Here's where to find five of the best.",
+                "image": "https://img.redbull.com/images/c_crop,w_3840,h_1920,x_0,y_240/c_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2026/11/27/taxxoict5lmhjbqdzall/starlet-motel-port-gellhorn-gta-6",
+                "url": "https://www.redbull.com/ca-en/gta-6-best-side-missions",
+                "source": "Red Bull",
+                "date": "2026-11-27T16:32:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Yooka-Laylee Developer Issues Statement On Why Definitive Edition Is Skipping Xbox",
+                "desc": "\"...just isn't viable for us at this time\" - Yesterday, we published an article about how Xbox fans were making their voices heard regarding a lack of Defini...",
+                "image": "https://images.purexbox.com/a6c17dd74e759/1280x720.jpg",
+                "url": "https://www.purexbox.com/news/2026/11/yooka-laylee-developer-issues-statement-on-why-definitive-edition-is-skipping-xbox",
+                "source": "Pure Xbox",
+                "date": "2026-11-27T16:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meet the Teen Whose Invention Will Prevent Kids with Autism from Getting Lost-Like He Did",
+                "desc": "GNN has reported on autistic children needing to be rescued from natural areas twice in November alone",
+                "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Ashwin-Chunchu-holding-the-StepSafe-device-credit-supplied-to-GNN.jpg",
+                "url": "https://www.goodnewsnetwork.org/teen-who-got-lost-as-a-child-now-launchers-gps-tracker-for-autistic-children-who-wander/",
+                "source": "Good News Network",
+                "date": "2026-11-27T16:30:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dyson’s V9 cordless Motorbar vacuum is powerful, lightweight & on sale for $330 off for Black Friday",
+                "desc": "Dyson's Black Friday sale couldn't be better! Snag an unbelievable $330 off this ultra-powerful V9 Motorbar cordless vacuum while you can.",
+                "image": "https://s.yimg.com/lo/mysterio/api/f91be0d1aa8e652a171b87925f38552a8bcb77ae8f674a482a17992b107ff7f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foregonlive_com_articles_764%2Fee2968c62730a82519b8a719fddefdc5.jpg",
+                "url": "https://shopping.yahoo.com/home-garden/cleaning/articles/dyson-v9-cordless-motorbar-vacuum-162601684.html",
+                "source": "Yahoo",
+                "date": "2026-11-27T16:26:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dyson’s V9 cordless Motorbar vacuum is powerful, lightweight & on sale for $330 off for Black Friday",
+                "desc": "Dyson's Black Friday sale couldn't be better! Snag an unbelievable $330 off this ultra-powerful V9 Motorbar cordless vacuum while you can.",
+                "image": "https://s.yimg.com/lo/mysterio/api/b82945ce171aa85ebd3f6d6be686b417b820bc31d001d27d2c8e7186495672fb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsilive_com_articles_573%2Feefc0f3b2937c4e4c5975dd41be9cbde.jpg",
+                "url": "https://shopping.yahoo.com/home-garden/cleaning/articles/dyson-v9-cordless-motorbar-vacuum-162601766.html",
+                "source": "Yahoo",
+                "date": "2026-11-27T16:26:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More",
+                "desc": "We found the best Black Friday Apple deals so you can save on the brand’s best gadgets, plus essential accessories too.",
+                "image": "https://media.wired.com/photos/6ac507aafaca1c452d82d6a4/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Apple%20AirPods%20Max%202%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+                "url": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/",
+                "source": "WIRED",
+                "date": "2026-11-27T16:24:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "MRI assessment of masseter muscle volume in temporomandibular joint anterior disc displacement",
                 "desc": "This study aimed to evaluate volumetric differences in the masseter muscle in individuals with anterior disc displacement of the temporomandibular joint (TMJ), with and without reduction, using magnetic resonance imaging (MRI). This retrospective cross-sectional study included MRI records of 279 individuals aged 18–69 years (median age: 24 years; Q1–Q3: 19–40 years). Participants were classified into three disc-status categories: normal disc position, anterior disc displacement with reduction (DDwR), and anterior disc displacement without reduction (DDwoR). Bilateral TMJs and their corresponding masseter muscles were evaluated, yielding 558 side-specific TMJ–masseter observations. Masseter muscle volumes were measured on coronal T2-weighted MRI images in the closed-mouth position using semi-automated segmentation with ITK-SNAP software by a blinded observer. Intraobserver and interobserver reliability were assessed using intraclass correlation coefficients (ICCs). Statistical analyses included the Shapiro–Wilk and Kruskal–Wallis tests, Mann–Whitney U tests with Bonferroni correction, and a linear mixed-effects model accounting for within-patient correlation between bilateral measurements. TMJ disc status was significantly associated with ipsilateral masseter muscle volume in the linear mixed-effects model after adjustment for age, sex, side, and within-patient correlation (F(2, 292.244) = 52.818, p < 0.001). Compared with TMJs showing disc displacement without reduction, masseter muscle volume was higher in TMJs with normal disc position (β = 2.018 cm3, 95% CI 1.628–2.409) and with disc displacement with reduction (β = 0.696 cm3, 95% CI 0.310–1.081). Exploratory sex-stratified analyses suggested differences in the patterns of association, while strong positive correlations between right and left masseter muscle volumes were observed across the examined subgroups. MRI-defined anterior disc displacement of the TMJ, particularly without reduction, was associated with lower masseter muscle volume. These findings demonstrate an association rather than a causal relationship and should be interpreted considering the retrospective design and unavailable functional or parafunctional clinical information.",
@@ -1174,99 +1264,99 @@
                 "source": "Nature",
                 "date": "2026-11-25T14:57:36Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "GTA VI’s $3.79 billion debut has Zuckerberg joking and Musk laughing, but Take-Two investors still want more",
-                "desc": "Rockstar's first new Grand Theft Auto in 13 years set an entertainment sales record, yet Take-Two shares slipped as Wall Street looks to what comes next.",
-                "image": "https://s.yimg.com/lo/mysterio/api/c7998aa42344f55ac301a49cb2c1a7bd01e488352fd0d398a542cc4ae83b2604/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Ff805877065a3268d47662db35f1294cc.jpg",
-                "url": "https://finance.yahoo.com/media-advertising/articles/gta-vi-3-79-billion-080100849.html",
-                "source": "Yahoo Finance",
-                "date": "2026-11-25T08:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GTA VI's $3.79 billion debut has Zuckerberg and Musk joking, but Take-Two investors still want more",
-                "desc": "Rockstar's first new Grand Theft Auto in 13 years set an entertainment sales record, yet Take-Two shares slipped as Wall Street looks to what comes next.",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2305170333-e1795555649323.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/11/25/gta6-gtavi-video-games-take-two-interactive-investors-mark-zuckerberg-elon-musk-meta-priscilla-chan/",
-                "source": "Fortune",
-                "date": "2026-11-25T08:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CD Projekt RED sees no material fourth-quarter hit from GTA VI",
-                "desc": "Poland's biggest video game developer CD Projekt RED does not expect the launch of \"Grand Theft Auto VI\" to ​affect it in any material way in the fourth ‌quarter, CEO Michal Nowakowski said on Tuesday.",
-                "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/technology/cd-projekt-red-sees-no-material-fourth-quarter-hit-gta-vi-2026-11-25/",
-                "source": "Reuters",
-                "date": "2026-11-25T07:43:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CD Projekt RED sees no material fourth-quarter hit from GTA VI",
-                "desc": "Nov 25 : Poland's biggest video game developer CD Projekt RED does not expect the launch of \"Grand Theft Auto VI\" to affect it in any material way in the fourth quarter, CEO Michal Nowakowski said on Tuesday.The highly anticipated GTA VI launched on November 19 and shattered records with $3.8 billion in firs",
-                "image": "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y",
-                "url": "https://www.channelnewsasia.com/business/cd-projekt-red-sees-no-material-fourth-quarter-hit-gta-vi-6581031",
-                "source": "CNA",
-                "date": "2026-11-25T07:42:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Xbox Glitch Unlocks GTA VI Frame Rates Beyond 30 FPS",
-                "desc": "An Xbox Quick Resume glitch allows GTA VI to exceed its 30 FPS cap, reaching up to 60 FPS in less demanding areas.",
-                "image": "https://cdn.demokratis.co.id/media/images/2026/11/loUUY2lPf6.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
-                "url": "https://demokratis.co.id/en/xbox-gta-six-frame-rate-unlock",
-                "source": "Demokratis.co.id",
-                "date": "2026-11-25T07:41:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Claude artifacts become desktop apps: What full access lets them do",
-                "desc": "Claude can now turn artifacts into real desktop apps for Mac and Windows. The beta is rolling out on every plan, including Free. Apps can ask to send notifications or, with full access, run programs and delete files, and Anthropic doesn't review them first. Here is what the permission levels mean and how to revoke them.",
-                "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/claude-desktop-apps-pexels-30623336.jpg",
-                "url": "https://www.notebookcheck.net/Claude-artifacts-become-desktop-apps-What-full-access-lets-them-do.1459673.0.html",
-                "source": "Notebookcheck",
-                "date": "2026-11-25T07:28:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "THE NAME BEHIND CINEMA'S MOST ICONIC MOVIES, ARRI, IS NOW ON HONOR MAGIC9 PRO MAX",
-                "desc": "What do some of Hollywood's biggest blockbusters, Oscar-winning films and celebrated productions at the Cannes Film Festival have in common? Beyond the famous faces and extraordinary storytelling, many share a connection to ARRI, a name one may never have heard of, but whose work one has almost certainly seen.",
-                "image": "https://s.yimg.com/lo/mysterio/api/d7be8fdcc7a9d65948be036ea64c9372cb365023c6f937d0247b9faea70d5acf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2Fd583019d0136b7643cd7b196aba7a70a.jpg",
-                "url": "https://finance.yahoo.com/media-advertising/articles/name-behind-cinemas-most-iconic-071300577.html",
-                "source": "Yahoo Finance",
-                "date": "2026-11-25T07:13:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Crimson Desert Developers Reveal In-Game Continent Pywel Is 200 Kilometres Big",
-                "desc": "It's huge.",
-                "image": "https://sm.ign.com/t/ign_in/screenshot/default/crimson-desert-cover_4cjh.1200.jpg",
-                "url": "https://in.ign.com/crimson-desert-1/277796/crimson-desert-developers-reveal-in-game-continent-pywel-is-200-kilometres-big",
-                "source": "IGN India",
-                "date": "2026-11-25T07:09:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nintendo Expands Mario Kart World With Eight Courses and New Features",
-                "desc": "Nintendo's Mario Kart World update 1.9.0 adds eight course variants, two Knockout Tour rallies, automatic replays, spectator upgrades, and gameplay fixes.",
-                "image": "https://cdn.cwibc.co.id/media/images/2026/11/IS7b4uSyA1.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
-                "url": "https://cwibc.co.id/en/mario-kart-world-update-1-9",
-                "source": "cwibc.co.id",
-                "date": "2026-11-25T07:06:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Free Copper Pushes 'Monster Player' to 670 Grams — BigGo Finance",
-                "desc": "Sony will release three new Walkman models in Japan on the 27th. The top-end NW-WM1ZM3 is expected to sell for ¥655,000 (approximately $4,100)…",
-                "image": "https://img.biggo.com/wPz4Jp4zkZ0pZFeXungCuhihbZu6qUD-xDlhmYFfu3g/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2Y0YTliODYxLWYwNzItNGZlOS1hNzI3LTIzMTZkNmI2MmFhMV8xNzk1NTkwNTQxX2RlZmF1bHQud2VicA.jpg",
-                "url": "https://finance.biggo.com/news/f4a9b861-f072-4fe9-a727-2316d6b62aa1",
-                "source": "BigGo Finance",
-                "date": "2026-11-25T07:05:00Z",
-                "priority": "STANDARD"
             }
         ],
         "world": [
+            {
+                "title": "How the UK’s net migration figure hit its target after years of government promises",
+                "desc": "The latest figures are down to the tens of thousands.",
+                "image": "https://images.theconversation.com/files/774757/original/file-20261127-62-sj1qzs.jpg?ixlib=rb-4.1.1&rect=0%2C576%2C4592%2C2296&q=45&auto=format&w=1356&h=668&fit=crop",
+                "url": "https://theconversation.com/how-the-uks-net-migration-figure-hit-its-target-after-years-of-government-promises-297787",
+                "source": "The Conversation",
+                "date": "2026-11-27T16:38:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Scot extradited from Dubai charged with organised crime offences",
+                "desc": "Alan Thomson, who was arrested in Dubai, is accused of running a drugs operation in Glasgow and Greater Manchester.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/303e/live/b69166f0-ea7d-11f1-ad70-ab41382bb405.jpg",
+                "url": "https://www.bbc.com/news/articles/c6n902n41q2do",
+                "source": "BBC",
+                "date": "2026-11-27T16:34:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Strong industry engagement marks successful Propak Cape in Cape Town",
+                "desc": "A successful three-day Propak Cape brought together local and international suppliers, industry professionals and buyers across the packaging, processing, plastics, printing and labelling sectors.",
+                "image": "https://biz-file.com/c/2611/829140-1200x624.jpg?5",
+                "url": "https://www.bizcommunity.com/article/strong-industry-engagement-marks-successful-propak-cape-in-cape-town-962074a",
+                "source": "Bizcommunity",
+                "date": "2026-11-27T16:33:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Married Chelmsford prison tutor had X",
+                "desc": "After she was caught, Oksana Antanaitiene told her bosses she loved the prisoner, a court hears.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d023/live/878ce910-ea78-11f1-9888-1b7e4a7a7390.png",
+                "url": "https://www.bbc.com/news/articles/crgqxn7103qyo",
+                "source": "BBC",
+                "date": "2026-11-27T16:33:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "75 Checkmate reappears in Russian media",
+                "desc": "Russia has again teased the Su-75 Checkmate, but five years after its debut, the export-focused fighter has yet to fly.",
+                "image": "https://aerospaceglobalnews.com/wp-content/uploads/2025/11/Sukhoi-Su-75.jpg",
+                "url": "https://aerospaceglobalnews.com/news/russia-su-75-checkmate-development-update/",
+                "source": "Aerospace Global News",
+                "date": "2026-11-27T16:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bulgaria holding EU's 22nd Russia sanctions package hostage in bid to extract concessions",
+                "desc": "Bulgaria's push to have the EU allow Russian iron imports to resume comes as Moscow does everything in its power to limit a competitor closer to home from being able to help — Ukraine.",
+                "image": "https://assets.kyivindependent.com/content/images/2026/11/GettyImages-2299722522_20261127-160949.jpg",
+                "url": "https://kyivindependent.com/bulgaria-holding-eus-22nd-russia-sanctions-package-hostage-in-bid-to-extract-concessions/",
+                "source": "The Kyiv Independent",
+                "date": "2026-11-27T16:28:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "MDC2026: CJID honours West African journalists at Excellence in Journalism Awards",
+                "desc": "The Centre for Journalism Innovation and Development (CJID) celebrated outstanding public-interest investigations across West Africa.",
+                "image": "https://i0.wp.com/dubawa.org/wp-content/uploads/2026/11/image-54.png",
+                "url": "https://dubawa.org/mdc2026-cjid-honours-west-african-journalists-at-excellence-in-journalism-awards/",
+                "source": "Dubawa",
+                "date": "2026-11-27T16:26:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "After a genocide ruling, Rohingya refugees in Jammu are still teaching their own children",
+                "desc": "Days after the International Court of Justice found that Myanmar committed genocide against the Rohingya, Rohingya refugees in India remain shut out of many government schools. In Jammu, educated young Rohingya are running free learning centres for children turned away from classrooms, teaching them to read and write and keeping their history and identity alive – even as eviction drives threaten the settlements where they live.",
+                "image": "https://www.fairplanet.org/u/2026/11/img-20250515-163054.1795795758.jpg?w=1200&h=630&s=d8debc2a750c9b1d",
+                "url": "https://www.fairplanet.org/story/after-a-genocide-ruling-rohingya-refugees-in-jammu-are-still-teaching-their-own-children/",
+                "source": "FairPlanet",
+                "date": "2026-11-27T16:26:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mélenchon calls for 'overhaul' of France-Germany ties",
+                "desc": "While on a trip to Berlin, radical left-wing presidential candidate Jean-Luc Mélenchon spoke of the 'need for a thorough overhaul of the French-German relationship,' denouncing current German economic and military policy.",
+                "image": "https://img.lemde.fr/2026/11/25/0/0/4639/3092/1440/960/60/0/1bb2e29_ftp-1-ctfxd4zjujb2-5650127-01-06.jpg",
+                "url": "https://www.lemonde.fr/en/international/article/2026/11/27/french-leftist-leader-melenchon-calls-for-overhaul-of-france-germany-ties_6789994_4.html",
+                "source": "Le Monde.fr",
+                "date": "2026-11-27T16:22:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Brazil pushes back on Macron calling its meat 'doped'",
+                "desc": "Macron while meeting representatives of farming unions, celebrated EU restrictions on imports of Brazilian meat and poultry which took effect in September.",
+                "image": "https://cdn.radioafrica.digital/image/2026/11/4250a07b-98dc-47fc-bb05-c24dbbda99a5.webp?1795804763005",
+                "url": "https://www.the-star.co.ke/news/world/2026-11-27-brazil-pushes-back-on-macron-calling-its-meat-doped",
+                "source": "The Star, Kenya",
+                "date": "2026-11-27T16:21:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "China-Africa Team Trains on Multi-Hazard Early Warning",
                 "desc": "The African Union and China held a five-day AI and GIS training workshop in Addis Ababa to strengthen disaster risk management.",
@@ -1806,98 +1896,8 @@
                 "source": "The Guardian",
                 "date": "2026-11-25T14:58:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Comparing femicide in Romania and Italy",
-                "desc": "Within a few months, Romania and Italy defined femicide in legal terms, albeit with two opposing approaches. The problem they share is the definition, which determines what is prosecuted, what is counted and what is left out",
-                "image": "https://www.balcanicaucaso.org/wp-content/uploads/sites/8/2026/11/shutterstock_2465349275.jpg",
-                "url": "https://www.balcanicaucaso.org/en/cp_article/comparing-femicide-in-romania-and-italy/",
-                "source": "Osservatorio Balcani Caucaso Transeuropa",
-                "date": "2026-11-25T08:11:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore man, 70, jailed for sexually assaulting 11-year-old grandniece during family dinner at restaurant",
-                "desc": "SINGAPORE, Nov 25 — An elderly man has been jailed for sexually assaulting his grandniece when having dinner at a restaurant.The girl, who was 11 at the time of the incident, had...",
-                "image": "https://www.malaymail.com/malaymail/uploads/images/2026/11/25/376290.webp",
-                "url": "https://www.malaymail.com/news/singapore/2026/11/25/singapore-man-70-jailed-for-sexually-assaulting-11-year-old-grandniece-during-family-dinner-at-restaurant/244729",
-                "source": "Malay Mail",
-                "date": "2026-11-25T08:10:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises",
-                "desc": "Iran's first vice president said Tehran was not concerned about a US ​naval blockade as there had been a significant ‌increase in cargo through other borders, and that the government was seeking to rein in price rises.",
-                "image": "https://www.reuters.com/resizer/v2/ZL4FN5PASNIFNNHGYRD5B7HS4Y.jpg?auth=569422db9692f739784640c02d9fc7d8bcb62630de27611c998df074b67eaaa2&height=1005&width=1920&quality=80&smart=true",
-                "url": "https://www.reuters.com/world/middle-east/iran-says-it-is-prepared-withstand-us-blockade-seeks-curb-price-rises-2026-11-25/",
-                "source": "Reuters",
-                "date": "2026-11-25T08:09:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lasar’s Group Destroys 14 Russian Tanks in a Single Operation in the Zaporizhzhia Region",
-                "desc": "Soldiers from the National Guard unit Lasar’s Group struck and destroyed more than 20 pieces of Russian military equipment using drones during a single",
-                "image": "https://militarnyi.com/wp-content/uploads/2026/11/tank-v-ob-yektyvi-ukr-drona-1.jpg",
-                "url": "https://militarnyi.com/en/news/lasar-s-group-destroys-14-russian-tanks-in-a-single-operation-in-the-zaporizhzhia-region/",
-                "source": "Мілітарний",
-                "date": "2026-11-25T08:08:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises",
-                "desc": "DUBAI, Nov 25 (Reuters) - Iran's first vice president said on Wednesday Tehran was not concerned about a US naval blockade as there had been a significant increase in cargo through other borders, and that the government was seeking to rein in price rises.Tehran is facing one of its worst inflation surges in decades, driven by the nearly nine-month-old Iran war, with a particularly sharp rise in food prices.",
-                "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-25T080829Z_2_LYNXNPEMAO0K5_RTROPTP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG?h=ae1281eb&itok=3da933UN",
-                "url": "https://www.al-monitor.com/originals/2026/11/iran-says-it-prepared-withstand-us-blockade-seeks-curb-price-rises",
-                "source": "Al-Monitor",
-                "date": "2026-11-25T08:08:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Advocates Press Australia to Halt Major Coal Project",
-                "desc": "The expansion of Hunter Valley Operations would extract and burn 430 million tonnes of coal.",
-                "image": "https://impakter.com/wp-content/uploads/2026/11/2511_1.jpg",
-                "url": "https://impakter.com/advocates-press-australia-to-halt-major-coal-project/",
-                "source": "Impakter",
-                "date": "2026-11-25T08:04:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zimbabwe preacher Uebert Angel appears in court in handcuffs over assault allegations",
-                "desc": "The prosecution is opposing bail, arguing that Angel poses a flight risk because of his international connections, financial means and possession of two passports. Prosecutors have also raised concerns about possible interference with witnesses.",
-                "image": "https://images.euronews.com/articles/stories/10/00/73/13/1024x538_cmsv2_1e7e89e3-ee28-5cea-945e-f0136398e0f0-10007313.jpg",
-                "url": "https://www.africanews.com/2026/11/25/zimbabwe-preacher-uebert-angel-appears-in-court-in-handcuffs-over-assault-allegations/",
-                "source": "Africanews",
-                "date": "2026-11-25T08:02:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "WATCH: President Rinkēvičs talks tech at UN",
-                "desc": "Latvian President Edgars Rinkēvičs gave a speech at the United Nations on November 24th during a debate titled \"Conflict Resolution in an Era of Rapid Technological Change\".",
-                "image": "https://static.lsm.lv/media/2026/11/large/1/up9o.jpg",
-                "url": "https://eng.lsm.lv/article/politics/president/25.11.2026-watch-president-rinkevics-talks-tech-at-un.a673354/",
-                "source": "LSM",
-                "date": "2026-11-25T08:02:28Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Singapore upgrades St John’s Island research facility to lead Southeast Asia’s first marine research station network",
-                "desc": "The National University of Singapore’s St John’s Island National Marine Laboratory, on St John’s Island south of the mainland, has been renamed the National Marine Research Station (NMRS) as its remit expands. It will lead Southeast Asia’s first marine research station network, coordinating marine environmental research by more than 10 institutions from countries including Singapore, Indonesia, Malaysia, the Philippines and Thailand to anticipate global climate change and inform policymaking.",
-                "image": "https://cassette.sphdigital.com.sg/image/zaobao/29186c3245f4438b07a6c7053e1e36d60def5666730bfd13856a1ef605ecc5d2",
-                "url": "https://www.zaobao.com.sg/en/news/singapore/singapore-upgrades-st-johns-island-research-facility-lead-southeast-asias-first-marine-research",
-                "source": "联合早报",
-                "date": "2026-11-25T08:01:21Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Global Higher Education Enrollments ‘to Peak by 2036’",
-                "desc": "Africa’s growing youth population is unlikely to offset the demographic dip that will empty classrooms, says new report. “Peak global higher education” is only a decade away, as youth populations will drop sharply in most countries starting in 2036, says a new report.",
-                "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-07/GettyImages-666985952.jpg?itok=fekIDTsF",
-                "url": "https://www.insidehighered.com/news/global/2026/11/25/global-higher-education-enrollments-peak-2036",
-                "source": "Inside Higher Ed",
-                "date": "2026-11-25T08:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-11-27T22:58:56.673477Z"
+    "lastGlobalSync": "2026-11-28T04:41:11.504582Z"
 }
